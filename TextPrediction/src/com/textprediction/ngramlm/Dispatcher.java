@@ -56,4 +56,4 @@ public class Dispatcher {
 			DBOutputFormat.setOutput(job2, "LanguageModel", new String[] {"starter", "follower", "probability"});
 			System.exit(job2.waitForCompletion(true) ? 0 : 1);
 	}
-}
+} 
