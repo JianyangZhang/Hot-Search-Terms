@@ -1,0 +1,594 @@
+Analytics	for	Managerial	Decision Making
+Budgeting	and	Decision	Making Larry	M.	Walther;	Christopher	J.	Skousen
+
+Download	free	books	at
+
+Larry M. Walther
+
+Analytics for Managerial Decision Making
+Budgeting and Decision Making
+
+2
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making: Budgeting and Decision Making 1st edition © 2010 Larry M. Walther, under nonexclusive license to Christopher J. Skousen & bookboon.com. All material in this publication is copyrighted, and the exclusive property of Larry M. Walther or his licensors (all rights reserved). ISBN 978-87-7681-577-6
+
+3
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making
+
+Contents
+
+Contents
+	 Part 4 A  nalytics for Managerial Decision Making	 7 8 8 9 10 11 11 13 14 14 15 16 17 17 19
+
+1	 Cost Characteristics and Decision-Making Ramifications 	 1.1	 1.2	 1.3	 2	 2.1	 2.2	 2.3	 2.4	 2.5	 2.6	 2.7	 2.8	 2.9	 Sunk Costs VS. Relevant Costs	 A Basic Illustration of Relevant Cost/Benefit Analysis 	 Complicating Factors 	 Business Decision Logic 	 Outsourcing 	 Outsourcing Illustration 	 Capacity Considerations in Outsourcing 	 Illustration of Capacity Considerations 	 Qualitative Issues in Outsourcing 	 Special Orders 	 Capacity Constraints and the Impact on Special Order Pricing 	 Discontinuing a Product, Department, or Project	 The 80/20 Concept 	
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Analytics for Managerial Decision Making
+
+Contents
+
+3	 3.1	 3.2	
+
+Capital Expenditure Decisions 	 Management Stewardship 	 Logic Justification of Capital Decisions 	
+
+21 22 22 23 23 25 25 26 27 28 28 28 29
+
+4	 Compound Interest and Present Value 	 4.1	 4.2	 4.3	 4.4	 4.5	 4.6	 4.7	 4.8	 4.9	 Compound Interest 	 Future Value of Annuities 	 Future Value of an Annuity Due 	 Future Value of an Ordinary Annuity	 Present Value 	 Present Value of an Annuity Due 	 Present Value of an Ordinary Annuity 	 Electronic Spreadsheet Functions 	 Challenge Your Thinking 	
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Analytics for Managerial Decision Making
+
+Contents
+
+5	 5.1	 5.2	 5.3	 5.4	 5.5	 5.6	 5.7	
+
+Evaluation of Long-Term Projects 	 Net Present Value 	 Impact of Changes in Interest Rates 	 Emphasis on After Tax Cash Flows 	 Accounting Rate of Return 	 Internal Rate of Return 	 Payback Method 	 Conclusion 	
+
+30 30 31 32 33 34 35 35 36
+
+	Appendix	
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+6
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Analytics for Managerial Decision Making
+
+Analytics for Managerial Decision Making
+
+Part 4	 Analytics for Managerial Decision Making
+Your goals for this “managerial analytics” chapter are to learn about: •	 Cost characteristics and the impact on decisions. •	 A general framework for making rational business decisions. •	 Capital expenditure decisions. •	 Compound interest and present value. •	 Tools for evaluating capital projects.
+
+7
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making
+
+Cost Characteristics and Decision-Making Ramifications
+
+1	 Cost Characteristics and Decision-Making Ramifications
+As a student, you can probably think of many things you wish you could do over. You may have taken an exam and regretted some stupid mistake. You knew the material but fumbled in your execution. Or, maybe you did not really know the material; your judgment about how much to study left you doomed from the start! Business people will experience similar feelings. Perhaps inventory was shipped using costly overnight express when less expensive ground shipping would have worked as well. Perhaps parking lot lights were unnecessarily left on during daylight hours. Hundreds of examples can be cited, and management must be diligent to control against these types of business execution errors. Earlier chapters discussed numerous methods for monitoring and controlling against waste. Remember, each dollar wasted comes right off the bottom line. For a public company that is valued based on a multiple of reported income, a dollar wasted can translate into many times that in lost market value. On a broader scale, business plans and decisions might be faulty from the outset. There is really no excuse for stepping into a business plan when it has little or no chance for success. This is akin to going into a tough exam without preparing. Regret is perhaps the only lasting outcome. The overall theme of this chapter is to impart knowledge about sound principles and methods that can be employed to make sound business decisions. These techniques won’t eliminate execution errors, but they will help you avoid many of the judgment errors that are all too common among failing businesses.
+
+1.1	
+
+Sunk Costs VS. Relevant Costs
+
+One of the first things to understand about sound business judgment is that a distinction must be made between sunk costs and relevant costs. There is an old adage that cautions against throwing good money after bad. This has to do with the concept of a sunk cost, and it is an appropriate warning. A sunk cost relates to the historical amount that has already been expended on a project or object. For example, you may have purchased an expensive shirt that was hopelessly shrunk in the dryer. Would you now attempt to buy a matching pair of pants because you had invested so much in the shirt? Obviously not. The amount you previously spent on the shirt is no longer relevant to your decision; it is a sunk cost and should not influence your future actions. In business decision making, sunk costs should be ignored. Instead, the focus should be on relevant costs. Relevant items are those where future costs and revenues are expected to differ for the alternative decisions under consideration. The objective will be to identify the decision yielding the best incremental outcome as it relates to relevant costs/benefits.
+
+8
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making
+
+Cost Characteristics and Decision-Making Ramifications
+
+1.2	
+
+A Basic Illustration of Relevant Cost/Benefit Analysis
+
+During a recent ice storm, Dillaway Company’s delivery truck was involved in a traffic accident. The truck originally cost $60,000, and was 40% depreciated. An insurance company has provided Dillaway $30,000 for the damages that were incurred. Dillaway took the truck to a local dealer who offered two options: (a) repair the truck for $24,000, or (b) buy the truck “as is, where is” for $10,000. Dillaway has found an undamaged, but otherwise identical, used truck for sale on the internet for $32,000 what decision is in order? The truck’s original cost of $60,000 is sunk, and irrelevant to the decision process. The degree to which it is depreciated is equally irrelevant. The financial statement “gain” that would be reported on a sale is irrelevant. The $30,000 received from the insurance company is the same whether the truck is sold or repaired; because it does not vary among the two alternatives it is irrelevant (i.e., it is not necessary to factor it into the decision process). All that matters is to note that the truck can be repaired for $24,000, or the truck can be sold for $10,000 and a similar one purchased for $32,000. in the former case, Dillaway is up and running for $24,000; in the later, Dillaway is up and running for $22,000 ($32,000–$10,000). it seems clear that the better option is to sell the damaged truck and buy the one for sale on the internet. The logic implied by the preceding discussion is to focus on incremental items that differ between the alternatives. The same conclusion can be reached by a more comprehensive analysis of all costs and benefits. The following portrays one such analysis. This analysis also supports sale and replacement because the income and cash flow impacts are $2,000 better than with the repair option:
+ANALYSIS FOR SALE OF TRUCK
+Cost of damaged truck Accumulated depreciation on damaged truck Net book value of damaged truck Less: Insurance recovery Resulting reduced basis Sales price of damaged truck Less: Reduced basis (from above) Gain on sale of truck Future depreciation (purchase price/new truck) Lifetime income effect: Gain on sale of truck Future depreciation Net impact on income Cash flow impacts: Insurance recovery Sales price of damaged truck Purchase price of truck Net impact on cash $ 60,000 24,000 $ 36,000 30,000 $ 6,000 $ 10,000 6,000 $ 4,000 $ 32,000 4,000 (32,000) $ (28,000) $ 30,000 10,000 (32,000) $ 8,000 $
+
+ANALYSIS FOR REPAIR OF TRUCK
+Cost of damaged truck Accumulated depreciation on damaged truck Net book value of damaged truck Less: Insurance recovery Resulting reduced basis Plus: Money to repair truck Resulting basis $ 60,000 24,000 $ 36,000 30,000 $ 6,000 24,000 $ 30,000
+
+Future depreciation (resulting basis) Lifetime income effect: Gain on sale of truck Future depreciation Net impact on income Cash flow impacts: Insurance recovery Repair costs Net impact on cash
+
+$ 30,000 (30,000) $ (30,000) $ 30,000 (24,000) $ 6,000 $
+
+9
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making
+
+Cost Characteristics and Decision-Making Ramifications
+
+Your head is likely swimming in information based on this comprehensive analysis. Although it is more descriptive of the entirety of the two alternatives, it is unnecessarily confusing. Bears repeating that decision making should be driven only by relevant costs/benefits – those that differ among the alternatives! To toss in the extraneous data may help describe the situation, but it is of no benefit in attempting to guide decisions. In one sense, Dillaway was lucky. The insurance proceeds were more than enough to put Dillaway back in operation. Many times, a favorable outcome cannot be identified. Each potential decision leads to a negative result. Nevertheless, decisions must be made. As a result, proper incremental analysis often centers on choosing the option of least incremental harm or loss.
+
+1.3	
+
+Complicating Factors
+
+Relevant costs/benefits are rarely so obvious as illustrated for Dillaway. Suppose the local truck dealer offered Dillaway a third option: A $27,000 trade-in allowance toward a new truck costing $80,000. The incremental cost of this option is $53,000 ($80,000–$27,000). This is obviously more costly than either of the other two options. But, Dillaway would have a brand new truck. As a result, Dillaway must now begin to consider other qualitative factors beyond those evident in the incremental cost analysis. This is often the case in business decision making. Rarely are two (or more) options under consideration driven only by quantifiable mathematics. Managers must be mindful of the impacts of decisions on production capacity, customers, employees, and other qualitative factors. Therefore, as you develop your awareness of the analytical techniques presented throughout this chapter, please keep in mind that they are based on concrete textbook illustrations and logic. However, your ultimate success in business will depend upon adapting these sound conceptual approaches in a business world that is filled with uncertain and abstract problems. Do not assume that analytical methods can be used to solve all business problems, but do not abandon them in favor of wild guess work!
+
+10
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making
+
+Business Decision Logic
+
+2	 Business Decision Logic
+
+It is virtually impossible to develop a listing of every type of business decision you will confront. Classic examples include whether to outsource or not, when to accept special orders, and whether to discontinue a product or project. Although each of these examples will be considered in more detail, what is most important is for you to develop a general frame of reference for business decision making. In general, that approach requires identification of decision alternatives, logging relevant costs/benefits of each choice, evaluating qualitative issues, and selecting the most desirable option based on judgmental balancing of quantitative and qualitative factors. As you reflect on this process, recognize that it begins with judgment (what are the alternatives?) and ends with judgment (which alternative presents the best blend of quantitative and qualitative factors). Analytics support decision making, but they do not supplant judgment.
+
+2.1	Outsourcing
+Companies must frequently choose between using outside vendors/suppliers or producing a good or service internally. Outsourcing occurs across many functional areas. For instance, some companies outsource data processing, tech support, payroll services, and similar operational aspects of running a business. Manufacturing companies also may find it advantageous to outsource certain aspects of production (frequently termed the “make or buy” decision). Further, some companies (e.g., certain high profile sporting apparel companies) have broad product lines, but actually produce no tangible goods. They instead focus on branding/marketing and outsource all of the actual manufacturing. Outsourcing has been around for decades, but it has received increased media/political attention with the increase in global trade. Tax, regulation, and cost factors can vary considerably from one global region to another. As a result, companies must constantly assess the opportunities for improved results via outsourcing.
+
+11
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making
+
+Business Decision Logic
+
+The outsourcing decision process should include an analysis of all relevant costs and benefits. Items that differ between the “make” alternative and the “buy” alternative should be studied. As usual, avoid the temptation to consider sunk costs as part of the decision analysis. Generally, one would compare the variable production/manufacturing cost of a service/product with the purchase price of the service/ product. Unless the outsourcing option results in a complete elimination of a factory or facilities, the fixed overhead is apt to continue whether the service/product is purchased or produced. As a result, unavoidable fixed overhead does not vary between the alternatives and can be disregarded. On the other hand, if some fixed factory overhead can be avoided by outsourcing, it should be taken into consideration as a relevant item.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+12
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Analytics for Managerial Decision Making
+
+Business Decision Logic
+
+2.2	
+
+Outsourcing Illustration
+
+Pilot Corporation produces software for handheld global positioning systems. The software provides a robust tool for navigational support and mapping. It is used by airline pilots, mariners, and others. Because these applications are often of critical importance, Pilot maintains a tech support department that is available around the clock to answer questions that are received via e-mail, phone, and IM. The annual budget for the tech support department is shown below. Direct labor to staff the tech support department consists of three persons always available during each 8-hour shift, at an hourly rate of $12 per hour (3 persons per shift × 8 hours per shift × 3 shifts per day × 365 days per year × $12 per hour = $315,360). The utilities and maintenance are fixed, but would be avoided if the unit were shut down. The building is leased under a long-term contract, and the rent is unavoidable. Phone and computer equipment is leased under a flat rate contract, but the agreement is cancelable without penalty. The annual depreciation charge on furniture and fixtures reflects a cost allocation of expenditures made in prior years.
+Direct labor Utilities and maintenance Building rent Phone/computer leasing Annual depreciation of furniture and fixtures $ 315,360 40,000 120,000 60,000 100,000 $ 635,360
+
+Pilot has been approached by Chandra Corporation, a leading provider of independent tech support services. Chandra has offered to provide a turn-key tech support solution at the rate of $12 per support event. Pilot estimates that it generates about 50,000 support events per year. Chandra’s proposal to Pilot notes that the total expected cost of $600,000 (50,000 events × $12 per event) is less than the amount currently budgeted for tech support. However, a correct analysis for Pilot focuses only on the relevant items (following). Even if Chandra is engaged to provide the support services, building rent will continue to be incurred (it is not relevant to the decision). The cost of furniture and fixtures is a sunk cost (it is not relevant to the decision). The total cost of relevant items is much less than the $600,000 indicated by Chandra’s proposal. Therefore, the quantitative analysis suggests that Pilot should continue to provide its own tech support in the near future. After all, why spend $600,000 to avoid $415,360 of cost? Once the building lease matures, the furniture and fixtures are in need of replacement, or if tech support volume drops off, Chandra’s proposal might be worthy of reconsideration.
+Direct labor Utilities and maintenance Building rent Phone/computer leasing Annual depreciation of furniture and fixtures $ 315,360 40,000 120,000 60,000 100,000 $ 415,360
+
+13
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making
+
+Business Decision Logic
+
+2.3	
+
+Capacity Considerations in Outsourcing
+
+Outsourcing analysis is made more complicated if a business is operating at capacity. If outsourcing will free up capacity to be used on other services or products, then the contribution margin associated with the additional services or products also becomes a relevant item in the decision process. In other words, if a company continues to manufacture a product in lieu of outsourcing, it foregoes the chance to produce the alternative product. The loss of this opportunity has a cost that must be considered in the final decision. Accountants (and economists and others) may use the term “opportunity cost” to describe the cost of foregone opportunities. It is appropriate to factor opportunity costs into any outsourcing analysis.
+
+2.4	
+
+Illustration of Capacity Considerations
+
+Mueller Building Systems manufactures customized steel components that are sold in kits for the do-ityourself rancher. The kits include all of the parts necessary to easily construct metal barns of various shapes and sizes. Mueller’s products are very popular and its USA manufacturing plants have been running at full capacity. In an effort to free up capacity, Mueller contracted with Zhang Manufacturing of China to produce all roof truss components to be included in the final kits. The capacity that was released by the outsourcing decision enabled a 10% increase in the total number of kits that were produced and sold. Mueller’s accounting department prepared the following analysis that was used as a basis for negotiating the contract with Zhang:
+Direct labor to produce trusses Direct material to produce trusses Variable factory overhead to produce trusses Avoidable fixed factory overhead to produce trusses * costs to produce trusses Relevant Contribution margin associated with 10% increase in kit production Maximum amount to spend (including transportation) for purchased trusses $ 3,800,000 4,000,000 2,000,000 1,000,000 $ 10,800,000 3,000,000 $ 13,800,000
+
+Notice that the analysis reveals that Mueller will reduce costs by only $10,800,000 via outsourcing, but can easily spend more than this on purchasing the same units. This results because the freed capacity will be used to produce additional contribution margin that would otherwise be foregone. One must be very careful to fully capture the true cost of outsourcing. Oftentimes, the costs of placing and tracking orders, freight, customs fees, commissions, or other costs can be overlooked in the analysis. Likewise, if outsourcing results in employee layoffs, expect increases in unemployment taxes, potential acceleration of pension costs, and other costs that should not be ignored in the quantitative analysis. Finally, a situation like that faced by Mueller may indicate the need for additional capital expenditures to increase overall capacity. Capital budgeting decisions are covered later in this chapter.
+
+14
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making
+
+Business Decision Logic
+
+2.5	
+
+Qualitative Issues in Outsourcing
+
+Companies must be very careful to consider qualitative issues in making decisions about outsourcing. Outsourcing places quality control, production scheduling, and similar issues in the hands of a third party. One must continually monitor the supplier’s financial health and ability to continue to deliver quality products on a timely basis. If goods are being moved internationally, goods may be subject to high freight costs, customs fees, taxes, and other costs. Delays are often associated with the uncertain logistics of moving goods through brokers, large sea ports, and homeland security inspections. Hopefully rare, but not to be ignored are risks associated with relying on suppliers in politically unstable environments; significant disruptions are not without precedent. Language barriers can be problematic. Although global trade is increasingly reliant on English, there are still many miscues brought about by a failure to have full and complete communication. Additionally, some global outsourcing can be met with customer resistance. Examples include frustrations with call centers and tech support lines where language barriers become apparent, and customer protest/rejection because of perceived unfair labor practices in certain global regions. Despite the potential problems, there are decided trends suggesting that the most successful businesses learn to utilize logical outsourcing opportunities in both local and global markets.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+15
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Analytics for Managerial Decision Making
+
+Business Decision Logic
+
+2.6	
+
+Special Orders
+
+A business may receive a special order at a price that is significantly different from the normal pricing scheme. The quantitative analysis will focus on the contribution margin associated with the special order. In other words, it must be determined whether the special order sales price exceeds the variable production and selling costs associated with the special order. To illustrate, assume that Lunker Lures Company produces the popular Rippin’ Rogue pictured at right. The “cost” to produce a Rippin’ Rogue is $1.10, consisting of $0.20 direct materials, $0.40 direct labor, and $0.50 factory overhead. The overhead is 30% variable and 70% fixed cost allocation. Lunker Lures are sold to retailers across the country through an established network of manufacturers’ representatives who are paid $0.10 for each lure sold in their respective territories. Lunker Lures has been approached by Walleye Pro Fishing World to produce a special run of 1,000,000 units. These lures would be sold under the Walleye Wiggler brand name and would not otherwise compete with sales of Rippin’ Rogues. Walleye Pro Fishing World’s offer is priced at $1.00 per unit. Lunker Lures is obligated to pay its representatives half of the normal rep fee for such private label transactions. On the surface it appears that Lunker Lures should not accept this order. After all, the offer is priced below the noted cost of production. However, so long as Walleye Wigglers do not compete with sales of Rippin’ Rogues, and Lunker Lures has plenty capacity to produce lures without increasing fixed costs, profit will be enhanced by $200,000 ($0.20 × 1,000,000) by accepting the order. The following analysis focuses on the relevant items in reaching this conclusion:
+
+Selling price per unit Direct material per unit Direct labor per unit Variable factory overhead per unit ($0.50 X 30%) Manufacturing margin Variable selling costs (50% of normal) * Contribution margin
+
+$ 0.20 0.40 0.15
+
+$ 1.00 0.75 $ 0.25 0.05 $ 0.20
+
+Note: Aggregate fixed costs will be the same whether the special order is accepted or not. The per unit allocation of fixed costs is not relevant.
+
+16
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making
+
+Business Decision Logic
+
+2.7	
+
+Capacity Constraints and the Impact on Special Order Pricing
+
+A potential error in special order pricing is acceptance of special orders offering the highest contribution margin per dollar of sales, while ignoring capacity constraints. Notice that the special order for Walleye Wigglers offered a 20% contribution margin ($0.20/$1.00). Suppose Bass Pro Fishing World also placed a special order for a Bass Buzzer lure, and that special order afforded a 30% margin on a $1.00 per unit selling price. At first glance, one would assume that the Bass Pro Fishing World would represent the better choice. But, what if you were also informed that remaining plant capacity would allow production of either 1,000,000 Walleye Wigglers or 600,000 Bass Buzzers? Now, the total contribution margin on the Wiggler is $200,000 (1,000,000 units × $0.20) while the total contribution on the Buzzer is $180,000 (600,000 × 30%). The better choice is to go with the Wiggler, as that option maximizes the total contribution margin. This important distinction gives consideration to the fact that producing a few units (with a high per-unit contribution margin) may be less profitable than producing many units (with a low per-unit contribution margin). Contribution margin analysis should never be divorced from consideration of factors that limit its generation! The goal will be to optimize the total contribution margin, not the per unit contribution margin.
+
+2.8	
+
+Discontinuing a Product, Department, or Project
+
+One of the more difficult decisions management must make is when to abandon a business unit that is performing poorly. Such decisions can have far reaching effects on the company, shareholder perceptions about management, employees, and suppliers. The tools of Enterprise Performance Evaluation chapter provided insight into performance evaluation methods that are helpful in identifying lagging sectors, and the preceding chapter showed how misuse of absorption costing information can invoke a series of successive product discontinuation decisions that bring about a downward business spiral. So, what analytical methods should be employed to support a final decision to pull the plug on a business unit? Management should not merely conclude that any unit generating a net loss is to be eliminated! This is an all too common error made by those who lack sufficient accounting knowledge to look beyond the bottom line. Sometimes, eliminating a unit with a loss can reduce overall performance. Consider that some fixed costs identified with a discontinued unit may continue and must be absorbed by other units. This creates a potential domino effect where each falling unit pushes down the next. Instead, the appropriate analysis is to compare company wide net income “with” and “without” the unit targeted for elimination.
+
+17
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making
+
+Business Decision Logic
+
+Casa de Deportes is a mega sporting goods store occupying 80,000 square feet of space in a rented retail center. Each department is evaluated for profitability based on the following information:
+Fishing Sales Variable expenses Contribution margin Less fixed costs: General/administrative Selling Rent Utilities Depreciation Total fixed costs Net income (loss) $ 6,000,000 3,600,000 $ 2,400,000 $ 600,000 1,200,000 250,000 40,000 50,000 $ 2,140,000 $ 260,000 Hunting $ 8,000,000 4,800,000 $ 3,200,000 800,000 1,600,000 250,000 40,000 35,000 $ 2,725,000 $ 475,000 $ Camping $ 4,000,000 2,400,000 $ 1,600,000 $ 400,000 800,000 250,000 40,000 60,000 $ 1,550,000 $ 50,000 Golf $ 3,000,000 1,800,000 $ 1,200,000 $ 300,000 600,000 250,000 40,000 40,000 $ 1,230,000 $ (30,000) Total $21,000,000 12,600,000 $ 8,400,000 $ 2,100,000 4,200,000 1,000,000 160,000 185,000 $ 7,645,000 $ 755,000
+
+18
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Analytics for Managerial Decision Making
+
+Business Decision Logic
+
+Management is quite concerned about the Golf Department. It has had plenty of time to flourish, but has never turned a profit. Further, no one at Casa de Deportes, including the Golf Department manager, believes this situation is apt to change anytime soon. The accounting department was asked to prepare a report of the overall financial impacts if Golf is discontinued. In preparing the “without golf ” report, it was learned that only 70% of the General and Administrative costs would be eliminated, rent and depreciation would continue to be incurred, and utilities would be reduced by only half. The selling costs would be completely eliminated. The unavoidable costs from the golf department are assumed to be shifted equally to the other departments (although other allocation methods could be used, the overall conclusions would not change). The income report “without golf ” appears as follows:
+Fishing Sales Variable expenses Contribution margin Less fixed costs: General/administrative Selling * Rent Utilities Depreciation Total fixed costs Net income (loss) $ 6,000,000 3,600,000 $ 2,400,000 630,000 1,200,000 333,334 46,666 63,333 $ 2,273,333 $ 126,667 $ Hunting $ 8,000,000 4,800,000 $ 3,200,000 830,000 1,600,000 333,333 46,667 48,333 $ 2,858,333 $ 341,667 $ Camping $ 4,000,000 2,400,000 $ 1,600,000 $ 430,000 800,000 333,333 46,667 73,334 $ 1,683,334 $ (83,334) $ $ $ Golf Total $18,000,000 10,800,000 $ 7,200,000 $ 1,890,000 3,600,000 1,000,000 140,000 185,000 $ 6,815,000 $ 385,000
+
+$ $
+
+Obviously, discontinuing the Golf Department will not help the overall situation. The reallocation of unavoidable costs not only reduces overall profitability, but it also paints the Camping Department in a precarious light. Further, this analysis does not take into account potential sales reductions in other departments that might occur from reductions in overall store traffic (e.g., a “golfing only” customer might nevertheless buy an occasional flashlight from the camping department, etc.). Another factor not included above are the incremental costs from closing a department (e.g., inventory write-offs, increased unemployment compensation costs for laid off workers, etc.). As you can see, the decision to discontinue a product, department, or project is far more complex than it might at first seem.
+
+2.9	
+
+The 80/20 Concept
+
+Many businesses have broad product lines and large customer bases. However, an in-depth evaluation is likely to reveal that a significant portion of its success is centered around a narrow set of products, customers, and services. The remainder of the business activity may be very marginal. For example, a technology-based business may find that some of its lowest-volume customers consume the largest amount of the tech support staff ’s time (due to customer inexperience with the product) while the large volume customers require almost no assistance with the company’s product.
+
+19
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making
+
+Business Decision Logic
+
+It requires a great deal of business discipline to “abandon” a product, customer, or service, but such decisions can actually contribute to business success. Consider the following quote from ITW, a large and successful corporation that embraces the 80/20 concept: “A key element of the Company’s business strategy is its continuous 80/20 business process for both existing businesses and new acquisitions. The basic concept of this 80/20 business process is to focus on what is most important (the 20% of the items which account for 80% of the value) and to spend less time and resources on the less important (the 80% of the items which account for 20% of the value). The Company’s operations use this 80/20 business process to simplify and focus on the key parts of their business, and as a result, reduce complexity that often disguises what is truly important. The Company’s 700 operations utilize the 80/20 process in various aspects of its business. Common applications of the 80/20 business process include: •	 Simplifying manufactured product lines by reducing the number of products offered by combining the features of similar products, outsourcing products or, as a last resort, eliminating products. •	 Simplifying the customer base by focusing on the 80/20 customers and finding different ways to serve the 20/80 customers. •	 Simplifying the supplier base by partnering with key 80/20 suppliers and reducing the number of 20/80 suppliers. •	 Designing business processes and systems around the key 80/20 activities. The result of the application of this 80/20 business process is that the Company improves its operating and financial performance. These 80/20 efforts often result in restructuring projects that reduce costs and improve margins. Corporate management works closely with those business units that have operating results below expectations to help the unit apply this 80/20 business process and improve their results.” Some contend that this approach results in sacrificing long-term opportunities to enhance short-term profitability. For instance, a “small and inexperienced” customer that is abandoned today might eventually grow to be a major player. As a result, the 80/20 philosophy is not always the optimum strategy and good business judgment should always be exercised in the decision-making process.
+
+20
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making
+
+Capital Expenditure Decisions
+
+3	 Capital Expenditure Decisions
+Much of the discussion has focused on decisions relating to near-term operations and activities. But, managers must also ponder occasional big-ticket expenditures that will impact many years to come. Such capital expenditure decisions relate to construction of new facilities, large outlays for vehicles and machinery, embarking upon new product research and development, and similar items where the upfront cost is huge and the payback period will span years to come. Although we will focus on the financial dimensions, it goes without saying that such decisions are made more complex because they usually involve a number of nonfinancial components as well. Thus, the final decision may involve consideration of architectural, engineering, marketing, and numerous other variables.
+
+21
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Analytics for Managerial Decision Making
+
+Capital Expenditure Decisions
+
+These types of decisions involve considerable risk because they usually involve large amounts of money and extended durations of time. In addition, capital expenditure decisions (also called capital budgeting) are usually accompanied by a number of alternatives from which to choose. Sometimes, an option that is best in the near-term may be the least desirable in the long-term, and vice versa. For instance, you are currently investing time and money in your education; probably you could make more money in the near-term by working more hours in a paying job and devoting less time to study – but you know the long-term is better served by investing in your education. The same challenge often faces managers. For example, should a new computer information system be installed? In the near-term the business might appear more profitable by not buying a new system – but the long-run may be better served by making the investment.
+
+3.1	
+
+Management Stewardship
+
+Capital expenditure planning requires managers to effectively evaluate and rank alternatives. This process must be matched/tempered by reasonable assessment of resource limitations and willingness to assume risk. In addition, managers must understand the goals of business owners: What is to be optimized, shortrun or long-run performance goals? How much risk is to be undertaken in pursuit of an opportunity? Managers naturally feel pressure to deliver in the near-term, for fear of not keeping their jobs in the long-term. Be on guard, as this behavioral issue can potentially foster an environment where the best long-run decisions are not always selected!
+
+3.2	
+
+Logic Justification of Capital Decisions
+
+Fortunately, a number of very helpful analytical tools are available to bring logical and rational decisionmaking processes to bear on capital expenditure decisions. The remainder of this chapter will focus on these tools. A good manager is well advised to understand and utilize these tools. They can be most helpful in evaluating capital expenditure decisions. In addition, managers can use these tools to clearly convey justification for making certain decisions, even if they appear to be illogical in the near-term.
+
+22
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making
+
+Compound Interest and Present Valu
+
+4	 Compound Interest and Present Value
+You have heard the expression that “time is money.” In capital budgeting this concept is measured and brought to bear on the decision process. The fundamental idea is that a dollar received today is worth more than a dollar to be received in the future. This result occurs because a dollar in hand can be invested to generate additional returns; such would not be the case with a dollar received in the future. In the context of capital budgeting, assume two alternative investments have the same upfront cost. Investment Alpha returns $100 per year for each of the next five years. Investment Beta returns $50 per year for each of the next 10 years. Based solely on this information, you should conclude that Alpha is preferred to Beta. Although the total cash returns are the same, the time value of money is better for Alpha than Beta. With Alpha, the money is returned sooner, allowing for enhanced reinvestment opportunities. Of course, very few capital expenditure choices are as clear cut as Alpha and Beta. Therefore, accountants rely on precise mathematical techniques to quantify the time value of money.
+
+4.1	
+
+Compound Interest
+
+The starting point for understanding the time value of money is to develop an appreciation for compound interest. “The most powerful force in the universe is compound interest.” The preceding quote is often attributed to Albert Einstein, the same chap who unlocked many of the secrets of nuclear energy. While it is not clear that he actually held compound interest in such high regard, it is clear that understanding the forces of compound interest is a powerful tool. Very simply, money can be invested to earn money. In this context, consider that when you spend a dollar on a soft drink, you are actually foregoing 10¢ per year for the rest of your life (assuming a 10% interest rate). And, as you will soon see, that annual dime of savings builds to much more because of interest that is earned on the interest! This is the almost magical power of compound interest. Compound interest calculations can be used to compute the amount to which an investment will grow in the future. Compound interest is also called future value. If you invest $1 for one year, at 10% interest per year, how much will you have at the end of the year? The answer, of course, is $1.10. This is calculated by multiplying the $1 by 10% ($1 × 10% = $0.10) and adding the $0.10 to the original dollar. And, if the resulting $1.10 is invested for another year at 10%, how much will you have? The answer is $1.21. That is, $1.10 × 110%. This process will continue, year after year.
+
+23
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making
+
+Compound Interest and Present Valu
+
+The annual interest each year is larger than the year before because of “compounding.” Compounding simply means that your investment is growing with accumulated interest, and you are earning interest on previously accrued interest that becomes part of your total investment pool. This formula expresses the basic mathematics of compound interest: (1+i) n Where “i” is the interest rate per period and “n” is the number of periods
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+24
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Analytics for Managerial Decision Making
+
+Compound Interest and Present Valu
+
+So, how much would $1 grow to in 25 years at 10% interest? The answer can be determined by taking 1.10 to the 25th power [(1.10)25], and the answer is $10.83. Future value tables provide predetermined values for a variety of such computations (such a table is found at the FUTURE VALUE OF $1 link on the companion website). To experiment with the future value table, determine how much $1 would grow to in 10 periods at 5% per period. The answer to this question is $1.63, and can be found by reference to the value in the “5% column/10-period row.” If the original investment was $5,000 (instead of $1), the investment would grow to $8,144.45 ($5,000 × 1.62889). In using the tables, be sure to note that the interest rate is the rate per period. The “period” might be years, quarters, months, etc. It all depends on how frequently interest is to be compounded. For instance, a 12% annual interest rate, with monthly compounding for two years, would require you to refer to the 1% column (12% annual rate equates to a monthly rate of 1%) and 24-period row (two years equates to 24 months). If the same investment involved annual compounding, then you would refer to the 12% column and 2-period row. The frequency of compounding makes a difference in the amount accumulated – for the given example, monthly compounding returns 1.26973, while annual compounding returns only 1.25440!
+
+4.2	
+
+Future Value of Annuities
+
+Annuities are level streams of payments. Each payment is the same amount, and occurs at a regular interval. Sometimes, one may be curious to learn how much a recurring stream of payments will grow to after a number of periods.
+
+4.3	
+
+Future Value of an Annuity Due
+
+An annuity due (also known as an annuity in advance) involves a level stream of payments, with the payments being made at the beginning of each time period. For instance, perhaps you plan on saving for retirement by investing $5,000 at the beginning of each year for the next 5 years. If the annual interest rate is 10% per year, how much will you accumulate by the end of the 5-year period? The following graphic shows how each of the five individual payments would grow, and the accumulated total would reach $33,578:
+
+25
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making
+
+Compound Interest and Present Valu
+
+Although the graphic provides a useful explanatory tool, it is a bit cumbersome to implement. The same conclusion can be reached by reference to a FUTURE VALUE OF AN ANNUITY DUE TABLE. Examine the table linked at the website to find the value of 6.71561 (10% column/5-period row). Multiplying the $5,000 annual payment by this factor yields $33,578 ($5,000 × 6.71561). This means that the $25,000 paid in will have grown to $33,578; perhaps Albert Einstein was right!
+
+4.4	
+
+Future Value of an Ordinary Annuity
+
+Sometimes an annuity will be based on “end of period” payments. These annuities are called ordinary annuities (also known as annuities in arrears). The next graphic portrays a 5-year, 10%, ordinary annuity involving level payments of $5,000 each. Notice the similarity to the preceding graphic – except that each year’s payment is shifted to the end of the year. This means each payment will accumulate interest for one less year, and the final payment will accumulate no interest! Be sure to note the striking difference between the accumulated total under an annuity due versus and ordinary annuity ($33,578 vs. $30,526). The moral is to save early and save often (and live long!) to take advantage of the power of compound interest.
+
+As you might have guessed, there are also tables that reflect the FUTURE VALUE OF AN ORDINARY ANNUITY. Review the table found in the appendix to satisfy yourself about the $30,526 amount ($5,000 × 6.10510).
+
+26
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making
+
+Compound Interest and Present Valu
+
+4.5	
+
+Present Value
+
+Future value calculations provide useful tools for financial planning. But, many decisions and accounting measurements will be based on a reciprocal concept known as present value. Present value (also known as discounting) determines the current worth of cash to be received in the future. For instance, how much would you be willing to take today, in lieu of $1 in one year. If the interest rate is 10%, presumably you would accept the sum that would grow to $1 in one year if it were invested at 10%. This happens to be $0.90909. In other words, invest 90.9¢ for a year at 10%, and it will grow to $1 ($0.90909 × 1.1 = $1). Thus, present value calculations are simply the reciprocal of future value calculations: 1/(1+i)n Where “i” is the interest rate per period and “n” is the number of periods The PRESENT VALUE OF $1 TABLE (found in the appendix) reveals predetermined values for calculating the present value of $1, based on alternative assumptions about interest rates and time periods. To illustrate, a $25,000 lump sum amount to be received at the end of 10 years, at 8% annual interest, with semiannual compounding, would have a present value of $11,410 (recall the earlier discussion, and use the 4% column/20-period row – $25,000 × 0.45639).
+
+.
+
+27
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Analytics for Managerial Decision Making
+
+Compound Interest and Present Valu
+
+4.6	
+
+Present Value of an Annuity Due
+
+Present value calculations are also applicable to annuities. Perhaps you are considering buying an investment that returns $5,000 per year for five years, with the first payment to be received immediately. What should you pay for this investment in you have a target rate of return of 10%?
+
+The graphic shows that the annuity has a present value of $20,849. Of course, there is a PRESENT VALUE OF AN ANNUITY DUE TABLE (see the appendix) to ease the burden of this calculation ($5,000 × 4.16897 = $20,849).
+
+4.7	
+
+Present Value of an Ordinary Annuity
+
+Many times, the first payment in an annuity occurs at the end of each period. The PRESENT VALUE OF AN ORDINARY ANNUITY TABLE provides the necessary factor to determine that $5,000 to be received at the end of each year, for a five-year period, is worth only $18,954, assuming a 10% interest rate ($5,000 × 3.79079 = $18,954). The following graphic confirms this conclusion:
+
+4.8	
+
+Electronic Spreadsheet Functions
+
+Be aware that most electronic spreadsheets also include functions for calculating present and future value amounts by simply completing a set of predetermined queries.
+
+28
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making
+
+Compound Interest and Present Valu
+
+4.9	
+
+Challenge Your Thinking
+
+Many scenarios represent a combination of lump sum and annuity cash flow amounts. There are a variety of approaches to calculating the future or present value for such scenarios. Perhaps the safest approach is to diagram the anticipated cash flows and apply logical manipulations. To illustrate, assume that Markum Real Estate is considering buying an office building. The building will be vacant for two years while it is being renovated. Then, it will produce annual rents of $100,000 at the beginning of each of the next three years. The building will be sold in five years for $700,000. Markum desires to know the present value of the anticipated cash inflows, assuming 5% annual interest rate. As you can see below, the rental stream has a present value of $285,941 as of the beginning of Year 3. That value is discounted back to the beginning of Year 1 value ($259,357) by treating it as a lump sum. The sales price is separately discounted to its present value of $548,471. The present value of the rents and sales price are combined to produce the total present value for all cash inflows ($807,828). This type of cash flow manipulation is quite common in calculating present values for many investment decisions.
+
+For the more inspired mind, you will at least find it interesting to note that an alternative way to value the rental stream would be to subtract the value for a two year annuity from the value for a five year annuity (4.54595 – 1.95238 = 2.59357; $100,000 × 2.59357 = $259,357). This result occurs because it assumes a five-year annuity and backs out the amount relating to the first two years, leaving only the last three years in the resulting present value factor. Like all things mathematical, the more you study them, the more power you find buried within!
+
+29
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making
+
+Evaluation of Long-Term Projects
+
+5	 Evaluation of Long-Term Projects
+Now that you have learned some basic principles about how dollars are impacted by compound interest and present value calculations, let’s see how you can use these tools to make better business decisions. There are a number of alternative methods for evaluating capital budgeting decisions. These include net present value, accounting rate of return, internal rate of return, and payback.
+
+5.1	
+
+Net Present Value
+
+The net present value (NPV) method offsets the present value of an investment’s cash inflows against the present value of the cash outflows. Present value amounts are computed using a firm’s assumed cost of capital. The cost of capital is the theoretical cost of capital incurred by a firm. This cost may be determined by reference to interest rates on debt, or a blending of debt/equity costs. In the alternative, management may simply adopt a minimum required threshold rate of return that must be exceeded before an investment will be undertaken. If a prospective investment has a positive net present value (i.e., the present value of cash inflows exceeds the present value of cash outflows), then it clears the minimum cost of capital and is deemed to be a suitable undertaking. On the other hand, if an investment has a negative net present value (i.e., the present value of cash inflows is less than the present value of cash outflows), the investment opportunity should be rejected. To illustrate NPV, let’s return to our illustration for Markum Real Estate. Assume that the firm’s cost of capital is 5%. You already know the present value of the cash inflows is $807,828. Let’s additionally assume that the up-front purchase price for the building is $575,000. $60,000 per year will be spent on the remodel effort at the end of Year 1 and Year 2. Maintenance, insurance, and taxes on the building will amount to $10,000 per year, payable at the end of each of the five years. The present value of the cash outflows is $729,859:
+
+This project has a positive net present value of $77,969 ($807,828–$729,859). This suggests the project’s returns exceed the 5% cost of capital threshold. Had the up-front investment been $675,000 (instead of $575,000), the project would have a negative net present value of $22,031 ($807,828–$829,859).
+
+30
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making
+
+Evaluation of Long-Term Projects
+
+5.2	
+
+Impact of Changes in Interest Rates
+
+Carefully consider the mathematics (or table values), and you will observe that higher interest rates produce lower present value factors, and vice versa. You also know that the logic of making certain investments changes with interest rates. Perhaps you have considered buying a house or car on credit; in considering your decision, the interest rates on the deal likely made a big difference in how you viewed the proposed transaction. Even a casual observer of macro-economic trends knows that government policies about interest rates influence investment activity and consumer behavior. In simple terms, lower rates can stimulate borrowing and investment, and vice versa. To illustrate the impact of shifting interest rates, consider that Greenspan is considering a $500,000 investment that returns $128,000 at the end of each year for five years. The following spreadsheet shows how the net present value shifts from a positive net present value of $39,183 (when interest rates are 6%), to positive $11,067 (when interest rates are 8%), to negative $14,779 (when interest rates rise to 10%). This means that the investment would make sense if the cost of capital was 6%, but not 10%.
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+31
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Analytics for Managerial Decision Making
+
+Evaluation of Long-Term Projects
+
+In the above spreadsheet, formulas were used to determine present value factors. For example, the “balloon” shows the specific formula for cell H17 – (1/(1+i)n) – where “i” is drawn from cell C17 which is set at 8%. Similar formulas are used for other present value factor cells. This simple approach allows rapid recalculation of net present value by simply changing the value in the interest rate cell.
+
+5.3	
+
+Emphasis on After Tax Cash Flows
+
+In computing NPV, notice that the focus is on cash flows, not “income.” Items like depreciation do not impact the cash flows, and are not included in the present value calculations. That is why the illustration for Markum Real Estate did not include deductions for deprecation. However, when applying net present value considerations in practice, one must be well versed in tax effects. Some noncash expenses like deprecation can reduce taxable income, which in turn reduces the amount of cash that must be paid for taxes. Therefore, cash inflows and outflows associated with a particular investment should be carefully analyzed on an after-tax basis. This often entails the preparation of pro forma cash flow statements and consultation with professionals well versed in the details of specific tax rules!
+
+32
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making
+
+Evaluation of Long-Term Projects
+
+As a simple illustration, let’s assume that Mirage Company purchases a tract of land with a prolific spring-fed creek. The land cost is $100,000, and $50,000 is spent to construct a water bottling facility. Net water sales amount to $40,000 per year (for simplicity, assume this amount is collected at the end of each year, and is net of all cash expenses). The bottling plant has a five-year life, and is depreciated by the straight-line method. Land is not depreciated. At the end of five years, it is anticipated that the land will be sold for $100,000. Mirage has an 8% cost of capital, and is subject to a 35% tax rate on profits. The following spreadsheet shows the calculation of annual income and cash flows in blue. The annual cash flow from water sales (not the net income!) is incorporated into the schedule of all cash flows. The annual net cash flows are then multiplied by the appropriate present value factors corresponding to an 8% discount rate. The project has a positive net present value of $35,843. Interestingly, had the annual net income of $19,500 been erroneously substituted for the $29,500 annual cash flow, this analysis would have produced a negative net present value! One cannot underestimate the importance of considering tax effects on the viability of investment alternatives.
+
+5.4	
+
+Accounting Rate of Return
+
+The accounting rate of return is an alternative evaluative tool that focuses on accounting income rather than cash flows. This method divides the average annual increase in income by the amount of initial investment. For Mirage’s project above, the accounting rate of return is 13% ($19,500/$150,000). The accounting rate of return is simple and easy. The decision rule is to accept investments which exceed a particular accounting rate of return. But, the method ignores the time value of money, the duration of cash flows, and terminal returns of invested dollars (e.g., notice that Mirage plans to get the $100,000 back at the end of the project). As a result, by itself, the accounting rate of return can easily misidentify the best investment alternatives. It should be used with extreme care.
+
+33
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making
+
+Evaluation of Long-Term Projects
+
+5.5	
+
+Internal Rate of Return
+
+The internal rate of return (also called the time-adjusted rate of return) is a close cousin to NPV. But, rather than working with a predetermined cost of capital, this method calculates the actual discount rate that equates the present value of a project’s cash inflows with the present value of the cash outflows. In other words, it is the interest rate that would cause the net present value to be zero. IRR is a ranking tool. The IRR would be calculated for each investment opportunity. The decision rule is to accept the projects with the highest internal rates of return, so long as those rates are at least equal to the firm’s cost of capital. This contrasts with NPV, which has a general decision rule of accepting projects with a “positive NPV,” subject to availability of capital. Fundamentally, the mathematical basis of IRR is not much different than NPV. The manual calculation of IRR using present value tables is a true pain. One would repeatedly try rates until they zeroed in on the rate that caused the present value of cash inflows to equal the present value of cash outflows. If the available tables are not sufficiently detailed, some interpolation would be needed. However, spreadsheet routines are much easier. Let’s reconsider the illustration for Greenspan. Below is a spreadsheet, using an interest rate of 8.8361%. Notice that this rate caused the net present value to be zero, and is the IRR. This rate was selected by a higher-lower guessing process (trying each interest rate guess in cell C7). This does not take nearly as many guesses as you might think; with a little logic, you can quickly zero in on the exact correct rate.
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+34
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Analytics for Managerial Decision Making
+
+Evaluation of Long-Term Projects
+
+5.6	
+
+Payback Method
+
+The payback method could be called “investment decision making for dummies.” It is a popular and easy method, and can be valuable when the key investment goal is to find projects where the initial investment is quickly recovered. But, it is not very strong in otherwise pinpointing the best capital investment decisions. Payback is calculated by dividing the initial investment by the annual cash inflow. The earlier illustration for Greenspan has a payback of approximately 3.9 years ($500,000/$128,000 = 3.9). If an investment involves uneven cash flows, the computation requires scheduling cash inflows and outflows. The payback period is the point at which the cumulative net cash inflows begin to exceed the cumulative net cash outflows. The method is deficient in that it does not take into account the time value of money. It also fails to reveal what happens after the payback period. For example, some investments may payback rapidly, but have little residual cash flow after the payback period. Other investments may take years to payback, and then continue to generate future returns for many more years to come. Although the investment with the shorter payback may be viewed as favorable, it could easily turn out to be the worst choice. All in all, be very cautious using the payback method for making business decisions.
+
+5.7	Conclusion
+Capital budgeting decisions are not much different than the whole of managerial accounting. There are many tools at your disposal. You should understand these tools and how to use them. But, in the final analysis, good decision making will be driven by your own reasoned judgment.
+
+35
+Download free eBooks at bookboon.com
+
+Analytics for Managerial Decision Making
+
+Appendix
+
+Appendix
+
+36
+Download free eBooks at bookboon.com
+

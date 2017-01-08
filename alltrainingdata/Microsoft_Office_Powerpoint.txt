@@ -1,0 +1,1273 @@
+Microsoft	Office	Powerpoint
+Torben	Lage	Frandsen
+
+Download	free	books	at
+
+Torben Lage Frandsen
+
+Microsoft Office PowerPoint
+
+2 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint © 2011 Torben Lage Frandsen & Ventus Publishing ApS ISBN 978-87-7681-728-2
+
+3 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Contents
+
+Contents
+	 	 1. 	 1.1 	 1.2 	 1.3 	 1.4 	 1.5 	 1.6 	 1.7 	 1.7.1 	 1.7.2 	 1.7.3 	 1.7.4 	 2. 	 2.1 	 3. 	 3.1 	 Introduction	 New Features in PowerPoint 2007	 The Screen and its Elements	 The Office Button	 Quick Access	 The Ribbon and the Tabs	 Thumbnails	 Note Field	 The Status Bar	 View Buttons	 Normal View	 Slide Sorter	 Slideshow	 Zoom	 Basic Tasks in PowerPoint	 The Best Approach	 Initial Tasks	 Start a new, blank presentation	 7 9 11 11 13 13 13 13 13 14 14 14 14 14 15 15 16 17
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+Contents
+
+3.2 	 3.3 	 3.4 	 3.4.1 	 4. 	 4.1 	 4.1.1 	 4.2 	 4.3 	 4.3.1 	 4.3.2 	 4.3.3 	 4.4 	 4.4.1 	 4.4.2 	 4.5 	 4.6 	 4.7 	 4.8 	 4.9 	 4.10 	 4.11 	
+
+Begin a New Presentation Using a Template	 Customising the Slide Format	 Choosing a Colour Theme	 Customise the Colour Theme	 Putting Content in the Presentation	 Entering Text	 Text Boxes	 Add a Slide	 Slide with Pictures and Text	 Content Objects	 Move, Resize and Rotate Image	 Image Effects	 Excel Charts	 Creating a New Excel Chart	 Insert a Chart from an Excel Workbook	 SmartArt	 Multimedia Clips	 Video Clips	 Tables	 Inserting Other Objects	 Drawings	 Hyperlinks	
+
+19 21 23 25 26 26 27 27 29 30 35 36 38 38 41 44 47 50 53 55 57 58
+
+5 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+Contents
+
+5. 	 5.1 	 5.2 	 5.3 	 5.4 	 5.4.1 	 5.4.2 	 5.5 	 5.5.1 	 6. 	 6.1 	 7. 	 7.1 	 7.1.1 	 7.1.2 	 7.1.3 	 	
+
+Refining the Presentation	 Date, Time and Slide Number	 Order of the Slides	 Transition Effects	 Animations	 Text Animation	 Animating Images and other Objects	 Setting the Slide Show	 Custom Slide shows	 Playing the Slide Show	 Handouts	 A Word about Presentation Skills	 PowerPoint in Practise	 Do not let PowerPoint run the Show	 Not Everyone has Eagle Eyes	 Use the Effects with Care	 Concluding Remarks	
+
+60 60 62 63 64 64 70 72 75 78 79 83 83 83 84 84 85
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+6 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+Introduction
+
+Introduction
+PowerPoint is the program that helps you sell your message. PowerPoint is a presentation program that can create beautiful slideshows with text, images, audio and video, and it is also the program that is used if you have to make transparencies for the overhead projector. PowerPoint is the program in Office 2007 that is easiest to learn. You can instantly create nice-looking material for your sales pitch, your lecture or the screen in your shop window.PowerPoint can do much of the work for you, so you can concentrate on formulating your messages properly. PowerPoint does not make great demands on your computer. Your results will therefore depend more on thinking about how you want to present your message.
+
+What Can You Learn?
+This book is not a point-for-point review of all PowerPoint’s functions. Instead I opted to make it more task-oriented, so you will be able to perform the tasks for which PowerPoint is normally used. Basically, PowerPoint cannot do anything apart from making presentations, so the book will be about how you put up your slides, and how to add text, graphics, charts, pictures and video clips. We will also have a little fun with animations, so the presentations can become more lively To ensure that your message does not drown in colours and effects, you will also receive some good advice on presentation skills along the way. A good presentation does not only depend on making an impressive PowerPoint presentation.
+
+A Small Reader Guide
+If you have not worked with PowerPoint before, I recommend that you read the entire book from one end to another. You can then use it as a reference, since I have tried to arrange the book in a logical manner, so you can quickly find a chapter that deals with a problem similar to the one you must solve. If you already have a lot of experience with PowerPoint, you can probably skip some of the first sections if you want to get to the more advanced features. In this book we will be working on a presentation that we continually put different things into, but that does not mean that you cannot skip some of the exercises if you have already mastered the topic. Each exercise starts with a new slide in the presentation exercise. When I ask you to "click" on something, I mean a click with the left mouse button. A double-click is two quick clicks with the left mouse button. If I want you to click with the right mouse button, I call it a "rightclick".
+
+7 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Introduction
+
+Buttons and menus that you can/need to click are always written with underlined font. This means that when you see underlined text, you should be able to find something similar on the screen that you can click on. Now we are ready to start the program and look at the all the exiting stuff!
+
+8 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+New Features in PowerPoint
+
+New Features in PowerPoint 2007
+Ribbons and Tabs
+Like other applications in the Office package, PowerPoint has gotten a new and smarter look. The first thing that jumps out is that the traditional menu bars and toolbars have been replaced by the new "Ribbon". The Ribbon contains Tabs, and each Tab contains buttons for the functions that previously were found in the menus and toolbars. The Ribbon is far more visual and task-oriented and adapts constantly to the activity you are doing. If you have been accustomed to working with menus and toolbars for many years, the Ribbon requires some getting used to, but after some time you get used to it and even become fond of it. Previously, many features required that you click your way deep into the menus and dialog boxes. In the Ribbon, many settings and features have been pulled out so they are more directly accessible.
+
+Where do I Find the Old Buttons?
+Those who have used PowerPoint for some time and have just switched to version 2007, will probably have some initial problems with finding the functions they normally use. The main reason is that many functions are modified in connection with implementation of the "Ribbon". I list here the main features, so you can quickly get used to the new interface. New, Open, Save and Save As are located in the Office Button. The quick Save function is located in the “Quick Access” toolbar ”next to the Office Button. Cut, Copy, Paste and Paste Special are located far left in the Ribbon. If you click at the bottom of the large Paste button it corresponds to Paste Special. Preview and Print, are located in the Office Button as sub-items to the Print menu item. I recommend that you put them in the "Quick Access" toolbar, so they are easier to reach. Slide Master does not exist anymore. Instead, you can choose the colour and layout themes and customise them infinitely.
+
+Keyboard Shortcuts
+Keyboard shortcuts are combinations of keystrokes on the keyboard that provide access to most of the features that you would otherwise choose with the mouse. If you are fond of using keyboard shortcuts instead of the mouse, you should know that they work a bit differently in all of Office 2007 compared to previous versions.
+
+9 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+New Features in PowerPoint
+
+PowerPoint is probably not the program where you are most inclined to use shortcut keys, but I recommend using them anyway. Instead of using the mouse constantly, you can often activate many different functions much faster by using shortcut keys. I highly recommend that you practice the shortcuts to the functions you use most, especially if you are using the 10-finger system. Firstly, you can work much faster, and secondly, you reduce the risk of getting a "mouse-arm" because you can sit in a good relaxed posture with both hands resting on the keyboard. By simply pressing the ALT key on your keyboard small squares with numbers or letters appear above the Office Button, the Quick Access Toolbar and each Tab in the Ribbon. The numbers and letters that appear to correspond to the key you must press to select the function. Here you no longer need to press the ALT key at the same time. For example, if you press "N" the Insert Tab appears, and the features in this Tab will be automatically marked with shortcuts. Again, you just type what is in the small squares, without pressing the ALT key. Some shortcuts contain more characters to be typed on the keyboard. These include the Shapes feature under the Insert Tab. It uses the shortcut "SH". In that case you just type S and H.
+
+Figure 1: Viewing shortcuts.
+
+This arrangement makes sense when you use the 10-finger system. Once you have incorporated the new shortcuts you can work even more comfortably with shortcut keys, because you do not have to twist your hands to reach the CTRL or ALT key plus one more key anymore. Thankfully, the old shortcuts also seem to still work, so if you have stubborn habits regarding some functions, like cut, copy and paste, you can also still use the shortcuts you have always used. I have not had any difficulties myself.
+
+10 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+The screen and its Elements
+
+1. The Screen and its Elements
+When you start up PowerPoint, the program is ready with a new blank presentation. The presentation contains a single empty "slide". In PowerPoint, we do not work with "pages" as in Word, but with "slides". In practice it is the same, however.
+
+Figure 2: The screen elements.
+
+1.1 The Office Button
+The big round Office Button is located in the upper left corner of the screen. It corresponds largely to the "File" menu in earlier versions.
+
+Figure 3: The Office Button
+
+If you click the Office Button, a menu pops up. This is the menu you must enter when you create a new blank presentation, or when you create a presentation based on one of the many templates. This is also the menu you must enter when you want to save or print.
+
+11 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+The screen and its Elements
+
+Figure 4: This menu opens when the Office Button is clicked on. It is also via the Office Button, you will find the way to PowerPoint Options, where you can change a wide range of basic options for how the program should function. However, if you are not experienced with PowerPoint, you should stay away from the settings so far.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+12 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+The screen and its Elements
+
+1.2 Quick Access
+Just to the right of the Office Button is the small discrete toolbar "Quick Access", where with a single click you can, save, undo, etc "Quick Access" can be customised so that you can choose the features that suit you best. You do this by right-clicking over one of the buttons and choosing Customize Quick Access Toolbar. Alternatively you can click the small arrow to the right of the toolbar, which enables you to quickly and easily select functions.
+
+Figure 5 The ”Quick Access toolbar".
+
+1.3 The Ribbon and the Tabs
+The Ribbon contains buttons for all the different functions that you have access to in PowerPoint. The Ribbon is divided into a series of Tabs that group the many buttons, making it easier to navigate. Sometimes some extra Tabs will appear that are only shown when you work with certain elements, such as charts and Tables.
+
+1.4 Thumbnails
+To the left of the slide there is a bar that shows thumbnails of each slide in your presentation. By clicking on a thumbnail you can immediately skip to that slide. You can also change the order of your slides by clicking and holding the left mouse button while dragging the thumbnail up or down relative to the other slides. At the top of the panel there are two Tabs. One chooses thumbnail view, and the other chooses outline view. Outline view displays a list of headlines from each slide. Here you can also move the slide up and down in the presentation.
+
+1.5 Note Field
+Below the slide, there is a note field where you can attach comments and explanations to each slide. The notes are not displayed when you show your presentation or print transparencies. Instead, you can print out pages with thumbnails of each slide where the notes also appear. It might be an advantage if you need cues or explanatory notes during a presentation, or if you choose to print handouts for your audience.
+
+1.6 The Status Bar
+The status bar at the bottom left shows current information about which slide you are working on, which colour theme you have chosen, and which language the spell checker is set to.
+
+13 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+The screen and its Elements
+
+1.7 View Buttons
+The view buttons can change the way the presentation will be shown. The different views are good for their respective purposes.
+
+Figure 6: View buttons.
+
+1.7.1 Normal View The Normal button switches to normal view. It is the view you want when you are working with individual slides and their content. 1.7.2 Slide Sorter Slide Sorter shows all your slides as thumbnails. It is thus easy to move them around if you want to reorder. You usually use Slide Sorter when you are about to complete your presentation. 1.7.3 Slideshow In Slideshow, you start the playback of your presentation from the current slide. It does not start from the beginning of the presentation. To view the presentation from the beginning, you can select the View Tab in the Ribbon and click the Slideshow button. The presentation will be shown in “full screen mode”. To forward your slides you can click with the mouse. To exit the slideshow, press the ESC key top left on the keyboard. 1.7.4 Zoom To the right of the display keys there is a zoom bar. It zooms in and out of your slides and can be used both in Normal View and in Slide Sorter. I do not use the zoom bar myself. I think it is easier to hold down the CTRL key on the keyboard and scroll with the scroll wheel on the mouse. In this way you can also zoom in and out.
+
+14 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Basic Tasks in PowerPoint
+
+2. Basic Tasks in PowerPoint
+This book takes you through a series of exercises that enable you to use the many different options that PowerPoint offers. These exercises will build on a presentation that you develop gradually, so that if you follow the exercises step by step, you will end up with a finished presentation. These exercises can also be done individually. We always start an exercise by inserting a new slide, so you do not have to do all the exercises.
+
+2.1 The Best Approach
+When you need to build a presentation, there are some things that you always have to go through. You probably have an idea of what your presentation should contain, but you need to complete the following steps before your presentation is finished.  Initial Tasks: o Start with a template – empty or with content. o Customise the slide format to screen show or print. o Choose a colour theme and adjust if necessary. Pour the Content into the Presentation: o Type a title on the front page. o Add slides with text, pictures and charts. Polish the Presentation: o Adjust the order of your slides. o Add transitions between slides if you are doing an on-screen show. o Add animations if you are doing an on-screen show. o Test and adjust if necessary.
+
+
+
+
+
+Besides these tasks, you may want to print handouts for your audience and copies for yourself with notes that you can use during your presentation. In this book, we are building a presentation folowing the above recipe, which I have used over many years of working with PowerPoint.
+
+15 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Initial Tasks
+
+3. Initial Tasks
+The initial tasks deal with starting a new presentation, customising the slide format to the way the presentation will be applied, and choosing an appropriate colour theme. These are tasks that it is good to get done right away, because it saves you having to adapt later. Especially the slide format is important to have in place, otherwise you run the risk that the size does not match the content if you change the slide format at a later time. When PowerPoint starts up, the program is already ready with a new, blank presentation that you can begin working in. The presentation is completely empty, completely white and completely boring. There is only one slide, where you can write a title and a subtitle.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+16 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+Initial Tasks
+
+Figure 7: PowerPoint with a new blank presentation.
+
+It is a fine starting point when you want to make a new presentation, but you will also learn how to make use of the many predefined templates.
+
+3.1 Start a new, blank presentation
+You can have as many presentations open as you like, or as your computer's memory allows. In most cases, this means more than you'll ever need. You are not to only have one presentation open at a time. In the following we will see learn to create a new, blank presentation based on a completely blank template. That means a blank presentation similar to that which appears when PowerPoint starts up. Later we shall have a look at the many beautiful templates you can use. First, we need to change the blank slides a little, otherwise PowerPoint just deletes it when you create a new, blank presentation. 1. Click on the text ”Click To Add Title” on the slide that is shown in PowerPoint. Write something like ”My First Front Page”. Now we can make our new empty presentation. 2. Click on the Office Button in the top left corner of the screen. 3. Click on New. (The exercise continues)
+
+17 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Initial Tasks
+
+Now you get to choose which template you want to use. The templates are organised into categories on the left side. The categories are divided into two groups. At the top is the group with pre-installed templates, and beneath that the group "Microsoft Office Online." In order to use the templates in the last group you must have Internet access. There are many templates in this group and they would take up quite some space on your hard drive if they were stored locally on your computer. Using templates from Microsoft Office Online is also completely transparent. If your Internet connection is open, it loads the list automatically and they are ready for immediate use. You do not have to first enter a site and download templates. When later in the book you have to do an exercise, and I ask that you start with a blank presentation, select the category, Blank and Recent, and then the template Blank Presentation.
+
+Figure 8: The window ”New Presentation”.
+
+Let us begin with a new empty document (exercise continued): 4. Ensure that the group Empty and Latest has been chosen and that the template Empty Presentation is selected. 5. You create your presentation by either double-clicking on the template, or by clicking the Create button at the bottom right. You have now created an extra presentation so that you have two presentations open at once.
+
+18 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Initial Tasks
+
+You can switch between them via the Windows taskbar at the bottom, which will now have a button for each presentation.
+
+Figure 9: The Windows taskbar where you can switch between the presentations.
+
+Both presentations are rather dull. They have no colour and they contain nothing exciting. It is such a presentation we will be working with in the book, where we transform it into an exciting and colourful presentation that can sell sand in the Sahara! Before the fun begins, we must try to use one of the many beautiful predefined templates
+
+3.2 Begin a New Presentation Using a Template
+Templates are completely or partially pre-filled presentations that suit various tasks. They are an easy way to quickly create a nice presentation. All you have to do is change the text to include your message, and possibly add or delete individual slides.
+
+19 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+Initial Tasks
+
+I trust that you installed the included templates when you installed the program on your computer. In this exercise I do not use a template from "Microsoft Office Online", but the process is exactly the same. However, it might take a moment to download the template to your computer, depending on how fast your Internet connection is. In this exercise we open a new template that can be used as a photo album. 1. Click on the Office Button in the top right corner of the screen. 2. Click on New. 3. In the left side, select Installed Templates.
+
+Figure 10: Installed Templates.
+
+4. Highlight the template Standard Photo Album. 5. Double-click the template, or click the Create button.
+
+20 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Initial Tasks
+
+This opens a new presentation. Everything is set up and you just need to insert images and text in the various placeholders.
+
+Figure 11: PowerPoint is ready for you to insert your own pictures and text.
+
+Templates are a really smart way to create presentations. If you work with PowerPoint in a business, the company might have created its own templates. Some companies even require that you use these templates as part of its "branding". Ask your IT department whether it is the case with your company. Under Installed templates there is a special template called Introduction to PowerPoint 2007. I recommend that you open and browse it. It contains useful information about the program. Take also a look at the other templates, those that are already installed as well as those that are online. They give a good overview of the many options you have. Now you can close the presentation down. In the following, we will work from a new, blank presentation.
+
+3.3 Customising the Slide Format
+Depending on what your presentation will be used for, you can choose between different slide formats. You can choose plain A4 if you print your presentation on transparencies, or you can choose a format to fit your computer screen, which will also fit a projector connected to a computer.
+
+21 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Initial Tasks
+
+1. Start with a new, blank presentation. This is the presentation we are going to work with from now on. 2. Choose the Design Tab in the Ribbon and click on the Page setup button furthest to the left.
+
+Figure 12: The button Page setup.
+
+22 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+Initial Tasks
+
+This opens a small window where you can change the settings of the slide format.
+
+Figure 13: The Page Setup window
+
+3. We will make a presentation that is shown on the screen. It is called an "on-screen show". Make sure that the settings are as shown in Figure 13 and click OK.
+
+3.4 Choosing a Colour Theme
+If you have started a new blank presentation and set page setup to "on-screen show" in landscape format, you should have something that looks like this:
+
+Figure 14: The new, blank presentation which we must add colours to.
+
+Let us add some colours right now. PowerPoint contains many beautiful colour themes that you can use. A colour theme is a complete collection of settings for background graphics, fonts, font colours, etc., which ensures that everything matches.
+
+23 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Initial Tasks
+
+If later you insert an Excel or SmartArt chart, the colours in these charts also automatically harmonise with the colour theme you have chosen for your presentation. You can always change the colour theme if you regret the one you chose at first. 1. Select the Design Tab in the Ribbon.
+
+Figure 15: The buttons where you can choose the colour theme.
+
+Now you can choose between many different colour themes (Figure 15). When you point to a theme with the mouse, your slides change colours, so you can see how it looks. To the right of the colour themes, there are three small buttons with some arrows on. It is not all colour themes that you can see directly. When you click the arrow pointing downwards, you will find several themes. If you click the bottom button, you will see a complete list of themes. 2. Find and click on the theme I have used (see Figure 16).
+
+Figure 16: Slide with colour theme.
+
+24 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Initial Tasks
+
+3.4.1 Customise the Colour Theme You can adjust the selected colour theme ad infinitum. If you do not think that the fonts are correct, or if you are not so fond of the blue-green title, you can easily change it to something you like better. In the Design Tab in the Ribbon you will find buttons to change colours, fonts, effects and background graphics.
+
+Figure 17: Buttons for adjusting the colour theme.
+
+You can explore the possibilities yourself. In this book's examples we will not modify the chosen colour theme, but you can freely choose whether you want to change some things. .
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+25 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+4. Putting Content in the Presentation
+When the slide format and colours are in place, we can begin to concentrate on content. In the next several exercises, we need to enter text, add slides and insert pictures and charts.
+
+4.1 Entering Text
+If you have followed the exercises until now, you have a presentation with one slide. It is a "title slide" which forms the presentation front. In that slide we now need a title and a subtitle. The boxes for the titles are already there, so all you have to do is click on the boxes and enter the desired text. You can always write the same as I did in Figure 18.
+
+Figure 18: Title slide, where title and subtitle have been entered.
+
+26 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+4.1.1 Text Boxes You can also insert your own text boxes that you can place and format as you like. You do this by selecting the Insert Tab in the Ribbon and clicking the Text Box button. Then draw a rectangle with the mouse where you want the text box.
+
+Figure 19: The Text Box button.
+
+4.2 Add a Slide
+We have added a new slide where we write an outline for the presentation. It is always good to start by telling what the presentation is about. 1. Select the Home Tab in the Ribbon. 2. Click on the bottom half of the New Slide button; a menu will appear. Here you can choose between different kinds of slides, suited for different tasks. Now we need to create a slide with a title and a bulleted list. 3. Click on Title And Content Object to insert a new slide into the presentation. 4. Write “What Should We Do?” as the title of the new slide 5. Click the text "Click here to insert text" in the big box and enter the points you can see in Figure 21. End each line by pressing ENTER on your keyboard.
+
+27 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+Figure 20: The New Slide button with the sub-menu.
+
+As you can see, the whole thing already looks very pretty. You can already take a look at your on-screen show.
+
+Figure 21: Slide with bulletted list.
+
+You can either click the Slide Show button in the lower right corner of the screen, or you can press the F5 key on your keyboard.
+
+28 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+The slide show will appear in "full screen" mode, so you are not able to see the menus or anything else. To get out of the slide show, press the ESC key top left on the keyboard. To switch to the next slide just click once with your mouse, press the spacebar on the keyboard or use the down arrow key, also on the keyboard.
+
+4.3 Slide with Pictures and Text
+You can of course add pictures to your slides and you can position and resize them exactly as you want. You can also add cool effects like frames and reflections. In this exercise we will insert a slide with a picture on one side and some text in the other. 1. Select the Home Tab in the Ribbon and click the bottom half of the New Slide button. 2. Click on Two Content Objects. You now have a slide with a box to type a headline and two fields where you can insert either text or something else. The two fields are called "Content Objects".
+
+.
+
+29 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+Figure 22: The Two Content Objects button
+
+4.3.1 Content Objects Content Objects can be recognised because it says "Click here to add text" at the top. In the middle of them there are six small icons.
+
+Figure 23: The icons in the Content Objects.
+
+When you click to enter text, the text will stand as a bulleted list with the "bullets" to the left of each line of text. It can be changed afterwards if you do not want bullets. The functions of the icons are: Table, where you can insert a table with a number of rows and columns as you choose. Excel Chart, where you get to choose between the many charts offered by the Excel spreadsheet program.
+
+30 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+SmartArt Chart, which is a new feature in Office 2007. SmartArt allows you to quickly create greatlooking process charts, flowcharts, food pyramids and many other things. Image, which allows you to insert an image you already have as a file. Multimedia Clip, which is small drawings and animations that came with the program when it was installed. In older versions of Microsoft Office it was called "Clipart". Media Clip, which is another word for video clip. It is not a requirement that there is a Content Object in the slide before you can insert different things. The Content Objec just makes it a little bit easier. If you want to insert pictures, charts, etc. where there is no Content Object, you can find the various options in the Insert tab in the Ribbon. In our slides we want to insert an image into the left Content Object along with some descriptive text in the one to the right. I have a big photo album on my computer that I can choose a picture from. If you do not have pictures lying around, there are probably a couple of image samples in the folder "Images" which is a subfolder of "My Documents".
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+31 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+Figure 24: A slide with two placeholders.
+
+3. Click on the box with the text “Click to add title” and “Slide with Image”. 4. Click on the image icon in the left Content Object. A window will open where you can select an image file.
+
+Figure 25: Here you can select an image file.
+
+5. Select a file and click the Insert button. Avoid clicking on the little arrow on the right side of the button, we will not be needing it.
+
+32 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+The arrow on the Insert button allows you to insert the picture as a linked object. If you do, the picture will technically not be in the presentation. It will be shown in the presentation, but the picture itself is located somewhere else. You will therefore not be able to view the image if you show your presentation on another computer. The advantage of inserting the image as a linked object is that if the image file changes, the image will also change in the presentation. At the same time the presentation will also take up less space on the hard disk. But in our case it is probably best to paste the image in the usual way, so we can be sure it works. My slide now looks like this:
+
+Figure 26: Slide with inserted image.
+
+6. We must also insert some descriptive text. Type 4-5 lines of text of your choice in the right Content Object by first clicking on the text "Click to add text", then you are ready to write.
+
+33 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+Figure 27: Image and text.
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+34 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+4.3.2 Move, Resize and Rotate Image Maybe you are not completely satisfied with the size or location of the image. You may also like to add a shadow effect or the like to make it more decorative. There are many options with PowerPoint. To move the image around, all you need to do is click on it with the left mouse button and keep the button down while moving the mouse. To resize the image, you can also click on it once with the left mouse button. A small circle will appear in each corner and a small square on each side of the image (see Figure 26). These little circles and squares are called "handles". To resize the image click with the left mouse button on one of the handles and hold the button down while moving the mouse. If you "pull" on the handles at the corners, the image will maintain the relationship between width and height., but if you drag in the squares along the sides you can make the picture wider or narrower. If you hold down the CTRL key on the keyboard while you scale the picture, the size will also change on the opposite side of the picture. Try it. Finally, you can also rotate the picture. You do this by clicking with the left mouse button on the small green circle over the image and holding down the button while moving the mouse. If you hold down the Shift key on your keyboard while you rotate the image, it will be rotated in increments of exactly 15 degrees. This makes it easy to rotate it, for example, exactly 45 degrees. You can do these things with all objects based on Content Objects. This means that you can also do it with text boxes.
+
+35 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+Figure 28: Rotated image and text.
+
+4.3.3 Image Effects You can also add fun and interesting effects to your images so that they become more conspicuous. It is possible to put different frames around or even add three-dimensional effects, so that your slide will get a spacious appearance. Click once on the image with the left mouse button. It provides access to an additional Tab in the Ribbon, called Format. Click on this Tab.
+
+Figure 29: The Format Tab, which is available when you have highlighted an image.
+
+In the left side of the Ribbon, you can adjust image contrast, brightness and colours. Furthest to the right you can adjust the image size completely accurately. You can even experiment with these features. The fun stuff is in the middle of the Ribbon, because that is where we can add all sorts of effects. As you might have noticed, there is a group of buttons which are examples of various effects. There are many more options than those you can see, but you can get the total picture by clicking on the bottom one of the three small buttons just to the right of the examples.
+
+36 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+When you point to an example, your selected image will change, so you can see how the effect will look. You have not chosen the effect until you click on the example. Point to the different options to create effects. I found a nice three-dimensional effect for my swan:
+
+Figure 30: A three-dimensional effect has been added to the image of the swan.
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+37 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+4.4 Excel Charts
+Many people need to include some figures. Instead of showing long data series it is a good idea to illustrate them using charts. You are probably familiar with bar charts and pie charts, and with PowerPoint you can make them look really nice. In PowerPoint 2007, the chart function is far better than in previous versions. Now it is actually the Excel spreadsheet program that controls everything, and it is a clear improvement over the old "MSGraph". You can also put an Excel chart in your presentation, which is stored in an Excel file somewhere else. This means that when the spreadsheet is updated it will also be reflected in your presentation. 4.4.1 Creating a New Excel Chart First we must create an Excel chart inside PowerPoint. Such a graph is saved in the presentation and has no links to other files. 1. Insert a new slide. Select the type Title and Content Object. 2. As title of the slide, you can write “Slides with Excel Chart 1”. 3. In the Content, click on the Insert Chart icon ( )
+
+You can now choose between all the different chart types in Excel. 4. We will keep it simple for this exercise. In the left side, select the Column category 5. In the right side of the window, select the chart type top left. Which is a traditional bar chart.
+
+Figure 31: The window "Insert chart", where you select chart type.
+
+6. Click OK and a nice chart will be inserted in your document.
+
+38 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+Other things are happening as well. The screen is divided in two; the PowerPoint with the chart is in the left half, and in the right half there is a spreadsheet that contains the data that is displayed in the chart. The spreadsheet contains some sample data to help you to insert your own data in the right places.You can see that the chart data is surrounded by a thin blue frame. It shows exactly what data is included in the chart. If you write something in more rows or columns, the frame will adjust by itself. You can also manually resize the frame by clicking on it in the lower right corner, holding the mouse button and dragging it to the size you want. In this way you can get as many series and categories as you want.
+
+Figure 32: The screen is divided in a ”presentation part” and a ”spreadsheet part”.
+
+Here is an example where I have adapted the chart solely by entering data into the spreadsheet. The chart axes and series names change automatically if you change them in the spreadsheet.
+
+39 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+Figure 33: Here the chart has been adjusted by entering new data in the spreadsheet.
+
+To close the spreadsheet, click on the cross at the top right of the screen, then PowerPoint will again fill the entire screen. You can always return to the spreadsheet by clicking on the chart with your right mouse button and choosing Edit Data in the menu that appears.
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+40 Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+After selecting the chart, there are three additional Tabs available in the Ribbon. The Tabs are Design, Layout, and Format. The Design Tab contains functions for basic choices of chart type and colour theme. The Layout Tab contains options for building the chart "skeleton". That is, what titles, axes and explanations you need. The Format Tab has options for colouring of the datasets, text, chart area etc. 4.4.2 Insert a Chart from an Excel Workbook I assume you know how to create a chart in Excel. If you do not know how to, you can skip this exercise, but I would encourage you to read my book on Excel, which is also included in this series. For this exercise I have used a spreadsheet from an exercise in the book on Excel.
+
+Figure 34: A spreadsheet with a chart. Here the chart has been clicked with the right mouse button.
+
+1. 2. 3. 4. 5. 6. 7. 8.
+
+Insert a slide in your presentation and use a Title-Only slide type. In the title field, you can write “Slide with Excel chart 2”. Make sure you have an Excel workbook with a chart. Save the workbook. Open your Excel workbook with the chart. Click on the chart in your spreadsheet with the right mouse button. Choose Copy from the menu that appears. Switch to PowerPoint, click the Home tab. Click on the lower part of the Paste button. A new Paste Special window will open (see Figure 35).
+
+41 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+Figure 35: Menu item Paste Special.
+
+Figure 36: Remember to select Paste Link and Excel Chart Object.
+
+You have various different options when you insert something in the "special" way. First you must choose whether you just want to add something, or if you want to insert a "link". If you insert a link, it requires that you have a source document like we have in this exercise. If the object from the source document is changed, it will also change in your PowerPoint presentation. If you simply choose to deploy without the link, the object that you insert will be embedded in the presentation. It will not change if the source file changes. When you paste a link, please be aware that you break the link if you move or rename the source file. PowerPoint will ask you about the new location if that is the case. You can choose between different types of objects to insert. What you can choose between depends on what type of object you want to paste. In our case it is an Excel chart, and we can choose to paste it as a chart object or as different types of graphics. If you paste the chart as an image, a bitmap (which is also a kind of image) or as a graphic object the update via the link will not work. 9. Choose Paste Link options and Microsoft Office Excel Chart Object, and click OK. The chart is now inserted in your presentation. You cannot see that it is a chart that is linked to an Excel spreadsheet, but if you double-click on it, the spreadsheet is opened. PowerPoint cannot control the colour theme in a linked chart, so the chart has the same colours as in the source file.
+
+42 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+Figure 37: Slide with a linked Excel chart.
+
+AXA Global Graduate Program
+Find out more and apply
+
+43 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+If you save and close your presentation, you will next time it opens be presented with the following security warning:
+
+Figure 38: Here you are asked if you want to update the links.
+
+Since you created both the chart and presentation yourself, there is no security risk to updating the chains. Therefore, you should click Update Chains if you want to ensure that the chart appears with the latest data.
+
+4.5 SmartArt
+PowerPoint 2007, like the other programs in Office 2007, has a new feature called "SmartArt". SmartArt can create professional-looking charts in no time. SmartArt is a really good idea and it works very well even in this first version.
+
+Figure 39: In SmartArt we choose ”Basic Chevron Process”.
+
+Although the diagrams in SmartArt may seem a little "engineer-like" you do not have be an engineer to use them. There are many options to satisfy most needs, but it is incredibly simple to use. If you want to describe a process, an organisation that illustrate the context, or just make a renewed version of a supermarket food pyramid, this is a tool that can be very useful.
+
+44 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+Let us plan a picnic and illustrate the plan with a chart. 1. Insert a new slide in the practice presentation. Use the type Title and Content Object. 2. Type the following: “Slide With SmartArt” in the title field. 3. Click on the SmartArt Icon in the Content Object ( ). A window will open, where you can choose what kind of SmarArt you want. 4. Choose the same type as I did in Figure 39. You must select Process, then Basic Angle Process. Then click OK. Now a SmartArt chart has been inserted in your presentation. The chart has been selected, and you may have noticed that a couple of extra Tabs, called Design and Format have appeared. In these Tabs you can adjust just about everything; colour, font etc. Try experimenting a little.
+
+Figure 40: The SmartArt chart is ready for editing.
+
+If you are feelng lazy and do not want to alter anything, I can tell you that the chart you have put in is also connected to Styles. This means that if you change the document’s Style colours, this will also be reflected in the chart, unless you have added other colours to it. Handy! 1. At this point, the chart tells us nothing about the picnic, so click the first arrow in the chart and write ”Arrival”. Note the text size adjusts automatically, so you can see everything. That is pretty handy as well! 2. We would like to make a bonfire at the picnic, so click on the middle arrow and type "Finding firewood." 3. In the last arrow, write ”Light Bonfire”
+
+45 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+4. Three arrows are not enough to describe a whole picnic in detail, which means we need more arrows. Point at the arrow to the right and click once with the right mouse button and choose Add Figure, then Add Figure After. Now there should be four arrows. 5. Write “Leisure Time” in the last arrow. 6. I forgot that we also need something to eat. Click with the right mouse button on the ”Leisure Time” arrow and choose Add Figure, then Add Figure Before. A new arrow has now been inserted between ”Light Bonfire” and ”Leisure Time”. 7. Write ”Lunch” in the new arrow.
+
+46 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+Now we have an almost complete plan for our picnic. Let us hope somebody wants to come along!
+
+Figure 41: The finished SmartArt chart.
+
+We will talk further about SmartArt here, but try experimenting with the different types of charts and colours.
+
+4.6 Multimedia Clips
+In Office 2007, "Multimedia Clips" is the name of small drawings, animations, photographs and sound clips, which either came with the Office package, or are available online. You can use them f to spice up your presentations free of charge. If you do not have an Internet connection, there is not much to choose from, but if you have an Internet connection, and it is open, you will automatically have access to a huge library. There are many funny, cute and creative multimedia clips to choose from, and you can have a lot of fun with the vast library. 1. Insert a new slide in the presentation. Use the type Title-Only, because we must try inserting something where the slide does not match the Content Object. 2. Name the slide Multimedia Clips. 3. Select the Insert Tab in the ribbon. 4. Click on the Multimedia Clips button.
+
+47 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+Figure 42: The Multimedia Clips button.
+
+A new panel will appear on the right side of the screen. The panel is called "Clip Organizer". Here you can search for different types of graphics.
+
+Figure 43: The Multimedia Panel appears.
+
+On the panel, you can type a keyword such as "car", "New York" or "smiley", then you get a list of what is found. 5. Type a keyword of your choice and click the Search button. If your search does not give any results, try something else. It is a good idea to use somewhat "general" terms. For instance, instead of typing "Porsche" you might try "sports car". 6. Once you have the results, just click on the ones you are interested in to insert them into your slide. You can also refine your search a little. You can, for example, decide that you only want to display animated drawings and photographs.
+
+48 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+7. 8. 9. 10.
+
+Type ”sports car” in the Search box. Click the field Selected Media File Types, then a list will appear. Ensure that only Photographs and Film are selected. Click on the Search button.
+
+Figure 44: Limiting the search.
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+49 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+If you have been as lucky as I was you got three results on the search. 11. Click on each of the displayed results to insert them into the slide. 12. If they are on top of each other, you can try moving them around a bit.
+
+Figure 45: Three sports cars in one slide, no need to be modest!
+
+Above I said the drawings were animated, but you might have noticed that they do not move. You can only see the animation when viewing the presentation as a slide show. The reason they are not animated in normal view is that it requires some effort by the computer and will make the program slow to work in. It is not a big problem when you only have two small animations, but if you have a large presentation with many small animations, you will start noticing the computer slowing down. 13. Click on the View button Slide Show. It is the third button in the lower right corner of the screen. You will then be able to see the animations. 14. Once you have seen enough, press the ESC key on your keyboard to return to normal view. You can scale and rotate the clips just as you can with pictures. But if you make them bigger, you should be aware that they might become a bit grainy.
+
+4.7 Video Clips
+In PowerPoint, video clips is called "media clips". Regardless of what Microsoft calls it, we are talking about video clips.
+
+50 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+This exercise requires that you have a video clip stored on your computer. If not, you can skip this exercise. 1. 2. 3. 4. Insert a new slide in the presentation. Use the slide type Title Only. Type Video Clips as the title of the slide. Select the Insert tab in the Ribbon. Click on the top half of the Movie button.
+
+Figure 46: The Insert Movie button.
+
+A window will open, where you can select the video file you want. If you clicked on the bottom half of the button, you will be able to choose whether you want to paste from a file (like we do now) or whether to use a clip from Clip Organizer. If you selected Clip Organizer, the procedure would be the same as described in "MultiMedia Clips".
+
+Figure 47: Selecting a video file.
+
+5. Click on the video clip you want to insert, then click OK. PowerPoint is kind enough to ask whether the video clip is to be played automatically when you view the slide show, or whether it should only play when clicked.
+
+51 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+Figure 48: How do you want the video clip to play?
+
+6. Click on Automatic. The video clip is now inserted into the slide. It does not play right away, but appears only as an image.It is only when you run the slide show that video clip is playing. Alternatively you can click the Preview button in the Settings tab, which has now become available in the Ribbon. This will enable you to view the video clip without having to switch to slide show view.
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+52 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+Figure 49: Inserted video clip.
+
+If you think the video clip takes up too much or too little space in the slide, you can customise it the same way as with pictures. You should be aware, however, that if a video clip is recorded at a low resolution, it will become grainy if you enlarge it too much. When you insert a video clip in your presentation, it is inserted as a link to the original video file. This means that if you play the presentation on a different computer than the one you have made the presentation on, you must be sure to get the file with the video loaded on the other computer.
+
+4.8 Tables
+Now we are leaving behind the fun with charts, graphics, pictures and videos to work our tables. If you need to show something in a table, do the following: 1. Insert a new slide in the presentation. Use the slide type Title Only. 2. Select the Insert Tab in the Ribbon. 3. Clik on the Table button. A small menu opens, where you can use the squares to (see Figure 12) designate how many rows and columns the table should have. Depending on where you are pointing, PowerPoint will also show in the slide what the table will look like. This can of course be adjusted later.
+
+53 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+Figure 50: Inserting a table.
+
+Once you have found the appropriate size, click it with the left mouse button to insert the table into the slide.
+
+Figure 51: Inserted table.
+
+54 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+When you select the table, two additional Tabs will appear in the Ribbon, namely the Design and Layout Tabs. The Design Tab provides access to selecting and adjusting colours and effects, while the Layout Tab provides access to adding and deleting rows and columns, adjusting the size of the table, changing the direction of the text etc. I suggest that you enter something in the table and experiment with different options for both colours and layout. In Figure 52 you can see an example of how it might look.
+
+Figure 52: Adjusted table.
+
+4.9 Inserting Other Objects
+You are not limited to inserting the different types of objects I have described in this book. Many applications in Windows allow you to insert their objects in your PowerPoint presentation. If, for example, you create technical drawings in AutoCAD, you can insert an AutoCAD drawing into your presentation. This is something you can do in all Microsoft Office applications, but it is particularly useful in PowerPoint. As an alternative to inserting a table, you can insert, for instance, an Excel spreadsheet. The objects you can choose depends on what programs you have installed on your computer. You access them by selecting the Insert tab and clicking the Object button.
+
+55 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+Figure 53: The Object button.
+
+Clicking the button opens a window where you can choose between the objects that are available on your computer.
+
+Figure 54: The "Insert Object" window.
+
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+56 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+In Figure 54 there is an example, where I have chosen to insert a ”Microsoft Equation” object, where you can set up mathematical formulas.
+
+Figure 55: Inserted equation-object.
+
+4.10 Drawings
+You can of course also create drawings in PowerPoint. Like other Office programs PowerPoint comes with a lot of drawing tools that you can use. The drawing tools can be found by clicking on the Insert Tab and then clicking the Shapes button.
+
+57 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+Figure 56: The n Shapes with its menu.
+
+This opens up a menu where you can choose between many different shapes, arrows and line styles. When you click on a shape, you must mark a rectangle on the slide with your mouse to add it. If you select a line or arrow instead, you must mark the line with the mouse last Most shapes have some connection points that appear when you draw a line or arrow near them. If you place the end of a line or an arrow in these points, they will "stick" to the figure even if you move it. When you select a drawing object, there is a Format Tab available in the Ribbon. Here you can change the colour, font, etc. of the selected shapes. You can also enter text in most shapes. Just select the shape and type away!
+
+4.11 Hyperlinks
+When you click with the right mouse button on virtually any object in PowerPoint, you can insert a hyperlink. When you play your slide show, you can then click on the object, whereby you can either jump to a completely different slide, open a document on your computer or open an Internet page.
+
+58 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Putting Content in the Presentation
+
+Figure 57: Insert hyperlink.
+
+You could, for example, be preparing to present your company’s economic status to a large group of employees, and you want to show a chart with some savings, but someone wants to know what is in the budget. You may not have planned to present the budget but it would be nice to be able to pull it up quickly in such an event. If you insert a hyperlink in the table with the savings, pointing to a spreadsheet file where you have the budget, you only need to click the chart to access the budget.
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+59 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+Refining the Presentation
+
+5. Refining the Presentation
+Once you have prepared the slides you want in your presentation, it is time to give it the final touch". You may already think that it looks very good, but PowerPoint offers many more things you can do to make your presentation is perfect. Before you begin refining, it is a good idea to review your presentation as a slide show. It will help you decide whether the order of your slides needs to be changed, whether to insert some transition effects, or if anything needs adapted on the individual slides, such as location and size of pictures and charts. You should adjust the individual slides before you proceed.
+
+5.1 Date, Time and Slide Number
+You can insert the date, time and slide numbers in your presentation. They appear discreetly in the bottom of each slide. It looks nice, and also gives an impression that the presentation is made for the specific occasion. If you print handouts, the information will also be displayed here. 1. Click on the Insert Tab in the Ribbon. 2. Click on the Header And Footer button.
+
+Figure 58: The Header And Footer button.
+
+This open the ”Header and Footer” window.
+
+60 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Refining the Presentation
+
+Figure 59: The “Header and Footer” window.
+
+You may have noticed that there are also some buttons in the Ribbon called Date And Time, and Slide Number. These two buttons do exactly the same as the Header And Footer button. We will insert the current date, which is updated automatically. We will also insert slide numbers and a text that says that it is a practice presentation. 3. Set the settings as shown in Figure 21 and click the Apply To All button.
+
+Figure 60: Slide with Footer.
+
+61 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Refining the Presentation
+
+A discreet footer has now been inserted on all your slides. Had you pressed the Apply button instead of Apply To All, the footer would only have been inserted in the current slide.
+
+5.2 Order of the Slides
+This is what to do if you decide that the order of your slides should be different. In standard view you can change the order by moving the thumbnails on the left side of the screen, but if you have many slides in the presentation the "Slide Sorter" view is easier to work with. 1. Select the View Tab in the Ribbon. 2. Click the Slide Sorter button.
+
+Figure 61: ”Slide Sorter” view.
+
+You now have a complete overview of your slides in the form of thumbnails. To change the order you must do the following: 3. Click on a slide with the left mouse button. To select several slides, hold down CTRL key on the keyboard while clicking on the other slides to be selected. 4. Click on any of the selected slide with the left mouse button and hold the button down. 5. Using the mouse, move the selected slides to the place where you want them. You will see a vertical line between the slides where the selected slides will be inserted. 6. Release the mouse button. That is basically all there is to it.
+
+62 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Refining the Presentation
+
+5.3 Transition Effects
+When your presentation is shown, it is simply slide by slide. You have not made any transition effects yet, so switching between each slide occurs without any effects. There is of course nothing wrong with that, but why not add a nice effect when you switch from one slide to another? It is free! PowerPoint has a variety of transition effects you can use to make the transition between each slide more elegant. However, I advise you to not use too many transition effects during a presentation. Firstly, it distracts from your message, and secondly, it can seem a bit "amateurish". Instead, choose a simple effect that you use throughout your presentation. It ”lifts’ the presentation and makes it appear neat and complete. 1. Ensure that you in the “Slide Sorter” view. You can work with transition effects in the other views, but since you must use only one transition effect in this presentation it is easier to work with this view. 2. Click on one of your slides. 3. Select the Animations Tab in the Ribbon.
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+63 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+Refining the Presentation
+
+In the Animations Tab you can choose transition effects (see Figure 24). There are more effects than are immediately visible. You will find the rest by clicking on the arrows to the right of the buttons.
+
+Figure 62: Here you can choose the transitions to the slide.
+
+In addition to the animation buttons, you can also adjust the speed of the transition, add sound effects, and choose whether the transition should be manual or automatic following a predetermined time interval. Be careful with the sound effects, especially if you are doing a lecture. It distracts from what you are saying. In this exercise the transition is made, by clicking with the mouse. If you are doing a lecture, I strongly recommend this. If there is a question from the audience that takes a bit of time to answer, you will have a hard time catching up with your slide show. In contrast, the timed delivery is needed if your presentation is to be used on an information screen that runs in an infinite loop. 4. Select a transition effect and adjust the speed. 5. Click the Apply To All button. You now have a nice transition between all your slides. Review the slide show by pressing the F5 key on your keyboard. Change by clicking the mouse.
+
+5.4 Animations
+Beyond transition effects you can also add animations inside each slide. You can, for example, have the text in the bulleted list revealed little by little, or you can make an image fly in from the right. As with transition effects, you must also be a little cautious and moderate with your animations. It can easily appear excessive and interfere with the message you want to convey. But well-chosen animations in the right places help reinforce your message and in many cases make it easier to understand. We will do two animation exercises; one text animation and one picture animation. 5.4.1 Text Animation We will animate the text first. The bullets in the second slide in the practice presentation are suitable for this exercise. We will make an animation that makes every line of the bullet list appear one by one.
+
+64 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Refining the Presentation
+
+1. Go to slide number 2 in the practice presentation (Figure 21). The slide is a bulleted list with 5 lines of text. We want the text to be revealed little by little when we play the slide show. 2. If you are not already in the normal slide view, switch to it now. To do this, select the View Tab in the Ribbon, then click the Normal button, far left. 3. Click the text inside the bulleted list, to make a frame appear around it. 4. Click on the Animation Tab in the Ribbon. 5. Click on the drop-down list Animate in the Ribbon (see Figure 63).
+
+Figure 63: The Bulleted list has been marked and the Animate button has been clicked.
+
+When you click on the Animate button, a small menu appears where you can choose between different types of animations. 6. Initially you just point to the individual types of animation, and PowerPoint will show you an example of how it will look. 7. In "Fade Out", click By 1st Level Paragraphs. 8. Test the animation by clicking the Slide show button, which is one of the view buttons at the bottom right of the screen. Clicking this button starts the slide show from the current slide. 9. Click with the left mouse button when you want to advance the animation. 10. when you are finished, press the ESC key on the keyboard.
+
+65 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Refining the Presentation
+
+Figure 64: Here you choose speed and animation.
+
+This is the simplest way to animate text. But there are many more possibilities we also must look at. 11. Make sure to you are in normal view, and make sure that the bullet list is selected. 12. Click the Custom Animation button in the Ribbon in the Animation Tab. This opens a panel on the right side of the screen where you can manage all the different animations that you can paste into your slide.
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+66 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+Refining the Presentation
+
+Figure 65: Viewing the "custom animation" panel.
+
+The panel's top part contains settings for each animation. During the panel you can see a list of all the animations that are embedded within the slide. Right now we only have a single animation – or it looks that way. We have in fact five animations, one after the other. PowerPoint has just chosen to group them since they are naturally linked. To see the complete list, click on the small double arrow during animation list. Then you will see that there are five animations. Click the double arrow again to "collapse" the list again. When the list is collapsed, we can work with all five animations at once and ensure they are animated in the same way. This makes them work as one single animation.
+
+67 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Refining the Presentation
+
+Figure 66: There are five animations when you roll down the list.
+
+In the slide, you can also see that there are five animations since there are some squares with numbers in them next to each line of text. These are the numbers of the animations.
+
+Figure 67: Animation numbers.
+
+In the right panel you can do some different things. You can click on an animation, which enables you to change settings for how it starts and how fast it should be played. You can either choose that the animation is started by a mouse click, or when the previous animation starts, or after the previous animation is completed. The speed can be selected on a five-step scale from "very slow" to "very fast". You can also change the order of the animations. You do this by clicking with the left mouse button on an animation in the list, holding the mouse button down and dragging the animation up or down in the list. If you double-click on an animation, there are additional options you can set. You get access to all the options that are available for the selected animation, which in this case is "Fade Out".
+
+68 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Refining the Presentation
+
+Figure 68: Window with all settings. Note the Tabs.
+
+You can insert animations defining how the text should appear, but also what happens to it after it has appeared, and how it might disappear again. It is done via the Add Effect button at the top of the panel. If you cannot see it, or if it is called Replace instead, it is because you have selected an animation in the list. If so, click on any text in the slide and the button will change to Add Effect.
+
+The stuff you'll need to make a good living
+
+STUDY. PLAY.
+
+The stuff that makes life worth living
+
+NORWAY. YOUR IDEAL STUDY DESTINATION.
+WWW.STUDYINNORWAY.NO FACEBOOK.COM/STUDYINNORWAY
+
+69 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+Refining the Presentation
+
+Figure 69: The button Change.
+
+The Replace button has the same content, but it will replace the animation you have selected in the list with the new one, you choose. Now you have a good idea of how to animate text, but you will not get really good before have experimented with it yourself , so I encourage you to play around with the various options. 5.4.2 Animating Images and other Objects Everything can be animated in PowerPoint. In addition to being able to choose between various text animations, you can also animate images so that they fly in from the right or grow out of the background. You can also make them fly around a track on the screen, which you have drawn yourself. The possibilities are endless, and there is ample opportunity to play around with it. You can use the same animation tools that you used to animate text, but we must also look at a few more tools. We are starting once more with the practice presentation. Let us look at slide number 3, where we inserted a picture and some text. At present this slide has no animations, but we will change that now. 1. Click on the picture to select it. 2. Choose the Animation Tab in the Ribbon, if it has not already been chosen.
+
+70 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Refining the Presentation
+
+Figure 70: This picture needs to be animated. On the list in the panel to the right we can see that there are no animations yet.
+
+3. Click on the Custom Animation button, if ot is not already enabled 4. Click the Add Effect button in the panel on the right side.
+
+Figure 71: The Menu path is long, before you can change movement of the picture.
+
+5. 6. 7. 8.
+
+Point to the Motion Paths menu item until a submenu opens. Point to the menu item Draw Motion Path until another submenu opens. Click the Free Hand menu item. Click with the left mouse button somewhere on the slide and hold the button down while drawing some "doodles" on the slide. Finish by releasing the mouse button. I recommend that you finish in the middle of the image to be animated, as it gives the nicest finish to the animation.
+
+71 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Refining the Presentation
+
+PowerPoint then shows an example of what the animation will look like. You can edit the curve you have drawn by right-clicking it, which will open a menu with various options.
+
+Figure 72: An exaggerated example.
+
+Personally, I think it is fun to make animations in this way. It is fairly easy, and you can create some quite stunning effects, so I encourage you to experiment with it. Animations can be used for more than just flashy effects. I once illustrated flow of production in a factory using PowerPoint. The slide consisted of a floor plan of the factory on which arrows would appear in a sequence that showed which way the products are moved through the factory.
+
+5.5 Setting the Slide Show
+Let us say that your presentation is complete. You have all the slides you want, arranged in the correct order, and you also have the animations you need. Before you are done you should look at the settings for the slide show. There are different things to choose between, and some of them depend on what your presentation is for. It makes a difference whether you want use the show for a lecture, or for a display in a shop window. 1. Choose the Slide show Tab in the Ribbon. 2. Click on the Configure Slide show button.
+
+72 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Refining the Presentation
+
+Figure 73: The Button Set Up Slide Show.
+
+I joined MITAS because I wanted real responsibili� I joined MITAS because I wanted real responsibili�
+
+Maersk.com/Mitas www.discovermitas.com
+
+�e Graduate Programme for Engineers and Geoscientists
+
+� for Engin
+
+M
+
+Real work International Internationa al opportunities �ree wo work or placements
+
+Month 16 I was a construction M supervisor ina cons I was the North Sea supe advising and the N he helping foremen advis s solve problems Real work he helping International Internationa al opportunities �ree wo work or placements s solve p
+Click on the ad to read more
+
+73 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Refining the Presentation
+
+Now the window "Configure Slide show" comes up. Here you can set the basic functions of the show.
+
+Figure 74: The window Configure Slide show .
+
+Only some of the settings are important to know.   You are probably always going to set "Slide Type" to Presented By A Speaker, no matter what the purpose of your presentation is. Under "Show Options" menu, select whether the slide show should run in a loop until you press ESC on your keyboard. You must select that option if your slide show is for a shop window or similar, where it must run automatically. You can also choose pen colour. This is because you can draw arrows and lines with the mouse on your slides during the presentation. The pen colour should have a good contrast with the colour theme you have chosen. Under "Show Slides" you can choose whether you want to display all your slides or only some of them. Under "Advance slides" I recommend that you select Manual, if you have a speaking engagement. If your presentation just needs to run in a loop, select Using timings, if present. Of course it requires that you have chosen that slide transitions and animations occur automatically in each slide. Otherwise the presentation will stop.
+
+
+
+ 
+
+There are also some advanced settings, where you can select the screen resolution and choose to use multiple monitors. When you give a lecture, you often connect a laptop to a projector. The advanced settings allow the projector to display the slide show while you can view slides with notes on the notebook. This is good, because then you have keywords at your fingertips without having to fiddle around with paper notes. 3. Click OK, when you have chosen your settings.
+
+74 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Refining the Presentation
+
+5.5.1 Custom Slide shows Imagine that you are project manager on a major project in a company, and you have to report on the project status to the management, the safety group and the union representatives. Much of what is to be presented will be the same, but there might be some things that only the management should hear. The safety group is only interested in the schedule and the safety aspects, so there is also a difference between what this group and the union representatives need to hear. The usual way to solve this problem is to first make a slide show with all the information and save it as a "leadership presentation". Then you delete the slides that union representatives should not see and save the presentation in a new file as a union presentation. Finally, do the same thing with the presentation to the security group. But you can actually have all three presentations in the same file if you create custom slide shows. 1. Click on the Custom Slide Show button. 2. Click on the menu item Custom Slide Show , which appears.
+
+Figure 75: The Custom Slide Show button.
+
+A window pops up with an (empty) list of your custom presentations. 3. Click on the button New. Another window opens. At the top you can give your custom presentation a name. You then mark the slides in the left pane that you want to import and click the Add >> button to transfer them to the right pane. If you have done all the exercises in this book, your presentation will look like mine. Now let us create a customised presentation that shows only our title slide and the slide where we have inserted pictures and video clips. 4. Set the custom slide show as shown in Figure 38 and name it “Multimedia”.
+
+75 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Refining the Presentation
+
+Figure 76: Settings for Custom Slide show.
+
+You can also change the order in this presentation. You do this by clicking on a slide in the right pane and moving it up or down the list by using the two arrows to the right of the pane. 5. When you are finished, click on OK. 6. Click on New again. In this slide show, we will also show the title slide, but in addition only the "technical" slides with graphs, charts and tables.
+
+Need help with your dissertation?
+Get in-depth feedback & advice from experts in your topic area. Find out what you can do to improve the quality of your dissertation!
+
+Get Help Now
+
+Go to www.helpmyassignment.co.uk for more info
+
+76 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+Refining the Presentation
+
+Name the presentation “Technical” and set the settings as shown.
+
+Figure 77: Setting another custom defined slide show.
+
+7. Click OK. You now have two slide shows on your list. This means you have three slide shows in total. You have your two custom shows, and you also still have the complete slide show. 8. Click Close. To view the complete slide show, choose the Slide Show Tab in the Ribbon and click the button From The Beginning. Alternatively you can just press the F5 key on your keyboard
+
+Figure 78: You have two slide shows.
+
+To view one of the custom slide shows, you also choose the Slideshow Tab in the Ribbon and click the Custom Slideshow button. The corresponding menu item appears. Click it to get back inside the window, as shown in Figure 40 Then choose which show you want to view and click the View button.
+
+77 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Playing the Slide Show
+
+6. Playing the Slide Show
+Now we are up and running! Everything is ready and we can start the show. If you have chosen that everything should just run automatically in an endless loop, you only have to press the ESC key when you do not want to look at it anymore. If not there are some things you must manage when running the presentation. You advance your slides by clicking the left mouse button. But you might need to go back to a previous slide because someone suddenly asks a question about something you went through 10 minutes ago. Here is where the keyboard comes in handy. To advance using the keyboard, use the following keys:      Space bar (handy because it is easy to hit) Down arrow Right arrow PageDown (eller PgDn) ENTER
+
+To get to the previous slides use the following keys:    Up arrow Left arrow PageUp (eller PgUp)
+
+In addition, you can go to the last slide by pressing the END key and the first slide by pressing the HOME key. When you move the mouse, four small discrete icons appear at the bottom left of the screen. Two of them you probably will not need, since their function is only forward and backward.
+
+Figure 79: Discrete icons.
+
+The other two are respectively a "pen" function and a navigation function. By clicking the pen feature you can draw lines and arrows on the slide that is displayed. What you draw is not stored directly in the presentation, but you will be asked if you want to save your "comments" when you leave the slide show. When you click the navigation icon a menu appears, where you can choose to go to any slide. You can also make the screen completely black or white, and you can view the Windows taskbar allowing you to switch to other programs.
+
+78 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Playing the Slide Show
+
+6.1 Handouts
+In addition to printing slides, there are a couple of other possibilities you should know. You can print your slides for different purposes. If you have written notes to each slide, it might be useful to print pages that display a small version of the slide with notes below on each side. In this way you can have your keywords handy. You can also print handouts to your audience, so they have something they can take home. It also gives them the opportunity to write notes on the handouts while you dispense your words wisdom. 1. Click on the Office button in the top right corner. 2. Click on Print.
+
+79 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+Playing the Slide Show
+
+The print window will open, and you can select some different settings:
+
+Figure 80: Print Window.
+
+Most options are self-identifying, but there is one place you need to know, which is specific for PowerPoint. In Print Range you can choose whether you want to print slides, handouts, notes or outline view.
+
+Figure 81: Print Range.
+
+3. Select Handouts and click on the Preview button Depending on the settings, you will probably see a page with thumbnails of the first six slides in your presentation.
+
+80 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Playing the Slide Show
+
+Figure 82: Handout with six slides.
+
+In the Ribbon, you can choose how many slides you want on your handouts. The setup will be similar regardless, except if you choose three slides per page. If you choose three slides per page, PowerPoint will show the three slides under each other with blank lines for writing notes next to them. This is a really good setup, and your audience will appreciate it.
+
+Figure 83: You can choose the number of slides per page on the drop-down list.
+
+81 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Playing the Slide Show
+
+Figure 84: Page setup with three slides and lines for notes.
+
+Brain power
+
+By 2020, wind could provide one-tenth of our planet’s electricity needs. Already today, SKF’s innovative knowhow is crucial to running a large proportion of the world’s wind turbines. Up to 25 % of the generating costs relate to maintenance. These can be reduced dramatically thanks to our systems for on-line condition monitoring and automatic lubrication. We help make it more economical to create cleaner, cheaper energy out of thin air. By sharing our experience, expertise, and creativity, industries can boost performance beyond expectations. Therefore we need the best employees who can meet this challenge!
+
+The Power of Knowledge Engineering
+
+Plug into The Power of Knowledge Engineering. Visit us at www.skf.com/knowledge
+
+82 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Microsoft Office PowerPoint
+
+A Word about Presentation Skills
+
+7. A Word about Presentation Skills
+Now you have learned how to make a nice PowerPoint presentation. But a good presentation is not just about mastering PowerPoint. When you do a presentation, it is usually because you need to convey a message to some recipients. The goal is not simply to make a nice presentation, but to ensure that the recipients understand and perhaps even accept the message. That part PowerPoint cannot help you with. PowerPoint is a tool that you can use to help you present something so it looks nice. If you have given no consideration to presentation skills, you run the risk of failing to achieve all your aims.
+
+7.1 PowerPoint in Practise
+PowerPoint is used in practice for two purposes. One is to display an information screen that simply runs in an infinite loop while presenting some information. It could be in the cafeteria, at work or in a shop window. The second purpose is support in connection with a presentation. It could be project status, talks, teaching, etc. If you are aware of the possible pitfalls when you submit something, you can avoid them. It is not that hard to learn how to make a good presentation, but I have seen many otherwise talented people who have failed to get their message across because they were unaware of some basic pitfalls. 7.1.1 Do not let PowerPoint run the Show Use your PowerPoint as an aid to your presentation. It is you and not the canvas, who are important. I have seen people make slides with lots of text that they have read from almost verbatim. In such a case they might as well have sent the presentation by mail so we could watch it ourselves at our convenience. Use PowerPoint to illustrate and emphasise your message. Keep the use of text to a minimum, and vary the presentation a little by using a blackboard or a flip chart. Walk around a little instead of remaining nailed to the same place all the time. Looking at the big screen for prolonged periods of time tends to make you sleepy. Make sure you are well prepared, so you do not get confused when you are presenting, especially if you are already a bit nervous.
+
+83 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+A Word about Presentation Skills
+
+7.1.2 Not Everyone has Eagle Eyes I have seen text that was too small for me to read. The letters might appear large, when you are standing only a few feet away, but that is not necessarily the case when you are sitting in the back row. One tip is to only use fonts without "feet"; for example the font "Arial". Fonts with feet such as "Times New Roman" are good when you read a book, but can be tiring to read on a canvas or screen It is equally important to ensure that you are using the proper font size. If you have the chance, you can test it by stretching an arm out in front of you. Make a fist and walk back from the screen until the fist covers the screen, then lower the arm. If you can still read the text it is ok. If not, you need to make it larger to ensure that people in the back row can read it as well. You should also be careful with the colours. Make sure there is a good contrast between the text and the background. If you use the built-in colour themes you can be fairly sure that this aspect has been taken care of. 7.1.3 Use the Effects with Care It is tempting to play around with all kinds of animations and flashy transitions. But it can easily become too much. Too many cool effects become ridiculous and draw attention away from what you want to say. Select one transition effect for your slides, and stick with it throughout. Please also note that when something happens on screen, it takes about 5 seconds before you can get the audience's attention again. If you start talking in the middle of an animation, there will be many who are not listening to what you are saying!
+
+84 Download free eBooks at bookboon.com
+
+Microsoft Office PowerPoint
+
+Concluding Remarks
+
+Concluding Remarks
+If you have read this book from beginning to end and completed all the exercises, you are already a proficient user of the program. Although PowerPoint is the simplest program in Microsoft Office 2007, it is packed with features and facilities for many different purposes. I have described most of them in this book, but you can learn more by experimenting with your own presentations. You certainly have a solid foundation from which to move on. Enjoy PowerPoint 2007!
+
+85 Download free eBooks at bookboon.com
+

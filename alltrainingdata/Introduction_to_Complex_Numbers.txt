@@ -1,0 +1,1516 @@
+Introduction	to	Complex Numbers
+YouTube	Workbook Christopher	C.	Tisdell
+
+Download	free	books	at
+
+Christopher C. Tisdell
+
+Introduction to Complex Numbers:
+YouTube Workbook
+
+2
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook 1st edition © 2015 Christopher C. Tisdell & bookboon.com ISBN 978-87-403-1110-5
+
+3
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Contents
+
+Contents
+	 	 	 1	 1.1	 How to use this workbook 	 About the author 	 Acknowledgments 	 What is a complex number? 	 Video 1: Complex numbers are AWESOME 	 8 9 10 11 11 15 15 16 17 19 21
+
+2	 Basic operations involving complex numbers	 2.1	 2.2	 2.3	 2.4	 2.5	 Video 2: How to add/subtract two complex numbers	 Video 3: How to multiply a real number with a complex number	 Video 4: How to multiply complex numbers together	 Video 5: How to divide complex numbers	 Video 6: Complex numbers: Quadratic formula	
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Contents
+
+3	 3.1	 3.2	 3.3	 3.4	 3.5	 3.6	 3.7	 3.8	 4	 4.1	 4.2	 4.3	 4.4	 4.5	 5	 5.1	
+
+What is the complex conjugate?	 Video 7: What is the complex conjugate?	 Video 8: Calculations with the complex conjugate	 Video 9: How to show a number is purely imaginary	 Video 10: How to prove the real part of a complex number is zero	 Video 11: Complex conjuage and linear systems	 Video 12: When are the squares of z and its conjugate equal?	 Video 13: Conjugate of products is product of conjugates	 Video 14: Why complex solutions appear in conjugate pairs	 How big are complex numbers?	 Video 15: How big are complex numbers?	 Video 16: Modulus of a product is the product of moduli	 Video 17: Square roots of complex numbers	 Video 18: Quadratic equations with complex coefcients	 Video 19: Show real part of complex number is zero	 Polar trig form	 Video 20: Polar trig form of complex number	
+
+22 22 25 27 28 29 30 31 32 33 33 35 36 37 38 39 39
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Contents
+
+6	 6.1	 6.2	 6.3	 6.4	 7	 7.1	 7.2	 7.3	 7.4	 7.5	 7.6	 8	 8.1	 8.2	 8.3	
+
+Polar exponential form	 Video 21: Polar exponential form of a complex number	 Revision Video 22: Intro to complex numbers + basic operations	 Revision Video 23: Complex numbers and calculations	 Video 24: Powers of complex numbers via polar forms	 Powers of complex numbers	 Video 25: Powers of complex numbers	 Video 26: What is the power of a complex number?	 Video 27: Roots of comples numbers	 Video 28: Complex numbers solutions to polynomial equations	 Video 29: Complex numbers and tan (π/12)	 Video 30: Euler’s formula: A cool proof	 De Moivre’s formula	 Video 31: De Moivre’s formula: A cool proof	 Video 32: Trig identities from De Moivre’s theorem	 Video 33: Trig identities: De Moivre’s formula	
+
+41 41 43 44 45 46 46 47 48 49 50 51 52 52 53 54
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+6
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Contents
+
+9	 9.1	 9.2	 9.3	 9.4	 10	 10.1	 10.2	 10.3	 10.4	 11	 11.1	 11.2	 11.3	 11.4	
+
+Connecting sin, cos with e	55 Video 34: Trig identities and Euler’s formula	 Video 35: Trig identities from Euler’s formula	 Video 36: How to prove trig identities WITHOUT trig!	 Revision Video 37: Complex numbers + trig identities	 Regions in the complex plane	 Video 38: How to determine regions in the complex plane	 Video 39: Circular sector in the complex plane	 Video 40: Circle in the complex plane	 Video 41: How to sketch regions in the complex plane	 Complex polynomials	 Video 42: How to factor complex polynomials	 Video 43: Factorizing complex polynomials	 Video 44: Factor polynomials into linear parts	 Video 45: Complex linear factors	 55 57 58 59 60 60 63 64 65 66 66 68 69 70 71
+
+	Bibliography	
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+7
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+How to use this workbook
+
+How to use this workbook
+This workbook is designed to be used in conjunction with the author’s free online video tutorials. Inside this workbook each chapter is divided into learning modules (subsections), each having its own dedicated video tutorial. View the online video via the hyperlink located at the top of the page of each learning module, with workbook and paper or tablet at the ready. Or click on the Introduction to Complex Numbers playlist where all the videos for the workbook are located in chronological order: Introduction to Complex Numbers www.youtube.com/playlist?list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP www.tinyurl.com/ComplexNumbersYT. While watching each video, ll in the spaces provided after each example in the workbook and annotate to the associated text. You can also access the above via the author’s YouTube channel Dr Chris Tisdell’s YouTube Channel http://www.youtube.com/DrChrisTisdell There has been an explosion in books that blend text with video since the author’s pioneering work Engineering Mathematics: YouTube Workbook [46]. The current text takes innovation in learning to a new level, with: •	 the video presentations herein streamed live online, giving the classes a live, dynamic and fun feeling; •	 each video featuring closed captions, providing each learner with the ability to watch, read or listen to each video presentation.
+
+8
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+About the author
+
+About the author
+Dr Chris Tisdell is Associate Dean (Education), Faculty of Science at UNSW Australia who has inspired millions of learners through his passion for mathematics and his innovative online approach to maths education. He is best-known for creating YouTube university-level maths videos, which have attracted millions of downloads. This has made his virtual classroom the top-ranked learning and teaching website across Australian universities on the education hub YouTube EDU. His free online etextbook, Engineering Mathematics: YouTube Workbook, is one of the most popular mathematical books of its kind, with more than 1 million downloads in over 200 countries. A champion of free and ﬂexible education, he is driven by a desire to ensure that anyone, anywhere at any time, has equal access to the mathematical skills that are critical for careers in science, engineering and technology. Vision, leadership and management skills underpins his experience in educational change. In 2008 he dared to dream of educational experiences that featured personalized and scalable learning. His early leadership on enabling technologies such as: lecture capture; open educa­ tional resources; MOOCs; learning analytics; and gamiﬁcation, has signiﬁcantly inﬂuenced and positively changed L&T strategies at the institutional level. He is a recognized leader in the online learning space at national and institutional levels, winning education awards and positively transforming learning and teaching. As an Associate Dean (Education) at UNSW Australia he has been responsible for lead­ing, managing and operationalising educational change at-scale, including inspiring positive transformation within 7,000 7,000 science students, 400 academic staﬀ, 300+ courses and scores of programs within UNSW Science. Chris has collaborated with industry and policy-makers, championed educational thought-leadership in the media and constantly draws on the feedback of key stakeholders worldwide to advance learning and teaching.
+
+9
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Acknowledgments
+
+Acknowledgments
+I’m grateful to the following, who admirably transcribed audio to text for each video to create closed captions and helped me proofread drafts of the manuscript. Thank you: Anubhav Ashish; Johann Blanco; Sean Cossins; Jonathan Kim Sing; Madeleine Kyng; Jeﬀry Lay; Harris Phan; Anthony Tran; Koha Tran; Ines Vallely; Velushomaz; Wilson Yuan. I would also like to express my thanks to the Bookboon team for their support.
+
+10
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+What is a complex number?
+
+1	 What is a complex number?
+1.1	
+1.1.1	
+
+Video 1: Complex numbers are AWESOME
+Where are we going?
+
+View this lesson on YouTube [1] •	 We will learn about a new kind of number known as a “complex number”. •	 We will discover the basic properties of complex numbers and investigate some of their mathematical applications. Complex numbers rest on the idea of the “imaginary unit” i, which is dened via
+
+i=
+
+√
+
+−1
+
+with i satisfying the equation
+
+i2 = −1.
+Even though the thought of i may seem crazy, we will see that is a really useful idea.
+
+11
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+What is a complex number?
+
+1.1.2	
+
+Why are complex numbers AWESOME?
+
+There are at least two reasons why complex numbers are AWESOME:1.	 their real-world applications; 2.	 their ability to SIMPLIFY mathematics. For example, i arises in the solutions
+
+x(t) = ei
+
+√
+
+k/m t
+
+and x(t) = e−i
+
+√
+
+k/m t
+
+.
+
+to a basic spring-mass dierential equation
+
+d2 x m 2 + kx = 0 dt
+where: x = x(t) is the position of the mass at time t; m > 0 is the mass; and k > 0 is the stiffness of the spring. Also, i appears in Fourier transform techniques, which are important for solving partial dierential equations from science and engineering. Complex numbers are AWESOME because they provide a SIMPLER framework from which we can view and do mathematics. As a result, applying methods involving complex numbers can simplify calculations, removing a lot of the boring and tedious parts of mathematical work. For example, complex numbers provides a quick alternative to integration by parts for something like
+
+e−t cos t dt
+and gives easy ways of constructing trig formulae, for example
+
+sin(x + y ) = sin x cos y + cos x sin y cos 2θ = cos2 θ − sin2 θ
+so you might never have to remember another trig formula ever again!
+
+12
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Basic operations involving complex numbers
+
+1.1.3	
+
+What is a complex number?
+
+Here are some examples of complex numbers:
+
+Important idea (What is a complex number? (Cartesian form)). The Cartesian form of a complex number z is
+
+3 + 2i, 6 − i, −1 − 4i,
+
+−7 + 3i, 2i, −2 − 2i.
+
+x + yi or x + iy
+where x and y are both real numbers and i is known as the imaginary unit i = −1 and satises i2 = −1. The number x is called the “real part of z”; while y is called the “imaginary
+
+√
+
+part of z”.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+13
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Basic operations involving complex numbers
+
+1.1.4	
+
+How to graphically represent complex numbers?
+
+Complex numbers can be represented in the "complex plane" via what is known as an Argand diagram, which features: •	 a “real” (horizontal) axis; •	 an “imaginary” (vertical) axis.
+
+14
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Basic operations involving complex numbers
+
+2	 Basic operations involving complex numbers
+2.1	 Video 2: How to add/subtract two complex numbers
+View this lesson on YouTube [3] To add/subtract two complex numbers just add/subtract their corresponding components. Example. If z = 1 + 3i and w = 2 + i then
+
+z + w = (1 + 3i) + (2 + i) = (1 + 2) + (3i + i) = 3 + 4i
+and
+
+A geometric interpretation of addition is seen through a simple parallelogram or triangle law.
+
+z − w = (1 + 3i) − (2 + i) = (1 − 2) + (3i − i) = −1 + 2i.
+
+15
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Basic operations involving complex numbers
+
+2.2	
+
+Video 3: How to multiply a real number with a complex number
+
+View this lesson on YouTube [3] Multiplication of a real number with a complex number involves multiplying each component in a natural distributive fashion. Example. If z = 2 + 3i then
+
+2z = 2(2 + 3i) = (2 ∗ 2) + (2 ∗ 3i) = 4 + 6i
+and
+
+A geometric interpretation of (scalar) multiplication is seen through a stretching principle.
+
+−4z = −4(2 + 3i) = (−4 ∗ 2) + (−4 ∗ 3i) = −8 − 12i.
+
+16
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Basic operations involving complex numbers
+
+2.3	
+
+Video 4: How to multiply complex numbers together
+
+View this lesson on YouTube [4] Multiplication of two complex numbers involves natural distribution (and remembering i2 = −1). Example. If z = 2 + i and w = 1 + i then
+
+zw = = = =
+
+(2 + i)(1 + i) (2 ∗ 1 + i ∗ i) + (2 ∗ i + i ∗ 1) (2 − 1) + 3i 1 + 3i.
+
+The geometric interpretation of multiplication is seen through rotation and stretching/compression.
+
+17
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Basic operations involving complex numbers
+
+2.3.1	
+
+What is the geometric explanation of multiplication? Example.
+
+Let us consider z = 2i and w = 1 + i in the complex plane. If we compute the distances from z and w to the origin (using Pythagoras) then we see that
+
+|z | = 2,
+
+|w | =
+
+√
+
+2.
+
+Now consider the line segments joining z and w to the origin. If we compute the angles θ1 , θ2 to the postive real axis (using trig) with −π < θk ≤ π then we see
+
+θ1 = π/2,
+
+θ2 = π/4.
+
+Now consider zw = −2 + 2i. We have
+
+√ |zw| = 2 2,
+
+θ3 = 3π/4.
+
+We thus see that |zw | = |z | |w | and θ3 = θ1 + θ2 .
+
+18
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Basic operations involving complex numbers
+
+2.4	
+
+Video 5: How to divide complex numbers
+
+View this lesson on YouTube [5] 2.4.1	 How to divide by a complex number
+
+Division of two complex numbers involves multiplying through by a “factor of one” that turns the denominator into a real number. To do this, we use the “conjugate” of the denominator. Example. If z = 2 + i and w = 3 + 2i then
+
+z 2+i = w 3 + 2i 2 + i 3 − 2i ∗ 3 + 2i 3 − 2i (6 − 2i2 ) + (3i − 4i) = (9 − 4i2 ) + (6i − 6i) 8−i 8 1 −i . = = 13 13 13 =
+Observe that the denominator is now real and we can (say) easily plot the complex number z/w . If we interpret division as a kind of multiplication, then the geometric interpretation of division can also be seen through rotation/stretching.
+
+19
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Basic operations involving complex numbers
+
+2.4.2	
+
+Basic operations with complex numbers Example.
+
+If z = −2 + 3i then calculate z2. Consider
+
+z 2 = (−2 + 3i) ∗ (−2 + 3i) = (4 + 9i2 ) − 6i − 6i = −5 − 12i.
+Independent learning exercise: plot z and z2. Can you see a relationship between their lengths to the origin?
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+20
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Basic operations involving complex numbers
+
+2.5	
+
+Video 6: Complex numbers: Quadratic formula
+
+Applying the quadratic formula for complex solutions View this lesson on YouTube [6] Example. Solve the quadratic equation
+
+13z 2 − 6z + 1 = 0,
+writing the solutions in the Cartesian form x + yi .
+
+21
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+What is the complex conjugate?
+
+3	 What is the complex conjugate?
+3.1	 Video 7: What is the complex conjugate?
+View this lesson on YouTube [7] As we saw when performing division of complex numbers, an idea called the conjugate was applied to simplify the denominator. Let us look at this idea a bit further. Important idea (Complex conjugate). For a complex number z = x + yi we dene and denote the “complex conjugate of z” by
+
+z ¯ = x − yi.
+If z = 3 + i then z ¯ = 3 − i. If w = 1 − 2i then w ¯ = −1 + i . ¯ = 1 + 2i. If u = −1 − i then u For any point z in the complex plane, we can geometrically determine z ¯ by re ecting the position of z through the real axis.
+
+22
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+What is the complex conjugate?
+
+3.1.1	
+
+What are the properties of the conjugate? Important idea (Conjugate properties).
+
+Let z = a + bi and w = c + di. Some basic properties of the conjugate are:-
+
+zz ¯ = (a + bi)(a − bi) = a2 + b2 , real and non{neg number; z ¯ = z; z+w = z ¯+w ¯ = (a + c) − (b + d)i; z−w = z ¯−w ¯ = (a − c) + (d − b)i; zw = z ¯w ¯; z/w = z ¯/w ¯; zn = z ¯n ; z+z ¯ = a = (z ); 2 z−z ¯ = b = (z ). 2
+
+.
+
+23
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+What is the complex conjugate?
+
+3.1.2	
+
+Basic operations with the conjugate Example.
+
+If z = −2 + 3i then calculate the following: a) z ¯. ¯;	b) z + z By denition,
+
+z ¯ = −2 − 3i.
+Also,
+
+z+z ¯ = (−2 + 3i) + (−2 − 3i) = −4 + 0i = 4.
+
+24
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+What is the complex conjugate?
+
+3.2	
+
+Video 8: Calculations with the complex conjugate
+
+View this lesson on YouTube [8] Example. If z = 4 − 3i and w = 1 + 4i then calculate the following in Cartesian form x + yi:: a)	 25/z ; 		
+
+z − 4) b) iw (¯
+
+25
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+What is the complex conjugate?
+
+3.2.1	
+
+Simplifying complex numbers with the conjugate Example.
+
+Simplify
+
+2 − 7i 3−i
+into the Cartesian form x + yi . We multiply by a factor of one that involves the conjugate of the denominator, namely
+
+2 − 7i 3 + i 2 − 7i = ∗ 3−i 3−i 3+i (6 − 7i2 ) + 2i − 21i = (9 − i2 ) + 3i − 3i = 13/10 − 19i/10.
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+26
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+What is the complex conjugate?
+
+3.3	
+3.3.1	
+
+Video 9: How to show a number is purely imaginary
+Using the conjugate to show a number is purely imaginary
+
+View this lesson on YouTube [9] Example. Let
+
+z+i z−i
+with z = i . Show
+
+=0 (z ) = 0 .
+
+27
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+What is the complex conjugate?
+
+3.4	
+
+Video 10: How to prove the real part of a complex number is zero
+
+View this lesson on YouTube [10] Example. Let z ∈ C with |z | = 1. Show
+
+z−1 z+1
+
+= 0.
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+28
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+What is the complex conjugate?
+
+3.5	
+3.5.1	
+
+Video 11: Complex conjuage and linear systems
+Solving systems of equations with the conjugate
+
+View this lesson on YouTube [11] Example. Solve the following system for complex numbers z and w :
+
+2z + 3w = 1 + 5i, 3¯ z−w ¯ = 4 + 3i.
+
+29
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+What is the complex conjugate?
+
+3.6	
+3.6.1	
+
+Video 12: When are the squares of z and its conjugate equal?
+Showing real or imag parts are zero via the conjugate
+
+View this lesson on YouTube [12] Example. Prove the following: For all z ∈ C we have
+
+z2 = z ¯2
+if and only if
+
+(z ) = 0 or
+
+(z ) = 0 .
+
+30
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+What is the complex conjugate?
+
+3.7	
+
+Video 13: Conjugate of products is product of conjugates
+
+View this lesson on YouTube [13] Example. Prove, for all complex numbers z and w :
+
+zw = z ¯ w. ¯
+
+31
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+What is the complex conjugate?
+
+3.8	
+
+Video 14: Why complex solutions appear in conjugate pairs
+
+View this lesson on YouTube [14] Example. Let z = α + βi satisfy
+
+ax2 + bx + c = 0. ¯ is also a solution. Show that z
+
+32
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+How big are complex numbers?
+
+4	 How big are complex numbers?
+4.1	 Video 15: How big are complex numbers?
+View this lesson on YouTube [15] To measure how “big” certain complex numbers are, we introduce a way of measuring their size, known as the modulus or the magnitude. Important idea (Modulus/magnitude of a complex number). For a complex number z = x + yi we dene the modulus or magnitude of z by
+
+|z | :=
+
+x2 + y 2 .
+
+Geometrically, |z | represents the length r of the line segment connecting z to the origin.
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+33
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+How big are complex numbers?
+
+4.1.1	
+
+Properties of the modulus/magnitude Important idea.
+
+Let z = a + bi and w = c + di. Some basic properties of the modulus are:-
+
+|z | =
+
+√
+
+a2 + b2 ≥ 0;
+
+|z | = 0 iﬀ z = 0; |z 2 | = |z |2 ; |z + w| ≤ |z | + |w|; |αz | = |α||z | where α is a real number; |zw| = |z ||w|; zz ¯ = |z |2 .
+Example. If z = 7 + i and w = 3 − i then calculate:
+
+|z + iw|.
+Example. If w = 1 + 4i then calculate the following in Cartesian form x + yi :
+
+| w + 2| .
+We have
+
+|w + 2| = |3 + 4i| √ = 3 2 + 42 = 5.
+
+34
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+How big are complex numbers?
+
+4.2	
+
+Video 16: Modulus of a product is the product of moduli
+
+View this lesson on YouTube [16] Example. Prove, for all complex numbers z and w :
+
+|zw| = |z | |w|.
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+35
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Introduction to Complex Numbers: YouTube Workbook
+
+How big are complex numbers?
+
+4.3	
+
+Video 17: Square roots of complex numbers
+
+View this lesson on YouTube [17] Example. Solve
+
+z 2 = (x + yi)2 = −24 − 10i
+for z ∈ C by computing the real numbers x and y . Hence write down the square roots of
+
+−24 − 10i .
+
+36
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+How big are complex numbers?
+
+4.4	
+4.4.1	
+
+Video 18: Quadratic equations with complex coefcients
+Square roots of complex numbers
+
+View this lesson on YouTube [18] Example. i)	 Solve
+
+z 2 = (x + yi)2 = 15 + 8i
+for z ∈ C by computing x and y which are assumed to be integers. Hence write down the square roots of 15 + 8i. ii)	 Hence solve, in x + yi form,
+
+z 2 − (2 + 3i)z − 5 + i = 0.
+
+37
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+How big are complex numbers?
+
+4.5	
+
+Video 19: Show real part of complex number is zero
+
+View this lesson on YouTube [19] Example. Let z ∈ C with z = i. If |z | = 1 then show
+
+z+i z−i
+
+= 0.
+
+AXA Global Graduate Program
+Find out more and apply
+
+38
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Polar trig form
+
+5	 Polar trig form
+5.1	 Video 20: Polar trig form of complex number
+View this lesson on YouTube [20] Instead of the Cartesian x + yi form, sometimes it is convenient to express complex numbers in other equivalent forms. Using trigonometry in the complex plane we see that we can express any (non-zero) complex number z in the form
+
+z = r(cos θ + i sin θ)
+where r is the distance to the origin and θ is the angle to the pos. real axis. Important idea (Formulae for polar trig form). For z = x + yi a polar trig form is z = r(cos θ + i sin θ ) where:
+
+r=
+
+x2 + y 2 = | z | ;
+
+x = r cos θ, y = r sin θ, tan θ = y/x.
+We denote the angle θ by arg(z) and call arg(z) “an argument of z”. Because cos θ = cos(θ + 2kπ ) and sin θ = sin(θ + 2kπ ) for all integers k , the angle θ associated with a complex number is not unique. For example, if z = 1 + i then we may represent z in polar trig form via
+
+z=
+and
+
+√
+
+2(cos(π/4) + i sin(π/4))
+
+z=
+
+√
+
+2(cos(9π/4) + i sin(9π/4)).
+
+Thus, θ = arg(z) is not uniquely determined by z.
+
+39
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Polar trig form
+
+To provide some deniteness, we dene what is known as the principal argument of z. Important idea (arg(z) versus Arg(z)). For any complex number z = x + yi with θ = arg(z) we can always choose an integer k such that −π < arg(z ) − 2kπ ≤ π . We denote this special angle by Arg(z) and call Arg(z) “the principal argument of z”.
+
+40
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Polar exponential form
+
+6	 Polar exponential form
+6.1	 Video 21: Polar exponential form of a complex number
+View this lesson on YouTube [21] Instead of the Cartesian form z = x + yi or the polar trig form z = r(cos θ + i sin θ) sometimes it is convenient for multiplication and solving polynomials to express complex numbers in yet another equivalent form
+
+z = reiθ .
+Important idea (Formula for polar exponential form z = reiθ ). For z = x + yi a polar exponential form is z = reiθ where:
+
+r=
+
+x2 + y 2 and tan θ = y/x.
+
+If we combine the polar exponential form with the polar trig form then we obtain a special identity called “Euler’s formula”
+
+eiθ = cos θ + i sin θ
+and if θ = π then we obtain the famous formula
+
+eπi = −1.
+Because cos θ = cos(θ + 2kπ ) and sin θ = sin(θ + 2kπ ) for all integers k , the angle θ associated with a complex number is not unique. For example, if z = 1 + i then we may represent z in polar trig and polar exp. form via
+
+z=
+and
+
+√
+
+2(cos(π/4) + i sin(π/4)) =
+
+√
+
+2eiπ/4
+
+z=
+
+√
+
+2(cos(9π/4) + i sin(9π/4)) =
+
+√
+
+2ei9π/4 .
+
+Thus, θ = arg(z) is not uniquely determined by z.
+
+41
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Polar exponential form
+
+To provide some deniteness, we dene what is known as the principal argument of z. Important idea (arg(z) versus Arg(z)). For any complex number z = x + yi with θ = arg(z) we can always choose an integer k principal argument of z”. such that −π < arg(z ) − 2kπ ≤ π . We denote this special angle by Arg(z) and call it “the
+
+42
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Polar exponential form
+
+6.2	
+
+Revision Video 22: Intro to complex numbers + basic operations
+
+View this lesson on YouTube [22] Example. Let z := 2eiπ/6 . Calculate: z 3 ; z −1 ; and −3z . In addition, plot your calculated complex numbers on the same Argand diagram.
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+43
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Polar exponential form
+
+6.3	
+
+Revision Video 23: Complex numbers and calculations
+
+View this lesson on YouTube [23] Example. Dene the complex numbers z and w by z := 2 − 5i and w = 1 + 2i . Calculate:
+
+1 + 7i ; w
+
+4¯ z w;
+
+Arg(w − 3i).
+
+44
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Polar exponential form
+
+6.4	
+6.4.1	
+
+Video 24: Powers of complex numbers via polar forms
+Calculations with the polar exponential form
+
+View this lesson on YouTube [24] Example. If z = 2e5πi/6 then compute z 2 , 1/z and plane.
+
+(z ). Plot z , z 2 and 1/z in the same complex
+
+45
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Powers of complex numbers
+
+7	 Powers of complex numbers
+7.1	 Video 25: Powers of complex numbers
+View this lesson on YouTube [25] Example. Powers of complex numbers If z = −1 + i 3 then: a)	 Calculate a polar exponential form of z; b)	 Hence determine Arg(z23) and write z23 in Cartesian form.
+
+√
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+46
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Powers of complex numbers
+
+7.2	
+
+Video 26: What is the power of a complex number?
+
+View this lesson on YouTube [26] Example. Suppose z = 1 + i, w = 1 − i 3. If . If
+
+√
+
+q := z 6 /w5
+then: b)	 Determine Arg( q ). a)	 Calculate |q |;
+
+47
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Powers of complex numbers
+
+7.3	
+
+Video 27: Roots of comples numbers
+
+View this lesson on YouTube [27] Example. Solve
+
+√ z 5 = 16(1 − i 3)
+leaving your answers in simplied polar exponential form.
+
+48
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Powers of complex numbers
+
+7.4	
+
+Video 28: Complex numbers solutions to polynomial equations
+
+View this lesson on YouTube [28] Example. Determine all of the (complex) fourth roots of 8(−1 + polar form.
+
+√
+
+3i). You may leave your answer is
+
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+49
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Powers of complex numbers
+
+7.5	
+
+Video 29: Complex numbers and tan (π/12)
+
+View this lesson on YouTube [29] Example. If z = −2 + 2i and w = −1 − i 3 then: a)	 Compute zw in Cartesian form; b)	 Rewrite z and w in polar exponential form and thus calculate zw in polar exponential form; c)	 Hence determine a precise value for tan(π/12).
+
+√
+
+50
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Powers of complex numbers
+
+7.6	
+
+Video 30: Euler’s formula: A cool proof
+
+View this lesson on YouTube [30] Important idea (Euler’s formla). We prove
+
+eiθ = cos θ + i sin θ.
+Let f (θ) := cos θ + i sin θ . Thus, f (0) = 1. Dierentiating f we obtain
+
+f (θ ) = = = =
+
+− sin θ + i cos θ i2 sin θ + i cos θ i(cos θ + i sin θ) if (θ).
+
+We have formed a dierential equation/initial value problem. Note that g (θ ) := eiθ also satises the IVP. By uniqueness of solutions, f ≡ g , that is,
+
+eiθ = cos θ + i sin θ.
+This also means that the polar exponential form reiθ is an accurate representation of any complex number z.
+
+51
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+De Moivre’s formula
+
+8	 De Moivre’s formula
+8.1	 Video 31: De Moivre’s formula: A cool proof
+View this lesson on YouTube [31] De Moivre’s formula is useful for simplifying computations involving powers of complex numbers. Important idea (De Moivre’s formula). For each integer n and all real θ we have
+
+(cos θ + i sin θ)n = (cos nθ + i sin nθ).
+The proof utilizes Euler’s formula
+
+eiθ = cos θ + i sin θ.
+We have,
+
+(cos θ + i sin θ)n = (eiθ )n = einθ = (cos nθ + i sin nθ)
+and thus we have proven the result.
+
+52
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+De Moivre’s formula
+
+8.2	
+
+Video 32: Trig identities from De Moivre’s theorem
+
+View this lesson on YouTube [32] Example. Write cos 5θ in terms of cos θ by applying De Moivre’s theorem.
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+53
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+De Moivre’s formula
+
+8.3	
+
+Video 33: Trig identities: De Moivre’s formula
+
+View this lesson on YouTube [33] Example. Write sin 4θ in terms of cos θ and sin 4θ by applying De Moivre’s theorem. Hence, write
+
+sin 4θ cos θ as a function of sin 4θ .
+
+54
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Connecting sin, cos with e
+
+9	 Connecting sin, cos with e
+9.1	 Video 34: Trig identities and Euler’s formula
+View this lesson on YouTube [34] 9.1.1	 More connections between
+
+sin θ , cos θ , eiθ
+
+Euler’s formula
+
+eiθ = cos θ + i sin θ
+can be manipulated to obtain the following identities Important idea (Trig functions in terms of exponentials).
+
+cos θ = sin θ =
+For example, consider
+
+eiθ + e−iθ 2 eiθ − e−iθ . 2i
+
+e−iθ = cos(−θ) + i sin(−θ) = cos θ − i sin θ
+and so eiθ + e−iθ = 2 cos θ , which rearranges to the first identity.
+
+55
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Connecting sin, cos with e
+
+9.1.2	
+
+Trig identities from Euler’s formula Example.
+
+Apply the identity
+
+sin θ =
+
+eiθ − e−iθ 2i
+
+to express sin4 θ in terms of cos θ, cos 2θ, · · · .
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+56
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Connecting sin, cos with e
+
+9.2	
+
+Video 35: Trig identities from Euler’s formula
+
+View this lesson on YouTube [35] Example. Apply the identity
+
+sin θ =
+
+eiθ − e−iθ 2i
+
+to express sin5 θ in terms of sin θ , sin 2θ, · · · .
+
+57
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Connecting sin, cos with e
+
+9.3	
+
+Video 36: How to prove trig identities WITHOUT trig!
+
+View this lesson on YouTube [36] Example. Prove
+
+sin(x + y ) = sin x cos y + cos x sin y.
+
+58
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Connecting sin, cos with e
+
+9.4	
+
+Revision Video 37: Complex numbers + trig identities
+
+View this lesson on YouTube [37] The problem for this video is similar to Video 35.
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+59
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Regions in the complex plane
+
+10	 Regions in the complex plane
+10.1	 Video 38: How to determine regions in the complex plane
+View this lesson on YouTube [38] 10.1.1	 Regions in the complex plane
+
+We can use equations or inequalities to represent regions within two-dimensional space. With a bit of care, we can also represent regions in the complex plane via similar techniques. We know that the modulus |z | of any complex number z is the length of the line segment joining z to the origin. Thus, the set
+
+{z ∈ C : |z | < 3}
+is the set of all complex numbers, whose distance to the origin is less than three units. This is an open disc, centred at the origin, with radius three. Similarly, the set
+
+{z ∈ C : |z − (2 + i)| < 3}
+is the set of all complex numbers, whose distance to 2 + i is less than three units. This is an open disc, centred at the 2 + i , with radius three. Similarly, the set
+
+{z ∈ C : |z − i| = 3}
+is the set of all complex numbers, whose distance to i is exactly three units. This is a circle, centered at the i, with radius three. The set
+
+{z ∈ C : |z − 2| = |z − 4|}
+
+60
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Regions in the complex plane
+
+is the set of all complex numbers, whose distance to 2 and 4 are equal. This is a vertical line, passing through 3. Also
+
+{z ∈ C : 0 ≤ Arg(z ) ≤ π/2}
+is the set of all complex numbers, whose principal argument is between zero and π/2 . This is all those points that lie in the rst quadrant, covered by a quarter-turn in the anticlockwise direction about the origin.
+
+61
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Regions in the complex plane
+
+10.1.2	
+
+Regions in the complex plane Example.
+
+Determine and sketch the set of points satisfying
+
+{z ∈ C : |z + 4| = 2|z − i|}.
+
+The stuff you'll need to make a good living
+
+STUDY. PLAY.
+
+The stuff that makes life worth living
+
+NORWAY. YOUR IDEAL STUDY DESTINATION.
+WWW.STUDYINNORWAY.NO FACEBOOK.COM/STUDYINNORWAY
+
+62
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Regions in the complex plane
+
+10.2	
+10.2.1	
+
+Video 39: Circular sector in the complex plane
+Regions in the complex plane
+
+View this lesson on YouTube [39] Example. Determine and sketch the set of points satisfying
+
+|z − 1 − i| < 3,
+
+0 < Arg(z ) < π/4.
+
+63
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Regions in the complex plane
+
+10.3	
+10.3.1	
+
+Video 40: Circle in the complex plane
+Regions in the complex plane
+
+View this lesson on YouTube [40] Example. Determine and sketch the set of points satisfying
+
+|z + 3| = 2|z − 6i|.
+
+64
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Regions in the complex plane
+
+10.4	
+
+Video 41: How to sketch regions in the complex plane
+
+View this lesson on YouTube [41] Example. Sketch the region in the complex plane dened by all those complex numbers z such that
+
+|z − 2i| < 1,
+
+and 0 < Arg(z − 2i) ≤
+
+3π . 4
+
+I joined MITAS because I wanted real responsibili� I joined MITAS because I wanted real responsibili�
+
+Maersk.com/Mitas www.discovermitas.com
+
+�e Graduate Programme for Engineers and Geoscientists
+
+�e G for Engine
+
+Ma
+
+Real work International Internationa al opportunities �ree wo work or placements
+
+Month 16 I was a construction Mo supervisor ina const I was the North Sea super advising and the No he helping foremen advis s solve problems Real work he helping fo International Internationa al opportunities �ree wo work or placements s solve pr
+Click on the ad to read more
+
+65
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Complex polynomials
+
+11	 Complex polynomials
+11.1	 Video 42: How to factor complex polynomials
+View this lesson on YouTube [42] Important idea. The basic theory for complex polynomials of degree n
+
+p(z ) := an z n + an−1 z n−1 + · · · + a1 z + a0
+may be summarized as follows:•	 Every polynomial p(z ) of degree n has at least one root over C . That is, there is at least one α such that p(α) = 0 . •	 The roots of complex polynomials with real coecients appear in conjugate pairs. •	 If p(α) = 0 for some number α then (z − α) is a factor of p(z ) . •	 Every polynomial of degree n can be factored into n linear parts. That is 	
+
+p(z ) = an (z − α1 )(z − α2 ) · · · (z − αn )
+
+where the αi are the roots of p(z ) .
+
+66
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Complex polynomials
+
+11.1.1	
+
+Complex polynomials with real coecients Example. a)	 Solve p(z ) := z 6 + 64 = 0. b)	 Hence factorize p(z ) into linear factors.
+
+67
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Complex polynomials
+
+11.2	
+11.2.1	
+
+Video 43: Factorizing complex polynomials
+Complex polynomials with real coecients
+
+View this lesson on YouTube [43] Example. If p(z ) := 2z 4 − 5z 3 + 5z 2 − 20z − 12 then: a)	 Show p(2i) = 0; b)	 Illustrate that z 2 + 4 is a factor of p(z ) (without division) and also find the other quadratic factor; c)	 Thus, factorize p(z ) into quadratic factors.
+
+Need help with your dissertation?
+Get in-depth feedback & advice from experts in your topic area. Find out what you can do to improve the quality of your dissertation!
+
+Get Help Now
+
+Go to www.helpmyassignment.co.uk for more info
+
+68
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Complex polynomials
+
+11.3	
+11.3.1	
+
+Video 44: Factor polynomials into linear parts
+Complex polynomials with real coefficients
+
+View this lesson on YouTube [44] Example. a)	 Solve p(z ) := z 7 + 37 = 0. b)	 Hence factorize p(z ) into linear factors.
+
+69
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Complex polynomials
+
+11.4	
+11.4.1	
+
+Video 45: Complex linear factors
+Complex polynomials with real coefficients
+
+View this lesson on YouTube [45] Example. If p(z ) := z 5 + 4z 3 − 8z 2 − 32 then: a)	 Show p(2i) = 0 ; quadratic factor; c)	 Thus, factorize p(z ) into complex linear factors. b)	 Illustrate that z 2 + 4 is a factor of p(z ) (without division) and also find the other
+
+70
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Bibliography
+
+Bibliography
+1.	 Tisdell, Chris. Complex numbers are AWESOME. Streamed live on 02/04/2014 and accessed on 14/08/2014. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/watch?v= YdBALaKYCO4&index=1&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP 2.	 Tisdell, Chris. How to add and subtract complex numbers. Streamed live on 03/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube. com/watch?v=nj3qJY4QO6U&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP&index=2 3.	 Tisdell, Chris. Scalar multiply a complex number. Streamed live on 03/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/watch?v= MNQPU6BQ9Ok&index=3&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP 4.	 Tisdell, Chris. How to multiply complex numbers. Streamed live on 03/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/watch?v=Kt l1OMjXC6I&index=4&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP 5.	 Tisdell, Chris. How to divide complex numbers. Streamed live on 03/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/ watch?v=fa7DVp_oNFE&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP&index=5
+
+71
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Bibliography
+
+6.	 Tisdell, Chris. Complex numbers: Quadratic formula. Streamed live on 19/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/watch ?v=iNzVgErnf5w&list=PLGCj8f6sgswm6oVMzqBbNXoo FT43yqViP&index=6 7.	 Tisdell, Chris. What is the complex conjugate? Streamed live on 19/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/watch?v= C8LzaBikty8&index=7&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP 8.	 Tisdell, Chris. Calculations with the complex conjugate. Streamed live on 19/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube. com/watch?v=WlqTBPp7sRM&index=8&list=PLGCj8f6sgswm6o VMzqBbNXooFT43yqViP 9.	 Tisdell, Chris. How to show a number is purely imaginary. Streamed live on 19/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube. com/watch?v=75D__m6q5JM&list=PLGCj8f6sgswm6oVMzqBbNXoo FT43yqViP&index=9 10.	 Tisdell, Chris. Complex numbers: example of how to prove the real part of a complex number is zero. Streamed live on 25/11/2008 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/watch?v=QWbLhUZ6bag&list=PLGCj8f6sgswm6oV MzqBbNXooFT43yqViP&index=10 11.	 Tisdell, Chris. Complex conjugates and linear systems. Streamed live on 19/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/watch ?v=0s8XntqBrkc&list=PLGCj8f6sgswm6oVMzqBbNXoo FT43yqViP&index=11 12.	 Tisdell, Chris. When are the squares of z and its conjugate equal? Streamed live on 19/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www. youtube.com/watch?v=U7d0NgvctMk&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP&ind ex=12 13.	 Tisdell, Chris. Conjugate of products is product of conjugates. Streamed live on 20/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube. com/watch?v=hKe4s_6B0Qs&list=PLGCj8f6sgswm6oVMzqBbNXoo FT43yqViP&index=13 14.	 Tisdell, Chris. Why complex solutions appear in conjugate pairs. Uploaded on 16/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube. com/watch?v=XkWz76dxkkI&index=14&list=PLGCj8f6sgswm6o VMzqBbNXooFT43yqViP 15.	 Tisdell, Chris. How big are complex numbers? Streamed live on 20/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/watch?v= NyPGV066MCM&index=15&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP
+
+72
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Bibliography
+
+16.	 Tisdell, Chris. Modulus of a product is the product of moduli. Streamed live on 20/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube. com/watch?v=siePZ8yJFJU&index=16&list=PLGCj8f6sgswm6oVMzq BbNXooFT43yqViP 17.	 Tisdell, Chris. Square roots of complex numbers. Streamed live on 20/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/ watch?v=HQ3lqtRSo-k&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP&index=17 18.	 Tisdell, Chris. Quadratic equations with complex coecients. Streamed live on 20/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube. com/watch?v=PQi-LrSWoUM&index=18&list=PLGCj8f6sgswm6o VMzqBbNXooFT43yqViP 19.	 Tisdell, Chris. Show real part of a complex number is zero. Streamed live on 21/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube. com/watch?v=i8z5fDHm0JY&index=19&list=PLGCj8f6sgswm6oVMzq BbNXooFT43yqViP 20.	 Tisdell, Chris. Polar trig form of a complex number. Streamed live on 21/04/2014 and accessed on 14/08/2014. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/watch?v=B 7jT9AHJrDo&index=20&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP 21.	 Tisdell, Chris. Polar exponential form of a complex number. Streamed live on 21/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube. com/watch?v=2ryt4n5WDnU&list=PLGCj8f6sgswm6oVMzqBbNXoo FT43yqViP&index=21 22.	 Tisdell, Chris. Intro to complex numbers + basic operations. Uploaded on 08/09/2010 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube. com/watch?v=QeMSqlrgQYg&index=22&list=PLGCj8f6sgswm6oVMzq BbNXooFT43yqViP 23.	 Tisdell, Chris. Complex numbers and calculations. Uploaded on 06/09/2010 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/watch?v= 0JYIh8Goblg&index=23&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP 24.	 Tisdell, Chris. Powers of complex numbers via polar forms. Streamed live on 22/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube. com/watch?v=FtXPMSHBKgc&index=24&list=PLGCj8f6sgswm6oVMzq BbNXooFT43yqViP 25.	 Tisdell, Chris. Powers of complex numbers. Streamed live on 22/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/ watch?v=P_sFeTtnQPs&index=25&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP
+
+73
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Bibliography
+
+26.	 Tisdell, Chris. What is the power of a complex number? Streamed live on 22/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube. com/watch?v=nZPn74GC3KM&index=26&list=PLGCj8f6sgswm6o VMzqBbNXooFT43yqViP 27.	 Tisdell, Chris. Roots of complex numbers. Streamed live on 22/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/watch?v= RmUazwwRqso&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP&index=27 28.	 Tisdell, Chris. Complex number solutions to polnomial equations. Uploaded on 08/09/2010 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube. com/watch?v=Y4btmS-uHWI&index=28&list=PLGCj8f6sgswm6oVMzq BbNXooFT43yqViP 29.	 Tisdell, Chris. Complex numbers and tan(π/12) Streamed live on 22/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/watch?v= N5gRg2whooM&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP&index=29 30.	 Tisdell, Chris. Euler’s formula: a cool proof. Streamed live on 02/12/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/watch?v= stOZL05Nvjk&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP&index=30 31.	 Tisdell, Chris. De Moivre’s formula: a COOL proof. Streamed live on 23/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/ watch?v=NjYZS_XYlEQ&index=31&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP
+
+Brain power
+
+By 2020, wind could provide one-tenth of our planet’s electricity needs. Already today, SKF’s innovative knowhow is crucial to running a large proportion of the world’s wind turbines. Up to 25 % of the generating costs relate to maintenance. These can be reduced dramatically thanks to our systems for on-line condition monitoring and automatic lubrication. We help make it more economical to create cleaner, cheaper energy out of thin air. By sharing our experience, expertise, and creativity, industries can boost performance beyond expectations. Therefore we need the best employees who can meet this challenge!
+
+The Power of Knowledge Engineering
+
+Plug into The Power of Knowledge Engineering. Visit us at www.skf.com/knowledge
+
+74
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Bibliography
+
+32.	 Tisdell, Chris. Application of De Moivre’s theorem. Streamed live on 23/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/watch?v=Jj ECulRsKr8&index=32&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP 33.	 Tisdell, Chris. Trig identities: De Moivre’s formula. Streamed live on 23/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/watch?v=u Aj1zb1p0gg&index=33&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP 34.	 Tisdell, Chris. Trig identities and Euler’s formula. Streamed live on 23/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/watch?v= Bd22Y6NvKZk&index=34&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP 35.	 Tisdell, Chris. Euler’s formula and trig identities. Streamed live on 23/04/2015 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/watch?v= NSYYWhUpeqs&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP&index=35 36.	 Tisdell, Chris. How to prove trig identities WITHOUT trig. Streamed live on 11/12/2013 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube. com/watch?v=RGnvGjFfjBs&list=PLGCj8f6sgswm6oVMzqBbNXooFT43 yqViP&index=36 37.	 Tisdell, Chris. Complex numbers + trig identities. Uploaded on 08/09/2010 and accessed on 14/08/2014. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/ watch?v=CNmK48GOCuc&list= PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP&index=37 38.	 Tisdell, Chris. How to determine regions in the complex plane. Streamed live on 26/04/2015 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube. com/watch?v=0vjsF_n-Dbs&index=38&list=PLGCj8f6sgswm6oVMzq BbNXooFT43yqViP 39.	 Tisdell, Chris. Circular sector in the complex plane. Streamed live on 26/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/watch?v=_2 Z3qbhfa8c&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP&index=39 40.	 Tisdell, Chris. Circle in the complex plane. Streamed live on 26/04/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/ watch?v=sLkdqTg1-1c&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP&index=40 41.	 Tisdell, Chris. How to sketch regions in the complex plane. Uploaded on 08/09/2010 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube. com/watch?v=8gtnZ5xSLuE&list=PLGCj8f6sgswm6oVMzqBbNXoo FT43yqViP&index=41 42.	 Tisdell, Chris. How to factor complex polynomials. Streamed live on 01/05/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/watch?v= UG3TtIPTVZE&list=PLGCj8f6sgswm6oVMzqBbNXoo FT43yqViP&index=42
+
+75
+Download free eBooks at bookboon.com
+
+Introduction to Complex Numbers: YouTube Workbook
+
+Bibliography
+
+43.	 Tisdell, Chris. Factorizing complex polynomials. Streamed live on 01/05/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/watch?v= r_h_10ovGU0&index=43&list=PLGCj8f6sgswm6oVMzqBbNXooFT43yqViP 44.	 Tisdell, Chris. Factor polynomials into linear parts. Streamed live on 02/05/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/watch?v= ebrLfGRLfBc&list=PLGCj8f6sgswm6oVMzqBbNXoo FT43yqViP&index=44 45.	 Tisdell, Chris. Complex linear factors of polynomials. Streamed live on 02/05/2014 and accessed on 14/08/2015. Available on Dr Chris Tisdell’s YouTube channel, https://www.youtube.com/watch ?v=9r1MSXG4ENw&list=PLGCj8f6sgswm6oVMzqBbNXoo FT43yqViP&index=45 46.	 Tisdell, Chris. Engineering mathematics YouTube workbook playlist http://www.youtube.com/pl aylist?list=PL13760D87FA88691D, accessed on 1/11/2011 at DrChrisTisdell’s YouTube Channel http://www.youtube.com/DrChrisTisdell.
+
+Challenge the way we run
+
+EXPERIENCE THE POWER OF FULL ENGAGEMENT… RUN FASTER. RUN LONGER.. RUN EASIER…
+1349906_A6_4+0.indd 1
+
+READ MORE & PRE-ORDER TODAY WWW.GAITEYE.COM
+
+22-08-2014 12:56:57
+
+76
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+

@@ -1,0 +1,1195 @@
+Long-Term	Assets
+Larry	M.	Walther;	Christopher	J.	Skousen
+
+Download	free	books	at
+
+Long-Term Assets © 2009 Larry M. Walther, under nonexclusive license to Christopher J. Skousen & Ventus Publishing ApS. All material in this publication is copyrighted, and the exclusive property of Larry M. Walther or his licensors (all rights reserved). ISBN 978-87-7681-488-5
+
+2 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Contents
+
+Contents
+Part 1. Long-Term Investments 1. 1.1 2. 2.1 2.2 2.3 2.4 2.5 3. 3.1 3.2 3.3 3.4 3.5 4. 5. 5.1 5.2 5.3 Intent-Based Accounting The Fair Value Measurement Option Available for Sale Securities Other Comprehensive Income An Illustration Alternative: A Valuation Adjustments Account Dividends and Interest The Balance Sheet Appearance Held to Maturity Securities The Issue Price Recording the Initial Investments Illustration of Bonds Purchased at Par Illustration of Bonds Purchased at a Premium Illustration of Bonds Purchased at a Discount The Equity Method of Accounting Investments Requiring Consolidation Economic Entity Concept and Control Accounting Issues Goodwill 7 8 9 10 10 11 12 12 12 15 15 15 16 17 20 22 24 24 24 26
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+3 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Long-Term Assets
+
+Contents
+
+5.4 5.5
+
+The Consolidated Balance Sheet The Consolidated Income Statement Part 2. Property, Plant and Equipment
+
+26 27 28 29 29 30 30 30 31 32 32 33 34 36 37 37 40 40 41
+
+6. 6.1 6.2 6.3 6.4 6.5 6.6 6.7 7. 8. 9. 9.1 9.2 10. 10.1 10.2
+
+What Costs are Included in Property, Plant and Equipment Cost to Assign to Items of Property, Plant and Equipment Interest Cost Training Costs A Distinction Between Land and Land Improvements Lump-Sum Acquisitions Professional Judgment Materiality Considerations Equipment Leases Service Life and Cost Allocation Depreciation Methodology Many Methods Some Important Terminology The Straight-Line Method Fractional Period Depreciation Spreadsheet Software
+
+4 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Long-Term Assets
+
+Contents
+
+11. 12. 12.1 12.2 12.3 13. 13.1 13.2 13.3 14.
+
+The Units-of-Output Method The Double-Declining Balance Method Spreadsheet Software Fractional Period Depreciation Alternatives to DDB The Sum-of-the-Years’-Digits Method Spreadsheet Software Fractional Period Depreciation Changes in Estimates Tax Laws Part 3. Advanced PP&E Issues/ Natural Resources/Intangibles
+
+42 43 44 44 45 46 46 47 48 49 50 51 51 52 54 54 54 55 55
+
+15. 15.1 16. 17. 17.1 17.2 17.3 17.4
+
+PP&E Costs Subsequent to Asset Acquisition Restoration and Improvement Disposal of PP&E Accounting for Asset Exchanges Commercial Substance Recording the Initial Investments Boot Exchanges Lacking Commercial Substance
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+5 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Long-Term Assets
+
+Contents
+
+18. 18.1 19. 19.1 19.2 20. 20.1 20.2 20.3
+
+Assets Impairment Taking a “Big Bath” Natural Resources Depletion Calculations Equipment Used to Extract Natural Resources Intangibles An Amortization Example An Impairment Example Some Speciﬁc Intangibles
+
+56 56 57 57 58 59 59 60 60
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+6 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Long-Term Assets
+
+Long-term Investments
+
+Long-Term Investments
+Part 1
+
+Your goals for this “long-term investments” chapter are to learn about: x x x x x How intent influences the accounting for investments. The correct accounting for “available for sale” securities. Accounting for securities that are to be “held to maturity.” Special accounting for certain long-term equity investments that require use of the equity method. Special accounting for certain long-term equity investments that require consolidation.
+
+7 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Long-term Investments
+
+1. Intent-Based Accounting
+In an earlier chapter you learned about accounting for “trading securities.” Recall that trading securities are investments that were made with the intent of reselling them in the very near future, hopefully at a profit. Such investments are considered highly liquid and are classified on the balance sheet as current assets. They are carried at fair market value, and the changes in value are measured and included in the operating income of each period. However, not all investments are made with the goal of turning a quick profit. Many investments are acquired with the intent of holding them for an extended period of time. The appropriate accounting methodology depends on obtaining a deeper understanding of the nature/intent of the particular investment. You have already seen the accounting for “trading securities” where the intent was near future resale for profit. But, many investments are acquired with longer-term goals in mind. For example, one company may acquire a majority (more than 50%) of the stock of another. In this case, the acquirer (known as the parent) must consolidate the accounts of the subsidiary. At the end of this chapter we will briefly illustrate the accounting for such “control” scenarios. Sometimes, one company may acquire a substantial amount of the stock of another without obtaining control. This situation generally arises when the ownership level rises above 20%, but stays below the 50% level that will trigger consolidation. In these cases, the investor is deemed to have the ability to significantly influence the investee company. Accounting rules specify the “equity method” of accounting for such investments. This, too, will be illustrated within this chapter. Not all investments are in stock. Sometimes a company may invest in a “bond” (you have no doubt heard the term “stocks and bonds”). A bond payable is a mere “promise” (i.e., bond) to “pay” (i.e., payable). Thus, the issuer of a bond payable receives money today from an investor in exchange for the issuer’s promise to repay the money in the future (as you would expect, repayments will include not only amounts borrowed, but will also have added interest). In a later chapter, we will have a detailed look at Bonds Payable from the issuer’s perspective. In this chapter, we will undertake a preliminary examination of bonds from the investor’s perspective. Although investors may acquire bonds for “trading purposes,” they are more apt to be obtained for the long-pull. In the latter case, the bond investment would be said to be acquired with the intent of holding it to maturity (its final payment date) -- thus, earning the name “held-to-maturity” investments. Held-to-maturity investments are afforded a special treatment, which is generally known as the amortized cost approach. By default, the final category for an investment is known as the “available for sale” category. When an investment is not trading, not held-to-maturity, not involving consolidation, and not involving the equity method, by default, it is considered to be an “available for sale” investment. Even though this is a default category, do not assume it to be unimportant. Massive amounts of investments are so classified within typical corporate accounting records. We will begin our look at long-term
+
+8 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Long-term Investments
+
+investments by examining this important category of investments. The following table recaps the methods you will be familiar with by the conclusion of this chapter:
+TYPE OF INVESTMENT
+Trading Unrealized Gains and Losses to Operating Income Fair Value Unrealized Gains and Losses to Equity via Other Comprehensive Income Amortized Cost Equity Method Consolidation Default category
+
+BASIC ACCOUNTING APPROACH *
+Fair Value
+
+GUIDELINES FOR ASSESSMENT
+Intent to buy/sell for short-term profits
+
+Available for Sale
+
+***
+
+Held to Maturity Significant Influence Control
+
+Intent to buy and hold until fixed maturity date Stock investments generally ranging from 20-50% Stock investments generally exceeding 50%
+
+* These approaches apply to investments that continue to be held. When any type of investment is sold, the “realized” gain or loss is included in operating income.
+
+1.1 The Fair Value Measurement Option
+The Financial Accounting Standards Board recently issued a new standard, “The Fair Value Option for Financial Assets and Financial Liabilities.” Companies may now elect to measure certain financial assets at fair value. This new ruling essentially allows many “available for sale” and “held to maturity” investments to instead be measured at fair value (with unrealized gains and losses reported in earnings), similar to the approach previously limited to trading securities. It is difficult to predict how many companies will select this new accounting option, but it is indicative of a continuing evolution toward valued-based accounting in lieu of traditional historical cost-based approaches.
+
+9 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Long-term Investments
+
+2. Available for Sale Securities
+The accounting for “available for sale” securities will look quite similar to the accounting for trading securities. In both cases, the investment asset account will be reflected at fair value. If you do not recall the accounting for trading securities, it may be helpful to review that material in the accompanying Current Assets book Part 2.
+
+To be sure, there is one big difference between the accounting for trading securities and availablefor-sale securities. This difference pertains to the recognition of the changes in value. For trading securities, the changes in value were recorded in operating income. However, such is not the case for available-for-sale securities. Here, the changes in value go into a special account. We will call this account Unrealized Gain/Loss-OCI, where “OCI” will represent “Other Comprehensive Income.”
+
+2.1 Other Comprehensive Income
+This notion of other comprehensive income is somewhat unique and requires special discussion at this time. There is a long history of accounting evolution that explains how the accounting rule makers eventually came to develop the concept of OCI. To make a long story short, most transactions and events make their way through the income statement. As a result, it can be said that the income statement is “all-inclusive.” Once upon a time, this was not the case; only operational items were included in the income statement. Nonrecurring or non operating related transactions and events were charged or credited directly to equity, bypassing the income statement entirely (a “current operating” concept of income).
+
+10 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Long-term Investments
+
+Importantly, you must take note that the accounting profession now embraces the all-inclusive approach to measuring income. In fact, a deeper study of accounting will reveal that the income statement structure can grow in complexity to capture various types of unique transactions and events (e.g., extraordinary gains and losses, etc.) -- but, the income statement does capture those transactions and events, however odd they may appear. There are a few areas where accounting rules have evolved to provide for special circumstances/ “exceptions.” And, OCI is intended to capture those exceptions. One exception is the Unrealized Gain/Loss - OCI on available-for-sale securities. As you will soon see, the changes in value on such securities are recognized, not in operating income as with trading securities, but instead in this unique account. The OCI gain/loss is generally charged or credited directly to an equity account (Accumulated OCI), thereby bypassing the income statement (there are a variety of reporting options for OCI, and the most popular is described here).
+
+2.2 An Illustration
+Let us amend the Current Assets: Part 2 trading securities illustration -- such that the investments were more appropriately classified as available for sale securities: Assume that Webster Company acquired an investment in Merriam Corporation. The intent was not for trading purposes, control, or to exert significant influence. The following entry was needed on March 3, 20X6, the day Webster bought stock of Merriam:
+3-3-X6 Available for Sale Securities Cash
+To record the purchase of 5,000 shares of Merriam stock at $10 per share
+
+50,000 50,000
+
+***
+
+Next, assume that financial statements were being prepared on March 31. By that date, Merriam’s stock declined to $9 per share. Accounting rules require that the investment “be written down” to current value, with a corresponding charge against OCI. The charge is recorded as follows:
+3-31-X6 Unrealized Gain/Loss - OCI Available for Sale Securities
+To record a $1 per share decrease in the value of 5,000 shares of Merriam stock
+
+5,000 5,000
+
+***
+
+This charge against OCI will reduce stockholders’ equity (the balance sheet remains in balance with both assets and equity being decreased by like amounts). But, net income is not reduced, as there is no charge to a “normal” income statement account. The rationale here, whether you agree or disagree, is that the net income is not affected by temporary fluctuations in market value -- since the intent is to hold the investment for a longer term period. During April, the stock of Merriam bounced up $3 per share to $12. Webster now needs to prepare this adjustment:
+
+11 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Long-term Investments
+
+***
+
+4-30-X6
+
+Available for Sale Securities Unrealized Gain/Loss - OCI
+To record a $3 per share increase in the value of 5,000 shares of Merriam stock
+
+15,000 15,000
+
+Notice that the three journal entries now have the available for sale securities valued at $60,000 ($50,000 - $5,000 + $15,000). This is equal to their market value ($12 X 5,000 = $60,000). The OCI has been adjusted for a total of $10,000 credit ($5,000 debit and $15,000 credit). This cumulative credit corresponds to the total increase in value of the original $50,000 investment. The preceding illustration assumed a single investment. However, the treatment would be the same even if the available for sale securities consisted of a portfolio of many investments. That is, each and every investment would be adjusted to fair value.
+
+2.3 Alternative: A Valuation Adjustments Account
+As an alternative to directly adjusting the Available for Sale Securities account, some companies may maintain a separate Valuation Adjustments account that is added to or subtracted from the Available for Sale Securities account. The results are the same; the reason for using the alternative approach is to provide additional information that may be needed for more complex accounting and tax purposes. This coverage is best reserved for more advanced courses.
+
+2.4 Dividends and Interest
+Dividends or interest received on available for sale securities is reported as income and included in the income statement:
+9-15-X5 Cash Dividend Income
+To record receipt of dividend on available for sale security investment
+
+75 75
+
+***
+
+2.5 The Balance Sheet Appearance
+The above discussion would produce the following balance sheet presentation of available for sale securities at March 31 and April 30. To aid the illustration, all accounts are held constant during the month of April, with the exception of those that change because of the fluctuation in value of Merriam’s stock.
+
+12 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Long-term Investments
+
+WEBSTER COMPANY Balance Sheet March 31, 20X6
+ASSETS Current Assets Cash Trading securities Accounts receivable Inventories Prepaid insurance Long-term Investments g Available for sale securities Cash value of insurance Property, Plant & Equipment Land Buildings and equipment Less: Accumulated deprec. Intangible Assets Goodwill Other Assets Total Assets $ 100,000 50,000 75,000 200,000 25,000 $ 45,000 10,000 $ 25,000 $ 150,000 (50,000) 100,000 125,000 275,000 10,000 $ 915,000 STOCKHOLDERS’ EQUITY Capital stock Retained earnings Accumulated other comprehensive income/loss Total Stockholders’ Equity Total Liabilities and Equity $ 300,000 170,000 ( (5 , ) ,000 (5,000) 465,000 $ 915,000 LIABILITIES
+
+$ 450,000
+
+Current Liabilities Accounts payable Salaries payable Interest payable Taxes payable Current portion of note Long-term Liabilities Notes payable Mortgage liability Total Liabilities
+
+***
+
+$ 80,000 10,000 15,000 5,000 40,000 $ 190,000 110,000
+
+$ 150,000
+
+55,000
+
+300,000 $450,000
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+13 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Long-Term Assets
+
+Long-term Investments
+
+WEBSTER COMPANY Balance Sheet April 30, 20X6
+ASSETS Current Assets Cash Trading securities Accounts receivable Inventories Prepaid insurance Long-term Investments g *** Available for sale securities Cash value of insurance Property, Plant & Equipment Land Buildings and equipment Less: Accumulated deprec. Intangible Assets Goodwill Other Assets Total Assets $ 100,000 50,000 75,000 200,000 25,000 $ 60,000 10,000 $ 25,000 $ 150,000 (50,000) 100,000 125,000 275,000 10,000 $ 930,000 STOCKHOLDERS’ EQUITY Capital stock g Retained earnings Accumulated other comprehensive income/loss Total Stockholders’ Equity Total Liabilities and Equity $ 300,000 170,000 , 10,000 480,000 $ 930,000 LIABILITIES Current Liabilities Accounts payable Salaries payable Interest payable Taxes payable Current portion of note Long-term Liabilities Notes payable Mortgage liability Total Liabilities $ 80,000 10,000 15,000 5,000 40,000 $ 190,000 110,000
+
+$ 450,000
+
+$ 150,000
+
+70,000
+
+300,000 $450,000
+
+In reviewing this illustration, note that Available for Sale Securities are customarily classified in the Long-term Investments section of the balance sheet. And, take note the OCI adjustment is merely appended to stockholders’ equity.
+
+14 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Long-term Investments
+
+3. Held to Maturity Securities
+It was noted earlier that certain types of financial instruments have a fixed maturity date; the most typical of such instruments are “bonds.” The held to maturity securities are to be accounted for by the amortized cost method. To elaborate, if you or I wish to borrow money we would typically approach a bank or other lender and they would likely be able to accommodate our request. But, a corporate giant’s credit needs may exceed the lending capacity of any single bank or lender. Therefore, the large corporate borrower may instead issue “bonds,” thereby splitting a large loan into many small units. For example, a bond issuer may borrow $500,000,000 by issuing 500,000 individual bonds with a face amount of $1,000 each (500,000 X $1,000 = $500,000,000). If you or I wished to loan some money to that corporate giant, we could do so by simply buying (“investing in”) one or more of their bonds. The specifics of bonds will be covered in much greater detail in a subsequent chapter, where we will look at a full range of issues from the perspective of the issuer (i.e., borrower). However, for now we are only going to consider bonds from the investor perspective. You need to understand just a few basics: (1) each bond will have an associated “face value” (e.g., $1,000) that corresponds to the amount of principal to be paid at maturity, (2) each bond will have a contract or stated interest rate (e.g., 5% -- meaning that the bond pays interest each year equal to 5% of the face amount), and (3) each bond will have a term (e.g., 10 years -- meaning the bonds mature 10 years from the designated issue date). In other words, a $1,000, 5%, 10-year bond would pay $50 per year for 10 years (as interest), and then pay $1,000 at the stated maturity date 10 years after the original date of the bond.
+
+3.1 The Issue Price
+How much would you pay for the above 5%, 10-year bond: Exactly $1,000, more than $1,000, or less than $1,000? The answer to this question depends on many factors, including the creditworthiness of the issuer, the remaining time to maturity, and the overall market conditions. If the “going rate” of interest for other bonds was 8%, you would likely avoid this 5% bond (or, only buy it if it were issued at a deep discount). On the other hand, the 5% rate might look pretty good if the “going rate” was 3% for other similar bonds (in which case you might actually pay a premium to get the bond). So, bonds might have an issue price that is at their face value (also known as “par”), or above (at a premium) or below (at a discount) face. The price of a bond is typically stated as percentage of face; for example 103 would mean 103% of face, or $1,030. The specific calculations that are used to determine the price one would pay for a particular bond are revealed in a subsequent chapter.
+
+3.2 Recording the Initial Investments
+An Investment in Bonds account (at the purchase price plus brokerage fees and other incidental acquisition costs) is established at the time of purchase. Importantly, premiums and discounts are not recorded in separate accounts:
+
+15 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Long-term Investments
+
+3.3 Illustration of Bonds Purchased at Par
+1-1-X3 Investment in Bonds Cash
+To record the purchase of five $1,000, 5%, 3-year bonds at par -- interest payable semiannually
+
+5,000 5,000
+
+***
+
+The above entry reflects a bond purchase as described, while the following entry reflects the correct accounting for the receipt of the first interest payment after 6 months.
+6-30-X3 Cash Interest Income
+To record the receipt of an interest payment ($5,000 par X .05 interest X 6/12 months)
+
+125 125
+
+***
+
+16 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Long-Term Assets
+
+Long-term Investments
+
+Now, the entry that is recorded on June 30 would be repeated with each subsequent interest payment -- continuing through the final interest payment on December 31, 20X5. In addition, at maturity, when the bond principal is repaid, the investor would make this final accounting entry:
+
+12-31-X5 ***
+
+Cash Investment in Bonds
+To record the redemption of bond investment at maturity
+
+5,000 5,000
+
+3.4 Illustration of Bonds Purchased at a Premium
+When bonds are purchased at a premium, the investor pays more than the face value up front. However, the bond’s maturity value is unchanged; thus, the amount due at maturity is less than the initial issue price! This may seem unfair, but consider that the investor is likely generating higher annual interest receipts than on other available bonds -- that is why the premium was paid to begin with. So, it all sort of comes out even in the end. Assume the same facts as for the above bond illustration, but this time imagine that the market rate of interest was something less than 5%. Now, the 5% bonds would be very attractive, and entice investors to pay a premium:
+1-1-X3 Investment in Bonds Cash
+To record the purchase of five $1,000, 5%, 3-year bonds at 106 -- interest payable semiannually
+
+5,300 5,300
+
+***
+
+The above entry assumes the investor paid 106% of par ($5,000 X 106% = $5,300). However, remember that only $5,000 will be repaid at maturity. Thus, the investor will be “out” $300 over the life of the bond. Thus, accrual accounting dictates that this $300 “cost” be amortized (“recognized over the life of the bond”) as a reduction of the interest income:.
+6-30-X3 Cash Interest Income Investment in Bonds 125 75 50
+
+***
+
+To record the receipt of an interest payment ($5,000 par X .05 interest X 6/12 months = $125; $300 premium X 6 months/36 months = $50 amortization)
+
+The preceding entry is undoubtedly one of the more confusing entries in accounting, and bears additional explanation. Even though $125 was received, only $75 is being recorded as interest income. The other $50 is treated as a return of the initial investment; it corresponds to the premium amortization ($300 premium allocated evenly over the life of the bond -- $300 X (6 months/36 months)) and is credited against the Investment in Bonds account. This process of premium amortization (and the above entry) would be repeated with each interest payment date. Therefore, after three years, the Investment in Bonds account would be reduced to $5,000 ($5,300 - ($50
+
+17 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Long-term Investments
+
+amortization X 6 semiannual interest recordings)). This method of tracking amortized cost is called the straight-line method. There is another conceptually superior approach to amortization, called the effective-interest method, that will be revealed in later chapters. However, it is a bit more complex and the straight-line method presented here is acceptable so long as its results are not materially different than would result under the effective-interest method. In addition, at maturity, when the bond principal is repaid, the investor would make this final accounting entry:
+12-31-X5 Cash Investment in Bonds
+To record the redemption of bond investment at maturity
+
+5,000 5,000
+
+***
+
+In an attempt to make sense of the above, perhaps it is helpful to reflect on just the “cash out” and the “cash in.” How much cash did the investor pay out? It was $5,300; the amount of the initial investment. How much cash did the investor get back? It was $5,750; $125 every 6 months for 3 years and $5,000 at maturity. What is the difference? It is $450 ($5,750 - $5,300) -- which is equal to the income recognized above ($75 every 6 months, for 3 years). At its very essence, accounting measures the change in money as income. Bond accounting is no exception, although it is sometimes illusive to see. The following “amortization” table reveals certain facts about the bond investment accounting, and is worth studying to be sure you understand each amount in the table. Be sure to “tie” the amounts in the table to the entries above:
+
+18 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Long-term Investments
+
+Sometimes, complex topics like this are easier to understand when you think about the balance sheet impact of a transaction. For example, on 12-31-X4, Cash is increased $125, but the Investment in Bond account is decreased by $50 (dropping from $5,150 to $5,100). Thus, total assets increased by a net of $75. The balance sheet remains in balance because the corresponding $75 of interest income causes a corresponding increase in retained earnings.
+
+19 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Long-Term Assets
+
+Long-term Investments
+
+3.5 Illustration of Bonds Purchased at a Discount
+The discount scenario is very similar to the premium scenario, but “in reverse.” When bonds are purchased at a discount, the investor pays less than the face value up front. However, the bond’s maturity value is unchanged; thus, the amount due at maturity is more than the initial issue price! This may seem like a bargain, but consider that the investor is likely getting lower annual interest receipts than is available on other bonds -- that is why the discount existed in the first place. Assume the same facts as for the previous bond illustration, except imagine that the market rate of interest was something more than 5%. Now, the 5% bonds would not be very attractive, and investors would only be willing to buy them at a discount:
+1-1-X3 Investment in Bonds Cash
+To record the purchase of five $1,000, 5%, 3-year bonds at 97 -- interest payable semiannually
+
+4,850 4,850
+
+***
+
+The above entry assumes the investor paid 97% of par ($5,000 X 97% = $4,850). However, remember that a full $5,000 will be repaid at maturity. Thus, the investor will get an additional $150 over the life of the bond. Accrual accounting dictates that this $150 “benefit” be recognized over the life of the bond as an increase in interest income:
+6-30-X3 Cash Investment in Bonds Interest Income 125 25 150
+
+***
+
+To record the receipt of an interest payment ($5,000 par X .05 interest X 6/12 months = $125; $150 discount X 6 months/36 months = $25 amortization)
+
+The preceding entry would be repeated at each interest payment date. Again, further explanation may prove helpful. In addition to the $125 received, another $25 of interest income is recorded. The other $25 is added to the Investment in Bonds account; as it corresponds to the discount amortization ($150 discount allocated evenly over the life of the bond -- $150 X (6 months/36 months)). This process of discount amortization would be repeated with each interest payment. Therefore, after three years, the Investment in Bonds account would be increased to $5,000 ($4,850 + ($25 amortization X 6 semiannual interest recordings)). This is another example of the straightline method of amortization since the amount of interest is the same each period.
+
+20 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Long-term Investments
+
+When the bond principal is repaid at maturity, the investor would also make this final accounting entry:
+12-31-X5 Cash Investment in Bonds
+To record the redemption of bond investment at maturity
+
+5,000 5,000
+
+***
+
+Let’s consider the “cash out” and the “cash in.” How much cash did the investor pay out? It was $4,850; the amount of the initial investment. How much cash did the investor get back? It is the same as it was in the preceding illustration -- $5,750; $125 every 6 months for 3 years and $5,000 at maturity. What is the difference? It is $900 ($5,750 - $4,850) -- which is equal to the income recognized above ($150 every 6 months, for 3 years). Be sure to “tie” the amounts in the following amortization table to the related entries.
+
+Can you picture the balance sheet impact on 6-30-X5? Cash increased by $125, and the Investment in Bond account increased $25. Thus, total assets increased by $150. The balance sheet remains in balance because the corresponding $150 of interest income causes a corresponding increase in retained earnings.
+
+21 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Long-term Investments
+
+4. The Equity Method of Accounting
+On occasion, an investor may acquire enough ownership in the stock of another company to permit the exercise of “significant influence” over the investee company. For example, the investor has some direction over corporate policy, and can sway the election of the board of directors and other matters of corporate governance and decision making. Generally, this is deemed to occur when one company owns more than 20% of the stock of the other -- although the ultimate decision about the existence of “significant influence” remains a matter of judgment based on an assessment of all facts and circumstances. Once significant influence is present, generally accepted accounting principles require that the investment be accounted for under the “equity method” (rather than the methods previously discussed, such as those applicable to trading securities or available for sale securities). With the equity method, the accounting for an investment is set to track the “equity” of the investee. That is, when the investee makes money (and experiences a corresponding increase in equity), the investor will similarly record its share of that profit (and vice-versa for a loss). The initial accounting commences by recording the investment at cost:
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+22 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Long-Term Assets
+
+Long-term Investments
+
+4-1-X3
+
+Investment Cash
+To record the purchase of 5,000 shares of Legg stock at $10 per share. Legg has 20,000 shares outstanding, and the investment in 25% of Legg (5,000/20,000 = 25%) is sufficient to give the investor significant influence
+
+50,000 50,000
+
+***
+
+Next, assume that Legg reports income for the three-month period ending June 30, 20X3, in the amount of $10,000. The investor would simultaneously record its “share” of this reported income as follows:
+6-30-X3 Investment Investment Income
+To record investor’s share of Legg’s reported income (25% X $10,000)
+
+2,500 2,500
+
+***
+
+Importantly, this entry causes the Investment account to increase by the investor’s share of the investee’s increase in its own equity (i.e., Legg’s equity increased $10,000, and the entry causes the investor’s Investment account to increase by $2,500), thus the name “equity method.” Notice, too, that the credit causes the investor to recognize income of $2,500, again corresponding to its share of Legg’s reported income for the period. Of course, a loss would be reported in just the opposite fashion. When Legg pays out dividends (and decreases its equity), the investor will need to reduce its Investment account:
+7-1-X3 Cash Investment
+To record the receipt of $1,000 in dividends from Legg -- Legg declared and paid a total of $4,000 ($4,000 X 25% = $1,000)
+
+1,000 1,000
+
+***
+
+The above entry is based on the assumption that Legg declared and paid a $4,000 dividend on July 1. This treats dividends as a return of the investment (not income, because the income is recorded as it is earned rather than when distributed). In the case of dividends, notice that the investee’s equity reduction is met with a corresponding proportionate reduction of the Investment account on the books of the investor. Note that market-value adjustments are usually not utilized when the equity method is employed. Essentially, the Investment account tracks the equity of the investee, increasing as the investee reports income and decreasing as the investee distributes dividends.
+
+23 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Long-term Investments
+
+5. Investments Requiring Consolidation
+You only need to casually review the pages of most any business press before you will notice a story about one business buying another. Such acquisitions are common and number in the thousands annually. Typically, such transactions are effected rather simply, by the acquirer simply buying a majority of the stock of the target company. This majority position enables the purchaser to exercise control over the other company; electing a majority of the board of directors, which in turn sets the direction for the company. Control is ordinarily established once ownership jumps over the 50% mark, but management contracts and other similar arrangements may allow control to occur at other levels.
+
+5.1 Economic Entity Concept and Control
+The acquired company may continue to operate, and maintain its own legal existence. In other words, assume Premier Tools Company bought 100% of the stock of Sledge Hammer Company. Sledge (now a “subsidiary” of Premier the “parent”) will continue to operate and maintain its own legal existence. It will merely be under new ownership. But, even though it is a separate legal entity, it is viewed by accountants as part of a larger “economic entity.” The intertwining of ownership means that Parent and Sub are “one” as it relates to economic performance and outcomes. Therefore, accounting rules require that parent companies “consolidate” their financial reports, and include all the assets, liabilities, and operating results of all controlled subsidiaries. When you look at the financial statements of a conglomerate like General Electric, what you are actually seeing is the consolidated picture of many separate companies owned by GE.
+
+5.2 Accounting Issues
+Although the processes of consolidation can become quite complex (at many universities, an entire course may be devoted to this subject alone), the basic principles are straightforward. Assume that Premier’s “separate” (before consolidating) balance sheet, immediately after purchasing 100% of Sledge’s stock, appeared as follows:
+PREMIER TOOLS COMPANY Balance Sheet March 31, 20X3
+ASSETS Current Assets Cash Trading securities ***receivable Accounts Inventories Long-term Investments Investment in Sledge Property, Plant & Equipment Land Buildings and equipment (net) Intangible Assets Patent Total Assets $ 100,000 70,000 80,000 200,000 LIABILITIES Current Liabilities Accounts payable Salaries payable Interest payable Long-term Liabilities Notes payable Mortgage liability STOCKHOLDERS’ EQUITY 125,000 225,000 $1,200,000 Capital stock Retained earnings Total Liabilities and Equity $ 300,000 500,000 $ 80,000 10,000 10,000 $ 190,000 110,000
+
+$ 100,000 300,000 $ 400,000
+
+$ 450,000 400,000
+
+$ 25,000 100,000
+
+800,000 $1,200,000
+
+Notice the highlighted Investment in Sledge account above, indicating that Premier paid $400,000 for the stock of Sledge. Do take note that the $400,000 was not paid to Sledge; it was paid to the
+
+24 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Long-term Investments
+
+former owners of Sledge. Sledge merely has a new owner, but it is otherwise “unchanged” by the acquisition. Assume Sledge’s separate balance sheet looks like this:
+SLEDGE HAMMER COMPANY Balance Sheet March 31, 20X3
+ASSETS Current Assets Cash Accounts receivable *** Inventories Property, Plant & Equipment Land Buildings and equipment (net) Total Assets $ 50,000 30,000 20,000 LIABILITIES Current Liabilities Accounts payable Salaries payable Long-term Liabilities Notes payable STOCKHOLDERS’ EQUITY Capital stock Retained earnings Total Liabilities and Equity $ 80,000 20,000
+
+$ 100,000 50,000 $ 150,000
+
+$ 100,000
+
+$ 75,000 275,000
+
+350,000 $ 450,000
+
+$ 100,000 200,000
+
+300,000 $ 450,000
+
+.
+
+25 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Long-Term Assets
+
+Long-term Investments
+
+Let’s examine carefully what Premier got for its $400,000 investment. Premier became the sole owner of Sledge, which has assets that are reported on Sledge’s books at $450,000, and liabilities that are reported at $150,000. The resulting net book value ($450,000 - $150,000 = $300,000) is reflected as Sledge’s total stockholders’ equity. Now, you notice that Premier paid $100,000 in excess of book value for Sledge ($400,000 - $300,000). This excess is quite common, and is often called “purchase differential” (the difference between the price paid for another company, and the net book value of its assets and liabilities). Why would Premier pay such a premium? Remember that assets and liabilities are not necessarily reported at fair value. For example, the land held by Sledge is reported at its cost, and its current value may differ (let’s assume Sledge’s land is really worth $110,000, or $35,000 more than its carrying value of $75,000). That would explain part of the purchase differential. Let us assume that all other identifiable assets and liabilities are carried at their fair values. But what about the other $65,000 of purchase differential ($100,000 total differential minus the $35,000 attributable to specifically identified assets or liabilities)?
+
+5.3 Goodwill
+Whenever one business buys another, and pays more than the fair value of all the identifiable pieces, the excess is termed “goodwill.” This has always struck me as an odd term -- but I suppose it is easier to attach this odd name, in lieu of using a more descriptive account title like: Excess of Purchase Price Over Fair Value of Identifiable Assets Acquired in a Purchase Business Combination. So, when you see Goodwill in the corporate accounts, you now know what it means. It only arises from the purchase of one business by another. Many companies may have implicit goodwill, but it is not recorded until it arises from an actual acquisition (that is, it is bought and paid for in a arm’s-length transaction). Perhaps we should consider why someone would be willing to pay such a premium. There are many possible scenarios, but suffice it to say that many businesses are worth more than their identifiable pieces. A movie rental store, with its business location and established customer base, is perhaps worth more than the movies, display equipment, and check-out stands it holds. A law firm is hopefully worth more than its desks, books, and computers. An oil company is likely far more valuable than its drilling and pumping gear. Consider the value of a brand name that may not be on the books but has instead been established by years of marketing. And, let’s not forget that a business combination may eliminate some amount of competition; some businesses will pay a lot to be rid of a competitor.
+
+5.4 The Consolidated Balance Sheet
+No matter how goodwill arises, the accountant’s challenge is to measure and report it in the consolidated statements -- along with all the other assets and liabilities of the parent and sub. Study the following consolidated balance sheet for Premier and Sledge:
+
+26 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Long-term Investments
+
+PREMIER TOOLS COMPANY Balance Sheet March 31, 20X3
+ASSETS Current Assets Cash Trading securities Accounts receivable Inventories *** Property, Plant & Equipment Land Buildings and equipment (net) Intangible Assets Patent Goodwill Total Assets $ 150,000 70,000 110,000 220,000 $ 135,000 375,000 $225,000 65,000 LIABILITIES Current Liabilities Accounts payable Salaries payable Interest payable Long-term Liabilities Notes payable Mortgage liability STOCKHOLDERS’ EQUITY Capital stock Retained earnings Total Liabilities and Equity $ 300,000 500,000 $ 160,000 30,000 10,000 $ 240,000 110,000
+
+$ 200,000 350,000 $ 550,000
+
+$ 550,000 510,000
+
+290,000 $1,350,000
+
+800,000 $1,350,000
+
+In the above illustration, take note of several important points. First, the Investment in Sledge account is absent because it has effectively been replaced with the individual assets and liabilities of Sledge. Second, the assets acquired from Sledge, including goodwill, have been pulled into the consolidated balance sheet at the price paid for them (for example, take special note of the calculations relating to the Land account). Finally, note the consolidated stockholders’ equity amounts are the same as from Premier’s separate balance sheet. This result is expected since Premier’s separate accounts include the ownership of Sledge via the Investment in Sledge account (which has now been replaced by the actual assets and liabilities of Sledge). It may appear a bit mysterious as to how the preceding balance sheet “balances” -- there is an orderly worksheet process that can be shown to explain how this consolidated balance sheet comes together, and that is best reserved for advanced accounting classes -- for now simply understand that the consolidated balance sheet encompasses the assets (excluding the investment account), liabilities, and equity of the parent at their dollar amounts reflected on the parent’s books, along with the assets (including goodwill) and liabilities of the sub adjusted to their values based on the price paid by the parent for its ownership in the sub.
+
+5.5 The Consolidated Income Statement
+Although it will not be illustrated here, it is important to know that the income statements of the parent and sub will be consolidated post-acquisition. That is, in future months, quarters, and years, the consolidated income statement will reflect the revenues and expenses of both the parent and sub added together. This process is ordinarily straightforward. But, an occasional wrinkle will arise. For instance, if the parent paid a premium in the acquisition for depreciable assets and/or inventory, the amount of consolidated depreciation expense and/or cost of goods sold may need to be tweaked to reflect alternative amounts from those reported in the separate statements. And, if the parent and sub have done business with one another, adjustments will be needed to avoid reporting intercompany transactions. We never want to report internal transactions between affiliates as actual sales. To do so can easily and rather obviously open the door to manipulated financial results.
+
+27 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Property, Plant and Equipment
+
+Property, Plant and Equipment
+Part 2
+Your goals for this “property, plant, and equipment” chapter are to learn about: x x x x x x x x x Measurement of costs appropriately assigned to property, plant, and equipment. Equipment leases and the accounting implications. Principles relating to service life and depreciation. Depreciation methodology and terminology. Straight-line depreciation. Units-of-output depreciation. Double-declining balance depreciation. Sum-of-the-years’-digits depreciation. Unique features of depreciation under the tax code.
+
+28 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Property, Plant and Equipment
+
+6. What Costs are Included in Property, Plant, and Equipment
+Items of property, plant, and equipment are included in a separate category on a classified balance sheet. Property, plant, and equipment typically follows the Long-term Investments section, and is oftentimes simply referred to as “PP&E.” Items appropriately included in this section of the balance sheet are the physical assets deployed in the productive operation of the business, like land, buildings, and equipment. Note that idle facilities or land held for speculation may more appropriately be listed in some other category on the balance sheet (like long-term investments) since these items are not in productive use. Within the PP&E section, the custom is to list PP&E according to expected life -- meaning that land (with an indefinite life) comes first, followed by buildings, then equipment. For some businesses, the amount of PP&E can be substantial. This is the case for firms that have heavy manufacturing operations or significant real estate holdings. Other businesses, say those that are service or intellectual based, may actually have very little to show within this balance sheet category. Below is an example of how a typical PP&E section of the balance sheet might appear. In the alternative, some companies may relegate this level of detailed disclosure into a note accompanying the financial statements, and instead just report a single number for “property, plant, and equipment, net of accumulated depreciation” on the face of the balance sheet.
+Property, Plant & Equipment Land Buildings Less: Accumulated depreciation Equipment Less: Accumulated depreciation $ 2,300,000 (1,500,000) $ 4,000,000 (1,800,000) $ 1,000,000 800,000 2,200,000 $ 4,000,000
+
+***
+
+6.1 Cost to Assign to Items of Property, Plant, and Equipment
+The correct amount of cost to allocate to PP&E is based on a fairly straight-forward rule -- to identify those expenditures which are ordinary and necessary to get the item in place and in condition for its intended use. Such amounts include the purchase price (less any negotiated discounts), permits, freight, ordinary installation, initial setup/calibration/programming, and other normal costs associated with getting the item ready to use. These costs are termed “capital expenditures.” In contrast, other expenditures may arise which were not “ordinary and necessary,” or benefit only the immediate period. These costs should be expensed as incurred. An example is repair of abnormal damage caused during installation of equipment.
+
+29 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Property, Plant and Equipment
+
+To illustrate, assume that Pechlat Corporation purchased a new lathe. The lathe had a list price of $90,000, but Pechlat negotiated a 10% discount. In addition, Pechlat agreed to pay freight and installation of $5,000. During installation, the lathe’s spindle was bent and had to be replaced for $2,000. The journal entry to record this transaction is:
+
+***
+
+3-17-X4
+
+Equipment Repair Expense Cash
+Paid for equipment (($90,000 X .90) + $5,000), and repair cost
+
+86,000 2,000 88,000
+
+6.2 Interest Cost
+Amounts paid to finance the purchase of property, plant, and equipment are expensed. An exception is interest incurred on funds borrowed to finance construction of plant and equipment. Such interest related to the period of time during which active construction is ongoing is capitalized. Interest capitalization rules are quite complex, and are typically covered in detail in intermediate accounting courses.
+
+6.3 Training Costs
+The acquisition of new machinery is oftentimes accompanied by employee training regarding the correct operating procedures for the device. The normal rule is that training costs are expensed. The logic here is that the training attaches to the employee not the machine, and the employee is not owned by the company. On rare occasion, justification for capitalization of very specialized training costs (where the training is company specific and benefits many periods) is made, but this is the exception rather than the rule.
+
+6.4 A Distinction Between Land and Land Improvements
+When acquiring land, certain costs are again ordinary and necessary and should be assigned to Land. These costs obviously will include the cost of the land, plus title fees, legal fees, survey costs, and zoning fees. But other more exotic costs come into play and should be added to the Land account; the list can grow long. For example, costs to grade and drain land to get it ready for construction can be construed as part of the land cost. Likewise, the cost to raze an old structure from the land may be added to the land account (net of any salvage value that may be extracted from the likes of old bricks or steel, etc.). All of these costs may be considered to be ordinary and necessary costs to get the land ready for its intended use. However, at some point, the costs shift to another category -- “land improvements.” Land Improvements is another item of PP&E and includes the cost of parking lots, sidewalks, landscaping, irrigation systems, and similar expenditures. Why do you suppose it is important to separate land and land improvement costs? The answer to this question will become clear when we consider depreciation issues. As you will soon see, land is considered to have an indefinite life and is not depreciated. Alternatively, you know that parking lots, irrigation systems, etc. do wear out and must therefore be depreciated.
+
+30 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Property, Plant and Equipment
+
+6.5 Lump-Sum Acquisitions
+A company may buy an existing manufacturing facility, complete with land, buildings, and equipment. The negotiated price is usually a “turnkey” deal for all the components. While the lumpsum purchase price for the package of assets is readily determinable, assigning costs to the individual components can become problematic. Yet, for accounting purposes, it is necessary to allocate the total purchase price to the individual assets acquired. This requires a pro-rata allocation of the purchase price to the individual components. This concept is best illustrated with an example: Suppose Dibitanzl Corporation acquired a manufacturing facility from Malloy Corporation for the grand total of $2,000,000. To keep it simple, we will assume that the facility consisted of land, building, and equipment. If Dibitanzl had acquired the land separately, it is estimated that its fair value would be $500,000. The fair value of the building, by itself, is estimated to be $750,000. Finally, the equipment would cost $1,250,000 if purchased independent of the “package” deal. The accounting task is to allocate the cost of $2,000,000 to the three separate pieces. If you sum the perceived values of the components, you will note that it comes to $2,500,000 ($500,000 + $750,000 + $1,250,000). Yet, the actual purchase price was only 80% of this amount:
+
+31 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Property, Plant and Equipment
+
+The above calculations form the basis for the following entry:
+5-12-X7
+***
+
+Land Building Equipment Cash
+Purchased land, building, and equipment
+
+400,000 600,000 1,000,000 2,000,000
+
+6.6 Professional Judgment
+To many, accounting seems to be strictly mechanical. As you delve deeper into the subject, you will begin to observe an ever-increasing need for the exercise of judgment. Consider the above entry, which causes the land, building, and equipment to be recorded at the historical cost of $2,000,000, regardless of the perceived higher fair value. Remember the historical cost principle -- which dictates that (most) assets are to be recorded at their cost. The fact that fair value is perceived to be greater than cost does not justify a departure from the historical cost principle. But, professional judgment was required to estimate the fair value of the components for purposes of making the allocation. Such judgments are oftentimes an inescapable part of the accounting process. You will observe that different estimates of fair value could have been used, and that would cause a different proportion of the $2,000,000 to be assigned to each piece, but the total allocation would still come to exactly $2,000,000. So, why does the allocation really matter? It is actually very important when you consider that the amount assigned to land will not be depreciated, while amounts assigned to building and equipment will be depreciated at different rates. Thus, the future pattern of depreciation expense (and therefore income!) will be altered by this initial allocation. You no doubt have a keen sense that investors pay close attention to income. Thus, you can start to sense how important judgment becomes in the accounting process.
+
+6.7 Materiality Considerations
+Look around your room and consider how many expenditures were for long-lived assets that were relatively minor in value -- perhaps a trash can, a telephone, a picture on the wall, and so forth. If your room was a business, would you capitalize those expenditures and depreciate them over their useful life? Or, would you decide that the cost of record keeping exceeded the benefit? If so, you might choose to simply expense the cost as incurred (as many businesses do). The reason is “materiality;” no matter which way you account for the cost, it is not apt to bear on anyone’s decision-making process about the company. Again, all of this discussion is to highlight the degree to which professional judgment comes into play in the accounting process.
+
+32 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Property, Plant and Equiqment
+
+7. Equipment Leases
+Many businesses acquire needed assets via a lease arrangement. With a lease arrangement, the lessee pays money to the lessor for the right to use an asset for a stated period of time. In a strict legal context, the lessor remains the owner of the property. However, the accounting for such transactions looks through the legal form, and is instead based upon the economic substance of the agreement. If a lease effectively transfers the “risks and rewards” of ownership to the lessee, then the applicable accounting rules dictate that the lessee account for the leased asset as though it has been purchased. The lessee records the leased asset as an item of property, plant, and equipment, which is then depreciated over its useful life to the lessee. The lessee must also record a liability reflecting the obligation to make continuing payments under the lease agreement, similar to the accounting for a note payable. Such transactions are termed “capital leases.” You should note that the basic accounting outcome is as though the lease agreement represents the purchase of an asset, with a corresponding obligation to pay it off over time (the same basic approach as if the asset were purchased on credit). Of course, not all leases effectively transfer the risks and rewards of ownership to the lessee. The determination of risk/reward transfer is based upon evaluation of very specific criteria: (1) ownership transfer of the asset by the end of the lease term, (2) minimum lease payments with a discounted present value that is 90% or more of the fair value of the asset, (3) a lease term that is at least 75% of the life of the asset, or (4) some bargain purchase element that kicks in before the end of the lease. If a lease does not include at least one of the preceding conditions, it is deemed not to be a “capital lease,” and is thus considered to be an “operating lease.” You will be relieved to know that you have already studied “operating leases” in the earliest chapters of this book -- that is, rent is simply recorded as rent expense as incurred -- the underlying asset is not reported on the books of the lessee. Your life’s experiences may give you a basis for extending your understanding of leases. If you have rented an apartment at some point in your life, consider how it would be accounted for by you – as a capital lease or an operating lease? None of the “4” criteria was likely met; thus, your agreement was an operating lease. In the alternative, you may have leased a car. It is possible (not assured) that your lease agreement would trigger one of the four criteria. If you were to follow generally accepted accounting principles for such an agreement, you would have recorded both an asset (the car) and the liability (obligation under capital lease) on your books the day you drove away from the dealer (in debit/credit context, you debit the asset and credit the liability for an amount that approximates the fair value -- I’ll leave those details for intermediate accounting courses). Now, you may wonder why all the trouble over lease accounting? However, if you think about an industry that relies heavily on capital lease agreements, like the commercial airlines, you can quickly come to see the importance of reporting the planes and the fixed commitment to pay for them. To exclude them would render the financial statements not representative of the true nature of the business operation.
+
+33 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Property, Plant and Equiqment
+
+8. Service Life and Cost Allocation
+Casually, people will speak of depreciation as a decline in value or using-up of an asset. However, in accounting jargon, the term is meant to refer to the allocation of an asset’s cost to the accounting periods benefited -- not an attempt to value the asset. Thus, it is often said that depreciation is a process of “allocation” not “valuation.” We have already addressed how an asset’s cost is determined. Next, we must consider how to determine the accounting periods benefited (i.e., “service life”). Determining the service life of an asset is an essential first step in calculating the amount of depreciation attributable to a specific period. Several factors must be considered: Physical deterioration -- “Wear and tear” will eventually cause most assets to simply wear out and become useless. Thus, physical deterioration serves to establish an outer limit on the service life of an asset.
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+34 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Long-Term Assets
+
+Property, Plant and Equiqment
+
+Obsolescence -- The shortening of service life due to technological advances that cause an asset to become out of date and less desirable. Inadequacy -- An economic determinant of service life which is relevant when an asset is no longer fast enough or large enough to fill the competitive and productive needs of a company. Factors such as the above must be considered in determining the service life of a particular asset. In some cases, all three factors must be considered. In other cases, one factor alone may control the determination of service life. Importantly, you should observe that service life can be completely different from physical life. For example, how many computers have you owned, and why did you replace an old one? In all likelihood, its service life to you had been exhausted even though it was still physically functional. Recognize that some assets have an indefinite (or permanent) life. One prominent example is land. Accordingly, it is not considered to be a depreciable asset.
+
+35 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Property, Plant and Equiqment
+
+9. Depreciation Methodology
+After the cost and service life of an asset are determined, it is time to move on to the choice of depreciation method. The depreciation method is simply the pattern by which the cost is allocated to each of the periods involved in the service life. You may be surprised to learn that there are many methods from which to choose. Four popular methods are: (1) straight-line, (2) units-of-output, (3) double-declining-balance, and (4) sum-of-the-years’-digits. Before considering the specifics of these methods, you may wonder why so many choices. Perhaps a basic illustration will help address this concern. Let us begin by assuming that a $100 asset is to be depreciated over 4 years. Under one method, which happens to be the straight-line approach, depreciation expense is simply $25 per year (shown in red below). This may seem very logical -especially if the asset is used more or less uniformly over the 4 year period. But, what if maintenance costs (shown in blue) are also considered? As an asset ages, it is not uncommon for maintenance costs to expand. Let’s assume the first year maintenance is $10, and rises by $10 each year as follows:
+$45 $40 $35 $30 $45 $40 $35 $30 $25 $20 $15 $10 $5 $0 YR 1 YR 2 YR 3 YR 4 YR 1 YR 2 YR 3 YR 4 STRAIGHT-LINE DEPRECIATION PATTERN MAINTENANCE COSTS
+
+***
+
+$25 $20 $15 $10 $5 $0
+
+Combining the two costs together reveals an interesting picture, showing that total cost rises over time, even though the usage is deemed to be constant.
+$70 $60 $50
+
+***
+
+$40 $30 $20 $10 $0 YR 1 YR 2 YR 3 YR 4 COMBINED COSTS
+
+The following graphics show what happens if we run the same scenario with an alternative depreciation method called sum-of-the-years’-digits (the mechanics will be covered shortly):
+$45 $40 $35 $30 $25 $20 $15 $10 $5 $0 YR 1 YR 2 YR 3 YR 4 SUM-OF-THE-YEARS’ DIGITS DEPRECIATION PATTERN $45 $40 $35 $30 $60 $50 $40 $30 $20 $10 $0 YR 1 YR 2 YR 3 YR 4 YR 1 YR 2 YR 3 YR 4 MAINTENANCE COSTS COMBINED COSTS
+
+***
+
+$25 $20 $15 $10 $5 $0
+
+36 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Property, Plant and Equiqment
+
+Now, the combined cost is level, matching the unit’s usage/cost and perceived benefit to the company. Arguably, then, the sum-of-the-years’ digits approach achieves a better matching of total costs and benefits in this particular scenario. Does this mean that sum-of-the-years’ digits is better? Certainly not! The point is simply to show an example that brings into focus why there are alternative depreciation methods from which to choose. In any given scenario, ample professional judgment must be applied in selecting the specific depreciation method to apply. The above discussion is but one simple illustration; life affords an almost infinite number of scenarios, and accountants must weigh many variables as they zero-in on their preferred choice under a given set of facts and circumstances (author’s note: Not meaning to detract from the importance of this discussion, it must be noted that the choice of depreciation method can become highly subjective. Some research suggests that such choices are unavoidably “arbitrary,” despite the best of intentions). Having set the stage for consideration of multiple depreciation methods, it is now time to dig into the mechanics of each approach.
+
+9.1 Many Methods
+A variety of approaches can be used to calculate depreciation. And, those methods are usually covered in intermediate accounting courses. Fortunately, most companies elect to stay with one of the fairly basic techniques -- as they all produce the same “final outcome” over the life of an asset, and that outcome is allocating the depreciable cost of the asset to the asset’s service life. Therefore, although you will now only be exposed to four methods, those methods are the ones you are most apt to encounter.
+
+9.2 Some Important Terminology
+In any discipline, precision is enhanced by adopting terminology that has very specific meaning. Accounting for PP&E is no exception. An exact understanding of the following terms is paramount: x Cost: The dollar amount assigned to a particular asset; usually the ordinary and necessary amount expended to get an asset in place and in condition for its intended use. Service life: The useful life of an asset to an enterprise, usually relating to the anticipated period of productive use of the item.
+
+x
+
+37 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Property, Plant and Equiqment
+
+x
+
+Salvage value: Also called residual value; is the amount expected to be realized at the end of an asset’s service life. For example, you may anticipate using a vehicle for three years and then selling it. The anticipated sales amount at the end of the service life is the salvage or residual value. Depreciable base: The cost minus the salvage value. Depreciable base is the amount of cost that will be allocated to the service life. Book value: Also called net book value; refers to the balance sheet amount at a point in time that reveals the cost minus the amount of accumulated depreciation (book value has other meanings when used in other contexts -- so this definition is limited to its use in the context of PP&E).
+
+x
+
+x
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+38 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Long-Term Assets
+
+Property, Plant and Equiqment
+
+Below is a diagram relating these terms to the financial statement presentation for a building:
+
+COST Buildings Less: Accumulated depreciation $ 2,300,000 (1,500,000)
+
+BOOK VALUE 800,000
+
+SERVICE LIFE
+
+USUALLY FOUND IN THE NOTES TO THE FINANCIAL STATEMENTS; ASSUME 20 YEARS IN THIS EXAMPLE
+
+DEPRECIABLE BASE
+
+***
+
+USED IN CALCULATIONS, BUT USUALLY NOT DISCLOSED IN THE FINANCIAL STATEMENTS; ASSUME $300,000 IN THIS EXAMPLE
+
+SALVAGE VALUE
+
+USED IN DEPRECIATION CALCULATIONS, BUT USUALLY NOT DISCLOSED IN THE FINANCIAL STATEMENTS; COST MINUS SALVAGE VALUE OR $2,000,000 IN THIS EXAMPLE
+
+In the above illustration -- assuming straight-line depreciation -- can you determine the asset’s age? It is 15 years old; the $2,000,0000 depreciable base ($2,300,000 - $300,000) is being evenly spread over 20 years. This produces annual depreciation of $100,000. As a result, the accumulated depreciation is $1,500,000 (15 X $100,000).
+
+39 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Property, Plant and Equiqment
+
+10. The Straight-Line Method
+Under this simple and popular approach, the annual depreciation is calculated by dividing the depreciable base by the service life. An asset that has a $100,000 cost, $10,000 salvage value, and a four-year life would produce the following amounts:
+Depreciation Expense Year*** 1 Year 2 Year 3 Year 4 $22,500 $22,500 $22,500 $22,500 Accumulated Depreciation at End of Year $22,500 $45,000 $67,500 $90,000
+
+Annual Expense Calculation $100,000  $10,000/4 $100,000  $10,000/4 $100,000  $10,000/4 $100,000  $10,000/4
+
+For each of the above years, the journal entry to record depreciation is as follows:
+12-31-XX Depreciation Expense Accumulated Depreciation 22,500 22,500
+
+***
+To record annual depreciation expense
+
+The applicable depreciation expense would be included in each year’s income statement (except in a manufacturing environment where some depreciation may be assigned to the manufactured inventory, as will be covered in the managerial accounting chapters later in this book series). The appropriate balance sheet presentation would appear as follows (end of year 3 in this case):
+
+***Equipment Less: Accumulated depreciation on equipment
+
+$ 100,000 (67,500)
+
+32,500
+
+10.1 Fractional Period Depreciation
+Assets may be acquired at other than the beginning of an accounting period, and depreciation must be calculated for a partial period. With the straight-line method the amount is simply a fraction of the annual amount. For example, an asset acquired on the first day of April would be used for only nine months during the first calendar year. Therefore, year one depreciation would be 9/12 of the annual amount. Following is the depreciation table for the above asset, this time assuming an April 1 acquisition date:
+
+40 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Property, Plant and Equiqment
+
+Depreciation Expense Year 1 Year 2 Year 3 Year 4*** Year 5 $16,875 $22,500 $22,500 $22,500 $ 5,625
+
+Accumulated Depreciation at End of Year $16,875 $39,375 $61,875 $84,375 Not applicable -assumed disposed on March 31
+
+Annual Expense Calculation $100,000  $10,000/4 X 9/12 $100,000  $10,000/4 $100,000  $10,000/4 $100,000  $10,000/4 $100,000  $10,000/4 X 3/12
+
+10.2 Spreadsheet Software
+Microsoft Excel (and competing products) include built-in depreciation functions that may be entered by setting formulas (which can also be easily accessed from the Insert Function commands). Below is a screen shot showing the straight-line method function. On execution, this routine returns the $22,500 annual depreciation value to the C5 cell of the worksheet.
+
+41 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Property, Plant and Equiqment
+
+11. The Units-of-Output Method
+This technique involves calculations that are quite similar to the straight-line method, but it allocates the depreciable base over the units of output (e.g., machine hours) rather than years of use. It is logical to use this approach in those situations where the life is best measured by identifiable units of machine “consumption.” For example, perhaps the engine of a corporate jet has an estimated 50,000 hour life. Or, a printing machine may produce an expected 4,000,000 copies. In cases like these, the accountant may opt for the units-of-output method. To illustrate, assume Data Nguyen Painting Corporation purchased an air filtration system that has a life of 8,000 hours. The filter costs $100,000 and has a $10,000 salvage value. Nguyen anticipates that the filter will be used 1,000 hours during the first year, 3,000 hours during the second, 2,000 during the third, and 2,000 during the fourth. Accordingly, the anticipated depreciation schedule would appear as follows (if actual usage varies, the schedule would be adjusted for the changing estimates using principles that are discussed later in this chapter):
+Accumulated Depreciation at End of Year $11,250 $45,000 $67,500 $90,000
+
+Depreciation Expense Year 1 Year 2*** Year 3 Year 4 $11,250 $33,750 $22,500 $22,500
+
+Annual Expense Calculation 1,000 hours/8,000 hours X $100,000  $10,000 3,000 hours/8,000 hours X $100,000  $10,000 2,000 hours/8,000 hours X $100,000  $10,000 2,000 hours/8,000 hours X $100,000  $10,000
+
+The form of journal entry and balance sheet account presentation are just as were illustrated for the straight-line method, but with the revised amounts from the above table.
+
+42 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Property, Plant and Equiqment
+
+12. The Double-Declining Balance Method
+As one of several “accelerated depreciation” methods, double-declining balance (DDB) results in relatively large amounts of depreciation in early years of asset life and smaller amounts in later years. This method can be justified if the quality of service produced by an asset declines over time, or if repair and maintenance costs will rise over time to offset the declining depreciation amount. With this method, a fixed percentage of the straight-line rate (i.e., 200% or “double”) is multiplied times the remaining book value of an asset (as of the beginning of a particular year) to determine depreciation for a particular year. As time passes, book value and annual depreciation decrease. To illustrate, let’s again utilize our example of the $100,000 asset, with a four-year life, and $10,000 salvage value. Depreciation for each of the four years would appear as follows:
+Accumulated Depreciation at End of Year $50,000 $75,000 $87,500 $90,000
+
+Depreciation Expense Year 1 Year 2 $50,000 $25,000 $12,500 $ 2,500
+
+Annual Expense Calculation $100,000 X 50% $100,000  $50,000 X 50% $100,000  $75,000 X 50% see discussion below
+
+***
+
+Year 3 Year 4
+
+The amounts in the above table deserve additional commentary. Year one is hopefully clear -expense equals the cost times twice the straight line rate (4 year life = 25% straight-line rate; 25% X 2 = 50% rate). Year two is the 50% rate applied to the remaining balance of the asset as of the beginning of the year; the remaining balance would be the cost minus the accumulated depreciation ($100,000 - $50,000). Year three is just like year two -- 50% times the beginning book value
+
+43 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Property, Plant and Equiqment
+
+12.1 Spreadsheet Software
+DDB is also calculable from built-in depreciation functions. Below is the routine that returns the $12,500 annual depreciation value for Year 3.
+
+12.2 Fractional Period Depreciation
+Under DDB, fractional years involve a very simple adaptation to the approach presented above. The first partial year will be a fraction of the annual amount, and all subsequent years will be the normal calculation (twice the straight-line rate times the beginning of year book value). If our example asset were purchased on April 1, 20X1, the following calculations result:
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+44 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Long-Term Assets
+
+Property, Plant and Equiqment
+
+Depreciation Expense Year 1 Year 2 $37,500 $31,250 $15,625 $ 5,625 $ 0
+
+Accumulated Depreciation at End of Year $37,500 $68,750 $84,375 $90,000 Not applicable -assumed disposed on March 31
+
+Annual Expense Calculation $100,000 X 50% X 9/12 $100,000  $37,500 X 50% $100,000  $68,750 X 50% $100,000  $84,375 X 50% Limited to depreciable base $0
+
+*** Year 3
+Year 4 Year 5
+
+12.3 Alternatives to DDB
+150% and 125% declining balance methods are quite similar to DDB, but the rate is 150% or 125% of the straight-line rate (instead of 200% as with DDB).
+
+45 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Property, Plant and Equiqment
+
+13 .The Sum-of-the-Years’-Digits Method
+This approach was used in the graphic example at the beginning of this chapter, but without any calculation details. The calculations will undoubtedly be seen as a bit peculiar; I have no idea who first originated this approach or why. Under the technique, depreciation for any given year is determined by multiplying the depreciable base by a fraction; the numerator is a digit relating to the year of use (e.g., the digit for an asset with a ten-year life would be 10 for the first year of use, 9 for the second, and so on), and the denominator is the sum-of-the-years’ digits (e.g., 10 + 9 + 8 + . . . + 2 + 1 = 55). In our continuing illustration, the four-year lived asset would be depreciated as follows (bear in mind that 4 + 3 + 2 + 1 = 10):
+Accumulated Depreciation at End of Year $36,000 $63,000 $81,000 $90,000
+
+Depreciation Expense Year 1 Year 2 Year 3 Year 4 $36,000 $27,000 $18,000 $ 9,000
+
+Annual Expense Calculation $100,000  $10,000 X 4/10 $100,000  $10,000 X 3/10 $100,000  $10,000 X 2/10 $100,000  $10,000 X 1/10
+
+***
+
+13.1 Spreadsheet Software
+Again, software includes a built-in function for sum-of-the-years’-digits (SYD) method. Following is the function that returns the $18,000 annual depreciation value for Year 3.
+
+46 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Property, Plant and Equiqment
+
+13.2 Fractional Period Depreciation
+With the sum-of-the-years’-digits method, fractional years require fairly intensive layering for every year (e.g., if a ten-year asset is acquired on July 1, 20X1, depreciation for 20X1 is the depreciable base times 10/55 times 6/12 (relating to six months of use); depreciation for 20X2 is the depreciable base times 10/55 times 6/12 (reflecting the last six months of the first layer), plus the depreciable base times 9/55 times 6/12 (reflecting the first six months of the next layer)). Returning to our $100,000, four-year lived asset; if the asset was acquired on April 1, Year 1, the resulting depreciation amounts are calculated as:
+Accumulated Depreciation at End of Year $27,000 $56,250 $76,500 $87,750 Not applicable -assumed disposed on March 31
+
+Depreciation Expense Year 1 $27,000 $29,250 $20,250 $11,250 $ 2,250
+
+Annual Expense Calculation $100,000  $10,000 X 4/10 X 9/12 $100,000  $10,000 X 4/10 X 3/12 $100,000  $10,000 X 3/10 X 9/12 $100,000  $10,000 X 3/10 X 3/12 $100,000  $10,000 X 2/10 X 9/12 $100,000  $10,000 X 2/10 X 3/12 $100,000  $10,000 X 1/10 X 9/12 $100,000  $10,000 X 1/10 X 3/12
+
+*** Year 2
+Year 3 Year 4 Year 5
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+47 Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Long-Term Assets
+
+Property, Plant and Equiqment
+
+Admittedly, the above table is a bit “busy,” but if you take time to trace each of the amounts, it will be a good key to your understanding. Before moving away from the sum-of-the-years’-digits, you may find it tedious to be adding numbers like 10 + 9 + 8 + . . . + 1 = 55. But, mathematicians long ago figured out a short cut for this calculation: (n (n + 1))/2, where n is the number of items in the sequence. Thus, for an asset with a ten year life: (10 (10 + 1)/2 = 10(11)/2 = 110/2 = 55. Try this on your own for the four-year life, and make sure your result is “10.” Try again for a 15 year life asset, and make sure you get “120.” Do you see that the sum-of the- years’-digit’s fraction for the 4th year of use would be 12/120? Remember, you count backwards -- Year one is 15/120, Year two is 14/120, Year three is 13/120, and Year four would be 12/120.
+
+13.3 Changes in Estimates
+Obviously, the initial assumption about useful life and residual value is only an estimate. Time and new information may suggest that the initial assumptions need to be revised, especially if the initial estimates prove to be materially off course. It is well accepted that changes in estimates do not require re-doing the prior period financial statements; after all, an estimate is just that, and the financial statements of prior periods were presumably based on the best information available at the time. Therefore, rather than correcting prior periods’ financial statements, such revisions are made prospectively (over the future) so that the remaining depreciable base is spread over the remaining life. To illustrate, let’s return to the straight-line method. Assume that two years have passed for our $100,000 asset that was initially believed to have a four-year life and $10,000 salvage value; as of the beginning of Year 3, new information suggests that the asset will have a total life of seven years (three more than originally thought), and have a $5,000 salvage value. As a result, the revised remaining depreciable base (as of January 1, 20X3) will be spread over the remaining five years, as follows:
+Depreciation Expense Year 1 Year 2 $22,500 $22,500 $10,000 $10,000 $10,000 $10,000 $10,000 Accumulated Depreciation at End of Year $22,500 $45,000 $55,000 $65,000 $75,000 $85,000 $95,000
+
+Annual Expense Calculation $100,000  $10,000/4 $100,000  $10,000/4 $100,000  $45,000  $5,000/5 $100,000  $45,000  $5,000/5 $100,000  $45,000  $5,000/5 $100,000  $45,000  $5,000/5 $100,000  $45,000  $5,000/5
+
+*** Year 3
+Year 4 Year 5 Year 6 Year 7
+
+The depreciation amounts for Years 3 through 7 are based on spreading the “revised” depreciable base over the last five years of remaining life. The “revised” depreciable base is $50,000, and is calculated as the original cost ($100,000) minus the depreciation already taken ($45,000), and minus the revised salvage value ($5,000).
+
+48 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Property, Plant and Equiqment
+
+14. Tax Laws
+Although this book is about financial and managerial accounting, it is certainly necessary to call your attention to the unique features of depreciation under the tax code. First, it is important to note that tax methods and financial accounting methods are not always the same; that is certainly true when it comes to the subject of depreciation. For example, when the economy “slows down” governments will often try to stimulate economic investment activity by providing special incentives that are realized through rapid depreciation for tax purposes (even immediate write-off in some cases). Now, you may wonder how this is supposed to help the economy. Well, suppose you were thinking of buying a new truck for use in your trade or business. If the government said you could reduce your taxable income by the amount of the purchase price immediately (rather than depreciating the asset over a much longer period of time), you see how this might prompt you to buy and bring about an incremental improvement in the economy. The history of the tax laws is marked by many changes to the rates and methods that are permitted in any given year. As a result, it is difficult to generalize about the operation of the tax code as it relates to depreciation. But, in general, the USA tax rules provide for a depreciation technique known as the Modified Accelerated Cost Recovery System (MACRS -- called “makers”). MACRS provides a general depreciation system and an alternative system -- and within those systems are generally provisions relating to the 200% declining balance, 150% declining balance, and straightline techniques. Further, the tax system will generally stipulate the useful life of an asset rather than leaving it to the imagination of the taxpayer. For example, a race horse over two-years old when placed in service is assumed to have a three-year life; obviously very few stones are left unturned. The tax code tends to be very complete in identifying assets and their lives. As a general rule, the tax code lives tend to be “favorable” to taxpayers, and generally result in depreciation occurring at a faster rate than under generally accepted accounting principles. It is noteworthy that the government has reduced the depreciation calculations down to percentage values that are reproduced in numerous reference tables. This reduces the possibility of error and makes it easy for someone who never studied depreciation methods to still come up with the right amount of depreciation in any given year. You may be bothered to consider that a company would use one accounting method for financial reporting and another for tax. But, this is often the case, and there is nothing devious involved. Accounting rules are about measuring economic activity of a business and require a proper scheme of matching revenues and cost to achieve this objective. Meanwhile, the tax code must be followed, and it often changes to meet the revenue or social objectives of the government. As a result, temporary (and sometimes not so temporary) differences will arise between accounting and tax measurements. Records of these differences must be maintained, making the accounting task all the more challenging for a complex business organization.
+
+49 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Advance PP&E Issues/Natural Resources/Intangibles
+
+Advanced PP&E Issues/ Natural Resources/ Intangibles
+Part 3
+Your goals for this “advanced PP&E issues, natural resources, and intangibles” chapter are to learn about: x x x x x x The accounting for costs incurred subsequent to asset acquisition. Appropriate methods to measure and record the disposal of property, plant, and equipment. Accounting for asset exchanges. Rules for recording asset impairments. Natural resource accounting and depletion concepts. Intangible asset accounting and amortization concepts.
+
+50 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Advance PP&E Issues/Natural Resources/Intangibles
+
+15. PP&E Costs Subsequent to Asset Acquisition
+Think about an automobile. The vehicle must be fueled, insured, and maintained. Maintenance will include a variety of items like washing, oil and lube, tires, wiper blades, brake jobs, tune-ups, engine overhaul, body damage repair, and on and on. Cars are not unique; most items of PP&E will require substantial ongoing costs to keep them in good order. The accounting rules for such costs are to treat them as “capital expenditures” (i.e., put them on the balance sheet as an asset of some type) if future economic benefits result from the expenditure. Future economic benefits occur if the service life of an asset is prolonged, the quantity of services expected from an asset are increased, or the quality of services expected from an asset are improved. Expenditures not meeting at least one of these criteria should be accounted for as a “revenue expenditure” and be expensed as incurred. Judgment is again required in applying these rules. A literal reading of those rules might lead you to believe that routine maintenance would be capitalized. After all, putting fuel in a car does “extend its service life;” without fuel its service life would end. But that interpretation would be a misconstruing of the intent of the rule. Specifically, it is intended that ongoing costs necessary to maintain the normal operating condition are expensed as incurred. These costs are simply referred to as normal “repair and maintenance” expenditures
+
+15.1 Restoration and Improvement
+A delivery truck may have a perfectly good frame, but the engine has many miles of use and is in need of replacement. In essence, the replacing of the engine represents a “restoration” of some of the original condition (akin to “undepreciating” a portion of the truck). Restoration and improvement type costs are considered to meet the conditions for capitalization. The journal entry to reflect this restoration is:
+5-15-X5 Accumulated Depreciation Cash
+Paid $16,000 to replace the engine on delivery truck
+
+16,000 16,000
+
+***
+
+Notice that the above debit is to Accumulated Deprecation. The effect is to increase the net book value of the asset by reducing its accumulated depreciation on the balance sheet. This approach is perfectly fine for “restoration” expenditures. However, if you are “improving” the asset beyond its original condition (sometimes termed a “betterment”), such costs would be capitalized by debiting the asset account, as follows:
+5-15-X5 Equipment Cash
+Paid $16,000 to add refrigeration equipment not previously installed on the truck
+
+16,000 16,000
+
+51 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+References
+
+16. Disposal of PP&E
+Assets may be abandoned, sold, or exchanged. In any case, it is first necessary to fully update all depreciation calculations through the date of disposal. Then, and only then, would the asset disposal be recorded. If the asset is simply being scrapped (abandoned), the journal entry entails only the elimination of the cost of the asset from the books, removing the related accumulated depreciation, and recording a loss to balance the journal entry. This loss reflects the net book value that was not previously depreciated:
+6-30-X3 Accumulated Depreciation Loss Equipment
+Abandoned equipment costing $100,000. The equipment was 75% depreciated on the date of disposal.
+
+75,000 25,000 100,000
+
+***
+
+On the other hand, an asset may be disposed of by sale, in which case the journal entry would need to be modified to include the proceeds of the sale. Assume the above assets were sold for $10,000. Logically, the loss would be reduced by this amount, and the entry would be as follows:
+
+6-30-X3
+
+Accumulated Depreciation Loss Cash Equipment
+Sold equipment costing $100,000 for $10,000. The equipment was 75% depreciated on the date of sale.
+
+75,000 15,000 10,000 100,000
+
+***
+
+While the journal entry may be sufficient to demonstrate the loss calculation, you might also consider that an asset with a $25,000 net book value ($100,000 cost minus $75,000 accumulated depreciation) is being sold for $10,000 -- which gives rise to the loss of $15,000.
+
+52 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Advance PP&E Issues/Natural Resources/Intangibles
+
+Conversely, what if this asset were sold for $30,000? Here is the entry for that scenario:
+6-30-X3 Accumulated Depreciation Cash Gain Equipment
+Sold equipment costing $100,000 for $30,000. The equipment was 75% depreciated on the date of sale.
+
+75,000 30,000 5,000 100,000
+
+***
+
+AXA Global Graduate Program
+Find out more and apply
+
+53 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Long-Term Assets
+
+Advance PP&E Issues/Natural Resources/Intangibles
+
+17. Accounting for Asset Exchanges
+You may have bought a new car and part of what you gave to obtain the new car was a “trade in” of a different car. This would be a classic “exchange” transaction. In business, equipment is often exchanged (e.g., an old copy machine for a new one). Sometimes land is exchanged. Exchanges are often motivated by tax rules because neither company may be required to recognize a taxable event on the exchange; quite different than the tax outcome of an outright sale. Whatever the motivation behind the transaction, the accountant is again pressed to measure and report the event.
+
+17.1 Commercial Substance
+The accounting rules for exchanges once hinged on whether swapped assets were similar or dissimilar. However, in a move to establish international accounting harmony, the FASB has adopted a global view that all exchanges that have “commercial substance” (future cash flows of the entity are expected to change because of the exchange) should be accounted for at fair value.
+
+17.2 Recording the Initial Investments
+This approach will ordinarily result in recognition of a gain or loss because the fair value will typically differ from the recorded book value for the swapped assets. There is deemed to be a culmination of the earnings process when assets are swapped -- one productive component is liquidated and another is put in its place. There are many possible scenarios: Example A: Loss Implied Company A gives an old truck ($1,000,000 cost, $750,000 accumulated deprecation) for a boat. The fair value of the old truck is $150,000 (which is also deemed to be the fair value of the boat). The boat should be recorded at fair value; since that amount is less than the net book value of the old truck, a loss is recorded (for the difference):
+6-30-X3 Accumulated Depreciation (old) Loss Equipment (new) 750,000 100,000 150,000 1,000,000 Equipment (old)
+To remove all accounts related to the old truck, set up the new boat at its fair value, and record the balancing loss.
+
+***
+
+54 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Advance PP&E Issues/Natural Resources/Intangibles
+
+Example B: Gain Implied Company A gives an old truck ($1,000,000 cost, $750,000 accumulated deprecation) for a boat. The fair value of the old truck is $350,000 (which is also deemed to be the fair value of the boat). The boat should be recorded at fair value; since that amount is more than the net book value of the old truck, a gain is recorded (for the difference):
+
+6-30-X3
+
+Accumulated Depreciation (old) Equipment (new) Gain Equipment (old)
+To remove all accounts related to the old truck, set up the new boat at its fair value, and record the balancing gain.
+
+750,000 350,000 100,000 1,000,000
+
+***
+
+17.3 Boot
+Exchange transactions are oftentimes accompanied by giving or receiving “boot.” Boot is the term used to describe additional monetary consideration that may accompany an exchange transaction. Its presence only slightly modifies the above accounting by adding one more account (typically Cash) to the journal entry. For instance, assume Example A is amended to add the following facts: Company A also gave $50,000 cash along with the old truck, because the old truck was only worth $100,000:
+6-30-X3 Accumulated Depreciation (old) Loss Equipment (new) 750,000 150,000 150,000 50,000 1,000,000 Cash Equipment (old)
+To remove all accounts related to the old truck and cash, set up the new boat at its fair value, and record the balancing loss.
+
+***
+
+Notice that this entry has an added credit to Cash reflecting the additional consideration. The offsetting loss has increased to $150,000. The loss is the balancing amount, and reflects that $300,000 of consideration (cash ($50,000) and an old item of equipment ($1,000,000 - $750,000 = $250,000)) was swapped for an item worth only $150,000. Had boot been received, the cash would have instead been debited (and a smaller loss, or possibly a gain, would be recorded to balance the entry).
+
+17.4 Exchanges Lacking Commercial Substance
+Some exchanges may not have commercial substance. For example, a car dealer may have an oversupply of red cars and not enough green ones. To rebalance inventory, they swap red for green with another dealer; no significant change in cash flows is expected because of this trade. In this case, the exchange lacks “commercial substance,” and no gain is to be recorded. The green cars are simply recorded at the cost of the red cars (a loss might be recorded if impairment is suggested). If an exchange lacking commercial substance also entails the receipt of boot, a proportionate amount of gain in relation
+
+55 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+References
+
+18. Assets Impairment
+When the carrying amount of a long-lived asset (or group of assets as appropriate) is not recoverable from its expected future cash flows, it is deemed to be “impaired.” That is to say, the owner of the asset no longer expects to be able to generate returns of cash from the asset sufficient to recapture its recorded net book value. When this scenario occurs, a loss must be recognized for the amount needed to reduce the asset to its fair value (i.e., debit loss and credit the asset). The downward revised carrying value will then be depreciated over its remaining estimated life. Like other changes in estimates, this is a “prospective change,” and no prior periods are restated. Obviously, the measurements of impairment involve subjective components and require quite a bit of judgment. When the Financial Accounting Standards Board came up with these rules, they gave some guidance. Factors such as the following should be taken into account in considering whether an impairment exits: there has been a significant decrease in market value of an asset, the physical condition of the asset has declined unexpectedly, the asset is no longer being used as intended, legal or regulatory issues have impeded the asset, cost overruns are associated with the asset’s acquisition, the overall business seems threatened by unsuccessful performance, or the asset is now expected to be disposed of ahead of schedule.
+
+18.1 Taking a “Big Bath”
+This terminology is sometimes used to characterize significant one-time impairment losses. You may see this occur when a business has gone through a significant down-period and is struggling to regain its footing. Coincident with the restructuring, numerous assets may be deemed impaired and their carrying value reduced. Management has some degree of incentive to engage in this “bath.” Why? Given that the write down will produce a loss, isn’t this something that management might wish to avoid? Well, the logic goes like this -- things are already bad, so where is the harm? And, more to the point, future periods’ income will be buoyed by this action because the write-off will leave less assets that will need to be depreciated in the future. The reduction in future expenses increases the chances of painting a return to profitability. Memories are short, and management may hope the bath will be forgotten once profitability is restored.
+
+56 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Advance PP&E Issues/Natural Resources/Intangibles
+
+19. Natural Resources
+Oil and gas reserves, mineral deposits, thermal energy sources, and standing timber are just a few examples of natural resource assets that a firm may own. There are many industry-specific accounting measurements attributable to such assets. As a general rule, natural resources are initially entered in the accounting records at their direct cost plus logically related items like legal fees, surveying costs, and exploration and development costs. Once the cost basis is properly established, it must be allocated over the periods benefited through a process known as “depletion.” Think of it this way: depletion is to a natural resource as depreciation is to property, plant, and equipment.
+
+19.1 Depletion Calculations
+The cost of a natural resource (less any expected residual value) must be divided by the estimated units in the resource deposit; the resulting amount is depletion per unit. If all of the resources extracted during a period are sold, then depletion expense equals depletion per unit times the number of units extracted and sold. If a portion of the extracted resources are unsold resources, then the cost of those units (i.e., number of units times depletion per unit) should be carried on the balance sheet as inventory. To illustrate, assume that a mine site is purchased for $9,000,000, and another $3,000,000 is spent on developing the site for production. Assume the site is estimated to contain 5,000,000 tons of the targeted ore. At completion of the operation, the site will be water flooded and sold as a recreational lake site for an estimated $2,000,000. The depletion rate is $2 per ton, with the calculations shown at right:
+
+Initial cost Development cost Less: Estimated residual value Depletable base Divided by estimated units Depletion per ton
+
+$ 9,000,000 3,000,000 2,000,000 $ 10,000,000 ÷ 5,000,000 $2
+
+If 1,000,000 tons of ore are extracted in a particular year, the assigned cost would obviously be $2,000,000. But where does that cost go? If 750,000 tons are sold and the other 250,000 tons are simply held in inventory of extracted material, then $1,500,000 would go to Cost of Goods Sold and the other $500,000 would go to the balance sheet as inventory. A representative entry follows:
+12-31-X8 Inventory Cost of Goods Sold Natural Resource (or accumulated depletion)
+To record annual depletion charge reflecting assignment of depletion cost to inventory (250,000 X $2) and cost of goods sold (750,000 X $2)
+
+500,000 1,500,000 2,000,000
+
+57 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Advance PP&E Issues/Natural Resources/Intangibles
+
+19.2 Equipment Used to Extract Natural Resources
+Property, plant, and equipment used to extract natural resources must be depreciated over its useful life. Sometimes the useful life of such PP&E is tied directly to the natural resource life, even though its actual physical life is much longer. For example, if a train track is built into a mine, the track is of no use once the mine closes (even though it could theoretically still carry a train for a much longer period). As a result, the track would be depreciated over the life of the mine. Conversely, the train that runs on the track can be relocated and used elsewhere; as such it would likely be depreciated over the life of the train rather than the life of the mine.
+
+58 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Long-Term Assets
+
+Advance PP&E Issues/Natural Resources/Intangibles
+
+20. Intangibles
+The defining characteristic of an intangible is the lack of physical existence. Nevertheless, such assets contribute to the earnings capability of a company. Examples include patents, copyrights, trademarks, brands, franchises, and similar items. A company develops many such items via ongoing business processes, and those internally developed intangibles may not appear on the corporate accounts. For example, GAAP prohibits recording research and development expenditures as assets; nevertheless, significant intangible rights and benefits may emanate from such activities. Those intangible benefits represent an invisible asset of the company. On the other hand, intangibles may be purchased from another party. For example, one company may need to utilize technology embedded in a patent right belonging to someone else. When intangibles are purchased, the cost is recorded as an intangible asset. When a purchased intangible has an identifiable economic life, its cost is “amortized” over that useful life (amortization is the term to describe the allocation of the cost of an intangible -- just as depreciation describes the allocation of the cost of PP&E). Some intangibles have an indefinite life and those items are not amortized; instead, they are periodically evaluated for impairment. If they are never found to be impaired, they will permanently remain on the balance sheet. The unamortized/unimpaired cost of intangible assets is positioned in a separate balance sheet section immediately following Property, Plant, and Equipment.
+
+20.1 An Amortization Example
+Assume that Mercury Pharmaceutical purchased a patent for $50,000, estimating its useful life to be five years. The appropriate entries are:
+1-1-X1 Patent Cash
+Paid $50,000 to purchase a patent
+
+50,000 50,000
+
+***
+12-31-XX Amortization Expense Patent
+To record annual amortization expense ($50,000/5 years)
+
+10,000 10,000
+
+Unlike PP&E, notice that the above annual amortization entry credits the asset account directly; there is no separate accumulated amortization account for intangible assets.
+
+59 Download free eBooks at bookboon.com
+
+Long-Term Assets
+
+Advance PP&E Issues/Natural Resources/Intangibles
+
+$Q,PSDLUPHQW([DPSOH
+Assume that Music Download Service, Inc., purchased the internet domain name “notesthatfloats.com” for $50,000, estimating it to have an indefinite life. The Domain Name would be recorded at its initial cost, and not be subjected to annual amortization. However, should a periodic review (conducted at least once each year) reveal that the fair value of the asset is no longer at least $50,000, it will be necessary to record a loss and reduce the asset.
+1-1-X1 Domain Name Cash
+Paid $50,000 to purchase a domain name
+
+50,000 50,000
+
+***
+9-30-X3
+
+Loss Domain Name
+Internet “bust” caused the fair value of purchased domain name to be reduced by half
+
+25,000 25,000
+
+6RPH6SHFLILF,QWDQJLEOHV
+Patents give their owners exclusive rights to use or manufacture a particular product. The cost of a patent should be amortized over its useful life (not to exceed its legal life of 20 years). Importantly, the cost of a patent does not include the research and development costs incurred in seeking the knowledge necessary for the patent. The amount included in the Patent account includes only the cost of a purchased patent and/or incidental costs related to the registration of a patent (like legal fees). Copyrights provide their owners with the exclusive right to produce or sell an artistic or published work. A copyright has a legal life equal to the life of the creator plus 70 years; the economic life is usually shorter. The economic life is the period of time over which the cost of a copyright should be amortized. Franchises give their owners the right to manufacture or sell certain products or perform certain services on an exclusive or semi-exclusive basis. The cost of a franchise is reported as an intangible asset, and should be amortized over the estimated useful life. Trademarks/brands/internet domains are another important class of intangible assets. Although these items have fairly short legal lives, they can be renewed over and over. As such, they have an indefinite life. Goodwill is a unique intangible asset. Remember from Part 5.3, that goodwill is the excess of the purchase price paid for another company over the fair value of the net identifiable assets acquired. Such excess may be paid because of the acquired company’s outstanding management, earnings record, or other similar features. Goodwill is deemed to have an indefinite life.
+
+60 Download free eBooks at bookboon.com
+

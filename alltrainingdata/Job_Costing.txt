@@ -1,0 +1,1166 @@
+Job	Costing
+Managerial	and	Cost	Accounting Larry	M.	Walther;	Christopher	J.	Skousen
+
+Download	free	books	at
+
+﻿
+
+Larry M. Walther
+
+Job Costing
+Managerial and Cost Accounting
+
+2
+Download free eBooks at bookboon.com
+
+﻿
+
+Job Costing: Managerial and Cost Accounting 1st edition © 2010 Larry M. Walther & bookboon.com ISBN 978-87-7681-587-5
+
+3
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Contents
+
+Contents
+J	 1	 1.1	 1.2	 1.3	 1.4	 1.5	 1.6	 1.7	 1.8	 1.9	 1.10	 ob Casting and Modern Cast Management Systems 	 Basic Job Casting Concepts	 Cost Data Determination	 Conceptualizing Job Costing	 Tracking Direct Labor	 Tracking Direct Materials	 Tracking Overhead	 Job Cost Sheets 	 Expanding the Illustration 	 Another Expansion of the Illustration 	 Database Versus Spreadsheets	 Moving Beyond the Conceptual Level	 7 8 8 8 9 10 11 12 12 14 15 15
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Job Costing Managerial and Cost Accounting
+
+Information Systems for the Job Costing Environment
+
+2	 Information Systems for the Job Costing Environment 	 2.1	 2.2	 2.3	 Direct Material 	 Direct Labor	 Overhead and Cost Drivers 	
+
+16 16 17 18 19 19 22 22 24 25 26 27 27 29 29 29 30
+
+3	 Tracking Job Cost Within the Corporate Ledger 	 3.1	 3.2	 3.3	 3.4	 3.5	 3.6	 3.7	 3.8	 Direct Material 	 Direct Labor	 Applied Factory Overhead	 Overview 	 Financial Statement Impact Scenarios 	 Cost Flows to the Financial Statements 	 Subsidiary Accounts	 Global Trade and Transfers 	
+
+4	 Accounting for Actual and Applied Overhead 	 4.1	 4.2	 4.3	 The Factory Overhead Account 	 Actual Overhead 	 The Balance of Factory Overhead	
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Job Costing Managerial and Cost Accounting Job Costing in Service, Not For-Profit, And Governmental Environments
+
+4.4	 4.5	 4.6	
+
+Underapplied Overhead 	 Overapplied Overhead 	 Influence of GAAP	
+
+31 32 34 35 35 36 38 38 39 41 41 42 42 43
+
+5	 Job Costing in Service, Not For-Profit, And Governmental Environments 	 5.1	 5.2	 The Service Sector 	 Capacity Utilization 	
+
+6	 Modern Management of Costs and Quality 	 6.1	 6.2	 6.3	 6.4	 6.5	 6.6	 6.7	 Global Competition 	 Kaizen 	 Lean Manufacturing 	 Just in Time Inventory 	 Total Quality Management 	 Six Sigma 	 Reflection on Modern Cost Management 	
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+6
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Job Costing Managerial and Cost Accounting
+
+Job Casting and Modern Cast Management Systems
+
+Job Casting and Modern Cast Management Systems
+Your goals for this “job order costing system” chapter are to learn about: •	 Basic concepts in job costing. •	 Information systems for job costing environments. •	 Tracking job costs in the corporate ledger. •	 Accounting for actual and applied overhead. •	 Job costing in service, not-for-profit, and governmental environments. •	 Modern management of costs and quality.
+
+7
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Basic Job Casting Concepts
+
+1	 Basic Job Casting Concepts
+The previous chapters provided an introduction to product costing. You were exposed to the schedule of cost of goods manufactured and the basic cost flow of a manufacturer. In that preliminary presentation, most cost data (e.g., ending work in process inventory, etc.) were “given.” In addition, the chapters showed how cost data are used in making important business decisions.
+
+1.1	
+
+Cost Data Determination
+
+How does one determine the cost data for products and services that are the end result of productive processes? The answer to this question is more complex than you might suspect. Multiple persons, parts, and processes may be needed to bring about a deliverable output. Think about an automobile manufacturer; what is the dollar amount of “cost” for the hundreds of cars that are in various stages of completion at the end of a month? After studying this chapter, and the next, you will have a better sense of how business information systems are used to generate these important cost data. This chapter focuses on the job costing technique, and the next chapter will look more closely at process costing and other options. At the outset, note that job costing is best suited to those situations where goods and services are produced upon receipt of a customer order, according to customer specifications, or in separate batches (as a result, many companies will refer to this costing method as the job order costing method). For example, a ship builder would likely accumulate costs for each ship produced. An aircraft manufacturer would find this method logical. Construction companies and home builders would naturally gravitate to a job costing approach. Each job is somewhat unique. Materials and labor can be readily traced to each job, and the cost assignment logically follows.
+
+1.2	
+
+Conceptualizing Job Costing
+
+Begin to develop an understanding of job costing by thinking about a simple illustration. Jack Castle owns an electrical contracting company, Castle Electric. Jack provides a variety of products and services to clientele. Jack has four employees, maintains a neat (rented) shop, a broad inventory of parts and equipment, and a fleet of five service trucks. On a typical day, Jack will arrive at the shop early and line out the day’s work assignments for his four electricians. Around 8:00 a.m., his electricians begin to arrive, and he gives them their assignments, as well as the necessary parts and equipment they will need. They are then dispatched to the various job sites. One of Jack’s electricians is Donnie Odom. On July 14, Donnie arrived at the shop at 8:00 a.m. He first spent thirty minutes getting his assignments and loading a service truck with necessary items to complete the day’s work. His three tasks for the day included:
+
+8
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Basic Job Casting Concepts
+
+•	 Job A: Cleaning and reconnecting the electrical connections and replacing a flood light atop a billboard (materials required include one lamp at $150). •	 Job B: Replacing the breakers on an old electrical distribution panel at an office building (materials required include 20 breakers at $20 each). •	 Job C: Pulling wire for a new residence under construction (materials required include 500 feet of wire at $0.14 per foot). Donnie successfully completed all three tasks on July 14. He spent 1 hour on the billboard, 2 hours on the electrical panel, and 3 hours on the residential installation. The other 2 hours of his 8-hour day were spent on indirect job administration and travel. During the day, Donnie also used a roll of electrical tape ($3) and a box of wire nuts (60 nuts at $0.05 each). Donnie is paid $18 per hour. Donnie drove the truck 100 miles on July 14, and he used a variety of tools, ladders, and other specialized equipment. Jack is paid $25 per hour, and he does not usually work on any specific job. Instead, his time is spent doing spot inspections of work, getting permits, managing inventory, and tending to the various other tasks associated with these jobs. The “job costing” question is: How much did it “cost” to change the light on the billboard, etc.? Obviously, the job cost included the direct costs of the job; specifically, Donnie’s direct labor time (1 hour) and the direct material (one lamp at $150). But, the job could not have gotten done without the shop, equipment, trucks, indirect labor time, Jack’s efforts, tape and wire nuts, and so forth. These latter items constitute the indirect costs, or overhead, for the job. How then, are we to assign costs to a specific job?
+
+1.3	
+
+Tracking Direct Labor
+
+A logical starting point for job costing is to track the direct labor to specific jobs. Donnie, and the other electricians, fill out a time report documenting time spent on each job, as well as the time spent on tasks that cannot be traced to a specific job:
+&DVWOH(OHFWULF
+(PSOR\HH 'DWH
+ 6WDUW6WRS7LPH
+
+'RQQLH2GRP ;
+-RE1DPH        
+$GPLQ 7UDYHO -RE$ 7UDYHO -RE% /XQFK -RE& 7UDYHODQG$GPLQ
+
+'DLO\7LPH6KHHW
+7DVN
+$VVLJQPHQWDQGORDG 6HUYLFHDQGUHSODFHEXOE 5HSODFHEUHDNHUV QD 3XOOZLULQJ 5HWXUQWRVKRSDQGXQORDG
+
+&OLHQW
+QD QD ,PDJH$GYHUWLVLQJ QD 7HFK:D\2IILFH3DUN QD 0U0UV/\EUDQG+RPH QD 7RWDO+RXUV
+
+$GPLQ +RXUV
+  
+
+'LUHFW/DERU +RXUV
+   
+
+  
+
+
+
+    
+
+ 
+
+9
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Basic Job Casting Concepts
+
+Not only will this time sheet form the basis for payroll, but it will also allow cost assignment to specific jobs. The direct labor for the billboard task (Job A) was one hour of Donnie’s time (at $18 per hour). The “direct labor” for Job A will be compiled by reference to the time sheet on the previous page.
+
+1.4	
+
+Tracking Direct Materials
+
+Jack keeps detailed records of the material released to each job. When Donnie gathered up the light bulbs, breakers, wire, tape, and wire nuts on the morning of the 14th, some system needed to be in place to “check out” this material. The document that is used for this process is called a “materials request” or “materials requisition” form. This form will show what material is leaving the available raw materials stock and being put into production. Sometimes a separate form is prepared for each item, and sometimes a running list similar to the following is used:
+
+&DVWOH(OHFWULF
+(PSOR\HH 'DWH
+
+
+
+/LJKW%XOEV  %UHDNHUV :LUH (OHFWULFDO7DSH :LUH1XWV
+
+0DWHULDO
+
+'RQQLH2GRP ;
+
+0DWHULDOV5HTXLVLWLRQ
+-RE1DPH 4XDQWLW\
+8QLW 8QLWV IHHW 5ROO 1XWV
+
+-RE$ -RE% -RE& ,QGLUHFW0DWHULDO ,QGLUHFW0DWHULDO
+
+3HU8QLW&RVW
+ HDFK SHUIRRW SHUUROO HDFK
+
+([WHQGHG&RVW
+    
+
+This form provides essential documentation to safeguard and track inventory; a manager that fails to control and monitor inventory does so at great peril! It also reveals that the “direct material” for the billboard task (Job A) was $150 (the light bulb). The wire nuts and tape that might have been used on the billboard will be dealt with as overhead which is discussed later. Before moving on to overhead, you need to know one more thing about a “materials requisition” form; although the illustrated form lists the material cost, that will not always be the case. Sometimes, a business will not be particularly interested in letting employees see cost information, or cost information may not be readily available. In either case, the form will instead include a part or serial number. A subsequent clerical task will be to identify the cost of the particular parts that were put into production. Great care must always be taken to match the right cost to the right item, and in the right quantity. For example, the 500 feet of wire may be on one roll, but it is priced by the foot, and the quantity should be 500 feet, not 1 roll; the job cost calculation would be incorrect if only $0.14 were assigned to one roll of wire!
+
+10
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Basic Job Casting Concepts
+
+1.5	
+
+Tracking Overhead
+
+Jack would have a huge task at hand if he tried to daily trace all items of overhead. For instance: •	 How hard would it be to track the “indirect material”? How many wire nuts were used on the billboard? How many inches of electrical tape were used? What was the cost of these items? •	 What about indirect labor? Donnie spent two hours on job-related administration and travel issues for the six hours of direct labor time on the 14th. Should the cost of the 2 hours be spread over the three jobs equally, pro-rata based on hours, or some other basis? On the 15th, Donnie may spend the entire day on the residential wiring job and have little administrative and travel time. How does this impact the cost per hour of output on the 15th versus the 14th? What about Jack’s time? He is supervising 4 electricians. Should the cost of his time be allocated 1/4 to each, or based on some other formula? •	 Then, one must consider the cost of rent, equipment, trucks, and so forth. Donnie needed a ladder to scale the billboard. A ladder will eventually wear out – but how much is the “ladder cost” for one trip up and down a billboard? Now, repeat this question for every item of cost incurred in running Castle Electric. Tracking overhead is tricky. One way this is done is by using a predetermined overhead rate. Assume Jack sat down at the beginning of the year with his accountant. Together they carefully considered all of the production overhead that was anticipated during the year – the cost of Jack’s time, the rent, the cost of vehicles, insurance, taxes, utilities, indirect labor, indirect materials, depreciation of long-lived assets, and so forth. The expected total came to about $150,000. Jack figures that his four electricians will work a total of about 7,500 direct labor hours during the year. By comparing these two numbers ($150,000 and 7,500 hours), it is now possible to “model” that overhead is $20 per direct labor hour. The “overhead application rate” is thus determined. Now, two things should be made clear. First, overhead application is arbitrary. Jack decided to apply overhead based on direct labor hours; this is a common choice, but not the only choice. Some other systematic and rational approach could have been developed. Ordinarily, one would try to establish some correlation between the application base and overall cost incurrence. For instance, feet of wire used (instead of direct labor hours) could have been selected as the application base; but, feet of wire would be hard to defend since two of Donnie’s three jobs did not use any wire and would not be assigned any of the business overhead! The point is that some logical method needs to be used to attach overhead costs to output, but no single choice is absolute. Cost allocation necessarily involves some degree of arbitrary methodology; this is neither bad nor good, it is just reality. In some ways, costing is more of an “art” than “science” – despite its outward appearance of mathematical precision.
+
+11
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Basic Job Casting Concepts
+
+Second, expect differences between the actual overhead and the amount applied to production. For instance, Jack will likely discover that actual overhead is more or less than $150,000. Jack will also find that his electricians will probably work more or less than the anticipated 7,500 hours. When all is said and done, Jack will need to deal with the actual cost. The difference between the amount of overhead applied to production (i.e., direct labor hours × the $20 per hour rate) and the actual amount spent must be accounted for! We will see how to deal with this later in the chapter.
+
+1.6	
+
+Job Cost Sheets
+
+The preceding information can be logically transferred to a job cost sheet that is a compilation of cost data for a specific job:
+&DVWOH(OHFWULF
+-RE
+
+-XO\; 'RQQLH2GRP /LJKW%XOE $SSOLHG2YHUKHDG
+
+-RE$,PDJH$GYHUWLVLQJ
+)RUP 5HIHUHQFH
+ '76;'2 05;'2 
+
+-RE&RVW6KHHW
+'LUHFW0DWHULDO
+7RWDO              /DERU+RXUV     4W\      8QLW &RVW 7RWDO %DVLV
+
+'LUHFW/DERU
++RXUV      5DWH
+
+$SSOLHG2YHUKHDG
+4W\ 5DWH 7RWDO
+
+7RWDO
+
+The direct labor information found on the job cost sheet is taken from Donnie Odom’s daily time sheet (a cross-reference is created of “DTS.07.14.×5.DO” to indicate “daily time sheet of July 14, 20×5, for Donnie Odom”). In similar fashion, Donnie’s material requisition form was used as the source document for compiling the direct material information. Some type of cross-referencing system needs to be developed to allow one to trace specific cost allocations to their source documents. Overhead was applied directly to the job cost sheet based upon the predetermined overhead application scheme of $20 per direct labor hour.
+
+1.7	
+
+Expanding the Illustration
+
+The next graphic shows separate job cost sheets for all three of Donnie’s jobs. All direct material and direct labor must be transferred to specific jobs. As alluded to earlier, the indirect labor (admin hours) and indirect material is not directly transferred to a specific job; its cost is instead represented through the applied overhead.
+
+12
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Basic Job Casting Concepts
+
+&DVWOH(OHFWULF
+(PSOR\HH 'DWH
+        6WDUW6WRS7LPH
+
+'RQQLH2GRP ;
+-RE1DPH            
+$GPLQ 7UDYHO -RE$ 7UDYHO -RE% /XQFK -RE& 7UDYHODQG$GPLQ
+
+'DLO\7LPH6KHHW
+7DVN
+$VVLJQPHQWDQGORDG 6HUYLFHDQGUHSODFHEXOE 5HSODFHEUHDNHUV QD 3XOOZLULQJ 5HWXUQWRVKRSDQGXQORDG
+
+&OLHQW
+QD QD ,PDJH$GYHUWLVLQJ QD 7HFK:D\2IILFH3DUN QD 0U0UV/\EUDQG+RPH QD 7RWDO+RXUV
+
+$GPLQ +RXUV
+ 
+
+'LUHFW/DERU +RXUV
+   
+
+
+
+ 
+
+&DVWOH(OHFWULF DVW OH
+(P (PSOR\HH H 'DWH '
+
+/LJKW%XOEV %UHDNHUV :LUH (OHFWULFDO7DSH :LUH1XWV
+
+0DWHULDO
+
+'RQQLH2GRP ;
+
+0DWHULDOV5HTXLVLWLRQ
+-RE1DPH 4XDQWLW\
+8QLW 8QLWV IHHW 5ROO 1XWV
+
+-RE$ -RE% -RE& ,QGLUHFW0DWHULDO ,QGLUHFW0DWHULDO
+
+3HU8QLW&RVW
+ HDFK DFK SHUIRRW SH SHUUROO  HDFK
+
+([WHQGHG&RVW
+    
+
+&DVWOH(OHFWULF H F
+-RE
+
+-XO\;   'RQQLH2GRP ' 2 P /LJKW%XOE %X $SSOLHG2YHUKHDG G K
+
+-RE$,PDJH$GYHUWLVLQJ
+)RUP 5HIHUHQFH
+ '76;'2 05;'2  +RXUV     
+
+-RE&RVW6KHHW &
+'LUHFW0DWHULDO W
+7RWDO                /DERU+RXUV       4W\      Q 8QLW RV &RVW 7RWDO %DVLV
+
+'LUHFW/DERU
+5DWH
+
+$SSOLHG2YHUKHDG
+4W\ 5DWH DO 7RWDO
+
+7RWDO
+
+&DVWOH(OHFWULF WO OH
+-RE
+
+-XO\;   2G P 'RQQLH2GRP %UHDNHUV U $SSOLHG2YHUKHDG
+
+-RE%7HFK:D\2IILFH3DUN
+)RUP 5HIHUHQFH
+ '76;'2 05;'2  +RXUV     
+
+-RE&RVW6KHHW &R
+'LUHFW0DWHULDO
+7RWDO           /DERU+RXUV     4W\      8QLW &RVW WD 7RWDO %DVLV
+
+'LUHFW/DERU
+5DWH   
+
+$SSOLHG2YHUKHDG
+4W\ 5DWH RW 7RWDO
+
+7RWDO
+
+&DVWOH(OHFWULF O
+-RE
+
+-XO\; 'RQQLH2GRP :LUH $SSOLHG2YHUKHDG
+
+-RE&/\EUDQG+RPH
+)RUP 5HIHUHQFH
+ '76;'2 05;'2 
+
+-RE&RVW6KHHW
+'LUHFW/DERU
+5DWH    7RWDO           /DERU+RXUV     4W\     
+
+'LUHFW0DWHULDO
+8QLW &RVW 7RWDO %DVLV
+
+$SSOLHG2YHUKHDG LHG
+4W\ 5DWH 7RWDO
+
++RXUV     
+
+7RWDO
+
+13
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Basic Job Casting Concepts
+
+1.8	
+
+Another Expansion of the Illustration
+
+Thus far, the illustration has focused only on Donnie’s activities. He had relatively simple assignments on the 14th and was able to complete three separate jobs by himself. But, remember that Jack has three other electricians and many other jobs. Some of these jobs may require multiple employees and extend over days and weeks. One such job was the new home of Aba Obekie. This job took two electricians (Andy Axom and Bev Bentson) three full days to complete. The resulting job cost sheet appeared as follows:
+&DVWOH(OHFWULF
+-RE
+
+-XO\; $QG\$[RQ %HY%HQWVRQ :LUH -XQFWLRQ%R[HV -XO\; $QG\$[RQ %HY%HQWVRQ -XO\; $QG\$[RQ %HY%HQWVRQ &DQ/LJKWV $SSOLHG2YHUKHDG '76;$$ '76;%% 05;$$                  /DERU+RXUV          '76;$$ '76;%%        
+
+-RE$2EHNLH+RPH
+)RUP 5HIHUHQFH
+ '76;$$ '76;%% 05;%% 05;%%
+
+-RE&RVW6KHHW
+'LUHFW/DERU 'LUHFW0DWHULDO
+7RWDO              4W\      8QLW &RVW 7RWDO %DVLV
+
+$SSOLHG2YHUKHDG
+4W\ 5DWH 7RWDO
+
++RXUV   
+
+5DWH
+
+7RWDO
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+14
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Job Costing Managerial and Cost Accounting
+
+Basic Job Casting Concepts
+
+1.9	
+
+Database Versus Spreadsheets
+
+Jack could maintain some or all of his job costing system manually. Or, he could use an electronic spreadsheet to prepare reports similar to those just illustrated. However, there is another more powerful tool – the electronic database. A number of commercial packages are available. Generalizing, data are entered via a user friendly input form that includes a number of predetermined “slots” for entering desired information. For instance, below is a data entry form for entering Donnie’s time and material for the 14th:
+
+
+
+
+
+The benefit of the database approach is that information is only entered once; it need not be transferred to other forms. The computer files can be queried in many ways – beyond just preparing a job cost report. For instance, Jack could use the customized reports feature to find all jobs on which billboard light bulbs were used during the past 18 months, determine the total direct labor hours of any employee for a selected time interval, identify how many jobs were performed for a selected client, and on and on! Such databases provide a powerful management tool.
+
+1.10	
+
+Moving Beyond the Conceptual Level
+
+Thus far, we have looked at a simple and understandable illustration of job costing. What this illustration fails to show is: •	 The sophistication of the information systems that are used to track job costs in a larger organization. •	 The debits and credits that are needed to track the accumulation and application of costs within a company’s general ledger system. •	 The ultimate disposition of the difference between applied and actual overhead. Each of these issues will be dealt with in the following sections of this chapter. As you proceed to study this material, you may find yourself becoming consumed by the details. If so, think again about Jack Castle; consider that we are applying Jack’s costing model to a more robust business environment.
+
+15
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Information Systems for the Job Costing Environment
+
+2	 Information Systems for the Job Costing Environment
+Jump on an internet search engine, and look for “factory automation”, “bar code scanners”, or “RFID”. Spend some time at the websites of companies like Oracle or SAP. It is an eye opening experience! There is a revolution in manufacturing technology, where robots and machines have resulted in quantum leaps in productivity and quality. What your tour of the internet will reveal is a similar revolution in the deployment of technology to enable job costing for those same environments.
+
+2.1	
+
+Direct Material
+
+Give some thought to the computer that you used to examine the suggested websites. It was likely produced as the direct result of someone’s specific order. If you have ordered a computer, you know that you must choose components relating to memory, hard drives, monitors, sound systems, and on and on. Literally hundreds of combinations are possible. Therefore, each computer represents a unique job, and it will have a unique cost depending on the installed options. You may have seen a video of a computer factory where the units are zipping along an assembly line at an amazing rate. How can cost data be captured for each unit? It would be impractical to deploy the basic system introduced for Jack Castle. How many people would it take to track all of the components, and how could they avoid errors? The key is to utilize the logic within Jack’s system, but deploy it in a cost-effective and accurate way. As a result, companies are increasingly reliant on devices that capture identification data for each significant part that goes into a manufactured product. If you were to open up the housing on your computer, you would quickly note that many of the expensive parts within have serial numbers, barcodes, or other unique identifiers attached to them. These ID’s were probably mechanically scanned into a database that matches them with the serial number of the finished computer unit. As a result, a computer manufacturer can probably tell you exactly which memory chips, hard drives, etc. are installed in the computer you are using. This is helpful for warranty processing, product recalls, and other inventory management issues. But, that same data can be matched with raw materials purchase records to produce a listing of direct material cost for each unit produced. This is exactly what Donnie’s material requisition process did earlier in this chapter, but at warp speed, with great precision, and little human intervention.
+
+16
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Information Systems for the Job Costing Environment
+
+2.2	
+
+Direct Labor
+
+Technology is also used to track and log time to specific jobs via various forms of “login clocks.” Note that the information being tracked is essentially the same as what Donnie was providing to Jack via the daily time sheet, but with added efficiency, accuracy, and control. In addition to monitoring job cost, a manager must also safeguard corporate resources. Here, technology can play a key role. Newer systems require biometric validation (like finger print IDs and logging) of employees working on a project. These tools are used to make sure that employees who claim time working on a job are in fact present and working on the job! Such systems can also be used to limit access to direct material inventory. Rather than allowing free access to an inventory storage area, or providing a human “guard,” technology can control who comes and goes, and what they take with them when they leave. Some products are produced via an assembly line approach where each worker performs a specific task. Only a certain amount of time is available for each task, as the line keeps moving. Depending on the product, each employee might perform the same operation on 50, 100, or more units per hour. It would take more time to measure and record the labor for each job than it takes to perform the labor task itself. In this type of environment, cost is usually assigned to jobs based on the average or standard time for each activity. In essence, if an employee is expected to work on 60 units per hour, one minute of direct labor time/cost would be assigned to each unit for the employee’s specific task. In a subsequent chapter, you will learn more about standards and managing variances from those standards.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+17
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Job Costing Managerial and Cost Accounting
+
+Information Systems for the Job Costing Environment
+
+2.3	
+
+Overhead and Cost Drivers
+
+The application of overhead to specific jobs is mostly an exercise in algebra. Jack applied overhead at the rate of $20 for each hour of direct labor. A similar mathematical exercise is used to apply overhead in the highly automated factory environment. Some predetermined scheme is used to apply the overhead to production. However, in a highly mechanized environment, one must give careful thought to the “cost driver.” The cost driver is the factor that is viewed as causing costs to be incurred within an organization; it is best viewed only in an abstract context, as there are too many individual variables for any single factor to fully explain all cost incurrence. For Jack Castle’s business, direct labor hours were viewed as the primary cost driver and the basis for assigning overhead. Labor hours may not be the most significant cost driver in a mechanized setting. Machine hours, number of direct material bar code scans, fuel consumption, spotwelds, or number of assembly steps could each provide a potentially logical base for allocating overhead. This choice must be logical, as it will govern the allocation of total overhead costs to individual products. It is a bit frightening to consider that product pricing, CVP analysis, inventory values, decisions to discontinue a product, and so forth are dependent upon costing information that is driven by arbitrary overhead allocation choices. This underscores the importance of careful methodology in correctly identifying cost drivers. To do otherwise could result in costing some products too high and others too low. This might lead to overproduction of unprofitable products and discontinuance of profitable lines. How is this possible? Suppose a computer manufacturer allocated overhead based on the installation of RAM memory chips. As a result, a machine with 2 GB of memory would absorb twice as much overhead as a machine with 1 GB. This is probably not a good idea; there is little difference in the production process needed to manufacture the two machines (save and except the difference in direct material cost for memory chips). The faulty overhead allocation could cause management to conclude that the 2 GB machines were too costly to produce, while the 1 GB machines seem a relative bargain. In short, the amount of memory is probably not the leading cost driver. Management accountants have long fretted about the overhead allocation problem. With so much at stake, quite a lot of thought has been put into ways to improve this effort. In the next chapter, you will discover “activity-based costing.” ABC seeks to overcome some of the issues just described by dividing production into its component processes (“activities”) and more closely associating overhead with each unique process. But, ABC has its own limitations, so do not be too quick to dismiss the merits of the overhead allocation approach introduced in this chapter.
+
+18
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Tracking Job Cost Within the Corporate Ledger
+
+3	 Tracking Job Cost Within the Corporate Ledger
+Thus far, the illustrations of job costing have focused on forms, spreadsheets, databases, and technology to accumulate job cost information. In a sophisticated electronic environment, that information can be seamlessly transferred to a company’s general ledger system. In the alternative, one may still need to transcribe the cost flow information via a series of entries. Either way, it is imperative to not only understand how job cost data are measured, but also how they impact a company’s general ledger and resulting financial statements.
+
+3.1	
+
+Direct Material
+
+Begin by considering how a job cost travels through the accounting system by focusing on direct materials. Below is an illustration for a company that buys unfinished pipe from a steel mill. The manufacturing process entails a specialized heat treating, welding, and polishing process that readies the pipe for intense use by gas pipeline transmission companies. The flow of direct materials occurs in the following four steps: •	 Raw material is purchased from a supplier and placed in the raw materials inventory. •	 Raw material is transferred to the production process. •	 Upon completion of processing, the material is transferred to finished goods inventory. •	 A customer takes delivery of the product, and it is removed from finished goods inventory. Below is an illustration of the flow of material from supplier, through production, to the customer:
+
+SUPPLIER
+
+1
+RAW MATERIALS
+
+2
+WORK IN PROCESS
+
+3 4
+CUSTOMER
+
+FINISHED GOODS
+
+19
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Tracking Job Cost Within the Corporate Ledger
+
+For purposes of this illustration, assume the stack of pipe in the first picture cost $10,000. This expenditure must be captured in inventory and eventually transferred to cost of goods sold when the product is delivered to an end customer. Raw Materials: At the time it is acquired, the Raw Materials Inventory needs to be increased by $10,000, as shown in the T-Account below. Work in Process: The second step will result in a reduction in the Raw Materials Inventory and a corresponding increase in the Work in Process Inventory. Finished Goods: Upon completion, that cost is transferred from Work in Process Inventory to Finished Goods Inventory. Cost of Goods: When the product is sold, the cost moves out of Finished Goods Inventory. At this point, only the cost flow of direct materials is being illustrated; shortly, you will see how to weave in the direct labor and overhead costs.
+
+20
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Job Costing Managerial and Cost Accounting
+
+Tracking Job Cost Within the Corporate Ledger
+
+SUPPLIER
+
+1 RAW MATERIALS 10,000 10,000 2 WORK IN PROCESS 10,000 10,000 3 FINISHED GOODS 10,000 10,000 4 CUSTOMER
+
+In general journal form, the preceding flow of costs is:
+Raw Materials Inventory Accounts Payable
+Purchased pipe from steel mill
+
+10,000 10,000
+
+Work in Process Inventory Raw Materials Inventory
+Transferred pipe to production
+
+10,000 10,000
+
+Finished Goods Inventory Work in Process Inventory
+Transferred processed pipe to finished goods
+
+10,000 10,000
+
+Cost of Goods Sold Finished Goods Inventory
+Delivered finished goods to customer
+
+10,000 10,000
+
+Carefully review the above set of entries, and focus on the fact that $10,000 of cost was incurred when the raw material was purchased in Step 1. And, that cost eventually became a cost of goods sold at the end of the process when the goods were delivered to the customer in Step 4 (remember, only the direct material is being shown here; labor and overhead costs are yet to be considered). Concurrent with recording the 4th entry, another entry would be made to record the sale (debit. Accounts Receivable and credit Sales). The difference between Sales and Cost of Sales would be the gross profit. These entries assume a perpetual inventory system; the same result could be achieved with a periodic system like that illustrated earlier in the book.
+
+21
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Tracking Job Cost Within the Corporate Ledger
+
+3.2	
+
+Direct Labor
+
+Now focus exclusively on the direct labor cost, ignoring materials and overhead. Notice that laborers were present in the middle picture from the pipe plant. This suggests the introduction of direct labor into the costing equation. Like the cost of raw materials, the salaries payable for direct labor are added to Work in Process Inventory (at “stage 2” of the diagram). The following entries assume that the pipe required 200 hours of direct labor at $15 per hour:
+Work in Process Inventory Salaries Payable
+Incurred direct labor to process pipe (200 hrs @$15)
+
+3,000 3,000
+
+Finished Goods Inventory
+
+3,000 3,000
+
+ Transferred processed pipe to finished goods
+Cost of Goods Sold Finished Goods Inventory
+Delivered finished goods to customer
+
+Work in Process Inventory
+
+3,000 3,000
+
+Notice that the accounts used in these entries are identical to those for direct material, except that the credit in the first entry is to Salaries Payable. This reflects that the cost is attributable to an obligation to pay employees for their time.
+
+3.3	
+
+Applied Factory Overhead
+
+Take one more look at the “work in process” factory floor picture, and think about the factory overhead that is being “used” to process the pipe. What components can you identify or contemplate? Likely, your list will include utilities costs, insurance, factory maintenance, depreciation on the equipment, some supplies, and similar items. As discussed earlier in the chapter, these costs must be attached to the products. But, the method of attachment is by applying overhead based on a predetermined estimated rate – again, because it is virtually impossible to associate or match the incurrence of actual overhead with each job actually produced. Assume the pipe factory applies overhead at the rate of $25 per direct labor hour. Remember that 200 hours were needed for the job in question. Thus, $5,000 ($25 × 200) is the amount of applied factory overhead. The following entries are similar to those that were used to record the direct labor; compare them, and pick out the account that differs:
+
+22
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Tracking Job Cost Within the Corporate Ledger
+
+Work in Process Inventory Factory Overhead
+Applied factory overhead to production (200 hours @$25)
+
+5,000 5,000
+
+Finished Goods Inventory Work in Process Inventory
+Transferred processed pipe to finished goods
+
+5,000 5,000
+
+Cost of Goods Sold Finished Goods Inventory
+Delivered finished goods to customer
+
+5,000 5,000
+
+An account entitled “Factory Overhead” was uniquely credited in the first of the above entries. What does this credit really represent? This account is one of the more confusing to explain; it is challenging for students to grasp. As a result, there is a separate section later in this chapter (Accounting for Actual and Applied Overhead). But, for the moment, accept this truncated explanation: The credit to Factory Overhead is the allocation tool used to pass out the actual overhead costs to jobs in progress; the actual overhead costs are captured via debits to this account through a separate process described later in this chapter.
+
+23
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Job Costing Managerial and Cost Accounting
+
+Tracking Job Cost Within the Corporate Ledger
+
+3.4	
+
+Overview
+
+The preceding information can be combined and summarized as follows:
+
+RAW MATERIALS
+(Cr. Raw Materials)
+
+DIRECT LABOR
+(Cr. Salaries Payable)
+
+WORK IN PROCESS 10,000 18,000 3,000 5,000
+
+FINISHED GOODS 18,000 18,000
+
+COST OF GOODS SOLD
+(Dr. Cost of Goods Sold)
+
+APPLIED OVERHEAD
+(Cr. Factory Overhead
+
+This graphic illustrates how the total job cost was measured as $18,000. The general journal would include the following entries:
+6 15 X3 Raw Materials Inventory Accounts Payable
+To record purchase of raw materials
+
+10,000 10,000
+
+6 20 X3
+
+Work in Process Inventory Raw Materials Inventory Salaries Payable Factory Overhead
+To transfer raw materials to production, record direct labor costs on job, and apply overhead at the predetermined rate
+
+18,000 10,000 3,000 5,000
+
+
+
+
+6 21 X3
+
+Finished Goods Inventory Work in Process Inventory
+To transfer completed units to finished goods inventory
+
+18,000 18,000
+
+6 25 X3
+
+Accounts Receivable Sales
+To record sale of finished pipe for $25,000
+
+25,000 25,000
+
+Cost of Goods Sold Finished Goods Inventory
+To transfer finished goods to cost of goods sold
+
+18,000 18,000
+
+24
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Tracking Job Cost Within the Corporate Ledger
+
+3.5	
+
+Financial Statement Impact Scenarios
+
+How job cost data appears on the financial statements depends on its condition at the financial statement date. Considering the pipe illustration: •	 If the raw pipe had not yet started into production, its $10,000 cost would appear in the raw materials inventory category on the balance sheet:
+,19(1725,(6 5$:0$7(5,$/ :25.,1352&(66 ),1,6+('*22'6   
+
+•	 If the pipe was in production but not complete, the total cost in the Work in Process account as of the balance sheet date would be aggregated and presented as work in process inventory on the balance sheet. For example, assume all of the raw material was in process, but only half of the necessary labor tasks had been performed; in this case, the Work in Process Inventory account would include $14,000 ($10,000 direct material + $1,500 labor + $2,500 applied overhead):
+,19(1725,(6 5$:0$7(5,$/ :25.,1352&(66 ),1,6+('*22'6   
+
+•	 If the drill pipe was completed but unsold, the finished goods inventory would be carried at $18,000 on the balance sheet:
+,19(1725,(6 5$:0$7(5,$/ :25.,1352&(66 ),1,6+('*22'6   
+
+25
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Tracking Job Cost Within the Corporate Ledger
+
+•	 If the drill pipe was sold for $25,000, the income statement would include sales ($25,000) and cost of goods sold ($18,000), netting to the $7,000 gross profit:
+
+6DOHV &RVWRIJRRGVVROG *URVVSURILW 
+
+   
+
+3.6	
+
+Cost Flows to the Financial Statements
+
+If you are unclear about the flow of production costs into the financial statements, review the cost flow graphic presented in the Introduction to Managerial Accounting chapter.. In so doing, remember that the nonmanufacturing “period” costs are charged directly to expense in the period incurred; they do not enter into the determination of inventory or cost of goods sold.
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+26
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Job Costing Managerial and Cost Accounting
+
+Tracking Job Cost Within the Corporate Ledger
+
+3.7	
+
+Subsidiary Accounts
+
+You learned earlier in the book about subsidiary accounts. For example, a company’s general ledger will reveal the total accounts receivable, total accounts payable, total equipment, etc. But, there is also need to know subsidiary details about each of these accounts. In other words, you must be able to identify the specific customers who owe money, how much is due to each vendor, how much depreciation to record for each asset, and so forth. The same is true for the Work in Process account. While it is imperative to know the total dollar value of all jobs, a company must also be able to pinpoint the amount attributable to each job. This is accomplished via an account numbering scheme where each job is given a unique number. This enables ease of data mining. The chart of accounts typically includes a number where the leading digits indicate the control account, and the trailing digits indicate the subsidiary account. For work in process, this numbering could go as illustrated below.
+$FFRXQW1XPEHU -RE$ -RE%     -RE= 7RWDOIRUDOOMREV           
+
+ 
+
+While the exact mechanics of maintaining subsidiary account balance information can vary, what is important is that you could inspect the general ledger and financial statements, and find $290,000 in work in process. The subsidiary account information should be sufficient to allow you to find that Job A represents $35,000 of the total, Job B represents $25,000, and so forth.
+
+3.8	
+
+Global Trade and Transfers
+
+Companies engaged in international commerce often establish separate operating units around the globe. For instance, a company may establish a manufacturing facility in a country with lower wages and costs of production. This trend has introduced a myriad of complex costing issues which generally fall under the heading of “transfer pricing.” The heart of the issue is how to assess costs and set prices for goods produced in one venue and transferred to an affiliate in another. The governments of each country have a keen interest in taxing activities within their domain (whether it be by a value added tax, income tax, tariff system, custom duties, etc.). And, companies will envision an opportunity to shift profits from high tax jurisdictions to low tax jurisdictions by shuffling costs and prices between entities.
+
+27
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Tracking Job Cost Within the Corporate Ledger
+
+This is a fertile area of tax dispute, and one that keeps many managerial accountants quite busy. In the main, the applicable rules attempt to require the use of fair and equitable job costing, and require that transfers be based on “arms length” transaction pricing. But, the devil is in the details of implementation. A recent look on an internet search engine turned up almost five million hits for “transfer pricing rules!” The above transfer pricing issues are not limited to global companies. Similar issues can arise when products are shipped between affiliated companies in different states or provinces. Also, affiliated companies may have divisional profit sharing, causing managers working for the same corporate parent to debate the costs assigned to products produced by their respective unit. As you can see, there is a lot more to job costing than just adding up costs!
+
+.
+
+28
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Job Costing Managerial and Cost Accounting
+
+Accounting for Actual and Applied Overhead
+
+4	 Accounting for Actual and Applied Overhead
+A lot of this chapter has been devoted to discussing the application of overhead to production. Overhead is applied based on a predetermined formula, and considerable thought needs to be put into the appropriate basis (cost drivers) for making this allocation. An account called “Factory Overhead” is credited to reflect this overhead application to work in process. But, what is the source of the debits to Factory Overhead?
+
+FACTORY OVERHEAD 5,000 ?
+
+WORK IN PROCESS 5,000
+
+4.1	
+
+The Factory Overhead Account
+
+The Factory Overhead account is not a typical account. It does not represent an asset, liability, expense, or any other element of financial statements. Instead, it is a “suspense” or “clearing” account. Amounts go into the account and are then transferred out to other accounts. In this case, actual overhead goes in, and applied overhead goes out! The credits to this account are generated when overhead is applied to production; now focus on the debits which represent the actual amounts being spent on overhead.
+
+4.2	
+
+Actual Overhead
+
+As the cost components of overhead are actually incurred, the Factory Overhead account is debited, and the logically offsetting accounts are credited. The table below provides representative examples of factory overhead items.
+(;$03/( 29(5+($',7(0 ,QGLUHFWODERU ,QGLUHFWPDWHULDO ,QVXUDQFH )DFWRU\GHSUHFLDWLRQ 7D[HV 8WLOLWLHV '(%,7 )DFWRU\2YHUKHDG )DFWRU\2YHUKHDG )DFWRU\2YHUKHDG )DFWRU\2YHUKHDG )DFWRU\2YHUKHDG )DFWRU\2YHUKHDG &5(',7 6DODULHV3D\DEOH ,QYHQWRU\RU6XSSOLHV 3UHSDLG,QVXUDQFH $FFXPXODWHG'HSUHFLDWLRQ 7D[HV3D\DEOH 8WLOLWLHV3D\DEOH
+
+29
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Accounting for Actual and Applied Overhead
+
+The indirect labor would relate to the cost of factory staff not directly involved in production. This can include break-time of line workers, shop managers, maintenance, guards, and so forth. The indirect materials relates to supplies and components that are not a significant cost item. Importantly, selling and administrative costs not related to production (e.g., advertising, salaries for non-production related staff, sales commissions, rent of the corporate offices, etc.) are separately expensed, and are not part of factory overhead. A typical entry to record factory overhead costs would be as follows:
+6 30 X3 Factory Overhead Salaries Payable Supplies Prepaid Insurance Accumulated Depreciation Taxes Payable Utilities Payable
+To record various factory overhead costs
+
+100,000 50,000 15,000 5,000 11,000 9,000 10,000
+
+4.3	
+
+The Balance of Factory Overhead
+
+Since the Factory Overhead account is debited for actual overhead incurred and credited for allocated overhead, the general ledger account would appear as follows (the job costs are newly assumed for this illustration):
+
+$&&2817)DFWRU\2YHUKHDG
+'DWH -XQH; -XQH; -XQHWR -XQH;  'HVFULSWLRQ $OORFDWHGRYHUKHDGWR-RE$ $OORFDWHGRYHUKHDGWR-RE% $OORFDWHGRYHUKHDGWR-RE&'HWF 5HFRUGHGDFWXDORYHUKHDGVHHHQWU\  'HELW &UHGLW %DODQFH
+
+       
+
+    
+
+The next graphic provides a visual representation of the cost flow associated with the Factory Overhead account. In this case, the applied overhead equaled the actual overhead, leaving a zero balance. This means that the predetermined allocation rate was exactly what was incurred during the period. More often than not, this level of perfection will not result.
+
+30
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Accounting for Actual and Applied Overhead
+
+SALARIES PAYABLE 50,000
+
+WORK IN PROCESS
+JOB A
+
+15,000
+
+SUPPLIES 15,000
+
+FACTORY OVERHEAD 100,000 100,000
+
+WORK IN PROCESS
+JOB B
+
+10,000
+
+PREPAID INS., etc. 35,000
+
+WORK IN PROCESS
+JOB C, D, etc.
+
+75,000
+
+4.4	
+
+Underapplied Overhead
+
+A more likely outcome is that the applied overhead will not equal the actual overhead. The following graphic shows a case where $100,000 of overhead was actually incurred, but only $90,000 was applied.
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+31
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Job Costing Managerial and Cost Accounting
+
+Accounting for Actual and Applied Overhead
+
+SALARIES PAYABLE 50,000
+
+WORK IN PROCESS
+JOB A
+
+15,000
+
+SUPPLIES 15,000
+
+FACTORY OVERHEAD 100,000 90,000 10,000
+
+WORK IN PROCESS
+JOB B
+
+10,000
+
+PREPAID INS., etc. 35,000
+
+COST OF 10,000
+
+WORK IN PROCESS
+JOB C, D, etc.
+
+65,000
+
+This situation is called “underapplied” overhead. It is said to be an “unfavorable” outcome, because not enough jobs were produced to absorb all of the overhead incurred. This might result from below normal levels of output, or overspending. In any event, the fact remains that more was spent than allocated. Because the Factory Overhead account is just a clearing account (not a financial statement account), the remaining balance must be transferred out. Several options are available for disposing of this amount, but one approach is to remove (credit) the underapplied amount and charge (debit) Cost of Goods Sold:
+6 30 X3 Cost of Goods Sold Factory Overhead
+To transfer underapplied overhead to cost of goods sold
+
+10,000 10,000
+
+
+
+
+
+This entry has the effect of reducing income for the excessive overhead.
+
+4.5	
+
+Overapplied Overhead
+
+If the applied overhead exceeds the actual amount incurred, overhead is said to be “overapplied.” This is usually viewed as a favorable outcome, because less has been spent than anticipated for the level of achieved production.
+
+32
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Accounting for Actual and Applied Overhead
+
+SALARIES PAYABLE 50,000
+
+WORK IN PROCESS
+JOB A
+
+15,000
+
+SUPPLIES 15,000 
+
+FACTORY OVERHEAD 100,000 110,000 10,000
+
+WORK IN PROCESS
+JOB B
+
+10,000
+
+PREPAID INS., etc. 35,000
+
+COST OF GOODS SOLD 10,000
+
+WORK IN PROCESS
+JOB C, D, etc.
+
+85,000
+
+The next journal entry shows the reduction of cost of goods sold to offset the amount of overapplied overhead:
+6 30 X3 Factory Overhead Cost of Goods Sold
+To reduce cost of goods sold for the overapplied overhead
+
+10,000 10,000
+
+Always keep in mind that the goal is to “zero out” the Factory Overhead account and measure the actual cost incurred. In this last example, $100,000 was actually spent and accounted for: $110,000 charged to specific jobs and $10,000 offset as a reduction in cost of goods sold. These illustrations of the disposition of under- and overapplied overhead are typical, but not the only available solution. A more theoretically correct approach would be to reduce cost of goods sold, work in process inventory, and finished goods inventory on a pro-rata basis. However, this approach is clearly more cumbersome and can sometimes run afoul of the specific accounting rules discussed in the next paragraph. In a subsequent chapter, you will learn more about how to handle the “variances” arising from underapplied overhead.
+
+33
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Accounting for Actual and Applied Overhead
+
+4.6	
+
+Influence of GAAP
+
+Although managerial accounting information is generally viewed as for internal use only, be mindful that many manufacturing companies do prepare external financial statements. And, generally accepted accounting principles dictate the form and content of those reports. For example, a specific Statement of the Financial Accounting Standards Board (SFAS No. 151) requires that underapplied overhead relating to idle facilities, wasted material, the allocation of fixed production overhead, and so forth, be charged to current period income by means similar to those just illustrated.
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+34
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Job Costing Managerial and Cost Accounting Job Costing in Service, Not For-Profit, And Governmental Environments
+
+5	 Job Costing in Service, Not For-Profit, And Governmental Environments
+The last hundred-plus years have been remarkable. A primarily agriculture-based world economy gave way to the industrial revolution. This revolution took root and continues to sweep around the globe. Following the growth in manufacturing has been an even greater proliferation of support and service roles. Perhaps as few as 10% of workforce members are now actively producing a tangible end product.
+
+5.1	
+
+The Service Sector
+
+Most employees in the private sector are engaged in nonmanufacturing activities like accounting, sales, computing, and administration. New businesses have developed in the areas of law, healthcare, food services, electronic information delivery, transportation, entertainment, and others. The not-for-profit sector is increasing; consider the size and scope of educational institutions, hospitals, foundations, and so forth. And, not to be forgotten, is the size and scope of governmental entities. Cities provide services like municipal infrastructure, fire, police, water utilities, and code enforcement. State and provincial governments may provide for the educational system, highways, and prisons. At the federal level, governments may provide military, welfare, transportation, and countless other services. It is no wonder that most people work in a nonmanufacturing role. The job costing model presented in this chapter is generally suggestive of the idea that a “job” can be identified as some tangible product. But, that is not necessarily the case. This chapter opened with an illustration for Castle Electric. If you think deeper about that example, you will realize that most of what Jack Castle provided to his customers was a “service.” But, the utilization of job costing methodologies was still highly relevant. The cost of services, whether provided in the private sector, not-for-profit, or governmental arenas, must be determined with some reasonable degree of accuracy. The growth, indeed dominance, of these sectors of the economy underscores the need to extend costing methods beyond the traditional manufacturing setting.
+
+35
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting Job Costing in Service, Not For-Profit, And Governmental Environments
+
+The concept of a “job” gives way to more abstract connotations: “client,” “surgical procedure,” “seat mile,” “student credit hour,” “fire call,” or other measure of output. Clearly, direct materials become a less significant part of the overall picture. But, overhead can take on heightened levels of importance. Perhaps you have experienced a costly hospital stay. The itemized billing that follows usually includes some shocking components (e.g., $5 for an aspirin). These prices cannot be justified based on direct material cost alone. Clearly, the hospital has tremendous and costly overhead. In addition, you don’t just pop an aspirin in the hospital as you would at home. The pill must be administered, documented, and billed; efforts which consume expensive labor time. If costing methods are not employed correctly, the organization may find that it has underestimated its costs of services. This can lead to financial failure. On the other hand, many will question the cost drivers and methods of allocations that are used in service type activities. For instance, a city may determine that the full cost of a fire department is several hundred thousand dollars per residential house fire. This type of job costing could lead one to conclude that a fire department is not cost effective. The problem with this approach is that it ignores that one fire would quickly spread to an entire city without a suppression action by the fire department. And, firefighters save countless lives for which there can be no rational economic measure. So, what is the actual “job” and how are costs to be assigned to that “job?” This measurement problem is pervasive and challenging in the service sector.
+
+5.2	
+
+Capacity Utilization
+
+The root of the problem is that traditional job costing allocates overhead based on the expected output. In contrast, it may sometimes make more sense to charge individual jobs based on full capacity utilization, provided a plan is in place to maintain the financial viability of the organization. Capacity utilization refers to the degree to which an organization’s output capabilities are being deployed or utilized. To illustrate this concept, assume that a local ambulance service was capable of providing 30,000 calls per year, but only expected to make 10,000 actual calls. If the overhead of the ambulance company was $30,000,000, the overhead allocation would be either $3,000 per call (based on estimated activity) or $1,000 per call (based on full capacity utilization). If the entity set customer charges based on the $3,000 amount, it might soon find that it generates fewer calls, because people opt not to utilize the service. In essence, a handful of actual patients are put in the position of paying for the ambulance service that is available to everyone. A more logical approach might be to cost the service based on the $1,000 figure, and then recover the additional cost by some form of tax or fee that falls on all potential patrons of the ambulance service (whether they use it or not during a given time period).
+
+36
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting Job Costing in Service, Not For-Profit, And Governmental Environments
+
+These capacity utilization and costing considerations are in play for all organizations, but they seem to present a particularly vexing problem for the service sector. As a general rule, when overhead is allocated based on full capacity rather than expected output, one can expect considerable underapplied overhead. Managers need to be keenly aware of this as they plot their ultimate financial strategies. Great care must be taken to avoid dysfunctional decisions based on erroneously high or low costing. There are many theories and methods, but none of them replace a savvy decision made by a well informed manager who understands the nuances of job costing.
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+37
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Job Costing Managerial and Cost Accounting
+
+Modern Management of Costs and Quality
+
+6	 Modern Management of Costs and Quality
+Accountants have a reputation for being focused on cost control. Perhaps this reputation can be traced back to the 1843 book by Charles Dickens entitled A Christmas Carol. In that tale, Ebenezer Scrooge is a penny-pinching miser who cares nothing for the people around him. His sole purpose is making money, and his trusted but suffering accountant is Bob Cratchit who painstakingly tracks every penny. Fear not, Mr. Scrooge eventually sees the light when visited by the ghost of his former partner, but that’s another story. Today’s accountants still focus on measuring and controlling the costs of a business. And, this pursuit sometimes earns them the scorn of their associates who may be more interested in engineering, product development, marketing, and other facets of the business. The accountants, and their numbers, are sometimes seen as profit obsessed and, therefore, limiting the potential to achieve other objectives. But, modern managerial accounting techniques are causing a shift in this reputation. Technologically advanced information systems mean less time needs to be spent on data capture, and more time can be devoted to analyzing data and making sound business decisions. As you will see, modern evaluative techniques are looking beyond the bottom line.
+
+6.1	
+
+Global Competition
+
+One result of the rise in global competition has been a cross-pollination of best business practices. Interestingly, many profitable businesses come out of environments where profit is not the primary motivation. What has been learned from this is that business success can be driven by a fixation on issues such as quality, employee involvement, customer satisfaction, and the like; profit is the result not the objective. Let’s focus on several contemporary trends where management accountants play an important implementation role.
+
+38
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Modern Management of Costs and Quality
+
+6.2	
+
+Kaizen
+
+Kaizen is a Japanese term used to describe a blitz like approach to study processes and install efficiency within an organization. This approach relies on frontline employee input for “quick fix” suggestions relating to business processes. Essentially, focus sessions are conducted in search of the obvious areas of operational improvement. These sessions are usually “observed” or “moderated” by members of the strategic finance/managerial accounting/industrial engineering teams. But, these “experts” are supposed to listen and learn, not suggest or lead the discussions. What is sought are simple and common sense solutions for issues that may not have even been seen as problems for the business. In one setting, for example, a production facility manufactured metal shelving to be used in refrigeration equipment. Essentially, the product required sheet metal to be stamped and shaped in a series of operations. The facility was cramped, and the product flowed down the three production lines like this:
+
+The business was not profitable, and was acquired by an entrepreneur who immediately conducted a Kaizen session. The workers pointed out that they were bumping into each other and disrupting the manufacturing activity as they moved the work in process between the three production lines. The simple fix was to reverse the middle line as follows:
+
+39
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Modern Management of Costs and Quality
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+40
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Job Costing Managerial and Cost Accounting
+
+Modern Management of Costs and Quality
+
+This was a simple, and in retrospect obvious, corrective measure. The savings were huge from this and other Kaizen event fixes! The entrepreneur sold the business at a greatly increased price within just a few years after buying it. There are few businesses that cannot benefit by taking time to listen to employees in search of operational suggestions that make sense. The cost and efficiency savings can be enormous. These Kaizen sessions are also useful in helping employees understand business cost control and its importance to the entire business team.
+
+6.3	
+
+Lean Manufacturing
+
+A term popularized in recent years has been “lean manufacturing.” This descriptive term is indicative of an environment where waste has been trimmed. But, it also entails a focus on speed and quality. Another benchmark of lean manufacturing is the pursuit of standardization for as many processes as possible, without compromising responsiveness to customer demand. The development of a lean manufacturing facility is not a quick fix like Kaizen. Accountants and others will conduct an extensive and in-depth study of each process with the goal of bringing efficiency to the business. Often, consultants and experts are engaged; these outsiders can bring a fresh perspective and valuable insight gained by their service to a variety of other businesses. To illustrate, there was a time when automakers had many options for each car produced, and the customers spent considerable time deciding which options they preferred and could afford. This, in turn, complicated the manufacturer’s production and inventory management. In time, they discovered that the manufacturing process, inventory management, and customer buying experience could be improved by bundling options into two or three packages. The “leaning” process resulted in a more standardized/ streamlined production effort, and produced a better customer experience. The point is that making a lean manufacturing operation does not mean simply cutting, cutting, and cutting some more. It is the result of an intensive effort to streamline and standardize production, without disappointing the customer!
+
+6.4	
+
+Just in Time Inventory
+
+Inventory management often benefits from studies into the development of a lean manufacturing environment. Maintaining raw materials inventory entails not only a considerable upfront investment, but the potential for costly damage and obsolescence. Lean companies will attempt to minimize their raw materials inventory. One method is adopting “just in time” (JIT) inventory systems. In an ideal application, raw materials are received from suppliers just as they are needed in the production process. This approach requires a complete and reliable logistics system, as any disruption in the flow of materials can bring the whole production process to a devastating stop. Such systems are usually dependent upon a strong information system that often links the manufacturer directly to the supplier with automated procurement procedures. A Japanese term that is associated with JIT is “Kanban,” which means some form of signal that a particular inventory is ready for replenishment.
+
+41
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Modern Management of Costs and Quality
+
+A popular modification of the JIT system is for suppliers to “store” their inventory at the manufacturer’s physical location. This enables the manufacturer to “buy” raw materials directly from the supplier’s stock located within the same physical location. Finally, look carefully as you travel through industrial areas, and notice that “compatible” businesses are located in close proximity. For example, a beverage bottler’s neighbor is apt to be an aluminum can manufacturer. All of these measures evolve from significant endeavors to develop lean manufacturing processes, and are usually based upon detailed job cost studies.
+
+6.5	
+
+Total Quality Management
+
+Total quality management (TQM) is a key driver of customer satisfaction and business success. Globalization increases the level of competition and drive toward higher product quality. This is often achieved by incorporating detailed standards into the management and productive processes. There is now a globally recognized organization, The International Organization for Standardization, that provides standards and guidelines relating to processes that drive the production of quality outputs. An “ISO 9000” certification suggests that a company, no matter where operating around the world, is able to demonstrate that it has successfully implemented quality management standards. This becomes increasingly important in selecting global trading partners.
+
+6.6	
+
+Six Sigma
+
+An important part of TQM is to stress quality by comparing products and processes to other “worldclass” firms. This comparative process is commonly known as benchmarking. Motorola developed a qualityfocused management approach that is responsible for billions of dollars in savings. So popular is the approach, that it has been trademarked by Motorola. The company now offers training into their quality management processes. Those processes are known as Six Sigma, and they are being deployed by many other companies. GE is a fan of the approach, and its website notes: “Six Sigma is a highly disciplined process that helps us focus on developing and delivering near-perfect products and services.” “Sigma” is a term learned in statistics. It is a measure of deviation from a norm. In the case of production management the “norm” is perfection. With Six Sigma, the organization tracks and monitors “defects” in a process. Then, methods are sought to systematically eliminate the opportunity for such defects. The goal is to achieve nearly “zero defects” – a defect rate that is at least six standard deviations from the norm (hence the name “six sigma”). Such a distribution would have only 3.4 defects per million observations. Importantly, the defects relate not only to final products, but to all business processes, whether they be in manufacturing, record keeping, or whatever!
+
+42
+Download free eBooks at bookboon.com
+
+Job Costing Managerial and Cost Accounting
+
+Modern Management of Costs and Quality
+
+Six Sigma revolves around the definition, measurement, and analysis of defects. The management accounting group will be heavily involved in this process. And, it is often the management accounting unit’s responsibility to suggest improvements and provide controls necessary to drive an organization toward the near-zero defect goal. But, how does this result in cost savings? Companies have learned that quality defects are very costly. The costs come about directly in terms of the of corrective actions like warranty work, and indirectly through lost customer satisfaction that can adversely impact future sales. Significant savings are realized via the reduction in the cost of poor quality.
+
+6.7	
+
+Reflection on Modern Cost Management
+
+This chapter should serve to highlight an important message: The modern managerial accountant is increasingly deploying technology to deal with the mundane data capture, thereby freeing resources to study and analyze techniques needed to drive business success. While penny-pinching is an important part of building a financially successful business, it is also true that one can be penny-wise and pound foolish. Thus, the management accountant is not solely focused on cost cutting, but must also be mindful of measuring and instituting controls that drive an efficiently produced product of high quality.
+
+AXA Global Graduate Program
+Find out more and apply
+
+43
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+

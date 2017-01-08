@@ -1,0 +1,350 @@
+Managerial	and	Cost	Accounting Exercises	II
+Larry	M.	Walther;	Christopher	J.	Skousen
+
+Download	free	books	at
+
+Larry M. Walther & Christopher J. Skousen
+
+Managerial and Cost Accounting Exercises II
+
+2
+Download free eBooks at bookboon.com
+
+Managerial and Cost Accounting Exercises II 1st edition © 2011 Larry M. Walther & Christopher J. Skousen & bookboon.com All material in this publication is copyrighted, and the exclusive property of Larry M. Walther or his licensors (all rights reserved). ISBN 978-87-7681-796-1
+
+3
+Download free eBooks at bookboon.com
+
+Managerial and Cost Accounting Exercises I
+
+Contents
+
+Contents
+	 	 	 	 	 	 	 	 	 	 	 	 Problem 1	 Worksheet 1	 Solution 1	 Problem 2	 Worksheet 2	 Solution 2	 Problem 3	 Worksheet 3	 Solution 3	 Problem 4	 Worksheet 4	 Solution 4	 6 7 7 8 8 9 10 10 10 11 11 11
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Managerial and Cost Accounting Exercises I
+
+Contents
+
+	 	 	 	 	 	 	 	 	
+
+Problem 5	 Worksheet 5	 Solution 5	 Problem 6	 Worksheet 6	 Solution 6	 Problem 7	 Worksheet 7	 Solution 7	
+
+13 13 14 16 17 17 19 19 20
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Managerial and Cost Accounting Exercises I
+
+Problem 1
+
+Problem 1
+Brian Snow is a river guide on the Columbia River. Typically brian takes tourists around 30 to 80 miles upriver. Round trip takes anywhere from 2 to 8 hours before returning to dock. Brian has noted that overall fuel costs vary based on “miles upriver” and he is considering changing his guide fee to separately charge customers for estimated fuel costs. Below Brian’s log for 15 typical days showing “miles upriver” and “total fuel cost”.
+Day 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 Total Miles Upriver 55 61 33 42 73 37 49 55 66 36 43 67 52 54 46 $ 769 Fuel Cost $129 139 109 120 148 111 127 130 139 115 120 144 124 130 120 $ 1,905
+
+a)	 Use the high-low method to determine the “fixed fuel cost” associated with the trolling time, and the “variable fuel cost” associated with running up and down the river. b)	 If the sole objective of the fuel charge is to approximately recover actual costs incurred each day, would “$2.50 per mile upriver” be a fair formula? What alternative formula might you suggest?
+
+6
+Download free eBooks at bookboon.com
+
+Managerial and Cost Accounting Exercises I
+
+Problem 1
+
+Worksheet 1
+a)	
+MILES RUN COST
+
+HIGH
+
+LOW
+
+b)	
+
+Solution 1
+a)	
+MILES RUN Highest Level Lowest Level Difference Variable cost per mile upriver – ($39/40 miles): HIGH Total Cost Less: Variable Cost ($0.963 per mile X miles upriver) Fixed Cost $	148.00 71.18 $	76.83 73 33 40 COST $	148.00 109.00 $	39.00
+
+$0.975 LOW $	109.00 32.18 $	76.83
+
+b)	 Although the idea of charging $2.50 per mile would seem to average out about right ($1,905/769 miles = $2.48), it would not be a fair day-by-day charge. Some days would be overpriced (e.g., 75 miles @ $2.50 would recover $187.50 – more than the actual expected cost), and other days would be underpriced (e.g., 30 miles @ $2.50 would recover only $75 – far less than the actual expected cost). A simple and fair formula might be a $75 flat fee (for trolling time), plus $1.00 per mile upriver.
+
+7
+Download free eBooks at bookboon.com
+
+Managerial and Cost Accounting Exercises I
+
+Problem 2
+
+Problem 2
+Jakob Loos recently graduated from medical school. He is considering opening his own family practice doctor office. A doctor’s office is a high-fixed cost business, as it requires considerable expenditures for facilities, labor, and equipment, no matter how many families are served. Assume the annual fixed cost of operations is $400,000. Further assume that the only significant variable cost relates to patients served. An average patient served costs $250. Jakob’s banker has asked a variety of questions in contemplation of providing a loan for this business. a)	 If the average family is charged $475 for services, how many families must be served to clear the break-even point? b)	 If the banker believes Jakob will only serve 1,000 families during the first year in business, how much will the business lose during its first year of operation? c)	 If Jakob believes his profits will be at least $100,000 during the first year, how much is he anticipating for total revenue? d)	 The banker has suggested that Jakob can reduce his fixed costs by $100,000 if he will not purchase certain equipment. Jakob can instead lease or rent this equipment as needed. The variable cost of leasing this equipment is $55 per family served. Will this suggestion help Jakob reach the break-even point sooner?
+
+Worksheet 2
+a)	 Break-Even Point in Patients =
+
+b)	
+
+c)	 Sales for a Target Income =
+
+d)	 New Break-Even Point in Patients =
+
+8
+Download free eBooks at bookboon.com
+
+Managerial and Cost Accounting Exercises I
+
+Problem 2
+
+Solution 2
+a)	 Break-Even Point in Patients = Total Fixed Costs / Contribution Margin Per Unit 1,777.78 patients = $400,000 ÷ ($475 – $250) 1,778 patients must be served b)	 1,000 patients × $475 = $475,000 total revenue $475,000 – $400,000 fixed costs – (1,000 × $250 variable costs) = $175,000 loss c)	 Sales for a Target Income = (Fixed Costs + Income) / Contribution Margin Ratio $1,055,556 = ($400,000 + $100,000) ÷ ($225/$475) d)	 New Break-Even Point in Patients = Total Fixed Costs / Contribution Margin Per Unit 1,538.46 patients = $300,000 ÷ ($475 – $225 – $55) 1,539 patients must be served (this approach does reduce the breakeven point)
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+9
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Managerial and Cost Accounting Exercises I
+
+Problem 3
+
+Problem 3
+Warwick Corporation’s controller is preparing a business plan for 20X9. The anticipated level of business activity consists of the following key cost factors: Total fixed costs	 Total variable costs	 Total revenues	 $ 800,000 700,000 2,500,000
+
+Warwick’s Bank has issued an economic advisory report suggesting that companies should anticipate a severe economic downturn during 20X9. a)	 Determine the level of volume reduction that Warwick can absorb before becoming unprofitable. b)	 Distinguish between committed fixed costs and discretionary fixed costs. What is the importance of this distinction in planning for business cycles?
+
+Worksheet 3
+a)	
+
+b)	
+
+Solution 3
+a)	 The contribution margin ratio is 0.72 (($2,500,000 – $700,000)/$2,500,000) Break-Even Point in Revenues = Total Fixed Costs / Contribution Margin Ratio $1,111,111 = $800,000 ÷ 0.72 The company can absorb a 55.56% reduction ($1,388,889) in sales: (($2,500,000 – $1,111,111) ÷ $2,500,000) = 55.56% b)	 Committed fixed costs are generally unavoidable. Discretionary fixed costs can be reduced with adequate planning. If the company is expecting a greater than 55.56% reduction in volume, and desires to remain profitable, the fixed cost structure should reviewed to determine elements that might be reduced or avoided.
+
+10
+Download free eBooks at bookboon.com
+
+Managerial and Cost Accounting Exercises I
+
+Problem 3
+
+Problem 4
+Super Sharp manufactures and sells two products. The first product is a disposable shaving razor blade that lasts about 7 days. The second product is shaving cream. Customers of the first product use one bottle of shaving cream every 28 days. As a result, razor blades outsell shaving cream by a 4:1 ratio. Shaving Cream sells for $8 per bottle, and has a contribution margin ratio of 50%. The razor blades sell for $3 per blade, but only generates variable costs of $1.50. The company’s total fixed costs are $3,500,000. a)	 What level of total sales is necessary to achieve break even? b)	 If a competitor began selling razors that forced Super Sharp to reduce the price for its razors to $2.50 (to maintain market share and the 4:1 ratio of razors to shaving cream), how many Razor sets must be sold for the company to break even?
+
+Worksheet 4
+a)	
+
+b)	
+
+Solution 4
+“Unit” Contribution = ($8 × 50%) + (4 razors × ($3 – $1.5)) “Unit” Contribution = $10 Note that a ““Unit”” consists of one bottel of shaving cream and 4 razors blades. Break-Even Point in Units = Total Fixed Costs / Contribution Margin Per “Unit” 350,000 Units = $3,500,000 ÷ $10 Total Sales at Break-Even Level = 350,000 units × ($8 + (4 × $3)) = $7,000,000 Total Sales to Break Even
+11
+Download free eBooks at bookboon.com
+
+Managerial and Cost Accounting Exercises I
+
+Problem 3
+
+Alternatively:
+Product Sales to Total Sales Ratio (mix) Razor (4 @ $3) Shaving Cream (1 @ $8) $12/$20 $8/$20 X X Product Contribution Margin Ratio $1.5/$3 $4/$8 = =
+
+Weighted Average Ratio 0.3000 0.2000 0.5000
+
+$3,500,000 ÷ 0.5 = $7,000,000 totals sales to break even “Unit” Contribution = ($8 × 50%) + (4 razors × ($2.50 – $1.50)) “Unit” Contribution = $8” “Break-Even Point in Units = Total Fixed Costs / Contribution Margin Per “Unit” 437,500 Units = $3,500,000 ÷ $8
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+12
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Managerial and Cost Accounting Exercises I
+
+Problem 5
+
+Problem 5
+Big R Ranch Cattle Company has gathered the following information about operations for the past three years. Big R has been expanding herd size and is frustrated that profits have not shown consistent growth.
+Year 1 Cow herd size Revenues from sale of calves Feed Labor (1 cowboy per 180 cows) Cow depreciation Bull depreciation (1 bull per 30 cows) Medications/vaccinations Land lease Operating income 180 $	229,500 40,500 54,000 33,750 3,750 6,750 22,500 68,250 Year 2 210 $	267,750 47,250 108,000 39,375 4,688 7,875 22,500 38,063 Year 3 270 $	344,250 60,750 108,000 50,625 5,625 10,125 22,500 86,625
+
+a)	 Determine which costs are variable, fixed, and “step” fixed. Complete the “per unit” cost table on the preprinted worksheet. b)	 How much is the per-cow contribution margin? c)	 How do the “step” costs explain the struggle to achieve consistent growth in profits? What strategy should Big R undertake to maximize profit potential for his operation? d)	 Assuming Big R’s land will support a herd of 360 cows, project anticipated profits. Why is the profit more than twice as much as the amount that is earned on a herd size of 180 cows?
+
+Worksheet 5
+a)	
+Variable Costs Per Unit Cost
+
+Fixed Costs (not step)
+
+"Per Unit Cost (@ 180 cows)"
+
+"Per Unit Cost (@ 210 cows)"
+
+"Per Unit Cost (@ 270 cows)"
+
+Fixed Costs (step)
+
+"Per Unit Cost (@ 180 cows)"
+
+"Per Unit Cost (@ 210 cows)"
+
+"Per Unit Cost (@ 270 cows)"
+
+13
+Download free eBooks at bookboon.com
+
+Managerial and Cost Accounting Exercises I
+
+Problem 5
+
+b)	
+Average revenue per cow Variable costs ($225 + $188 + $38) Contribution margin per cow $	$	-
+
+c)	
+
+d)	
+Revenues from sale of calves Feed Labor (1 cowboy per 180 cows) Cow depreciation Bull depreciation (1 bull per 30 cows) Medications/vaccinations Land lease Operating income $	204,000
+
+Solution 5
+a)	
+Variable Costs Feed Cow depreciation Medications/vaccinations Per Unit Cost $	225.00 188.00 38.00
+
+Fixed Costs (not step) Land lease
+
+"Per Unit Cost (@ 180 cows)" $	125.00
+
+"Per Unit Cost (@ 210 cows)" $	107.14
+
+"Per Unit Cost (@ 270 cows)" $	83.33
+
+Fixed Costs (step) Labor (1 cowboy per 180 cows) Bull depreciation (1 bull per 30 cows)
+
+"Per Unit Cost (@ 180 cows)" $	300.00 $	20.83
+
+"Per Unit Cost (@ 210 cows)" $	514.29 $	22.32
+
+"Per Unit Cost (@ 270 cows)" $	400.00 $	20.83
+
+b)	
+Average revenue per cow Variable costs ($225 + $188 + $38) Contribution margin per cow $	1,275 $451 $	824
+
+14
+Download free eBooks at bookboon.com
+
+Managerial and Cost Accounting Exercises I
+
+Problem 5
+
+c)	 The step costs increase in increments. Particularly significant is the addition of a second cowboy once the herd size increases beyond 180 cows. This actually resulted in less profit for 210 cows than for 180 cows. The ideal operating environment is to spread fixed costs over larger units of production by operating at the “right” edge of each step. For cowboys, this would be 180 or 270 cows. d)	
+Revenues from sale of calves Feed Labor (1 cowboy per 180 cows) Cow depreciation Bull depreciation (1 bull per 30 cows) Medications/vaccinations Land lease Operating income $	459,000 81,000 108,000 67,680 7,500 13,680 22,500 158,640 Doubling production more than doubled profit, as there was no additional land cost.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+15
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Managerial and Cost Accounting Exercises I
+
+Problem 6
+
+Problem 6
+Harrison Research manufactures and sells specialized titanium rods used in medical equipment. The product is manufactured and sold in 0.25 meter long “sticks.” The product is generally produced and sold to match customer demand, and there is not a significant amount of finished goods inventory at any point in time. Summary information for 20X4 is as follows: Sales were $5,000,000, consisting of 200,000 sticks. Total variable costs were $3,500,000. Total fixed costs were $1,250,000. Net income was $250,000. Due to deteriorating general economic conditions there is some concern about a reduction in sales volume. The following questions should each be answered independent of one another. a)	 What is the company’s break-even point in “sticks?” Can the company sustain a 30% reduction in total volume, and remain profitable? b)	 The company’s sole shareholder, Chem Harrison, generally lives off of dividends paid by the business. The business typically declares and pays a dividend equal to 25% of net income. If Chem needs to receive $150,000 in dividends for normal living expenses, what total revenues must Harrison Research produce in 20X4? c)	 If total volume is expected to decrease by 20%, and the company wishes to continue to produce a $250,000 net income by raising the per unit selling price, what revised per stick price must be imposed? Will this strategy necessarily work? d)	 If the company expects a drop in raw material prices to reduce total variable costs to $15 per stick, but all other revenue and cost factors to be unaffected, what will be the revised breakeven point in sales and units?
+
+16
+Download free eBooks at bookboon.com
+
+Managerial and Cost Accounting Exercises I
+
+Problem 6
+
+Worksheet 6
+a)	
+
+b)	
+
+c)	
+
+d)	
+
+Solution 6
+a)	 Break-Even Point in Sticks = Total Fixed Costs / Contribution Margin Per Unit 166,667 sticks = $1,250,000 ÷ (($5,000,000 – $3,500,000) ÷ 200,000 units) The company would suffer a loss if volume were reduced to 140,000 units (a 30% reduction from the 200,000 unit level) b)	 Sales for a Target Income = (Fixed Costs + Income) / Contribution Margin Ratio Note: The target income is $600,000 ($150,000 ÷ 0.25) Note: The contribution margin ratio is 0.30 ($1,500,000 ÷ $5,000,000) $6,166,667 = ($1,250,000 + $600,000) ÷ 0.30 Revenues need to be at least $6,166,667 to sustain the dividend policy.
+
+17
+Download free eBooks at bookboon.com
+
+Managerial and Cost Accounting Exercises I
+
+Problem 6
+
+c)	 Note: The revised volume is 160,000 sticks (80% of 200,000) Note: The company needs a total contribution margin of $1,500,000 ($1,250,000 fixed costs + $250,000 target income) Note: Variable cost per unit is $17.50 ($3,500,000 ÷ 200,000 units) $1,500,000 total contribution margin ÷ 160,000 sticks = $9.375 per unit margin Variable Cost Per Unit ($17.50) + Per Unit Margin ($9.375) = $26.875 Sale Price Increasing the per unit selling price can reduce the number of units sold, so the strategy may not work as hoped. d)	 Break-Even Point = Total Fixed Costs / Contribution Margin Ratio Note: The revised contribution margin ratio is 0.40 (($25 – $15) ÷ $25) $3,125,000 = $1,250,000 ÷ 0.40 $3,125,000 ÷ $25 per unit = 125,000 units
+
+18
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Managerial and Cost Accounting Exercises I
+
+Problem 7
+
+Problem 7
+Uwe Hagen company is operating at full capacity. Annual revenues are $30,000,000. Total costs are $27,000,000, of which 30% is fixed and 70% is variable. In considering the following scenarios, assume each is independent of the others. a)	 The company is considering expanding capacity. The additional capacity will add $10,000,000 in annual fixed costs. The contribution margin rate will not be impacted. How much in additional sales will be necessary to justify the added capacity? b)	 The company is considering automation of certain production processes. Productive capacity will not be increased, but the contribution margin ratio will increase by 5% of sales via a reduction in direct labor. The automated equipment will cost $3,000,000 per year to operate. Should the equipment be purchased? c)	 The company is considering increasing the sales price per unit by 10%. The fixed costs and variable per unit cost will not be affected, but total sales volume (in units) will be reduced by 10%. Will the company be more or less profitable if they engage this pricing strategy? d)	 Assume a flood has reduced production and increased total variable costs by an additional 10% of sales. Competitive pressures prevent Hagen from raising sales prices. Will the company remain profitable?
+
+Worksheet 7
+a)	
+
+b)	
+
+c)	
+
+d)	
+
+19
+Download free eBooks at bookboon.com
+
+Managerial and Cost Accounting Exercises I
+
+Problem 7
+
+Solution 7
+a)	 Total variable costs are $18,900,000 ($27,000,000 × 70%). The contribution margin rate is 37% ($30,000,000 – $18,900,000 = $11,100,000; $11,100,000 ÷ $30,000,000 = 37%). Additional sales of $15,873,016 must be generated to recover $10,000,000 in added fixed costs ($10,000,000 ÷ 0.63). b)	 No. Annual savings of $1,500,000 (direct labor cost reduction equal to 5% of the $50,000,000 in annual sales) will not justify the $3,000,000 of added cost. c)	 The company is currently making $3,000,000. Under the revised plan, total sales will equal $29,700,000 (($30,000,000 × .90) × 110%). Total variable costs will equal $17,010,000 ($18,900,000 × .90), and total fixed costs will remain at $8,100,000. The revised profit will increase to $4,590,000 ($29,700,000 – $17,010,000 – $8,100,000). d)	 The contribution margin rate is reduced to 27%. Total fixed costs of $8,100,000 ($27,000,000 × 30%), divided by the contribution margin ratio (0.27), is exactly $30,000,000. The break-even sales level of $30,000,000 is the anticipated revenue. As a result, the expectation is that Uwe Hagen Company will just break even.
+
+20
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+

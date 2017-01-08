@@ -1,0 +1,1920 @@
+Digital	Image	Processing:	Part	I
+Huiyu	Zhou;	Jiahua	Wu;	Jianguo	Zhang
+
+Download	free	books	at
+
+Huiyu Zhou, Jiahua Wu & Jianguo Zhang
+
+Digital Image Processing
+Part I
+
+2
+Download free eBooks at bookboon.com
+
+Digital Image Processing: Part I 1st edition © 2010 Huiyu Zhou, Jiahua Wu & Jianguo Zhang & bookboon.com ISBN 978-87-7681-541-7
+
+3
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Contents
+
+Contents
+	Prefaces	 1	Introduction	 1.1	 1.2	 1.3	 1.4	 1.5	 1.6	 1.7	 1.8	 Digital image processing	 Purpose of digital image processing	 Application areas that use digital image processing	 Components of an image processing system	 Visual perception	 Image acquisition	 Image sampling and quantization	 Basic relationship between pixels	 7 8 8 9 10 14 14 15 16 17 19 19 19
+
+1.9	Summary	 1.10	References	 1.11	Problems	
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Image Processing Part I
+
+Contents
+
+2	 Intensity transformations and spatial filtering	 2.1	Preliminaries	 2.2	 2.3	 2.4	 2.5	 2.6	 2.7	 Basic Intensity Transformation Functions 	 Histogram Processing	 Fundamentals of Spatial Filtering	 Smoothing Spatial Filters 	 Sharpening filters	 Combining image enhancement methods	
+
+20 20 20 22 26 26 30 33 34 35 36 37 37 37 38 43 44 45 46
+
+2.8	Summary	 2.9	References	 2.10	Problems	 3	 Filtering in the Frequency Domain	 3.1	Background	 3.2	Preliminaries	 3.3	 3.4	 3.5	 3.6	 3.7	 Sampling and the Fourier Transform of Sampled Functions 	 Discrete Fourier Transform 	 Extension to Functions of Two Variables	 Some Properties of the 2-D Discrete Fourier Transform	 The Basics of Filtering in the Frequency Domain	
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Image Processing Part I
+
+Contents
+
+3.8	 3.9	 3.10	 3.11	
+
+Image Smoothing Using Frequency Domain Filters	 Image Sharpening Using Frequency Domain Filters 	 Summary 	 References and Further Reading 	
+
+47 50 56 56 56 57 57 57 60 63 66 69 70 71
+
+3.12	Problems	 4	 4.1	 4.2	 4.3	 4.4	 4.5	 4.6	 Image Restoration	 Image degradation and restoration	 Noise analysis	 Restoration with spatial analysis	 Restoration with frequency analysis	 Motion blur and image restoration	 Geometric transformation	
+
+4.7	References	 4.8	Problems	
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+6
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Image Processing Part I
+
+Preface
+
+Preface
+Digital image processing is an important research area. The techniques developed in this area so far require to be summarized in an appropriate way. In this book, the fundamental theories of these techniques will be introduced. Particularly, their applications in image denoising, restoration, and segmentation will be introduced. The entire book consists of four chapters, which will be subsequently introduced. In Chapter 1, basic concepts in digital image processing are described. Chapter 2 will see the details of image transform and spatial filtering schemes. Chapter 3 introduces the filtering strategies in the frequency domain, followed by a review of image restoration approaches described in Chapter 4.
+
+7
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Introduction
+
+1	Introduction
+1.1	 Digital image processing
+Digital image processing is the technology of applying a number of computer algorithms to process digital images. The outcomes of this process can be either images or a set of representative characteristics or properties of the original images. The applications of digital image processing have been commonly found in robotics/intelligent systems, medical imaging, remote sensing, photography and forensics. For example, Figure 1 illustrates a real cardiovascular ultrasonic image and its enhanced result using a Wiener filter that reduces the speckle noise for a higher signal-to-noise ratio.
+
+(a)
+
+(b)
+
+Figure 1 Illustration of image enhancement by applying a Wiener filter to a cardiovascular ultrasonic image: (a) original, (b) enhanced image.
+
+Digital image processing directly deals with an image, which is composed of many image points. These image points, also namely pixels, are of spatial coordinates that indicate the position of the points in the image, and intensity (or gray level) values. A colorful image accompanies higher dimensional information than a gray image, as red, green and blue values are typically used in different combinations to reproduce colors of the image in the real world. The RGB color model used in the color representation is based on the human perception that has attracted intensive studies with a long history. One example area of the RGB decomposition can be found in Figure 2. The present RGB color model is based on the Young-Helmholtz theory of trichromatic color vision, which was developed by Thomas Young and Herman Helmhotz in the early to mid nineteenth century. The Young-Helmholtz theory later led to the creation of James Clerk Maxwell’s color triangle theory presented in 1860. More details on this topic can be found in [1].
+
+8
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Introduction
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Figure 2 An RGB image along with its R, G and B components: (a) RGB image, (b) R component, (c) G component and (d) B component.
+
+1.2	
+
+Purpose of digital image processing
+
+The main purpose of digital image processing is to allow human beings to obtain an image of high quality or descriptive characteristics of the original image. In addition, unlike the human visual system, which is capable of adapting itself to various circumstances, imaging machines or sensors are reluctant to automatically capture “meaningful” targets. For example, these sensory systems cannot discriminate between a human subject and the background without the implementation of an intelligent algorithm. Figure 3 denotes a successful example where a human object is separated from his background using a k-means clustering algorithm, which is part of the technologies developed in digital image processing. We use this example to justify the importance and necessity of digital image processing. To separate the human object from the background, subsequent processes will be employed. These processes can be low-, mid- and high-level. Low-level processes are related to those primitive operators such as image enhancement, and mid-level processes will get involved in image segmentation, and object classification. Finally, high-level processes are intended to find certain objects, which correspond to the pre-requisite targets [2]. The following description provides more details about the object segmentation, shown in Figure 3.
+
+9
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Introduction
+
+(a)
+
+(b)
+
+Figure 3 Illustration of human object segmentation from the background using a k-means clustering approach [5].
+
+Low-level processes are not desirable in this particular example. This is due to the fact that the original image has been acquired in a good condition and hence no evidence of image blurring occurs. During the mid-level processes, a manual assignment of cluster centers is achieved by a professional. This leads to optimal clustering of image intensities by the automatic k-means clustering. If necessary, the extracted object will be used to generate human identity, which is one of the high-level processes. Up to now, it is clear that without digital image processing one will not be able to generate “meaningful” object in this example and beyond.
+
+1.3	
+
+Application areas that use digital image processing
+
+The applications of digital image processing have been tremendously wide so that it is hard to provide a comprehensive cover in this book. While being categorized according to the electromagnetism energy spectrum [2], the areas of the application of digital image processing here are summarized in relation to the service purpose. This is motivated by the fact that one particular application (e.g. surveillance) may get different sensors involved and hence presents confusing information in the categorization. In general, the fields that use digital image processing techniques can be divided into photography, remote sensing, medical imaging, forensics, transportation and military application but not limited to. Photography: This is a process of generating pictures by using chemical or electronic sensor to record what is observed. Photography has gained popular interests from public and professionals in particular communities. For example, artists record natural or man-made objects using cameras for expressing their emotion or feelings. Scientists have used photography to study human movements (Figure 4).
+
+10
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Introduction
+
+Figure 4 Study of human motion (Eakins Thomas, 1844–1916).
+
+Remote sensing: This is a technology of employing remote sensors to gather information about the Earth. Usually the techniques used to obtain the information depend on electromagnetic radiation, force fields, or acoustic energy that can be detected by cameras, radiometers, lasers, radar systems, sonar, seismographs, thermal meters, etc. Figure 5 illustrates a remote sensing image collected by a NASA satellite from space.
+
+Figure 5 An example of remote sensing images (image courtesy of NASA, USA).
+
+Medical imaging: This is a technology that can be used to generate images of a human body (or part of it). These images are then processed or analyzed by experts, who provide clinical prescription based on their observations. Ultrasonic, X-ray, Computerized Tomography (CT) and Magnetic Resonance Imaging (MRI) are quite often seen in daily life, though different sensory systems are individually applied. Figure 6 shows some image examples of these systems.
+
+11
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Introduction
+
+(a)
+
+(b)
+
+(c )
+
+Figure 6 Medical image examples: (a) ultrasound, (b) X-ray and (c) MRI.
+
+Forensics: This is the application of different sciences and technologies in the interests of legal systems. The purpose of digital image processing in this field is used to be against criminals or malicious activities. For example, suspicious fingerprints are commonly compared to the templates stored in the databases (see Figure 7). On the other hand, DNA residuals left behind by the criminals can be corresponding to their counterparts saved in the DNA banks.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+12
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Image Processing Part I
+
+Introduction
+
+Figure 7 A fingerprint image.
+
+Transportation: This is a new area that has just been developed in recent years. One of the key technological progresses is the design of automatically driven vehicles, where imaging systems play a vital role in path planning, obstacle avoidance and servo control. Digital image processing has also found its applications in traffic control and transportation planning, etc. Military: This area has been overwhelmingly studied recently. Existing applications consist of object detection, tracking and three dimensional reconstructions of territory, etc. For example, a human body or any subject producing heat can be detected in night time using infrared imaging sensors (Figure 8). This technique has been commonly used in the battle fields. Another example is that three dimensional recovery of a target is used to find its correspondence to the template stored in the database before this target is destroyed by a missile.
+
+Figure 8 An infrared image of tanks (image courtesy of Michigan Technological University, USA).
+
+13
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Introduction
+
+1.4	
+
+Components of an image processing system
+
+An image processing system can consist of a light source that illuminates the scene, a sensor system (e.g. CCD camera), a frame grabber that can be used to collect images and a computer that stores necessary software packages to process the collected images. Some I/O interfaces, the computer screen and output devices (e.g. printers) can be included as well. Figure 9 denotes an image processing system.
+
+Figure 9 Components of an image processing system.
+
+1.5	
+
+Visual perception
+
+Digital image processing is performed in order that an image does fit the human visual judgments. Before our study goes further, the human visual system has to be studied so that the target of image processing can be properly defined. In this subsection, we briefly describe the vision principle of the human eye.
+
+Figure 10 Illustration of eye anatomy (image courtesy of [3]).
+
+14
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Introduction
+
+The reflected light from the object enters the external layer that coats the front of the eye, which is called the cornea (see Figure 10). Afterwards, the light passes through some watery fluid namely the aqueous humor. Then the light reaches the iris that may contract or dilate so as to limit or increase the amount of light that strikes the eye. Passing through the iris, the light now arrives at the pupil, a black dot in the centre of the eye, and then reaches the lens. The lens can change its shape in order to obtain focus on reflected light from the nearer or further objects.
+
+1.6	
+
+Image acquisition
+
+Images are generated from the combination of an illuminant source and the reflection of energy from the source. In general, images can be two dimensional (2-D) or three-dimensional (3-D), depending on the used sensors and methodologies. For example, a set of 2-D cardiovascular images can be piled up to form a 3-D image using an automatic correspondence algorithm. These 3-D reconstruction techniques will be detailed in later chapters. Image acquisition can be categorized to single sensor, sensor strips, and sensor arrays based. For example, a photodiode is made of a single sensor (see Figure 11). Computerized tomography uses sensor strips to measure the absorption of x-ray that penetrates the human body. Figure 12 shows one of these systems. An ordinary camera (e.g. Olympus E-620) is based on rugged arrays that normally consist of millions elements.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+15
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Image Processing Part I
+
+Introduction
+
+Figure 11 Illustration of a photodiode.
+
+Figure 12 Illustration of a computerized tomography system (image courtesy of [4]).
+
+1.7	
+1.7.1	
+
+Image sampling and quantization
+Basic concepts in sampling and quantization
+
+An image consists of an indefinite number of points with continuous coordinates and amplitudes. To convert this image to digital form, both the image coordinates and amplitudes must be discretized, where the image points will be changed to pixels while the amplitudes use discrete values. Sampling refers to digitization of the coordinates, and quantization is the digitization of the amplitude values. Figure 13 shows an example of image sampling and quantization, where (b) reveals that the image resolution is reduced, whilst (c) indicates that gray levels decrease, compared to (a).
+
+16
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Introduction
+
+(a)
+
+(b)
+
+(c )
+
+Figure 13 Illustration of image sampling and quantization: (a) original, (b) sampling and (c) quantization.
+
+1.7.2	
+
+Representing digital images
+
+An image is normally represented in matrix form, originating from the upper left corner. Also, an image consists of a certain number of gray levels. For example, if it has 2m gray levels, this image is referred to “m-bit image”. One of the regular manipulations on the image is zooming or shrinking. Either way may bring down the resolutions of the original image due to interpolation or extrapolation of image points. One of the commonly noticed image problem is aliasing. This phenomenon appears when the interval of image sampling is higher than a half of the distance between two neighboring images points. As a result, the Moiré pattern effect will appear and seriously deteriorate the image quality.
+
+1.8	
+1.8.1	
+
+Basic relationship between pixels
+Neighbors of a pixel
+
+Assuming that a pixel has the coordinates (x, y), we then have its horizontal and vertical neighbors which have coordinates as follows (x+1, y), (x-1, y), (x, y+1) and (x, y-1)	 We can have four diagonal neighbors of the point (x, y) below (x+1, y+1), (x+1, y-1), (x-1, y+1) and (x-1, y-1) 	 1.8.2	 Adjacency, connectivity, regions, and boundaries (1.8.2) (1.8.1)
+
+If an image point falls in the neighborhood of one particular pixel, we then call this image point as the adjacency of that pixel. Normally, there are two types of adjacency, namely 4- and 8-adjacency: 1)	 4-adjacency: Two pixels are 4-adjacent if one of them is in the set with four pixels. 2)	 8-adjacency: Two pixels are 8-adjacent if one of them is in the set with eight pixels. One example is shown below, where red “1s” form the 8-adjacency set.
+
+17
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Introduction
+
+Connectivity is relevant but has certain difference from adjacency. Two pixels from a subset G are connected if and only if a path linking them also connects all the pixels within G. In addition, G is a region of the image as it is a connected subset. A boundary is a group of pixels that have one or more neighbors that do not belong to the group. 1.8.3	 Distance measures
+
+Assuming there are two image points with coordinates (x, y) and (u, v). A distance measure is normally conducted for evaluating how close these two pixels are and how they are related. A number of distance measurements have been commonly used for this purpose, e.g. Euclidean distance. Examples of them will be introduced as follows.
+
+18
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Image Processing Part I
+
+Introduction
+
+The Euclidean distance between two 2-D points I(x1,y1) and J(x2,y2) is defined as:
+
+( x1 − x2 ) 2 + ( y1 − y 2 ) 2 	
+
+(1.8.3)
+
+The City-block distance between two 2-D points (x1,y1) and (x2, y2 ) can be calculated as follows:
+
+| x1 − x2 | + | y1 − y 2 | 	
+For the above two 2-D image points, the Chessboard distance is max( | x1 − x 2 |, | y1 − y 2 | )	
+
+(1.8.4)
+
+(1.8.5)
+
+1.9	Summary
+In this chapter, basic concepts and principles of digital image processing have been introduced. In general, this chapter started from the introduction of digital image processing, followed by a summary of different applications of digital image processing. Afterwards, the fundamental components of an image processing systems were presented. In addition, some commonly used techniques have been summarized. In spite of their incomplete stories and terse descriptions, these presented contents are representative and descriptive. The knowledge underlying with this introduction will be used in later chapters for better understanding of advanced technologies developed in this field.
+
+1.10	References
+[1]	 http://en.wikipedia.org/wiki/RGB, accessed on 29 September, 2009. Jersey, 2002. [3]	 [4]	 [5]	 http://www.webmd.com/eye-health/amazing-human-eye, accessed on 29 September, 2009. http://www.imaginis.com/ct-scan/how_ct.asp, accessed on 29 September, 2009. http://en.wikipedia.org/wiki/K-means_algorithm, accessed on 29 September, 2009. [2]	 R.C. Gonzalez and R.E. Woods, Digital Image Processing, 2nd version, Prentice-Hall, Inc. New
+
+1.11	Problems
+(1)	 (2)	 (3)	 (4)	 (5)	 (6)	 (7)	 What is digital image processing? Why do we need digital image processing? Please summarize the applications of digital image processing in the society. How is the human visual perception formed? What is the difference between image sampling and quantization? What is the difference between adjacency and connectivity? How to compute the Euclidean distance between two pixels?
+
+19
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Intensity transformations and spatial filtering
+
+2	 Intensity transformations and spatial filtering
+2.1	Preliminaries
+In this chapter, we will discuss about some basic image processing techniques that include the intensity transforms and spatial filtering. All the techniques introduced here will be performed in the spatial domain.
+
+2.2	
+
+Basic Intensity Transformation Functions
+
+Photographic Negative: This is perhaps the simplest intensity transform. Supposing that we have a grey level image in the range [0,1], it is expected to transform the black points (0s) into the white ones (1s), and the white pixels (1s)
+
+f ( x, y ) = 1 − f ( x, y ) is normalized into the black ones (0s). This simple transform can be denoted by (assume that
+into the range [0,1])
+
+~
+
+~ f ( x, y ) = 1 − f ( x, y ) 	
+For a 256 gray level image, the transform can be accomplished by
+
+(2.2.1)
+
+~ f ( x, y ) = 1 − f ( x, y ) / 256 	
+An example of the Photographic Negative transform is shown in Figure 14.
+
+(2.2.2)
+
+(a)
+Figure 14 A panda Image (a), and its photographic negative transformed image (b).
+
+(b)
+
+20
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Intensity transformations and spatial filtering
+
+Gamma Transform Gamma transform is also called power-law transform. It is mathematically denoted as follows:
+
+~ f ( x, y ) = c ∗ f ( x, y ) γ 	
+
+(2.2.3)
+
+~ are where f (x , y ) = c ∗and f ( xγ ,y ) γ two constants. The gamma transform can make pixels look brighter or darker
+depending on the value of γ. When ݂ሺ‫ݔ‬ǡ ‫ݕ‬ሻ is within the range [0,1] and γ is larger than one, it makes the image darker. When γ is smaller than one, it makes the image look brighter. Figure 15 shows the output of the Gamma transform against different inputs with the parameters set as 0.5, 1 and 2 (ܿ ൌ ͳ). From this plot, we can see that the curve with γ = 2 is below the curve with γ = 1. This indicates that the output is smaller than the input, which explains why an image in the Gamma transform, when γ = 2, will become darker.
+
+21
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Image Processing Part I
+
+Intensity transformations and spatial filtering
+
+Figure 15 The plot of the Gamma transform against different parameters. Horizontal axis is the input, and vertical is the output.
+
+Figure 16 shows that the Gamma transformed panda image under different parameter values (c = 1).
+
+(a)
+
+(b)
+
+Figure 16 Gamma transformed images different parameters. (a) Gamma = 2 ; (b) Gamma = 0.5 .
+
+2.3	
+
+Histogram Processing
+
+Histogram is one simple but very important statistical feature of an image. It has been commonly used in image processing. Intensity histogram is a distribution of the grey level values of all the pixels within the image. Each bin in the histogram represents the number of pixels whose intensity values fall in that particular bin. A 256 grey level histogram is often used, where each grey level corresponds to one bin. Using bi to represent the ith number of bins, the histogram can be represented as follows:
+݄ሺ݅ሻ ൌ ͓ሼሺ‫ݔ‬ǡ ‫ݕ‬ሻǡ ݂ሺ‫ݔ‬ǡ ‫ݕ‬ሻ ‫ܾ݅ א‬ሽ 	
+
+(2.3.1)
+
+22
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Intensity transformations and spatial filtering
+
+where # represent the Cardinality of the set. Though it is possible to show the histogram of a color image, in this chapter we mainly focus on the gray level histogram. The color histogram will be shown in Chapter 1 (Digital Image Processing – Part Two). Figure 17 shows an image and its grey level histogram of 64 bins.
+
+(a)
+Figure 17 A mountain image (a) and its 64 bins grey level histogram (b).
+
+(b)
+
+2.3.1	
+
+Histogram Equalization
+
+It is a fact that the histogram of an intensity image lies within a limited data range. Those images usually have black or white foreground and background. Figure 18 shows an image example whose intensity distribution is either black or white. From Figure 18 (b), we can see that a very large portion of pixels whose intensity rests within the range [0, 50] or [180, 255]. A very small portion of pixel resides in the range of [50, 180]. This makes some details of the image hardly visible, e.g. the trees on the mountains in the image shown in Figure 18 (a). This problem can be solved by a histogram stretching technique called histogram equalization. The basic idea of histogram equalization is to find the intensity transform such that the histogram of the transformed image is uniform. Of the existing probabilistic theories, there exists such an intensity transform. Suppose that we have an image ݂ሺ‫ݔ‬ǡ ‫ݕ‬ሻ, and its histogram h(i), we have the accumulative function of h(i) as follows:
+ܿሺ݅ሻ ൌ ‫׬‬ ݄ሺ‫ݐ‬ሻ ݀‫	ݐ‬ ଴
+௜
+
+(2.3.1.1)
+
+It can be proved that such a transform makes the variable y = c(i) follow a uniform distribution. Thus, for a 256 grey level image, the histogram equalization can be performed by the following equation:
+‫ݐ‬ൌ
+ଶହ଺ ௡
+
+‫ܿ כ‬ሺ݂ሺ‫ݔ‬ǡ ‫ݕ‬ሻሻ	
+
+(2.3.1.2)
+
+where is the total number of pixels in the image.
+23
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Intensity transformations and spatial filtering
+
+(a)
+
+(b)
+
+Figure 18 (a) The mountain image after histogram equalization, and (b) histogram.
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+24
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Image Processing Part I
+
+Intensity transformations and spatial filtering
+
+2.3.2	
+
+Histogram Matching
+
+Histogram Equalization is a special case of histogram matching. The general purpose of histogram matching is to find a transform that can adjust an image by converting its histogram to a specified histogram a priori. As we have learnt from the above discussion, the desired histogram in histogram equalization is a uniform distribution. In this case, there exists a transformation as shown in Eq. (2.3.1.2). A straightforward implementation can be achieved. However, in more general case we may want the desired histogram to be a specific shape and to adjust the image based on this histogram. This operation is called histogram matching. It can be achieved by matching the accumulative distributions of the original histogram and desired histogram. Step by step, it can be implemented as follows: 1)	 Compute the histogram of the original image f (x, y) and its accumulated distribution c(i). 2)	 Compute the accumulated distribution of the desired histogram d(i). 3)	 Compute the desired intensity g (x, y) at location (x, y) by matching the d(i) and c(i) using minimum distance criteria (nearest n) as follows:
+݃ሺ‫ݔ‬ǡ ‫ݕ‬ሻ ൌ ݅ ‫ כ‬ൌ  ௜ ሺȁ݀ሺ݅ሻ െ ܿሺ݂ሺ‫ݔ‬ǡ ‫ݕ‬ሻሻȁ 	
+
+(2.3.2.1)
+
+Figure 19 shows some internal results of the above steps on the image shown in Figure 17 (a).
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Figure 19 (a) The accumulated histogram of the image in Figure 2.3.1 (a); (b) the desired histogram; (c) the desired accumulated histogram; (d) the adjusted image based on image matching according to Eq. (2.3.2.1).
+
+25
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Intensity transformations and spatial filtering
+
+2.4	
+
+Fundamentals of Spatial Filtering
+
+Filtering is a fundamental operation in image processing. It can be used for image enhancement, noise reduction, edge detection, and sharpening. The concept of filtering has been applied in the frequency domain, where it rejects some frequency components while accepting others. In the spatial domain, filtering is a pixel neighborhood operation. Commonly used spatial filtering techniques include median filtering, average filtering, Gaussian filtering, etc. The filtering function sometimes is called filter mask, or filter kernel. They can be broadly classified into two different categories: linear filtering and orderstatistic filters. In the case of linear filtering, the operation can be accomplished by convolution, i.e., the value of any given pixel in the output image is represented by the weighted sum of the pixel values of its neighborhood (a linear combination) in the input image. For order-statistic filter, the value of a given pixel in the output image is represented by some statistics within its support neighborhood in the original image, such as the median filter. Those filters are normally non-linear and cannot be easily implemented in the frequency domain. However, the common elements of a filter are (1) A neighbourhood (2) an operation on the neighbourhood including the pixel itself. Typically the neighbourhood is a rectangular of different size, for example 3×3, 5×5 … and smaller than the image itself.
+
+2.5	
+2.5.1	
+
+Smoothing Spatial Filters
+Smoothing Linear Filters
+
+As stated above, linear filters have observed their output values as the linear combination of the inputs. The commonly used smoothing filters are averaging and Gaussian filters. The smoothing filters usually have the effect of noise reduction (also called low pass filtering, which will be discussed in the next chapter). It can be performed using the convolution operation.
+‫ݏ‬ሺ‫ݔ‬ǡ ‫ݕ‬ሻ ൌ  σ௠ୀିெȀଶ σ௡ୀିேȀଶ ݄ሺ݉ǡ ݊ሻ݂ሺ‫ ݔ‬െ ݉ǡ ‫ ݕ‬െ ݊ሻ 	
+ெȀଶ ேȀଶ
+
+(2.5.1.1)
+
+݄ሺ݉ǡ ݊ሻ is a filtering mask of size MxN. Each element in this filter mask usually represents the weights
+
+used in the linear combination. The types of different linear filters correspond to different filter masks. The sum of all the elements in ݄ሺ݉ǡ ݊ሻ will affect the overall intensities of the output image. Therefore, it is sensible to normalize ݄ሺ݉ǡ ݊ሻ such that the sum is equal to one. In the case of negative values in
+݄ሺ݉ǡ ݊ሻ, the sum is typically set to zero. For smoothing (low pass filters), the values in the mask must
+
+be positive; otherwise, this mask will contain some edges (sharpening filters). The linear filter can also be performed using correlation as follows:
+‫ݏ‬ሺ‫ݔ‬ǡ ‫ݕ‬ሻ ൌ  σ௠ୀିெȀଶ σ௡ୀିேȀଶ ݄ሺ݉ǡ ݊ሻ݂ሺ‫ ݔ‬൅ ݉ǡ ‫ ݕ‬൅ ݊ሻ 	
+ெȀଶ ேȀଶ
+
+(2.5.1.2)
+
+If ݄ሺ݉ǡ ݊ሻ is symmetric, i.e. ݄ሺ݉ǡ ݊ሻ ൌ ݄ሺെ݉ǡ െ݊ሻ, the correlation is equivalent to convolution.
+
+26
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Intensity transformations and spatial filtering
+
+Average Filtering The average filtering is also called mean filtering, where the output pixel value is the mean of its neighborhood. Thus, the filtering mask is as follows (3×3 as an example)
+ͳ ݄ ൌ ͳȀͻ อͳ ͳ ͳ ͳ ͳ ͳ ͳอ 	 ͳ
+
+(2.5.1.2)
+
+In practice, the size of the mask controls the degree of smoothing and loss of the details. Gaussian Filtering Gaussian filtering is another important filter. The weights in the filter mask are of a Gaussian function (here we assume it is isotropic):
+݄ሺ݉ǡ ݊ሻ ൌ ሺെͲǤͷ ‫ כ‬ሺ݉ଶ ൅ ݊ଶ ሻ Ȁߪሻ 	
+௓ ଵ
+
+(2.5.1.3)
+
+where σ is the variance and controls the degree of smoothing. The larger value σ is, the larger degree smoothing can be achieved. For example, the 3×3 Gaussian filter with σ set as 1 is represented by the following equation.
+ͲǤ͸Ͳ ͲǤͳͲ ͲǤ͸Ͳ ݄ሺ݉ǡ ݊ሻ ൌ อͲǤͳͲ ͲǤͳ͸ ͲǤͳͲอ	 ͲǤ͸Ͳ ͲǤͳͲ ͲǤ͸Ͳ
+
+(2.5.1.4)
+
+Figure 20 shows the Gaussian mask of size 5×5,
+
+Figure 20 The 3D plot of the Gaussian filter with the variance set as 1.
+
+27
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Intensity transformations and spatial filtering
+
+Figure 21 shows the Lenna image as well as the filtered images using mean filtering with different mask sizes and Gaussian filtering with different. We can see that with the increment of the mask size of the mean filter, the level of smoothing becomes stronger. This also holds for the Gaussian filtering with different.
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+(g)
+
+Figure 21 (a) The Lenna image; (b) (c) (d) filtered images using mean filtering with mask size 3, 7, 11; (e) (f ) (g) filtered images using Gaussian filtering with different variances at 1, 5, 9.
+
+28
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Intensity transformations and spatial filtering
+
+2.5.2	
+
+Order-Statistic Filters
+
+The order-statistical filters are usually non linear filters, which are hardly represented by convolution. Commonly used filters include median filter. There are some other filters as well such as max/min filter. The median filter simply replaces the value of the pixel with the median value within its neighborhood. Similarly, the max/min filter replaces the value of the pixel with the maximum/minimum value within its neighborhood. Figure 22 shows the filtered image using a median filter of different mask sizes.
+
+(a)
+
+(b)
+
+(c)
+
+Figure 22 Filtered Lenna image using median filtering of different masks 3, 7, and 11.
+
+.
+
+29
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Image Processing Part I
+
+Intensity transformations and spatial filtering
+
+2.6	
+
+Sharpening filters
+
+The objective of sharpening is to draw the attention to the fine details of an image. This is also related to the situation where an image that has been blurred and now needs to be de-blurred. In contrast to the process of image smoothing that normally uses pixel averaging techniques, sharpening can be conducted using spatial differentiation. The image differentiation actually enhances edges and other discontinuities and depresses the areas of slowly changing gray-level values. The derivative of a function is determined via differencing. A basic first-order derivative of a onedimensional function f(x) is
+
+∂f = f ( x + 1) − f ( x) 	 ∂x
+Similarly, a second-order derivative can be defined as follows:
+
+(2.6.1)
+
+∂2 f = f ( x + 1) + f ( x − 1) − 2 f ( x) 	 ∂x 2
+
+(2.6.2)
+
+In this section, we mainly talk about the use of two-dimensional and second-order derivatives for image sharpening. It is inevitable to mention the concept of isotropic filters, whose response is independent of the discontinuity direction in the image. One of the simple isotropic filters is the Laplacian, which is defined as follows with a function f(x, y):
+
+∇2 f =
+Where
+
+∂2 f ∂2 f 	 + ∂x 2 ∂y 2
+
+(2.6.3)
+
+∂2 f = f ( x + 1, y ) + f ( x − 1, y ) − 2 f ( x, y ) 	 ∂x 2 ∂2 f = f ( x, y + 1) + f ( x, y − 1) − 2 f ( x, y ) 	 ∂y 2
+Then the two-dimensional Laplacian is obtained summing the two components:
+
+(2.6.4)
+
+(2.6.5)
+
+2 I
+
+[ I ( [  1, \ )  I ( [  1, \ )  I ( [, \  1)  I ( [, \  1)]  4 I ( [, \ ) 	
+
+(2.6.6)
+
+30
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Intensity transformations and spatial filtering
+
+To implement Eq. (2.6.6) we illustrate four filter masks used for the Laplacian in Figure 23.
+0 1 0 1 1 1 0 -1 0 -1 -1 -1 1 -4 1 1 -8 1 -1 4 -1 -1 8 -1 0 1 0 1 1 1 0 -1 0 -1 -1 -1
+
+Figure 23 Filter masks used in the Laplacian enhancement.
+
+Such a Laplacian enhancement can be described as
+2   f ( x, y ) − ∇ f ( x, y ) F ( x, y ) =  	 2   f ( x, y ) + ∇ f ( x, y )
+
+(2.6.7)
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+31
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Image Processing Part I
+
+Intensity transformations and spatial filtering
+
+To simplify the Laplacian we have
+
+) ( [, \ )
+
+I ( [, \ )  [ I ( [  1, \ )  I ( [  1, \ )  I ( [, \  1)  I ( [, \  1)] 	
+
+(2.6.8)
+
+One of the examples using the Laplacian is shown in Figure 24.
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Figure 24 Image sharpening and histograms: (a) original image and its histogram (c), (b) shapened image and its histogram (d).
+
+For a function f(x, y), the gradient of f is defined as
+
+ ∂f   ∂x  ∇f =   	  ∂f    ∂y  
+
+(2.6.9)
+
+32
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Intensity transformations and spatial filtering
+
+In the implementation, this equation can be changed to
+
+∇f ≈| ( z 7 + 2 z 8 + z 9 ) − ( z1 + 2 z 2 + z 3 ) | + | ( z 3 + 2 z 6 + z 9 ) − ( z1 + 2 z 4 + z 7 ) | 	
+
+(2.6.10)
+
+Where (z1,…,z9) are the elements of the 3×3 mask. This mask can be one of the following patterns:
+z1 z4 z7 -1 0 1 -1 -2 -1 z2 z5 z8 -2 0 2 0 0 0 z3 z6 z9 -1 0 1 1 2 1
+
+Figure 25 Image mask that is used to generate gradients.
+
+2.7	
+
+Combining image enhancement methods
+
+In real applications, it is hard to know what kind of noise has been added to an image. Therefore, it is difficult to find a unique filter that can appropriately enhance this noisy image. However, it is possible if several de-blurring methods can be combined in a framework in order to pursue a maximum denoising outcome. In the section, we explain one of the combinatorial techniques using an X-ray example [6]. Figure 26 (a) illustrates a male chest’s X-ray image. The purpose of the process is to highlight the middle cross section of the image using the combination of sharpening and edge detection. Figure 26 (b) shows the result of applying the median filter, (c) is the outcome of using Sobel edge detection, and finally (d) demonstrates the combination of the Laplacian and Sobel process. Figure 26 (d) shows the edge details in the graph, which highlights the structure of the central cross section of the image.
+
+33
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Intensity transformations and spatial filtering
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Figure 26 Illustration of using the combination of different segmentation algorithm: (a) original, (b) median filtering, (c) Sobel edge detection and (d) combination of Laplacian and Sobel process.
+
+2.8	Summary
+In this chapter, some basic image intensity transformation functions have been provided. This consists of negative and Gamma transforms. Afterwards, histogram based processing techniques were introduced. Especially, histogram equalisation and matching techniques were summarised due to their importance in image processing applications.
+
+34
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Intensity transformations and spatial filtering
+
+To further enhance the image quality we then introduced a number of spatial filters. Particularly, we discussed about averaging filtering, Gaussian filtering, and statistic filters. Due to the needs of enhancing image contrasts, we then focused on the technical details of sharpening filters, which have been commonly used in the image processing applications. As an extension, we discussed about the applications of the combination of image enhancement methods. One of the examples is to integrate a Laplacian filter with the Sobel edge detection for better image details.
+
+2.9	References
+[6]	 http://www.radiologyinfo.org/en/photocat/gallery3.cfm?pid=1&Image=chest-xray. jpg&pg=chestrad, accessed on 15 October, 2009.
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+35
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Image Processing Part I
+
+Intensity transformations and spatial filtering
+
+2.10	Problems
+(8)	 Please perform the image negative and Gamma transform for the cameraman image as follows:
+
+(9)	 Please use the Matlab tools to generate codes to add Gaussian noise (mean = 0, variance = 2) to the above cameraman image, followed by averaging and Gaussian filtering respectively. (10)	 Can you find a proper sharpening filter for the following motion blurred image?
+
+(11)	
+
+Why do we need to combine different filtering approaches for image enhancement?
+
+36
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Filtering in the Frequency Domain
+
+3	 Filtering in the Frequency Domain
+3.1	Background
+The Fourier transform is a fundamental mathematical tool in image processing, especially in image filtering. The name of ‘Fourier transform’ or ‘Fourier Series’ can be traced back to the date of year 1822 when a French mathematician published his famous work – the Analytic Theory of Heat. In this work, he had shown that any periodic function can be expressed as the sum of sines and cosines of different frequencies weighted by different values. This ‘sum’ interpretation is usually termed as ‘Fourier series’ (in modern mathematical theory this is in fact a special case of orthogonal decomposition of a function within one of the functional space e.g. Hilbert space, where each axis is represented by a function, e.g., the sine or cosines functions.). For non-periodic function, this type of operations is called ‘Fourier Transform’. For simplicity, in the following sections we will use the general term ‘Fourier transform’ to represent such a transform in both of the periodic and non-periodic functions. The merit of the Fourier transform is that a band limited function or signal could be reconstructed without loss of any information. As we will see, this in fact allows us to work completely in the frequency domain and then return to the original domain. Working in the frequency domain is more intuitive and can enable the design of image filters easier. Although the initial idea of the Fourier transform was applied to the heat diffusion, this idea has been quickly spread into other industrial fields and academic disciplines. With the advent of computer and discovery of the fast Fourier transform, the real-time practical processing of the Fourier transform becomes possible. In the following sections, we will show step by step the basic concept of Fourier transform from 1-D continuous function to the 2-D case.
+
+3.2	Preliminaries
+3.2.1	 Impulse function and its properties Impulse function is one of the key concepts of sampling, either in spatial domain or in the frequency domain. A typical impulse function is defined as follows:
+λ ߜሺ‫ݔ‬ሻ ൌ ቄ Ͳ ݂݅‫ ݔ‬ൌ Ͳ ‫݁ݏ݅ݓݎ݄݁ݐ݋‬
+
+(3.2.1)
+
+37
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Filtering in the Frequency Domain
+
+And its integral is subject to the following constrains:
+ߜሺ‫ݔ‬ሻ݀‫ ݔ‬ൌ ͳ ‫׬‬ ିஶ
+ஶ
+
+(3.2.2)
+
+A very important feature of the impulse function is that for any continuous function f (x), the integral of the product of the function f (x) with the impulse function is simply the value of the f (x) at the location where the impulse happens. For example, if the location of the impulse is at T, the following mathematical expression can help us to get a sample from the function f (x) at T.
+‫ି׬‬ஶ ݂ሺ‫ݔ‬ሻߜሺ‫ ݔ‬െ ܶሻ݀‫ ݔ‬ൌ ݂ሺܶሻ
+ஶ
+
+(3.2.3)
+
+The above equation implies that the operation of getting a value from the function f (x) at T can be performed by the integral of the product of this function with the impulse function at location T. This is the fundamental of the sampling theory.
+
+3.3	
+
+Sampling and the Fourier Transform of Sampled Functions
+
+3.3.1	Sampling In the real world, a scene or an object could be mathematically represented by a continuous function. However, in today’s digital world, to show or store an image of the scene in a computer the scene has to be converted into a discrete function. This digitalization process in fact can be called ‘sampling’. In fact, sampling is the process/operation of converting a continuous function into a discrete function. One role of this operation is that it makes the image representation tractable in a computer memory or storage and displayable on screen as well as visible to humans. In this process, a key question is what kind of sampling frequencies should be adopted in the sampling process (or which point will be selected to describe the discrete version of the function)? A sample refers to a value or set of values at a point in time and/or space. Mathematically, the sampling principle can be described as follows (beginning from simple periodic functions): Consider a continuous 1-D periodic function, ‫ݕ‬ሺ‫ݐ‬ሻ ൌ ‫ݕ‬ሺ‫ ݐ‬൅ ݊ܶሻ with ݊ ൌ Ͳǡͳǡʹǡ͵ǡ ǥ, where t represents the time in seconds. Now we are going to sample this function by measuring the value of continuous function every T seconds. T here is called sampling interval. Thus the sampled function (discrete version) can be represented by
+‫ݕ‬ሾ݊ሿ ൌ ‫ݕ‬ሺ݊ܶሻǡ ݊ ൌ Ͳǡͳǡʹǡ͵ǡ ǥǤ
+
+(3.3.1)
+
+The sampling interval is an indicator of the frequency that we use to sample the function. Here we introduce a sampling frequency or rate that measures the number of samples in unit (usually in one second), f = 1/T. The sampling rate is conventionally measured in hertz or in samples per second. Intuitively, an ideal sampling rate allows us to reconstruct the original function successfully.
+
+38
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Filtering in the Frequency Domain
+
+The output of sampling is a numerical sequence of the continuous function, usually represented by a matrix or vector of numbers. Image can be viewed as a 2D sampling version of the real world. A conventional representation of the image is a matrix of M number of rows and N number of columns. The spatial coordinates denotes the relative location of the pixels within the matrix (element index) while the entry of the matrix represents the value of the grey level intensity or color intensity at that pixel, usually represented by I(i, j). The smallest coordinates are conventionally set as (1,1) in the popular MATLAB program. Note the notation‫ܫ‬ሺ݅ǡ ݆ሻ in a matrix does not correspond to the actual physical coordinates. For example, a function f (x); x = 0,0.5,1 is represented by a matrix [f (0), f (0.5), f (1)]. The entry value at (1,2) is f (0.5) with actual physical coordinates x at 0.5. 3.3.2	 The Fourier Transform of Sampled Functions
+
+The convolution theory tells us that the Fourier transform of the convolution of two functions is the product of the transforms of the two functions. Thus by applying the Fourier transform on the both side of Equation 3.2-3, we can get:
+෨ ൫݂ሺ݊ܶሻ൯ ൌ  ‫ܨ‬ ෨ ൫݂ሺ‫ݐ‬ሻ۪ߜሺ‫ݐ‬ሻ൯ ‫ܨ‬ ൌ
+ଵ ୼୘
+
+σା‫ן‬ ௡ୀି‫ܨ ן‬ሺ‫ ݑ‬െ
+
+௡
+
+୼்
+
+ሻ
+
+(3.3.2)
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+39
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Image Processing Part I
+
+Filtering in the Frequency Domain
+
+This shows that Fourier transform of the sample function is a sampled version of the Fourier transform F(u) of continuous function f (t). Note that the sample pace in the frequency domain is the inverse of the sample pace in the spatial domain. 3.3.3	 The Sampling Theorem
+
+As stated before, the reason why we discuss the sampling and Fourier transforms is to find a suitable sampling rate. Insufficient sampling may lose partial information of a continuous function. So, what is the relationship between the proper sampling interval and the function frequency? In other words, under what circumstances is it possible to reconstruct the original signal successfully (perfect reconstruction)? A partial answer is provided by the Nyquist–Shannon sampling theorem [7], which provides a sufficient (but not always necessary) condition under which perfect reconstruction is possible. The sampling theorem guarantees that band limited signals (i.e., signals which have a maximum frequency) can be reconstructed perfectly from their sampled version, if the sampling rate is more than twice the maximum frequency. Reconstruction in this case can be achieved using the Whittaker-Shannon interpolation formula [8]. The frequency equivalent to one-half of the sampling rate is therefore a bound on the highest frequency that can be unambiguously represented by the sampled signal. This frequency (half the sampling rate) is called the Nyquist frequency of the sampling system. Frequencies above the Nyquist frequency can be observed in the sampled signal, but their frequency is ambiguous. This ambiguity is called aliasing later shown in Figure 27. To handle this problem effectively, most analog signals are filtered with an antialiasing filter (usually a low-pass filter with cutoff near the Nyquist frequency) before their conversion to the sampled discrete representation. We will show this principle using the following examples: Let us consider a simple function ݂ሺ‫ݔ‬ሻ ൌ ሺʹߨ݂ଵ ‫ݔ‬ሻ ൅ ሺʹߨ݂ଶ ‫ݔ‬ሻ with ݂ଵ set as 5 and ݂ଶ set as 10. We expect that the power spectrum of the FFT of the signal will have peaks at 5 and 10. Figure 27 (a) shows the original signal and (b) show the power spectrum. As expected, we can observe two peaks at u = 5 and 10 respectively in (b). According the Nyquist–Shannon sampling theorem, the minimum sampling rate is at least equal to the two times of the highest frequency of the signal. In our example, the trade-off rate is 20 (2×10). We now sample this signal with a rate larger than 20, say 40 to see what happens. Figure 27 (c) shows the sampled signal using this rate, and (d) shows the corresponding power spectrum. We can see that the signal looks quite similar to the original one with the peaks at frequency 5 and 10. This is sometimes called oversampling and leads to a perfect reconstruction of the signal. Another case is to sample the signal at a lower rate than 20, for instance 10. Figure 27 (d) and (f) show the sampled signal using rate 10 and its power spectrum. From this figure, we can see that trend of the signal is not preserved and the power spectrum looks different from the original one in (b). This is called under-sampling or frequency aliasing. In practice, most signals are band infinite. That means they usually have a very infinite frequency. The effect of aliasing almost exists in every case. However, in the case of high quality imaging system such an aliasing is not visually observable by human eyes.
+
+40
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Filtering in the Frequency Domain
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+41
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Filtering in the Frequency Domain
+
+(e)
+
+(f ) Figure 27 Illustration of the sampling theorem: (a) original; (b) the power spectrum; (c) the sampled signal at sampling rate 40 (oversampling); (d) the power spectrum of (c); (e) the sampled signal at sampling rate 10 (under sampling); (f ) the power spectrum of (e).
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+42
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Digital Image Processing Part I
+
+Filtering in the Frequency Domain
+
+3.4	
+3.4.1	
+
+Discrete Fourier Transform
+One Dimensional DFT
+
+Let us start with the 1-D discrete Fourier transform (DFT) for a discrete function ݂ሺ‫ݔ‬ሻ for‫ ݔ‬ൌ Ͳǡͳǡʹ ǥ ‫ ܯ‬െ ͳ. Its 1D Fourier transform can be calculated as follows:
+ି࢐࣓ ࡲሺ࢛ሻ ൌ  σࡹି૚ ,	 ࢞ୀ૙ ࢌሺ࢞ሻ ࢋ
+
+(3.4.1) (3.4.2)
+
+ɘ ൌ ૛࣊ ቀ ቁ 	
+ࡹ
+
+࢛࢞
+
+where ‫ ݑ‬ൌ Ͳǡͳǡʹǡ ǥ ‫ ܯ‬െ ͳ. is usually called frequency variables, similar to the coordinates ‫ ݔ‬in the spatial domain. The exponential on the right side of the equation can be expanded into sinuses and cosines with variables determining their frequencies as follows:
+݁ ି௝ఠ ൌ ሺɘሻ ൅ ݆‫݊݅ݏ‬ሺ߱ሻ, 	
+
+(3.4.3)
+
+The inverse discrete Fourier transform is:
+ெିଵ ݂ሺ‫ݔ‬ሻ ൌ  σ௨ୀ଴ ‫ܨ‬ሺ‫ݑ‬ሻ݁ ௝ఠ , 	 ெ ଵ
+
+(3.4.4)
+
+3.4.2	
+
+Relationship between the Sampling and Frequency Intervals
+
+Consider a discrete function with the fixed sample interval ΔT (i.e., the time duration between samples) and it contains N samples. Thus the total duration of the function is ‫ ܦ‬ൌ ܰ ‫ כ‬ȟܶ. Using Δu to represent the spacing in the Fourier frequency domain, the maximum frequency (i.e., the entire frequency range, also the maximum samples that will get during a time unit, usually per second) is just the inverse of the sampling interval.
+ ൌ ͳȀȟܶ	
+
+(3.4.5)
+
+Note that we have data samples and the frequency domain also has the same number of samples. can be stated using the following equation:
+ȟܶ ൌ ܰ ‫ כ‬ȟ‫	ݑ‬
+
+The spacing per sample can be calculated as ȟ‫ ݑ‬ൌ ே ൌ ୼்‫כ‬ே . Thus, the relationship between ΔT and Δu
+
+௎
+
+ଵ
+
+(3.4.6)
+
+43
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Filtering in the Frequency Domain
+
+3.5	
+
+Extension to Functions of Two Variables
+
+Similar to the 1D Fourier transform, the 2-D discrete Fourier transform can be expressed as follows:
+ெିଵ ‫ܨ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻ ൌ  σேିଵ ௬ୀ଴ σ௫ୀ଴ ‫ܫ‬ሺ‫ݔ‬ǡ ‫ݕ‬ሻ݁ ି௝ଶగቀ
+ೠೣ ೡ೤ ା ቁ ಾ ಿ
+
+,	
+
+(3.5.1)
+
+Where I(x, y) is the original image of size M × N. u and v are in the same range. The inverse Fourier Transform is defined as follows:
+‫ܫ‬ሺ‫ݔ‬ǡ ‫ݕ‬ሻ ൌ 
+ଵ ெே ௝ଶగቀ ା ቁ ெିଵ ಾ ಿ 	 σேିଵ ௩ୀ଴ σ௨ୀ଴ ‫ܨ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻ݁
+ೠೣ ೡ೤
+
+(3.5.2)
+
+where F(u, v) is the Fourier transform of the original image. Usually the Fourier transform is complex in general. It can be written in the polar form:
+‫ܨ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻ ൌ ܽ ൅ ܾ݆ ൌ  ȁ‫ܨ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻȁ݁ ௝థሺ௨ǡ௩ሻ 	
+
+(3.5.3)
+
+And we have the magnitude and the phase angle as follows:
+ȁ‫ܨ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻȁ ൌ ሺܽଶ ൅ ܾ ଶ ሻ଴Ǥହ 	 ߶ሺ‫ݑ‬ǡ ‫ݒ‬ሻ ൌ  ିଵ ሺ ሻ, 	 ௕
+௔
+
+(3.5.4) (3.5.5)
+
+The power spectrum is the square of the magnitude |F(u, v)|. Figure 28 shows an image, its power spectrum and phase angle respectively.
+
+(a)
+
+(b)
+
+(c)
+
+Figure 28 An image of sunflower (a), its power spectrum (b), and its phase component (c).
+
+44
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Filtering in the Frequency Domain
+
+3.6	
+
+Some Properties of the 2-D Discrete Fourier Transform
+
+The 2D Fourier transform has the following properties that are often used. 1)	 Translation invariant (magnitude). If a function I(x, y) is translated by an offset (ȟ‫ݔ‬ǡ ȟ‫ݕ‬ሻ,
+ି௝ଶగቀ the spatial domain only affects the phase component by ݁
+
+its Fourier transform becomes ‫ܨ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻ݁ ି௝ଶగቀ
+ȁ‫ܨ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻȁ is not affected.
+
+ೠ౴ೣ ೡ౴೤ ା ቁ ಾ ಿ
+
+. We can see that the translation in
+ೠ౴ೣ ೡ౴೤ ା ቁ ಾ ಿ
+
+. The magnitude
+
+2)	 Periodicity. The 2D Fourier transform and its inverse are infinitely periodic ‫ ݑ‬in the and v directions. 3)	 symmetry: a)	 The Fourier transform of a real function is conjugate symmetric: ‫ כ ܨ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻ ൌ ‫ܨ‬ሺെ‫ݑ‬ǡ െ‫ݒ‬ሻ, and the magnetite is always symmetric, i.e, ȁ‫ܨ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻȁ ൌ ȁ‫ܨ‬ሺെ‫ݑ‬ǡ െ‫ݒ‬ሻȁ. b)	 The Fourier transform of a real and even function is symmetric: ‫ܨ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻ ൌ ‫ܨ‬ሺെ‫ݑ‬ǡ െ‫ݒ‬ሻ. 4)	 Linearity: The Fourier transform of the sum of two signals equals to the sum of the Fourier transform of those two signals indepedently. ݃ሺ‫ݔ‬ǡ ‫ݕ‬ሻ ൅ ݂ሺ‫ݔ‬ǡ ‫ݕ‬ሻ  ൏ൌ൐ ‫ܨ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻ ൅ ‫ܩ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻ 5)	 Scaling: If the signal is spatially scaled wider or smaller, the corresponding Fourier transform will be scaled smaller or wider. The magnitude is also smaller or wider.
+݂ሺߙ‫ݔ‬ǡ ߚ‫ݕ‬ሻ ൏ൌ൐
+ଵ ௔ఉ
+
+‫ܨ‬ሺ ǡ ሻ.
+௔ ఉ
+
+௨ ௩
+
+AXA Global Graduate Program
+Find out more and apply
+
+45
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Image Processing Part I
+
+Filtering in the Frequency Domain
+
+The Fourier transform also has other properties. For a complete list of properties, interested readers may refer to some handbooks of signal/image processing and sites like Wikipedia and Mathworld.
+
+3.7	
+
+The Basics of Filtering in the Frequency Domain
+
+As we have stated in Chapter 2, in the spatial domain the filtering operation is sometimes performed by the convolution operation with a filtering mask (Note this is the case for linear filter. For nonlinear filter, such as the median filter, the operation can NOT be performed in terms of convolution due the linearity of convolution). Fortunately, there exist some relationship between the convolution and Fourier transform as follows:
+Աሺ݃ሺ‫ݔ‬ǡ ‫ݕ‬ሻ۪݂ሺ‫ݔ‬ǡ ‫ݕ‬ሻሻ ൌ ‫ܩ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻ‫ܨ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻ, 	
+
+(3.7.1)
+
+where ⊗ denotes the convolution operator, ℑ represents the Fourier transform operation. Here the Fourier transform of the result of convolution between two functions is the product of the Fourier transform of those two functions respectively. The Fourier transform provides a direct theoretical explanation of the filtering technique used in the spatial domain. Using this technique, we have an intuitive perception of which frequency will be used to filter the signal. A straightforward step in the filtering design is to select a filter which removes some signals at certain frequency bands that we do not want to keep. The design of the filter will be down to how to specify F(u, v) – the Fourier transform of the spatial filter mask f (x, y). F(u, v) can be referred to as the filter transfer function. A good example is the commonly used filtering mask – Gaussian filtering. Figure 29 shows an Gaussian filter function in the space domain and its power spectrum in frequency domain. Note the difference between the variance.
+
+(a)
+
+(b)
+
+Figure 29 A Gaussian filter in the frequency domain (a) and its power spectrum in the frequency domain (b).
+
+46
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Filtering in the Frequency Domain
+
+3.8	
+
+Image Smoothing Using Frequency Domain Filters
+
+In this section we will introduce three main low pass filters including ideal lowpass Filters, Butterworth lowpass filters as well as Gaussian lowpass filters. In the following section, we will use the panda image to show the principles of the different filters:
+
+(a)
+Figure 30 An image of a panda (a), and its power spectrum of the gray level image (b).
+
+(b)
+
+3.8.1	
+
+Ideal Lowpass Filters
+
+An ideal low pass filter is to switch off some high frequency signals and to allow the low frequency signal to get through based on a threshold. Mathematically, it is defined as follows:
+‫ܯ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻ ൌ ൜ Ͳǡ ‫ݑ‬ଶ ൅ ‫ ݒ‬ଶ ൒ ܶͲ ͳǡ ‫ݑ‬ଶ ൅ ‫ ݒ‬ଶ ൏ ܶͲ 	
+
+(3.8.1)
+
+Here, T0 is a threshold, usually a nonnegative number. It represents the square of the radius distance from the point ሺ‫ݑ‬ǡ ‫ݒ‬ሻ to the center of the filter, usually called cut-off frequency. Intuitively, the set of the signals outside the circle by multiplying 1. By doing this, we get the following filtered results in the frequency domain:
+‫ܫ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻǤ‫ܯ כ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻ ൌ ൜ Ͳǡ ‫ݑ‬ଶ ൅ ‫ ݒ‬ଶ ൒ ܶ଴ ‫ܫ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻǡ ‫ݑ‬ଶ ൅ ‫ ݒ‬ଶ ൏ ܶ଴ 	
+
+‫ݑ‬ଶ ൅ ‫ݒ‬ଶ ൌ ܶ଴ points at forms a circle. It blocks signals outside the circle by multiplying 0 and passes
+
+(3.8.2)
+
+The operator represents the element wise dot product operation. Figure 31 shows an image example and its filtered image using the ideal low pass filters.
+
+47
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Filtering in the Frequency Domain
+
+(a)
+
+(b)
+
+Figure 31 An ideal low pass filtering with cut-off frequency set as 10 (a), and the corresponding filtered image (b) from Figure 30 (a).
+
+3.8.2	
+
+Butterworth Lowpass Filter
+
+filtered image as shown in Figure 31 (b). In contrast, the Butterworth lowpass filter is much smoother at T0 and defined as follows:
+‫ܯ‬ሺ‫ݑ‬Ǥ ‫ݒ‬ሻ ൌ 
+೅ሺೠǡೡሻ మ೙ ቃ ଵାቂ ೅బ
+
+The ideal low pass filter has a sharp discontinuity as T0. This will introduce some ring effects on the
+
+ଵ
+
+	
+
+(3.8.3)
+
+where T(u, v) is the radius from the point (u, v) to the origin in the frequency domain.
+
+48
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Image Processing Part I
+
+Filtering in the Frequency Domain
+
+Figure 29 (a). Comparing the filtered image with the one in Figure 30, we notice that the Butterworth low pass filter produces less ringing effects than an ideal low pass filter using the same cut-off frequency.
+
+Figure 32 shows an example of Butterworth low pass filter with T0 = 10, and the filtered image from
+
+(a)
+
+(b)
+
+Figure 32 Butterworth low pass with cut-off frequency set as 10 (a), and the corresponding filtered image (b) from Figure 31 (a).
+
+3.8.3	
+
+Gaussian Lowpass Filters
+
+In 2D image processing, an exemplar filter is Gaussian filtering. It is perhaps the most commonly used low pass filter in the literature. Mathematically in the frequency domain, it is defined as follows:
+‫ܩ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻ ൌ ‫݁ܣ‬ሺെ݀ሺ‫ݑ‬ǡ ‫ݒ‬ሻȀʹߪ ଶ ሻ 	
+ଵ
+
+(3.8.4)
+
+by ݀ ൌ  మ ሺ‫ݑ‬ଶ ൅ ‫ ݒ‬ଶ ሻ with σ denoting the standard deviation. Figure 33 shows the plot of the 2D ଶఙ Gaussian low pass filter and the filtered panda image respectively.
+
+is an మ affine distance where ݀ ൌ ሺ‫ݑ‬ଶ ൅ ‫ ݒ‬ଶ ሻ function from the center point to the current point (u, v), usually denoted ଶఙ
+ଵ
+
+(a)
+
+(b)
+
+Figure 33 Gaussian low pass filter (a) and the smoothed panda image (b), with set as 10 and A is set to 1.
+
+49
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Filtering in the Frequency Domain
+
+3.9	
+3.9.1	
+
+Image Sharpening Using Frequency Domain Filters
+Ideal Highpass Filters
+
+An ideal highpass filter is to switch off some low frequency signals and to allow the high frequency signal to pass based on a threshold. It implies the difference between 1 and the ideal low pass filtering. Mathematically, it is defined as follows:
+‫ܯ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻ ൌ ൜ ͳǡ ‫ݑ‬ଶ ൅ ‫ ݒ‬ଶ ൒ ܶͲ Ͳǡ ‫ݑ‬ଶ ൅ ‫ ݒ‬ଶ ൏ ܶͲ 	
+
+(3.9.1)
+
+In contrast to the ideal low pass filter, it blocks signals falling inside the circle by multiplying 0 and pass the signals settling outside the circle by multiplying 1. By doing this, we get the following filtered results in the frequency domain:
+‫ܨ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻǤ‫ܯ כ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻ ൌ ൜ ‫ܨ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻǡ ‫ݑ‬ଶ ൅ ‫ ݒ‬ଶ ൒ ܶ଴ Ͳǡ ‫ݑ‬ଶ ൅ ‫ ݒ‬ଶ ൏ ܶ଴ 	
+
+(3.9.2)
+
+Figure 34 shows an example of using the ideal highpass filters applied to an image.
+
+(a)
+Figure 34 An ideal high pass filter (a) and corresponding sharpened image (b).
+
+(b)
+
+3.9.2	
+
+Butterworth Highpass Filters
+
+The Butterworth Highpass Filter is simply the difference between 1 and the Butterworth lowpass filter T. It is defined as follows:
+‫ܯ‬ሺ‫ݑ‬Ǥ ‫ݒ‬ሻ ൌ ͳ െ
+೅ሺೠǡೡሻ మ೙ ቃ ଵାቂ ೅బ
+
+ଵ
+
+	
+
+(3.9.3)
+
+where again is the radius from the point to the origin in the frequency domain.
+
+50
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Filtering in the Frequency Domain
+
+(a)
+Figure 35 Butterworth high pass filter (a) and the results of filtering the panda image (b).
+
+(b)
+
+3.9.3	
+
+Gaussian High Pass Filters
+
+A Gaussian high pass filter is defined as follows:
+‫ܩ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻ ൌ ͳ െ ‫݁ܣ‬ሺെ݀ሺ‫ݑ‬ǡ ‫ݒ‬ሻȀʹߪ ଶ ሻ, 	
+
+(3.9.4)
+
+where ݀ is the distance from the center point to the current point (u, v), usually denoted by
+݀ ൌ
+ଶఙమ ଵ
+
+ሺ‫ݑ‬ଶ ൅ ‫ݒ‬ଶሻ with representing the standard deviation.
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+51
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Image Processing Part I
+
+Filtering in the Frequency Domain
+
+Figure 36 shows a Gaussian high pass filter and the results of applying this filter onto the panda image.
+
+(a)
+Figure 36 Gaussian high pass filter (a) and the results of filtering the panda image (b).
+
+(b)
+
+3.9.4	
+
+The Fourier transform of Laplacian operator
+
+Another common high pass filer is the well known Laplacian filter. It is a 2D isotropic measure of the second spatial derivatives of an image. It can capture the region with rapid intensity changes. Traditionally it is used for edge detection. But in recent years it has been widely used for blob detection based on its extended version the Laplacian of Gaussian (LoG). It is mathematically defined as follows:
+‫׏‬ଶ ‫ܫ‬ሺ‫ݔ‬ǡ ‫ݕ‬ሻ ൌ
+డమ ூ
+
+డ௫ మ
+
+൅
+
+డ௬ మ
+
+డమ ூ
+
+
+
+(3.9.5)
+
+It is easy to prove that the Fourier transform of the above operator is:
+ԋሺ‫׏‬ଶ ‫ܫ‬ሺ‫ݔ‬ǡ ‫ݕ‬ሻሻ ൌ  െͶߨሺ‫ݑ‬ଶ ൅ ‫ ݒ‬ଶ ሻ‫ܫ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻ
+
+(3.9.6)
+
+Thus the filter is as follows:
+‫ ܨ‬ൌ  െͶߨሺ‫ݑ‬ଶ ൅ ‫ ݒ‬ଶ ሻ
+
+(3.9.7)
+
+The Laplacian filter is sensitive to noise. In practical, it is common to blur the image first and then apply the Laplacian operator onto the smoothed image. The transform is traditionally termed as Laplacian of Gaussian (LoG). The Fourier transform of the LoG transform can be approximately represented as the following forms:
+െͶሺଶ ൅  ଶ ሻሺെͲǤͷሺ‫ݑ‬ଶ ൅ ‫ ݒ‬ଶ ሻȀߪ ଶ ሻ
+
+(3.9.8)
+
+52
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Filtering in the Frequency Domain
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Figure 37 Laplacian fitler (up-left), the results of laplacian fitlered image (up-right). LoG filter (down-left). For better visibilty, here we show the inverse of the LoG filter, and the results of Log filter image (down-left).
+
+3.9.5	
+
+Unsharp filter, Highboost Filtering, and High-Frequency-Emphasis Filtering
+
+The unsharp filter is a very simple operator that subtracts a smoothed (unsharped) version of an image. This operation is called unsharp filter and the resulting difference is usually called unsharp mask. It is majorly used in the printing and publishing industry for enhancing image edges. In principle the unsharping mask is an edge image e(x, y) from the input image I(x, y) by the unsharping filter:
+݁ሺ‫ݔ‬ǡ ‫ݕ‬ሻ ൌ ‫ܫ‬ሺ‫ݔ‬ǡ ‫ݕ‬ሻ െ  ‫ܫ‬௦ ሺ‫ݔ‬ǡ ‫ݕ‬ሻ
+
+(3.9.9)
+
+where Is(x, y) is a blurred version of the image I(x, y). In order to enhance or boost the edge image (high frequency part), the edge image e(x, y) is then added back to the original image a weighting strategy as follows:
+݃ሺ‫ݔ‬ǡ ‫ݕ‬ሻ ൌ ‫ܫ‬ሺ‫ݔ‬ǡ ‫ݕ‬ሻ ൅ ‫݁ כ ݓ‬ሺ‫ݔ‬ǡ ‫ݕ‬ሻ
+
+(3.9.10)
+
+Generally, w is non negative and it controls the contribution of the edge component of the image. It is can be easily seen that when is w set to be 0, there is no additional contribution of the edge part. When w is larger than 1, it is sometimes called high boost filtering in the spatial domain.
+
+53
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Filtering in the Frequency Domain
+
+We can easily perform the above operation in the frequency domain by applying the Fourier transform on the above equation. The final form can be as follows:
+‫ܩ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻ ൌ ‫ܫ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻ ൅ ‫ݓ‬ሺͳ െ ‫ܪ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻ‫ܫ‬ሺ‫ݑ‬ǡ ‫ݒ‬ሻሻ
+
+(3.9.11)
+
+where I(u, v) is the Fourier transform of the original image I(x, y) and G(u, v) is the Fourier transform of the boosted image g(x, y). 3.9.6	 Frequency Domain Homomorphic Filtering
+
+Image can also be expressed as the product of illumination and reflectance. This is known as the illumination-reflectance model. This model is first developed by MIT, USA. This model basically states that an image is produced by a sensor based on the amount of energy that it received from the object. The energy that an image sensor or camera received is determined by illumination radiation source and the features of the reflectance of the object itself. Their relationship is viewed as a product. It is mathematically expressed as follows:
+݂ሺ‫ݔ‬ǡ ‫ݕ‬ሻ ൌ ݅ሺ‫ݔ‬ǡ ‫ݕ‬ሻ ‫ݎ כ‬ሺ‫ݔ‬ǡ ‫ݕ‬ሻ
+
+(3.9.12)
+
+where f (x, y) is the image. i(x, y) is the illumination component and r (x, y) the reflectance component.
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+54
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Image Processing Part I
+
+Filtering in the Frequency Domain
+
+The reflectance is the features of the object itself. Generally we are more interested in reflectance than illumination. A basic idea is to enhance reflectance and to reduce illumination. In order to do this, a common approach is called Homomorphic Filtering. To utilize the advantages of the Fourier transform, we need to convert the product into sum by applying the log operator on both sides of the equation. Thus we get:
+ሺ݂ሻ ൌ ሺ݅ሻ ൅ ሺ‫ݎ‬ሻ
+
+(3.9.13)
+
+Now the illumination-reflectance model in the log space becomes a linear model. It is easier for us to process this in the frequency domain. It has been shown that the illumination component majorly usually lies in the low frequency band and reflectance in the higher frequency band. This motivates us to borrow some high pass filter to enhance the reflectance part and degrade the other. Once doing this, we then can use the inverse Fourier transform to convert it back to the log space, and finally deploy the exponent operation to convert the log space into the original space. A common flow chart of the Homomorphic Filtering is shown in Figure 38.
+
+f (x, y)
+
+log
+
+FFT
+
+High Pass lter
+
+IFFT
+
+exp
+
+f (x, y)
+
+Figure 38 The flowchart of the homomorphic filtering procedure.
+
+Figure 39 shows an example of image enhancement using the homomorphic filtering.
+
+(a)
+Figure 39 An example of image illumination correction using the homomorphic filtering.
+
+(b)
+
+55
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Filtering in the Frequency Domain
+
+3.10	Summary
+The Fourier transform is a key component of image processing. In other words, without Fourier transform, modern digital image processing will lack amounts of contributions to the community. In this chapter, we have introduced the principles of the discrete Fourier transform in 1D and 2D cases. We also illustrated the sampling theorem. Keep in mind that the sampling rate of a signal should be at least two times higher than the highest frequency of the image content. We further presented several low pass and high pass filters in the frequency domain including ideal low pass filter, Butterworth low pass filter, as well as Gaussian filter. A simple rule is that the sum of the low pass filter and the corresponding filter of the same type are usually equivalent to one. Other filters are also common in the field of image processing such as the median filter. However, those filters cannot be easily interpreted in the frequency domain. We have introduced them in Chapter 2.
+
+3.11	
+
+References and Further Reading
+vol. 37, no. 1, pp. 10–21, Jan. 1949. Reprint as classic paper in: Proc. IEEE, vol. 86, no. 2, (Feb. 1998)
+
+[7]	 C.E. Shannon, “Communication in the presence of noise”, Proc. Institute of Radio Engineers, [8]	E.T. Whittaker, “On the Functions Which are Represented by the Expansions of the Interpolation Theory”, Proc. Royal Soc. Edinburgh, Sec. A, vol. 35, pp. 181–194, 1915. [9]	 Wikipedia: Nyquist–Shannon sampling theorem. http://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem. Accessed on 10 October, 2009.
+
+3.12	Problems
+(12)	 (13)	 (14)	 What is Nyquist-Shannon sampling theorem? W hat is the relationship of lowpass filter and high pass filter? Explain the different steps and motivation of the homomorphic filtering.
+
+56
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Image Restoration
+
+4	 Image Restoration
+4.1	 Image degradation and restoration
+A degraded image is a clean image with an additive noise term. In a mathematical language, given a clean image f(x, y) and a noise function n(x, y), the degraded image is generated as follows:
+
+g ( x , y ) = h ( x , y ) ∗ f ( x, y ) + n ( x, y )
+
+(4.1.1)
+
+where h(x, y) is the transformation function from the clean image to the degraded image in spatial domain and “*” is convolution. Restoration is the converse process of degradation. That is to say, the purpose of image restoration is to seek a maximum similarity of the original clean image after an appropriate process is applied. Such a degradation/restoration procedure can be represented in the following graph:
+
+It is essential to understand how noise affects images before an optimal restoration method can be introduced. Without this knowledge, it will not be possible to discover a proper solution. In the nest section, the noise models will be introduced, where up to date research outcomes are presented.
+
+4.2	
+
+Noise analysis
+
+Image noise is normally due to environmental conditions (e.g. light, temperature, etc), sensor quality and human interference. Of these factors, the first two seems to be dominant in real practice. For example, a camera of low resolution easily leads to fuzzy imaging outcomes. A moving camera can collect image sequences with strong motion blurred effects.
+
+57
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Image Restoration
+
+To perform appropriate noise analysis one of the possible ways is to understand the noise models behind the image signals. After these noise models have been identified, it may become much easier to apply corresponding strategies for problem solution. In general, these noise models can be grouped into time and frequency domains, the latter of which considers the difference between the frequency properties of the clean image and noise. More details can be found in the following. The first noise model is Gaussian. This is a well recognised noise model due to its mathematical tractability and popularity of use. To better understand the principle of Gaussian models, one of the options is to extract its probability distribution function (PDF). The PDF of Gaussian models is expressed by
+− 1 p( s) = exp 2π σ ( s −µ )2 2σ 2
+
+(4.2.1)
+
+where s is gray level, µ is the mean of s and σ is its variance. The difference between the image signals and the average value is anti-proportional to their probability values. The second one is uniform noise model. The PDF of uniform noise is
+
+ 1  p( s) =  a − b  0
+
+(4.2.2)
+
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+58
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Image Processing Part I
+
+Image Restoration
+
+where the upper case results from a ≥ s ≥ b; otherwise the lower case stands. This indicates that the probability values will be the same no matter where each pixel locates. The third one is Rayleigh noise, whose PDF is delineated by
+( s −a ) 2 −  ( s − a ) exp b p(s) =  b 0 
+2
+
+b(4.2.3)
+
+where the upper case results from s ≥ a (a and b are two constants); otherwise the lower one is valid. This noise model results a deformed shape of thr Gaussian model. Another quite common noise model is salt and pepper noise which has a PDF as follows
+
+where the upper case is due to s = a, the middle case is due to s = b and otherwise the lower case is valid. Figure 40 illustrates some images with additive noise (the noise power is also included in the caption).
+
+ Pa  p ( s ) =  Pb 0 
+
+(4.2.4)
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Figure 40 Noisy images with different additive noise: (a) original image, (b) Gaussian (0, 0.2) (mean, variance), (c) speckle (0.2) and (d) salt & pepper (0.2).
+
+59
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Image Restoration
+
+4.3	
+
+Restoration with spatial analysis
+
+A number of approaches have been established to handle the image restoration problem. These normally consist of spatial and frequency based approaches. In this subsection only spatial analysis based methods are concerned. Of the developed schemes, spatial filtering is one of the frequently investigated areas and its applications have been well developed. Some examples are summarized here. Geometric mean filter: This is a model that incorporates geometric mean. Each restored image pixel is the mean value of the pixels falling in the investigated area. The underlying mathematical expression for the restoration is followed:
+1 m n
+
+ˆ ( x, y ) = ( f
+
+( q ,t )∈Q
+
+∏ f ( q, t )
+
+~
+
+(4.3.1)
+
+where (m, n) indicates the size of a subimage window. Examples of applying this filter to the noisy images (shown in Figure 40) are given in Figure 41. It demonstrates that this filter is more suitable to handle the case of speckle noise.
+
+(a)
+
+(b)
+
+(c)
+
+Figure 41 Examples of using the geometric mean filter, where (a) Gaussian, (b) speckle and (c) salt & pepper.
+
+Median filter: This is a statistics based filtering algorithm. Any image pixel can be replaced by the median of the image pixels in the neighborhood of that pixel:
+
+ˆ ( x, y ) = median{ f (q, t ) f }
+
+~
+
+(4.3.2)
+
+Figure 42 illustrates the outcomes of using the median filter to the images shown in Figure 40. It is clear that this median filter has the best performance when we restore the salt & pepper image.
+
+60
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Image Restoration
+
+(a)
+
+(b)
+
+(c )
+
+Figure 42 Outcomes of applying the median filter to the noisy images.
+
+Max and min filters: The median filter takes the mid point of the image intensity. On contrary, max and min filters are designed to extract the maximum or minimum point in the ranked numbers. This filter effectively works in some extreme cases, where the noise makes the image intensities outstanding. However, it will not perform well in the presence of regular noise distributions. Adaptive filters: These filters are intended to adapt their behaviors depending on the characteristics of the image area to be filtered. This is based on a simple fact that many signals actually are the combination of the known or anonymous noise resources and hence it is unlikely to obtain an appropriate noise model to describe the characteristics of the noise.
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+61
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Image Processing Part I
+
+Image Restoration
+
+One commonly used adaptive filters is local noise reduction filter, where the denoising result can be represented by
+
+ˆ ( x, y ) = f ( x, y ) − σ 1 [ f ( x, y ) − m ] f 2
+~ 2 ~
+
+σ2
+
+(4.3.3)
+
+where σ12 is estimated variance of the noise corrupting the image, m and σ22 are the mean and variance of the pixels in the sub-image. These variables sometimes can only be available through historic estimation. The performance of this filter is revealed in Figure 43.
+
+(a)
+Figure 43 Illustration of the adaptive filter in image denoising.
+
+(b)
+
+(c)
+
+Wiener filter: This is a statistical approach to pursue an outcome that can minimize the mean square error between the restored and original images, given that the image and noise are uncorrelated with normal distribution:
+
+ˆ ( x, y ) e 2 = E[ f ( x, y ) − f ]
+
+2
+
+(4.3.4)
+
+This leads to the outcomes shown in Figure 44. This shows that the restored images of speckle and salt & pepper noise are quite similar.
+
+(a)
+
+(b)
+
+(c)
+
+Figure 44 Performance of the Wiener filter in image restoration.
+
+62
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Image Restoration
+
+4.4	
+
+Restoration with frequency analysis
+
+In the frequency domain the restored image can be represented as follows:
+
+G (u , v) = H (u , v) ∗ F (u, v) + N (u, v)
+
+(4.4.1)
+
+Where G, H, F and N are the Fourier transforms of g, h, f and n, respectively. H is the optical transformation function. In the frequency domain the degradation process is equivalent to that of convolving the image with an optical transformation function. Similarly, the restoration can be referred to as deconvolution:
+
+ˆ (u, v) = F (u, v) + N (u, v) F H (u, v)
+
+(4.4.2)
+
+This deconvolution process can be directly applied to solving the practical problems. As an example, the Wiener filter is particularly used here for further discussion. The Fourier transform of the restoration is
+
+ˆ (u , v ) F   H * (u , v ) S1 (u , v ) = G (u , v ) 2  S1 (u , v ) | H (u , v ) | + S 2 (u , v )   1  | H (u , v) | = G (u , v) 2  H (u , v) | H (u , v) | + S 2 (u , v) / S1 (u , v) 
+2
+
+(4.4.3)
+
+where H(u,v) is degradation function, H*(u,v) is the complex conjúgate of H(u,v), |H(u,v)|2 = H*(u,v) H(u,v), S1(u,v) = |N(u,v)|2 that is the power spectrum of the noise, and S2(u,v) = |F(u,v)|2 that is the power spectrum of the clean image. The above equation indicates that the power spectra of the restored image depends on the power spectra of the transformation function and the ratio of the power spectrum of the noise and the clean image. The second example is notch filter. This filter has a similar concept to that of bandpass and Butterworth filters. It rejects or passes frequencies in a pre-defined areas around the central frequency. Now, the rejection case is investigated as an example. Let the centre and its symmetry be (u0, v0) and (-u0, -v0) respectively. If the noth reject filter is applied to a radius Dc, then the transfer function can be expressed as
+0 H (u , v) =  (4.4.4) 1
+
+where Dc ≥ D1 or Dc ≤ D2 leads to the upper case with
+D1 (u , v) = [ (u − M / 2 − u0 ) 2 + (v − N / 2 − v0 ) 2 ] 2 (4.4.5)
+1
+
+63
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Image Restoration
+
+and
+D2 (u , v) = [ (u − M / 2 + u0 ) 2 + (v − N / 2 + v0 ) 2 ] 2 (4.4.6)
+1
+
+The filter will look at an area with the shifted centre to (M/2, N/2). Similarly, the transfer function of a Butterworth notch reject filter of order 2 is derived as follows:
+H (u , v) = 1 Dc2 1+[ ]2 (4.4.7) D1 (u , v) D2 (u , v)
+
+A Gaussian notch reject filter has the transfer function
+H (u , v)= 1 − e
+1 D1 ( u , v ) D2 ( u , v ) [ ] 2 2 Dc
+
+(4.4.8)
+
+Another typical example is constrained least squares filter. The Wiener filter has an evident drawback: It is desirable to know the power spectra of the clean image and noise. In spite of the existence of an approximation of the power spectra, S1 and S2 may not be constant and stable. Therefore, it is desirable to investigate the minmisation of the second derivative of the image for satisfaction of smoothness:
+
+M −1 N −1  min  ∑∑ [∇ 2 f ( x, y ) ] 2  (4.4.9)  x =0 y =0 
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+64
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Image Processing Part I
+
+Image Restoration
+
+Subject to the following constraint:
+
+ˆ | 2 =| n | 2 (4.4.10) | g − Hf
+where ||~||2 is the Euclidean vector norm, and ∇ 2 is the Laplacian operator. The frequency domain solution to this minimization problem is given by the following equation:
+
+ H * (u , v) ˆ (u , v) =  F  | H (u , v) |2 +γ | P (u , v) | 2 G (u , v) (4.4.11)  
+where γ is a parameter that can be tuned to satisfy the constraint equation. P(u,v) is the Fourier transform of the function:
+
+0 − 1 0   (4.4.12) p ( x, y ) =  − 1 4 − 1   0 − 1 0 
+One of the optimisation techniques for computing γ is to iterate the following procedure:
+
+ˆ ) be r . We use a function of γ to describe r Let the residual of the difference ( g − Hf s s
+
+J (γ ) = rs rs =| rs | 2 (4.4.13)
+Let
+
+T
+
+| rs | 2 =| n | 2 ±c (4.4.14)
+where c is an variable that controls the estimate accuracy. Once c is defined, an optimal γ can be obtained by continuous adjusting in order to satisfy Equations 4.4.6 and 4.4.9. To compute ||rs||2, one can look at its Fourier transform:
+
+ˆ (u , v) | Rs | 2 = G (u , v) − H (u , v) F 
+Since
+
+(4.4.15)
+
+| rs | 2 = ∑∑ r 2 ( x, y ) (4.4.16)
+x =0 y =0
+
+M −1 N −1
+
+Therefore, the variance of the noise over the entire image can be expressed as follows:
+ VQ
+
+ 01
+
+0  1  [  \ 
+
+¦¦ Q [ \  P 
+Q
+
+
+
+(4.4.17)
+
+65
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Image Restoration
+
+Where
+
+PQ
+
+ 01
+
+0  1  [  \ 
+
+¦¦ Q [ \ (4.4.18)
+
+Eventually, the following equations stand:
+  __ Q __  01 V Q  PQ  (4.4.19)
+
+This equation shows that image restoration can be performed if the variance and mean of the noise buried in the image are known beforehand. Figure 45 illustrates the performance of the contrainted least sqaures filter in image restoration, where the overall noisy images have been restored well.
+
+DEF
+Figure 45 Examples of image restoration using the least squares filter.
+
+
+
+4.5	
+
+Motion blur and image restoration
+
+Motion blur is due to the relevant motion between the image sensor and the objects to be acquired during the shot period. Normally, this happens in the case where any motion is longer than the period of exposure constrained by the shutter speed. If this ocurres, the objects moving with respect to the sensor (i.e. video camera) will look blurred or smeared along the direction of the motion. Motion blur can lead to special effects in computer graphics and visualisation. These effects sometimes are valuable. For example, in sports motion blur is used to illustrate the speed, where a slow Suter speed is normally taken. Figure 46 clearly shows motion blur in the areas of the running path and lower bodies. In the meantime, motion Blur has been Commonly used in the animation so as to create a synthetic scene for visualisation. One of the examples is shown in Figure 47.
+
+66
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Image Restoration
+
+Figure 46 Motion blur in the racing scenario ([6]).
+
+Figure 47 Motion blur in the train track scenario ([7]).
+
+However, motion blur also causes certain side-effects. One of these effects is the nuclear details in the blurred image areas. These areas need to be sharpened so that further process can be carried out, e.g. 3-dimensional construction that requires very accurate correspondences across the image frames. Before the blurred images can be deblurred, it will be very helpful to generate an optimal scheme if one understands how these images have been blurred. Figure 48 denotes a synthetic motion blurred image. The strategy used to create this image follows: •	 Move image pixels along a certain angle, Ia; •	 Multiply the clean image I with the changed image Ia in frequency domain, Im; •	 Inverse Fourier transform of Im.
+67
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Image Restoration
+
+Figure 48 Illustration of a synthetic blurred image.
+
+T﻿he methods used to deblur the blurred images can be those that have been introduced in the previous sections, e.g. mean, Wiener and constraint least squares filters. Figure 49 illustrates the deblurred image of Figure 48 using the Wiener filter.
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+68
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Image Processing Part I
+
+Image Restoration
+
+Figure 49 Illustration of the deblurred image using the Wiener filter.
+
+4.6	
+
+Geometric transformation
+
+The restoration techniques introduced in the previous sections are normally used to handle the images that noise signals are additive to. In this section, the case of changing the spatial relationship of the image points will be discussed. There are mainly two groups of geometric transformation: (1) Spatial transformation where the image pixels are re-arranged, and (2) image interpolation/extrapolation where a part of the images is filled or taken away. First of all, spatial transformation is introduced. Assume an image pixel has coordinates (x, y). Then its gemetric distortion will have different coordinates as (x’, y’). The relationship between the changed coordinates is
+ x ' = T1 ( x, y ) (4.6.1)   y ' = T2 ( x, y )
+
+Where T1 and T2 are two spatial transformation functions that generate the geometric changes. For example, a commonly used geomtric distortion is described in a pair of bilinear equations:
+T1 ( x, y ) = c1 x + c2 y + c3 x y + c4 (4.6.2)  T2 ( x, y ) = c5 x + c6 y + c7 x y + c8
+
+Secondly, image interpolation/extrapolation is discussed. Due to Eq. (4.6.2), the distorted image coordinates maybe non-integer. However, image pixels can only be integer. Therefore, some “pixels” will be interpolated or extrapolated. One of the common approaches is to use a nearest neighbor approach. This approach allows the inserted or extracted image patches to have the same intensity/colour as the closest pixels. For the simplicity purpose, Figure 50 shows a rotated image and its recovered image according to the estimated scale and angles.
+
+69
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Image Restoration
+
+DE
+Figure 50 Illustration of the geometric distortion image (a) and its correction (b).
+
+
+
+Summary In this chapter, the concepts of image degradation and restoration have been introduced. The noise models are investigated before any image restoration algorithm is presented. These models consist of Gaussian, uniform, Rayleigh and salt & pepper noise. Afterwards, the corresponding techniques to restore the degraded images were also summarized. These techniques are catergorised into the spatial and frequency domains. The latter include the Wiener, notch and constrained least squares filters, while the former has examples such as the geometric mean, median, max and min filters, Wiener filter. Due to the importance and common use motion blur has been introduced in an independent section and deblur approaches are also summarized. Afterwards, geometric transformation is presented, where spatial transformation and image interpolation/extrapolation are individually described. In general, image restoration and the developments in this field are very important in the domain of image processing. The quality of the restored images will directly affect their applications and uses in the community. Some of the possible resources of image degradation and restoration have been presented. However, many new strategies are still in their infancy stages and hence more efforts will be made in order to move forward the developments.
+
+4.7	References
+[10]	 http://www.sciencedaily.com/releases/2008/08/080812213810.htm, accessed on 29 September, 2009. [11]	 http://www.flickr.com/photos/stevacek/299323149/, accessed on 29 September, 2009.
+
+70
+Download free eBooks at bookboon.com
+
+Digital Image Processing Part I
+
+Image Restoration
+
+4.8	Problems
+[15]	 [16]	 [17]	 [18]	 [19]	 What is image degradation/restoration? Why do we need image restoration? Please summarize the noise models that have been presented in this section. How many groups of spatial analysis are available up to date? What is the principle of motion blur? Can you apply motion blurring to the image shown below?
+
+[20]	 How can we handle the motion blurred images? Hints: Provide a general algorithm for the deblurring purpose. [21]	 What is geometric transformation? How can you recover a spatial distortion? [22]	 Can you use a different method for deblurring Figure 22? [23]	 Please derive Equations (4.4.7) and (4.4.8). [24]	 Please try to derive Equation (4.4.11).
+
+71
+Download free eBooks at bookboon.com
+

@@ -1,0 +1,1570 @@
+Liabilities	and	Equity
+Larry	M.	Walther;	Christopher	J.	Skousen
+
+Download	free	books	at
+
+Liabilities and Equity © 2009 Larry M. Walther, under nonexclusive license to Christopher J. Skousen & Ventus Publishing ApS. All material in this publication is copyrighted, and the exclusive property of Larry M. Walther or his licensors (all rights reserved). ISBN 978-87-7681-489-2
+
+2 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Contents
+
+Contents
+Part. 1 Current Liabilities and Employer Obligations 1. 1.1 1.2 2. 2.1 3. 3.1 3.2 3.3 4. 4.1 4.2 4.3 4.4 4.5 4.6 5. 5.1 5.2 Current Liabilities The Operating Cycle Illustrations of Typical Current Obligations Notes Playable A Few Words About Interest Calculations that May Save You Some Money Contingent Liabilities Accounting for Contingent Liabilities Timing of Events Warranty Costs Payroll Gross Earnings Net Earnings The Journal Entry for Payroll Employer Payroll Taxes and Contributions Annual Reports Accurate Payroll Systems Other Components of Employee Compensation Pension Plans Other Post Retirement Beneﬁts 6 7 7 7 9 11 14 14 15 15 17 17 18 21 22 23 23 24 24 26
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+3 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Contents
+
+Part. 2 Long-Term Obligations 6. 6.1 6.2 6.3 6.4 6.5 6.6 7. 8. 8.1 8.2 8.3 9. 9.1 9.2 10. 10.1 10.2 11. 11.1 11.2 Long-Term Notes How do I Compute the Payment on a Note? Future Value Present Value Annuities Returning to the Original Question A Few Final Comments on Future and Present Value Bond Payable Accounting for Bonds Payable Bond Issued at Par Bond Issued at Premium Bond Issued at a Discount Affective-Interest Amortization Methods The Premium Illustration The Discount Illustration Bonds Issued Between Interest Dates and Bond Retirement Year-end Interest Accruals Bonds may be Retired Before Scheduled Maturity Analysis, Commitments, Alternative Financing Arrangements, Leases, and Fair Value Measurements Contractual Commitments and Alternative Financing Arrangements Capital Leases
+
+27 28 29 29 30 31 31 34 36 38 41 41 44 46 46 47 49 50 50 52 53 53
+
+4 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Contents
+
+11.3
+
+The Fair Value Measurement Option Part. 3 Corporate Equity Accounting
+
+55 56 57 61 61 62 63 64 65 67 70 71 74 76
+
+12. 13. 13.1 13.2 13.3 13.4 13.5 14. 15. 15.1 16. 17.
+
+The Corporate Form of Organization Common and Preferred Stock Typical Common Stock Features Possible Preferred Stock Features What is Par? A Closer Look at Cash Dividends The Presence of Preferred Stock Treasury Stock Stock Splits and Stock Dividends Stock Dividends Statement of Stockholders’ Equity Appendix
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+5 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Current Liabilities and Employer Obligations
+
+Current Liabilities and Employer Obligations
+Part 1
+Your goals for this “current liabilities” chapter are to learn about: x The nature and recording of typical current liabilities. x Accounting for notes payable. x The criteria for recognition and/or disclosure of contingent liabilities. x Basic accounting for payroll and payroll related taxes. x Other components of employee compensation (e.g. vacation pay, pensions, and so forth).
+
+6 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Current Liabilities and Employer Obligations
+
+1. Current Liabilities
+The current liabilities section of the balance sheet contains obligations that are due to be satisfied in the near term, and includes amounts relating to accounts payable, salaries, utilities, taxes, short-term loans, and so forth. This casual description is inadequate for all situations, so accountants have developed a very specific definition to deal with more issues. Current liabilities are debts that are due to be paid within one year or the operating cycle, whichever is longer; further, such obligations will typically involve the use of current assets, the creation of another current liability, or the providing of some service. This enhanced definition is expansive enough to capture less obvious obligations pertaining to items like customer prepayments, amounts collected for and payable to third parties, the portion of long-term debt due within one year or the operating cycle (whichever is longer), accrued liabilities for expenses incurred but not yet paid, and contingent liabilities. However, the definition is not meant to include amounts not yet “incurred.” For example, salary to be earned by employees next year is not a current liability (this year) because it has yet to be “incurred.”
+
+1.1 The Operating Cycle
+Remember that the operating cycle is the length of time it takes to turn cash back into cash. That is, a business starts with cash, buys inventory, sells goods, and eventually collects the sales proceeds in cash. The length of time it takes to do this is the operating cycle. Take careful note of how the operating cycle is included in the above definition of current liabilities: “one year or the operating cycle, whichever is longer.” For most businesses, the operating cycle is less than one year, but not always. A furniture manufacturer may have to buy and cure wood before it can be processed into a quality product. This could cause the operating cycle to go beyond one year. If that is the case, then current liabilities might include obligations due in more than one year.
+
+1.2 Illustrations of Typical Current Obligations
+Accounts Payable are the amounts due to suppliers relating to the purchase of goods and services. This is perhaps the simplest and most easily understood current liability. Although an account payable may be supported by a written agreement, it is more typically based on an informal working relation where credit has been received with the expectation of making payment in the very near term. Notes Payable are formal short-term borrowings usually evidenced by a specific written promise to pay. Bank borrowings, equipment purchases, and some credit purchases from suppliers involve such instruments. The party who agrees to pay is termed the “maker” of the note. Properly constructed, a note payable becomes a negotiable instrument, enabling the holder of the note to transfer it to someone else. Notes payable typically involve interest, and their duration varies. When a note is due in less than one year (or the operating cycle, if longer), it is commonly reported as a current liability. The Current Portion of Long-term Debt is another frequently encountered current obligation. When a note or other debt instrument is of long duration, it is reported as a long-term liability. However, the amount of principal which is to be paid within one year or the operating cycle, whichever is longer, should be separated and classified as a current liability. For example, a $100,000 long-term
+
+7 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Current Liabilities and Employer Obligations
+
+note may be paid in equal annual increments of $10,000, plus accrued interest. At the end of any given year, the $10,000 principal due during the following year should be reported as a current liability (along with any accrued interest), with the remaining balance shown as a long-term liability. Accrued Liabilities (sometimes called accrued expenses) include items like accrued salaries and wages, taxes, interest, and so forth. These items relate to expenses that accumulate with the passage of time, but will be paid in one lump-sum amount. For example, the cost of employee service accrues gradually with the passage of time. The amount that employees have earned but not been paid is termed accrued salaries and should be reported as a current liability. Likewise, interest on a loan is based on the period of time the debt is outstanding; it is the passage of time that causes the interest payable to accrue. Accrued but unpaid interest is another example of an accrued current liability. Prepayments by Customers arise from transactions such as selling magazine subscriptions in advance, selling gift-cards, selling tickets well before a scheduled event, and other similar items where the customer deposits money in advance of receiving the expected good or service. These items represent an obligation on the part of the seller to either return the money or deliver a service in the future. As such, the prepayment is reported as “unearned revenue” within the current liability section of the balance sheet. Recall, from earlier chapters, that the unearned revenue is removed and revenue is recognized as the goods and services are provided. In some cases, customers may never redeem a gift-card. In this situation, it would generally be appropriate to derecognize the liability and record revenue once it is viewed as remote that the card will ever be redeemed and the company has no obligation to remit funds to some governmental jurisdiction (as is sometimes required by law). Collections for Third Parties arise when the recipient of some payment is not the beneficiary of the payment. As such, the recipient has an obligation to turn the money over to another entity. At first, this may strike you as odd. But, consider sales taxes. The seller of merchandise must collect the sales tax on transactions, but then has a duty to pass those amounts along to the appropriate taxing entity. Such amounts are appropriately reflected as a current liability until the funds are remitted to the rightful owner. Obligations to be Refinanced deserve special consideration. A long-term debt may have an upcoming maturity date within the next year. Ordinarily, this note would be moved to the current liability section. However, companies often simply renew such obligations, in essence, borrowing money to repay the maturing note. This poses an interesting question -- should currently maturing long-term debt be shown as a current or a long-term liability if it is going to be renewed by simply rolling the debt into a replacement long-term obligation? What financial statement is fair -- to show the debt as current even though it will not be a claim against current assets -- or to show the debt as long-term even though it is now due? To resolve this issue, accountants have very specific rules: a currently maturing long-term obligation is to be shown as a current liability unless (1) the company intends to renew the debt on a long-term basis, and (2) the company has the ability to do so (ordinarily evidenced by a firm agreement with a competent lender).
+
+8 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Current Liabilities and Employer Obligations
+
+2. Notes Playable
+Long-term notes will be considered in the next chapter. For the moment, let’s focus on the appropriate accounting for a short-term note. A common scenario would entail the borrowing of money in exchange for the issuance of a promissory note payable. The note will look something like this:
+
+FOR VALUE RECEIVED, the undersigned promises to pay to the order of BancZone, Inc. the sum of:
+
+*
+
+*****Ten-Thousand and no/100 Dollars *****
+
+($10,000)
+
+With annual interest of 8% on any unpaid balance. This note shall mature and be payable, along with accrued interest, on:
+
+June 30, 20X8 January 1, 20X8
+Issue Date
+
+Oliva Zavala
+Maker Signature
+
+Now, do not use my illustration above to construct a legal document for your own use; this is an abbreviated illustrative form to focus on the accounting issues. A correct legal form would typically be far more expansive and cover numerous things like what happens in the event of default, who pays legal fees if there is a dispute, requirements of demand and notice, and on and on. In the above note, Oliva has agreed to pay to Banc Zone $10,000 plus interest of $400 on June 30, 20X8. The interest represents 8% of $10,000 for half of a year.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+9 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Current Liabilities and Employer Obligations
+
+The amount borrowed is entered in the accounting records by increasing Cash (debit) and Notes Payable (credit). When the note is repaid, the difference between the carrying amount of the note and the cash necessary to repay that note is reported as interest expense. Representative journal entries for the above note follow:
+1-1-X8 Cash Note Payable
+To record note payable at 8% per annum; maturity date on 6-30-X8
+
+10,000 10,000
+
+6-30-X8 * Interest Expense Note Payable Cash
+To record repayment of note and interest ($10,000 X 8% X 6/12)
+
+400 10,000 10,400
+
+Had the above note been created on October 1, the entries would appear as follows:
+10-1-X8 Cash Note Payable
+To record note payable at 8% per annum; maturity date on 3-31-X9
+
+10,000 10,000
+
+12-31-X8
+
+Interest Expense Interest Payable
+To record accrued interest for 3 months ($10,000 X 8% X 3/12)
+
+200 200
+
+*
+
+3-31-X9
+
+Interest Expense Interest Payable Note Payable Cash
+To record repayment of note and interest
+
+200 200 10,000 10,400
+
+In the above entries, notice that interest for three months was accrued at December 31, representing accumulated interest that must be paid at maturity on March 31, 20X9. On March 31, another three months of interest was charged to expense. The cash payment included $400 for interest, half relating to the amount previously accrued in 20X8 and half relating to 20X9.
+
+10 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Current Liabilities and Employer Obligations
+
+Next, let’s consider how the above amounts would appear in the current liability section of the December 31, 20X8 balance sheet. Observe the inclusion of two separate line items for the note and related interest:
+Current Liabilities Accounts payable Salaries payable Taxes payable * Customer prepayments Interest payable Note payable
+
+$ 90,000 2,000 3,000 3,000 200 10,000
+
+$ 108,200
+
+In noting this illustration, you may wonder about the order for listing specific current obligations. One scheme is to list them according to their due dates, from the earliest to the latest. Another acceptable alternative is to list them by maturity value, from the largest to the smallest.
+
+2.1 A Few Words About Interest Calculations that May Save You Some Money
+First, some short-term borrowing agreements may stipulate that a year is assumed to have 360 days, instead of the obvious 365 days. In the old days, before calculators, this could perhaps be justified to ease calculations. In modern days, the only explanation is that the lender is seeking to prey on unsuspecting borrowers. For example, interest on a $100,000, 8% loan for 180 days would be $4,000 assuming a 360-day year ($100,000 X .08 X 180/360), but only $3,945 based on the more correct 365-day year ($100,000 X .08 X 180/365). It is obvious that you should be alert to the stated assumptions intrinsic to a loan agreement. Next, be aware of the “rule of 78s.” Some loan agreements stipulate that prepayments will be based on this tricky technique. A year has 12 months, and 12 + 11 + 10 + 9 + . . . + 1 = 78; somehow giving rise to the “rule of 78s.” Assume that $100,000 is borrowed for 12 months at 8% interest. The annual interest is $8,000, but, if the interest attribution method is based on the “rule of 78s,” it is assumed that 12/78 of the total interest is attributable to the first month, 11/78 to the next, and so forth. If the borrower desired to prepay the loan after just two months, that borrower would be very disappointed to learn that 23/78 (12 + 11 = 23) of the total interest was due (23/78 X $8,000 = $2,359). If the interest had been based simply on 2 of 12 months, the amount of interest would come to only $1,333 (2/12 X $8,000 = $1,333).
+
+11 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Current Liabilities and Employer Obligations
+
+Compounding is another concept that should be understood. So far in this text, I have assumed simple interest in the illustrated calculations. This merely means that Interest = Loan X Interest Rate X Time. But, at some point, it is fair to assume that the accumulated interest will also start to accrue interest -- some people call this “interest on the interest.” In the next chapter, this will be examined in much more detail. For the moment, just take note that a loan agreement will address this by stating the frequency of compounding -- annually, quarterly, monthly, daily, and even continuously (which requires a bit of calculus to deduce). The narrower the frequency, the greater the amount of total interest that will be calculated. One last trick is for the lender to take their interest up front. That is, the note may be issued with interest included in the face value. For example, $9,000 may be borrowed, but a $10,000 note is established (interest is not separately stated). At maturity, $10,000 is repaid, representing a $9,000 repayment of borrowed amounts and $1,000 interest. Note that the lender may state that the interest rate is 10% ($1,000 out of $10,000), but the effective rate is much higher ($1,000 for $9,000 = 11.11% actual rate).
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+12 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Current Liabilities and Employer Obligations
+
+The journal entries for a note with interest included in face value (also known as a note issued at discount), are as follows:
+1-1-X8 Cash Discount on Note Payable Note Payable
+To record note payable, issued at a discount
+
+9,000 1,000 10,000
+
+12-31-X8
+
+Interest Expense Discount on Note Payable
+To record discount amortization
+
+1,000 1,000
+
+*
+
+Note Payable Cash
+To record repayment of note
+
+10,000 10,000
+
+As you examine the above journal entries, note that the $1,000 difference is initially recorded as a discount on notes payable (on a balance sheet, this would be reported as contra liability; i.e., a $10,000 notes payable minus a $1,000 discount, for a net liability equal to the $9,000 borrowed). Discount amortization transfers the discount to interest expense over the life of the loan. This means that the $1,000 discount should be recorded as interest expense by debiting Interest Expense and crediting Discount on Notes Payable. In this way, the $10,000 paid at maturity (credit to Cash) can be offset with an $10,000 reduction in the Notes Payable account (debit). Be aware that discount amortization occurs not only at the date of repayment, but also at the end of an accounting period (to record interest expense for the amount attributable to the period). If the preceding example had a maturity date at other than the December 31 year-end, the $1,000 of interest expense would need to be recorded partially in one period and partially in another. Now, each of the above points about unique interest calculations is to alert you to devices that lenders can use to tilt the benefit of the bargain to their advantage. As a result, statutes have increasingly required fuller disclosure (“truth in lending”) and, in some cases, outright limited certain practices. The best I can tell you is to be careful, and understand the full economics of any borrowing you do. And, if you are lending, be sure to understand the laws that define fair practices and disclosures; a lender who overcharges interest or violates laws (applicable to the particular jurisdiction of the loan) can find themselves legally losing the right to collect amounts loaned. Both borrowers and lenders should be careful -- remember there is an old adage that goes “neither a borrower or lender be.” Of course, there are plenty of loans, and you will likely be a party to one someday, so be careful.
+
+13 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Current Liabilities and Employer Obligations
+
+3. Contingent Liabilities
+Some events may eventually give rise to a liability, but the timing and amount is not presently sure. Such uncertain or potential obligations are known as contingent liabilities. There are numerous examples of contingent liabilities. Legal disputes give rise to contingent liabilities, environmental contamination events give rise to contingent liabilities, product warranties give rise to contingent liabilities, and so forth. Do not confuse these “firm specific” contingent liabilities with general business risks. General business risks include the risk of war, storms, and the like which are presumed to be an unfortunate part of life for which no specific accounting can be made in advance.
+
+3.1 Accounting for Contingent Liabilities
+A subjective assessment of the probability of an unfavorable outcome is required to properly account for contingences. Rules specify that contingent liabilities should be recorded in the accounts when it is probable that the future event will occur and the amount of the liability can be reasonably estimated. This means that a loss would be recorded (debit) and a liability established (credit) in advance of the settlement. An example might be a hazardous waste spill that will require a large outlay to clean up – it is probable that funds will be spent and the amount can likely be estimated (or at least a range of the amount, in which case at least the lower end of the range is known). On the other hand, if it is only reasonably possible that the contingent liability will become a real liability, then a note to the financial statements is all that is required. Likewise, a note is required when it is probable a loss has occurred but the amount simply cannot be estimated. There is an important lesson for you to learn from these rules: normally, accounting tends to be very conservative (when in doubt, book the liability), but this is not the case for contingent liabilities. Therefore, you should carefully read the notes to the financial statements before you invest or loan money to a company. There are sometimes significant risks that are simply not on the liability section of the balance sheet, because the only recognized contingencies are those meeting the rather strict criteria of “probable” and “reasonably estimable.” What about remote risks, like a frivolous lawsuit? Remote risks need not be disclosed; they are viewed as needless clutter. What about business decision risks, like deciding to reduce insurance coverage because of the high cost of the insurance premiums? GAAP is not very clear on this subject; such disclosures are not required, but are not discouraged. What about contingent assets/gains, like a company’s claim against another for patent infringement? GAAP does not permit the recognition of such amounts before settlement payments are actually received.
+
+14 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Current Liabilities and Employer Obligations
+
+3.2 Timing of Events
+If a customer was injured by a defective product in Year 1 (assume the company anticipates a large estimated loss from a related claim), but the company did not receive notice of the event until Year 2 (but before issuing Year 1’s financial statements), the event would nevertheless impact Year 1 financial statements. The reason is that the event (“the injury itself”) giving rise to the loss arose in Year 1. Conversely, if the injury occurred in Year 2, Year 1’s financial statements would not be adjusted no matter how bad the financial effect. However, a note to the financial statements may be needed to explain that a material adverse event arising subsequent to year end has occurred.
+
+3.3 Warranty Costs
+Product warranties are presumed to give rise to a probable liability that can be estimated. When goods are sold, an estimate of the amount of warranty costs to be incurred on the goods should be recorded as expense, with the offsetting credit to a Warranty Liability account. As warranty work is performed, the Warranty Liability is reduced and Cash (or other resources used) is credited. In this manner, the expense is recorded in the same period as the sale (matching principle). Following are illustrative entries for warranties. In reviewing these entries, carefully note the accompanying explanations:
+
+15 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Current Liabilities and Employer Obligations
+
+XX-XX-XX
+
+Cash Sales
+To record sales
+
+1,000,000 1,000,000
+
+XX-XX-XX
+
+Warranty Expense Warranty Liability
+To record estimated warranty cost equal to 3% of sales ($1,000,000 X 3%)
+
+30,000 30,000
+
+XX-XX-XX
+
+Warranty Liability Cash
+Repaired defective products under warranty at a cost of $5,000
+
+5,000 5,000
+
+The analytics of warranty calculations require consideration of beginning WARRANTY LIABILITY balances, additional accruals, and Beginning Balance warranty work performed. For 80,000 25,000 example, assume Zeff Company had 70,000 a beginning of year Warranty Liability 80,000 95,000 account balance of $25,000. Zeff sells 15,000 Additional goods subject to a one-year warranty, Work Accruals Performed expecting to incur warranty costs ($3,500,000) X 2% equal to 2% of sales. During the year, an additional $3,500,000 in product sales Ending Balance occurred and $80,000 was actually spent on warranty work. How much is the end of year Warranty Liability? The T-account reveals the logic that results in an ending warranty liability of $15,000. Ask yourself what entries Zeff would make during the year based on these calculations. The entries will be just like those above, but for the revised amounts. The beginning warranty liability (credit balance of $25,000), plus the additional credit to Warranty Liability ($70,000), and minus the debit to Warranty Liability ($80,000) produces the ending Warranty Liability balance of $15,000. Many other costs are similar to warranties. Companies may offer coupons, prizes, rebates, air-miles, free hotel stays, free rentals, and similar items associated with sales activity. Each of these gives rise to the need to provide an estimated liability. While the details may very, the basic procedures and outcomes are similar to those applied to warranties.
+
+16 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Current Liabilities and Employer Obligations
+
+4. Payroll
+For most businesses, payroll is perhaps the most significant cost of doing business. And, correctly planning for and managing these costs is enormously important to a business. Employees don’t tend to stay long if a payday is missed, so payroll is truly the life’s blood of the business. Before looking at the special issues pertaining to payroll accounting, you should first understand who is an “employee.” Many services are provided to a business by other than employees. These services may include janitorial support, legal services, air conditioner repairs, audits, and so forth. An employee is defined as a person who works for a specific business and whose activities are directed by that business -- the business controls what will be done and how it will be done. In contrast, an independent contractor is one who performs a designated task or service for a company – the company has the right to control or direct only the result of the work done by an independent contractor. The distinction is very important because the payroll tax and record keeping requirements differ for employees and independent contractors. As a general rule, amounts paid to independent contractors do not involve any “tax withholdings” by the payer; however, the payer may need to report the amount paid to the Internal Revenue Service (IRS) on a Form 1099, with a copy to the independent contractor. But, the obligation for paying taxes rests with the independent contractor. The employer’s handling of payroll to employees is another matter entirely. Let us begin by considering the specifics of a paycheck. You may have some work experience, and if you do, you know that the amount you receive is not the amount you have earned. Your check was likely reduced by a variety of taxes, possibly including federal income tax, state income tax, and FICA (social security taxes and medicare/medicaid). Additionally, your check might have been reduced for insurance costs, retirement savings, charitable contributions, special health and child care deferrals, and other similar items. Before you feel singled out, you also need to know that your employer paid additional FICA contributions on your behalf, unemployment taxes, and maybe insurance costs, workers compensation costs, matching contributions to retirement programs, and other items. A business must correctly account for all of this activity.
+
+4.1 Gross Earnings
+The total earnings of an employee is the “gross pay.” For hourly employees, it is the number of hours worked multiplied by the hourly rate. For salaried employees, it is the flat amount for the period, such as $3,000 per month. Gross pay might be increased for both hourly and salaried employees based on applicable overtime rules. Employers are well advised to monitor statutes relating to overtime; by law, certain employees must be paid for overtime.
+
+17 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Current Liabilities and Employer Obligations
+
+4.2 Net Earnings
+Gross earnings less all applicable deductions is the “net pay.” Let’s examine a representative paycheck, and the attached stub, as shown on the next page: You will notice that I. M. Fictitious earned $3,000 during the month, but “took home” only $1,834. The difference was withheld by Unreal Corporation. The withholdings pertained to: Income taxes -- Employers are required to withhold federal, state (when applicable), and city (when applicable) income taxes from an employee’s pay. The withheld amounts must be remitted periodically to the government by the employer. In essence, the employer becomes an agent of the government, serving to collect amounts for the government. Withheld amounts that have yet to be remitted to the government are carried as a current liability on the employer’s books (recall the earlier mention of amounts collected for third parties). The level of withholdings are based on the employee’s level of income, the frequency of pay, marital status, and the number of withholding allowances claimed (based on the number of dependents). Employees claim withholding allowances by filing a form W-4 with their employer.
+
+18 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Current Liabilities and Employer Obligations
+
+**********************************************************************************************
+
+Unreal Corporation Payroll Account
+
+Check # Date:
+
+12345 July 31, 20XX
+
+Pay to the order of:
+
+I. M. Fictitious
+
+$1,83400
+
+***** ONETHOUSAND, EIGHTHUNDRED, THIRTYFOUR AND NO/100 DOLLARS ******
+
+NOT A REAL
+
+BANK
+Certainly Void
+$3,000.00 $349.00 117.00 180.00 45.00 175.00 200.00 25.00 75.00
+
+MEMO July payroll for Fictitious
+
+**********************************************************************************************
+
+Detach Below before depositing, and save for your records
+Employee: I. M. Fictitious Pay Period: July 20XX
+
+Gross Earnings Deductions: Federal Income Tax State Income Tax Social Security Medicare/Medicaid Insurance Retirement Savings Plan Charity Health/Child Care Flex Plan Net Pay
+
+1,166.00 $1,834.00
+
+It is very important for you to know that the employer’s obligation to protect withheld taxes and make certain they are timely remitted to the government is taken very seriously. Employers who fail to do so are subject to harsh penalties for the obvious reason that the funds do not belong to the employer. Likewise, employees who participate in, or are aware of misapplication of such funds can expect serious legal repercussions. You should never be a part of such an activity. The government has made it very simple for employers to remit withheld amounts, as most commercial banks are approved to accept such amounts from employers. Further, there are online systems that allow easy funds transfer. The frequency of the required remittance is dependent upon the size of the employer and the total payroll. Social Security/Medicare Taxes are also known as “FICA.” FICA stands for Federal Insurance Contributions Act. This Act establishes a tax that transfers money from workers to aged retirees (and certain other persons who are in the unfortunate position of not being able to fully provide for themselves due to disability, loss of a parent, or other serious problem). The social purpose of the tax is to provide a modest income stream to the beneficiaries. This component is the social security tax. Another component of the Act is the medicare/medicaid tax, which provides support for health care costs incurred by retirees (and designated others). You are perhaps aware that these taxes present an actuarial problem, as the aged population is growing relative to the number of workers. And, the tax is a transfer of money from one group to another, rather than being based upon an established insurance-like fund.
+
+19 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Current Liabilities and Employer Obligations
+
+The social security tax is presently a designated percentage of income, up to a certain maximum level of annual income per employee. After the maximum is reached, no further amounts are due for that year for that employee. The history of both the rate and maximum level is one of consistent increases over time. For illustrative purposes, I am assuming a 6% social security tax, on an annual income of $100,000. In the above pay stub, you will note that I. M. Fictitious paid $180 in social security tax for the month (6% X $3,000). Since Fictitious has not yet exceeded $100,000 in gross income for the year-to-date, the annual maximum has not been reached. Once Fictitious exceeds the annual limit (for most employees that never occurs), the tax would cease to be withheld -- only to resume anew in January of the following year. If this tax seems high, you need to know that the employee’s amount must be matched by the employer. Thus, the burden associated with this tax is actually twice what is apparent to most employees. The medicare/medicaid tax is also a designated percentage of income. Unlike the social security tax, there is no annual maximum. This tax is levied on every dollar of gross income, without regard to the employees total earnings. I have assumed a 1.5% rate in the above illustration (1.5% X $3,000 = $45). This is another tax the employer must match dollar-for-dollar. Other Employee Deductions typically occur for employee cost sharing in health care insurance programs, employee contributions to various retirement or other savings plans, charitable contributions, contributions to tax-advantaged health and child care savings programs (“flex accounts”), and so forth. In each case, the employer is acting to collect amounts from the employee, with a resultant fiduciary duty to turn the monies over to another entity.
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+20 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Current Liabilities and Employer Obligations
+
+4.3 The Journal Entry for Payroll
+I.M. Fictitious’ pay would be recorded as follows:
+7-31-XX Salaries Expense Federal Income Tax Payable State Income Tax Payable Social Security Payable 3,000 349 117 180 45 175 200 25 75 1,834
+
+*
+
+Medicare/Medicaid Payable Insurance Payable Retirement Contribution Payable Charitable Contribution Payable Health/Child Flex Payable Cash
+To record payroll of Fictitious
+
+Although not illustrated, as the company remits the withheld amounts to the appropriate entities (i.e., turns the taxes over to the government, retirement contributions to an investment trust, etc.), it would debit the related payable and credit cash.
+
+.
+
+21 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Current Liabilities and Employer Obligations
+
+4.4 Employer Payroll Taxes and Contributions
+Recall from above, that social security and medicare/medicaid tax amounts must be matched by employers. In addition, the employer must pay federal and state unemployment taxes. These taxes are levied to provide funds that are paid to workers who are temporarily unable to find employment. The bulk of unemployment tax is usually levied at the state level since most states choose to administer their own unemployment programs (which is encouraged by the federal government via a system of credits to the federal tax rate). The specific rates will depend on the particular state of employment, and each individual employer’s history. Employers who rarely release employees get a favorable rate (since they don’t contribute to unemployment problems), but those who do not maintain a stable labor pool will find their rates going higher. Like social security, the unemployment tax stops each year once a certain maximum income level is reached. In this text, I will assume the federal rate is one-half of one percent (0.5%), and the state rate is three percent (3%), on a maximum income of $10,000. Thus, I assume the federal unemployment tax (FUTA) is capped at $50 per employee and the state unemployment tax (SUTA) is capped at $300. Many employers will carry workers’ compensation insurance. The rules about this type of insurance vary from state to state. Generally, this type of insurance provides for payments to workers who sustain on-the-job injuries, and shields the employer from additional claims. But, for companies that do not carry such insurance, the employer has an unlimited exposure to claims related to work place injuries. Nevertheless, the cost of this insurance can be very high (for risky work, like construction), and some employers don’t carry such policies. Please be advised that these are very general statements; if you have specific questions about the rules in your state, you should consult appropriate counsel and not rely on this generalization. Many employers will provide health care insurance and retirement plan contributions. These amounts can often be substantial, perhaps even exceeding the amounts contributed by employees on their own behalf. As you can see, the employer’s cost of an employee goes well beyond the amount reported on the pay check. For many companies, the total cost of an employee can be 125% to 150% of the gross earnings. Of course, these added costs also need to be entered in the accounting records. Below is the entry for I. M. Fictitious:
+
+22 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Current Liabilities and Employer Obligations
+
+7-31-XX
+
+Payroll Tax Expense Employee Benefits Expense Social Security Payable Medicare/Medicaid Payable
+
+225 675 180 45 0 0 475 200
+
+*
+
+FUTA Payable SUTA Payable Insurance Payable Retirement Contribution Payable
+To record employer portion of payroll taxes and benefits
+
+In preparing this entry it was assumed that (a) FUTA and SUTA bases had already been exceeded earlier in 20XX (hence the related amounts are zero), (b) the employer exactly matched employee contributions to insurance and retirement programs, and (c) the employer incurred workers’ compensation insurance of $300 (bringing total insurance to $475 ($175 + $300)). Note that additional accounts could be used to separate employee benefits expense into more specific sub components (like insurance expense, retirement plan expense, etc.).
+
+4.5 Annual Reports
+Each employee and the Internal Revenue Service is to receive an annual statement regarding compensation. Shortly after the conclusion of a calendar year, an employer must review their employee records and prepare a summary wage and tax statement (commonly called a W-2). This information helps employees accurately prepare their own annual federal and state income tax returns, and allows the government to verify amounts reported by those individual taxpayers.
+
+4.6 Accurate Payroll Systems
+As you can tell, accuracy is vital in payroll accounting. Oftentimes, a business may hire an outside firm that specializes in payroll management and accounting. The business then need only provide the outside firm with information about time worked by each employee (and of course the money to cover the gross payroll). The outside firm manages the rest -- providing individual paychecks/deposits, payroll recordkeeping, government compliance reporting, timely processing of tax deposits, and the like. For many businesses, being relieved of the burden of payroll processing is a great relief and allows them to focus on their product and customer. But, when a business manages its own payroll, very accurate data must be maintained. Most firms will set up a separate payroll journal or data base that tracks information about each employee, as well as in the aggregate. In addition, it is quite common to open a separate payroll bank account into which the gross pay is transferred and from which paychecks and tax payments are disbursed. This system provides an added control to make sure that employee funds are properly maintained, processed, and reconciled.
+
+23 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Current Liabilities and Employer Obligations
+
+5. Other Components of Employee Compensation
+Paid vacations are another element of compensation that many employees receive. In addition to paid vacations, employers may provide for other periods of “compensated absences.” Examples include paid sick leave, holidays, family emergency time, “comp time” (payback for working overtime), birthdays, jury duty time, military reserve time, and so forth. Sometimes, these benefits accumulate with the passage of time, so that the benefit is a function of tenure with the company. To illustrate, a company may stipulate that one half-day of sick leave and one day of vacation time is accrued for each month of employment. Because the cost of periods of compensated absence can become quite significant, it is imperative that such amounts be correctly measured and reported. Accounting rules provide that companies expense (debit) and provide a liability (credit) for such accumulated costs when specified conditions are present. Those conditions are that the accumulated benefit (1) relates to services already rendered, (2) is a right that vests or accumulates, (3) is probable to be paid to the employee, and (4) can be reasonably estimated (note that the last two conditions -- probable and reasonably estimable – are purloined from the contingency rules discussed earlier). Vacation pay typically meets these conditions for accrual, while other costs may or may not depending upon the individual company’s policies and history. The bottom line here, is that a company will expense the cost of periods of compensated absence as those benefits are earned by the employee (another example of the matching principle); when the employee receives their pay during their time off, the attendant liability will then be reduced.
+
+5.1 Pension Plans
+It is common for a company to offer some form of retirement plan for its employees. These were touched upon in the above illustrated entries. But, more needs to be said about such plans. First, I must point out that this is a very complex area of accounting. Most intermediate textbooks will devote a full chapter to this subject alone, and reducing the discussion to a few paragraphs is a daunting challenge for any author. Let me begin by noting that there are two broad types of pensions -- defined contribution plans and defined benefit plans. With a defined contribution plan, an employer promises to make a periodic contribution (usually a set percentage of the employee’s salary with some matching portion also put up by the employee) into a separate pension fund account. After a minimum vesting period, the funds become the property of the employee for their benefit once they enter retirement. Prior to withdrawal, the funds might be invested in stocks, bonds, or other approved investments. The employee will receive the full benefit of the funds and the investment returns, usually withdrawing them gradually after retirement. With defined contribution type plans, there will be winners and losers. If such funds are invested well for long periods, they can grow to substantial sums and employees can enjoy great retirement benefits. On the other hand, some persons will be disappointed when the investment performance of their fund fails to meet target performance standards.
+
+24 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Current Liabilities and Employer Obligations
+
+For the employer, defined contribution plans offer an important desirable feature: the employer’s obligation is known and fixed. Risk is transferred to the employee. Further, the employer ordinarily gets a tax deduction for its contribution, even though the employee does not recognize that contribution as taxable income until amounts are withdrawn from the pension many years later. Another aspect of defined benefit plans is that the accounting is straight-forward. The company merely expenses the required periodic contribution as incurred. Thus the company expenses the retirement plan payment (like in the journal entries above), and no further accounting on the corporate books is necessitated. The pension assets and obligations are effectively transferred to a separate pension trust, greatly simplifying the recordkeeping of the employer. In stark contrast are the defined benefit plans. With these plans the employer’s promise becomes more elaborate, and its cost far more uncertain. For example, the company may agree to make annual pension payments equal to 2% (for each year of service) times the average annual salary during the last three years of employment. So, a person who works 30 years and then retires, may be eligible for continuing pay at 60% of their average salary during the last years of employment. Obviously, these plans are fraught with uncertainty. How long will retirees live and draw benefits, how many years will employees work, how much will their salary be, and so on?
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+25 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Current Liabilities and Employer Obligations
+
+Accountants typically rely on actuaries (persons trained and skilled to make assessments about life expectancy and related work force trends) to come up with certain core estimates. Then, those estimates are leveraged into an elaborate accounting model that attempts to produce an estimated annual expense for the eventual pension cost. Some or all of that estimate is funded each year by a transfer of money into a pension trust fund. Those funds are invested and eventually disbursed to retirees, but the company remains obligated for any shortfalls in the pension trust. On the corporate books, you will find the amount of expense attributed to each year (remember, this amount is only an estimate of actual cost since the true cost will not be known for many years to come). Beyond that, if a company has failed to fund all the amounts expensed to date, or if the pension fund is “underfunded” relative to outstanding pension promises made, a pension liability is reported on its balance sheet. But, the bulk of the pension assets and obligations are carried on the books of the separate pension trust fund. There has been a clear trend in recent years away from defined benefit plans and toward defined contribution plans. Contributing factors have been to reduce corporate risk, simplify corporate accounting, provide benefits more suitable for transitory work forces, and satisfy workers who perceive that their own investment returns generated via defined contribution plans will produce a better retirement.
+
+5.2 Other Post Retirement Benefits
+Some companies provide items like health care coverage, prescriptions, and life insurance. It is not uncommon for an employee to continue to enjoy such benefits after retirement. However, because the employee is no longer working for the company, it is imperative that corporate cost of such benefits be expensed during the period of time during which the employee is actively working for the company and helping it to produce revenues. Again, the matching idea comes into play, where we must expense costs to match the revenue they help to produce. As a result, companies will expense the estimated cost of post retirement benefits over many years, creating an offsetting liability. In later years, as the cost of post retirement benefits is paid out, the liability is accordingly reduced. (Note: as with pensions, portions of the liability may appear in the current liability section of the balance sheet, and portions in the long-term section).
+
+26 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+Long-Term Obligations
+Part 2
+Your goals for this “long-term obligations” chapter are to learn about: x Long-term notes and present value concepts. x The nature of bonds and related terminology. x Accounting for bonds payable, whether issued at par, a premium or discount. x Effective-interest amortization methods. x Special considerations for bonds issued between interest dates and for bond retirements. x Analysis, commitments, alternative financing arrangements, leases, and fair value measurement.
+
+27 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+6. Long-Term Notes
+The previous chapter illustrations of notes were based on the assumption that the notes were of fairly short duration. Now, let’s turn our attention to longer term notes. A borrower may desire a longer term for their loan. It would not be uncommon to find two, three, five-year, and even longer term notes. These notes may evidence a “term loan,” where “interest only” is paid during the period of borrowing and the balance of the note is due at maturity. The entries are virtually the same as you saw in the previous chapter. As a refresher, assume that Wilson issued a five-year, 8% term note – with interest paid annually on September 30 of each year:
+10-1-X3 Cash Note Payable
+To record note payable at 8% per annum; maturity date on 9-30-X8
+
+10,000 10,000
+
+12-31-XX
+
+Interest Expense Interest Payable
+To record accrued interest for 3 months ($10,000 X 8% X 3/12) at end of each year
+
+200 200
+
+9-30-XX
+
+Interest Expense Interest Payable Cash
+To record interest payment ($10,000 X 8% = $800, of which $200 was previously accrued at the prior year end) each September
+
+600 200 800
+
+*
+
+9-30-X8
+
+Interest Expense Interest Payable Note Payable Cash
+To record final interest payment and balance of note at maturity
+
+600 200 10,000 10,800
+
+Other notes may require level payments over their terms, so that the interest and principal are fully paid by the end of their term. Such notes are very common. You may be familiar with this type of arrangement if you have financed a car or home. By the way, when you finance real estate, payment of the note is usually secured by the property being financed (if you don’t pay, the lender can foreclose on the real estate and take it over). Notes thus secured are called “mortgage notes.”
+
+28 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+6.1 How do I Compute the Payment on a Note?
+With the term note illustrated above, it was fairly easy to see that the interest amounted to $800 per year, and the full $10,000 balance was due at maturity. But, what if the goal is to come up with an equal annual payment that will pay all the interest and principal by the time the last payment is made? From my years of teaching, I know that students tend to perk up when this subject is covered. It seems to be a relevant question to many people, as this is the structure typically used for automobile and real estate (“mortgage”) financing transactions. So, now you are about to learn how to calculate the correct amount of the payment on such a loan. The first step is to learn about future value and present value calculations.
+
+6.2 Future Value
+Let us begin by thinking about how invested money can grow with interest. What will be the future value of an investment? If you invest $1 for one year, at 10% interest per year, how much will you have at the end of the year? The answer, of course, is $1.10. This is calculated by multiplying the $1 by 10% ($1 X 10% = $0.10) and adding the $0.10 to the dollar you started with. And, if the resulting $1.10 is invested for another year at 10%, how much will you have? The answer is $1.21. That is, $1.10 X 10% = $0.11, which is added to the $1.10 you started with. This process will continue, year after year. The annual interest each year is larger than the year before because of “compounding.” Compounding simply means that your investment is growing with accumulated interest, and you are earning interest on previously accrued interest that becomes part of your total investment pool. In contrast to “compound interest” is “simple interest” that does not provide for compounding, such that $1 invested for two years at 10% would only grow to $1.20. Not to belabor the mathematics of the above observation, but you should note the following formula: (1+i) Ķ Where “i” is the interest rate per period and “n” is the number of periods The formula will reveal how much an investment of $1 will grow to after “n” periods. For example, (1.10)² = 1.21. Or, if $1 was invested for 5 years at 6%, then it would grow to about $1.34 ((1.06)5 = 1.33823). Of course, if $1,000 was invested for 5 years at 6%, it would grow to $1,338.23; this is determined by multiplying the derived factor times the amount invested at the beginning of the 5year period. Hopefully, you will see that it is not a great challenge to figure out how much an upfront lump sum investment can grow to become after a given number of periods at a stated interest rate. This calculation is aptly termed the “future value of a lump sum amount.” Future Value Tables are available that include precalculated values (the tables are found in the Appendix to this book). See if you can find the 1.33823 factor in a future value table. Likewise, use the table to determine that $5,000, invested for 10 years, at 4%, will grow to $7,401.20 ($5,000 X 1.48024).
+
+29 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+6.3 Present Value
+Present value is the opposite of future value, as it reveals how much a dollar to be received in the future is worth today. The math is simply the reciprocal of future value calculations: 1/(1+i) Ķ Where “i” is the interest rate per period and “n” is the number of periods For example, $1,000 to be received in 5 years, when the interest rate is 7%, is presently worth $712.99 ($1,000 X (1/(1.07)5). Stated differently, if $712.99 is invested today, it will grow to $1,000 in 5 years. Present Value Tables are available in the appendix. Use the table to find the present value of $50,000 to be received in 8 years at 8%; it is $27,013.50 ($50,000 X .54027).
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+30 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+6.4 Annuities
+Streams of level (i.e., the same amount each period) payments occurring on regular intervals are termed “annuities.” For example, if you were to invest $1 at the beginning of each year at 5% per annum, after 5 years you would have $5.80. This amount can be painstakingly calculated by summing the future value amount associated with each individual payment, as shown at below.
+
+Year of Investment 1 (amount will be invested 5 years) 2 (amount will be invested 4 years) 3 (amount will be invested 3 years) 4 (amount will* be invested 2 years) 5 (amount will be invested 1 year)
+
+Future Value Factor From Table 1.27628 1.21551 1.15763 1.10250 1.05000
+
+Payment $1 $1 $1 $1 $1
+
+Value of Payment at End of 5th Year $1.27628 $1.21551 $1.15763 $1.10250 $1.05000 $5.80192
+
+But, it is much easier to use to an Annuity Future Value Table. The annuity table is simply the summation of individual factors. You will find the “5.80191 “ factor in the 5% column, 5 year row. These calculations are useful in financial planning. For example, you may wish to have a target amount accumulated by a certain age, such as with a retirement contribution account. These tables will help you calculate the amount you need to set aside each period to reach your goal. See the book Appendix for this table. Conversely, you may be interested in an Annuity Present Value Table. This table (which is simply the summation of amounts from the lump sum present value table - with occasional rounding) shows factors that can be used to calculate the present worth of a level stream of payments to be received at the end of each period. This table is found in the Appendix to the book. Can you use the table to find the present value of $1,000 to be received at the end of each year for 5 years, if the interest rate is 8% per year, is $3,992.71? Look at the 5 year row, 8% column and you will see the 3.99271 factor.
+
+6.5 Returning to the Original Question
+How do you compute the payment on a typical loan that involves even periodic payments, with the final payment extinguishing the remaining balance due? The answer to this question is found in the present value of annuity calculations. Remember that an annuity involves a stream of level payments, just like many loans. Now, think of the payments on a loan as a series of level payments that covers both the principal and interest. The present value of those payments is the amount you borrowed, in essence removing (“discounting”) out the interest component. This may still be a bit abstract, and can be further clarified with some equations. You know the following to be true for an annuity:
+
+31 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+Present Value of Annuity = Payments X Annuity Present Value Factor A loan that is paid off with a series of equal payments is also an annuity, therefore: Loan Amount = Payments X Annuity Present Value Factor Thus, to determine the annual payment to satisfy a $100,000, 5-year loan at 6% per annum: $100,000 = Payment X 4.21236 (from table) Payment = $100,000/4.21236 Payment = $23,739.64 You can safely conclude that 5 payments of $23,739.64 will exactly pay off the $100,000 loan and all interest. Simply stated, the payments on a loan are just the loan amount divided by the appropriate present value factor. To fully and finally prove this point, let’s look at a typical loan amortization table. This table will show how each payment goes to pay the accumulated interest for the period, and reduce the principal, such that the final payment will pay the remaining interest and principal. You should study this table carefully:
+Beginning of Year Loan Balance
+$100,000.00 $82,260.36 $63,456.34 $43,524.08 $22,395.89
+
+Yr
+1 2 3 4 5
+
+Interest on Beginning Balance
+$6,000
+($100,000.00 X 6%)
+
+Amount of Payment
+$23,739.64 $23,739.64 $23,739.64 $23,739.64 $23,739.64
+
+Principal Reduction (payment minus interest)
+$17,739.64
+($23,739.64 - $6,000.00)
+
+End of Year Loan Balance
+$82,260.36
+($100,000.00 - $17,739.64)
+
+$4,935.62
+($82,260.36 X 6%)
+
+$18,804.02
+($23,739.64 - $4,935.62)
+
+$63,456.34
+($82,260.36 - $18,804.02)
+
+$3,807.38
+($63,456.34 X 6%)
+
+$19,932.26
+($23,739.64 - $3,807.38)
+
+$43,524.08
+($63,456.34 - $19,932.26)
+
+$2,611.44
+($43,524.08 X 6%)
+
+$21,128.20
+($23,739.64 - $2,611.44)
+
+$22,395.89
+($43,524.38 - $21,128.20)
+
+$1,343.75
+($22,395.89 X 6%)
+
+$22,395.89
+($23,739.64 - $1,343.75)
+
+$0
+($22,395.89 - $22,395.89)
+
+32 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+The journal entries associated with the above loan would flow as follows:
+1-1-X1 Cash Note Payable
+To record note payable
+
+Pennies 100,000 100,000.00 6,000.00 17,739.64 23,739.64
+
+12-31-X1
+
+Interest Expense Note Payable Cash
+To record interest payment
+
+12-31-X2
+
+Interest Expense Note Payable Cash
+To record interest payment
+
+4,935.62 18,804.02 23,739.64
+
+12-31-X3
+
+Interest Expense Note Payable Cash
+To record interest payment
+
+3,807.38 19,932.26 23,739.64
+
+12-31-X4
+
+Interest Expense Note Payable Cash
+To record interest payment
+
+2,611.44 21,128.20 23,739.64
+
+12-31-X5
+
+Interest Expense Note Payable Cash
+To record interest payment
+
+1,343.75 22,395.89 23,739.64
+
+33 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+6.6 A Few Final Comments on Future and Present Value
+x Be very careful in performing annuity related calculations, as some scenarios may involve payments at the beginning of each period (as with the future value illustration above, and the accompanying future value tables), while other scenarios will entail end-of-period payments (as with the note illustration, and the accompanying present value table). In later chapters of this book, you will be exposed to additional future and present value tables and calculations for alternatively timed payment streams (e.g., present value of an annuity with payments at the beginning of each period). Payments may occur on other than an annual basis. For example, a $10,000, 8% per annum loan, may involve quarterly payments over two years. The quarterly payment would be $1,365.10 ($10,000/7.32548). The 7.32548 present value factor is reflective of 8 periods (four quarters per year for two years) and 2% interest per period (8% per annum divided by four quarters per year). This type of modification does not only pertain to annuities, but also to lump sums. For example, the present value of $1 invested for five years at 10% compounded semiannually can be determined by referring to the 5% column, ten-period row.
+
+x
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+34 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+x
+
+Numerous calculators include future and present value functions. If you have such a machine, you should become familiar with the specifics of its operation. Likewise, spreadsheet software normally includes embedded functions to help with fundamental present value, future value, and payment calculations. Following is a screen shot of one such routine:
+
+35 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+7. Bond Payable
+A borrower may split a large loan into many small units. Each of these units (or bonds) is essentially a note payable. Investors will buy these bonds, effectively making a loan to the issuing company. Bonds were introduced, from an investor’s perspective, in the Long – term Investments chapter. The specific terms of a bond issue are specified in a bond indenture. This indenture is a written document defining the terms of the bond issue. In addition to making representations about the interest payments and life of the bond, numerous other factors must be addressed: x Are the bonds secured by specific assets that are pledged as collateral to insure payment? If not, the bonds are said to be debenture bonds; meaning they do not have specific collateral but are only as good as the general faith and credit of the issuer. What is the preference in liquidation in the event of failure? Agreements may provide that some bonds are paid before others. To whom and when is interest paid? In the past, some bonds were coupon bonds, and these bonds literally had detachable interest coupons that could be stripped off and cashed in on specific dates. One reason for coupon bonds was to ease the recordkeeping burden on bond issuers -- they merely paid coupons that were turned in for redemption. Coupon bonds also had certain tax implications that are no longer substantive. But, in modern times, most bonds are registered to an owner. Computerized information systems now facilitate tracking bond owners, and interest payments are commonly transmitted electronically to the registered owner. Registered bonds are in contrast to bearer bonds, where the holder of the physical bond instrument is deemed to be the owner (bearer bonds are rare in the modern economic system). Must the company maintain a required sinking fund? A sinking fund bond may sound bad, but it is quite the opposite. In the context of bonds, a sinking fund is a required escrow account into which monies are periodically transferred to insure that funds will be available at maturity to satisfy the obligation. As an alternative, some companies will issue serial bonds. Rather than the entire issue maturing at once, portions of the serial issue will mature on select dates spread over time. Can the bond be converted into stock? One “exciting” type of bond is a convertible bond. These bonds enable the holder to exchange the bond for a predefined number of shares of corporate stock. The holder may plan on getting paid the interest plus face amount of the bond, but if the company’s stock explodes upward in value, the holder may do much better by trading the bonds for appreciated stock. Why would a company issue convertibles? First, investors love these securities (for obvious reasons) and are usually willing to accept lower interest rates than must be paid on bonds that are not convertible. Another factor is that the company may contemplate its stock going up; by initially borrowing money and later exchanging the debt for stock, the company may actually get more money for its stock than it would have had it issued the stock on the earlier date.
+
+x
+
+x
+
+x
+
+x
+
+36 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+x
+
+Is the company able to call the debt? Callable bonds provide a company with the option of buying back the debt at a prearranged price before its scheduled maturity. If interest rates go down, the company may not want to be saddled with the higher cost obligations and can escape the obligation by calling the debt. Sometimes, bonds cannot be called. For example, suppose a company is in financial distress and issues high interest rate debt (known as “junk bonds”) to investors who are willing to take a chance to bail out the company. If the company is able to manage a turnaround, the investors who took the risk and bought the bonds don’t want to have their “high yield” stripped away with an early payoff before scheduled maturity. Bonds that cannot be paid off earlier are sometimes called nonredeemable. If you invest in bonds, and want to buy nonredeemable debt, be careful not to confuse it with nonrefundable. Nonrefundable bonds can be paid off early, so long as the payoff money is coming from operations rather than an alternative borrowing arrangement. Lastly, you should note that convertible bonds will almost always be callable, enabling the company to force a holder to either cash out or convert. The company will reserve this call privilege because they will want to stop paying interest (by forcing the holder out of the debt) once the stock has gone up enough to know that a conversion is inevitable.
+
+Your head is probably spinning with all these new terms, and you can see that bonds are potentially complex financial instruments. Who enforces all of the requirements for a company’s bond issue? Within the bond indenture agreement should be a specified bond trustee. This trustee may be an investment company, law firm, or other independent party. The trustee is to monitor compliance with the terms of the agreement, and has a fiduciary duty to intervene to protect the investor group if the company runs afoul of its covenants.
+
+37 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+8. Accounting for Bonds Payable
+Cash Flow facts 8% stated rate A bond payable is just a promise to pay a stream of payments over time (the interest component), and a fixed amount at maturity (the face amount). Thus, it is a blend of an annuity (the interest) and lump sum payment (the face). To determine the amount an investor will pay for a bond, therefore, requires some present value computations to determine the current worth of the future payments. To illustrate, let’s assume that Schultz Company issues 5-year, 8% bonds. Bonds frequently have a $1,000 face value, and pay interest every six months. To be realistic, let’s hold to these assumptions. Par scenario Market rate of 8% If 8% is the market rate of interest for companies like Schultz (i.e., companies having the same perceived integrity and risk), when Schultz issues its 8% bonds, then Schultz’s bonds should sell at face value (also known as “par” or “100”). That is to say, investors will pay $1,000 for a bond and get back $40 every six months ($80 per year, or 8% of $1,000). At maturity they will also get their $1,000 investment back. Thus, the return on the investment will equate to 8%.
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+38 Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+Premium scenario Market rate of 6% On the other hand, if the market rate is only 6%, then the Schultz bonds look pretty good because of their higher stated 8% interest rate. This higher rate will induce investors to pay a premium for the Schultz bonds. But, how much more will they pay? The answer to this question is that they will bid up the price to the point that the effective yield (in contrast to the stated rate of interest) drops to only equal the going market rate of 6%. Thus investors will pay more than $1,000 to gain access to the $40 interest payments every six months and the $1,000 payment at maturity. The exact amount they will pay is determined by discounting (i.e., calculating the present value) the stream of payments at the market rate of interest. This calculation is demonstrated below, followed by an additional explanation. Discount scenario Market rate of 10% Also, consider the alternative scenario. If the market rate is 10% when the 8% Schultz bonds are issued, then no one would want the 8% bonds unless they can be bought at a discount. How much discount would it take to get you to buy the bonds? The discount would have to be large enough so that the effective yield on the initial investment would be pushed up to 10%. That is to say, your price for the bonds would be low enough so that the $40 periodic payment and the $1,000 at maturity would give you the requisite 10% market rate of return. The exact amount is again determined by discounting (i.e., calculating the present value) the stream of payments at the market rate of interest.
+
+AXA Global Graduate Program
+Find out more and apply
+
+39 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+The table below calculates the price under the three different assumed market rate scenarios:
+CASH FLOW FACTS 8% STATED RATE Payment Amount $40.00* $1,000.00 PAR SCENARIO MARKET RATE OF 8% Present Value Factors at 4%, 10 Periods 8.11090 0.67556 Present Value (amount X factor) $324.44 $675.56 $1,000.00 PREMIUM SCENARIO MARKET RATE OF 6% Present Value Factors at 3%, 10 Periods 8.53020 0.74409 Present Value (amount X factor) $341.21 $744.09 $1,085.30 DISCOUNT SCENARIO MARKET RATE OF 10% Present Value Factors at 5%, 10 Periods 7.72173 0.61391 Present Value (amount X factor) $308.87 $613.91 $922.78
+
+Periodic Interest Maturity Value
+
+To further explain, the interest amount on the $1,000, 8% bond is $40 every six months. Since the bonds have a 5-year life, there are 10 interest payments (or periods). The periodic interest is an annuity with a 10-period duration, while the maturity value is a lump-sum payment at the end of the tenth period. The 8% market rate of interest equates to a semiannual rate of 4%, the 6% market rate scenario equates to a 3% semiannual rate, and the 10% rate is obviously 5% per semiannual period. The present value factors are taken from the present value tables (annuity and lump-sum, respectively). You should take time to trace the factors to the appropriate tables. The present value factors are multiplied times the payment amounts, and the sum of the present value of the components would equal the price of the bond under each of the three scenarios. Note that the 8% market rate assumption produced a bond priced at $1,000, the 6% assumption produced a bond priced at $1,085.30 (which includes an $85.30 premium), and the 10% assumption produced a bond priced at $922.78 (which includes a $77.22 discount). These calculations are not only correct theoretically, but you will find that they are very accurate financial tools -- reality will emulate theory. But, one point is noteworthy. Bond pricing is frequently done to the nearest 1/32nd. That is, a bond might trade at 103.08. You could easily misinterpret this price as $1,030.80. But, it actually means 103 and 8/32. In dollars, this would come to $1,032.50 ($1,000 X 103.25). So, now you should understand the theory and mechanics of how a bond is priced. It is time to examine the correct accounting.
+
+40 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+8.1 Bond Issued at Par
+If Schultz issued 100 of its bonds at par, the following entries would be required, and probably require no additional explanation:
+1-1-X1 Cash Bonds Payable
+To record issuance of 100, 8%, 5-year bonds at par (100 X $1,000 each)
+periodically
+
+100,000 100,000
+
+Interest Expense Cash
+To record interest payment (this entry occurs on every interest payment date at 6 month intervals -- $100,000 X 8% X 6/12)
+
+4,000 4,000
+
+*
+
+12-31-X5
+
+Bonds Payable Cash
+To record payment of face value at maturity
+
+100,000 100,000
+
+8.2 Bond Issued at Premium
+You will likely need to reread this paragraph several times before it really starts to sink in. One very simple way to consider bonds issued at a premium is to reduce accounting to its simplest logic - counting money! If Schultz issues 100 of the 8%, 5-year bonds when the market rate of interest is only 6%, then the cash received is $108,530 (see the previous discussion for the related calculations). Schultz will have to repay a total of $140,000 ($4,000 every 6 months for 5 years, plus $100,000 at maturity). Thus, Schultz will repay $31,470 more than was borrowed ($140,000 $108,530). This $31,470 must be expensed over the life of the bond; uniformly spreading the $31,470 over 10 six month periods produces periodic interest expense of $3,147 (do not confuse this amount with the cash payment of $4,000 that must be paid every six months!). Another way to consider this problem is to note that total borrowing cost is reduced by the $8,530 premium, since less is to be repaid at maturity than was borrowed up front. Therefore, the $4,000 periodic interest payment is reduced by $853 of premium amortization each period ($8,530 premium amortized on a straight line basis over the 10 periods), producing the periodic interest expense of $3,147 ($4,000 $853)!
+
+41 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+This topic is inherently confusing, and the journal entries are actually helpful in clarifying your understanding. As you look at these entries, notice that the premium on bonds payable is carried in a separate account (unlike accounting for investments in bonds covered in a prior chapter, where the premium was simply included with the Investment in Bonds account).
+1-1-X1 Cash Premium on Bonds Payable Bonds Payable
+To record issuance of 100, 8%, 5-year bonds at premium
+periodically
+
+108,530 8,530 100,000
+
+Interest Expense Premium on Bonds Payable Cash
+To record interest payment (this entry occurs on every interest payment date at 6 month intervals) and amortization of premium
+
+3,147 853 4,000
+
+*
+
+12-31-X5
+
+Bonds Payable Cash
+To record payment of face value at maturity
+
+100,000 100,000
+
+42 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+By carefully studying the following illustration you will observe that the Premium on Bonds Payable is established at $8,530, then reduced by $853 every interest date, bringing the final balance to zero at maturity.
+
+Net Book Value Period Ending
+6-30-X1 12-31-X1 6-30-X2 12-31-X2 6-30-X3 12-31-X3 6-30-X4 12-31-X4 6-30-X5 12-31-X5
+
+Interest Expense
+(Cash Paid less Premium Amortization)
+
+Bonds Payable
+$ 100,000 100,000 100,000 100,000 100,000 100,000 100,000 100,000 100,000 100,000 100,000
+
+Unamortized Premium
+$ 8,530 7,677 6,824 5,971 5,118 4,265 3,412 2,559 1,706 853 0
+
+(Bonds Payable plus Unamortized Premium)
+
+$ 108,530 107,677 106,824 105,971 105,118 104,265 103,412 102,559 101,706 100,853 100,000 $ 3,147 3,147 3,147 3,147 3,147 3,147 3,147 3,147 3,147 3,147
+
+*
+
+On any given financial statement date, Bonds Payable is reported on the balance sheet as a liability, along with the unamortized Premium appended thereto (known as an “adjunct” account). To illustrate, the balance sheet disclosure as of 12-31-X3 would appear as follows:
+Long-term Liabilities Bonds payable Plus: * Unamortized premium on bonds payable $ 100,000 3,412 $ 103,412
+
+The income statement for all of 20X3 would include $6,294 of interest expense ($3,147 X 2). This method of accounting for bonds issued at a premium is known as the straight-line amortization method, as interest expense is recognized uniformly over the life of the bond. The technique offers the benefit of simplicity, but it does have one conceptual shortcoming. Notice that interest expense is the same each year, even though the net book value of the bond (bond plus remaining premium) is declining each year due to amortization. As a result, interest expense each year is not exactly equal to the effective rate of interest (6%) that was implicit in the pricing of the bonds. For 20X1, interest expense can be seen to be roughly 5.8% of the bond liability ($6,294 expense divided by beginning of year liability of $108,530). For 20X4, interest expense is roughly 6.1% ($6,294 expense divided by beginning of year liability of $103,412). Accountants have devised a more precise approach to account for bond issues called the effective interest method. Be aware that the more theoretically correct effective interest method is actually the required method, except in those cases where the straight-line results do not differ materially. Effective-interest techniques are introduced in a following section of this chapter
+
+43 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+8.3 Bond Issued at a Discount
+If Schultz issues 100 of the 8%, 5-year bonds for $92,278 (when the market rate of interest is 10% -see the previous discussion for exact calculations), Schultz will still have to repay a total of $140,000 ($4,000 every 6 months for 5 years, plus $100,000 at maturity). Thus, Schultz will repay $47,722 ($140,000 - $92,278) more than was borrowed. This $47,722 must be expensed over the life of the bond; spreading the $47,722 over 10 six-month periods produces periodic interest expense of $4,772.20 (do not confuse this amount with the cash payment of $4,000 that must be paid every six months!). Another way to consider this problem is to note that the total borrowing cost is increased by the $7,722 discount, since more is to be repaid at maturity than was borrowed upfront. Therefore, the $4,000 periodic interest payment is increased by $772.20 of discount amortization each period ($7,722 discount amortized on a straight line basis over the 10 periods), producing periodic interest expense that totals $4,772.20! Now, let’s look at the entries for the bonds issued at a discount. Like bond premiums, discounts are also carried in a separate account.
+1-1-X1 Cash Discount on Bonds Payable Bonds Payable
+To record issuance of 100, 8%, 5-year bonds at discount
+periodically
+
+92,278 7,722 100,000
+
+Interest Expense Discount on Bonds Payable Cash
+To record interest payment (this entry occurs on every interest payment date at 6 month intervals) and amortization of discount
+
+4,772 772 4,000
+
+12-31-X5
+
+Bonds Payable Cash
+To record payment of face value at maturity
+
+100,000 100,000
+
+By carefully studying this illustration, you will observe that the Discount on Bonds Payable is established at $7,722, then reduced by $772.20 on every interest date, bringing the final balance to zero at maturity. On any given financial statement date, Bonds Payable is reported on the balance sheet as a liability, along with the unamortized Discount that is subtracted (known as a “contra” account). The illustration below shows the balance sheet disclosure as of June 30, 20X3. Note that the unamortized discount on this date is determined by calculations revealed in the table that follows:
+Long-term Liabilities Bonds payable Less: Unamortized discount on bonds payable $ 100,000 (3,861) $ 96,139
+
+44 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+Net Book Value Period Ending
+6-30-X1 12-31-X1 6-30-X2 12-31-X2 6-30-X3 12-31-X3 6-30-X4 12-31-X4 6-30-X5 12-31-X5
+
+Interest Expense
+(Cash Paid plus Discount Amortization)
+
+Bonds Payable
+$ 100,000.00 100,000.00 100,000.00 100,000.00 100,000.00 100,000.00 100,000.00 100,000.00 100,000.00 100,000.00 100,000.00
+
+Unamortized Discount
+$ 7,722.00 6,949.80 6,177.60 5,405.40 4,633.20 3,861.00 3,088.80 2,316.60 1,544.40 772.20 0
+
+(Bonds Payable less Unamortized Discount)
+
+$ 92,278.00 93,050.20 93,822.40 94,594.60 95,366.80 96,139.00 96,911.20 97,683.40 98,455.60 99,227.80 100,000.00 $ 4,772.20 4,772.20 4,772.20 4,772.20 4,772.20 4,772.20 4,772.20 4,772.20 4,772.20 4,772.20
+
+The income statement for each year would include $9,544.40 of interest expense ($4,772.20 X 2) under this straight-line approach. It again suffers from the same theoretical limitations that were discussed for the straight-line premium example. But, it is an acceptable approach if the results are not materially different from those that would result with the effective-interest amortization technique.
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+45 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+9. Affective-Interest Amortization Methods
+The theoretically preferable approach to recording premium and discount amortization is the effective-interest method. It recognizes interest expense as a constant percentage of the bond’s carrying value, rather than as an equal dollar amount each year. The theoretical merit rests on the fact that the interest calculation aligns with the basis on which the bond was priced; that is to say, the interest expense is calculated as the effective-interest rate times the bond’s carrying value for each period. The amount of amortization is the difference between the cash paid for interest and the calculated amount of bond interest expense.
+
+9.1 The Premium Illustration
+Recall that when Schultz issued its bonds to yield 6%, it received $108,530. Thus, effective interest for the first six months is $108,530 X 6% X 6/12 = $3,255.90. Of this amount, $4,000 is paid in cash and $744.10 ($4,000 - $3,255.90) is premium amortization. The premium amortization reduces the net book value of the debt to $107,785.90 ($108,530 - $744.10). This new balance would then be used to calculate the effective interest for the next period. This process would be repeated period after period. The following table demonstrates the full amortization process for the life of Schultz’s bonds.
+Beginning of Period Net Book Value of Bonds Payable
+$ 108,530.00 107,785.90 107,019.48 106,230.06 105,416.96 104,579.47 103,716.86 102,828.36 101,913.21 100,970.61
+
+Interest Expense
+(Net Book Value X 6% X 6/12)
+
+Period Ending
+6-30-X1 12-31-X1 6-30-X2 12-31-X2 6-30-X3 12-31-X3 6-30-X4 12-31-X4 6-30-X5 12-31-X5
+
+Amount of Payment
+$ 4,000.00 4,000.00 4,000.00 4,000.00 4,000.00 4,000.00 4,000.00 4,000.00 4,000.00 4,000.00
+
+Premium Amortization
+(payment minus expense)
+
+End of Period Net Book Value
+(beginning balance less amortization)
+
+$
+
+3,255.90 3,233.58 3,210.58 3,186.90 3,162.51 3,137.38 3,111.51 3,084.85 3,057.40 3,029.39
+
+$
+
+744.10 766.42 789.42 813.10 837.49 862.62 888.49 915.15 942.60 970.61
+
+$
+
+107,785.90 107,019.48 106,230.06 105,416.96 104,579.47 103,716.86 102,828.36 101,913.21 100,970.61 100,000.00
+
+*
+
+The initial journal entry to record the issuance of the bonds, and the final journal entry to record repayment at maturity would be identical to those demonstrated for the straight-line method. However, each journal entry to record the periodic interest expense recognition would vary and can be determined by reference to the above amortization table. For instance, the recording of interest on 6-30-X3 would appear as follows:
+
+46 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+6-30-X3
+
+Interest Expense Premium on Bonds Payable Cash
+To record interest payment and amortization of premium
+
+3,162.51 837.49 4,000.00
+
+The resulting balance sheet disclosure as of June 30, 20X3, would include the following:
+
+Long-term Liabilities Bonds payable * Plus: Unamortized premium on bonds payable $ 100,000 4,579 $ 104,579
+
+With effective-interest techniques, interest expense varies in direct proportion to the ever reducing amount of debt. Thus, interest expense is a constant percentage of the reported debt rather than a constant amount of expense as with the straight-line method.
+
+9.2 The Discount Illustration
+Recall that when Schultz issued its bonds to yield 10%, it received only $92,278. Thus, effective interest for the first six months is $92,278 X 10% X 6/12 = $4,613.90. Of this amount, $4,000 is paid in cash, and $613.90 is discount amortization. The discount amortization increases the net book value of the debt to $92,891.90 ($92,278.00 + $613.90). This new balance would then be used to calculate the effective interest for the next period. This process would be repeated period after period. The following table demonstrates the full amortization process for the life of Schultz’s bonds.
+Beginning of Period Net Book Value of Bonds Payable
+$ 92,278.00 92,891.90 93,536.50 94,213.32 94,923.99 95,670.19 96,453.69 97,276.38 98,140.20 99,047.21
+
+Interest Expense
+(Net Book Value X 10% X 6/12)
+
+Period Ending
+6-30-X1 12-31-X1 6-30-X2 12-31-X2 6-30-X3 12-31-X3 6-30-X4 12-31-X4 6-30-X5 12-31-X5
+
+Amount of Payment
+$ 4,000.00 4,000.00 4,000.00 4,000.00 4,000.00 4,000.00 4,000.00 4,000.00 4,000.00 4,000.00
+
+Discount Amortization
+(expense minus payment)
+
+End of Period Net Book Value
+(beginning balance plus amortization)
+
+$
+
+4,613.90 4,644.60 4,676.82 4,710.67 4,746.20 4,783.51 4,822.68 4,863.82 4,907.01 4,952.79
+
+$
+
+613.90 644.60 676.82 710.67 746.20 783.51 822.68 863.82 907.01 952.79
+
+$
+
+92,891.90 93,536.50 94,213.32 94,923.99 95,670.19 96,453.69 97,276.38 98,140.20 99,047.21 100,000.00
+
+47 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+be determined by reference to the above amortization table. For instance, the recording of interest on June 30, 20X3, would appear as follows:
+6-30-X3 Interest Expense Premium on Bonds Payable Cash
+To record interest payment and amortization of discount
+
+4,746.20 746.20 4,000.00
+
+*
+
+The resulting balance sheet disclosure as of June 30, 20X3, would include the following:
+Long-term Liabilities Bonds * payable Less: Unamortized discount on bonds payable $ 100,000 (4,330) $ 95,670
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+48 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+10. Bonds Issued Between Interest Dates and Bond Retirement
+This issue is best understood in the context of a specific example. Suppose Thompson Corporation proposed to issue $100,000 of 12% bonds, dated April 1, 20X1. However, despite the April 1 date, the actual issuance was slightly delayed, and the bonds were not sold until June 1. Nevertheless, the covenant pertaining to the bonds specifies that the first 6-month interest payment date will occur on September 30 in the amount of $6,000 ($100,000 X 12% X 6/12). In effect, interest for April and May has already accrued ($100,000 X 12% X 2/12 = $2,000) at the time the bonds are actually issued. To be fair, Thompson will collect $2,000 from the purchasers of the bonds at the time of issue, and then return it within the $6,000 payment on September 30 -- effectively causing the net difference of $4,000 to represent interest expense for June, July, August, and September ($100,000 X 12% X 4/12). The resulting journal entries are:
+
+6-1-X1
+
+Cash Interest Payable Bonds Payable
+To record issuance of 100, 12% bonds
+
+102,000 2,000 100,000
+
+*
+9-30-X1 Interest Expense Interest Payable Cash
+To record interest payment (includes return of accrued interest payable from original issue on June 1)
+
+4,000 2,000 6,000
+
+You should also be aware that the concepts just revealed for bonds issued between interest payment dates are also applicable to bonds that are traded between investors. There is no requirement, indeed no expectation, that bond investors will continue to hold bonds to maturity. Bonds are financial instruments that are traded between investors, just like stocks. When bond investors sell bonds between interest dates, they will receive from the purchaser the price plus accrued interest, knowing that the purchaser will then receive a full period’s interest on the next regularly scheduled interest date. This mechanism is intended to simplify the bond issuer’s accounting by allowing one interest payment to the current holder, rather than having to provide pro-rata payments to the various investors who have held the bonds for a portion of each interest period. Someday you will likely consider investing in bonds, and this information about the handling of accrued interest between interest dates will come in useful to you. And, you also need to be keenly aware that your bond investments can change in value. Remember that the value of a bond is a function of the bond’s stated rate of interest in relation to the going market rate of interest. If market interest rates rise while you hold your bond investment, look for its market value to decline (reflecting a lower present value based on the higher discount rate) -- and vice versa. Of course, if
+49 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+you hold on to the bond to maturity, its value will converge to the face value (so long as the issuer does not go broke)!
+
+10.1 Year-end Interest Accruals
+Continuing the illustration for Thompson, what December 31, 20X1, adjusting entry would be needed to bring the books current at year end? Notice that interest was paid in full through September 30. Therefore, the year-end entry must reflect the accrual of interest for October through December:
+12-31-X1 Interest Expense Interest Payable
+To record accrued interest at year end for three months ($100,000 X 12% X 3/12)
+
+*
+
+3,000 3,000
+
+When the next interest payment date arrives on March 31, the actual interest payment will cover the previously accrued interest, and additional amounts pertaining to January, February, and March:
+
+3-31-X2
+
+Interest Expense Cash
+To record interest payment (includes accrued interest payable from prior year)
+
+3,000 3,000 6,000
+
+* Interest Payable
+
+Any end-of-period entries would also include adjustments of interest expense for the amortization of existing bond premiums or discounts relating to the elapsed time periods.
+
+10.2 Bonds may be Retired Before Scheduled Maturity
+Early retirements of debt may occur, because a company has generated sufficient cash reserves from operations, and the company wants to stop paying interest on outstanding debt. Or, interest rates may have changed, and the company wants to take advantage of more favorable borrowing opportunities; you have probably heard of individuals engaging in this type of strategy when they “refinance” a home loan. Whether the debt is being retired or refinanced in some other way, accounting rules dictate that the retired debt be removed from the books, and that the difference between the debt’s net carrying value and the funds paid to retire the debt be recognized as a gain or loss. For instance, assume that Cabano Corporation is retiring $200,000 face of its 6% bonds payable. The last semiannual interest payment occurred on April 30, and the bonds are being retired on June 30, 20X5. The unamortized discount on the bonds at April 30, 20X5, was $6,000, and there was a 5-year remaining life on the bonds as of that date. Further, Cabano is paying $210,000, plus accrued interest, to retire the bonds; this “early call” price was stipulated in the original bond covenant.
+
+50 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+The first step to account for this bond retirement is to bring the accounting for interest up to date:
+6-30-X5 Interest Expense Discount on Bonds Payable Cash 2,200 200 2,000
+
+*
+
+To record interest accrual and amortization of discount ($200,000 X 6% X 2/12 months = $2,000; $6,000 discount X 2/60 months = $200)
+
+Then, the actual bond retirement can be recorded, with the difference between the up-to-date carrying value and the funds utilized being recorded as a loss (debit) or gain (credit).
+
+6-30-X5
+
+Bonds Payable Interest Payable Loss on Bond Retirement Discount on Bonds Payable Cash
+To record retirement of debt (loss = $210,000 ($200,000 - $5,800) = $15,800)
+
+200,000 2,000 15,800 5,800 212,000
+
+*
+
+Notice that Cabano’s loss relates to the fact that it took a lot more cash ($210,000) to pay off the debt than was the debt’s carrying value ($194,200 ($200,000 minus $5,800)).
+
+51 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+References Long-Term Obligations
+
+11. Analysis, Commitments, Alternative Financing Arrangements, Leases, and Fair Value Measurements
+Careful analysis is essential in making judgments about an entity’s financial health. One form of analysis is ratio analysis where certain key metrics are evaluated against one another. One such ratio is “debt to total assets.” This ratio shows the percentage of total capitalization that is provided by the creditors of a business: Debt to Total Assets Ratio = Total Debt/Total Assets A related ratio would be “debt to equity” that divides total debt by total equity: Debt to Equity Ratio = Total Debt/Total Equity The debt to asset and debt to equity ratios are carefully monitored by investors, creditors, and analysts. The ratios are often seen as signs of financial strength when “small,” or signs of vulnerability when “large.” Of course, small and large are relative terms. Some industries, like the utilities, are inherently dependent on debt financing but may, nevertheless, be very healthy. On the other hand, some high-tech companies may have little or no debt but be seen as vulnerable due to their intangible assets with potentially fleeting value. In short, one must be careful to correctly interpret a company’s debt related ratios. One must also be careful to recognize the signals and trends that may be revealed by careful monitoring of these ratios. Another ratio is the “times interest earned ratio:” Times Interest Earned Ratio = Income Before Income Taxes and Interest/Interest Charges This ratio is intended to demonstrate how many times over the income of the company is capable of covering its unavoidable interest obligation. If this number is relatively small, it may signal that the company is on the verge of not generating sufficient operating results to cover its mandatory interest obligation. There are numerous other ratios that can be described; in fact, many of these are covered in other chapters (along with mathematical illustrations). However, while ratio analysis is an important part of evaluating a company’s financial health, one cannot be too careful or place undue reliance on any single evaluative measure. This will become quite apparent as you read the final concluding comments below.
+
+52 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+11.1 Contractual Commitments and Alternative Financing Arrangements
+A company may enter into a long-term agreement to buy a certain quantity of supplies from another company, agree to make periodic payments under a lease (or similar arrangement) for many years to come, agree to deliver products at fixed prices in the future, and so forth. There is effectively no limit or boundary on the nature of these commitments and agreements. Oftentimes, such situations do not result in a presently recorded obligation, but may give rise to an obligation in the future. This introduces a myriad of accounting issues that are beyond the scope of introductory accounting courses, but a few generalizations are in order. First, footnote disclosures are generally required for the aggregate amount of committed payments that must be made in the future (with a year by year breakdown). Second, changes in the value of such commitments may entail loss recognition when a company finds itself locked into a future transaction that will have negative economic effects (e.g., committing to buy oil at $80 per barrel when the current price has declined to $65). From these observations, one thing should be clear to you -- beware to not limit your evaluation of a company to just the numbers on the balance sheet, as significant other financial details are often found in notes to the financial statements.
+
+11.2 Capital Leases
+A previous chapter introduced the idea of a “capital lease.” Such transactions enable the lessee to acquire needed productive assets, not by outright purchase, but by leasing. The economic substance of capital leases, in sharp contrast to their legal form, is such that the lessee effectively assumes the risks and rewards of owning the asset. Further, the accompanying obligation for lease payments is akin to a note payable. That is, the lessee is under contract to make a stream of payments over time that substantively resembles the stream of payments that would have occurred had the lessee purchased the asset via a promissory note. Accounting rules attempt to track economic substance ahead of legal form. Thus, when an asset is acquired via a capital lease, the initial recording is to establish both the asset and related obligation on the lessee’s balance sheet. Assume that equipment with a five-year life is leased on January 1, 20X1, and the lease agreement provides for 5 end-of-year lease payments of $23,739.64 each. At the time the lease was initiated, the lessee’s incremental borrowing rate (the interest rate the lessee would have incurred on similar debt financing) is assumed to be 6%. The accountant would discount the stream of payments using the 6% interest rate and find that the present value of the fixed non cancelable lease payments is $100,000. Therefore, the following entry would be necessary to record the lease:
+
+1-1-X1
+
+Equipment
+
+100,000 100,000
+
+*
+
+Obligation Under Capital Lease
+To record capital lease at present value of fixed noncancelable lease payments ($23,739.64 X PV Factor of 4.21236)
+
+53 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+After the initial recording, the accounting for the asset and obligation take separate paths. The asset is typically depreciated over the lease term (or useful life, depending on a variety of conditions). The depreciation method might be straight-line or an accelerated approach. Essentially, the leased asset is accounted for like any other owned asset of the company. The Obligation Under Capital Lease is accounted for like a note payable. In the above example, the amounts happen to correspond to the amounts illustrated for the mortgage note introduced earlier in the chapter. Therefore, the first lease payment would be accounted for as follows:
+12-31-X1 Interest Expense Obligation Under Capital Lease Cash
+To record first lease payment (interest portion = $100,000 X 6%)
+
+6,000.00 17,739.64 23,739.64
+
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+54 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Long-Term Obligations
+
+Notice that this entry results in recording interest expense - not rent. This scheme would be applied for each successive payment, until the final payment extinguishes the Obligation Under Capital Lease account. The accounting outcome is virtually identical (i.e., changing amounts of interest expense as the obligation is reduced over time) to that associated with the mortgage note illustrated earlier in the chapter.
+
+11.3 The Fair Value Measurement Option
+The Financial Accounting Standards Board recently issued a profound standard, “The Fair Value Option for Financial Assets and Financial Liabilities.” The title is quite revealing. Companies are now permitted, but not required, to measure certain financial liabilities at fair value. Changes in fair value can result from many factors, including market conditions pertaining to the overall interest rate environment. Entities that opt for this standard are to report unrealized gains and losses on items for which the fair value option has been elected in earnings at each subsequent reporting date. This new standard is a profound shift in methodology, and has the potential to eventually reshape debt accounting. Because the new standard is “optional” and somewhat “controversial,” it is very difficult to predict its practical effect and eventual implications. However, it is indicative of a clear intent to embrace more fair value methodology into the overall accounting framework.
+
+55 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Corporate Equity Accounting
+
+Corporate Equity Accounting
+Part 3
+
+Your goals for this “corporate” chapter are to learn about: x Characteristics of the corporate form of organization. x Common and preferred stock. x Treasury stock. x Stock splits and stock dividends. x The statement of stockholders’ equity.
+
+56 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Corporate Equity Accounting
+
+12. The Corporate Form of Organization
+Corporations are separate legal entities having existence separate and distinct from their owners (i.e., stockholders). In essence, they are artificial beings existing only in contemplation of law. In the United States, a corporation is typically created when one or more individuals file “articles of incorporation” with a Secretary of State in the particular home state in which they choose to become domiciled. The articles of incorporation will generally specify a number of important features about the purpose of the corporate entity and how general governance of ongoing operations will be structured. After reviewing the articles of incorporation, the Secretary of State will issue a charter (or certificate of incorporation) authorizing the corporate entity to “come into being.” The persons who initiated the filing (the “incorporators”) will then call a meeting to collect the shareholders’ initial investment (this start-up money will be placed into the corporate accounts) in exchange for the “stock” of the corporation (the “stock” is the financial instrument evidencing a person’s ownership interest in the corporation). Once the initial stock is issued, a shareholders’ meeting will be convened to adopt bylaws and elect a board of directors. These directors will then appoint the corporate officers who will be responsible for commencing the operations of the business. Of course, in a small start-up venture, the initial incorporators may become the shareholders, then elect themselves to the board, and finally appoint themselves to become the officers. Which leads one to wonder why go to all the trouble of incorporating? The reasons for incorporating can vary, but there are certain unique advantages of this form of organization that have led to its popularity: Perhaps the first and most obvious advantage of the corporate form of organization is that it permits otherwise unaffiliated persons to join together in mutual ownership of a business entity. This objective can be accomplished in other ways like a partnership, but the corporate form of organization is arguably one of the better vehicles. Large amounts of venture capital can be drawn together from many individuals and concentrated into one entity under shared ownership. The stock of the corporation provides a clear and unambiguous point of reference to identify who owns the business and in what proportion. Further, the democratic process associated with shareholder voting rights (typically one vote per share of stock) permits a shareholder’s “say so” in selecting the board of directors to be commensurate with the number of shares held. In addition to electing the board, shareholders may vote on other matters such as selection of an independent auditor, stock option plans, and corporate mergers. The voting “ballot” is usually referred to as a “proxy.” A great feature of corporate stock is transferability of ownership. Corporate stock is easily transferable from one “person” to another. In this context, a “person” can be an individual or another corporation. Transferability provides liquidity to stockholders as it enables them to quickly enter or exit an ownership position in a corporate entity. And, although a corporation may become very complex (e.g., buying real estate, entering contracts, etc.), the ability of one shareholder to step out and allow a successor to take their place can be done quite simply; there is not a need for the holdings and agreements of the corporate entity to be revised.
+
+57 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Corporate Equity Accounting
+
+As a corporation grows, it may bring in additional shareholders by issuing even more stock. At some point, the entity may become sufficiently large that its shares will become “listed” on a stock exchange and the shareholder group expanded to become large and dispersed. You have probably heard of an “IPO,” which is the “initial public offering” of the stock of a corporation. Rules require that such IPOs be accompanied by regulatory registrations and filings, and that potential shareholders be furnished with a “prospectus” detailing corporate information. The pricing of IPOs can vary based on market conditions, and sometimes get “wild” for a hot company that seemingly everyone wants to own. “Publicly traded” (in contrast to “closely held”) corporate entities are subject to a number of continuing regulatory registration and reporting requirements that are aimed at ensuring full and fair disclosure. Another benefit of a corporation is its perpetual existence. A corporate entity is typically of unlimited duration enabling it to effectively outlive its shareholders. Changes in stock ownership do not cause operations to cease even when the change in ownership is brought about by the death of a shareholder. Many corporate entities are over one-hundred years old. What would cause a corporation to cease to exist? At some point, a corporation may be acquired by another and merged in with the successor. Or, a corporation may become a business failure and cease operations (typically accompanied by a request to the Secretary of State to “dissolve” the legal existence). Of course, not all dissolutions are the result of failure. Some businesses may find that liquidating operating assets and distributing substantial residual monies to the creditors and shareholders is a preferable strategy to continued operation. Not to be overlooked in considering why a corporation is desirable is the feature of limited liability for stockholders. If you buy the stock of a corporation, you normally do so with the understanding that you can lose the amount of your investment, but no more. Stockholders are not liable for debts and losses of the company beyond the amount of their investment. There are exceptions to this rule. In some cases, shareholders may be called upon to sign a separate guarantee for corporate debt. And, shareholders in closely held companies can inadvertently get drawn into having to satisfy corporate debts where they commingle their personal finances with those of the company or fail to satisfy the necessary legal procedures to maintain a valid corporate existence. Corporations are not without certain notable disadvantages:
+
+58 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Corporate Equity Accounting
+
+Corporations in the United States are taxable entities, and their income is subject to taxation. This “income tax” is problematic as it oftentimes produces double taxation. This effect occurs, because when shareholders receive cash dividends on their corporate investments, they must include the dividends in their own calculation of taxable income. Thus, a dollar earned at the corporate level is reduced by corporate income taxes (at a rate that is likely about 35%); to the extent the remaining after-tax profit is distributed to shareholders as dividends, it is again subject to taxes at the shareholder level (at a rate that will vary in the 15% to 35% range). So, as much as half or more of the profits of a dividend-paying corporation are apt to be shared with governmental entities because of this double taxation effect. Governments are aware that this double-taxation outcome can limit corporate investment and be potentially damaging to the economic wealth of their nation. Within the United States, various measures of relief are sometimes available, depending on the prevailing political climate (including “dividends received deductions” for dividends paid between affiliated companies, lower shareholder tax rates on dividends, and S-Corporation provisions that permit closely held corporations to attribute their income to the shareholders thereby avoiding one level of tax). Outside of the United States, some countries adopt “tax holidays” that permit newer companies to be exempt from income taxes, or utilize different approaches to taxing the value additive components of production by an entity.
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+59 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Corporate Equity Accounting
+
+Another burden on the corporate form of organization is costly regulation. Larger (usually public) companies are under scrutiny of federal (The Securities and Exchange Commission (SEC) and other public oversight bodies) and state regulatory bodies. History tells us that the absence or failure of these regulators will quickly foster an environment where rogue business persons will launch all manner of stock fraud schemes (not the least of which is inflated profits to attract and rob unsuspecting investors). Worse, these frauds quickly corrupt public confidence in stock investments and destroy wealth and opportunity for everyone. Without a willingness on the part of investors to join together via a corporate vehicle, new ideas, products, and innovations go undeveloped. Therefore, it seems almost unavoidable that governmental regulation must be a part of the corporate scene. However, the cost of compliance with such regulation is heavy indeed. Public companies must prepare and file quarterly and annual reports with the SEC, along with a myriad of other documents. And, many of these documents must be certified or subjected to independent audit. Further, requirements are in place that requires companies to have strong internal controls and even ethical training. As a result, one cannot simply dismiss this regulatory cost as a nuisance; indeed, it must be considered as a potential barrier to opting to become a public company. Historic events (the stock market crash of 1929 and the Enron/WorldCom debacles of 2001 and 2002, are two USA examples of precipitating events) have been catalysts for significant legislation intended to protect public investors.
+
+60 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Corporate Equity Accounting
+
+13. Common and Preferred Stock
+Companies may issue different types of stock; notably common stock and preferred stock. Being familiar with the word preferred may lead you to conclude it is the better choice, but such is not necessarily the case. The customary features of common and preferred differ, providing some advantages and disadvantages for each. As you shall soon see, preferred stock is ordinarily in a better position for dividends and any liquidation proceeds, but it can be left out of significant opportunities for share value appreciation. Before digging into the specifics, be advised that the following discussion relates to general features, and the applicability of these general features can be modified on a company by company basis. Before investing in any company’s common or preferred stock, you should carefully examine the specific provisions that might be unique to that company.
+
+13.1 Typical Common Stock Features
+x The right to share in a portion of dividends that are declared and issued by the company to its common shareholders. An option to buy a proportional part of any additional shares that may be issued by the company. This “preemptive right” is intended to allow a shareholder to avoid dilution by being assured a place in line to acquire a fair part of any corporate stock expansion. (Numerous companies have done away with this provision.) The right to vote on certain general governance matters like election of the Board of Directors, employee stock award plans, mergers, and similar major items. The right to share in proceeds of liquidation after all creditors and other priority claims are settled. The right to periodic financial reports about corporate performance.
+
+x
+
+x
+
+x
+
+x
+
+Some companies go to the added trouble of having multiple classes of common stock -- Class A, Class B, etc. A good example is a “family business” that has grown very large and become a public company. Such situations may be accompanied by the creation of Class A stock (held by the family members) and Class B stock (held by the public), where only the Class A stock can vote. Thus, the family has raised needed capital but preserved the ability to control and direct the company. You might also find it interesting that one can be forced out (in exchange for a fair price) of a stock ownership interest; this can occur when a company is bought out by another, and most of the other shareholders (oftentimes as high as 80 to 90%) have consented to the transaction. Non controlling shareholders (those who hold stock in a company where another party owns more than half of the corporation) are sometimes called the “minority interest.” Minority shareholders are in a treacherous position, and governing laws vary considerably in how much protection is afforded to prevent the majority from engaging in transactions and activities that disadvantage the minority.
+
+61 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Corporate Equity Accounting
+
+13.2 Possible Preferred Stock Features
+x A preferred position for dividends. Preferred stock is paid a dividend prior to any distribution to common stockholders, and the dividend is more or less expected each period. The amount of the dividend is usually stated as a percentage of the preferred stock’s “par value.” Furthermore, preferred stock is frequently cumulative; if the annual dividend requirement cannot be satisfied, it will become a dividend in arrears, and all dividends in arrears must be paid before any dividends can be paid to common shareholders (in contrast to “noncumulative” where a missed dividend is not required to be made up in the future). The absence of voting rights. A preferred position in liquidation. In the event of a corporate liquidation, preferred stock is understood to be “paid-off” before common shareholders. Of course, creditors must first be satisfied before any funds will flow to either the preferred or common stockholders. A call feature, which means that the company can force the preferred shareholders to cash out of their position in exchange for a pre agreed “call price” that is oftentimes set at a certain percentage of “par value” (e.g., callable at 105, would mean the company can buy back the preferred stock at 105% of its par value). You don’t have to think too long to see that this call provision can effectively limit the upside value of an investment in preferred stock, no matter how attractive its dividend might appear.
+
+x x
+
+x
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+62 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Corporate Equity Accounting
+
+x
+
+A convertible feature, which means that the preferred shares may be exchanged for common stock at a preagreed ratio (e.g., 3 shares of common for one share of preferred). This conversion provision can effectively provide significant upside value for an investment in preferred stock, no matter how bad its dividend might appear. A maturity date, at which time the preferred will be bought back by the company (“mandatory redeemable”).
+
+x
+
+Even a casual review of the above features will quickly lead you to conclude that preferred has its merits and its detractions depending on how the individual features are implemented for a particular company. Obviously, every company has different financing (and tax!) considerations and will tailor its package of features to match those issues. For instance, a company can issue preferred that is much like debt (cumulative, mandatory redeemable), because a fixed periodic payment must occur each period with a fixed amount due at maturity. On the other hand, some preferred will behave more like common stock (noncallable, noncumulative, convertible).
+
+13.3 What is Par?
+In the preceding discussion, there were several references to “par value.” Many states require that stock have a designated par value (or in some cases “stated value”). Thus, par value is said to represent the “legal capital” of the firm. In theory, original purchasers of stock are contingently liable to the company for the difference between the issue price and par value if the stock is issued at less than par. However, as a practical matter, par values on common stock are set well below the issue price, negating any practical effect of this latent provision. It is not unusual to see common stock carry a par value of $1 per share or even $.01 per share. In some respects, then, par value is merely a formality. But, it does impact the accounting records, because separate accounts must be maintained for “par” and “paid in capital in excess of par.” To illustrate the issuance of par value stock, assume that Godkneckt Corporation issues 100,000 shares of $1 par value stock for $10 per share. The entry to record this stock issuance would be:
+5-1-XX Cash Common Stock 1,000,000 100,000 900,000 Paid in Capital in Excess of Par
+To record issuance of 100,000 shares of $1 par value common stock at $10 per share
+
+*
+
+Occasionally, a corporation may issue no-par stock, which is simply recorded by debiting Cash and crediting Common Stock for the issue price. A separate Paid-in Capital in Excess of Par account is not needed.
+
+63 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Corporate Equity Accounting
+
+By the way, the above entry assumed the stock was issued for cash. Sometimes, stock is issued for land or other tangible assets, in which case the above debit would be to the specific asset account (e.g., Land instead of Cash). When stock is issued for noncash assets, the amount of the entry would be based upon the fair value of the asset (or the fair value of the stock if it can be more clearly determined).
+
+13.4 A Closer Look at Cash Dividends
+Let’s begin by assuming that a company has only common shares outstanding. There is no mandatory dividend requirement, and the dividends are a matter of discretion for the Board of Directors to consider. Of course, to pay a dividend, the company must have sufficient cash and a positive balance in retained earnings (companies with a “deficit” (negative) Retained Earnings account would not pay a dividend unless it is part of a corporate liquidation action). Many companies pride themselves in having a longstanding history of regular and increasing dividends; a feature that many investors find appealing. Other companies view their objective as one of continual growth via reinvestment of all earnings; their investors seem content relying on the notion that their investment value will gradually increase due to this earnings reinvestment activity. Whatever the case, a company has no obligation to pay a dividend, and there is no “liability” for dividends until such time as they are actually declared. A “declaration” is a formal action by the Board of Directors to indicate that a dividend will be paid at some stipulated future date. On the date of declaration, the following entry is needed on the corporate accounts:
+7-1-XX Dividends Dividends Payable 50,000 50,000
+
+* To record declaration of dividends on
+
+common stock (assumed $0.50 per share on 100,000 shares outstanding); to be paid on September 1
+
+In observing the above entry, it is imperative to note that the declaration on July 1 establishes a liability to the shareholders that is legally enforceable. Therefore, a liability is recorded on the books at the time of declaration. Recall (from much earlier chapters) that the Dividends account will directly reduce retained earnings (it is not an expense in calculating income -- it is a distribution of income)! On September 1, when the above dividends are paid, the appropriate entry is:
+9-1-XX Dividends Payable 50,000 50,000
+
+*
+
+Cash
+To record payment of previously declared dividend
+
+64 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Corporate Equity Accounting
+
+Some shareholders may sell their stock between the date of declaration and the date of payment. Who is to get the dividend? The former shareholder or the new shareholder? To resolve this question, the Board will also set a “date of record;” the dividend will be paid to whomever the owner of record is on the “date of record.” In the preceding illustration, the date of record might have been set as August 1, for example. To further confuse matters, there may be a slight lag of just a few days between the time a share exchange occurs and the company records are updated. As a result, the date of record is usually slightly preceded by an ex-dividend date. The practical effect of this is simple: if a shareholder on the date of declaration continues to hold the stock at least through the ex-dividend date, that shareholder will get the dividend -- but if the shareholder sells the stock before the ex-dividend date, the new shareholder can expect the dividend. In the time line at right, if you were to own stock on the date of declaration, you must hold the stock at least until the “green period” to be entitled to receive payment.
+
+13.5 The Presence of Preferred Stock
+Recall that preferred dividends are expected to be paid before common dividends, and those dividends are usually a fixed amount (e.g., a flat percentage of the preferred stock’s par value). In addition, recall that cumulative preferred requires that dividends that are not paid become “dividends in arrears.” Dividends in arrears must also be paid before any distributions to common can occur. Another illustration will likely provide the answer to questions you may have about how these concepts are to be implemented.
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+65 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Corporate Equity Accounting
+
+To develop the illustration, let’s begin by looking at the equity section of Embassy Corporation’s balance sheet. You will note that this section of the balance sheet has grown considerably. A corporation’s stockholders’ equity (or related footnotes) should include rather detailed descriptions of the type of stock outstanding and its basic features. This will include mention of the number of shares authorized (permitted to be issued), issued (actually issued), and outstanding (issued minus any shares reacquired by the company). In addition, you should be aware of certain related terminology -- “legal capital” is the total par value ($20,400,000 below), and “total paid in capital” is the legal capital plus amounts paid in excess of par values ($56,400,000 below).
+Stockholders’ Equity Capital stock: Preferred stock, $100 par value, 8% cumulative, 500,000 shares authorized, 200,000 shares issued and outstanding Common stock, $1 par value, 2,000,000 shares authorized, 400,000 shares issued and outstanding * capital Additional paid-in Paid-in capital in excess of par -- preferred stock Paid-in capital in excess of par -- common stock Total paid-in capital Retained earnings Total stockholders’ equity $20,000,000 400,000 $ 1,000,000 35,000,000 $20,400,000 36,000,000 $56,400,000 6,600,000 $63,000,000
+
+In examining this stockholders’ equity section, note that the par value for each class of stock is the number of shares issued multiplied by the par value per share (e.g., 200,000 shares X $100 per share = $20,000,000). For Embassy Corporation, note that the preferred stock description makes it clear that the $100 par stock is 8% cumulative. This means that each share will pay $8 per year in dividends, and any “missed” dividends become dividends in arrears. Let us further assume that the notes to the financial statements appropriately indicate that Embassy has not managed to pay its dividends for the preceding two years. If Embassy desired to pay $5,000,000 of total dividends during the current year, how much do you suppose would be available to the common shareholders? The answer is only $200,000 (or $0.50 per share for the 400,000 common shares). The reason is that the preferred stock is to receive annual dividends of $1,600,000 ($8 per share X 200,000 preferred shares), and three years must be paid consisting of the two years in arrears and the current year requirement ($1,600,000 X 3 years = $4,800,000 to preferred, and leaving only $200,000 for common).
+
+66 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Corporate Equity Accounting
+
+14. Treasury Stock
+Treasury stock is the term that is used to describe shares of a company’s own stock that it has reacquired. A company may buy back its own stock for any number of reasons. The most frequently cited reason is a belief by the officers and directors that the market value of the stock is unrealistically low. As such, the decision to buy back stock is seen as a way to support the stock price and utilize corporate funds to maximize the value for shareholders who choose not to sell back stock to the company. Other times, a company may buy back public shares as part of a reorganization that contemplates the company “going private” or delisting from some particular stock exchange market. Further, a company might buy back shares, and in turn issue them to employees pursuant to some employee stock award plan. And, a company might buy back stock from a dissident shareholder who is making overtures to overthrow the current board (sometimes called “greenmail” since cash is extracted from the company in exchange for shares and a “standstill” agreement with the dissident). Whatever the reason for a treasury stock transaction, the company is to account for the shares as a purely equity transaction, and no gains and losses are reported in income (except in the case of “greenmail” where some expense may be recorded for any premiums paid to “quiet” the dissident). Procedurally, there are several ways the record the “debits” and “credits” associated with treasury stock. I will focus on the “cost method” as it is very direct and perfectly acceptable in each case. Under this approach, acquisitions of treasury stock are accounted for by debiting Treasury Stock and crediting Cash for the cost of the shares reacquired:
+4-1-X1 Treasury Stock Cash
+To record acquisition of 40,000 treasury shares
+
+1,000,000 1,000,000
+
+* at $25 per share
+
+Treasury Stock is a contra equity item. It is not reported as an asset; rather, it is subtracted from stockholders’ equity. The presence of treasury shares will cause a difference between the number of shares issued and the number of shares outstanding. On the following page is Embassy Corporation’s equity section, modified (see highlights) to reflect the treasury stock transaction portrayed by the entry.
+
+67 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Corporate Equity Accounting
+
+The effect of treasury stock is very simple -- cash goes down and so does total equity by the same amount. This result occurs no matter what the original issue price was for the stock. Accounting rules do not recognize gains or losses when a company issues its own stock, nor do they recognize gains and losses when a company reacquires its own stock. This may seem odd, because it is certainly different than the way you or I think about stock investments. But remember, this is not a stock investment from the company’s perspective -- it is instead an expansion or contraction of its own equity.
+Stockholders’ Equity Capital stock: Preferred stock, $100 par value, 8% cumulative, 500,000 shares authorized, 200,000 shares issued and outstanding Common stock, $1 par value, 2,000,000 shares authorized, 400,000 shares issued, and 360,000 shares outstanding Additi Additionall paid-in id i capital it l Paid-in capital in excess of par -- preferred stock * in excess of par -- common stock Paid-in capital Total paid-in capital Retained earnings Less: Treasury stock, 40,000 shares at cost Total stockholders’ equity $20,000,000 400,000 , $ 1,000,000 35,000,000 $20,400,000 36,000,000 $56,400,000 6,600,000 $63,000,000 (1,000,000) $62,000,000
+
+The stuff you'll need to make a good living
+
+STUDY. PLAY.
+
+The stuff that makes life worth living
+
+NORWAY. YOUR IDEAL STUDY DESTINATION.
+WWW.STUDYINNORWAY.NO FACEBOOK.COM/STUDYINNORWAY
+
+68 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Corporate Equity Accounting
+
+Corporations in the United States are taxable entities, and their income is subject to taxation. This “income tax” is problematic as it oftentimes produces double taxation. This effect occurs, because when shareholders receive cash dividends on their corporate investments, they must include the dividends in their own calculation of taxable income. Thus, a dollar earned at the corporate level is reduced by corporate income taxes (at a rate that is likely about 35%); to the extent the remaining after-tax profit is distributed to shareholders as dividends, it is again subject to taxes at the shareholder level (at a rate that will vary in the 15% to 35% range). So, as much as half or more of the profits of a dividend-paying corporation are apt to be shared with governmental entities because of this double taxation effect. Governments are aware that this double-taxation outcome can limit corporate investment and be potentially damaging to the economic wealth of their nation. Within the United States, various measures of relief are sometimes available, depending on the prevailing political climate (including “dividends received deductions” for dividends paid between affiliated companies, lower shareholder tax rates on dividends, and S-Corporation provisions that permit closely held corporations to attribute their income to the shareholders thereby avoiding one level of tax). Outside of the United States, some countries adopt “tax holidays” that permit newer companies to be exempt from income taxes, or utilize different approaches to taxing the value additive components of production by an entity.
+7-1-X2 Cash Treasury Stock Paid in Capital in Excess of Par
+To record reissue of 10,000 treasury shares at $40 per share
+
+400,000 250,000 150,000
+
+69 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Corporate Equity Accounting
+
+15. Stock Splits and Stock Dividends
+Stock splits are events that increase the number of shares outstanding and reduce the par or stated value per share. For example, a two-for-one stock split would double the number of shares outstanding and halve the par value per share. Existing shareholders would see their shareholdings double in quantity, but there would be no change in the proportional ownership represented by the shares (i.e., a shareholder owning 1,000 shares out of 100,000 would then own 2,000 shares out of 200,000). Importantly, the total par value of shares outstanding is not affected by a stock split (i.e., the number of shares times par value per share does not change). Therefore, no journal entry is needed to account for a stock split. A memorandum notation in the accounting records indicates the decreased par value and increased number of shares. If the initial equity illustration for Embassy Corporation was modified to reflect a four-for-one stock split of the common stock, the revised presentation would appear as follows (the only changes are highlighted):
+Stockholders’ Equity Capital stock: Preferred stock, $100 par value, 8% cumulative, 500,000 shares authorized, 200,000 shares issued and outstanding Common stock, $0.25 par value, value 2,000,000 shares authorized, 1,600,000 shares issued and outstanding Additional paid-in capital * in excess of par -- preferred stock Paid-in capital Paid-in capital in excess of par -- common stock Total paid-in capital Retained earnings Total stockholders’ equity $20,000,000 400,000 $ 1,000,000 35,000,000 $20,400,000 36,000,000 $56,400,000 6,600,000 $63,000,000
+
+By reviewing the changes, you can see that the par has been reduced from $1.00 to $0.25 per share, and the number of issued shares has quadrupled from 400,000 shares to 1,600,000 (be sure to note that $1.00 X 400,000 = $0.25 X 1,600,000 = $400,000). None of the account balances have changes. Given the paucity of financial statement effect, why would a company bother with a stock split? The answer is not in the financial statement impact, but in the financial markets. Since the same company is now represented by more shares, one would expect the market value per share to suffer a corresponding decline. For example, a stock that is subject to a 3-1 split should see its shares initially cut in third. But, holders of the stock will not be disappointed by this share price drop since they will each be receiving proportionately more shares; it is very important to understand that existing shareholders are getting the newly issued shares for no additional investment. The benefit to the shareholders comes about, in theory, because the split creates more attractive opportunities for other future investors to ultimately buy into the larger pool of lower priced shares. Rapidly growing companies often have share splits to keep the per share price from reaching stratospheric levels that could deter some investors. In the final analysis, you should understand that a stock split is mostly cosmetic as it does not change the underlying economics of the firm.
+
+70 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Corporate Equity Accounting
+
+And, splits can come in odd proportions: 3 for 2, 5 for 4, 1,000 for 1, and so forth depending on the scenario. A reverse split (1 for 5, etc.) is also possible, and will initially be accompanied by a reduction in the number of issued shares along with a proportionate increase in share price. Reverse splits are often seen when a stock’s price has dropped below a minimum threshold level for continued listing on some stock exchanges. Shareholders who suffer a reverse split are usually not too happy to see their number of shares reduced; however, they still own the same proportionate share of the company, as the reductive impact falls evenly on all shareholders. Again, the reverse split does not change the underlying economics of the firm.
+
+15.1 Stock Dividends
+In contrast to cash dividends discussed earlier in this chapter, stock dividends involve the issuance of additional shares of stock to existing shareholders on a proportional basis. Stock dividends are very similar to stock splits. For example, a shareholder who owns 100 shares of stock will own 125 shares after a 25% stock dividend (essentially the same result as a 5 for 4 stock split). Importantly, all shareholders would have 25% more shares, so the percentage of the total outstanding stock owned by a specific shareholder is not increased.
+
+I joined MITAS because I wanted real responsibili� I joined MITAS because I wanted real responsibili�
+
+Maersk.com/Mitas www.discovermitas.com
+
+�e Graduate Programme for Engineers and Geoscientists
+
+� for Engin
+
+M
+
+Real work International Internationa al opportunities �ree wo work or placements
+
+Month 16 I was a construction M supervisor ina cons I was the North Sea supe advising and the N he helping foremen advi s solve problems Real work he helping International Internationa al opportunities �ree wo work or placements s solve p
+Click on the ad to read more
+
+71 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Corporate Equity Accounting
+
+Although shareholders will perceive very little difference between a stock dividend and stock split, the accounting for stock dividends is unique -- stock dividends require journal entries. Stock dividends are recorded by moving amounts from retained earnings to the paid-in capital accounts. The amount to move depends on the size of the distribution; (1) a small stock dividend (generally less than 20-25% of the existing shares outstanding) is accounted for at market price on the date of declaration, and (2) a large stock dividend (generally over the 20-25% range) is accounted for at par value. To illustrate, assume that Childers Corporation had 1,000,000 shares of $1 par value stock outstanding. The market price per share is $20 on the date that a stock dividend is declared and issued: Small Stock Dividend: Assume Childers Issues a 10% Stock Dividend
+XX-XX-XX
+
+Retained Earnings Common Stock Paid in Capital in Excess of * Par
+To record issuance of a 10% stock dividend (1,000,000 shares X 10% X $20 per share market price)
+
+2,000,000 100,000 1,900,000
+
+Need help with your dissertation?
+Get in-depth feedback & advice from experts in your topic area. Find out what you can do to improve the quality of your dissertation!
+
+Get Help Now
+
+Go to www.helpmyassignment.co.uk for more info
+
+72 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Corporate Equity Accounting
+
+Large Stock Dividend: Assume Childers Issues a 40% Stock Dividend
+XX-XX-XX
+
+Retained Earnings Common Stock
+To record issuance of a 40% stock dividend * (1,000,000 shares X 40% X $1 per share par value)
+
+400,000 400,000
+
+Additional “temporary” equity accounts might be introduced if the declaration and distribution occurred on different dates, but the final outcome after the distribution was complete would be identical to the result produced above. Those details are left for more advanced accounting courses. Before moving on, it may seem odd that accounting rules require different treatments for stock splits, small stock dividends, and large stock dividends. There are some conceptual underpinnings for these differences, but it is primarily related to bookkeeping issues. For example, the total par value needs to correspond to the number of shares outstanding. To test your understanding, which transaction (split, small stock dividend, or large stock dividend) causes a change in total stockholders’ equity? The answer is none of them; each merely rearranges existing equity in some fashion, but none of them change the bottom line total equity balance.
+
+73 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Corporate Equity Accounting
+
+16. Statement of Stockholders’ Equity
+Remember that a company must present an income statement, balance sheet, statement of retained earnings, and statement of cash flows. However, it is also necessary to present additional information about changes in other equity accounts. This may be done by notes to the financial statements or other separate schedules. However, most companies will find it preferable to simply combine the required statement of retained earnings and information about changes in other equity accounts into a single Statement of Stockholders’ Equity. Following is an example of such a statement.
+Pepper Corporation Statement of Stockholders’ Equity For the Year Ending December 31, 20X9
+Common stock, $1 Par Balance on January 1 Purchase of treasury stock Net income Cash dividends Stock dividends Balance on December 31 1,150,000 $ 24,150,000 4,600,000 $ 41,600,000 $ 4,000,000 (1,500,000) (5,750,000) 7,750,000 $ (7,000,000) $ 66,500,000 Paid-in Capital in Excess of Par $ 25,000,000 12,000,000 (2,000,000) Retained Earnings $ 11,000,000 Treasury Stock $ (5,000,000) Total Stockholders’ Equity $ 51,000,000 15,000,000 (2,000,000) 4,000,000 (1,500,000)
+
+Issuance of additional shares for cash
+
+*
+
+$ 20,000,000 3,000,000
+
+74 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Liabilities and Equity
+
+Corporate Equity Accounting
+
+This statement does fulfill the requirement for a statement of retained earnings and additional equity account information disclosures. From the illustration, you can see that the company had several equity transactions during the year, and the retained earnings column roughly corresponds to a statement of retained earnings. In actuality, companies are apt to expand this presentation to include comparative data for multiple years and potentially include information about all other equity accounts (such as the other comprehensive income accounts you learned about in the long-term investments accounting chapter). To close this chapter, I would encourage you to examine the above statement of stockholders’ equity, and be sure you can prepare a journal entry that corresponds to Pepper’s share issuance, treasury stock transaction, cash dividend, and stock dividend. You will find it helpful to review the various journal entries illustrated in this chapter as you undertake this effort.
+
+75 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Appendix
+
+17. Appendix
+
+76 Download free eBooks at bookboon.com
+
+Liabilities and Equity
+
+Appendix
+
+77 Download free eBooks at bookboon.com
+

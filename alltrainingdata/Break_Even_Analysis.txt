@@ -1,0 +1,307 @@
+Break-Even	Analysis
+Christopher	Zerres;	Nikolaos	Tsorakidis;	Michael	Zerres; Sophocles	Papadoulos
+
+Download	free	books	at
+
+Nikolaos Tsorakidis, Sophocles Papadoulos, Michael Zerres, Cristopher Zerres
+
+Break-Even Analysis
+
+2
+Download free eBooks at bookboon.com
+
+Break-Even Analysis 1st edition © 2014 Nikolaos Tsorakidis, Sophocles Papadoulos, Michael Zerres, Cristopher Zerres & bookboon.com ISBN 978-87-7681-290-4
+
+3
+Download free eBooks at bookboon.com
+
+Break-Even Analysis
+
+Contents
+
+Contents
+1	Introduction	 2	 Simple Break-Even Point Application	 3	Restrictions	 4	 Multiproduct Break-Even Point	 5 6 8 9 11 14 19 20 21
+
+5	 Applying Break-Even Analysis in Services Industry	 6	 7	 Operating Leverage	 Discounts and Promotions	
+
+8	Conclusion	 	Bibliography	
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Break-Even Analysis
+
+Introduction
+
+1	Introduction
+Break-Even analysis is used to give answers to questions such as “what is the minimum level of sales that ensure the company will not experience loss” or “how much can sales be decreased and the company still continue to be profitable”. Break-even analysis is the analysis of the level of sales at which a company (or a project) would make zero profit. As its name implies, this approach determines the sales needed to break even. Break-Even point (B.E.P.) is determined as the point where total income from sales is equal to total expenses (both fixed and variable). In other words, it is the point that corresponds to this level of production capacity, under which the company operates at a loss. If all the company’s expenses were variable, breakeven analysis would not be relevant. But, in practice, total costs can be significantly affected by longterm investments that produce fixed costs. Therefore, a company – in its effort to produce gains for its shareholders – has to estimate the level of goods (or services) sold that covers both fixed and variable costs. Break-even analysis is based on categorizing production costs between those which are variable (costs that change when the production output changes) and those that are fixed (costs not directly related to the volume of production). The distinction between fixed costs (for example administrative costs, rent, overheads, depreciation) and variable costs (for exampel production wages, raw materials, sellers’ commissions) can easely be made, even though in some cases, such as plant maintenance, costs of utilities and insurance associated with the factory and production manager’s wages, need special treatment. Total variable and fixed costs are compared with sales revenue in order to determine the level of sales volume, sales value or production at which the business makes neither a profit nor a loss.
+
+5
+Download free eBooks at bookboon.com
+
+Break-Even Analysis
+
+Simple Break-Even Point Application
+
+2	Simple Break-Even Point Application
+B.E.P. is explained in the following example, the case of Best Ltd. This company produces and sells quality pens. Its fixed costs amount to €400,000 approximately, whereas each pen costs €12 to be produced. The company sells its products at the price of €20 each. The revenues, costs and profits are plotted under different assumptions about sales in the break-even point graph presented below. The horizontal axis shows sales in terms of quantity (pens sold), whereas expenses and revenues in euros are depicted in vertical axis. The horizontal line represents fixed costs (€400,000). Regardless of the items sold, there is no change in this value. The diagonal line, the one that begins from the zero point, expresses the company’s total revenue (pens sold at €20 each) which increases according to the level of production. The other diagonal line that begins from €400,000, depicts total costs and increases in proportion to the goods sold. This diagonal shows the cost effect of variable expenses. Revenue and total cost curves cross at 50,000 pens. This is the break even point, in other words the point where the firm experiences no profits or losses. As long as sales are above 50,000 pens, the firm will make a profit. So, at 20,000 pens sold company experiences a loss equal to €240,000, whereas if sales are increased to 80,000 pens, the company will end up with a €240,000 profit. The following table shows the outcome for different quantities of pens sold (Diagram 1):
+Pens Sold (Q) Total Sales (S) Variable Costs (VC) Contribution Margin (C.M.) Fixed Costs (FC) Profit / (Loss) 20,000 €400,000 €240,000 €160,000 €400,000 (€240,000) 50,000 €1,000,000 €600,000 €400,000 €400,000 €0 80,000 €1,600,000 €960,000 €640,000 €400,000 €240,000
+
+Diagram 1: Different quantities of pens sold
+
+The break-even point can easily be calculated. Since the sales price is €20 per pen and the variable cost is €12 per pen, the difference per item is €8. This difference is called the contribution margin per unit because it is the amount that each additional pen contributes to profit. In other words, each pen sold offers €8 in order to cover the fixed expenses. In our example, fixed costs incurred by the firm are €400,000 regardless of the number of sales. As each pen contributes €8, sales must reach the following level to offset the above costs (Diagram 2):
+
+6
+Download free eBooks at bookboon.com
+
+Break-Even Analysis
+
+Simple Break-Even Point Application
+
+Diagram 2: Break-Even Point Graph
+
+Fixed Costs Selling Price - VC (u)
+
+Fixed Costs Contributi on Margin
+
+€ 400000 €8
+
+50000 pens (B.E.P)
+
+Thus, 50,000 pens is the B.E.P. required for an accounting profit. Break-even analysis can be extended further by adding variables such as tax rate and depreciation to our calculations In any case, it is a useful tool because it helps managers to estimate the outcome of their plans. This analysis calculates the sales figure at which the company (or a single project) breaks even. Therefore, a company uses it during the preparation of annual budget or in cases of new product development. The B.E.P. formula can be also used in the case where a company wants to specify the exact volume of sold items required to produce a certain level of profit. Finally, the marketing-controlling departments of an enterprise may use break-even analysis to estimate the results of an increase in production volume or when evaluating the option of investing in new, high technology machinery. In that case, the firm may operate more automatically, fewer workers will be needed and what finally happens is that variable costs are substituted by fixed ones. This will be examined later in this chapter.
+
+7
+Download free eBooks at bookboon.com
+
+Break-Even Analysis
+
+Restrictions
+
+3	Restrictions
+Beside its useful applications, break-even analysis is subject to some restrictions. In every single estimation of the break-even level, we use a certain value to the variable “selling price”. Therefore, if we want to find out the level that produces profits under different selling prices, many calculations and diagrams are required. A second drawback has to do with the variable “total costs”, since in practice these costs are difficult to calculate due to the fact that there are many things that can go wrong and mistakes that can occur in production. During estimations, if sales increase and output reaches a level that is marginally covered by current investments in fixed assets, labor cost will be increased (recruiting of new employees or increase in overtime costs) and consequently variable costs will grow. After a point, new investments in fixed assets must be realized too. The above affect the production and change both the level and the inclination of the total costs’ line in B.E.P. graph. Another affect that is not algebraically measured, is that changes in costs may alter products’ quality. Also, the break-even point is not easily estimated in the “real world”, because there is no in mathematical calculation that allows for the “competitive environment”. This refers to the fact that the competition may cause prices to drop or increase according to demand.
+
+8
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Break-Even Analysis
+
+Multiproduct Break-Even Point
+
+4	 Multiproduct Break-Even Point
+When B.E.P. of a single product is calculated, sales price corresponds to the price of this product. However, in reality firms sell many products. It is easily understood that when different products are offered by a company, the estimation of the values of variables used in B.E.P. formula (sales price, variable costs) becomes a complicated issue, since the weighted average of these variables has to be computed. An important assumption in a multiproduct setting is that the sales mix of different products is known and remains constant during the planning period. The sales mix is the ratio of the sales volume for the various products. To illustrate, let’s look at Quick Coffee, a cafeteria that sells three types of hot drinks: white/black coffee, espresso and hot chocolate. The unit selling price for these three hot drinks are €3, €3.5 and €4 respectively. The owner of this café wants to estimate its break-even point for next year. An important assumption we have to make is that current sales mix will not change next year. In particular, 50% of total revenue is generated by selling classic coffee, while espresso and hot chocolate corresponds to 30% and 20% of total revenues respectively. At the same time, variable costs amount to €0.5 (white/black coffee), €0.6 (espresso) and €0.7 (hot chocolate). We have to compute the weighted average for these two variables, selling price and variable costs (Diagram 3):
+PRODUCT COFFEE ESPRESSO HOT CHOCOLATE PRODUCT COFFEE ESPRESSO HOT CHOCOLATE PRICE (€) 3.0 3.5 4.0 VARIABLE COST (€) 0.5 0.6 0.7 PROPORTIONAL TO TOTAL REVENUE 50% 30% 20% PROPORTIONAL TO TOTAL REVENUE 50% 30% 20% 0.57 3.35 WEIGHTED AVERAGE WEIGHTED AVERAGE
+
+Diagram 3: Weighted Average for some products
+
+Applying the B.E.P. formula – company’s fixed costs are €55,000 – gives us 19,784 units. B.E.P. = €55,000 / (€3.35 – €0.57) = 19,784 units.
+
+9
+Download free eBooks at bookboon.com
+
+Break-Even Analysis
+
+Multiproduct Break-Even Point
+
+This computation implies that Quick Coffee breaks even when it sells 19,784 hot drinks in total. To determine how many units of each product it must sell to break even we multiply the break-even value with the ratio of each product’s revenue to total revenues: Classic Coffee:		 Espresso:		 Hot Chocolate:	 19,784 × 50% = 9,892 units, 19,784 × 30% = 5,935 units and 19,784 × 20% = 3,957 units.
+
+The above analysis can be used to answer a variety of planning questions. We can also vary the sales mix to see what happens under alternative strategies.
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+10
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Break-Even Analysis
+
+Applying Break-Even Analysis in Services Industry
+
+5	 Applying Break-Even Analysis in Services Industry
+Break-even analysis can be used not only for companies that sell products, but also for companies that offer services. The following example is taken from the services’ sector and shows us the calculation that the Finance Dpt of Advertising Ltd has made in order to evaluate a future project. Specifically, the Marketing department of Advertising Ltd came up with the idea of “buying” advertising space of urban buses in town Ville. They believe that many local companies will be willing to be advertised in urban buses by having their logos and various advertisements placed along buses’ sides. Also, they believe that annual “bus rental” (advertising in every dimension of a bus) can be “sold” for €1,500. Municipal Bus Line, during negotiations with Advertising Ltd, made the following proposal: “Fixed payment of €500 for each bus of its fleet and extra payment (variable rental cost) €200 for each bus that will be used as for advertisement by Advertising’s clients“. Given that the agreement will be valid for every single local bus of municipal lines (40 buses in total) the Finance Department calculated, as follows, the break even point:
+B.E.P. Fixed Costs Constribution Margin 40  €500 €1500  €200 €20000 €1300 15,4 buses
+
+75000 60000
+Sales
+
+Euros
+
+45000 30000 15000 0 0 5 10 15 20 25 30 35 40 45
+
+B.E.P.
+
+Total Costs
+
+Fixed Costs
+
+Buses
+
+Diagram 4: Break-Even Point Graph, Municipal Bus Line Proposal
+
+11
+Download free eBooks at bookboon.com
+
+Break-Even Analysis
+
+Applying Break-Even Analysis in Services Industry
+
+The answer in this case is 15,4 buses (shown in Diagram 4), which is the target number, the expected volume that covers both fixed and variable rental expenses of this new project. The management of Advertising Ltd. considered that pre-start projections and operating realities may be different and that the company may fall below the break-even volume. Generally, there are three ways for a company to lower its break-even volume, two of them involve cost controls: •	 Lower direct costs (i.e. controlling inventory), which will raise the gross margin, •	 exercise cost controls on fixed expense (i.e. use of capital budgeting) and •	 raise prices (not easy in a price-sensitive market). After several meetings, the finance and Marketing Dpts ended up with the following scenario to be proposed to Municipal Bus Lines: “Fixed payment of €250 for each bus of its fleet and extra payment (variable rental cost) €600 for each bus that will be used in campaign”. In this case, the total cost for each bus is €850, that is €150 more than the previous scenario. However, as the following equation shows, the break-even point is less (Diagram 5).
+
+Diagram 5: Break-Even Point Graph, Advertising Ltd Proposal
+
+B.E.P.
+
+Fixed Costs Constribut ion Margin
+
+40  €250 €1500  €600
+
+€10000 €900
+
+11,1 buse s
+
+Diagram 5 depicts a comparison of total costs incurred, under these two scenarios. Total costs under the first scenario begin from €20,000 and rise with a low rate, while total costs under the second scenario begin from a significantly lower point (€10,000) but increase rapidly as sales rise. Intersection of the two lines (point A) gives us the point at which total costs under two scenarios are equal. So, over 25 buses as sales increase (the number of buses “rented”) total costs – under scenario 1 – increase with a lower rate in contrast to scenario 2. Inference is obvious. If the Marketing department of Advertising Ltd. believes that more than 25 buses will be “rented” (63% of total fleet of buses), then there is no need to make a different proposal and should agree with Municipal Bus Lines’ offer. On the other hand, the second scenario could be proposed because this project is a new venture and the most important thing during the first year is to lower the break-even point rather than to maximize profits.
+12
+Download free eBooks at bookboon.com
+
+Break-Even Analysis
+
+Applying Break-Even Analysis in Services Industry
+
+Diagram 6: Cost comparison between Scenario 1 and Scenario 2.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+13
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Break-Even Analysis
+
+Operating Leverage
+
+6	 Operating Leverage
+Diagrams 7, 8 and 9 depict the issue of operating leverage in three different companies that sell the same product. Company “First” maintains a low level of fixed assets therefore its fixed costs (€30,000), are not high. But, in order to offset this weakness it “suffers” from high variable expenses (€2). Company “Second” experiences lower variable costs (€1.5), as a consequence of having invested in new, more productive machinery (fixed costs €50,000). This company ends up with a greater break-even value, due to the higher fixed expenses. So, at €15,000 units company “First” breaks-even, but “Second” is making loss. Finally, company “Third” has spent large amount in buying latest machinery and building plants (resulting to a fixed costs of €60,000). Its production is fully automated and fewer workers are needed. As a result variable expenses rise (according to production’s increase) at a very low rate. Break-even value for company “Third” is higher than the one that “Second” experiences. But, beyond this point its profits highly increase at each level of rising sales. This is a useful information for its Marketing Departement and generally for its management when it prepares company’s pricelist. We took the selling price (€4) for granted, but what will happen if company “Third” decides to increase its market share by cutting the selling price? The following table gives us the answer: Selling Price: €4
+First Total Cost (€) Units Sold Cost per unit (€) 430,000 200,000 2.15 Second 350,000 200,000 1.75 Third 260,000 200,000 1.30
+
+Company “First” Selling Price: €4 Fixed Expense: €30,000	 Variable Cost (per unit): €2
+Items Sold 10,000 15,000 50,000 60,000 100,000 Sales (€) 40,000 60,000 200,000 240,000 400,000 Total Cost (€) 50,000 60,000 130,000 150,000 230,000 Profit (€) (10,000) 0 70,000 90,000 170,000
+
+14
+Download free eBooks at bookboon.com
+
+Break-Even Analysis
+
+Operating Leverage
+
+Diagram 7: Break-Even Point Graph, Company “First”
+
+Company “Second” Selling Price: €4 Fixed Expense: €50,000	 Variable Cost (per unit): €1.5
+Items Sold 10,000 20,000 50,000 60,000 100,000 Sales (€) 40,000 80,000 200,000 240,000 400,000 Total Cost (€) 65,000 80,000 125,000 140,000 200,000 Profit (€) (25,000) 0 75,000 100,000 200,000
+
+Diagram 8: Break-Even Point Graph, Company “Second”
+
+15
+Download free eBooks at bookboon.com
+
+Break-Even Analysis
+
+Operating Leverage
+
+Company “Third” Selling Price: €4 Fixed Expense: €60,000	 Variable Cost (per unit): €1
+Items Sold 10,000 20,000 50,000 60,000 100,000 Sales (€) 40,000 80,000 200,000 240,000 400,000 Total Cost (€) 70,000 80,000 110,000 120,000 160,000 Profit (€) (30,000) 0 90,000 120,000 240,000
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+16
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Break-Even Analysis
+
+Operating Leverage
+
+Diagram 9: Break-Even Point Graph, Company “Third”
+
+When there is mass production (200,000 units) total cost per unit for company “Third” is €1.30, which gives a significant cost advantage against competitors “First” and “Second”. In this case, company “Third” can lower the selling price and offer its products at the price of €2. This price knocks out of competition company “First”, while company “Second” makes marginal profits. It is, therefore, obvious that there is an interaction between investment in fixed assets, variable costs and invoicing. Operating leverage relates sales (in volume) with operational earnings. Mathematically, it can be defined as the ratio of percentage change in operating earnings to percentage change in sales (or units sold).
+Degree of Operating Leverage = % ǻX % ǻQ
+
+X = Profits, ΔX = Change in profits Q = Sales (volume) ΔQ = Changes in sold items
+
+17
+Download free eBooks at bookboon.com
+
+Break-Even Analysis
+
+Operating Leverage
+
+Applying the above formula to companies “First” and “Second” and for sales volume 60,000 units (from 50,000 units) we find out that operating level is 1.43 and 1.65 respectively. The meaning is that if company “Second” sells 10% more products, its profits will raise by 16.5%, while if company “First” experiences same rise in sales, it will end up with a 14.3% growth in its profits. So, earnings of company “Second” are more sensitive to changes in the volume of items’ sold than earnings of company “First”. In other words, the larger the degree of operating leverage, the greater the profits’ volatility. Consequently, a high degree of operating leverage implies that an aggressive price policy (a situation where products’ prices decrease in the expectation of relatively higher increase in units sold) may lead to an important rise of profits, especially if the subject market is sensitive to products prices (e.g. pharmaceuticals).
+
+18
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Break-Even Analysis
+
+Discounts and Promotions
+
+7	 Discounts and Promotions
+A common question when deciding marketing strategies is “Should we offer a discount?”. The answer to this question is far beyond simple and straightforward. It involves the examination of many factors such as the competition, the elasticity of demand etc. One can use break-even analysis to answer the above question from a pure cost and profit perspective. If the discount offer is made with a final objective to increase profit through an increase in sales volume, caution should be exercised on the fact that the expected increase in sales (incremental sales) will be adequate to make up for the “lost” profit from the discount offer. To illustrate, let us assume that the owner of a cinema in Alicante, Spain wants to increase the number of customers in August. His records indicate that his 500-seat hall, is typically less than 30 percent full during August (the lowest tickets sales among the twelve months of the year). He wants to increase the number of ticket sold beyond the average of 150 per day for that month (500 seats × 30%). In order to achieve that, he decides to offer a 20 percent discount to everyone who buys tickets during that month. To promote his offer his will run advertisements in a newspaper at a cost of €1000. If the selling price, without the discount offer, is €10 and the variable cost per person is €2, how many additional customers must he generate in August through this promotion in order to break-even on the total expenses related to the promotion and the discount offer? We can answer the above question by applying the break-even analysis. In particular, we should first estimate the total expenses related to the promotion and the discount offer (fixed costs). In this case, we have obvious costs of €1000 (advertisement) and a “hidden” cost. This “hidden” cost reflects the lost profit from the discount offer. This is calculated as follows: 500 seats × 30% average ticket sales for August = 150 tickets per day Lost profit per customer €10 × 20% discount = €2 per customer Total Lost profit for August: 150 tickets × €2 × 31days = €9,300
+B.E.P.(tickets) € 9300  € 1000 €8 € 2 € 10300 €6 1,717 tickets (approx. 56 per day)
+
+Approximately 56 more tickets must be sold per day in August to cover the total cost of the promotion (advertisement and discount). In other words, 206 tickets must be sold on average per day to have the same profit as at the level of 150 tickets before the promotion. This represents an increase of 37.3 percent. The owner of the cinema can use this figure as an additional tool to decide whether this is a good idea or not. He might believe that a 20 percent discount might not be enough to attract 37 percent more customers (without any additional profit) and therefore reconsider his decision. On the other hand, he might believe that if he can break even on the cost of the promotion, the additional customers will generate more sales for the kiosk from buying pop-corn, drinks etc.
+19
+Download free eBooks at bookboon.com
+
+Break-Even Analysis
+
+Conclusion
+
+8	Conclusion
+Break-even analysis is useful as a first step in developing financial applications, which can be used in invoicing and budgeting. The main purpose of this analysis is to have some idea of how much to sell, before a profit will be made. Break-even analysis is extremely important before starting a new business (or launching a new product) because it gives answers to crucial questions such as “how sensitive is the profit of the business to decreases in sales or increases in costs”. This analysis can be also extended to early stage business in order to determine how accurate the first predictions were and monitor whether the firm is on the right path (the one that leads to profits) or not. Even, mature business must take into consideration their current B.E.P. and find ways to lower that benchmark in order to increase profits. Owners and managers are constantly faced with decisions about selling prices and cost control (recent massive layoffs at large multinational corporations are directed at this target, lowering the B.E.P. and increasing profits). Unless they can make reasonably accurate predictions about the price and cost charges, their decisions may yield undesirable results. These decisions are both short term (hiring new employees or subcontracting out work) and long term (purchasing plants / machinery).
+
+20
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Break-Even Analysis
+
+Bibliography
+
+Bibliography
+Baker M. (2000): Marketing Strategy and Management. London: MacMillan Press Ltd. Buzeell R., and Gale B. (1987): The PIMS Principles: Linking Strategy to Performance. New York: The Free Press Cartwright P. (2002): Mastering Marketing Management. New York: Palgrave. Kasper H., and Helsdingen P. (1999): Services Marketing Management. West Sussex: John Wiley & Sons Ltd. Lancaster G., and Massingham L. (2001): Marketing Management. Berkshire: McGraw-Hill Publishing Company. Ross S., Westerfield R., and Jaffe J. (2002): Corporate Finance. New York: McGraw-Hill Publishing Company. Sutton T. (2000): Corporate Financial Accounting and Reporting. Essex: Pearson Educational Ltd. Weston F., and Brigham E. (1986): Basic Principles of Financial Management and Strategy. Athens: Papazisi Publishing Company.
+
+21
+Download free eBooks at bookboon.com
+

@@ -1,0 +1,505 @@
+Reporting	Techniques
+In	Support	of	Managerial	Decision	Making Larry	M.	Walther;	Christopher	J.	Skousen
+
+Download	free	books	at
+
+Larry M. Walther
+
+Reporting Techniques in Support of Managerial Decision Making
+Budgeting and Decision Making
+
+2
+Download free eBooks at bookboon.com
+
+Reporting Techniques in Support of Managerial Decision Making: Budgeting and Decision Making 1st edition © 2010 Larry M. Walther, under nonexclusive license to Christopher J. Skousen & bookboon.com. . All material in this publication is copyrighted, and the exclusive property of Larry M. Walther or his licensors (all rights reserved). ISBN 978-87-7681-576-9
+
+3
+Download free eBooks at bookboon.com
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Contents
+
+Contents
+	 Part 3 R  eporting Techniques in Support of Managerial Decision Making	 6 7 7 7 9 10 10 11 12 13
+
+1	 Variable Versus Absorption Costing 	 1.1	 1.2	 1.3	 1.4	 1.5	 1.6	 Absorption Costing 	 Variable Costing 	 Variable Costing in Action 	 A Double-Edge Sword 	 Avoiding a Downward Spiral 	 Confused? 	 Income Statements 	 1.8	 The Impact of Inventory Fluctuations 	
+
+1.7	 An In-Depth Comparison of Variable Costing and Absorption Costing
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Contents
+
+2	 2.1	 2.2	 2.3	 2.4	 3	 3.1	
+
+Segment Reporting 	 Internal Reporting of Segment Data 	 The Problem of Segment Income Measurement	 Contribution Income Statement Format	 External Reporting of Segment Data 	 Measures of Residual Income	 Keeping Residual Income in Perspective	
+
+16 16 16 17 19 22 23 24 24 25 26 27 28 29 31
+
+4	 Concepts in Allocating Service Department Costs	 4.1	 4.2	 4.3	 The Direct Method of Allocating Service Department Cost	 The Step Method of Allocating Service Department Cost 	 Multiple Steps and Simultaneous Allocations 	
+
+5	 Leveraging the Power of Modern Information Systems	 5.1	 5.2	 Line Item VS. Object of Expenditure 	 Business Dashboard 	
+
+	Appendix	
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Reporting Techniques in Support of Managerial Decision Making
+
+ReportingTechniques in Support of Managerial Decision Making
+
+Part 3	 Reporting Techniques in Support of Managerial Decision Making
+Your goals for this “reporting” chapter are to learn about: •	 Variable costing versus absorption costing. •	 Segment reporting. •	 Measures of residual income. •	 Concepts in allocating service department costs. •	 Leveraging modern information systems to enable better decisions.
+
+6
+Download free eBooks at bookboon.com
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Reporting Techniques in Support of Managerial Decision Making
+
+1	Variable Versus Absorption Costing
+Recall this statement from the first managerial accounting chapter: “Managerial accounting is quite different from financial accounting. External reporting rules are replaced by internal specifications as to how data are to be accumulated and presented. Hopefully, these internal specifications are sufficiently logical that they enable good economic decision making.” Now that you have accumulated knowledge on various managerial accounting concepts, you are in a good position to look more closely at some of the techniques for internal reporting. This chapter’s initial topic pertains to an internal reporting method for measuring and presenting inventory and income, known as variable costing.
+
+1.1	
+
+Absorption Costing
+
+Before diving into the specifics of variable costing, let’s revisit the basic tenants of the traditional approach known as absorption costing (also known as “full costing”). Generally accepted accounting principles require absorption costing for external reporting, and it formed the basis for the discussion of inventory costing found in preceding chapters. Under absorption costing, normal manufacturing costs are considered product costs and included in inventory. As sales occur, the cost of inventory is transferred to cost of goods sold; meaning that the gross profit is reduced by all costs of manufacturing, whether those costs relate to direct materials, direct labor, variable manufacturing overhead, or fixed manufacturing overhead. Selling, general, and administrative costs (SG&A) are classified as period expenses. The rationale for absorption costing is that it causes a product to be measured and reported at its complete cost. Just because costs like fixed manufacturing overhead are difficult to identify with a particular unit of output does not mean that they were not a cost of that output. As a result, such costs are allocated to products. However valid the claims are in support of absorption costing, the method does suffer from some deficiencies as it relates to enabling sound management decisions. These deficiencies will become clear as you examine variable costing. For now, suffice it to say that absorption costing information may not always provide the best signals about how to price a product, reach conclusions about discontinuing a product, and so forth.
+
+1.2	
+
+Variable Costing
+
+To mitigate for deficiencies in absorption costing data, strategic finance professionals will often generate supplemental data based on variable costing techniques. As its name suggests, only variable production costs are assigned to inventory and cost of goods sold. These costs generally consist of direct materials, direct labor, and variable manufacturing overhead. Fixed manufacturing costs are regarded as period expenses along with SG&A costs.
+
+7
+Download free eBooks at bookboon.com
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Reporting Techniques in Support of Managerial Decision Making
+
+The variable costing approach shifts fixed manufacturing costs from the product cost category to the period cost group. In some ways, this understates the true cost of production. How then can it aid in decision making? The short answer is that the fixed manufacturing overhead is going to be incurred no matter how much is produced. In the long run, a business must recover those costs to survive. But, on a case by case basis, including fixed manufacturing overhead in a product cost analysis can result in some very wrong decisions. This last point can be made clear with a very simple illustration. Assume that a company produces 10,000 units of a product, and per unit costs are $2 for direct material, $3 for direct labor, and $4 for variable factory overhead. In addition, fixed factory overhead amounts to $10,000. The product cost under absorption costing is $10 per unit, consisting of the variable cost components ($2 + $3 + $4 = $9) and $1 of allocated fixed factory overhead ($10,000/10,000 units). Under variable costing, the product cost is limited to the variable production costs of $9. Now, let’s consider a “management decision.” Assume the company is approached to sell one additional unit at $9.50. This sale will not result in any added SG&A cost, or otherwise impact sales of other units.
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+8
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Based on absorption costing methods, the additional unit appears to produce a loss of $0.50, and it appears that the correct decision is to not make the sale. Variable costing suggests a profit of $0.50, and the information appears to support a decision to make the sale. Management may well decide to sell the additional unit at $9.50, and produce an additional $0.50 for the bottom line. Remember, no other costs will be generated by accepting this proposed transaction. If management were limited to absorption costing information, this opportunity would likely have been passed up.
+
+1.3	
+
+Variable Costing in Action
+
+The preceding illustration highlights a common problem faced by many businesses. Consider the plight of a typical airline. As time nears for a scheduled departure, unsold seats represent lost revenue opportunities. The variable cost of adding one more passenger to an unfilled seat is quite negligible, and almost any amount of revenue that can be generated has a positive contribution to profit! An automobile manufacturer may have a contract with union labor requiring employees to be paid even when the production line is silent. As a result, the company may conclude that they are better off building cars at a “loss” to avoid an even “larger loss” that would result if production ceased. Professional sports clubs will occasionally offer steeply discounted tickets for unpopular games. Obviously, the variable cost of allowing someone to watch the game is nominal. Countless such examples exist in business. Likely, variable costing information is taken into account in making the decisions relating to the examples just cited. Each decision is intended to be in the best interest of the entity, even when a full costing approach causes the decision to look foolish.
+
+9
+Download free eBooks at bookboon.com
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Reporting Techniques in Support of Managerial Decision Making
+
+1.4	
+
+A Double-Edge Sword
+
+A typical textbook illustration of decision making based on variable costing data looks simple enough. But, such decisions are actually very tricky. Considerable business savvy and discipline are necessary, and there are several traps that must be avoided. First, a business must ultimately recover the fixed factory overhead and all other business costs; the total units sold must provide enough margin to accomplish this purpose. It would be easy to use up the full manufacturing capacity, one sale at a time, and not build in enough margin to take care of all the other costs. If every transaction were priced to cover only variable cost, the entity would quickly go broke. Second, word gets around … if a company offers special deals on a selective basis, other regular customers may become alienated or start to hold out for lower prices as well. The key point here is that variable costing information is useful, but it should not be the sole basis for decision making.
+
+1.5	
+
+Avoiding a Downward Spiral
+
+Variable costing data is quite useful in avoiding incorrect decisions about product discontinuation. Many businesses offer multiple products. Some will usually be more successful than others, and a logical business decision may be to focus on the best performing units, while discontinuing others. Consider the data below. This company offers three products (A, B, and C). Each is being produced in equal proportion, and the company is fully able to meet customer demand from existing capacity (i.e., producing more will not increase sales). The company is not incurring any other variable costs relating to selling, general, and administration efforts. From the absorption costing data shaded in tan, it appears that Product A is yielding a negative gross profit. Logically, a manager may target that product for discontinuation. However, if that decision is reached, Products B and C will each have to absorb more fixed factory overhead. The revised cost data (in rose shading) show that eliminating Product A will actually reduce overall profitability!
+PRODUCTS A Direct Materials Direct Labor Variable Factory Overhead Fixed Factory Overhead Total Product Cost VS. Selling Price YIELDS Gross Profit COMBINED PROFITS ($ 1) $ 3 $ 7 $ 5 $ 2 $ 6 $ 4 $15 $15 $15 $15 $15 $ 6 5 3 2 $16 B $ 5 2 3 2 $12 C $ 4 1 3 2 $10 PRODUCTS B $ 5 2 3 3 $13 C $ 4 1 3 3 $11
+
+$ $6
+
+10
+Download free eBooks at bookboon.com
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Reporting Techniques in Support of Managerial Decision Making
+
+The decline in overall profits from discontinuing the “loser” occurs because the “loser” was absorbing some fixed cost of production. The $15 selling price for Product A at least covered its variable cost ($6 + $5 + $3 = $14). The lesson here is that a company must be very careful in eliminating “unprofitable” products. This decision can often result in a series of successive shifts in overhead to other remaining products. This, in turn, can cause other products to also appear unsuccessful. A downward spiral of product discontinuation decisions can ultimately destroy a business that was otherwise successful. This illustration underscores why a good manager will not rely exclusively on absorption costing data. Variable costing techniques that help identify product contribution margins (as more fully described in the following paragraphs) are essential to guiding the decision process.
+
+1.6	Confused?
+You may feel a bit whip-sawed by the preceding discussion. On the one hand, variable costing has been praised for its benefits in aiding decisions. On the other hand, you have been cautioned that variable costing is not a panacea and should not be used as the sole basis for making decisions.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+11
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Guiding a business is not easy. Decision making is not as simple as applying some mathematical algorithm to a single set of accounting data. A good manager must consider business problems from multiple perspectives. In the context of measuring inventory and income, a manager will want to understand both absorption costing and variable costing techniques. This information must be interlaced with knowledge of markets, customer behavior, and the like. The resulting conclusions can set in motion plans of action that bear directly on the overall fate of the organization.
+
+1.7	 An In-Depth Comparison of Variable Costing and Absorption Costing Income Statements
+Much of the preceding discussion focused on per-unit cost assessments. In addition, the examples assumed that selling, general, and administrative costs were not impacted by specific actions. It is now time to consider aggregated financial data, and take into account shifting amounts of SG&A. The following income statements present information about Nepal Company; on the left is the income statement prepared using the absorption costing method, and on the right is the same information using variable costing. For now, assume that Nepal sells all that it produces, resulting in no beginning or ending inventory.
+NEPAL COMPANY Absorption Costing Income Statement External Use Basis For the Month Ending August 31, 20X7 Sales Less: Cost of goods sold Gross profit Less: SG&A Variable SG&A Fixed SG&A Income $750,000 450,000 $300,000 $112,500 100,000 212,500 $ 87,500 NEPAL COMPANY Variable Costing Income Statement Internal Use Only For the Month Ending August 31, 20X7 Sales Less: Var. product cost Variable mfg. margin Less: Variable SG&A Contribution margin Less: Fixed expenses Fixed factory cost Fixed SG&A Income $750,000 300,000 $450,000 112,500 $327,500 $150,000 100,000 250,000 $ 87,500
+
+With absorption costing, the income statement produces a subtotal (gross profit) which is derived by subtracting cost of goods sold from sales. Cost of goods sold includes the $450,000 total cost of production consisting of direct materials, direct labor, variable manufacturing overhead, and the allocated fixed manufacturing overhead. From gross profit, variable and fixed selling, general, and administrative costs are subtracted to arrive at net income. This approach should look very familiar. It is the presentation that is typical of financial statements that are generated for general use by shareholders and other persons external to the daily operations of a business.
+
+12
+Download free eBooks at bookboon.com
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Reporting Techniques in Support of Managerial Decision Making
+
+With variable costing, all variable costs are subtracted from sales to arrive at the contribution margin. Nepal’s presentation divides variable costs into two categories. The variable product costs include all variable manufacturing costs (direct materials, direct labor, and variable manufacturing overhead). These costs are subtracted from sales to produce the variable manufacturing margin. Some of Nepal’s SG&A costs also vary with sales. As a result, these amounts must also be subtracted to arrive at the true contribution margin. Management must take into account all variable costs (whether related to manufacturing or SG&A) in making critical decisions. For instance, Nepal may pay sales commissions that are based on sales; to exclude those from consideration in evaluating the “margin” that is to be generated from a particular transaction or event would be quite incorrect. From the contribution margin are subtracted both fixed factory overhead and fixed SG&A costs. Because Nepal does not carry inventory, the income is the same under absorption and variable costing. The difference is only in the manner of presentation. Carefully study the arrows that show how amounts appearing in the absorption costing approach would be repositioned in the variable costing income statement. Since the bottom line is the same under each approach, this may seem like much ado about nothing. But, remember the critical points discussed earlier. “Gross profit” is not the same thing as “contribution margin,” and decision logic is often driven by consideration of contribution effects. Further, when inventory levels fluctuate, the periodic income will differ between the two methods.
+
+1.8	
+
+The Impact of Inventory Fluctuations
+
+The following income statements are identical to those previously illustrated, except sales and variable expenses are reduced by 10%. Assume that the units relating to the “10% reduction” were nevertheless manufactured. What is the effect of this inventory build-up? The data below shows that income is higher under absorption costing by $15,000. This is consistent with a general rule of thumb: Increases in inventory will cause income to be higher under absorption costing than under variable costing, and vice versa.
+NEPAL COMPANY Absorption Costing Income Statement External Use Basis For the Month Ending August 31, 20X7 Sales Less: Cost of goods sold Gross profit Less: SG&A Variable SG&A Fixed SG&A Income $675,000 405,000 $270,000 $101,250 100,000 201,250 $ 68,750 NEPAL COMPANY Variable Costing Income Statement Internal Use Only For the Month Ending August 31, 20X7 Sales Less: Var. product cost Variable mfg. margin Less: Variable SG&A Contribution margin Less: Fixed expenses Fixed factory cost Fixed SG&A Income $675,000 270,000 $405,000 101,250 $303,750 $150,000 100,000 250,000 $ 53,750
+
+13
+Download free eBooks at bookboon.com
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Reporting Techniques in Support of Managerial Decision Making
+
+To further examine the reason income is higher, remember that $450,000 was attributed to total production under absorption costing. Of this amount, 10% ($45,000) is now diverted into inventory. However, under variable costing, total product costs were $300,000 and 10% ($30,000) of that amount would be assigned to inventory. As a result, $15,000 more is assigned to inventory under absorption costing. It is no coincidence that this $15,000 amount also coincides with the degree to which income is higher! After all, the balance sheet must balance – the extra $15,000 in inventory is matched with an increase in equity brought about by the higher income under absorption costing. Another way to view the impact of the inventory build-up is to examine the following “cups.” The top set of cups initially contain the costs incurred in the manufacturing process. With absorption costing, those cups must be emptied into either cost of goods sold, or ending inventory. Trace the arrows, noting how the contents of the cups on top are split between the cups beneath.
+
+Now, carefully compare the absorption costing drawing to the variable costing illustration that follows. You will note several important differences. Foremost among those differences is that the ending inventory cup contains less with variable costing than it does with absorption costing. Specifically, there is no fixed factory overhead in ending inventory!
+
+14
+Download free eBooks at bookboon.com
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Reporting Techniques in Support of Managerial Decision Making
+
+These illustrations support the general conclusion about the relationships between absorption costing and variable costing income. Recognize that a reduction in inventory during a period will cause quite the opposite effect on income. Specifically, a portion of the contents of the beginning inventory cup would be transferred to expense commensurate with the decrease in inventory; since the inventory cup contains less under variable costing, expect expenses to be lower (and income to be higher).
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+15
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Segment Reporting
+
+2	 Segment Reporting
+The previous chapter provided insight into the preparation of performance reports by area of responsibility. The notion of holding unit managers accountable only for activities and costs under their control was introduced, along with a promise that the topic would be further developed within the present chapter. It is now time to give added consideration to the measurement and reporting of such segmented business data. A segment can be defined in many ways, but one prevailing view is that it is a discrete business unit for which separate financial information is prepared and evaluated by an operating decision maker within the organization. This decision maker usually has authority to allocate resources and judge performance of the unit, and typically relies upon the segment’s financial reports in making those calls. Thus, it is quite important that segmented data be prepared in ways that facilitate thoughtful and correct decisions.
+
+2.1	
+
+Internal Reporting of Segment Data
+
+Within the scope of the introductory definition, a segment might be a region, territory, division, product category, department, or other classification. A “segment” as judged by upper management might be made up of “sub segments” that are, in turn, judged by middle managers. The segmentation of an entity is a highly subjective process. The goal is divide/allocate overall performance outcomes to the various moving pieces that make up the entire entity. In other words, segment data should indicate what each part of the entity is contributing to the overall basket of business outcomes.
+
+2.2	
+
+The Problem of Segment Income Measurement
+
+Great care must be taken to develop a very logical structure for evaluating the income of individual segments. Recall the distinction between direct costs and indirect costs. Direct costs are easily traced to and associated with a particular business segment; indirect costs are not. It is fairly easy to understand how direct costs should be pinned on a particular segment in measuring its results. Indirect costs are a more vexing problem. They may be necessary costs for the overall organization to function, but how are they to be allocated to segments? Virtually any allocation scheme is potentially arbitrary. Furthermore, such costs may be well beyond the control of the segment to which they are potentially assigned. For instance, a soft drink company may engage in an expensive national advertising campaign that benefits ten different bottling plants; how much (if any) advertising cost should be assigned to each plant? It is an interesting question – especially if you are a plant manager whose compensation is tied to the profitability of your operation.
+
+16
+Download free eBooks at bookboon.com
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Segment Reporting
+
+Another problem of segment profit measurement is that a direct cost can become indirect as it is pushed down within an organization. This problem can be understood from the perspective of an example that might be quite familiar to you. Suppose you share an apartment with a roommate. The apartment may have a separate electric meter, and you and your roommate probably get a single bill representing your shared usage. The electricity cost is a direct cost clearly matched to your apartment. But, how is the cost to be shared between you and your roommate? Probably, you and your roommate have an agreement to split the cost equally. This split will occur even though you and your roommate do not use exactly the same quantity of electricity. At the individual person level, the electricity cost is an indirect allocated cost, even though it is a direct cost of your apartment. In similar fashion, many business costs can be traced to a segment at one level, but are simply allocated to the sub segments. Because these allocations impact the perceived profitability of individual business units, great care must be exercised in the allocation and interpretation process. It is not uncommon for a business to develop a model for allocating indirect costs to business units. The allocation scheme is often the subject of debate and consternation. Depending on the scheme in play, there will likely be winners and losers. But, more likely than not, each business unit will feel that their profit measurement is unduly burdened by more than a fair share of indirect cost absorption.
+
+2.3	
+
+Contribution Income Statement Format
+
+To mitigate for the aforementioned allocation problems, managerial accountants sometimes prepare a contribution income statement for each segment. This internal use document is consistent with responsibility accounting. Rather than focusing on segment profit/loss after taking into account all business costs, it instead identifies each segment’s controllable elements. The exact format of the statement can vary considerably, but it generally facilitates identification of each unit’s contribution margin, controllable fixed costs, and uncontrollable fixed costs. The net of these cost elements comprise the segment margin. Costs that cannot be traced directly to a subunit are considered only at higher levels. Zen Computers is a diversified company with two primary divisions – Computer Hardware and Systems Support. The Hardware unit focuses on personal computers (PCs) and personal digital entertainment devices (PDE). Below are partial contribution income statements for Zen. Review these statements carefully, taking into consideration the various notes appended to the illustration:
+
+17
+Download free eBooks at bookboon.com
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Segment Reporting
+
+Directly traced to overall division, but not individual product unit Typical contribution margin as determined under variable costing method Controllable by management and directly traceable to segment (e.g. supervisory salaries) A key number in evaluating management performance for applicable unit Not controllable by management but incurred by segment (e.g., property taxes, depreciation, etc.) A key number in evaluating business viability for applicable unit
+
+20X5 DIVISIONAL REPORT FOR HARDWARE CONTRIBUTION INCOME STATEMENTS (in thousands of dollars)
+Division Total Net sales Less: Variable Product Costs Variable SG&A Total Variable Costs Contribution Margin Less: Controllable Fixed Costs Controllable Contribution Margin Less: Uncontrollable Fixed Costs Segment Margin $ 18,000 $ $ $ $ $ 6,600 1,800 8,400 9,600 3,200 6,400 1,000 5,400 PCs $ 12,000 $ $ $ $ $ 4,800 1,200 6,000 6,000 2,000 4,000 500 3,500 $ $ $ $ $ $ PDEs 6,000 1,800 600 2,400 3,600 800 2,800 300 2,500 400 (400) 200 (600) NonTraceable
+
+$ $
+
+20X5 CORPORATE SUMMARY REPORT CONTRIBUTION INCOME STATEMENTS (in thousands of dollars)
+Company Total Net sales Less: Variable Product Costs Variable SG&A Total Variable Costs Contribution Margin Less: Controllable Fixed Costs Controllable Contribution Margin Less: Uncontrollable Fixed Costs Segment Margin Less: General Corporate Costs Net Income $ 29,000 $ 12,100 2,900 $ 15,000 $ 14,000 5,200 $ 8,800 1,900 $ 6,900 1,700 $ 5,200 Hardware $ 18,000 $ $ $ $ $ 6,600 1,800 8,400 9,600 3,200 6,400 1,000 5,400 Systems $ 11,000 $ $ $ $ $ 5,500 1,100 6,600 4,400 2,000 2,400 900 1,500
+
+Not traceable to individual divisions
+
+18
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Segment Reporting
+
+In examining the divisional report for the hardware business (shaded in yellow), notice that separate segment margins were computed for each product unit (PCs and PDEs). The segment margin helps identify if each product is supporting its imbedded cost structure. Within each product segment, a distinction is drawn between the segment margin and the controllable contribution margin. This distinction is important in differentiating between management performance vs. business viability. In other words, management is charged with controlling certain costs, and management performance can be judged based on the controllable margin. However, a business unit may necessarily incur additional fixed costs that are beyond the control of management; these uncontrollable fixed costs must be considered in evaluating the viability of a business unit, independent of the assessment of management performance. Note that certain costs incurred by the hardware division could not be assigned to a specific product segment (these costs are noted in the separate column for non traceable costs). These costs are included in the totals of the hardware division, but are not useful in evaluating the performance of the individual products. The hardware division is carried forward into the corporate summary report (shaded in green), and totaled together with results of the systems division. Certain general corporate expenses were not traceable to individual divisions/products, and are only taken into consideration in the overall corporate income calculations. This type of contribution income statement reporting helps remove the bias that can result from arbitrary allocation of common costs and is sometimes helpful in identifying which business segments are targets for expansion, restructure, or discontinuance.
+
+2.4	
+
+External Reporting of Segment Data
+
+For corporate management to correctly discharge their duties, it is quite apparent why overall financial data must be disaggregated into segmented information. However, this same management group may be reluctant to share such information for external reporting. The reasons can vary, but one important point is that some units may be performing very well, and management does not wish to attract the attention of potential competitors. Conversely, some units may be a drag and management would rather not call attention to business mistakes. Nevertheless, rules developed by the Financial Accounting Standards Board do require public companies to present a limited amount of financial information for each business segment. Potential investors usually find these added disclosures to be quite revealing. Generally, a company must provide descriptive information about its reportable operating segments, and note the revenues, operating profits, and identifiable assets of each significant segment. The standard also requires that segment data be reconciled to corporate totals, specifically noting the general corporate costs that were not traceable to individual segments.
+
+19
+Download free eBooks at bookboon.com
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Segment Reporting
+
+At the top of the following page is a reduced/edited/highlighted illustration (actual rules require other disclosures about capital expenditures, etc., by segment; those amounts are redacted from this illustration) of segment data prepared by a public company, as taken from filings with the Securities and Exchange Commission:. The FASB rules require that companies identify their externally reported segments using the same logic that is used to identify and manage segments on an internal basis. Although it is not illustrated here, you might also find it interesting to know that these same rules require companies to externally report information about geographic areas of operation (in a global context, such as Asia, Europe, the Americas, etc.) and the existence of major customers who comprise over 10% of a company’s revenue stream.
+
+20
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Segment Reporting
+
+Operating segments The Company has two reportable segments as defined by the FASB No. 131, Disclosures about Segments of an Enterprise and Related Information: (1) Electrical and Industrial Products and (2) Galvanizing Services. The Electrical and Industrial Products Segment provides highly engineered specialty components supplied to the power generation transmission and distribution market, as well as products to the industrial market. The Galvanizing Services Segment provides hot dip galvanizing services to the steel fabrication industry through facilities located throughout the south and southwest. Hot dip galvanizing is a metallurgical process by which molten zinc is applied to a customer’s material. The zinc bonding renders a corrosive resistant coating enhancing the life of the material for up to fifty years. Information regarding operations and assets by segment is as follows: 20X5 20X4 (In thousands) Net sales: Electrical and Industrial Products Galvanizing Services $ 100,542 51,886 $ 152,428 Segment Operating income (a): Electrical and Industrial Products Galvanizing Services Total Segment Operating Income Reconciliation of segment income to corporate income: General corporate expenses (b) Interest expense Other (income) expense, net $ Income before income taxes Total assets: Electrical and Industrial Products Galvanizing Services Corporate $ 79,424 45,042 4,169 $ 128,635 $ 74,061 42,222 3,743 $ 120,026 $ 86,278 44,036 3,723 $ 134,037 $ $ 7,718 1,637 76 9,431 7,407 $ $ $ 5,913 2,407 (193) 8,127 6,878 $ $ $ 5,869 3,945 122 9,936 13,895 $ $ 7,282 9,556 16,838 $ $ 6,363 8,642 15,005 $ $ 14,868 8,963 23,831 $ 88,916 47,285 $ 136,201 $ 134,861 48,509 $ 183,370 20X3
+
+(a) Segment operating income consists of net sales less cost of sales, specifically identifiable selling, general and administrative expenses, and other income and expense items that are specifically identifiable to a segment. (b) General Corporate Expense consists of selling, general and administrative expenses that are not specifically identifiable to a segment.
+
+21
+Download free eBooks at bookboon.com
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Measures of Residual Income
+
+3	 Measures of Residual Income
+Look again, closely, at the 20X5 segment data for the illustrated company. In particular, note that the electrical segment produced operating income of $7,282,000. This compares to $9,556,000 for the galvanizing group. Even though the relative profitability bobbles a bit from year to year, the two units are not terribly far apart in overall profits. What is most interesting is that the electrical products segment deployed $79,424,000 in assets versus the $45,042,000 in use by galvanizing. In this context, it is quite apparent that galvanizing is producing a better rate of return on the invested assets (i.e., fewer assets produced more income). A good manager would probably take note of this conclusion by careful inspection of the data. However, a managerial reporting technique, known as residual income, is sometimes used to flesh out these effects. Residual income is not a GAAP concept. It is an internal financial assessment technique to help scale the relative success or failure of specific business activities. It adjusts income for a presumed cost of capital (or other threshold rate of return). Although there are many variations of the residual income calculations, the general approach is portrayed by the following formula: Residual Income = Operating Income – (Operating Assets X Cost of Capital) For purposes of this illustration, assume that the company’s cost of capital (or minimum required rate of return) is 10%. The accompanying table reveals the residual income for each segment. This information sheds a completely different light on the relative performance of each unit. Remember the opening observation: the two units are not terribly far apart in overall profits. Once the cost of capital is placed on the evaluative scale, it appears that one unit is doing far better than the other.
+Electrical Segment Operating Income Less: Assumed Cost of Capital $79,424,000 X 10% $45,042,000 X 10% Residual Income $ (660,400) 7,942,400 4,504,200 $ 5,051,800 $ 7,282,000 Galvanizing $ 9,556,000
+
+22
+Download free eBooks at bookboon.com
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Measures of Residual Income
+
+3.1	
+
+Keeping Residual Income in Perspective
+
+Residual income is a powerful tool for identifying and ranking the performance of business units. However, a manager must be very careful in utilizing these calculations. First, there is the usual issue of short run vs. long run considerations. The preceding illustration painted the electrical segment in a less favorable light than galvanizing; repeat the analysis using the 20X3 data, and the situation reverses. A single year’s residual income data is rarely conclusive in and of itself. And, managers need to be savvy to the impact of accounting rules. For instance, the electrical products segment may be investing heavily in research toward new products. These costs would be expensed as incurred, thereby substantially reducing operating income in current periods. As such, the unit’s residual income would suffer relative to other units that might be investing in tangible assets! Finally, the 10% rate is an arbitrary hurdle rate. Selecting an alternative rate will change the measure of residual income. Despite its inherent limitations, reports of residual income can be very helpful in clearly and quickly pinpointing areas of management concern.
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+23
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Concepts in Allocating Service Department Costs
+
+4	 Concepts in Allocating Service Department Costs
+Not all discrete units within a business organization are focused on production of the end product. Janitorial departments, cafeterias, maintenance/repair shops, health clinics, and countless other units support the productive units. How are the costs of such service departments to be considered in forming judgments about the success or failure of the various operating units? In general, service department costs are allocated to operating units via some adopted allocation scheme. This allocation occurs to support measurement of full product cost (as contemplated by GAAP), to make managers of operating units aware of the complete cost of their activities, and to discourage waste and inefficiency by over utilization of service departments. The allocation scheme will generally be based on either a direct or step allocation approach.
+
+4.1	
+
+The Direct Method of Allocating Service Department Cost
+
+The direct method transfers the cost of a service department directly to the productive departments that rely on the services. The allocation is usually based upon some logical benchmark. For example, janitorial services may be allocated to productive departments based on square footage used by the productive departments. Cafeteria costs may allocated based on the number of employees within each production department. Hopefully, the base selected bears a logical relationship to the consumption of services and their costs. Assume that Benjamin Printing Company has two production departments: printing and binding. Printing is highly automated, with a number of complex printing presses. Binding also relies on mechanized devices, but is overall a far more labor intensive department. These departments are supported by maintenance and cafeteria service units. Maintenance activities are driven by the amount of machinery requiring service and repair. The utilization of cafeteria services is directly related to the size of the labor pool. As a result, a decision was reached to allocate costs incurred by the Maintenance Department based on number of machines used by each productive department. Cafeteria costs are allocated based on number of employees. The following table shows how the total costs were directly allocated to production activities:
+
+24
+Download free eBooks at bookboon.com
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Concepts in Allocating Service Department Costs
+
+DIRECT ALLOCATION OF SERVICE DEPARTMENT COSTS
+SERVICE DEPARTMENTS Cafeteria Department Costs Cafeteria Allocation Maintenance Allocation Total Cost After Allocation Key Statistics: Number of employees Number of machines Allocation Calculations:
+Cafeteria to Printing: cafeteria cost times ratio of printing employees to total productive department employees $600,000 X 5/(5+15) = $150,000 Cafeteria to Binding: cafeteria cost times ratio of binding employees to total productive department employees $600,000 X 15/(5+15) = $450,000 Maintenance to Printing: maintenance cost times ratio of printing machines to total productive depart. machines $900,000 X 30/(30+10) = $675,000 Maintenance to Binding: maintenance cost times ratio of binding machines to total productive depart. machines $900,000 X 10/(30+10) = $225,000
+
+PRODUCTIVE DEPARTMENTS Printing $3,700,000 150,000 675,000 $4,525,000 5 30 Binding $2,500,000 450,000 225,000 $3,175,000 15 10
+
+Maintenance $ 900,000 (900,000) n/a n/a
+
+$
+
+600,000 (600,000) n/a n/a
+
+4.2	
+
+The Step Method of Allocating Service Department Cost
+
+The direct approach ignores one potentially important issue. Some service departments may provide support to other service departments. For instance, Benjamin’s maintenance employees likely eat in the cafeteria, too! This issue is mitigated by a step method of allocation. With the step method, an identified service department’s cost is first allocated to other units, including other service departments. Then, the “resulting costs” of the other service departments are allocated to production. This step allocation process is demonstrated for Benjamin, assuming that cafeteria costs benefit maintenance, printing, and binding operations:
+
+25
+Download free eBooks at bookboon.com
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Concepts in Allocating Service Department Costs
+
+STEP ALLOCATION OF SERVICE DEPARTMENT COSTS
+SERVICE DEPARTMENTS Cafeteria Department Costs Cafeteria Allocation Maintenance Allocation Total Cost After Allocation Key Statistics: Number of employees Number of machines Allocation Calculations:
+Cafeteria to Maintenance: cafeteria cost times ratio of maintenance employees to total department employees $600,000 X 10/(10+5+15) = $200,000 Cafeteria to Printing: cafeteria cost times ratio of printing employees to total department employees $600,000 X 5/(10+5+15) = $100,000 Cafeteria to Binding: cafeteria cost times ratio of binding employees to total department employees $600,000 X 15/(10+5+15) = $300,000 Maintenance to Printing: maintenance cost times ratio of printing machines to total productive depart. machines $1,100,000 X 30/(30+10) = $825,000 Maintenance to Binding: maintenance cost times ratio of binding machines to total productive depart. machines $1,100,000 X 10/(30+10) = $275,000
+
+PRODUCTIVE DEPARTMENTS Printing $3,700,000 100,000 825,000 $4,625,000 5 30 Binding $2,500,000 300,000 275,000 $3,075,000 15 10
+
+Maintenance $ 900,000 200,000 (1,100,000) 10 n/a
+
+$
+
+600,000 (600,000) n/a n/a
+
+4.3	
+
+Multiple Steps and Simultaneous Allocations
+
+A large organization can have many service departments, and it is quite possible to identify a number of interactions between various service departments. The design to achieve a logical allocation of costs can entail numerous sequential steps (e.g., Department A serves Departments B, C, D, and E; then Department B serves Departments C, D, and E, etc.). Or, it may be observed that service departments benefit each other (e.g., the maintenance staff eats in the cafeteria, but the cafeteria utilizes maintenance employees to repair ovens). There is no mathematical limit to the number of step allocations that can be made. In the alternative, calculus could be used to achieve numerous simultaneous allocations. These situations provide intellectually stimulating challenges, but they may not be worth the cost of implementation. As a result, companies are usually content to rely on direct or very simplified step allocations of service department costs.
+
+26
+Download free eBooks at bookboon.com
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Leveraging the Power of Modern Information Systems
+
+5	 Leveraging the Power of Modern Information Systems
+In this chapter you have seen how various reporting methods can be employed to facilitate managerial decision making. Before departing, you should consider that the same internal data can often be generated and displayed in many ways. There is not a single correct method for “slicing and dicing” a company’s overall results into unitized information sets. And, there is no reason to think that a manager should be forced to make decisions based upon a single display of data. Modern information systems empower managers to look at the same data from multiple perspectives, and good managers will avail themselves of these tools as they consider data and make decisions based thereon.
+
+.
+
+27
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Leveraging the Power of Modern Information Systems
+
+5.1	
+
+Line Item VS. Object of Expenditure
+Factory Sales General Administrative $16,247,500 3,772,000 1,515,000 3,285,000 $24,819,500
+
+For instance, consider the data set at left. It reveals that $24,819,500 was spent on compensation. Of that amount, $16,247,500 was spent on factory labor, and so forth. Each line item corresponds to an employee grouping, and those lines roughly relate to the individual categories that would be compiled in developing an overall income statement. Suppose you were the manager for this business, and charged with reducing total compensation costs to $24,000,000. What category would you consider cutting? Would it be wise to cut each category in equal proportion to “spread the pain?” Is there a better way? Indeed, it is difficult to say by reviewing the data from a single perspective. Consider the same data, rearranged in a different fashion below. Here, you can see the same total cost of $24,819,500, this time distributed to match the object of expenditure:
+Salaries and wages Health insurance Unemployment taxes FICA taxes Retirement contributions 401K matching contributions Workers’ compensation insurance Bonuses and stock-based compensation Vacation accruals Sick leave accruals Reimbursed employee tuition/training $15,000,000 1,500,000 359,000 858,000 975,000 562,000 1,542,000 2,150,000 1,125,000 629,500 119,000 $24,819,500
+
+Perhaps the revised display provides added insight into cost control opportunities. Some specific expenditure category might be targeted for reduction if it is viewed as discretionary or not critical to the productive mission of the entity. The data might be further arranged into an even more detailed matrix format for an even closer inspection:
+
+28
+Download free eBooks at bookboon.com
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Leveraging the Power of Modern Information Systems
+
+Factory Salaries and wages Health insurance Unemployment taxes FICA taxes Retirement contributions 401K matching contributions Workers’ compensation insurance Bonuses and stock-based compensation Vacation accruals Sick leave accruals Reimbursed employee tuition/training $10,500,000 1,050,000 315,000 735,000 525,000 210,000 1,470,000 25,000 787,500 577,500 52,500 $16,247,500
+
+Sales $ 2,300,000 230,000 23,000 69,000 230,000 92,000 46,000 575,000 172,500 23,000 11,500 $ 3,772,000
+
+General $ 1,000,000 100,000 15,000 30,000 100,000 80,000 20,000 50,000 75,000 20,000 25,000 $ 1,515,000
+
+Administrative $ 1,200,000 120,000 6,000 24,000 120,000 180,000 6,000 1,500,000 90,000 9,000 30,000 $ 3,285,000
+
+Total $15,000,000 1,500,000 359,000 858,000 975,000 562,000 1,542,000 2,150,000 1,125,000 629,500 119,000 $24,819,500
+
+The column totals correspond to the information in the first report, and the row totals correspond to the information in the second report. The individual cells within the matrix bring to light a number of areas where added cost control might be effectively implemented. For instance, workers’ compensation insurance for factory labor is $1,470,000. Perhaps a different insurance carrier might provide a better rate for this policy, contributing a significant amount of the targeted overall cost reduction. Or, maybe the bonus plan for administrative staff ($1,500,000) should be targeted; perhaps this category is in “runaway mode” since it exceeds the base amount for administrative salaries. Examine the data yourself and you will likely see other areas that peek your interest for potential cost reduction. The key point is that managers should be prepared to consider alternative or expanded data sets as they contemplate difficult decisions. Viewing data only by line item or only by object of expenditure can greatly limit insight into business operations. Modern accounting systems enable organizing and rearranging data sets with relative ease. These modern systems are usually costly to design and implement, but they can pay great returns when managers take advantage of the robust information they are capable of producing. As a business manager, it is well worth your time to study and understand the full range of capabilities of the business information system you have at your disposal!
+
+5.2	
+
+Business Dashboard
+
+A rapidly growing trend is for business managers to utilize “dashboards” to monitor business information on a real time basis. These packages present corporate information on personal computers. The information is constantly updated to reflect the latest developments, much like a car’s dashboard reflects current speed, water temperature, oil pressure, and so forth. On the next page is a screenshot of a sample dashboard. This particular illustration is from a business using NetSuite, a leading provider of Web-based accounting and customer relationship management software which helped pioneer the use of dashboard technology.
+
+29
+Download free eBooks at bookboon.com
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Leveraging the Power of Modern Information Systems
+
+Dashboards are easily customized by each manager. You will note that the sample dashboard is contemplated for an executive. But, personalized dashboards can easily be set up that are specifically tailored to the information needs of a sales manager, CFO, or other decision maker. Typically, specific line items on a dashboard can be “clicked” to open windows of additional data in support of the key metrics displayed. An important feature of a business dashboard is secure internet access so that an onthe-go executive always has critical information readily available.
+
+30
+Download free eBooks at bookboon.com
+
+Reporting Techniques in Support of Managerial Decision Making
+
+Appendix
+
+Appendix
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+31
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+

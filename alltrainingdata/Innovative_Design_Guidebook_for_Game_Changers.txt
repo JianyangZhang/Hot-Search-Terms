@@ -1,0 +1,1384 @@
+Innovative	Design	Guidebook	for Game	Changers
+Three	Step	Innovation	Process	for	New	Business Developments Kim	Song-Kyoo
+
+Download	free	books	at
+
+﻿
+
+KIM, SONG-KYOO
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+THREE STEP INNOVATION PROCESS FOR NEW BUSINESS DEVELOPMENTS
+
+Download free eBooks at bookboon.com
+2
+
+Innovative Design Guidebook for Game Changers: Three Step Innovation Process for New Business Developments 2nd edition © 2016 Kim, Song-Kyoo & bookboon.com ISBN 978-87-403-1380-2
+
+Download free eBooks at bookboon.com
+3
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Contents
+
+CONTENTS
+1	Preface	 1.1	 1.2	 1.3	 1.4	 What is this guidebook about?	 Who is this guidebook for?	 How can this guidebook help?	 How is this guidebook used?	 6 6 6 6 6 7 8 8 10 11 14 15 17 31 36
+
+1.5	Benefits	 2	Introduction	 2.1	 2.2	 2.3	 2.4	 Systematic Innovations (SI)	 Other Innovation Process	 Introduction to New Business Development	 Systematic Innovation in New Business Development	
+
+3	 Three Step Systematic Innovation Process	 3.1	 3.2	 3.3	 Problem Identification (Step 1)	 Problem Solving (Step 2)	 Evaluation and Prototyping (Step 3)	
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+Download free eBooks at bookboon.com
+4
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Contents
+
+4	 4.1	 4.2	 4.3	 4.4	 4.5	
+
+Empirical Case Studies	 Amazon: Kindle distribution	 Residence Cooling Systems for Developing Countries	 Philippine Air Force: Enhanced Helipad Design	 Bayani: New Plastic Bottle Design	 Dong-In Entech: Innovative Manufacturing Improvement	
+
+40 41 44 47 51 56 59 60 66
+
+5	Conclusions	 	 	 	 Appendix A: Worksheets	 Appendix B: Multi-Screen Thinking	 Appendix C: 40 Inventive Principles with Applications in Business Operations	 	 	 	 Appendix D: Enhanced Su-Field Model	 Appendix E: ARIZ for Service Design	 Appendix E: Multi-Criteria Decision Analysis Tables	
+
+68 83 89 92 93
+
+	References	
+
+Download free eBooks at bookboon.com
+5
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Preface
+
+1	PREFACE
+1.1	 WHAT IS THIS GUIDEBOOK ABOUT?
+The main aim of this guidebook is to provide a systematic problem solving process that business development designers may use in solving service business development problems. This guidebook is based on the previous research done on the usage of the systematic innovation methodology in non-technical areas like service design and business development.
+
+1.2	 WHO IS THIS GUIDEBOOK FOR?
+This guidebook is for new business developers who •	 are responsible for solving service-related design problems at the new business development situations; •	 have limited or no prior experience with tools related to the systematic innovation.
+
+1.3	 HOW CAN THIS GUIDEBOOK HELP?
+Generally, developers have no systematic process to solve business development problems. This guidebook could help users save a great deal of time and effort by providing a systematic approach to new business design problem resolution. In this guidebook, Systematic Innovation tools including TRIZ will be used to define, formulate, solve and evaluate new business design problems. It would enable users to come up with creative and innovative solutions.
+
+1.4	 HOW IS THIS GUIDEBOOK USED?
+This guidebook contains a detailed step-by-step process highlighting the various Systematic Innovation tools that may be used to define, solve, and evaluate various business design problems. These steps could be seen as a systematic guide to help users resolve new business development problems. This guidebook also contains worksheets that contain questionnaires and tables to aid users in solving their business problems. In addition, users will also find: …tips , tools …and examples
+
+to help them better understand the systematic innovation tools are used in solving various business development problems.
+
+Download free eBooks at bookboon.com
+6
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Preface
+
+1.5	BENEFITS
+This guidebook provides a means of systematically defining, formulating, solving, and evaluating business development problems. It enables business developers (or designers) to adapt the various Systematic Innovation applications to their new business operations. In addition, it gives useful information on the many Systematic Innovation tools and their applications. While intangible benefits will differ from person to person, users should gain new insights on service adesign problem resolution through this guidebook.
+
+Download free eBooks at bookboon.com
+7
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Introduction
+
+2	INTRODUCTION
+2.1	 SYSTEMATIC INNOVATIONS (SI)
+Systematic Innovation (Terninko, 1998) is a structured process and a set of practical tools for new idea generations and applied to the technical problems that can be the software implementation problems. The tools of the systematic innovation tool method have been widely used for technical breakthrough and system improvements (Petkovic, 2013). The process perspective, the systematic innovation method has three phases; Problem Identification, Problem Solving and Concept Design Evolution. The sequence of the systematic innovation method in this research is the simplified process that aids in using the problem solving tools effectively (see Figure 1). The core problem is identified in the first phase and this phase is similar to the value identification in Lean Thinking (Womack and Jones, 1996). The tools of TRIZ (Theory of Inventive Problem Solving) are applied in the second phase, but not exclusively (Altshuller, 1996). For instance, the quality function deployment (QFD) which is one of the systematic innovation tools, but not counted among TRIZ tools, has been applied for software development (Thackeray, 1990) and other practical tools such as Kano model are applied into various product development area (Shen, 2000). Since, some of TRIZ tools such as 76 Inventive Standards and ARIZ (Algorithm for Inventive Problem Solving) are difficult to use, more simplified and practical tools have been recently proposed.
+
+Figure 1. Systematic Innovation Process
+
+Download free eBooks at bookboon.com
+8
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Introduction
+
+As it mentioned, the systematic innovation process is also aligned with Lean Thinking and Six-Sigma activities. For instance, the tools in Problem Solving step can replace the tools for Design (Optimize) phase during Design for Six Sigma (DFSS) activities (Breyfogle, 1999) and so on. Although Systematic Innovations tools and applications were originally created for technical problems, in recent times, Systematic Innovation has been introduced in many non-technical areas: biology, business, education, finance, management, and politics to name a few. Recently, conducted research has even shown the systematic innovation and its tools to be helpful in aiding the new business development endeavors with regarding to their non-technical problems.
+2.1.1	 THEORY OF INVENTIVE PROBLEM SOLVING (TRIZ)
+
+TRIZ (Teoriya Resheniya Izobretatelskikh Zadatch) – also called TIPS (Theory of Inventive Problem Solving) – is one of popular tools used for Systematic Innovation and model-based techniques for generating innovative ideas and solutions for problem solving (Altshuller, 1996). It was developed by Russian scientist Genrich Altshuller who believed that invention is possible to be learned (Terninko and et. al, 1998). TRIZ has been evolved as the science of innovation and many companies have now adopted TRIZ in solving complex technical problems. The basic groundings of TRIZ consist of the analyses of millions of worldwide patents. Through these analyses, innovation patterns and the concept of ideality were identified. TRIZ, which was developed to solve technical problems, can be defined as •	 knowledge-based as it is built from problem solving heuristics taken from vast patent analyses; •	 human-orientated, as it is designed for human use; •	 systematic, as it has well-defined resolution processes.; •	 inventive, as it defines problems as inventive problems, thus, resulting in innovative solutions. In TRIZ, the system evolves toward increasing ideality. The characteristics of ideality entail the following: •	 •	 •	 •	 the benefits of the system are maintained; the deficiencies in the system are removed; new deficiencies are not introduced; and the system does not become more complicated.
+
+Download free eBooks at bookboon.com
+9
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Introduction
+
+The basic foundational principles of TRIZ says that •	 systems move towards increasing ideality; •	 systems are full of inherent conflicts among some of its components; and •	 resources within the system must first be fully utilized before the introduction of any new components. Throughout the years, a set of well-defined TRIZ tools have been created. These tools include 40 Inventive Principles, Ideal Final Result, Patterns of Evolution, Resources and Trimming to name a few.
+
+2.2	 OTHER INNOVATION PROCESS
+Recently, more companies have become interested in the dedicated process that targeted to generate new ideas and technologies because these different processes offer more opportunities to think differently. IDEO which is an international design consulting firm founded in Palo Alto, California in 1991 and 3M which is an American multinational conglomerate corporation based in St. Paul, Minnesota utilize their own innovation process to develop the new products.
+2.2.1	 IDEO DEEP-DIVE
+
+Deep-Dive™ is the name of a technique used to rapidly immerse a group or team into a situation for problem solving or idea creation. This approach is often used for brainstorming product or process development (Morrison, 2010). This approach to innovation often focuses on four distinct areas: Process, Organization, Culture, and Leadership. The key to a successful Deep-Dive session(s) is for participants to arrive with information on the needs of their customers – most importantly, an open mind about what they could offer and how they can meet the needs of clients and expectations of their clients. IDEO, an industrial product design firm, presented with a challenge by ABC News to redesign the common shopping trolley in only five days. Even partial criteria are considered for determining the new design to address in the creation of their rapid prototypes. The final model they unveiled at the end of the fiveday period was radically different from the traditional shopping trolley.
+
+Download free eBooks at bookboon.com
+10
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Introduction
+
+2.2.2	 3M LEAD USER RESEARCH
+
+Lead users are the users whose present strong needs will become general in a marketplace months or years in the future (Hippel, 1996). Since lead users are familiar with conditions which lie in the future for most the other users, they can serve as a need-forecasting laboratory for marketing research. Moreover, since lead users often attempt to fill the need that they experience, they can provide new product concept and design data as well. Users are selected to provide input data of customers directly because industrial market analyses have an important limitation: their insights into new product (and process and service) needs and potential solutions are constrained by their own real-world experience. Users steeped in the present are thus unlikely to generate novel product concepts which conflict with the familiar. On the evening of October 23, 1997, Rita Shor, the senior product specialist of Medical-Surgical Markets Division wondered when to draw a close to an intense ongoing debate on the nature of the recommendations to the senior management of the health care unit. A hand-picked group embarked on a new method for understanding customer needs, called Lead User Research. But this initiative to introduce leading-edge market research methods into 3M legendary innovation process had, by then, grown into a revolutionary series of recommendations that threatened to rip apart the division.
+
+2.3	 INTRODUCTION TO NEW BUSINESS DEVELOPMENT
+Business development comprises a number of tasks and processes aiming the development and implementation of growth opportunities between multiple organizations. It is a subset of the fields of business, commerce, and organizational theory. Business development is the creation of long-term value for an organization from customers, markets, and relationships (Pollack, 2012). Business development professionals have frequently had earlier experience in financial services, investment banking or management consulting, although some follow the route to this area by climbing the corporate ladder in functions such as operations management or sales. Skill sets and experience for business development specialists usually consist of a mixture of the following (depending on the business requirements): •	 •	 •	 •	 •	 •	 •	 Finance Marketing Mergers and acquisitions Legal Strategic management Proposal management or capture management, and Sales experience.
+
+Download free eBooks at bookboon.com
+11
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Introduction
+
+The pipeline refers to the flow of potential clients that a company has started developing. Business-development staff assign to each potential client in the pipeline a percent chance of success, with projected sales-volumes attached. Planners can use the weighted average of all the potential clients in the pipeline to manage the new activity. Enterprises usually support pipelines with some kind of customer relationship management (CRM) tool or CRM database, this being either web-based solution or an in-house system. Sometimes business development specialists manage and analyse the data to produce sales management information (MI). Such MI could include: •	 •	 •	 •	 reasons for wins/losses, progress of opportunities in relation to the sales process, top performing sales people/sales channels, and sales of services/products.
+
+Download free eBooks at bookboon.com
+12
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Introduction
+
+For larger and well-established companies, especially in technology-related industries, the term “business development” often refers to setting up and managing strategic relationships and alliances with other, third-party companies. In these instances, the companies may leverage each other’s expertise, technologies or other intellectual property to expand their capacities for identifying, researching, analysing and bringing to the market new businesses and new products; business development focuses on implementation of the strategic business plan through equity financing, acquisition/divestiture of technologies, products, and companies, plus the establishment of strategic partnerships when appropriate. Innovative technology provides important opportunities for new business development. For a company it is important to keep products and processes up to date, and to stay competitive (Ford, et al., 2006). Continuous investment in innovation for both products and processes makes it more difficult for others to offer a large technological functionality advantage (Schilling, 2003). Many companies need technological development to stay competitive. Technological development can occur through making decisions about acquiring, exploiting and managing technologies. These decisions should be made by involving the research and development staff, purchasing staff and marketers (Ford et al., 2006). In addition, customers are also important (Schilling, 2003; Ford et al., 2006). New business development concerns all the activities involved in realizing new business opportunities, including product or service design, business model design, and marketing. When splitting business development into two parts, we have: business and development. The first things that come into mind when looking at business are: economics, finance, managerial activities, competition, prices, marketing, etc. All of these keywords are related to risk and entrepreneurship and clearly indicate the primary scope of the term business development. Development is very abstract and can be linked in some of the following keywords: technological improvement, cost reduction, general welfare, improved relations, and movement in a positive direction. It also includes the technology evolution and provides the innovative strategic decisions to expand the new business.
+
+Download free eBooks at bookboon.com
+13
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Introduction
+
+2.4	 SYSTEMATIC INNOVATION IN NEW BUSINESS DEVELOPMENT
+The new business development could be categorized into service (or product) design, business model design and marketing. Drawing on the contingency theory, an idea central to new business development is that different product-market-technology combinations can require different marketing strategies and business models to make them a success (Tidd, 2005). New business development draws heavily upon the fields of technology and business networks. The new business development process is to recognize chances and opportunities in a fast changing technological environment. Systematic Innovation could be applied to help in recognizing the new technologies in the different perspectives (i.e., out-of-box thinking). In Systematic Innovations, most technical problems have inherent conflicts or contradictions in their system. The wide variety of the systematic innovation tools could be used to eliminate these contradictions, leading to the resolution of technical problems. To modify its 737 airliners, the Boeing Company had to replace existing engines with larger ones. However, larger engines meant larger engine cowlings that made the cowlings too close to the ground. The contradiction was to make larger AND smaller engines! As such, a redesign of the cowling specifications had to be done to eliminate this contradiction. While contradictions may be more apparent in technical areas, they are also present in the non-technical area of services. Thus, it shows the possible application in the business development and strategy. Additionally, there are also strong synergies between the systematic innovation problem solving process and the new business development process. As it mentioned, new business development concerns all the activities including service design. For instance, the service design concepts have stages like idea generation, development, and testing which are compatible with the systematic innovation tools that define problems and generate new ideas.
+
+Download free eBooks at bookboon.com
+14
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+3	 THREE STEP SYSTEMATIC INNOVATION PROCESS
+The systematic innovation for the business development could be represented in a three-step process, comprising the following. Step 1: Problem Identification In this step, a preliminary look at an organization capabilities to solve service design problems is done. Throughout this step, organizations could identify shortcomings in their idea generation and problem solving capabilities. This step can identify the What-I-Want (WIW) that is the key for formulating the problem in which to apply ENV Model. In some business development problems, a good problem definition might lead to immediate identification of possible solutions. This step acts as the preliminary process for making the problem simple and clear through the use of several systematic innovation tools.
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+Download free eBooks at bookboon.com
+15
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+Step 2: Problem Solving The Problem Solving step to generate the concept solution starts from the formulated problem during the problem identification step. Most of TRIZ tools, such as the 40 Inventive Principles, Substance-Field model with 76 Standards (Domb, 2003) and ARIZ (Altshuller, 1989), are applied in the Problems Solving step. Even though, the tools are mostly adapted from the TRIZ method, a user could adapt the tools from other methods such as Lean Thinking and Six-Sigma. Step 3: Evaluation and Prototyping This step aids business developers in choosing the most suitable solution for implementation among numerous possible solutions. Based on the concept solutions, users could development the prototype solution to be applied in the problem situations.
+
+Figure 2. 3 Steps Systematic Innovation Process and Tools
+
+Download free eBooks at bookboon.com
+16
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+3.1	 PROBLEM IDENTIFICATION (STEP 1)
+Problem Identification is the step where the core problem is identified and it is similar to the value identification in Lean Thinking (Womack and Jones, 1996). The ENV Model in OTSM-TRIZ (Khomenko, 2010) and RCA (Root Cause Analysis) are typical inventive problem solving (TRIZ) tools used during this step.
+
+Systematic Innovation (SI) Tool 1.0: Technical system evolution The S-curve or Lifecycle Model (Foster, 1986) remains a widely used tool for thinking about technological innovation and competition. The basic idea of the model is that any technology with commercial potential passes through a lifecycle. During the early stages of the commercialization process, progress is slow as fundamental technical issues are addressed. The rate of progress increases as these issues are resolved. As the technology ages, performance approaches upper limits – often based on fundamental constraints such as the speed of light. Figure 3 shows a typical S-curve for a technology. The horizontal axis is the amount of R&D effort expended – the cumulative amount of R&D expenditures over time, for example. Often, time is used as a proxy variable for this effort. The vertical axis is some single performance measure critical to the commercial performance of technology.
+
+Download free eBooks at bookboon.com
+17
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+Figure 3. S-curve of Technical System Evolution
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+Download free eBooks at bookboon.com
+18
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+On the other hand, the use of S-curves has been severely criticized (Ashish and Tellis, 2005) and four hypotheses have been tested: 1.	 Technological progress on a primary dimension follows a single S-shaped growth curve. 2.	 When a new technology is introduced, its performance is lower than that of the old technology. 3.	 When a new technology reaches maturity, its performance is higher than that of the old technology. 4.	 The performance path of a pair of successive technologies intersects once when the new technology surpasses the old technology in performance. The S-curve could be applied in the product strategy. The strategy for the products may be different depending on the phase on the S-curve diagram. The strategy for each phase is described as follow: •	 Phase 1: Product introduction (Investing more money and heavy research) → Growing slowly •	 Phase 2: New market is generated (enough financial investment and starting competitions) → Rapid growth •	 Phase 3: Meeting the limitations of the market growing and many competitors → Getting slow growth •	 Phase 4: Saturating the market and products eventually disappearing → Saturation It would be very helpful if the product planner knew the phase of the technology. The S-curve is also applicable for the new business development, especially for technology driven business development because it is a powerful tool to analyse the technologies. The replacement of one technology by another is frequently modelled using S-curves. In Figure 4, the performance improvement in technology T1 is slowing. The performance of a newer technology, T2, while inferior is actually improving at a faster rate. In fact, it does overtake T1, the old technology, in terms of performance.
+
+Download free eBooks at bookboon.com
+19
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+Figure 4. Multiple S-Curves for Technology Replacement
+
+The laws of technical systems evolution are the most general evolution trends for technical systems discovered by Altshuller (1996). In his pioneer work in 1970s, Altshuller subdivided all the laws of technical systems evolution into 8 laws, falling under 3 categories (see Table 1):
+
+Table 1. Laws of Technical System Evolution
+
+Statics category describes criteria of viability for newly created technical systems and Kinematics category is the group of the laws that describes how technical systems evolve regardless of conditions. Dynamics category describes the patterns that shows how technical systems evolve under specific conditions.
+
+Download free eBooks at bookboon.com
+20
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+Systematic Innovation (SI) Tool 1.1: Multi-Screen Thinking (MST) Multi-Screen Thinking (MST) offers a wider view of resources not only for the current level of the system but also the upper or lower levels of the system (i.e., super-system, subsystem.) In addition, the systems are clarified based on the timeframe (i.e., before, during, and after the situation happening). It is basically dismantle the system based on the system scale and the time lines. Using the Multi-Screen Thinking table (see Figure 5), one can see the different views of resources.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+Download free eBooks at bookboon.com
+21
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+Figure 5. Multi-Screen Thinking
+
+	 The MST could be applied not only in Problem Definition (Step 1), but also in Problem Solving (Step 2) to find the hidden resources. 	 Users could refer to the table in Appendix B for deploying Multi-Screen Thinking tool. It is also known as Nine-Screen Thinking tool, because nine parts need to be filled in by users for better understanding the system. 	 During a long period of absence because of travel, John wants to know if the freezing cabinet in his refrigerator is working properly, without any blackout. How can John find out his refrigerator is working properly when he come back to home? Systematic Innovation (SI) Tool 1.2: Root Cause Analysis Root Cause Analysis (RCA) is a visual thinking tool and a class of problem solving methods aimed toward identifying the root causes of problems or events. Identifying the factors that resulted in the nature, the magnitude, the location, and the timing of the harmful outcomes (consequences) of one or more past events is the main purpose of the root cause analysis. Basically, RCA can visualize the contradictions more effectively. Since the activity of Root Cause Analysis is based on the brainstorming, the general skills of facilitating could be helpful. The first of steps to be followed by RCA is defining the problem statement and branch out the causes based on Why-Because statements. The general procedure of RCA is as follow (see Figure 6):
+
+Download free eBooks at bookboon.com
+22
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+•	 Describing the problems (Negative Effects, Undesirable Event; UDE) and commenting on the causes as top-down direction. •	 Making a diagram based on the following question: “What is the cause of the problem?” •	 Changing the cause to the problem and expanding the diagram with the same questions (expanding to second depth) •	 Recursively expanding the diagram depth-by-depth until the causes are no longer the problems. •	 Drawing the arrow from the cause (or event) to the problem (one depth before) if it has useful effect on the problem. •	 Expanding the diagram until the core problem (i.e., the cause is no longer changed to the problem) results in: οο Good effect: mark (+) or blue arrow. οο Harmful effect: mark (-) or read arrow. οο General expression: Problem A happened because of cause B (as harmful or as useful). οο End of arrow means the result of start of arrow. οο The expression should be detailed as possible. RCA is applied to identify the problems and the brainstorming activity (Diehl and Stroebe, 1991) with the professional group which could deliver the effective practical recommendations in many new business development cases. There are many other practical tools under name of the lean think activities but it is most commonly applied not only in Lean Thinking but also in Six-sigma process.
+
+Figure 6. Example of Root Cause Analysis
+
+Download free eBooks at bookboon.com
+23
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+	 Each event (or statement) should be described (or determined) based on 1H5W – How (or Extend), Who, What, When, Where and Why. Otherwise, it is very hard to find the direct connection between RCA and Function Diagram. Systematic Innovation (SI) Tool 1.3a: Function Analysis FA (Function Analysis) is a class of problem solving methods aimed at identifying the root causes of problems or events based on sets of problem formulations (see Stage 1.1) The practice of FA is predicated on the belief that problems are best solved by attempting to address, correct, or eliminate root functions or components as opposed to merely addressing the immediately obvious symptoms. Function Analysis is also called and is basically the same tool as the functional diagram, which is introduced in the problem formulation stage. The sets of the functional diagram are in Stage 1.1 and contain the core problems. The technical system is achieving the technical objectives by providing the useful function or by removing the harmful function based on the laws of natures. A thing or a set of things that are designed to perform certain task such as main useful function. Function Analysis is targeted to analyse the functions and elements of the technical system and the main function in the system become the target object (see Figure 7).
+
+Download free eBooks at bookboon.com
+24
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+Figure 7. Basic Concept of Function Model
+
+The objective of the system could be achieved by changing or remain the parameters of the tool. The tool is usually a set of tools (or also called components) and components interact with each other. The components of the technical system are also called the elements of the system and the elements usually include the object and super-system. Function Model is the diagram that shows the interaction between elements. The first step of the function analysis is defining the elements that includes components, the object and the super-system components (see Figure 8).
+
+Figure 8. Element Types
+
+The object (or target) is the first thing to be determined in the tools, followed by the components. Once all elements are determined, defining the actions between the elements is the next step. Each action could defined as useful or harmful functions. The next step is finding the contradiction points (i.e. both harmful and useful functions are at the same time) or inefficient points which means the actions are not efficient to be fully functional. Function Analysis is directly related with the problem formulation (Stage 1.1) and the procedure that follows is explained in the formulation session.
+
+Download free eBooks at bookboon.com
+25
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+Figure 9. Function Types
+
+The root cause analysis diagram shows the logical relationships between the roots and causes but the function analysis diagram shows the physical relationships between actual components (i.e., elements of the system). Even though, both diagrams look similar, two diagrams shows two different things. There are no direct visual relationships between two diagrams. Users need to find the exact location on FA diagram where the actual events are occurred based on the root causes from the RCA diagram. Systematic Innovation (SI) Tool 1.3b: Trimming The basic concept in the trimming tool is to reduce the number of components in the service system, but at the same time, maintain or even improve the service operation’s performance. Trimming is usually applied after the function analysis. Trimming is an analytical tool for removing (trimming) certain components (or elements) and redistributing their useful functions among the remaining system or system elements. It can simplify the design of the system but still remain the main function of the system. In addition, it could be effective for doing function without system elements. There are some rules to be noted when the trimming is proceeds: Rule A: Function carrying element (component) can be trimmed if the Object component is removed. Rule B:  Function carrying element (component) can be trimmed if the useful function of the object components can be performed itself. Rule C:  Function carrying element (components) can be trimmed if another component performs its useful functions.
+
+Download free eBooks at bookboon.com
+26
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+The algorithm of the trimming procedure follows these seven steps: 1.	 Select the system component to be trimmed as per selection guidelines. 2.	 Select the first useful function of the component to be trimmed. 3.	 Select the applicable trimming rule (Rule A may NOT be applicable for the basic function components. 4.	 In the case of Rule C, select the new function carrying element. 5.	 Formulate the trimming problem. 6.	 Go through the steps 2 to 5 for all functions of the component. 7.	 Go through the step 1 to 6 for all components. The trimmed procedure after Function Analysis is important because it may be the future solution of the current system. 	 The guidelines for the trimming are (1) Select the components based on the goal of the project, (2) Trim the component with key disadvantages to maximize the system improvement, and (3) Perform trimming based on the trimming rules.
+
+Download free eBooks at bookboon.com
+27
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+Systematic Innovation (SI) Tool 1.4: Psychological Inertia Tools (STIC) If users have not arrived at any feasible solution after going through SI Tool 1.1 and SI Tool 1.3 of this guidebook, the user should use the Psychological Inertia Tools. These systematic innovation tools will help business developers to see the business situation from other viewpoints. As most of us see a problem only from our own narrow perspectives, we are unable to truly understand the problem, use the correct tools, and thus, formulate some useful solutions. 	 You can consider your brain as being “blocked” by your own narrow viewpoints with regard to the service design problem. The Psychological Tools can help you “unblock” your brain and tackle the problem using new perspectives. In this tool, users exaggerate the following factors: •	 •	 •	 •	 current service size, timeframe, form and the number of interfaces in the service, and current costs 	 To help exaggerate these factors, users may use Worksheet 1.1, the STIC Tool Worksheet, in Appendix A. By discussing and studying these exaggerated factors, users can form a basis for further brainstorming sessions with other service designers to generate feasible solutions. People often tackle problems that they should not be in the first place. This tool analyses the service problem hierarchies which can enable users to identify the correct problem to be tackled. The following questions are the basis for this tool: •	 Why do I want to solve this problem? •	 What is stopping me from solving this problem? These questions help broaden and narrow down the original service problem. By asking these two questions continuously, users can obtain a hierarchy of problem statements. This gives users a better “view” of the “correct” problem to tackle.
+
+Download free eBooks at bookboon.com
+28
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+Systematic Innovation (SI) Tool 1.5: ENV Model The ENV (Element-Name-Value) model is describing the problem as Elements, the feature Name of the elements and Value of the feature. The ENV model is the core part of OTSM-TRIZ (General Theory of Powerful Thinking) which has been created by Nikolai Khomenko. OTSM is a Russian acronym which proposed by Altshuller to describe the next evolution of the classical TRIZ (Khomenko, 2010). This model helps to formulate the problem, making it easy to adapt the classical TRIZ tools and also allowing for various ways of knowledge processing (Mirakyan and et. al., 2009). It transforms WIW (What-IWant) into the certain format. To better understand the problem, the following questions should be answered properly: •	 What is the status of the object that we want for it to be? •	 What is the current status of the object? •	 How do we eliminate the gap between the current situation and WIW (What-I-Want)? According to the function analysis, the element that occur the problem might be determined more specifically. The ENV model could be applied for the problem description and also applied for the brief descriptions of the candidate solutions. 	 To descript the current issue as ENV format, Worksheet 1.2 in Appendix A can help the user to apply ENV model more effectively. Systematic Innovation (SI) Stage 1.1: Problem Formulation At this point, problem formulation would already have been applied during Function Analysis (see SI Tool 1.3a). Problem formulation is applied to the selected components where problems occur after Function Analysis and Trimming. Functions in the business system are identified and categorized as either useful or harmful during Function Analysis. These functions will then be linked together using a network of cause-and-effect relationships which are hidden in the diagram. The formulation of the relationship between elements should be clearly defined during the function analysis procedure. If the action is well-defined, each interaction between two elements on the function diagram should follow the [Subject; Tool]–[Action]–[Object; Target] format. For instance, the What-I-Want is that a hammer puts a nail through wood. The object is “nail,” and “hammer” is the tool and the action is “move (putting the nail means moving the nail).” The statement could be formulated as [Hammer]–[Move]–[Nail]. Usually, the action is described with simple and clear verbs, and the simple action verbs give the more chances to think differently. Sometimes, the formulated descriptions may not be the same as general statements (see Table 2).
+
+Download free eBooks at bookboon.com
+29
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+Table 2. Example of Statement Formulation
+
+This formulation could be directly gathered from the function diagram because it shows a direct relationship between them.
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+Download free eBooks at bookboon.com
+30
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+     
+  
+
+
+Element A; Subject (or Tool) Function; Action (either useful or harmful) Element B; Object (or Target)
+
+From the function analysis (SI Tool 1.3a), the problems could be clarified and the list up the problems in the function diagram.
+
+3.2	 PROBLEM SOLVING (STEP 2)
+Most TRIZ tools, such as 40 Inventive Principles, Substance-Field Model with 76 Standards (Domb, 2003) and ARIZ (Altshuller, 1989) are applied in the Problems Solving step.The tools in the Problem Solving step could replace the tools for Design (Optimize) phase during Design for Six Sigma (DFSS) activities (Breyfogle, 1999) also. Systematic Innovation (Inventive Problem Solving) is targeted toward solving the engineering problems but the method has since expanded to the various areas including the area of the new software development (Kim, 2011).
+
+Download free eBooks at bookboon.com
+31
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+Systematic Innovation (SI) Tool 2.1: Contradictions (40 Inventive Principles) This tool aids in the identification of contradictions in the service operation. These contradictions should then be eradicated, resulting in innovative solutions that do not undermine the present business system. There are the inventive principles which categorized as 40 general situations (Appendix C is the modified version of 40 Inventive Principles for the business development). 	 Before the advent of Automatic Teller Machines (ATM), customers had to go to the banks personally even for the simplest transactions. This resulted in long waiting queues. In this case, the contradiction is “Customers have to be at the banks to perform their bank transactions” versus “Customers do not need to be at the banks as they may cause inconveniences like long queues”. With the introduction of the ATM, the contradiction was eliminated. Now, customers do not need to go to the bank to do their bank transactions. Customer lines have thus been reduced at the banks. After the identification of contradictions, the inherent contradictions will then be intensified into two extreme situations. Analysing these extreme situations may lead to insightful indications towards possible solutions for the service problem. 	 To give a clear illustration of how the Worksheet of Contradiction Analysis (Worksheet 2.1 in Appendix A) and the Worksheet of Contradiction Elimination (Worksheet 2.2 on Appendix A) are to be used, an example based on the problems associated with the introduction of water sports in water catchment areas. Systematic Innovation (SI) Tool 2.2: Ideal Final Result (IFR) Ideal Final Result (IFR) is a description of the best possible solution for the problem situation (or contradiction), regardless of the resources or constraints of the original problem. IFR is one of the basics terms in TRIZ (TIPS; Theory of Inventive Problem Solving) that is a famous problem solving tool of Systematic Innovation method (Altshuller, 1996; Terninko and et. al., 1998). A well-defined IFR helps a problem solver to overcome psychological inertia and reach breakthrough solutions by thinking about the solution in terms of functions, not the intervening problems or needed resources. It focuses on functions needed, not the current process or equipment. It is therefore the antithesis to the more commonly used Continuous Improvement method which often leads to progressively diminishing returns (see Figure 10). IFR represents a significant shift in the thinking approach to solving problems.
+
+Download free eBooks at bookboon.com
+32
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+Figure 10. Ideality of Technical System Evolution
+
+The ideality of the system could described as follows:
+Ideality 
+
+U i H j
+j i 
+
+
+
+,
+
+Ui; Useful effect, Hj; Harmful effect
+
+The system that becomes ideal means the ideality become infinite. In other words, the system becomes ideal when either the useful functions become unlimited or the harmful functions become none (zero). The concept is also applied in the business development model. The business model tends to be developed with maximizing efficiency, but minimizing the resources (i.e., smaller resource usage is better).
+
+.
+
+Download free eBooks at bookboon.com
+33
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+Systematic Innovation (SI) Tool 2.3: Enhanced Su-Field Model Su-Field Model (substance-field model) is a structural model of the initial technological system that exposes the characteristics of the system with special laws, transforming the model of the problem. The model uses a special language of formulas which makes it easier to describe any technological system. The model produced in this manner is transformed according to special laws and regularities, thereby revealing the structural solution of the problem. The enhanced substance-field model without using the inventive standards could be applied. Even though the original substance-field model with Inventive Standards (76 Standard Solutions) is well defined and organized (Rantanen and Domb, 2002), it is still difficult to learn and complicated even for TRIZ specialists. 	 Users can adapt the candidate solutions based on Enhanced Su-Field Model without the knowledge of 76 Inventive Standard solutions because the notations provides the concept solution that could be applied to the various business development situations. More importantly, the 76 Inventive Standards are not intuitive (Soderlin, 2003). The enhanced Su-Field model provides the intuitive concept solution once the problem is described by itself (Kim, 2011). Users could apply the candidate solutions based on the enhanced SuField models without the full knowledge of 76 Inventive Standard solutions. 	 The detailed guidelines are shown in Appendix D, which is adapted from the previous research by the author (Kim, 2011). The enhanced Su-Field notation is the generalization of the classic 76 Inventive Standard solutions and reformulating of them on the Su-Field model. The problem solvers could effectively develop the candidate concept solutions based on the enhanced Su-Field notations, even without full knowledge of the 76 Inventive Standard solutions. Systematic Innovation (SI) Tool 2.4: Feature Transfer Feature Transfer (FT) is a simple method, but it can be very practical with knowledge searches. FT is originally designed for engineering system but it can be applied services and business strategies. FT is a practical tool that could adapt the current technologies to the new system (product) design. It is also applied the new distinguishable system design based on the current existing systems for improving the functions and it is similar with the hybrid design. The procedure of Feature Transfer has the following steps: •	 Identify the main function of the system or component. •	 Formulate key advantages and disadvantages in the forms of a contradiction.
+
+Download free eBooks at bookboon.com
+34
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+•	 •	 •	 •	
+
+Identify the competing system which has the same functions. Select the alternative engineering system. Analyze the base engineering system. Identify the feature in the alternative system that can eliminate the disadvantage of the base system. •	 Formulate the concept design. As a group activity, users may skip the couple of steps or consider the following steps from other related tool practice such as Function Analysis and RCA (Root Cause Analysis). Since, Feature Transfer is a relatively unique technique, users need to understand the basic framework. 	 Worksheet 2.3 in Appendix A is a group activity that consists of filling in the blanks of the template of the Feature Transfer. Systematic Innovation (SI) Tool 2.5: Knowledge Search Knowledge Search is a problem solving tool based upon the identification of existing technologies worldwide. This tool is more effective when the new business development is technology-driven and works for the leading industry sectors. Adapting existing solution is easier, more reliable, and requires fewer resources than developing the totally new solutions. Basically, it is the information that does not reserve the contradiction between new and notnew. Solving the new issues based on not-new problem solution could reduce the risks. The most commonly used information for problem solving comes from Google Patent Search (http://www.google.com/patents) and Google Scholar (http://scholar.google.com/). Users could obtain information which might be the trigger the development of new business and problem solving ideas. Systematic Innovation (SI) Tool 2.6: ARIZ The Algorithm for Inventive Problem Solving (ARIZ) uses a multi-step program of actions along with systematic steps to lead new business developments from ambiguous business circumstance beginnings to realistic problem solutions. It uses a structured set of statements that guides users in formulating and reformulating problems. In situations where a business development situation is still unidentified even after the Problem Identification step (Step 1 in the guidebook), business developers could refer to ARIZ to re-analyse or re-formulate the problem and generate feasible concept solutions. 	 A set of ARIZ multi-step actions and statements based on ARIZ-85C (the latest version of ARIZ in the 1985) could be found in Appendix E.
+
+Download free eBooks at bookboon.com
+35
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+Systematic Innovation (SI) Stage 2.1: List Up the Candidates Concept Solutions All candidate concept solutions could be listed up and the criteria should be made with regard to how the concept solutions should be evolved into the actual solution (or prototyping). 	Worksheet 2.4 in Appendix A could be applied for making a list of the candidate concept solution.
+
+3.3	 EVALUATION AND PROTOTYPING (STEP 3)
+In this final step, users will be led to pinpoint the best ideal solution through an evaluation of the solutions generated from Step 2: Problem Solving.
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+Download free eBooks at bookboon.com
+36
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+Systematic Innovation (SI) Stage 3.1: Evaluation of Candidate Solutions The Multi-Criteria Decision Analysis (MCDA) helps service designers to compare the different solutions obtained in the Problem Solving step. To choose the most ideal solution, these steps should be followed accordingly: •	 Select candidate solutions from the previous Problem Solving step. •	 Select relevant criteria with which the candidate solutions will be judged. οο Criteria may be quantitative or qualitative. •	 Give a value for each candidate solution against each of the relevant criteria. •	 Choose a convention of either highest score is best or lowest score is best that must be consistent throughout all calculations. οο For qualitative criteria, a numerical scoring system should be used. The spectrum from worst to best performances could have a correspondent numerical range. οο For quantitative criteria, the given value must also be consistent. οο For multiple values, take the average value. Alternatively, values (or scores) can discuss among themselves and come to a compromise. •	 Give each criteria distinct numerical weighting factors (scale 1 to 10) to show the importance of each criterion to the overall service performance. Take note of the convention being used.
+
+Download free eBooks at bookboon.com
+37
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+•	 Calculate the total score for each candidate solution. For each candidate solution, take the sum of [score for a criterion multiplied by the weighting factor of that criterion] for all given criteria. •	 The candidate solution with the highest total score will be the selected solution. 	 New business developers may not agree on the scores given to the candidate solutions. Different people have differing takes on the acceptability of each solution. Therefore, it is very important for the various parties to reach a compromise with regard to candidate scores. Before accepting the chosen solution, its ideality must be checked. We can measure its ideality according to the following criteria: •	 •	 •	 •	 benefits of the system are maintained, deficiencies in the system are removed, new deficiencies are not introduced, and system does not become more complicated. 	 Worksheet 3.1 in Appendix A, the worksheet on the solution evaluation in Appendix A could help service designers ascertain the ideality of the chosen solution. If the solution meets the requirements of increasing ideality, it could be chosen for possible implementation in the service operations. Systematic Innovation Stage 3.2: Concept Solution to Prototyping Originally, the concept of prototyping comes from the product development. A prototype is an early sample, model, or release of a product built to test a concept or process or to act as a thing to be replicated or learned from. It is a term used in a variety of contexts, including semantics, design, electronics, and software programming. According to Wikipedia, a prototype is designed for the testing and trial of a new design to enhance precision by system analysts and users. Prototyping provides specifications for a real, working system rather than a theoretical one. In some workflow models, creating a prototype (a process sometimes called materialization) is the step between the formalization and the evaluation of an idea. Even if it is originated from the product development, the concept of the prototyping is widely applied in the various areas including the new business development. In terms of TRIZ, this step concerns mapping with an analogy from the concept solution to the real solution. In TRIZ, there are no additional steps after obtaining real solutions but additional activities to tune up the solutions into the real situation are usually required in the real life cases. Prototyping is a kind of the intermediate step for the final tune-up of the solutions.
+
+Download free eBooks at bookboon.com
+38
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Three Step Systematic Innovation Process
+
+Systematic Innovation (SI) Stage 3.4: Refine Solution Integrating the whole or parts of other candidate solutions into the chosen service design solution could create more creative and innovative the final solutions. 	 Before the implementation of a chosen candidate solution, other important studies must also be carefully performed. Users must ensure the financial and market feasibility of the solution. After the solution evaluation step, if new problems are encountered, users should go back to Step 1 – Problem Identification.
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+Download free eBooks at bookboon.com
+39
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Empirical Case Studies
+
+4	 EMPIRICAL CASE STUDIES
+This section demonstrates empirical case studies of the systematic innovation application in the various area included in the new business development, the residence construction for developing countries (Kim, 2013), airport security (Cruz and Kim, 2013) and technical problem solving in the manufacturing system. Amazon case (Section 4.1) have successfully shown that the proposed TRIZ method for System Innovation could deliver a systematic set of feasible innovation solutions. Another three cases (section 4.2–4.4) in the section are summarized from the individual Systematic Innovation research outputs and readers could understand each case in detail by review the original research papers (Kim, 2013; Cruz and Kim, 2013; Kim, 2015). For the information, the solutions of the first (4.1) and the last (4.5) case studies (Kim and Parmar, 2015) have not been solved by the systematic innovation approach but it could be easily translated into the systematic innovation forms. So, it is still good materials for the class discussion for the innovation related courses. Most subsections in this chapter (4.2–4.5) are applied in the same framework to demonstrate the systematic innovation applications more effectively. Each subsection starts with the problem description and the sequence of Systematic Innovation with the selected applied tools. As it mentioned on the previous section, the cases are focused on first two steps of the systematic innovation process and the final solutions for each case are considered as the step 3. Users do not need to know all tools in the systematic innovation tool set but they should know how to select the appropriate tools for their problems. The actual applied solutions (prototyping) are followed up as the closure of each case.
+
+Download free eBooks at bookboon.com
+40
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Empirical Case Studies
+
+4.1	 AMAZON: KINDLE DISTRIBUTION
+Amazon.com introduced Amazon Source, a new program that enables independent bookstores and other retailers to sell Kindle devices and accessories, and earning money while doing so. In addition to a discount on purchasing Kindles and Kindle accessories for resale, retailers would have the option of receiving 10 percent of every Kindle book purchased on Kindle devices sold by the bookstore for the first two years after a customer buys a device. Amazon Source builds on a ground-breaking deal that Amazon cut with Waterstones in the UK in 2012. That deal saw the latter company jump into bed with Amazon to resell Kindle devices in its stores, after months of speculation that Waterstones would team up with Barnes & Noble instead to resell its Nook devices, with the head of the UK bookseller publicly slamming Amazon in the lead-up to the deal. Because of all this, at the time, the deal with Waterstones was seen as an aggressive one. Amazon wanted to develop a new business which would expand the sales of Kindle products. This session demonstrates how Amazon makes a compromise on the issue and generates a new business model to sell their Kindle products effectively by using Systematic Innovation process. The case of Amazon could be solved by using Systematic Innovation process, but it does not necessarily mean that Amazon actually applies the Systematic Innovation process. This session is designed for the purposes of demonstrating how the systematic innovation process could be applied in the situation of the new business development. Users do not need to apply all of the tools during the systematic innovation process. In the case of the strategy of Amazon as previously described, some of tools that applied in Step 1 are Multi-Screen Thinking (MST) and Root Cause Analysis (RCA). The system status of the Amazon Kindle expansion could be described by using MST (see Figure 11).
+
+Figure 11. Multi-Screen Thinking for Amazon Kindle
+
+Download free eBooks at bookboon.com
+41
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Empirical Case Studies
+
+The root cause analysis (RCA) could be started with the following statements: “The market of Amazon online bookstore is not expanded well” as the undesired event (UDE). One of reason for the UDE might be that “Kindle Fires are not deployed well.” RCA could be expanded to the next depth (see Figure 12).
+
+Figure 12. Root Cause Analysis of Amazon Kindle
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+Download free eBooks at bookboon.com
+42
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Empirical Case Studies
+
+Amazon tried to solve the core problem instead of addressing the UDE for their business expansion. There might be two core causes but Amazon has focused on one of them which statements is “Amazon does not have the local retail stores for Kindles.” The Problem Solving step starts with the last statement of the previous step (Problem Identification). The contradiction problem solving could be done by using the 40 Inventive Principles or Physical Contradiction analysis. This is one among the famous TRIZ tools especially for the TRIZ learners. Describing the case by using the substance-field model, Object (S1) is Kindle devices and Tool (S2) could be the online store to distribute the devices. According the enhanced Su-Field model, it is a Type-1 problem, meaning that improving the current action (see Figure 13) and the typical solution could be done through adding one more elements and making the action efficient enough to support the current action. The candidate elements could be found within the resource analysis.
+
+Figure 13. Enhanced Su-Field Model for Amazon Kindle
+
+The concept solution is the usage of hidden resources to make the distribution of devices more efficiently. The hidden resource could be revealed during the multi-screen thinking. With Amazon Source, customers would not have to choose between e-books and their favourite neighbourhood bookstores — they could have both. According to Jason Bailey, Co-Owner of JJ Books, Bothell, WA:
+“JJ Books is excited to expand our selection to now include Kindle devices for our customers. We are selling Kindle e-readers, tablets, and accessories in our store to expand our customer base and build toward the future bookstore model. We feel that Amazon is the leader for e-readers. Teaming up with Amazon to bridge the move to electronic books will help us find a means of long-term viability for our independent bookstore. Kindle will help us bridge the evolution of the bookstore into the Internet age.”
+
+Download free eBooks at bookboon.com
+43
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Empirical Case Studies
+
+Amazon used the local bookstore as an element to help the distribution more effectively. Typically, a local bookstore acts as competitors of Amazon. But, now, local bookstores could sell not only paperback books but also the Kindle devices for e-book contents on the Internet, and Amazon has shared the revenues with local bookstores.
+
+4.2	 RESIDENCE COOLING SYSTEMS FOR DEVELOPING COUNTRIES
+The problem in this subsection is about the residential cooling system especially for developing countries (Kim, 2013). Climate change is the global issue that every country is affected. The energy conserving for buildings is serious issue even government and efficient cooling system of a building in summer is one of major topics of energy efficient. In addition, the resources are very limited in developing countries and it makes the human life more uncomfortable and people find many ways to reduce the heat to at least make them feel better. Air conditioners might be one of solutions but installation of air conditioners in buildings occur serious harmful side effects. The applied systematic innovation tools for each step are as following:
+
+Figure 14. Systematic Innovation procedure for the residential cooling system
+
+Step 1 – Problem Identification; the initial analysis (the root cause analysis) is proceeded (see Figure 3) and the main problem (i.e., the original problem) is basically the negative impact to environment. One of the major harmful effect is the limited knowledge of air conditioner usages which conflict an environmental friend house with the energy efficiencies because of producing the high carbon emission.
+
+Download free eBooks at bookboon.com
+44
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Empirical Case Studies
+
+Figure 15. The root cause analysis of the cooling system
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+Download free eBooks at bookboon.com
+45
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Empirical Case Studies
+
+The next procedure is applying the current system into the function model (see the Figure 16). The final goal is that the air in a house cool enough to stay without any additional resources included in an air conditioner. The problem is about cooling house but it actually about cooling air in the residence and the roof of the house is the element which occurs the core problem.
+
+Figure 16. Function diagram of the cooling system for the residences
+
+Step 2 – Problem Solving; according to the enhanced Su-Field model (Kim, 2011), Problem Type-2 is the type of the problem that contains the harmful action and the candidate solution is basically removing the harmful function. The candidate solutions of Problem Type-2 could be determined as follow (Appendix D):
+
+2 / S / F ^/ 0` o 2 / S c / F
+where S’ is the modification of the existing substances. It means that one of substance (typically, the tool in the function model is first target to modify) is changed somehow to remove the harmful effect (i.e., heating air in the house). Step 3 – Evaluation and Prototyping; ventilation techniques are helpful in letting the house breathe. Hot air moves up by the stack effects when moisture is created due to condensation and it should be ideally installed at opposite sides of the roof eaves to allow cross ventilation. Changing the roof material which has higher absorption rate of heat by sunlight could be another candidate solution (see Figure 17).
+
+Download free eBooks at bookboon.com
+46
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Empirical Case Studies
+
+Figure 17. Innovative design of the enhanced cooling system
+
+4.3	 PHILIPPINE AIR FORCE: ENHANCED HELIPAD DESIGN
+The problem of this case is about the helipad security for the Philippine Air Force helicopter airport (Cruz and Kim, 2013). PAPI (Precision Approach Path Indicator) lights indicate whether an aircraft flights too high, too low or on the correct glide path (see Figure 18). The implication prior to landing is that when an aircraft is above the glide path, the aircraft would overshoot the runway and the tendency of the aircraft is undershoot the threshold when it is too low.
+
+Figure 18. The scene from inside of an aircraft
+
+Download free eBooks at bookboon.com
+47
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Empirical Case Studies
+
+The sequence of Systematic Innovation and the applied tools for each step are as following:
+
+Figure 19. Systematic Innovation procedure for the helipad system
+
+Step 1; the function model (see the Figure 20) reveals two contradictions. At night, the tendency of the pilot is to rely mostly in his instruments to check if all systems are within normal operating limits.
+
+AXA Global Graduate Program
+Find out more and apply
+
+Download free eBooks at bookboon.com
+48
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Empirical Case Studies
+
+Figure 20. Function diagram of the helipad system
+
+Expansion of the root cause analysis (RCA) could reveal other problems and the solutions should cover the core problems of funding requirement; pilot inexperience, difficult working conditions and space (see Figure 21).
+
+Figure 21. Root Cause Analysis of the helipad system
+
+Download free eBooks at bookboon.com
+49
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Empirical Case Studies
+
+Step 2; the 40 inventive principles are applied. The technical parameters and the recommendations from the contradiction matrix from Altshuller (1996) are: Improving Feature: Reliability of the helipad (#31) Worsening Features: Generating armful factor (#27) Responding Inventive Principles: 	 No. 35: Parameter change, 	 No. 2: Extraction, 	 No. 40: Composite materials, 	 No. 26: Cheap and inexpensive copy The Inventive Principle number 26 is chosen to remove the harmful effects and incorporate the current technology to make the helipad safer for landing. Step 3; the system will be connected as well to the wind cone and weather vane in order to determine wind direction plus correct landing spot (see Figure 22). At correct altitude, the pilots should be able to see the LED lighting which is positioned at 30 degrees with respect to the point of view for the pilot.
+
+Figure 22. Prototype design of the guide slope
+
+The condition is for a pilot to see all four lights to know that he is in correct glide slope for landing. If he partially sees the lighting system then this signals that he is not correctly approaching the helipad and may need to adjust his flight path.
+
+Download free eBooks at bookboon.com
+50
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Empirical Case Studies
+
+4.4	 BAYANI: NEW PLASTIC BOTTLE DESIGN
+One of the startup company for beverages in Philippines has been using the plastic (PET) bottle for their packaging. The new bottles has been developed for pouring of the hot liquid into the bottle. The company had used the different design of the bottle in the past (Foodmarks, 2013) and it has been improved (Bayani, 2014). The problem is about the additional improvement of the bottle which the current one (see Figure 23) still has the problem about changing the bottle shape.
+
+Download free eBooks at bookboon.com
+51
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Empirical Case Studies
+
+Figure 23. Current improved plastic bottle (Bayani, 2014)
+
+The applied systematic innovation tools for each step are as following:
+
+Figure 24. Systematic Innovation procedure for the new bottle design
+
+Step 1 – Problem Identification; the problem of the current bottle is denting, more specifically, that the shape of the bottle is changed. This problem could be described by ENV model as follow: Problems: The shape (volume) of the bottle is decreased; 	. Element: Plastic bottle, 	. Name of Feature: shape (volume of bottle), 	. Value: decrease.
+
+Download free eBooks at bookboon.com
+52
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Empirical Case Studies
+
+Both Function Analysis and Root Cause Analysis (RCA) could be the next procedure after ENV model and Function Analysis is applied before proceeding RCA. Bottle system instead of the bottle itself is considered for the function analysis. In the view point of the system, the bottle is not only elements to make the system (Figure 25) and there are more elements to build up the bottle system.
+
+Figure 25. Function diagram of the bottle system
+
+According to Ideal Gas Law (Halliday, 2010), the volume of gas changed by the temperature. Since the beverage is relatedly hot (around 80 Celsius degree) and it effects the volume of the air inside of the bottle when the bottle is sealed and naturally cooling down around 25 degree. Basically, the plastic bottle is not strong enough to sustain the volume changes of the air during naturally cooling the beverages. RCA is targeted to find the core problem from the original problem and expanding the RCA would reveal hidden problems.
+
+Figure 26. Root Cause Analysis of the new bottle design
+
+Download free eBooks at bookboon.com
+53
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Empirical Case Studies
+
+Even though, there are several root causes (underlined contents) on RCA (Figure 26), one root cause which is about the volume of gas in the bottle could be addressed as the core problem because other causes have the useful effects and their own purposes with the reasons. In this case, the object of the system is the plastic bottle and the element that effects the current object is the air in the bottle after cooling. Problems: The volume of air in the bottle is decreased; 	. Element: air (in the bottle), 	. Name of Feature: volume, 	. Value: decrease. Unlike other case studies, ENV model is applied multiple times for the different purposes. ENV model at the beginning is formulate the original problem and the last ENV model describe the conceptual solution.
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+Download free eBooks at bookboon.com
+54
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Empirical Case Studies
+
+Step 2 – Problem Solving   ; the technical parameters and the recommendations from the contradiction matrix (Altshuller, 1996) are following: Improving Feature: Volume of stationary object (#8) Worsening Features: Strength (#14) Responding Inventive Principles: 	 No. 9: Preliminary anti-action, 	 No. 14: Spherical shapes, 	 No. 17: Moving to another dimension, 	 No. 15: Dynamism, The Inventive Principle number 9 is chosen to remove the harmful effects and incorporate the current bottle to develop new types of bottle system. But the design change of the bottle is very expensive and it is equally hard to apply the rapid prototyping approach. So, the process is back to the step 2 again (see Figure 12). From the function model, the object (S1) is the plastic bottle and Tool (S2) is the gas in the bottle and the enhanced Su-Field model could describe the conceptual solution as following:
+2 / S / F ^/ 0` o 2 / S  / F
+
+This new bottle design is Type-2 problem and the conceptual solution is that other elements could be considered for the preliminary anti-action instead of modifying the bottle. Step 3 – Evaluation and Prototyping; the prototype design is the modification of the cap which is one of element of the bottle system instead of changing the bottle by itself. The final recommendation is to come up with the new cap that has the elastic film inside to capture more gas when the bottle is sealed on the hot temperature (see Figure 27).
+
+Figure 27. Prototype design of the new cap on the bottle
+
+Download free eBooks at bookboon.com
+55
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Empirical Case Studies
+
+4.5	
+
+DONG-IN ENTECH: INNOVATIVE MANUFACTURING IMPROVEMENT
+
+Dong-In Entech Group was a complete manufacturing solutions provider for high-quality, high-end outdoor products for the global market (Kim and Parmar, 2015). Dong-In Entech Co. Ltd., was founded in 1992 in Seoul, Korea, grown as a partner of world class companies and became known for its expertise in producing technical and high quality products included in backpacks, sports equipment and COT (carts for ambulance use). Dong-In Entech, Philippines had 7 subsidiaries with the central warehousing at Freeport Area of Bataan (FAB). Because of the cost increasing of production in Korea, Dong-In Entech Group took the decision to shift the manufacturing facility to the Philippines to stay competitive in the global market. The Philippines served as an ideal location due to its central location on the international trade route, ease of accessibility, availability of cheap labour and an English speaking workforce. Also, the government of the Philippines was promoting labour intensive industries to create job opportunities for its citizens. Cutter-Z7 is the multiple cutters which loaded with powerful features for superb performance. The machine combines precision with speed to cut the most demanding materials to the tightest of tolerances. The dilemma for managing Dong-In Entech Philippines wanted to install the additional new technology adapted cutter which could handle air-transparent materials without (or with minimal) additional costs and delay of the operation time. To solve this problem, the applied systematic innovation tools for each step might be as following:
+
+Figure 28. Systematic Innovation procedure for setting up the new cutter machine
+
+Step 1; identifying the real problem of the current situation could be the first step. Brainstorming activity (Diehl and Stroebe, 1991) is used for delivering the effective practical recommendations. There are many other practical tools under name of the lean think activities but it is most commonly applied not only in the lean thinking but also in Sixsigma process. Step 2; the enhanced Su-Field model could be applied. The objective (S1) is the material to be cut and the target (S2) is the vacuum machine to hold the material. The vacuum could not hold the material because it passes the air. According to the enhanced Su-Field model, it is Type-1 problem (weak useful function). The final recommendation of the concept solution for solving the holding problem is:
+
+1 / S / F ^/ 0` o 2 / S  / F
+
+Download free eBooks at bookboon.com
+56
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Empirical Case Studies
+
+where S+ indicates that the substance that added for making strong enough for the useful effect and it could be described visual by using the Su-Field diagram (see Figure 28).
+
+Figure 29. The solution described by Su-Field model
+
+Step 2; the solution from Dong-In Entech is relatively cheap and very practical. The company adds the plastic wrappers (just like adding one more element from the enhanced Su-Field model) to put the vinyl on the top of the material (see Figure 30).
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+Download free eBooks at bookboon.com
+57
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Empirical Case Studies
+
+Figure 30. Actual solution for the cutting machine by Dong-In Entech
+
+As it mentioned at the beginning of this section, the systematic innovation process is not applied in this case even though the problem (and the solution) which the company has been faced are real. But this case is good enough for the class discussion on the innovation related courses, especially group activities for using the systematic innovation practice because the case deals with the real issues from the real company. Students could exercise the various tools for better understanding of the systematic innovation by using this case situation.
+
+Download free eBooks at bookboon.com
+58
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Conclusions
+
+5	CONCLUSIONS
+The empirical studies present the overview of Systematic Innovation and five real cases which cover from the problem description to the actual solutions to be applied. Chapter 3 explains the practical process for the systematic innovation is introduced. This process is not only providing the roadmap for users but also indicating the candidate tools for each step. It also includes the sections that explains the tools for each step of the process. The systematic innovation tools that introduced on this paper are selected only which are actually applied on the empirical cases on Chapter 4. The unique but practical tool which is modified by integrating two classical TRIZ tools is also encapsulated for the beginners who do not have enough TRIZ knowledge but wants to use the tool to generate new ideas effectively. This exposition contains four various empirical case studies which make this research to become more practical and realistic. This paper could be helpful for someone who wants to apply the systematic innovation on his real life problem situations to solving them innovatively. The first case of the chapter 4 (i.e., Section 4.1) has focused on expanding the distribution channels of electronic consumers of Amazon. However, it does not mean that Amazon has applied the systematic innovation method for their business development. The present study addressed this issue by proposing the systematic innovation method to generate innovative solutions for the business development. The two advantages of the proposed method are as follows: •	 The method integrates the systematic innovation parameters including, TRIZ and the study cases determinant to build a parameters correspondence table, which enables business developers to identify appropriate tools from the problem identifications. •	 The method utilizes scientific function attribute analysis, problem formulation, and the enhanced substance-field model to identify the existing business environment and to develop inventive solutions for improving current business, rather than relying on the intuition and/or personal experience of business developers. The feasibility and advantages of using the proposed TRIZ method for Systematic Innovation have been demonstrated by five case studies including Amazon Kindle case for new business developers. Business developers should also establish a standard operational procedure (SOP) to generate innovation solutions which would enable them to maintain continuous innovation of new business development activities. Finally, this guidebook will enable business developers to make the optimal usages of the proposed systematic innovation process.
+
+Download free eBooks at bookboon.com
+59
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Appendix A: Worksheets
+
+APPENDIX A: WORKSHEETS
+(Source: Kim, Chai and et. al., 2012) This appendix consists of various worksheets that enable the definition, resolution, and evaluation of service design problems. Through the questions and hints in each worksheet, service designers will be able to find possible ideas and solutions for their service design problems. Each worksheet is numbered accordingly. Worksheet 1.1: STIC Tool 1.	    How would I solve the problem if there were no physical size?
+
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+Download free eBooks at bookboon.com
+60
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Appendix A: Worksheets
+
+2.	   
+
+How would I solve the problem if there were an infinite physical size?
+
+3.	 How would I solve the problem if there were no time frame to deliver the business function?    4.	 How would I solve the problem if there were infinite time to deliver the business function?    5.	    6.	    7.	    8.	    How would I solve the problem if there were no interfaces?
+
+How would I solve the problem if there were infinite interfaces?
+
+How would I solve the problem if there were no costs?
+
+How would I solve the problem if costs were infinite?
+
+Download free eBooks at bookboon.com
+61
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Appendix A: Worksheets
+
+Worksheet 1.2: ENV Model
+Base System Name of System Parameter (for improvement) Elements Functions of Elements Feature of Functions Concept Design: How to transfer the feature of function into the base system? Alternative System
+
+Worksheet 2.1: Contradiction Analysis 1.	 Please list and describe the problems you face in the problematic system of target service operations briefly.    2.	 Which one is the key problem(s) among the problems listed? Please try to formulate this key problem in the form of a contradiction.    3.	 Do you think the identified contradiction is an inherent contradiction of the problem? If not, please try to re-formulate it.   
+
+Download free eBooks at bookboon.com
+62
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Appendix A: Worksheets
+
+Worksheet 2.2: Contradiction Elimination 1.	 Please try to intensify the two conflicting elements of the inherent contradiction into two extreme situations.    2.	 Analyze the two extreme situations of the contradiction and record the indicated solutions from the situations.    3.	 If the contradiction is not eliminated, identify the major class of the situation using the table in Appendix J.   
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+Download free eBooks at bookboon.com
+63
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Appendix A: Worksheets
+
+4.	 Refer to the table in Appendix K for the list of suggested useful principles and then refer to the description of the 40 Inventive principles in Appendix B.    5.	    Analyze the meanings of the selected principles.
+
+6.	 List all of the possible ideas generated from the principles and concretize them by putting these ideas into the industry’s context.    Worksheet 2.3: Feature Transfer
+Base System Name of System Parameter (for improvement) Elements Functions of Elements Feature of Functions Concept Design: How to transfer the feature of function into the base system? Alternative System
+
+Download free eBooks at bookboon.com
+64
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Appendix A: Worksheets
+
+Worksheet 2.4: List of the Candidate Solutions
+
+Worksheet 3.1: Solution Evaluation 1.	    2.	    3.	    What is the ideal final result to the service problem?
+
+Check the chosen solution against the four criteria of increasing ideality.
+
+Does the chosen solution conform to these criteria?
+
+4.	 What are the local constraints (e.g. facilities, costs, etc…) needed to realize this chosen solution?   
+
+Download free eBooks at bookboon.com
+65
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Appendix B: Multi-Screen Thinking
+
+APPENDIX B: MULTI-SCREEN THINKING
+(Adapted from Kim, Chai and et. al., 2012) Multi-Screen Thinking is one of the more famous TRIZ tools and can reveal hidden resources. During this procedure, users could review resources not only in the current system level and timeframe but also in other levels and timeframes. The Multi-Screen Thinking Table (see Figure A1) describes the system levels and timeframe which can explain events in greater detail.
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+Download free eBooks at bookboon.com
+66
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Appendix B: Multi-Screen Thinking
+
+[Figure A1. Multi-Screen Thinking Table]
+
+Time-0 is the moment that the problem is happening and is called OT (Operation Time) in TRIZ. In other words, the moment that Time 0 starts is the time when the system is doing the action. Time-1 is the moment just before the action and Time 1. Users consider resources not only in the system but also in the sub-system and super-system. Sub-systems are basically elements of the target systems.
+
+Download free eBooks at bookboon.com
+67
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+APPENDIX C: 40 INVENTIVE PRINCIPLES WITH APPLICATIONS IN BUSINESS OPERATIONS
+
+APPENDIX C: 40 INVENTIVE PRINCIPLES WITH APPLICATIONS IN BUSINESS OPERATIONS
+(Adapted from Kim, Chai and et. al., 2012) Principle 1: Segmentation A.	Divide an object or system into independent parts. •	 Business development packages can be divided into several components: improving the business, back to the business as usual, specific operations or functions. b)	 Make an object or system easy to disassemble. •	 The body of customers can be segmented based on their personal information such as their needs, ages, buying behaviors, etc. (e.g., United Services Automobile Association targets its business of automobile insurance only towards military officers, a group that presents lower-than-average risk of problems requiring compensation; wholesale companies can target customers who are willing to buy in quantity, do without frills, and serve themselves). C.	Increase the degree of fragmentation or segmentation. •	 Business operation centers can improve service or product delivery efficiency by segmenting the business ranges into several categories and pre-arranging them in the tape of pre-assigned resources such as an automatic phone answering system in the service area. It shortens the time for customers to find the right consultant for inquiries. Principle 2: Taking out A.	Separate an interfering part or property from an object or system, or single out the only necessary part (or property) of an object or system. •	 Automated Teller Machines (ATM) extract the core functions that essentially perform the banking transactions, such as cash withdrawal and funds transfer, and make them happen outside banks. •	 Online reservation system (e.g., airline, hotel, and cinema). •	 Hospitals send out blood donation ambulances so that donors do not have to travel to the hospitals.
+
+Download free eBooks at bookboon.com
+68
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+APPENDIX C: 40 INVENTIVE PRINCIPLES WITH APPLICATIONS IN BUSINESS OPERATIONS
+
+Principle 3: Local quality A.	Change an object’s or system’s structure from uniform to non-uniform; change an external environment (or external influence) from uniform to non-uniform. •	 Some business operations such as service offerings should be customized based on the needs of customers. B.	Make each part of an object or system function in conditions most suitable for its business operation. •	 The layout designs in large grocery stores like Safeway and superstores like Walmart, emphasize strategic product placement and customer flows through their stores to maximize sales and convenience. •	 Restaurants usually choose locations that are heavily populated to maximize revenues.
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+Download free eBooks at bookboon.com
+69
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+APPENDIX C: 40 INVENTIVE PRINCIPLES WITH APPLICATIONS IN BUSINESS OPERATIONS
+
+C.	Make each part of an object or system fulfil a different and useful function. •	 Stockholders are a unique element in the business operations and can play a vital role in improving the value proposition of the business. In the health-care business, accurate description of patients will help doctors provide effective prescriptions; in fast food restaurants, customers assemble their own dishes which cater to their taste. •	 In most business development cases, the performance indicators are a mix of tangible and intangible goods. They have their own roles in creating a good experience for the value propositions. Principle 4: Asymmetry A.	Change the shape of an object or system from symmetrical to asymmetrical. •	 Sometimes, targeting the specific niche market instead of mass market will help create a unique values (or profits). Principle 5: Merging A.	Merging identical or similar objects or systems; assemble identical or similar parts to perform parallel operations. •	 Identical products or similar business strategies are usually put together for the convenience for the value creations (i.e., targeting the same regional markets). •	 Collaboration and partnerships among organizations (i.e., theaters invite famous bands, singers for shows). B.	Make operations contiguous or parallel; bring them together in time. •	 Bundling services and operating them together (e.g., an admission to Disney world means visitors can enjoy a variety of attractions and a fantastic atmosphere which can help to create wonderful experiences in the mind of customers.). Principle 6: Universality A.	Make a par, object, or system perform multiple functions; eliminate the need for other parts. •	 A service offering might perform multiple functions by satisfying various needs of customers. B.	Use standardized features: •	 unified platform for smartphone applications (i.e., iOS, Android), •	 performing consistent service delivery, and •	 scoring system used for the business strategy selections.
+
+Download free eBooks at bookboon.com
+70
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+APPENDIX C: 40 INVENTIVE PRINCIPLES WITH APPLICATIONS IN BUSINESS OPERATIONS
+
+Principle 7: “Nested doll” A.	The operations of the back office should not be isolated from the operations of the front office •	 Receptionists should know the operational status in hotel rooms, such as occupancy and cleaning status. Principle 8: Anti-weight A.	To compensate for the weight of an object or system, merge it with other objects or systems that provide lift. •	 Organizations invite consulting firms to help identify and solve problems •	 Theaters invite famous bands and singers to provide interesting shows and concerts that attract audiences. B.	To compensate for the weight of an object or system, make it interact with the environment. •	 Product (or service) users may become a marketing medium who offer the new business development (i.e., Lead User Research). Principle 9: Preliminary anti-action A.	If it will be necessary to do an action with both harmful and useful effects, this action should be replaced with anti-actions to control harmful effects. •	 Before the commercialization of a new service product, preventive analysis should be done to identify any potential failure points in the service offering. B.	Create beforehand stresses in an object or system that will oppose known undesirable working stresses later on. •	 The help file is always included in software to help users to solve problems whenever they are met. •	 Software or hardware providers offer free technology support for customers through online inquiries or toll-free phone numbers. Principle 10: Preliminary action A.	Perform the required change of an object or system (either fully or partially) before it is needed. •	 CRM (Customer Relationship Management) databases target predict the needs of customers in advance. •	 A good layout of the factory would be beneficial to improve the quality and efficiency of the products.
+
+Download free eBooks at bookboon.com
+71
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+APPENDIX C: 40 INVENTIVE PRINCIPLES WITH APPLICATIONS IN BUSINESS OPERATIONS
+
+B.	Pre-arrange objects or systems such that they can commence from the most convenient place and without losing time for their delivery. •	 The “hub-and-spoke” network delivery concept used by Federal Express. •	 Strategic placement of commodities in shopping malls. Principle 11: Beforehand cushioning A.	Prepare emergency means beforehand to compensate for the relatively low reliability of an object or system. •	 In the service sectors, companies can use a set of preventive strategies such as price differentials to encourage off-peak demand, early advertising to avoid season rush, and the use appointment and reservations. Principle 12: Equipotentiality A.	In a potential field, limit position changes. •	 Car renting companies usually have a scatter of branches. Customers can rent a car at any shop, drive it around and then return it later to any one of the chain shops closest to them.
+
+The stuff you'll need to make a good living
+
+STUDY. PLAY.
+
+The stuff that makes life worth living
+
+NORWAY. YOUR IDEAL STUDY DESTINATION.
+WWW.STUDYINNORWAY.NO FACEBOOK.COM/STUDYINNORWAY
+
+Download free eBooks at bookboon.com
+72
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+APPENDIX C: 40 INVENTIVE PRINCIPLES WITH APPLICATIONS IN BUSINESS OPERATIONS
+
+Principle 13: The other way around A.	Invert the action(s) used to solve the problem. •	 With the advancement of e-services, customers do not have to go shopping at physical stores like before. They can shop and make payments online just by sitting at home and waiting for the delivery of purchased products to their homes. B.	Make movable parts (or the external environment) fixed, and fixed parts movable. •	 Service companies can earn competitive advantages by delivering on-site services, •	 Emergency ambulances travel to the places of patients. Principle 14: Spheroidality A.	Instead of using rectilinear parts, surfaces, or forms, use curvilinear ones; move from flat surfaces to spherical ones; from parts shaped as a cube (parallelepiped) to ball-shaped structures. B.	Go from linear to rotary motion, use centrifugal forces •	 The process of new business development is highly iterative rather than just being linear. •	 Feedback from stockholders and frontline staff are valuable in developing new business development. Principle 15: Dynamics A.	Allow (or design) the characteristics of an object, external environment, or process to change to be optimal or to find an optimal operating condition. •	 Service firms can empower frontline staff with the discretionary right to deliver services. B.	Divide an object or system into parts capable of movement relative to each other. •	 The team of a new service development should consist of the members from cross-functional departments.
+
+Download free eBooks at bookboon.com
+73
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+APPENDIX C: 40 INVENTIVE PRINCIPLES WITH APPLICATIONS IN BUSINESS OPERATIONS
+
+Principle 16: Partial or excessive actions A.	If 100 percent of an object or system is hard to achieve using a given solution method, then by using slightly-less or slightly-more of the same method, the problem may be considerably easier to solve. •	 Giving notices and explanations to customers beforehand for temporary unavailability of services can prevent loss of customer loyalty due to blind waiting. •	 Stockholders might be delighted if the perceived the values (mostly benefits) exceeds their expectations. Principle 17: Another dimension A.	To move an object or system in two- or three-dimensional space. •	 Business Canvas for the new business development; House of Quality in business improvements. •	 Multi-level sales system, such as Amway and Avon sales systems. B.	Use a multi-layer arrangement of objects instead of a single-layer arrangement. •	 The organization structure of McDonald is pyramid-shaped, with layers of supervision from the assistant store manager, store manager, and regional manager to corporate consultants, to ensure consistency of service delivery across all locations. Principle 18: Mechanical vibration A.	Cause an object or system to oscillate or vibrate. •	 Benchmarking the best practices across different business sectors would be helpful to improve value propositions. Keep innovating in developing service offerings. B.	Increase its frequency (even up to the ultrasonic). •	 Ritz Carlton Hotels have 10 minutes per day of employee training, instead of long classes at less frequent intervals. C.	Use the resonant frequency of an object or a system. •	 The use of Just-In-Time (JIT) inventory systems in supply chain management.
+
+Download free eBooks at bookboon.com
+74
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+APPENDIX C: 40 INVENTIVE PRINCIPLES WITH APPLICATIONS IN BUSINESS OPERATIONS
+
+Principle 19: Periodic action A.	Instead of continuous action, use periodic or pulsating actions. •	 To many service industries, it is not cost-effective, or of no point at all, to keep service capacity fixed throughout the time. B.	If an action is already periodic, change the periodic magnitude or frequency. C.	Use pauses between impulses to perform a different action. •	 In the operations of back offices inspections of the working conditions of machines should be regular to prevent the accidental breakdowns. Principle 20: Continuity of useful action A.	Carry on work continuously; makes all parts of an object or system work at full load all the time. •	 Some service organizations develop a retirement job bank for their retired employees; this is used a source of skilled labor to fill in during peak work times, absences, and vacations. •	 Some services and facilities are in the state of continuous delivery. B.	Eliminate all idle or intermittent actions or work.
+
+I joined MITAS because I wanted real responsibili� I joined MITAS because I wanted real responsibili�
+
+Maersk.com/Mitas www.discovermitas.com
+
+�e Graduate Programme for Engineers and Geoscientists
+
+�e G for Engine
+
+Ma
+
+Real work International Internationa al opportunities �ree wo work or placements
+
+Month 16 I was a construction Mo supervisor ina const I was the North Sea super advising and the No he helping foremen advis s solve problems Real work he helping fo International Internationa al opportunities �ree wo work or placements s solve pr
+Click on the ad to read more
+
+Download free eBooks at bookboon.com
+75
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+APPENDIX C: 40 INVENTIVE PRINCIPLES WITH APPLICATIONS IN BUSINESS OPERATIONS
+
+Principle 21: Skipping A.	Conduct a process or certain stages at high speed. •	 The procedure for X-ray mammograms is uncomfortable for the patient. The actual X-ray exposure only takes a few seconds, but positioning the patient can take several minutes. If technicians learn how to do the positioning quickly, and they know how to release the pressure at the instance that the X-ray is taken, patients are more likely to return. •	 An alternative way to manage a waiting line is to let customers feel that the waiting time was skipped psychologically. Principle 22: “Blessing in disguise” or “Turn Lemons into Lemonade” A.	Use harmful factors (particularly harmful effects of the environment or surroundings) to achieve a positive effect. •	 New business could be developed by listening to end-user complaints. •	 If a software failure occurs or a potential software fail point is identified, software development companies can respond fast and take effective measures to fix the problem. B.	Eliminate the primary harmful action by adding it to another harmful action to resolve the problem. Amplify a harmful factor to such a degree that it is no longer harmful. •	 In the business consulting sector, the price for purchasing consultation offerings is often considered a surrogate for the customer satisfactions. Principle 23: Feedback A.	Introduce feedback (referring back, cross-checking) to improve a process or action. •	 Instant feedback on sales and inventory movements can be obtained through the use of RFID (radio frequency identification) tags. This can result in a better match of inventory backups. B.	If feedback is already used, change its magnitude or influence. •	 Increase the collection of feedback data from end users and frontline staff by using other means, such as focus groups, brainstorming and lead user interview for the new business development.
+
+Download free eBooks at bookboon.com
+76
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+APPENDIX C: 40 INVENTIVE PRINCIPLES WITH APPLICATIONS IN BUSINESS OPERATIONS
+
+Principle 24: “Intermediary” A.	Use an intermediary carrier article or intermediary process. •	 A large number of businesses deal with intermediaries such as agents, brokers and law firms and so on. •	 In the service sectors, customer-contact personnel are representatives of service firms or the intermediaries between service firms and customers. Their performances affect the image of service firms directly. B.	Merge one object temporarily with another. Principle 25: Self-service A.	Make an object or system serve itself by performing auxiliary helpful functions. •	 In fast-food restaurant operations, customers become partial employees. Customers can actually assemble meals based on their preferences and help augment the work of service staff. B.	Use waste resources, energy, or substances. Principle 26: Copying A.	Instead of an unavailable, expensive, fragile object or system, use simpler and inexpensive copies. •	 In many museums, visitors have a cheaper option to hiring a tour guide, that is, to rent an audio guide. B.	Replace an object, system, or process with optical copies. •	 Microfilms are used to store huge volumes of books. C.	If visible optical copies are already used, move to infrared or ultraviolet copies. D.	Copy creative service concepts across different industries. •	 Southwest Airlines cut its turnaround time by 50 percent by observing how the pit crews of Indianapolis 500 fuel and service race cars. Principle 27: Cheap short-living objects A.	Replace an inexpensive object or system with multiple inexpensive objects or systems, compromising certain qualities (such as service life, for instance). •	 Many software development companies allow potential customers to download and use their products for a trial period or a limited number of uses. •	 Movie trailers are usually released quite early before the showing of movies.
+
+Download free eBooks at bookboon.com
+77
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+APPENDIX C: 40 INVENTIVE PRINCIPLES WITH APPLICATIONS IN BUSINESS OPERATIONS
+
+Principle 28: Mechanics substitution A.	Replace mechanical means with sensory (optical, acoustic, taste or smell) means. •	 Video tape of lectures and CD recordings of concerts represent convenient substitutes for physical attendance. B.	Use electric, magnetic, and electromagnetic fields to interact with the object or system. •	 Applying manufacturing technologies to automate the back-office operations in service companies (e.g., airport luggage-handling system). •	 In traditional service delivery, customers must travel to service facilities, or servers must travel to customers’ places. Electronic communication can be substituted for physical travel (e.g., learning through registering in an online class; conducting a video conference). C.	Change from static to movable fields, from unstructured fields to those having structure. •	 Internet technologies enable the real-time communication with visual images, which is a revolutionary change from the traditional way of calling over the phone. D.	Use fields in conjunction with field-activated (e.g. ferromagnetic) particles.
+
+Need help with your dissertation?
+Get in-depth feedback & advice from experts in your topic area. Find out what you can do to improve the quality of your dissertation!
+
+Get Help Now
+
+Go to www.helpmyassignment.co.uk for more info
+
+Download free eBooks at bookboon.com
+78
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+APPENDIX C: 40 INVENTIVE PRINCIPLES WITH APPLICATIONS IN BUSINESS OPERATIONS
+
+Principle 29: Pneumatics and hydraulics (Intangibility) A.	Use intangible parts of an object or system instead of tangible parts. •	 The brand images of service organizations can be a guarantee for service quality. Principle 30: Flexible shells and thin films A.	Use flexible shells and thin films instead of three-dimensional structures. B.	Isolate the object or system from the external environment using flexible shells and thin films. •	 Some trains use automated shutting doors to isolate smoking compartments from non-smoking compartments. Principle 31: Porous materials A.	Make an object or system porous or add porous elements. •	 Some supermarkets open a green cashier counter in peak time for customers who just buy a few items so that they can check out quickly and do not have to wait in the long queue. B.	If an object or system is already porous, use the pores to introduce a useful substance or function. •	 In order to develop better products or enhance service quality, service providers can encourage and reward customers to provide feedback of their experiences. Principle 32: Color changes A.	Change the color of an object, a system, or its external environment. •	 Changing the color of a service facility might be able to influence the perception of the customer service. •	 Avoiding any typical hospital color “association” might be helpful in the rapid recovery for patients. B.	Change the transparency of an object, a system, or its external environment. •	 Sometimes it is useful to promote customer confidence by making a part of service operations transparent to public scrutiny. Principle 33: Homogeneity A.	Make objects or systems interacting with a given object or system of the same material. •	 Some hospitals encourage the patients who have received surgery to discuss their experiences with new patients to alleviate their pre-operative fears; schools encourage students to help each other clarify puzzles during study.
+
+Download free eBooks at bookboon.com
+79
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+APPENDIX C: 40 INVENTIVE PRINCIPLES WITH APPLICATIONS IN BUSINESS OPERATIONS
+
+Principle 34: Discarding and recovering A.	Make portions of an object or system that have fulfilled their functions go away (discard by dissolving, evaporating, etc.) or modify these directly during operation. •	 Some of the elements in service packages will be consumed after they have fulfilled their task of helping create experiences in the minds of customers. B.	Conversely, restore consumable parts of an object or system directly in operation. Principle 35: Parameter changes A.	Change the physical state of an object or a system. •	 The emergence of information technologies turns brick-and-mortar banks into intangible e-banks. B.	Change the concentration or consistency. •	 The focus service strategy rests on the premise that service firms can serve thier narrow target market more effectively and/or efficiently than other firms trying to serve a broad market. C.	Change the degree of flexibility. •	 Museums send their top art works for stroll exhibitions over the world; famous circuses make travel shows across many places. •	 Lean masters are dispatched to factories all around world; then, companies want to setup the lean manufacturing. D.	Change the atmosphere to an optimal setting. •	 A coffee bar might need a relaxed environment with mood music in the background. •	 A nightclub might need some special recreation programs to match the moods of customers. Principle 36: Phase transitions A.	Use phenomena occurring during phase transitions. •	 Recreation centers launch different new leisure programs in different seasons. •	 With the aging of club members, some resort clubs might design more family activities to cater to the evolution of their members’ needs.
+
+Download free eBooks at bookboon.com
+80
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+APPENDIX C: 40 INVENTIVE PRINCIPLES WITH APPLICATIONS IN BUSINESS OPERATIONS
+
+Principle 37: Thermal expansion (Strategic expansion) A.	Use thermal expansion (or contraction) of materials. •	 Some service industries use adaptable service capacity to cater to fluctuating demands of customers (i.e., restaurants hire temporary staff to meet peak demands; airlines increase the amount of flights during tour season). B.	If thermal expansion is being used, use multiple materials with different coefficients of thermal expansion. Principle 38: Strong oxidants (Boosted interactions) A.	Replace common air with oxygen-enriched air (more exposure to customers) •	 Contrary to the closed-system perspective that is taken in manufacturing, service operations adopt an open-system concept because of the presence of customers in the process of service delivery.
+
+Download free eBooks at bookboon.com
+81
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+APPENDIX C: 40 INVENTIVE PRINCIPLES WITH APPLICATIONS IN BUSINESS OPERATIONS
+
+B.	Replace enriched air with pure oxygen (increase the level of customer participation in service delivery) •	 Further enhance the role of customers as co-producers in service delivery (e.g., the evolution of customer roles in service delivery from traditional banking, to phone banking, to Internet banking). C.	Expose air or oxygen to ionizing radiation. D.	Use ionized oxygen. E.	 Replace ozonized (or ionized) oxygen with ozone. Principle 39: Inert atmosphere A.	Replace a normal environment with an inert one. •	 During the period of the SARS outbreak, patients who were infected by the disease were quarantined in order to prevent further spreading. •	 Use of neutral third parties during difficult negotiations. B.	Add neutral parts or inert additives to an object or system. •	 Break time for a lecture. Principle 40: Composite materials A.	Change from uniform to composite (multiple) materials. •	 Use multi-media in educational lectures with music and video, instead of face-to-face lectures.
+
+Download free eBooks at bookboon.com
+82
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Appendix D: Enhanced Su-Field Model
+
+APPENDIX D: ENHANCED SU-FIELD MODEL
+(Source: Kim, 2011) The special notations thus called Enhanced Su-Field notations are introduced in the paper. The notations give intuitive explanations for both problems and solutions based on the Inventive Standards. The core for Su-Field model notation is adopted by the queuing model notations also kwon as Kendall-Lee notations. Su-Field notations cover all of the Inventive Standards except for Group 5 which are guidelines for the other four groups. Someone who does not even have the full knowledge of the 76 Inventive Standard solutions could understand the problems and candidate solutions intuitively based on Su-Field notations. The similar but innovative notation scheme to cover the 76 Inventive Standards is defined by adopting the classical queueing notations. This notation method is clarifying the Inventive Standards simpler ways and users can be guided to the candidate solutions from the problems based on Su-Field model with the minimal knowledge of 76 Inventive Standard solutions. The new notation for Su-Field model (Su-Field notation) is provided (akAmang’s notation that is alias of author). The Su-Field model for Inventive Standard solution can exhibit the summarized main characteristics of a Su-Field model.
+
+x / s / f  : / a
+where the symbols x, s, f and a stand for basic elements of the model as follows: x = solution (or problem) types (x = 1, 2 or 4) s = substance attributes, f = field attributes a = strength of actions (a=0; Normal or a=1; Stronger)
+
+Download free eBooks at bookboon.com
+83
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Appendix D: Enhanced Su-Field Model
+
+The attributes of the substance s are as follow: S * = general terms of the substance that can solve the problems S+ = +1 substance from basic structure to solve the problems S’ = modify the substance (tool) to solve the problems without changing the number of components from basic structure S- = -1 substance from basic structure (i.e., tool is missed) S ∞ = substance (tool) is divided infinitely (Technical System Evolution) S” or S 2 = adding the clone of the substance (+1) The attributes of the field f are similar to the substance attributes: F * = general terms of the field that can solve the problems F + = +1 field from basic structure to solve the problems F’ =  modify the field to solve the problems without changing the number of components from basic structure F  = -1 field from basic structure F ∞ = field is divided infinitely (Technical System Evolution) F” = adding the clone of the field (+1) m F = reverse direction of the field
+
+Brain power
+
+By 2020, wind could provide one-tenth of our planet’s electricity needs. Already today, SKF’s innovative knowhow is crucial to running a large proportion of the world’s wind turbines. Up to 25 % of the generating costs relate to maintenance. These can be reduced dramatically thanks to our systems for on-line condition monitoring and automatic lubrication. We help make it more economical to create cleaner, cheaper energy out of thin air. By sharing our experience, expertise, and creativity, industries can boost performance beyond expectations. Therefore we need the best employees who can meet this challenge!
+
+The Power of Knowledge Engineering
+
+Plug into The Power of Knowledge Engineering. Visit us at www.skf.com/knowledge
+
+Download free eBooks at bookboon.com
+84
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Appendix D: Enhanced Su-Field Model
+
+The basic structure of Su-Field model for the Inventive Standard consist one object (S1), one tool (S2) and one field (F ) The basic structure can be notified as:
+
+x / s / f ^/ 0`, x 1,2,4
+where x is the types of problems or solutions (see Figure D1)
+
+Figure D1. Basic Structure of Su-Field Model
+
+Overall, the 76 Inventive Standards except for Group 5, the problems could be categorized into three types. Type 1 is the problem that contains the weak useful action (or function) and the candidate solution of Type 1 enhances the strong useful action. Type 2 is the problem that contains the harmful action and the candidate solution of Type 2 removes the harmful action. Type 4 contains mainly measurement problems. It is a separate group of the 76 Inventive Standard solutions. Group 4 in the Inventive Standard matches exactly with Type 4.
+
+Download free eBooks at bookboon.com
+85
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Appendix D: Enhanced Su-Field Model
+
+Figure D2. Types of the Problems
+
+For instance, 2/S/F is the problem (see Figure D2) contains the harmful action and the candidate solution is 2/S+/F – that means removing the harmful action by additional substance S3 (remarked as S+ in Su-Field notation). As seen above, Problem Types also represent Solution Types (i.e., same type number). So, it is the same type in Su-Field notation regardless of problems or solutions. There are 3 solution types based on the problem types. Compare to the group of 76 Inventive Standards, Group 1, 2, and 3 are integrated to Type 1 and 2. Group 4 in the Inventive Standard is integrated into Type 4 that is much simplified and remained as Conceptual Solution. Problem Type 1 contains two sub types based on the problem conditions. Type 1-1 is the problem that has the missing substance (tool) or the field (action). Type 1-2 is the problem of weakness and 1/S∞/F∞ that means the unlimited modifications of the substance and the field based on Technical System Evolution which could be the candidate solution of Problem Type 1-2. The solution for Problem Type 1 can be concluded as follow:
+Value of feature Current Desired
+
+Element
+
+Name of feature
+
+Download free eBooks at bookboon.com
+86
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Appendix D: Enhanced Su-Field Model
+
+where S* and F* are the optimal attributes of the substances and the fields to solve the problem. Problem Type-2 is the problem that contains the harmful action and the candidate solution is basically to remove the harmful function and the candidate solution of Problem Type 2 can be determined as follows:
+­ 1/ S / F , ° 1/ S * / F , ° ^1` ^1` 1/ S / F o ® * ° 1/ S / F , * * ° ¯1 / S / F ,
+
+^ ^F
+*
+
+ Type  1 S S ', S  , S 2 , S f , S n
+*
+
+F ' , F ", F , F
+
+
+
+f
+
+` `
+
+Problem Type-4 is the measurement of the system. Even though Group 4 in the 76 Inventive Standards could be applied Type-4 problems, Amang notation could be applied for the measurement problems. In case of Type-4, the notation for the action attributes is a mandatory factor because the strength of the measurement signals:
+­2 / S * / F , S * S  or S ' ° 2 / S / F ^/ 0` o ®2 / S / F ,  °2 / S / F / a, 0  a  1 ¯
+
+One of practical solutions for the Type-4 Problem is 4/S-/F- which means removing the components requiring the measurement (i.e., Inventive Standard 4-1-1).
+
+Challenge the way we run
+
+EXPERIENCE THE POWER OF FULL ENGAGEMENT… RUN FASTER. RUN LONGER.. RUN EASIER…
+1349906_A6_4+0.indd 1
+
+READ MORE & PRE-ORDER TODAY WWW.GAITEYE.COM
+
+22-08-2014 12:56:57
+
+Download free eBooks at bookboon.com
+87
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Appendix D: Enhanced Su-Field Model
+
+Figure D3. Diagram based on Su-Field Notations
+
+From (3), (4) and (5), Inventive Standard solutions based on Su-Field notations could be summarized as follow:
+
+­1 / S {*} / F {*} , x 1, ° x / S ^y` / F ^z ` o ®2 / S {*} / F {*} , x 2, °4 / S {*} / F {*} , x 4 ¯ The above formula is the most abstracted version of the conceptual solution from (3)–(5). It is very the simple explanation but it practically covers all of the Inventive Solutions (Group 1–4). The conceptual solution could be applied not in the classical TRIZ problems but also in the problems of software and business development flexibly.
+
+Download free eBooks at bookboon.com
+88
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Appendix E: ARIZ for Service Design
+
+APPENDIX E: ARIZ FOR SERVICE DESIGN
+(Adapted from Kim, Chai and et. al., 2012) The Algorithm for Inventive Problem Solving (ARIZ from its Russian abbreviation) uses a multi-step program of actions and systematic steps to lead service designers from ambiguous service problem beginnings to realistic service design problem solutions. It uses a structured set of statements that guides users in formulating and reformulating problems. Even though, this appendix describe the ARIZ which targeted for the service design, it could be the affordable reference for the new business development or design. 	 Before starting Step 2, the problem must be well defined to apply the ARIZ. If the problem is not well defined, a user should go back to Step 1 before considering ARIZ. Part 1: Problem Analysis 1.1	 Write down the service problem’s specification using special terminologies. After which, formulate the problem using general and simpler terms. 1.2	 Isolate and write down the conflicting or contradicting pairs of service elements. 1.3	 Identify the interrelationships between the components found in 1.2 and classify them as either Useful or Harmful. 1.4	Model the problem by indicating the conflicting pairs of elements and the contradictions present in the service system. Part 2: Analysis of the Model of Problem 2.1	 Define the operational zone (OZ) 2.2	 Define the operational time (OT) 2.3	 Select one element from the conflicting pairs of elements that can be easily changed or replaced.
+
+Download free eBooks at bookboon.com
+89
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Appendix E: ARIZ for Service Design
+
+Part 3: Define IFR and Physical Contradictions (PC) 3.1	 Write down the formulation for the Ideal Final Result: 	Element (from 2.3) itself removes indicated Harmful function while retaining the ability to perform indicated Useful function. 3.2	 Identify elements that cannot cope with the instances demanded by the Ideal Final Result (from 3.1). 3.3	 Write down the physical contradiction at macro-level 3.4	 Write down the physical contradiction at micro-level Part 4: Utilization of Resources * *) Sub-parts are not based on ARIZ-85c 4.1	 Use the 40 Inventive Principles (refer to Appendix B of this worksheet) to resolve the contradictions in the service. 4.2	 Using the obtained solution from the 40 Inventive Principles, formulate a method for solving and develop a way in which such solution will be implemented. 4.3	 Use the Su-Field Model to remove the Harmful function. The solution can be recommended based on the 76 Inventive Standard solutions. 4.4	 Using the solution obtained from Su-Field Model, apply the various elements for substance and field (4.5~4.7 in ARIZ-85c).
+
+This e-book is made with
+
+SetaPDF
+
+SETASIGN
+
+PDF components for PHP developers
+
+www.setasign.com
+Download free eBooks at bookboon.com
+90
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Appendix E: ARIZ for Service Design
+
+Part 7: Analysis of the Principle of PC Elimination** **) Sub-parts are not based on ARIZ-85c Evaluate the initial solution using the following checklist: •	 Are the Ideal Final Result requirements fulfilled? •	 Which contradiction has been eliminated by the solution? •	 Is the solution suitable in real service operations? 7.2	 What secondary effects can arise in the implementation of this solution? List possible subordinate problems. Part 8: Using of the Obtained Answer 8.1	 8.2	 8.3	 Determine how the macro-level service system will change. Check whether the new solution will have to be applied in a new way. Examine the possibility of using the reverse of the service idea obtained. 	 Some of parts for ARIZ-85c that are not applicable for service designs (and new business developments) have been removed from Appendix E. 7.1	
+
+Download free eBooks at bookboon.com
+91
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+Appendix E: Multi-Criteria Decision Analysis Tables
+
+APPENDIX E: MULTI-CRITERIA DECISION ANALYSIS TABLES
+(Adapted from Kim, Chai and et. al., 2012)
+Criteria Candidate Solution 1 A B C … Criteria Weighting Factor A1        W1 2 A2        W2 3 A3        W3 4  A4       W4 …         (A1*W1) + (A2*W2) +…       Total Score
+
+To further illustrate the use of the Multi-Criteria Decision Analysis Table, a simple worked out example is shown below. The relevant criteria used are safety, convenience, and profits. Safety is deemed most important (weighing factor of 10) while convenience is the least important (weighing factor of 5).
+Criteria Total Score Safety 8 5 7 10 Convenience 4 8 8 5 Profits 6 8 7 7 142 146 159
+
+Candidate Solution A B C Criteria Weighting Factor
+
+According to the table above, Candidate Solution C (159 points) should be chosen.
+
+Download free eBooks at bookboon.com
+92
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+References
+
+REFERENCES
+Altshuller, G. (1989), Algorithm of Inventive Problem Solving (ARIZ-85C), Rules of a Game Without Rules (Russian), Karelia, Petrozavodsk, pp. 11–50. Altshuller, G. (1996), And Suddenly the Inventor Appeared: TRIZ, the Theory of Inventive Problem Solving, Technical Innovation Center, Worcester, MA. Amazon (2013), Independent Bookstores Can Now Sell Kindles and Earn 10% from Future Kindle Books Sold, Amazon Press Release, retrieved from http://phx.corporate-ir.net/phoenix. zhtml?c=176060&p=irol-newsArticle&ID=1873094 Ashish, S. and Tellis, G.J. (2005), “Technological Evolution and Radical Innovation”, Journal of Marketing, 69, pp. 52–168. Bayani Brew (2014), Bayani Brew product image (new design), retrieved from http://bayanibrew.cvcena.com/wp-content/uploads/2013/11/Bayani-Brew-cropped-resized.jpg Breyfogle, F. (1999), Implementing Six Sigma, John Wiley and Sons, Inc., New York NY.
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+Download free eBooks at bookboon.com
+93
+
+Click on the ad to read more
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+References
+
+Cruz, G.A. and Kim, S.-K. (2013), “Enhanced Helipad Design for Safety Redundancy by Using Systematic Innovations”, International Journal of Innovation, Management and Technology 4:2, pp 238–241. Diehl, M. and Stroebe, W. (1991), “Productivity Loss in Idea-Generating Groups: Tracking Down the Blocking Effect”, Journal of Personality and Social Psychology 61:3, pp. 392–403. Domb, E. (2003), Using the 76 Standard Solutions: A case study for improving the world food supply, TRIZ Journal, April Ford, D., L.E. Gadde and et al. (2006). The Business Marketing Course. Chichester, John Wiley and Sons Ltd., New Work, NY. Foodmarks (2013), Bayani Brew product image (old design), retrieved from http://bayanibrew.cvcena.com/wp-content/uploads/2013/11/foodmarks-ultimate-taste-test09-15-12-100-750x500.jpg Foster, R. (1986) “The S curve: A New Forecasting Tool”, Chapter 4 in Innovation, The Attacker’s Advantage, Summit Books, Simon and Schuster, New York, pp. 88–111. Hippel, E.V. (1986), “Lead Users: A Source of Novel Product Concepts”, Management Science 32:7, pp. 792–805. Halliday, D. and et. al. (2010), Fundamentals of Physics 9th Edition, Wiley, New York, NY. Kaner, M. and Karni, R. (2008), “Application of the Theory of Inventive Problem Solving to Service System Design”, 2008 RESER Conference, 25–26 September, Stuttgart, Germany, 20 pages. Khomenko, N., 2010, General Theory of Powerful Thinking (OTSM): A methodology addressing to large and complex problems involving technologies, society, and humans together, paper presented at The 6th TRIZ Symposium in Japan, 9-11 September, Kanagawa, Japan. Kim, S.-K. (2011), “Innovative Design of Substance-Field Notations for Reformulating the Seventy-six Standard Solutions in TRIZ”, International Journal of Systematic Innovation 1:4, pp. 19–26. Kim, S.-K. (2011), Mobile Terminal and Message Transmitting/Receiving Method for Adaptive Converged IP Messaging, US Patent 8,050,269 B2, Issued.
+
+Download free eBooks at bookboon.com
+94
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+References
+
+Kim, S.-K., Chai, K.-H. and et. al. (2012), Innovative Service Design Workbook – Five Step Process and TRIZ Tools for Service Designers, Bookboon, Denmark. Kim, S.-K. (2013), “Systematic Innovation Based Design of Energy Efficient House Cooling System”, International Journal of Environmental Science and Development 4:6, pp. 624–627. Kim, S.-K. (2015), “Effective New Product Development by Using Inventive Problem Solving (TRIZ) in Systematic Innovation Method”, submitted. Kim, S.-K. and Parmar, V. (2015), “Supply Value of Dong-In Entech in Philippines”, Asian Journal of Management Cases 12:2, pp. 164–171. Morrison, M. (2010), What is the Deep-Dive™ Brainstorming technique?, retrieved from http://rapidbi.com/deep-dive-brainstorming-technique-ideo/ Mirakyan, A., Khomenko, N. and et. al. (2009), “The potential of OTSM and Classical TRIZ as a framework method for modern regional, integrated energy planning and modelling”, paper presented at The 5th TRIZ Symposium in Japan, 10–12 September, Saitama, Japan. Petkovic, D. and et. al., (2013), “Application of the TRIZ creativity enhancement approach to the design of a passively adaptive compliant robotic gripper”, Assembly Automation 33:3, pp. 231–239. Pollack, S. (2012), What, Exactly, Is Business Development?, retrieved from http://www. forbes.com/sites/scottpollack/2012/03/21/what-exactly-is-business-development/ Rantanen, K.and Domb, E. (2002), Simplified TRIZ 1st ed., CRC Press, Boca Raton, FL. Schilling, M.A. (2003). “Technological Leapfrogging: Lessons from the U.S. Video Game Console Industry.” California Management Review 45(3): 6–32. Shen, X.X and et. al. (2000), “An integrated approach to innovative product development using Kano’s model and QFD”, European Journal of Innovation Management 3:2, pp. 91–99. Soderlin, P. (2003), “Thoughts on Su-Field Models and 76 Standards: Do we need all the standards?”, TRIZ Journal, March. Terninko, J. and et. al. (1998), Systematic Innovation: An Introduction to Theory of Inventing Problem, CRC Press, Boca Raton, FL.
+
+Download free eBooks at bookboon.com
+95
+
+INNOVATIVE DESIGN GUIDEBOOK FOR GAME CHANGERS
+
+References
+
+Thackeray, R. and et. al. (1990), “Applying Quality Function Deployment for Software Product Development”, Journal of Engineering Design 1:4, pp. 389–410. Tidd, J. and et. al. (2005), Managing innovation: Integrating technological, market and organizational change. 4th Ed., John Wiley and Sons Ltd., New Work, NY. Womack, J. and Jones, D.T. (1996), Lean Thinking, Free Press, New York, NY.
+
+Download free eBooks at bookboon.com
+96
+
+Click on the ad to read more
+

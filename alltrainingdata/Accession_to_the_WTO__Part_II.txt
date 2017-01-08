@@ -1,0 +1,2516 @@
+Accession	to	the	WTO:	Part	II
+Computable	General	Equilibrium	Analysis:	The	Case	of Ukraine Igor	Eromenko
+
+Download	free	books	at
+
+Igor Eromenko
+
+Accession to the WTO: Part II
+Computable General Equilibrium Analysis: The Case of Ukraine
+
+2
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II 1st edition © 2010 Igor Eromenko & bookboon.com ISBN 978-87-7681-667-4
+
+3
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+Contents
+
+Contents
+	Preface	 1	 1.1	 1.2	 1.3	 2	 3	 CGE Model for Ukraine	 Economic Situation in Ukraine	 Algebraic Formulation of the Model	 Data, Key Assumptions and Scenarios	 Results of the Model	 Concluding Remarks	 7 8 8 13 35 40 60 68 82
+
+4	References	 5	Endnotes	
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+List of Tables
+
+List of Tables
+Table 1.1 Key Economic Indicators of Ukraine Source: State Statistical Committee of Ukraine Table 1.2 Ukraine’s Import Tariffs Prior and Post WTO Accession, % Source: WTO Table 2.1 Results of the Model, Key Macro Variables, % change from benchmark Table 2.2 Results of the Model, Scenario 1; % change from benchmark Table 2.3 Changes in Foreign Trade by Regions, Scenario 1; % change from benchmark Table 2.4 Sensitivity Analyses, Scenario 1 Table 2.5 Results of the Model, Scenario 2; % change from benchmark Table 2.6 Results of the Model, Impact by Sectors, Scenario 2; % change from benchmark Table 2.7 Changes in Foreign Trade by Regions, Scenario 2, % change from benchmark Table 2.8 Sensitivity Analysis, Scenario 2 Table 2.9 Results of the Model, Scenario 3; % change from benchmark Table 2.10 Results of the Model, Impact by Sectors, Scenario 3; % change from benchmark Table 2.11 Changes in Foreign Trade by Regions, Scenario 3, % change from benchmark Table 2.12 Sensitivity Analyses, Scenario 3 Table 2.13 Results of the Model, Scenario 4; % change from benchmark Table 2.14. Results of the Model, Impact by Sectors, Scenario 4; % change from benchmark Table 2.15 Changes in Foreign Trade by Regions, Scenario 4, % change from benchmark Table 2.16 Sensitivity Analyses, Scenario 4 8 38 40 43 45 45 46 48 49 50 51 53 53 54 56 57 58 59
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+List of Figures
+
+List of Figures
+Figure 1.1.  Distribution of Industrial Output in Ukraine by Sectors, 2008 Source: State Statistical Committee of Ukraine Figure 1.2  Commodity Composition of Ukraine’s Exports of Goods, 2008 Source: The Economist Intelligence Unit Figure 1.3  Commodity Composition of Ukraine’s Imports of Goods, 2008 Source: The Economist Intelligence Unit Figure 1.4  FDI in Ukraine by sectors, 2008 Source: National Bank of Ukraine Figure 1.5  FDI in Ukraine by country, 2008 Source: National Bank of Ukraine Figure 1.6 Production and Allocation Tree Figure 2.1 Benchmark State of Economy Figure 2.2 Scenario 1 Figure 2.3 Scenario 2 Figure 2.4 Scenario 3 Figure 2.5 Scenario 4 12 14 42 44 47 51 56 11 11 10 9
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+6
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+Preface
+
+Preface
+This is the second part of the book that examines process and possible economic consequences of accession to the WTO. This part considers economic impact of the WTO accession and takes specific country as a case study, namely Ukraine. Computable General Equilibrium model for Ukraine is built and several scenarios are modelled. The facts that Ukraine has sufficiently large economy and accession was finalised quite recently should make it interesting to a wide audience.
+
+7
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+1	 CGE Model for Ukraine
+This part will start with a description of Ukraine’s economy; it is followed by formal outline of the model; next, data will be described; this will be concluded by key assumptions of the model and an outline of policy simulation scenarios.
+
+1.1	
+
+Economic Situation in Ukraine1
+
+By the end of the 1980’s, the economy of Ukraine was the second largest after that of Russia among all USSR republics, producing three times the output of the next-ranking republic. Ukraine occupied only 3% of USSR territory and was inhabited by 18% of its population, but produced around 17% of total USSR industrial output and 25% of agricultural output (Ukraine has the most fertile land in Europe and is in possession of 30% of world’s black soils). Such factors, as well as a relatively well developed infrastructure, close to 100% literacy and skilled labour force could have led to a quick transition to a market economy, but instead Ukraine experienced a 10-year lingering drop into recession, showing first positive signs only in 2000. Key economic indicators of Ukraine for 2001–2008 are presented in Table 1.1 below.
+Key Economic Indicators Nominal GDP Nominal GDP GDP growth (real) Industrial production Agricultural production CPI PPI Exports (gs, USD) Imports (gs, USD) Current account Current account FDI (total) International reserves Fiscal balance Exchange rate UAH bn USD bn % yoy % yoy % yoy % yoy eop % yoy eop % yoy % yoy USD bn % GDP USD bn USD bn % GDP USD eop 2001 204.20 37.80 9.20 14.20 10.20 6.10 0.90 9.50 14.10 1.40 3.70 3.88 3.09 -1.90 5.30 2002 225.80 42.60 5.20 7.00 1.20 -0.60 5.70 10.70 4.90 3.10 7.60 5.47 4.42 0.80 5.33 2003 264.20 49.50 9.40 15.80 -11.00 8.20 11.20 24.00 28.70 2.90 5.90 6.79 6.94 -0.20 5.33 2004 345.90 65.10 12.10 12.50 19.10 12.30 24.10 42.60 31.30 6.90 10.60 9.04 9.52 -3.40 5.31 2005 441.45 86.10 2.60 3.10 0.00 10.30 9.60 7.50 20.40 2.50 2.90 16.89 19.39 -1.90 5.12 2006 544.15 107.80 7.30 6.20 2.50 11.60 14.10 13.20 21.90 -1.60 -1.50 21.61 22.36 -0.70 5.05 2007 720.73 142.70 7.90 10.20 -6.50 16.60 23.30 27.40 35.40 -5.30 -3.70 29.54 32.48 -1.10 5.05 2008 948.06 180.30 2.30 -3.10 17.10 22.30 23.00 33.80 38.50 -12.70 -7.00 35.72 31.54 -1.80 7.70
+
+Table 1.1 Key Economic Indicators of Ukraine Source: State Statistical Committee of Ukraine
+
+8
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+Value added is dominated by industry: it contributes almost one-third of all value added. The next important sectors are trade – around 15% of value added, and transport – more than 10%. Agriculture accounts approximately for 10% of value added, but employs 25% of the total labour force, which is a legacy of the Soviet Union total employment policy and should indicate inefficiency. Figure 1.1 presents composition of industrial production in Ukraine as of 2008.
+Extractive industry 9%
+
+Metallurgy 23%
+
+Other 9%
+
+Food industry 15% Production of coke and petroleum production 7% Chemicals 6%
+
+Production of electricity, gas and water 18%
+
+Machine building 13%
+
+Figure 1.1.Distribution of Industrial Output in Ukraine by Sectors, 2008 Source: State Statistical Committee of Ukraine
+
+As can be seen, metallurgy is the major contributor to the aggregate industrial production. Ukraine is one of the largest steel producers in the world; it is ranked as the 7th steel producer after China, Japan, USA, Russia, Germany and South Korea. During USSR times the lion share of steel was supplied to former Soviet Republics. After obtaining independence, Ukraine was left with a high-capacity metallurgical sector well exceeding the internal demand of the country. Such factors have led to the significant export orientation of the metallurgy: over 80% of production is supplied to foreign markets. Next important sector is generation of electricity. Ukraine’s power sector is the twelfth largest in the world in terms of installed capacity, with 54 gigawatts (GW). It means that Ukraine has more than enough generating capacity to produce twice its electricity needs. The food industry is one of the most vibrant sectors in Ukraine’s economy. Its share in total industrial production is around 15%. While domestic sources played an important role in increasing the output of food products, foreign direct investment (FDI) played a crucial role as well. The most important products are beverages – 20% of total food industry output, milk products – 17%, meat – 11%, tobacco products – 9%, vegetable oils – 6%, grain mill products – 5%.
+
+9
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+In machine building leading sub-sectors include production of equipment for the food industry, agriculture and construction (especially tractors, excavators), auto plants (cars, buses and trucks), electronic equipment, air plants, and space equipment. Ukraine’s machinery managed to maintain highly competitive production in some sectors: for instance most of the equipment for the Sea Launch project is produced in Ukraine. Ukraine is quite an open economy and role of the foreign trade sector is extremely important. The regional distribution of Ukraine’s foreign trade in goods is roughly the same for exports and for imports. Russia remains a strategic partner for Ukraine and accounts for more than 20% of both, exports and imports. European Union continuously reinforces its importance in Ukraine’s foreign trade. Exports to the EU accounted for 17% of total Ukraine’s exports in 2008, while imports from the EU constituted 26%. Asian countries are important market for Ukrainian metallurgy. This region amounted to roughly 15% of both, exports and imports. Trade with ex-USSR countries, other than Russia made around 10% of exports and imports. Goods structure of Ukraine’s exports is skewed to primary goods (see Figure 1.2). A major item of exports are steel products, which accounted for more than 40% of total exports of goods in 2008. The next largest group is machinery and equipment (16%), food (16%), fuel and energy products (10%) and chemicals (almost 8%).
+Other 8% Food 16% Chemicals 8%
+
+Fuel and energy 11%
+
+Machinery 16% Metals 41%
+Figure 1.2 Commodity Composition of Ukraine’s Exports of Goods, 2008 Source: The Economist Intelligence Unit
+
+In imports, energy resources accounted for around one third of total imports (see Figure 1.3.). It is worth noting that although dependence on imported energy is still high, it has gradually been reducing; for example in 1996 energy imports accounted for half of all imports of goods. Machinery and equipment made another third of total imports. Food industry as well as chemicals are also important items of imports.
+
+10
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+Other 23%
+
+Food 8%
+
+Chemicals 8%
+
+Fuel and energy 30%
+Figure 1.3 Commodity Composition of Ukraine’s Imports of Goods, 2008 Source: The Economist Intelligence Unit
+
+Machinery 31%
+
+Volume of trade in services is significantly lower than that of trade in goods: turnover of services is roughly 5 times less than turnover of goods. Ukraine is conveniently situated in the centre of Europe, which creates opportunities for the transport sector: three quarters of total exports of services is transportation. More than one third of total exports of services is a pipeline transit of energy products between Russia and Turkmenistan and Western Europe. Rail and sea transport account for around 10% each. Imports of services are quite diverse; tourism is the biggest sector, accounting for 15% of total imports of services. Concerning sectors, which received the most FDI inflow, the major was banking sector, around 20% of total FDI in 2008. This figure should be taken with caution, since it is connected to the sale of several large banks to foreign investors. For instance, in 2005, metallurgy received one third of total FDI. It was due to privatisation of the Krivorozhstal steel plant and resulting USD 4.8 bn FDI inflow. On the contrary, trade and production of food are stable recipients of the FDI over many years.
+Food industry Metallurgy Machinery 5% 4% Construction 3% 6% Other 48% Trade 10%
+
+Transport 4% Financial activities 20%
+Figure 1.4 FDI in Ukraine by sectors, 2008 Source: National Bank of Ukraine
+
+11
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+In 2008, the countries which invested the most to Ukraine were Cyprus (21% of total FDI), Germany (18%), and the Netherlands (9%). It is worth mentioning that such regions as Cyprus and Virgin Islands are off-shore zones, and this capital should probably not be counted as “foreign” but rather as a repatriated domestic one.
+France 3% Sweden 4% Other 19% Cyprus 21%
+
+Virgin Islands 4% USA 4%
+
+Germany 18% UK 6% Austria 7% Netherlands 9%
+
+Russia 5%
+
+Figure 1.5 FDI in Ukraine by country, 2008 Source: National Bank of Ukraine
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+12
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+1.2	
+
+Algebraic Formulation of the Model
+
+This section outlines the basic structure of the CGE model in algebraic formulation. Full list of variables is given in appendix in Table A.4. Production Producers maximise their profits subject to the technology available and taking prices as given, acting in perfectly competitive conditions. Equation (4.1) shows this profit-maximisation task as maximising the difference between revenues from activities (net of taxes) and costs of intermediate inputs and primary factors. Profit-maximisation:
+
+QDi  ¦ IOij  K i  Li  TRIDi
+i
+
+(4.1)
+
+where
+
+QDi 		
+
+gross domestic output intermediate commodity demand capital demand labour demand taxes on commodities
+
+IOi 		 K i 		 Li 		 TRIDi 	
+
+The production technology tree has several levels, presented in Figure 1.6. At the top producers choose the optimal bundle between value added and aggregate intermediate inputs, which is modelled by the Leontief function. In this case the level of value added and intermediate inputs are defined by equations (4.2) and (4.3) correspondingly.
+
+13
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+F in a l d e m a n d Ci, Gi , Ii C o m p o s it e c o m m o d it ie s
+
+Q
+
+i
+
+CES
+
+E x p o rts
+
+E
+
+D o m e s tic s a le s
+
+ir
+
+QDD
+
+Im p o rts
+
+i
+
+M
+
+ir
+
+CET
+
+G r o s s d o m e s tic p r o d u c t
+
+QD
+
+i
+
+L e o n tie f
+
+V a lu e - a d d e d
+
+In te rm e d ia te
+
+CES
+
+L e o n tie f
+
+P rim a ry fa c to rs K i , Li
+
+C o m p o s ite c o m m o d itie s
+
+Qi
+
+CES
+
+Im p o rte d
+
+D o m e s tic
+
+M
+
+ir
+
+QDD
+
+i
+
+Figure 1.6 Production and Allocation Tree
+
+Leontief technology: demand for aggregate value-added
+
+VAi
+where
+
+bi  QDi
+
+(4.2)
+
+VAi 		 bi 		
+
+value added demand share coefficient of value added in output
+
+Leontief technology: demand for aggregate intermediate input
+
+IOi
+where
+
+(1  bi )  QDi
+
+(4.3)
+
+(1 − bi ) 	
+
+share coefficient of intermediates in output
+14
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+At the next level of the production tree, further disaggregation of demand inside value added and intermediate inputs branches are defined. For each activity the quantity of value-added is a CES function of disaggregated factors, as shown in equation (4.4). CES technology, demand for aggregated value added, exponent
+
+QDi
+where
+
+U D iF (J iF  K i U  (1  J iF )  L ) 1 / U i
+
+F i
+
+F i
+
+F i
+
+(4.4)
+
+α iF 	 CES efficiency parameter in the production function of firms γ iF 	 CES share parameter in the production function of firms ρ iF 	 CES function exponent
+The optimal mix of value added factors is determined by their relative prices, also known as tangency condition (equation (4.5)).
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+15
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+Tangency condition, exponent
+
+J iF 1  J iF
+where
+
+§ Ki ¨ ¨L © i
+
+· ¸ ¸ ¹
+
+ (1 U iF )
+
+PK PL
+
+(4.5)
+
+PK 		 PL 		
+
+return to capital return to labour
+
+The CES function exponent ρ iF is the transformed elasticity of substitution between different factors:
+
+σ iF =
+
+larger the necessary shift between demand for different factors in response to their price change. Using the expression for elasticity of substitution of the CES production function, equations (4.4) and (4.5) may be rewritten as follows: CES technology, demand for aggregated value added, elasticity of substitution
+
+1 . The higher the elasticity of substitution, the smaller the value of the exponent and the 1 + ρ iF
+
+QDi
+where
+
+D iF (J iF  K i (1V
+
+F i
+
+) / V iF
+
+(1V i  (1  J iF )  L i
+
+F
+
+) / V iF
+
+) V i
+
+F
+
+/(1V iF )
+
+(4.6)
+
+σ iF 	 CES capital-labour substitution elasticities
+Tangency condition, elasticity of substitution
+
+J iF 1  J iF
+
+§ Ki ¨ ¨L © i
+
+· ¸ ¸ ¹
+
+1 / V iF
+
+PK PL
+
+(4.7)
+
+Finally, demand equations for capital and labour take the following form: Capital demand
+
+Ki
+
+J
+
+F Vi i
+
+F
+
+ PK
+
+V iF
+
+1V F 1V F · F Vi F Vi § ¨ J i  PK i  (1  J i )  PL i ¸ © ¹
+F F
+
+V iF /(1V iF )
+
+ (QDi / D iF ) (4.8)
+
+Labour demand
+
+Li
+
+(1  J
+
+F Vi i
+
+F
+
+)  PL
+
+V iF
+
+1V F 1V F · F Vi F Vi § ¨ J i  PK i  (1  J i )  PL i ¸ © ¹
+F F
+
+V iF /(1V iF )
+
+ (QDi / D iF ) (4.9)
+
+Demand for disaggregated intermediate inputs is defined by the Leontief function as a product of intermediate input use and the fixed intermediate input coefficient (equation (4.10)).
+
+16
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+Leontief technology: demand for intermediate input
+
+QDij
+where
+
+ioij  QD j
+
+(4.10)
+
+ioij 	 technical coefficients
+
+Calibration First, using equation (4.2), it is possible to calibrate bi , the fixed coefficient of value added in output: Fixed coefficient of value added
+
+bi
+
+VAi QDi
+
+(4.11)
+
+In a similar manner, input-output coefficients are defined using equation (5.10) Input-output coefficients
+
+ioij
+
+QDij QD j
+
+(4.12)
+
+F Elasticity of substitution σ iF is assumed to be known and will be used for calibration of γ i and α iF .
+
+It is necessary to determine values of σ iF , γ iF and α iF in order to proceed with the CES function.
+
+From the tangency condition, equation (4.7), it is possible to derive the CES share parameter in the production function of firms: CES share parameter
+
+J iF
+
+1 PL 1 PK § Ki ¨ ¨L © i · ¸ ¸ ¹
+1 / V iF
+
+(4.13)
+
+Having values of σ iF and γ iF , α iF is calibrated using equation (4.6) CES efficiency parameter
+
+D iF
+
+QDi /(J iF  K i (1V i
+
+F
+
+) / V iF
+
+(1V i  (1  J iF )  L i
+
+F
+
+) / V iF
+
+) V i
+
+F
+
+/(1V iF )
+
+(4.14)
+
+17
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+External Sector Exports Firms allocate their output to domestic and foreign markets and try to maximise revenues, this is represented by equation (4.15). Maximisation of revenues
+
+PDi  QDi  ¦ PEir  Eir 
+r
+
+(4.15)
+
+where
+
+PDi 		 Eir 		
+
+domestic producer price of commodities in sector i exports
+
+PEir 		export price of commodities in sector i delivered to region r in national currency
+The optimal distribution between domestic and foreign markets is defined through the Constant Elasticity of Transformation (CET) function, presented in equation (4.16).
+
+18
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+Output transformation (CET) function
+
+QDi
+where
+
+D iT  J iT  EiU  (1  J iT )  QDDiU
+
+
+
+T i
+
+T i
+
+
+
+1
+
+U iT
+
+
+
+(4.16)
+
+QDDir 	
+
+domestic output delivered to home market CET share parameter regarding destination of domestic output shift parameter in the CET function of firm a CET function exponent
+
+γ iT 		 α iT 		 ρ iT 		
+
+function repeats the CES function, except for the signs at function exponent ρ iT . Elasticity of transformation in the CET function
+
+Here ρ iT is transformed elasticity of transformation. The latter is defined as in equation (4.17). The CET
+
+σ iT =
+where
+
+1 (4.17) 1 + ρ iT
+
+σ iT 	 elasticities of transformation in CET function
+The optimal mix between domestic sales and exports is defined by the ratio of corresponding prices at equation (4.18). The export price is defined in equation (4.19). Export-domestic supply ratio
+
+Ei QDDi
+where
+
+§ PEi 1  J rT ¨  T ¨ © PDDi J i
+
+· ¸ ¸ ¹
+
+1
+
+U iT 1
+
+(4.18)
+
+PDDi 	
+Export price
+
+price of domestic output delivered to home market
+
+PEir
+where
+
+PWEir  ER (4.19)
+
+PWEir 	
+ER		
+
+world export price exchange rate
+
+19
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+Equation (4.20), also known as the zero profit CET function equation, specifies the quantity of domestic output as sold on the domestic market and abroad and allows the solving of the producer maximisation problem, given export and domestic prices and subject to the CET function and fixed quantity of domestic output. Zero profit CET
+
+PDi  QDi
+
+¦ PE
+r
+
+ir
+
+ Eir  PDDi  QDDi (4.20)
+
+Thus, domestic sales and exports are defined by equations (4.21) and (4.22) respectively. Domestic sales
+QDDi
+
+(1  J )
+
+T V iT i
+
+ PDD
+
+V iT i
+
+T 1V i º Vi 1V T  ªJ iT  PEi i  (1  J iT )V i  PDDi « » ¬ ¼ T T
+
+V iT
+
+(1V iT )
+
+ (QDi / D iT ) 	(4.21)
+
+Exports
+
+Ei
+
+J
+
+T Vi i
+
+T
+
+ PE
+
+V iT i
+
+ ªJ « ¬
+
+T Vi i
+
+T
+
+ PEi
+
+1V iT
+
+ (1  J )
+
+T V iT i
+
+ PDDi
+
+1V iT
+
+º » ¼
+
+V iT
+
+(1V iT )
+
+ (QDi / D iT ) 	(4.22)
+
+The destination of exports is differentiated by regions and represented by the CES function: Exports by region
+
+Ei
+Imports
+
+§ U iT · ¸ ¨ ¦ Eir © r ¹
+
+1
+
+U iT
+
+(4.23)
+
+According to Armington’s assumption, imports and domestic output are not perfect substitutes and both enter the production of certain commodities as inputs. Producers try to minimise costs by combining domestic and imported inputs Minimisation of costs
+
+PDDi  QDDi  ¦ PM ir  M ir 
+r
+
+(4.24)
+
+where
+
+30 LU 	 imports of commodities to sector i from region r import price of commodities in sector i delivered from region r in national currency 30 LU 	
+
+20
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+Equation (4.25) presents the Armington function of producing a commodity using domestic and imported inputs, while equation (4.26) shows the ratio of domestic and imported goods. The price of imports is defined in equation (4.27). Composite supply (Armington) function
+
+Qi = α iA ⋅ γ iA ⋅ M i
+where
+
+(
+
+− ρ iA
+
++ (1 − γ iA ) ⋅ QDDi
+
+− ρ iA
+
+)
+
+− 1
+
+ρ iA
+
+(4.25)
+
+γ iA 	 Armington share parameter in the production function of commodities α iA 	 Armington efficiency parameter in the production function of commodities ρ iA 	 Armington function exponent
+Qi 	
+domestic sales composite commodity
+
+Import-domestic demand ratio
+
+Mi QDDi
+
+§ PDDi J iA · ¸ ¨  A ¸ ¨ © PM i 1  J i ¹
+
+1 1 U iA
+
+(4.26)
+
+21
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+Import price
+
+PM ir
+where
+
+PWM ir  (1  tmir )  ER 
+
+(4.27)
+
+PWM ir 	 tmir 		
+
+world import price tariff rate on imports
+
+Here ρ iA is an Armington function exponent, while elasticity of substitution is given by following equation: Elasticity of substitution in the Armington function
+
+σ iA =
+where
+
+1  1 + ρ iA
+
+(4.28)
+
+σ iA 	 Armington substitution elasticities
+Total absorption, or zero profit Armington function equation (4.29), is given as the sum of domestic sales of goods and imported commodities and. Zero profit Armington
+
+Pi  Qi
+
+¦ PM
+r
+
+ir
+
+ M ir  PDDi  QDDi 
+
+(4.29)
+
+These equations allow the solving of the cost minimisation problem of producers given domestic and imports prices and subject to the Armington function and fixed quantity of the composite commodity. Domestic sales and imports are defined as follows: Domestic sales
+QDDi (1  J )
+A V iA i
+
+ PDD
+
+V iA i
+
+A 1V i º Vi 1V A  ªJ iA  PM i i  (1  J iA ) V i  PDDi » « ¼ ¬ A A
+
+V iA
+
+(1V iA )
+
+ (Qi / D iA ) 	(4.30)
+
+Imports
+
+Mi
+
+Ji
+
+A AV i
+
+ PM i
+
+V iA
+
+ ªJ i « ¬
+
+A AV i
+
+ PM i
+
+1V iA
+
+ (1  J iA )
+
+V iA
+
+ PDDi
+
+1V iA
+
+º » ¼
+
+V iA
+
+(1V iA )
+
+ (Qi / D iA ) 	
+
+(4.31)
+
+22
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+Sources of import are also differentiated by regions shown by the following CES function: Imports by region
+T   M i =  ∑ M irρi   r 
+
+1
+
+ρiT
+
+(4.32)
+
+Finally, trade balance is represented by equation (4.33). Trade Balance
+
+¦M
+ir
+
+ir
+
+ PWM ir
+
+¦E
+ir
+
+ir
+
+ PWEir  SF  ER TRFH  ER  TRFG  ER  FR  ER 	
+
+(4.33)
+
+where SF		 TRFH 	 TRFG 	 FR		 Calibration Calibration for CET and Armington functions is done in a manner similar to that for the CES function. First, if estimates for elasticity of transformation σ iT in CET function are given, it is possible to determine foreign savings foreign transfers to household in foreign currency foreign transfers to government in foreign currency foreign remittances in foreign currency
+
+γ iT , the CET share parameter regarding destination of domestic output and α iT , the shift parameter in
+
+the CET function of firm. Using equation (4.17), it is necessary to substitute elasticity of transformation, σ iT for ρ iT and solve equation (4.18) to find the CET share parameter: CET share parameter
+T J ir
+
+1 PDDi 1 PEir § Eir ¨ ¨ QDD i © · ¸ ¸ ¹
+T 1 / V ir
+
+
+
+(4.34)
+
+Then the known parameter should be plugged into equation (4.22) to find the shift parameter. CET shift parameter
+T D ir
+ (1V ir ) / V ir A T QDi /(J ir  Eir  (1  J ir )  QDDi (1V ir ) / V ir ) V ir /(1V ir ) 
+T T T T T T
+
+(4.35)
+
+23
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+Calibration for the Armington function is quite the same. Substituting elasticity of substitution for the exponent in equation (4.26) allows the finding of the Armington share parameter. Armington share parameter
+A J ir
+
+1 PDDi 1 PM ir § M ir ¨ ¨ QDD i © · ¸ ¸ ¹
+A 1 / V ir
+
+(4.36)
+
+Using equation (4.31), the Armington Function shift parameter is found Armington shift parameter
+
+α irA = Qi /( γ irA ⋅ M ir− (1−σ
+Households
+
+A A ir ) / σ i r
+
++ (1 − γ irA ) ⋅ QDDi− (1−σ ir ) / σ ir ) −σ ir /( 1−σ ir )
+
+A
+
+A
+
+A
+
+A
+
+(4.37)
+
+Each household maximises a “Stone-Geary” utility function, namely maximising consumption of commodities above their minimal subsistence consumption: Households’ Stone-Geary utility function
+
+U H = Π (Ci − µ iH )α i
+i
+
+HLES
+
+(4.38)
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+24
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+where	
+
+U H 		 Ci 		
+
+utility level of households consumer demand for commodities function
+
+α µ
+
+HLES 		 power in nested LES household utility i H subsistence household consumption level i 		
+
+The maximisation task is subject to expenditure constraints. Equation (4.39) shows that consumption spending for households is the income net of savings and taxes. Subject to: Household consumption expenditures
+
+CE Y  TRY  SH (4.39)
+where CE		 Y		 TRY		 SH 		 consumer expenditures household income income tax revenues household savings
+
+Spending on individual commodities is a Linear Expenditure System (LES) since it is a linear function of total household consumption expenditure. Household LES (linear expenditure system) function
+
+Pi  C i
+where
+
+§ · Pi  P iHLES  D iHLES  ¨ CE  ¦ Pi  P iHLES ¸ (4.40) i © ¹
+
+Pi 	 price of composite commodities in sector i
+Next, a more detailed description of income, taxes, savings and unemployment is given. Households’ income is equal to revenues from capital, labour, transfers from government and from abroad as well as foreign remittances. Income
+
+Y
+
+PK  KS  PL  ( LS  UNEMP)  TRGH  TRFH  ER  FR  ER 
+
+(4.41)
+
+25
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+where KS		 LS		 UNEMP 	 TRGH 	 capital supply labour supply involuntary unemployment transfers from government to households
+
+Savings are determined by marginal propensity to save as a fraction of disposable income. Savings
+
+SH
+where
+
+mps  (Y  ty  Y )
+
+(4.42)
+
+mps		 ty		
+
+household’s marginal propensity to save tax rate on income
+
+Consumer Price Index is defined as follows: CPI
+
+CPI t
+where
+
+¦ PD
+i
+
+t i
+
+ Ci0 C
+0 i
+
+¦ PD
+i
+
+(4.43)
+
+0 i
+
+CPI 		
+
+consumer price index “benchmark” domestic producer price of commodities domestic producer price of commodities after change “benchmark” consumer demand for commodities
+
+PD
+0 i
+
+C 		
+
+PD 		
+
+0 		 i
+t i
+
+In order to make unemployment endogenous, a Phillips curve is employed which shows the relationship between the rate of change in real wage rate and the rate of change in unemployment rate. The real wage rate is defined as follows:
+
+PL0 / CPI 0 		 PLt / CPI t 		
+
+real wage in the benchmark real wage after the shock
+
+26
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+While unemployment rate is:
+
+UNEMP t / LS t 	 UNEMP 0 / LS 0 	
+
+unemployment rate in the benchmark unemployment rate after the shock
+
+Then, the Phillips curve equation takes following form: Unemployment
+
+§ PLt / CPI t · ¨ ¨ PL0 / CPI 0  1¸ ¸ © ¹
+where
+
+§ UNEMP t / LS t · phillips  ¨ ¨ UNEMP 0 / LS 0  1¸ ¸ © ¹
+
+(4.44)
+
+phillips 	
+Calibration
+
+Phillips parameter
+
+it by price Pi :
+
+estimates for income elasticity are known, it is possible to derive α iHLES from equation (4.40). Dividing
+
+First, α iHLES ,	
+
+power in the nested LES household utility function should be calibrated. Assuming that
+
+.
+
+27
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+Consumption
+
+Ci
+
+P iHLES  D iHLES  Pi 1  ¨ CE  ¦ Pi  P iHLES ¸
+©
+i
+
+§
+
+· ¹
+
+(4.45)
+
+Next, income elasticity is equal to: Income elasticity
+
+∂Ci Y α iHLES ⋅ Pi −1 ⋅ Y ⋅ = ε = ∂Y Ci Ci
+Y i
+
+(4.46)
+
+where
+
+ε iY 	 income elasticity of demand for commodity
+From this equation α iHLES can be defined: Power in LES household utility function
+
+D iHLES
+
+H iY  Pi  Ci / CE
+
+(4.47)
+
+In order to calibrate the subsistence household consumption level it is necessary to refer to a concept of marginal utility of expenditure. One of the first-order conditions in maximizing the Stone-Geary utility function takes the following form: First-order condition
+
+α iHLES ⋅ (Ci − µ iH ) −1 ⋅U H = λHLES ⋅ Pi
+where
+
+(4.48)
+
+λHLES 		
+
+Lagrange multiplier
+
+The Lagrange multiplier in this equation can be transformed into marginal utility of expenditure by substituting equation (4.45) into equation (4.48) and solving for λHLES : Marginal utility of expenditure
+
+O HLES
+where
+
+U H (Y  ¦ PDi  P iHLES ) 1
+i
+
+(4.49)
+
+λHLES 		
+
+marginal utility of household expenditures
+
+28
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+From equation (4.49) the Frisch parameter is derived, which is expenditure elasticity of the marginal utility of expenditure. Frisch parameter
+
+φ=
+where
+
+∂λHLES Y Y ⋅ HLES = − ∂Y λ (Y − ∑ µ iHLES ⋅ Pi )
+i
+
+(4.50)
+
+φ	
+
+Frisch parameter in nested HLES utility function
+
+If the value of the Frisch parameter is known, it is possible to calibrate the subsistence household consumption level. Subsistence household consumption level
+
+P iHLES
+Investment
+
+Ci  D iHLES  CE /( Pi  I )
+
+(4.51)
+
+Investment is modelled through the representative financial institution agent, which maximises a CobbDouglas utility function: Cobb-Douglas utility function of representative banks
+
+U I = ∏ I iα i
+i
+
+I
+
+(4.52)
+
+where
+
+U I 		 I i 		
+
+utility level of financial institutions investment demand for commodities Cobb-Douglas power in investment institution utility function
+
+α 		
+I i
+
+It is constrained by total savings equal to the sum of household, government and foreign savings. Subject to S = SH + SG + SF . ER(4.53) where S 		 SG 		 total savings government savings
+
+29
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+Maximising the utility function, the demand equation for investment commodities is obtained. This equation says that investment demand is a fixed fraction of total savings. Demand equation for investment commodities
+
+Pi ⋅ I i = α iI ⋅ S
+Calibration
+
+(4.54)
+
+To calibrate the Cobb-Douglas power in an investment institution utility function, equation (4.54) should be inverted. Cobb-Douglas power in investment institution utility function
+
+α iI = Pi ⋅ I i / S
+Government
+
+(4.55)
+
+Government consumption demand is similar to investment demand: it is defined through the CobbDouglas utility function.
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+30
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+Government Cobb-Douglas utility function
+
+U G = ∏ Giα i
+i
+
+G
+
+(4.56)
+
+where
+
+U G 		 Gi 		
+
+utility level of government public demand for commodities Cobb-Douglas power in government utility function
+
+α 		
+G i
+
+Subject to GOVR–TRGH–SG where GOVR 	 government revenues (4.57)
+
+By maximising the utility function, government demand for commodities is derived, given in equation (4.58). Government demand for commodities
+
+Pi  Gi
+
+D iG  (GOVR  TRGH  SG )
+
+(4.58)
+
+Government revenue is a sum of households’ income tax, indirect tax on commodities, import tariff revenues, capital revenues of the government as well as transfers from abroad. Government revenues
+
+GOVR ty  Y  ¦ tid i  PDi  QDi  ¦ tmir  M ir  PWM ir  ER  KRG  TRFG  ER(4.59)
+i ir
+
+where
+
+tid i 		
+KRG 		
+
+indirect tax rate government capital revenues
+
+Government balance has government revenues on one side and government expenditure on commodities, transfers to households and government savings on the other. Government savings may be negative.
+
+31
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+Government balance
+
+GOVR
+Calibration
+
+¦ P G
+i i
+
+i
+
+ TRGH  SG
+
+(4.60)
+
+To calibrate Cobb-Douglas power in the government utility function, equation (4.58) should be solved for α iG.
+
+D iG
+
+Pi  Gi /(GOVR  TRGH  SG )
+
+(4.61)
+
+Market Clearance Next, the market clearance equations are summarised. First two equations impose equality between the total quantity demanded and supplied for capital and labour net of unemployment. Factor market balance Labour
+
+¦L
+i
+
+i
+
+LS  UNEMP
+
+(4.62)
+
+Capital
+
+¦K
+i
+
+i
+
+KS
+
+(4.63)
+
+Equation (4.64) imposes equality between commodity supplied and demanded. Quantity supplied (left-hand side) is equal to intermediate demand, household, government and investment consumption (right-hand side). Composite commodity market balance
+
+Qi
+
+Ci  I i  Gi  ¦ ioij  QDi (4.64)
+i
+
+The current account balance (equation (4.65)) imposes a balance on inflow and spending of foreign currency. Import spending is equal to export revenue, foreign savings, transfers from the rest of the world to households and government and foreign remittances. Current account balance for ROW
+
+¦M
+ir
+
+ir
+
+ PWM ir
+
+¦E
+ir
+
+ir
+
+ PWEir  SF  ER TRFH  ER  TRFG  ER  FR  ER (4.65)
+
+Government balance has government revenues on the left-hand side and government commodities expenditures, transfers to households and savings on the right.
+
+32
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+Government balance
+
+GOVR
+
+¦ P G
+i i
+
+i
+
+ TRGH  SG (4.66)
+
+The next equation balances savings and investment in the economy. Savings are equal to non-government savings, government savings and foreign savings. Investment is a sum of fixed investment over different production sectors. Saving-investment balance
+
+¦P I
+i i
+
+i
+
+SH  SG  SF  ER 
+
+(4.67)
+
+Welfare Welfare change caused by economic shock is calculated through two monetary measures: Equivalent Variation (EV) and Compensating Variation (CV). Equivalent variation measures the income change in current prices (i.e. before the economic shock takes place) that would be equivalent to the income after the economic shock. The compensating variation measures the income change in prices after the economic shock that would be necessary to compensate to the consumer for the price change.
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+33
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+There is a distinction between cases of “benchmark equilibrium” and equilibrium after change. In the first case the consumer faces income Y 0 and prices
+
+Y t and PDit respectively.
+
+PDi0 . In the second case, income and prices are
+
+Then, price indices for these two cases and change in price level will take following form: “Benchmark equilibrium” price index
+
+PLES 0
+
+ PDi0
+i
+
+D iHLES
+
+(4.68)
+
+Price index after change
+
+PLES t
+
+ PDit
+i
+
+D iHLES
+
+(4.69)
+
+Change in price level
+
+∆PLES =
+
+PLES t PLES 0
+
+(4.70)
+
+In the equations above PLES 0 and PLES t are the geometric average of the prices of the commodities. Next, the supernumerary income should be defined, i.e. income net of subsistence households’
+t
+
+consumption level for the “benchmark equilibrium case ( SI 0 ) and the case after changes take place ( SI ). “Benchmark equilibrium” supernumerary income
+
+SI 0
+
+Y 0  ¦ PDi0  P iH
+i
+
+(4.71)
+
+Supernumerary income after change
+
+SI t
+
+Y t  ¦ PDit  P iH
+i
+
+(4.72)
+
+Finally, it is possible to determine the measures of change in welfare The equivalent variation is the difference between the supernumerary income after the change has been deflated by the change in price level and the supernumerary income of the “benchmark equilibrium”. Equivalent variation
+
+EV
+
+SI t  SI 0 'PLES
+
+(4.73)
+
+The compensating variation is the difference between the supernumerary income after the change and the supernumerary income of the “benchmark equilibrium” multiplied by the change in the price level.
+
+34
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+Compensating variation
+
+CV
+
+SI t  SI 0  'PLES
+
+(4.74)
+
+1.3	
+Data
+
+Data, Key Assumptions and Scenarios
+
+The basis for the model is the Social Accounting Matrix (SAM) for Ukraine. SAM is a composite of the Input-Output table and National Accounts for 2002. The Input-Output table gives disaggregation into 38 sectors of the economy (the full list is in the attached table A.5.). Foreign trade is disaggregated into 5 trade regions; mechanism of division is described below. Table A.6. shows the Social Accounting Matrix for Ukraine which is used in the model, but aggregated to 3 sectors and one foreign trade region. In order to explain meaning of entries, a description of those entries is given by the row (income) basis2: Production Commodities-Commodities: Intermediate demand Commodities-Households: Households consumption Commodities-Government: Government consumption Commodities-Investment: Investment demand Commodities-ROW: Exports. Total exports are disaggregated into exports to five trade regions: Russia, rest of CIS, EU25, Asia and Rest of the World. This is done by calculating the export shares of corresponding regions and multiplying total exports by these shares. Factors of production Capital-Commodities: Valued added of capital Labour-Commodities: Value added of labour Labour-ROW: Foreign remittances of Ukrainian workers, employed abroad Institutions Households-Capital: Income received by households from owning capital Households-Labour: Income of households from wages Households-Government: Transfers to households from government Households-ROW: Transfers to households from abroad
+
+35
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+Government-Commodities: Taxes on production and imports. These taxes are calculated in three steps: first, taxes on production and imports are summed with subsidies, given to corresponding industries (subsidies have a negative sign). Second, import taxes are calculated by multiplication of applied import tax rates by value of imports, sector by sector. Import tax rates are taken from the “Law on Custom Tariffs of Ukraine”. Third, taxes on production are determined by subtracting import taxes from total taxes on production and imports. Government-Capital: Income from state enterprises Government-Households: Income tax received from households. Income tax rate is found by dividing the amount of income tax receipts by the income of households Government-ROW: Transfers to government from abroad Savings-Households: Savings of households Savings-Government: Savings of government Savings-ROW: Current Account balance
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+36
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+ROW ROW-Commodities: Imports. As well as exports, imports are disaggregated into imports to five trade regions: Russia, rest of CIS, EU25, Asia and Rest of the World. This is done by calculating the import shares of corresponding regions and multiplying total imports by these shares. Assumptions Key assumptions of the model are as follows: •	 The model is static and uses data for one year only (2002) •	 There are Constant Returns to Scale in production structure •	 It is assumed that WTO accession should not have an explicit impact on the Current Account: for instance, a larger amount of imports/exports should be compensated by a corresponding increase in exports/imports. Thus, the Current Account is fixed, and the exchange rate fluctuates instead to balance foreign trade. •	 Since in CGE models all prices are relative, the initial wage rate is used as numeraire and other prices change relative to this variable. Scenarios There are four scenarios simulated in the model; scenarios 2, 3 and 4 have 3 sub-scenarios each with different export expansion and investment growth rates. •	 Scenario 1.	 Tariff reform according to schedule, agreed with the WTO
+
+This is done by lowering import tariffs to the level negotiated with the WTO members. The Ukrainian proposal for import tariffs is outlined in Decree #255/96 of the President of Ukraine “About the Conception of Transformation of the Custom Tariff of Ukraine for 1996–2005 According to the GATT/ WTO”. Ukraine has a Free Trade Agreement with CIS countries, which will remain after WTO accession as well, thus there are no changes in the trade regime with these countries. Ukraine applies MFN and full tariffs for other trade partners. Since full tariffs affect only 3% of imports, EU25, Asia and ROW are all assumed to have an MFN regime. Post-WTO import tariffs for EU25, Asian and ROW countries are shown in the last column of Table 1.2.
+
+37
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+  Agriculture Forestry Fishery Coal Hydrocarbons Non-energy materials Food-processing Textile Wood working Coke products Petroleum refinement Chemicals Other non-metallic mineral products Metallurgy Machinery Other
+
+Russia 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+CIS 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+EU25 26.7 8.1 21.2 0 0 1.1 50.5 8.2 8.1 0 0 7.9 11.1 3.8 7.3 9.8
+
+Asia 26.7 8.1 21.2 0 0 1.1 50.5 8.2 8.1 0 0 7.9 11.1 3.8 7.3 9.8
+
+ROW 26.7 8.1 21.2 0 0 1.1 50.5 8.2 8.1 0 0 7.9 11.1 3.8 7.3 9.8
+
+Post-WTO 19.4 4.9 10.0 0 0 1.1 18.9 4.0 4.9 0 0 5.8 10.0 1.5 3.5 8.5
+
+Table 1.2 Ukraine’s Import Tariffs Prior and Post WTO Accession, % Source: WTO
+
+•	 Scenario 2. Improvement of export access Being a WTO member, Ukraine will have instruments to curb antidumping and countervailing investigations, thus it will be able to increase its volume of exports. Figures for market access expansion are chosen in accordance with the frequency of AD and CV investigations in corresponding industry and region, reported by the Ministry of Economy of Ukraine. Thus, between 1997 and 2001 there were 5 AD cases from the Russian side concerning the food-processing industry and 2 cases relating to the machine building sector; 7 cases were filed by the EU in relation to chemical products; 5 and 7 investigations regarding metallurgy started by EU and Asia region respectively. Besides that, Ukraine faced quotas on exports of light industry products to the EU.
+
+38
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+CGE Model for Ukraine
+
+Core, least favourable and optimistic sub-scenarios respectively propose the following export expansion rates: By 5% (3% and 7%) for food processing to Russia By 5% (3% and 7%) for light industry to EU25 region By 5% (3% and 7%) for chemicals to EU25 By 5% (3% and 7%) for metallurgy to EU25 and Asia By 5% (3% and 7%) for machinery to Russia •	 Scenario 3. Improvement of investment climate This will come from two main sources: first of all, investors will face fewer risks and costs of investment, since Ukraine will accept more pro-market regulation. Second, the cost of capital will diminish along with lower prices for imports. Annual 3% growth of investment for the core sub-scenario, 1% for least favourable sub-scenario and 5% for an optimistic one during 5 years is assumed. This is modelled through the recursive dynamics method: after calculating the first increase in investment and finding new equilibrium changes in the next period are calculated on the basis of this new equilibrium and so on. •	 Scenario 4. Combined effect This scenario includes decrease of import tariffs, improvement of exports access and improvement of investment climate. The three sub-scenarios have the following combination of growth rates: 5% export expansion and 3% yearly investment growth in the core sub-scenario case, 3% export expansion and 1% yearly investment growth in the least favourable case and 7% export expansion and 5% yearly investment growth in the optimistic sub-scenario option.
+
+39
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+Results of the Model
+
+2	 Results of the Model
+Table 2.1 presents the results of simulating four scenarios with the core development assumption on key macroeconomic variables3. As can be seen, the results for simulating tariff reform and the improvement of export access do increase foreign trade, but there are no dramatic changes in output and household consumption. Scenario 3, improvement in investment climate, is the most favourable and brings significant gains for households. The combined scenario mixes the results of the previous three policy simulations.
+    Welfare, % of GDP Welfare, % of consumption Gross domestic production Consumer demand Investment demand Government demand Exports demand Imports demand Unemployment Real wage Scenario1 Tariff reform 0.17 0.82 0.55 0.50 2.48 -5.62 2.82 3.06 -0.34 0.00 Scenario2 Improvement of export access 0.09 0.43 1.20 0.23 2.01 0.29 4.95 5.38 -0.12 0.00 Scenario3 Increase of investment 2.01 9.57 6.11 5.33 2.47 3.72 3.40 3.69 -4.88 0.05 Scenario4 Combined 1.83 8.77 6.57 4.86 4.11 0.17 5.63 6.12 -3.60 0.04
+
+Table 2.1 Results of the Model, Key Macro Variables, % change from benchmark
+
+A detailed analysis of policy simulations is given below. The results of the model can be interpreted with the help of the graphical illustration developed by Devarajan et al. (1994). Figure 2.1 presents a stylized economy with one representative producer and consumer and three types of goods: produced locally and supplied domestically ( D S ), exports (E) and imports (M).
+
+40
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+Results of the Model
+
+Quadrant I shows the balance of trade. Under a simplifying assumption, prices of imports and exports are equal to one, so the slope of balance of trade constraint is a straight line going through the origin under 450. Quadrant II represents consumption with choice between domestically produced and consumed goods ( D D ) and imports (M). It shows the consumption possibility frontier as well as relative import and domestic prices and indifference curve. As a result of balanced trade and equal world prices, the consumption possibility frontier is a mirror image of production possibility frontier, depicted at Quadrant IV. The production quadrant includes the production transformation curve and line depicting relative domestic and foreign prices, and shows division of total domestic production to domestic sales ( D S ) and exports (E). Finally, Quadrant III presents the domestic market and balance between goods supplied ( D S ) and demanded ( D D ) at the domestic market. The dotted square shows the balance on all markets.
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+41
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Accession to the WTO: Part II
+
+Results of the Model
+
+II Consumption
+
+M
+
+I Balance of Trade
+
+C0
+
+DD
+
+E
+
+P0
+
+III Domestic Market
+
+DS
+
+IV Production
+
+Figure 2.1 Benchmark State of Economy
+
+Scenario 1. Import tariff reform In this scenario Ukraine faces lower import tariffs, thus prices of imports become lower and the volume of imported goods increases. The model predicts that imports will grow by approximately 3%. In order to balance increased imports, exports rise as well and demonstrate 2.8% growth. Domestic production and household consumption do not change significantly: the model predicts GDP growth of 0.55%, and consumption increases by virtually the same amount. Thus, without dramatic changes in production and consumption but quite a considerable increase in foreign trade, Ukraine’s economy merely becomes more open and shifts towards the external sector. Producers will supply more of their goods to foreign markets and less to the domestic one, whilst households will shift to the consumption of imported products at the expense of local ones.
+
+42
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+Results of the Model
+
+Key Macro Variables
+
+Breakdown by Sectors   Output -0.19 2.33 -0.62 1.29 0.02 2.74 1.01 2.63 0.73 -0.61 5.70 Exports 3.19 3.70 3.24 2.77 1.90 3.09 2.99 3.90 3.06 3.03 5.89 Imports 9.46 1.66 40.38 5.76 1.30 4.15 4.80 2.00 -1.05 -2.44 5.61
+
+Welfare, % of GDP Welfare, % of consumption Gross domestic production Consumer demand Investment demand Government demand Exports demand Imports demand Unemployment Real wage
+
+0.17 0.82 0.55 0.50 2.48 -5.62 2.82 3.06 -0.34 0.00
+
+Agriculture Coal mining Food-processing Textile and leather Chemical industry Metallurgy Machinery Construction Transport Post and telecommunications Financial intermediation
+
+Table 2.2 Results of the Model, Scenario 1; % change from benchmark
+
+AXA Global Graduate Program
+Find out more and apply
+
+43
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+Results of the Model
+
+The square which shows market balance shifts up and to the right from benchmark graphically to reflect the increase in foreign trade. Under the assumption that there are no considerable changes in production and consumption, the square moves along the original production transformation curve and consumption possibility frontier. If there is a small increase in production and consumption, the corresponding curves (shown by dotted arcs) will shift outwards. The new equilibrium is reached at points C* for consumption and P* for production. From quadrant I, it can be seen that more foreign trade is occurring, while quadrant III shows a decline in demand for and supply of domestically produced goods.
+
+II Consumption
+
+M
+
+I Balance of Trade
+
+C∗ C0
+
+DD
+
+E
+
+P
+
+0
+
+P∗
+
+III Domestic Market
+
+DS
+
+IV Production
+
+Figure 2.2 Scenario 1
+
+The model predicts some increase of household welfare: 0.17% of GDP or 0.8% of consumption. This occurs as a result of the rise in consumption and decrease in unemployment. From breaking down the results by sectors of economy, it can be seen that sectors with high initial protection are likely to suffer from a decrease of import tariffs. It can be agriculture: the model shows a small decrease of output by almost 0.2%, and there is a slightly more significant decline of 0.6% in food processing. The latter will drastically increase imports by 40%. By contrast, other sectors will increase their production: metallurgy is a leader with a 2.7% boost in output, followed by coal-mining with 2.3% growth and textile products with a 1.3% output increase. On the services side, financial intermediation is expected to gain and expand by 5.7% to support greater foreign trade activity.
+
+44
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+Results of the Model
+
+Exports will increase fairly uniformly for all trade regions, but imports will grow for regions which faced import tariffs previously; namely imports from ROW countries will grow by roughly 9%, from Asia by 6.5% and EU by almost 6%. At the same time imports from CIS countries will show a decrease.
+Region Russia CIS EU25 Asia ROW Exports 2.77 2.93 2.73 2.94 2.89 Imports -0.98 -1.54 5.98 6.56 8.92
+
+Table 2.3 Changes in Foreign Trade by Regions, Scenario 1; % change from benchmark
+
+A sensitivity analysis is done by changing the elasticities of substitution and transformation to lower and upper levels, and comparing the values of key variables. The initial values for elasticities are taken from the CGE studies of Russia’s accession to the WTO, discussed earlier in the text. Key variables which are traced are GDP, exports, imports and welfare. In this scenario, the changing substitution elasticity of the Armington function has the highest effect on predicted exports and imports.
+  Parameter   Substitution elasticity of Armington function Transformation elasticity of CET function   Substitution elasticity of Armington function Transformation elasticity of CET function   Substitution elasticity of Armington function Transformation elasticity of CET function   Substitution elasticity of Armington function Transformation elasticity of CET function
+Table 2.4 Sensitivity Analyses, Scenario 1
+
+Parameter value Lower Level Upper
+
+Variable value, % change from benchmark Lower GDP Level Upper
+
+1.5 -3
+
+2 -4
+
+2.5 -5
+
+0.45 0.51 Exports
+
+0.55 0.55
+
+0.65 0.58
+
+1.5 -3
+
+2 -4
+
+2.5 -5
+
+2.23 2.62 Imports
+
+2.82 2.82
+
+3.65 2.97
+
+1.5 -3
+
+2 -4
+
+2.5 -5
+
+2.42 2.85
+
+3.06 3.06
+
+3.97 3.23
+
+Welfare, % of consumption 1.5 -3 2 -4 2.5 -5 0.85 0.79 0.82 0.82 0.53 0.82
+
+45
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+Results of the Model
+
+Scenario 2. Improvement of exports access In this case, exports enjoy greater access to the foreign markets, and the final effect is almost the same as in Scenario 1, but now comes from the exports side, not from imports. With better tools to fight antidumping and countervailing investigations, Ukraine will be able to increase the exports of some goods. In the case of central sub-scenario, the model shows that total exports will grow by 4.95%. Since the trade balance should be restored, imports will increase by more than 5%. Again, changes of production and consumption are relatively small, but changes in output are larger than in Scenario 1: GDP grows by 1.2%, while consumption expands less, by 0.2%. Thus, as the model shows, it becomes more profitable to export goods compared with selling them on the domestic market, and the economy is shifting away from the domestic market to the foreign sector.
+Improved market access, 5% 0.09 0.43 1.20 0.23 2.01 0.29 4.95 5.38 -0.12 0.00 Improved market access, 3% 0.19 0.91 0.69 0.39 1.47 -0.01 2.99 3.25 -0.34 0.00 Improved market access, 7% 0.14 0.68 1.57 0.39 3.10 0.17 7.01 7.62 0.01 0.00
+
+  Welfare, % of GDP Welfare, % of consumption Gross domestic production Consumer demand Investment demand Government demand Exports demand Imports demand Unemployment Real wage
+
+Table 2.5 Results of the Model, Scenario 2; % change from benchmark
+
+Figure 2.3 illustrates this point. A new equilibrium is found by shifting the balancing square up and to the right along the production transformation curve and consumption possibility curve. If predicted growth of production and consumption holds true, both curves will move outwards, as shown by the dotted arcs. Since output is expected to grow more than in Scenario 1, the production transformation curve will shift out more. Equilibrium consumption and production are denoted by points C* and P* respectively.
+
+46
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+Results of the Model
+
+II Consumption
+
+M
+
+I Balance of Trade
+
+C
+
+0
+
+C
+
+DD
+
+E
+
+P P0
+
+III Domestic Market
+
+DS
+
+IV Production
+
+Figure 2.3 Scenario 2
+
+47
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+Results of the Model
+
+The model estimates a small increase in welfare: in the central case it is 0.09% of GDP or 0.4% of consumption; this comes from a minor decrease in unemployment and an increase of consumption. It is worth noting that sub-scenarios with lower (3%) and higher (7%) improvement in export access bring a matching increase in foreign trade (around 3% and 7% respectively), but welfare shows a different pattern and in both cases it is higher than in the core sub-scenario. A peak increase in welfare happens in the least favourable sub-scenario: by 0.9% of consumption; in the optimistic sub-scenario it is almost 0.7%. One possible explanation is that when exports do not expand so much in the least favourable case, the economy does develop and production increases, but there is no considerable shifting to foreign trade. Rather, there is a progress in the domestic market and consumption. The optimistic sub-scenario shows a greater increase in both output and foreign trade, but increase of consumption is the same as in the least favourable case. This, coupled with a small increase in unemployment, brings a lower enlargement of welfare. Among the most important sectors of the Ukrainian economy, only transport and telecommunications show a decline in production: in the central case there is a 1.8% and 3.6% decrease respectively. Metallurgy gains the most from better market access, and increases production by 5%. Textiles and chemicals expand by 4.8% and 4.6% respectively. Amid the service sectors, financial intermediation will grow the most: by nearly 9.5%. The least favourable and optimistic sub-scenarios mirror core one from two sides, and show respectively a lower and higher increase of output and trade.
+    Agriculture Coal mining Food-processing Textile and leather Chemical industry Metallurgy Machinery Construction Transport Post and telecommunications Financial intermediation Improved market access, 5% Output 1.12 2.12 1.29 4.82 4.60 5.00 3.50 1.00 -1.75 -3.63 9.43 Exports 4.65 4.48 5.08 5.02 5.02 5.00 5.11 5.01 3.18 1.41 9.58 Imports -0.75 0.98 -0.72 4.64 4.27 5.00 2.41 -0.94 -5.46 -6.12 9.36 Improved market access, 3% Output 0.46 1.56 0.38 2.71 2.98 3.00 1.77 0.86 -0.91 -2.56 5.28 Exports 2.86 2.86 3.06 3.04 3.00 3.00 3.09 3.23 2.21 0.74 5.43 Imports -0.83 0.92 -1.06 2.43 2.97 3.00 0.87 -0.30 -3.28 -4.22 5.21 Improved market access, 7% Output 0.48 4.02 1.74 6.46 7.03 7.00 4.99 1.39 -2.32 -3.77 14.30 Exports 6.41 6.73 7.12 7.08 7.00 7.00 7.14 7.25 5.53 3.32 13.44 Imports -2.60 2.71 -1.09 5.92 7.05 7.00 3.54 -1.42 -8.11 -7.22 14.74
+
+Table 2.6 Results of the Model, Impact by Sectors, Scenario 2; % change from benchmark
+
+48
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+Results of the Model
+
+Exports to key trade regions are expanding close to the modelled exogenous increase rate. On the imports side, Ukraine will be trading relatively more with Rest of the World group of countries (8% imports increase in the central case) and EU25 (6% increase).
+Improves market access, 5% Exports 4.43 5.28 5.15 5.03 5.10 Imports 4.83 5.02 5.98 4.43 8.16 Improved market access, 3% Exports 2.78 3.18 3.04 3.01 3.11 Imports 2.73 2.57 3.35 2.46 6.09 Improved market access, 7% Exports 6.38 7.35 7.22 7.10 7.26 Imports 5.75 5.67 8.05 5.78 16.54
+
+    Russia CIS EU25 Asia ROW
+
+Table 2.7 Changes in Foreign Trade by Regions, Scenario 2, % change from benchmark
+
+The sensitivity analysis shows that varying substitution and transformation elasticities do not change the central values of output, exports and imports very much. By contrast, welfare experiences significant swings around its central value of a 0.43% increase: from 0.33% growth to 1.69%. This is the result of high reliance of welfare and underlying consumption on whether Ukraine shifts to the foreign sector or develops the domestic market.
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+49
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+Results of the Model
+
+  Parameter   Substitution elasticity of Armington function Transformation elasticity of CET function   Substitution elasticity of Armington function Transformation elasticity of CET function   Substitution elasticity of Armington function Transformation elasticity of CET function   Substitution elasticity of Armington function Transformation elasticity of CET function
+Table 2.8 Sensitivity Analysis, Scenario 2
+
+Parameter value Lower Level Upper
+
+Variable value, % change from benchmark Lower GDP Level Upper
+
+1.5 -3
+
+2 -4
+
+2.5 -5
+
+1.08 1.28 Exports
+
+1.20 1.20
+
+1.18 1.12
+
+1.5 -3
+
+2 -4
+
+2.5 -5
+
+5.03 4.93 Imports
+
+4.95 4.95
+
+4.87 5.00
+
+1.5 -3
+
+2 -4
+
+2.5 -5
+
+5.47 5.36
+
+5.38 5.38
+
+5.29 5.43
+
+Welfare, % of consumption 1.5 -3 2 -4 2.5 -5 0.98 0.33 0.43 0.43 1.69 0.82
+
+Scenario 3. Improvement of investment climate Foreign investments will increase the productivity of Ukrainian firms and bring better allocation of resources. In the central sub-scenario, output increases by a significant 6.1% along with 5.3% consumption growth. Exports and imports increase as well, but less than in previous scenarios and less than GDP growth: exports grow by 3.4%, imports by 3.7%. Even if a modest 1% increase in investment inflow is modelled, predicted output and consumption expansion outperform the results of the first two scenarios. In the case of an optimistic assumption about investment growth rate, GDP impressively expands by nearly 11% and household consumption by 9%. Therefore, in this case, the Ukrainian economy develops not so much through foreign trade, but through domestic improvement in efficiency.
+
+50
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+Results of the Model
+
+  Welfare, % of GDP Welfare, % of consumption Gross domestic production Consumer demand Investment demand Government demand Exports demand Imports demand Unemployment Real wage
+
+Increased investment, 3% growth for 5 years 2.01 9.57 6.11 5.33 2.47 3.72 3.40 3.69 -4.88 0.05
+
+Increased investment, 1% growth for 5 years 0.69 3.25 1.95 1.78 0.72 1.16 0.95 1.03 -1.68 0.02
+
+Increased investment, 5% growth for 5 years 3.18 15.26 10.59 8.83 4.49 7.20 6.46 7.02 -7.60 0.08
+
+Table 2.9 Results of the Model, Scenario 3; % change from benchmark
+
+As shown in Figure 2.4, there will be upgrading in all four quadrants. Reflecting growth of output, household consumption and foreign trade, the balancing square will expand outwards in all directions. Since output and consumption are growing by a faster pace than exports and imports, quadrant I of the balance of trade will see less expansion than domestic production and consumption. There will be an outward movement of the consumption possibility curve from the initial point to new equilibrium C* and production transformation curve to point P* (the latter will move out further than the former).
+II Consumption
+
+M
+
+I Balance of Trade
+
+C C0 DD E
+
+P0 P
+
+III Domestic Market
+
+DS
+
+IV Production
+
+Figure 2.4 Scenario 3
+
+51
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+Results of the Model
+
+There is a significant increase in household welfare: 2% of GDP or 9.6% of consumption in the central sub-scenario. If the optimistic sub-scenario holds true, welfare can increase by as much as 15% of consumption. Better allocation of resources and growth of production cause a massive decrease of unemployment, by almost 5% in the core sub-scenario and some improvement in real wages. All sectors of Ukrainian economy enjoy growth of output. Sectors which are commonly feared to lose from WTO accession are actually enjoying higher output as a result of investment inflow and consequent increased efficiency. These sectors are coal mining, agriculture and food-processing. In the central scenario, coal mining wins the most and expands its output by 5.2%. Food-processing follows with a 5.07% increase of output and agriculture grows by 3.6%. Metallurgy and the textile industry are also enlarged by roughly 3%. The model points at the vital importance of investment and better allocation of resources for agriculture: if a 5% increase of investment inflow is assumed, agriculture becomes a leader of growth amid the nonservice sectors, showing a 10% increase of output. It is worth noting that it is the only sector to contract exports. Instead, growing domestic output and imports are directed at saturation of the Ukrainian market. Telecommunications and the financial sector are leaders among services. Financial intermediation expands by almost one-third and telecommunications by 13%. Transport also demonstrates significant growth rate of 6% to keep up with the enlarged economy.
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+52
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+Results of the Model
+
+Increased investment, 3% growth for 5 years   Agriculture Coal mining Food-processing Textile and leather Chemical industry Metallurgy Machinery Construction Transport Post and telecommunications Financial intermediation Output 3.60 5.20 5.07 2.89 1.33 3.02 2.47 1.19 5.97 12.92 27.08 Exports -3.60 5.47 2.17 2.00 2.12 3.01 4.11 3.56 4.27 7.62 23.46 Imports 7.71 5.06 6.69 3.69 0.69 3.04 1.35 0.03 7.29 15.74 28.92
+
+Increased investment, 1% growth for 5 years Output 1.14 1.43 1.75 0.73 0.03 0.89 0.09 0.26 1.82 4.51 7.97 Exports -1.52 1.51 0.59 0.43 0.48 0.88 1.05 0.99 1.16 2.62 7.38 Imports 2.61 1.40 2.39 1.01 -0.33 0.90 -0.57 -0.10 2.34 5.49 8.26
+
+Increased investment, 5% growth for 5 years Output 10.60 8.32 7.60 5.25 3.76 6.08 5.14 2.70 10.77 22.38 47.71 Exports -2.71 9.31 4.64 3.94 4.71 6.10 7.38 6.44 7.59 12.68 38.90 Imports 18.52 7.83 9.25 6.43 2.99 6.05 3.62 0.87 13.28 27.68 52.30
+
+Table 2.10 Results of the Model, Impact by Sectors, Scenario 3; % change from benchmark
+
+Ukraine is starting to export relatively more to Russia compared with other regions, but imports from Russia and other CIS countries are not growing as much as imports from other trade partners of Ukraine. Imports from EU25, Asian and ROW countries are growing considerably more, compared with Russia and the rest of CIS. This may indicate a more efficient trade structure: major items of incoming trade with CIS are energy resources and materials with low degree of procession, whilst imports from other regions, first of all from the EU, have a high proportion of machinery and other goods, which allows for an increase in productivity.
+Increased investment, 3% growth for 5 years   Russia CIS EU25 Asia ROW Exports 4.06 3.16 3.32 3.41 2.84 Imports 2.16 0.37 6.85 5.76 4.73 Increased investment, 1% growth for 5 years Exports 1.16 0.88 0.93 0.95 0.77 Imports 0.73 0.15 2.15 1.48 1.06 Increased investment, 5% growth for 5 years Exports 7.29 6.13 6.36 6.59 5.69 Imports 4.89 2.90 10.68 9.66 8.88
+
+Table 2.11 Changes in Foreign Trade by Regions, Scenario 3, % change from benchmark
+
+53
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+Results of the Model
+
+Changing elasticities do not significantly affect key variables, except for one case. If the initial value of substitution elasticity of the Armington function is increased, exports and imports growth rates more than double.
+  Parameter   Substitution elasticity of Armington function Transformation elasticity of CET function   Substitution elasticity of Armington function Transformation elasticity of CET function   Substitution elasticity of Armington function Transformation elasticity of CET function   Substitution elasticity of Armington function Transformation elasticity of CET function
+Table 2.12 Sensitivity Analyses, Scenario 3
+
+Parameter value Lower Level Upper
+
+Variable value, % change from benchmark Lower GDP Level Upper
+
+1.5 -3
+
+2 -4
+
+2.5 -5
+
+6.01 6.14 Exports
+
+6.11 6.11
+
+7.25 6.05
+
+1.5 -3
+
+2 -4
+
+2.5 -5
+
+3.91 4.06 Imports
+
+3.40 3.40
+
+7.50 4.03
+
+1.5 -3
+
+2 -4
+
+2.5 -5
+
+4.24 4.41
+
+3.69 3.69
+
+8.15 4.37
+
+Welfare, % of consumption 1.5 -3 2 -4 2.5 -5 8.98 9.30 9.57 9.57 12.67 9.08
+
+54
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+Results of the Model
+
+Scenario 4. Combined effect This scenario embraces all other options, and the model shows that the new equilibrium is a mixture of previous ones. GDP is predicted to grow quite considerably: by 6.6% in the core sub-scenario; ranging from 2.5% in the least favourable to 11.6% in optimistic sub-scenarios. Although output grows more, compared with the previous scenario (6.6% against 6.1% in the central case), consumption increase is lower: 4.9% versus 5.3% in the preceding scenario. It can be explained by the fact that Scenario 4 includes all scenarios with different simulations behind them: Scenario 1 models lower import tariffs, hence it stimulates imports (and exports, which must balance trade). Scenario 2 has a similar effect, but acts from the exports side. Scenario 3 mainly increases output and consumption in the domestic market. Thus, in Scenario 4 there is growth of output principally as a result of Scenario 3, but there is also growth of foreign trade as a result of Scenarios 1 and 2. Hence, there are more incentives to trade with foreign countries, compared with domestic sales. The model shows that foreign trade is expanding quite considerably: exports are growing by 5.6% and imports by 6.1%.
+
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+55
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+Results of the Model
+
+Improved market access 5%; increased investment 3% Welfare, % of GDP Welfare, % of consumption Gross domestic production Consumer demand Investment demand Government demand Exports demand Imports demand Unemployment Real wage 1.83 8.77 6.57 4.86 4.11 0.17 5.63 6.12 -3.60 0.04
+
+Improved market access 3%; increased investment 1% 0.78 3.71 2.49 1.94 2.67 -3.80 3.05 3.32 -1.44 0.02
+
+Improved market access 7%; increased investment 5% 3.66 17.53 11.60 9.96 7.08 3.82 7.38 8.02 -8.16 0.08
+
+Table 2.13 Results of the Model, Scenario 4; % change from benchmark
+
+The solid square in Figure 2.5 shows a new equilibrium. As in the previous case, the new equilibrium square expands in all directions, but to a different extent than in Scenario 3. Foreign trade sees fairly the same growth as output, so the new equilibrium square is spread quite the same to quadrant I and quadrant III. Since output grows by 6.6% and consumption by 4.9%, the production possibility curve shifts outwards more than the consumption possibility curve.
+
+Figure 2.5 Scenario 4
+
+56
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+Results of the Model
+
+Welfare of households is also growing to a less extent than in Scenario 3: by 1.8% of GDP or 8.8% of consumption. This is explained by a lower level of domestic consumption and a relatively less significant drop in unemployment: by 3.6% compared with 4.9% in Scenario 3. At sectoral level, the only industry which experiences stagnation (in the central sub-scenario) or decline (in the least optimistic sub-scenario) in output is food processing. If the core sub-scenario holds true, production of this sector is virtually not changing, or as the model shows is growing by 0.09%. The least favourable case predicts a drop of output by slightly more than 1%; although the optimistic sub-scenario predicts 3.6% growth. At the same time, this sector is significantly increasing imports (around 40% in all sub-scenarios) and it could mean that although the level of production is lower, consumers can gain from a larger variety of food products. In this scenario, agriculture becomes a leader of output growth among non-services sectors, and increases its production by 7.4% in the central sub-scenario. It is worth noting that, although exports of agricultural production do not grow substantially in either sub-scenario, imports do increase quite considerably, which also can point at a larger utility of households owing to the diversity of agricultural products available for domestic consumption. The textile industry is the second-largest grower, with almost 6% increase of output. Important sectors of Ukrainian economy such as the chemical industry and metallurgy grow by a decent 5.8% and 5% respectively. At the services side, financial intermediation has impressive growth of nearly 20%, followed by such service sectors as telecommunications, with 15% expansion, and transport, with 8.7% growth.
+Improved market access 5%; increased investment 3% Output 7.35 4.88 0.09 5.83 5.75 5.00 3.81 2.86 8.70 15.35 19.73 Exports 1.30 7.58 5.11 4.89 4.97 5.00 5.08 6.54 6.88 10.98 19.80 Imports 23.68 3.59 40.55 12.82 9.42 6.85 8.24 1.07 10.13 17.66 19.70 Improved market access 3%; increased investment 1% Output 1.18 2.36 -1.12 2.49 4.57 3.00 1.55 2.43 3.91 5.89 10.22 Exports 1.50 4.46 3.09 3.07 2.94 3.00 3.10 4.26 3.97 6.07 9.88 Imports 12.79 1.34 39.41 7.86 8.95 4.82 5.67 1.53 3.86 5.80 10.39 Improved market access 7%; increased investment 5% Output 14.49 8.49 3.59 7.77 11.37 7.00 5.51 5.67 13.17 20.37 21.07 Exports 1.83 11.47 7.08 6.89 6.83 7.00 7.11 9.07 8.52 11.46 21.97 Imports 36.17 7.06 46.74 14.81 18.45 8.89 9.80 4.01 16.86 25.22 20.62
+
+    Agriculture Coal mining Food-processing Textile and leather Chemical industry Metallurgy Machinery Construction Transport Post and telecommunications Financial intermediation
+
+Table 2.14. Results of the Model, Impact by Sectors, Scenario 4; % change from benchmark
+
+57
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+Results of the Model
+
+The direction of trade flows between Ukraine and its partners is predicted to face some reorientation. Exports to CIS countries are growing by fairly the same pace as to other trade regions. On the other hand, imports from Russia and other CIS countries contract, whilst imports from other trade regions expand by between 12.5% and 14.5%. Major expansion is occurring at imports of chemical products and machinery.
+Improved market access 5%; increased investment 3% Exports 6.00 5.31 5.83 5.73 4.95 Imports -1.13 -2.19 12.63 13.13 14.56 Improved market access 3%; increased investment 1% Exports 3.29 2.96 2.99
+3.29
+
+ 
+
+Improved market access 7%; increased investment 5% Exports Imports
+7.97 -1.75
+
+  Russia CIS EU25 Asia ROW
+
+Imports
+-2.72
+
+-4.10 8.24
+8.95
+
+7.02 7.45
+7.86
+
+-4.80 16.77
+16.97
+
+2.73
+
+11.46
+
+6.39
+
+21.71
+
+Table 2.15 Changes in Foreign Trade by Regions, Scenario 4, % change from benchmark
+
+As can be seen from Table 2.16, in Scenario 4 changing the elasticity’s parameter values does not bring significant modification to the key variables under scrutiny.
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+58
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+Results of the Model
+
+  Parameter   Substitution elasticity of Armington function Transformation elasticity of CET function   Substitution elasticity of Armington function Transformation elasticity of CET function   Substitution elasticity of Armington function Transformation elasticity of CET function   Substitution elasticity of Armington function Transformation elasticity of CET function
+
+Parameter value Lower Level Upper
+
+Variable value, % change from benchmark Lower GDP Level Upper
+
+1.5 -3
+
+2 -4
+
+2.5 -5
+
+6.57 6.79 Exports
+
+6.94 6.94
+
+6.52 6.79
+
+1.5 -3
+
+2 -4
+
+2.5 -5
+
+5.63 5.36 Imports
+
+5.50 5.50
+
+5.40 5.42
+
+1.5 -3
+
+2 -4
+
+2.5 -5
+
+6.12 5.82
+
+5.98 5.98
+
+5.87 5.88
+
+Welfare, % of consumption 1.5 -3 2 -4 2.5 -5 8.77 9.96 9.87 9.87 8.68 9.77
+
+Table 2.16 Sensitivity Analyses, Scenario 4
+
+59
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+Concluding Remarks
+
+3	 Concluding Remarks
+This research scrutinises the accession of a transition country to the World Trade Organization on the evidence of Ukraine. Quantitative results are obtained by building a Computable General Equilibrium model in the mathematical programming language General Algebraic Modelling System (GAMS). The model is static with perfect competition and Constant Returns to Scale. The economy of Ukraine is disaggregated into 38 sectors and there are five trade regions. Four scenarios are simulated: 1) import tariffs reform; 2) improvement of exports access; 3) improvement of investment climate and 4) the scenario that combines previous three, or a full WTO accession. The first scenario is modelled by changing import tariffs according to the WTO tariff schedule; the second one assumes an increase of exports to selected trade regions; the third one presumes growth of investment with a certain rate for five years and is calculated through the recursive dynamics technique. In order to achieve better flexibility, scenarios 2, 3 and 4 have 3 sub-scenarios, each with different rates of exports access improvement and investment inflow. Scenarios with 3% market access improvement and 1% investment increase are denoted as “least favourable”; “core” or “central scenarios” stands for a 5% market access expansion and 3% investment growth; 7% market access increase and 5% investment growth are called “optimistic scenarios”. In the case of full WTO accession scenario, the model predicts that welfare of households will increase significantly: in the central sub-scenario by nearly 8.8% of consumption or 1.8% of GDP. Output will increase by more than 6.5%, while exports and imports will grow by 5.6% and 6.1% correspondingly. Unemployment is expected to fall by 3.6%. In order to understand how these results are obtained, it is worth studying the results of scenarios separately and comparing them. In the first scenario, tariff reform according to the WTO schedule does not bring significant changes either to production or to welfare of households. Lower import tariff barriers stimulate inflow of imports, which grow by 3%. In order to restore a trade balance, exports increase by 2.8%. GDP and households consumption both rise by an insignificant 0.5% which can be broadly considered as “no change” at all. These figures point at shifting to more trade with foreign countries, but without noticeable effect on domestic production and consumption. As a result, household welfare does not change considerably: the model shows welfare growth of 0.17% of GDP or 0.8% of consumption.
+
+60
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+Concluding Remarks
+
+The improvement of export access allows Ukrainian producers to increase the volume of some exports to those regions which applied antidumping and countervailing measures to these products before. Thus, outgoing trade will grow, and the model predicts an increase of almost 5% of exports in the central subscenario. Imports are growing as well, since more intermediate goods are needed and a trade balance has to be kept. As in the previous scenario, this does not have significant influence on production: GDP grows by 1.2%. The story here is similar to the one with tariff reform, but first of all comes from the exports side; second, it has an even smaller effect on household consumption and welfare. Consumption is growing by a negligible 0.2%, while welfare is growing by 0.09% of GDP or 0.4% of consumption. Although production expands more compared with preceding case, welfare and domestic consumption is twice as small which comes from higher reorientation of producers to foreign markets at the expense of the domestic market. Modelling the improvement of the investment climate shows a large expansion of the economy and an increase in household welfare. Investment brings better allocation of resources and GDP grows by more than 6% in the central sub-scenario. The foreign sector expands as well, but by a comparatively smaller amount: exports grow by 3.4% and imports by 3.7%. Greater output without redistribution of sales to foreign countries means greater domestic consumption: it increases by 5.3%. Coupled with an almost 5% drop in unemployment and some real wage growth, this allows for household welfare to increase by a remarkable 2% of GDP or 9.6% of consumption.
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+61
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+Concluding Remarks
+
+Thus, it can be seen that the results of modelling Scenario 4 incorporate the outcomes of the three scenarios described above. Stimulation of foreign trade comes from modelling scenarios 1 and 2 and results in the highest exports and imports growth among all four cases. Improvement of investment climate and better efficiency lead to a considerable increase of GDP, also higher than in any of the other three scenarios. Parameters such as household consumption growth, drop of unemployment rate and household welfare improvement are a mixture of those factors. They show less progress than from modelling Scenario 3, but are much larger than from simulating scenarios 1 and 2. Another appealing aspect is to analyze how different sectors will react to modelled shocks. It is worthwhile breaking major sectors of the Ukrainian economy into three major groups: 1) agriculture and foodprocessing; 2) sectors which are considered to be a backbone of economy, namely metallurgy, the chemical industry and machinery; 3) service sectors, specifically: transport, telecommunications and financial intermediation. Agriculture, and even more so, food-processing have quite high initial import tariffs, which have to be lowered considerably. Thus, Scenario 1 results in a significant increase of agricultural and food products imports: by 10% and 40% respectively. At the same time, there is either a small drop or stagnation of output in these sectors. In Scenario 2, improvement of export access allows these two sectors to increase exports by roughly 5% each in the central sub-scenario, with a rather small increase of output (around 1%) and drop of imports (about 0.7%). Augmentation of investment climate brings better efficiency and both sectors increase their production: food processing leads with 5% growth, whilst agriculture expands by 3.6%. Exports are growing as well, by 6.7% and 7.7% respectively. Remarkably, agriculture is contracting exports by a figure similar to its output growth: 3.6%. The combined scenario shows different development paths for the industries under consideration. In Scenario 4, agriculture becomes a leader of growth among non-service sectors with a 7.4% increase; imports are also significantly increased by 24%. Imports of food products boost by almost the same amount as in Scenario 1 (41%), but investment inflow cannot compensate for higher competition, and output of food-processing industry is not changing.
+
+62
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+Concluding Remarks
+
+Among the key industrial sectors, metallurgy is predicted to be a stable although not record-breaking winner, while the chemical industry and machinery show more modest results. In Scenario 1, metallurgy’s output increases by 2.7% in the central sub-scenario. Machinery grows by 1%, whilst the chemical sector does not change its output. Respectively, foreign trade turnover of these sectors changes in a similar way, which can be connected to the initial tariff structure: a larger decrease for metallurgy and machinery and a relatively smaller one for the chemical sector. In Scenario 2, the core sub-scenario, exports of all three industries grow by roughly 5%. Again, metallurgy is a leader of growth with a 5% output boost, followed by the chemical industry (4.6%) and machinery (3.5%). Production growth corresponds to the volume of exports markets, to which Ukrainian producers will get better access. For the metallurgy, machinery and chemical sectors, improvement of investment climate proved to be relatively not as important a source of growth as for, say, agriculture and food-processing. Although the production of core industrial sectors increases, it does so to a lesser extent compared with the scenario with increased export access. Finally, full WTO accession scenario brings quite optimistic prospects for these three industries: enjoying combined effects of better exports access and investment inflow, the chemical industry increases its output by 5.6%, followed by metallurgy (5%) and machinery (3.8%). When it comes to services sectors, financial intermediation is clearly a winner in all four scenarios. Its growth rates are increasing from scenario 1 to 3: 5.7% in Scenario 1; 9.4% in Scenario 2; a remarkable 27% in Scenario 3. Scenario 4 brings more balanced growth of nearly 20%. Imports and exports of financial services repeat the growth path of output in corresponding scenarios on an almost one-to-one basis. This suggests that the financial sector will be an important player in servicing both domestic and international transactions. Transport and telecommunications demonstrate a different picture from that of the financial sector, but are similar between themselves. In scenarios 1 and 2, these sectors are showing either signs of stagnation or some decline. By contrast, improvement of the investment climate proves to be a very important factor in developing these infrastructure sectors: in scenarios 3 and 4, transport grows by 6% and 8.7% respectively, while telecommunications grow by 13% and 15%. From an examination of the distribution of trade flows across the partners of Ukraine, one can see two different cases concerning exports and imports. Exports are growing quite uniformly to all major trade partners of Ukraine. By contrast, imports from Russia and the rest of the CIS countries underperform, compared with imports from EU25, Asian and ROW countries. In the case of a full WTO accession scenario, imports from Russia and the rest of the CIS countries decline by 1% and 2.2% respectively. On the other hand, imports from other trade partners grow by 12.5%–14.5%. This can signify a more efficient and energy-saving structure of economy, since major items of imports from former USSR countries are energy resources. On top of this, imports from well-developed partners like the EU to great extent are machinery and other goods, which allow in increase in productivity.
+
+63
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+Concluding Remarks
+
+One important factor highlighted by modelling Ukraine’s accession to the WTO is the importance of investment for sustainable economic development. The model shows that, although such aspects as amendment of tariff schedule or improvement of exports access do promote foreign trade, they have limited, if any, effect on other parameters. Expansion of foreign trade does not lead to a significant increase in production, but rather reallocates sales from the domestic market to foreign markets. Household consumption does not see much growth either and welfare changes only slightly. By contrast, if the inflow of investment is modelled, the picture changes drastically. Being able to increase efficiency, producers expand their output and are capable of spreading out both foreign and domestic sales. There is a drop in unemployment rate, while consumption and household welfare increase. Thus, it is crucial for Ukraine to concentrate not only on promotion of foreign trade, but on the development of an attractive investment climate as well. There are several policy implications which can be made.
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+64
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+Concluding Remarks
+
+First of all, there are broad concerns among Ukrainian policy-makers, producers and the general public regarding a possible drop of output in certain sectors which will face higher imports and competition after WTO accession. Most anxiety is related to the agriculture and food-processing industries. This CGE study confirms that such a point of view is not ungrounded. Changing the tariff schedule to the one agreed with the WTO members does significantly increase imports and leads to a decline or stagnation of output in these industries. At the same time, the model shows that investment can be a very important positive factor, allowing the turning of WTO accession into favouring agriculture and food-processing. Thus, Ukraine should make the most out of opportunities granted by “green” and “blue boxes”, and create an encouraging investment environment. Scenario 2 shows that improvement of export access will be favourable for those industries which suffered from restrictions prior to WTO accession. It is true that WTO membership gives clear rules of dealing with antidumping and countervailing suits, but improvement of export access does not come automatically. It is a matter of country and producers to use this opportunity by organizing a highly qualified legal framework. Scenario 3 demonstrates the strong potential of increasing investment inflow. Again, this will not come after the WTO accession as granted. In order to obtain investments, Ukraine should form a favourable investment climate. This can be done through the creation of transparent regulations, establishing political and macroeconomic stability, and fighting high inflation and corruption. It would be an interesting exercise to compare the results of this model with those of other known studies of this topic for Ukraine, Russia and Kazakhstan. Unfortunately, direct comparison is not possible, since models are either built for different countries, use a different base year for their database or incorporate different functional specification. Nevertheless, it is possible to make a rough comparison and see whether results are of the same direction and similar magnitude. The model for Ukraine constructed by Pavel et al. (2004) is dissimilar to this model in several ways. To mention some of them, it has a different base year (2001 in that of Pavel et al. and 2002 in this model), different aggregation of sectors, trade regions and households. There are two similar policy experiments in both models: tariff reform and improved market access. In the case of Pavel et al., tariff reform brings a small and positive effect on output (1.3% growth) and welfare (1.2% of consumption). This model also shows some output and welfare growth, but of a smaller scale: GDP grows by 0.55%, welfare of households by 0.8%. In the second comparable scenario, improvement of market access, the similarity in welfare change is quite close: in the model of Pavel et al., welfare grows by 0.3%, while in this model it is 0.4%. Output expansion numbers are more different: 0.3% in the model of Pavel et al. and 1.2% in model of this research. Since the results of the CGE simulations should be viewed as pointing to the general trend, those figures show quite high convergence.
+
+65
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+Concluding Remarks
+
+A study of Russia’s accession to the WTO by Jensen et al. (2004) is interesting owing to the similar usage of the recursive dynamics approach to quantify improvement of an investment climate. The study for Russia shows that investment will have a major impact and will account for two-thirds of total gains from WTO accession in the long run. This model also demonstrates the importance of investment. The model which was built for this research is not a rigid product, and there are many extensions which can be done depending on purpose of study. First of all, this model has a standard general equilibrium framework and assumes perfect competition and Constant Returns to Scale. One possible extension is to introduce for some industries monopolistic behaviour and Increasing Returns to Scale. This will make it possible to reflect the actual structure of economy better and to obtain more realistic results. In the case of imperfect competition, welfare of households is expected to be higher as a result of gains from a larger variety of consumed goods and services. In order to make this extension, the software code has to be changed in parts, describing production functions.
+
+The stuff you'll need to make a good living
+
+STUDY. PLAY.
+
+The stuff that makes life worth living
+
+NORWAY. YOUR IDEAL STUDY DESTINATION.
+WWW.STUDYINNORWAY.NO FACEBOOK.COM/STUDYINNORWAY
+
+66
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+Concluding Remarks
+
+Another potential fundamental extension is the introduction of dynamics and intertemporal optimization. This model is static; although it employs the recursive dynamic method, capturing intertemporal behaviour would open the door to a much wider variety of modelling opportunities. This augmentation also requires alteration of the code, but on a much greater scale compared with introducing monopolistic competition, since behaviour of all agents in the model is changing. There are also several other extensions which do not require significant changes in the model structure, but rather data work or additional research outside the model. For instance, it is possible to estimate nontariffs barriers in Ukraine and to widen the analysis from manufactured goods to service sectors as well. A technique which is used for this purpose is conducting a large-scale survey among producers (among thousands of respondents) considering their perception of non-tariff barriers. Using the results of such a survey, it is possible to quantify non-tariff barriers and introduce them to the model in a similar way as import tariffs. Another opportunity is to make some data disaggregation in order to concentrate on some specific topics. For example, it is possible to disaggregate households by income level or education, or to break down aggregation of certain sectors of economy to study them in greater depth. To accomplish this, additional data on the economic agent or sector are required. On May 16th, 2008 Ukraine became a 152nd member of the WTO, 15 years after the application was made. Now the ball is in Ukraine’s court and it is the responsibility of Ukraine to use it wisely.
+
+67
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+References
+
+4	References
+Anderson, K., Dimaran, B., Francois, J., Hertel, T., Hoekman, B. and Martin, W. “The Cost of Rich (and Poor) Country Protection to Developing Countries” Journal of African Economies 10, 3: 227–257, 2003. Anderson, K., W. Martin and Van Der Mensbrugghe “Market and Welfare Implications of the Doha Reform Scenarios”, Ch. 12 in K. Anderson and W. Martin (eds.) “Agricultural Trade Reform and the Doha Development Agenda” Washington D.C.: World Bank, 2005. Arrow, Keneth and Gerard Debreu “Existence of an Equilibrium for a Competitive Economy” Econometrica, 22(3), 1954. Åslund, A. (2005), “The Economic Policy of Ukraine after the Orange Revolution”, Eurasian Geography and Economics, Vol. 46, No. 5, pp. 327–53. Bacchetta, M. “Introduction to the WTO” World Bank NTA and WTO course, World Bank, 2003. Bagwell, Kyle and Robert Staiger “An Economic Theory of GATT”, The American Economic Review, Vol. 89, pp. 215–248, 1999. Bagwell, Kyle and Robert Staiger “A Theory of Managed Trade” American Economic Review, Vol. 80(4), pp. 779–795, 1990. Bagwell, Kyle and Robert Staiger “Reciprocal Trade Liberalization” NBER Working Paper No. 5488, 1996. Bagwell, Kyle and Robert W. Staiger “The Role of Export Subsidies when Product Quality is Unkonown” Journal of International Economics 27, 1989. Bagwell, Kyle and Staiger, Robert “Economic Theory and the Interpretation of GATT/WTO” The American Economist, Fall, 2003. Bagwell, Kyle and Staiger, Robert “GATT-Think” NBER Working Paper No. 8005, 2000. Bandara, J.S. “Computable General Equilibrium Models for Development Policy Analysis in LDCs.” Journal of Economic Survey, 1991. Bergman, L. “The development of Computable General Equilibrium Modeling” in Bergman, L. and Zalai, E. (eds) “General Equilibrium Modelling and Economic Policy Analysis” Basil Blackwell, Oxford, 1990.
+
+68
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+References
+
+Bhagwati, J.N. “Anatomy and Consequences of Exchange Control Regimes”, New York: Ballinger Publishing, 1978. Bhagwati, J.N. “Free Trade: Old and New Challenges”, Economic Journal, Vol. 104, No. 423, pp. 231–46, 1994. Bhagwati, J.N. “Investing Abroad: Esmée Fairbairn Lecture”, Lancaster: Lancaster University Press, 1985. Bhattacharyya, S.C. “Applied General Equilibrium Models for Energy Studies: A Survey.” Energy Economics, 1996. Bickerdike, C.F. “The Theory of Incipient Taxes” Economic Journal, vol XVI., 1906. Boltuck, R. and R.E. Litan “Down in the Dumps: Administration of the Unfair Trade Laws” Washington, D.C.: Brookings, 1991. Bown, Chad “The Economics of Trade Disputes, the GATT’s Article XXIII, and the WTO’s Dispute Settlement Understanding” Economics & Politics 14 (3), 283–323, 2002.
+
+I joined MITAS because I wanted real responsibili� I joined MITAS because I wanted real responsibili�
+
+Maersk.com/Mitas www.discovermitas.com
+
+�e Graduate Programme for Engineers and Geoscientists
+
+�e G for Engine
+
+Ma
+
+Real work International Internationa al opportunities �ree wo work or placements
+
+Month 16 I was a construction Mo supervisor ina const I was the North Sea super advising and the No he helping foremen advis s solve problems Real work he helping fo International Internationa al opportunities �ree wo work or placements s solve pr
+Click on the ad to read more
+
+69
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+References
+
+Borges, Antonio “Applied General Equilibrium Models: An Assessment of Their Usefulness for Policy Analysis” OECD Economic Studies, 1986. Braga, Carlos A. Primo and Fink, Carsten “The Relationship Between Intellectual Property Rights and Foreign Direct Investment” Duke Journal of Comparative and International Law, Vol. 9, 1998. Brainard, L. “A Simple Theory of Multinational Corporations and Trade With a Trade-off Between Proximity and Concentration, NBER Working Paper #4269, 1993. Brecher, R.A. and Carlos F. Diaz Alejandro “Tariffs, Foreign Capital and Immiserizing Growth’, Journal of International Economics, Vol.7, No.3, pp. 317–22, 1977. Brecher, R.A. and R. Findlay “Tariff, Foreign Capital and National Welfare with Sector-Specific Factors”, Journal of International Economics, Vol.14, No.3, pp. 277–88, 1983. Brown, D.K., Deardorff, A.V. and Stern, R.M. “Multilateral, Regional and Bilateral Trade Policy Options for the United States and Japan” The World Economy, 26, 6: 803–828, 2003. Brown, D.K., Deardorff, A.V., Fox, A.K. and Stern, R.M. “The Liberalization of Services Trade: Potential Impacts in the Aftermath of the Uruguay Round” in W. Martin and L.A. Winters (eds.) “The Uruguay Round and the Developing Countries”, New York: Cambridge University Press, 1996. Burakovsky, I., F. Pavel and I. Eremenko “Which Priority for Ukraine’s Trade Policy? “Single Economic Space” (SES) vs. World Trade Organization (WTO)” Institute for Economic Research, Policy Paper T14, 2003. Caplin, A. and K. Krishna “Tariffs and the Most Favoured Nation Clause: A Game Theoretic Approach” Seoul Journal of Economics 1, 1988. Carr, D.; Markusen, J. and Maskus, K. “Estimating the Knowledge-Capital Model of the Multinational Enterprise”, The American Economic Review, 91/3, 693–708, 2001. Cline, W.R. “Trade Policy and Poverty” Washington, D.C.: Institute for International Economics, 2004. Coase, Ronald. “The Nature of the Firm”, Economica, Vol. 4, No. 16, pp. 386–405, 1937. Cooper, William H. “Russia’s Accession to the WTO” U.S. Congressional Research Service Report for Congress RL31979, 2006.
+
+70
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+References
+
+de Melo, J. “Computable General Equilibrium Models for Trade Policy Analysis in Developing Countries: A Survey.” Journal of Policy Modeling, 1988. Decaluwe, B., and A. Martens “CGE Modeling and Developing Economies: A Concise Empirical Survey of 73 Application to 26 Countries.” Journal of Policy Modeling, 1988. Deutsche Bank Research (2005), “Ukraine: The Long Road West”, Current Issues, Deutsche Bank, Frankfurt, 27 May. Devarajan, S. “Natural Resources and Taxation in Computable General Equilibrium Models of Developing Countries.” Journal of Policy Modelling, 1988. Devarajan, S., J.D. Lewis, S. Robinson, P. Sinko “Simple General Equilibrium Modeling”. In: Francois, J.F. and K.A. Reinert (eds.): “Applied Methods for Trade Policy Analysis – A Handbook” Cambridge University Press, 1994. Dixit, Avinash “Strategic Aspects of Trade Policy” in Truman F. Bewley, ed., Advances in Economic Theory: Fifth World Congress, Cambridge University Press: New York, 1987. Dixon, Peter “Evidence-based Trade Policy Decision Making in Australia and the Development of Computable General Equilibrium Modeling” COPS Working Paper # C-163, 2006. Dixon, P.B., and B.R. Paramenter “Computable General Equilibrium Modeling.” In H.M. Amman, D.A. Kendrick, and J. Rust (eds) Handbook of Computational Economics, Vol. 1. North-Holland, New York, 1996. Downs, Anthony “An Economic Theory of Democracy” Washington: Brookings, 1957. Dunning, J. “Towards an Eclectic Theory of International Production: Some Empirical Tests”, Journal of International Business Studies, 11/1, pp. 9–31, 1980. Economist Intelligence Unit “Ukraine. Country Report” April 2010. Edgeworth, F.Y. “The Theory of International Values.” Economic Journal, 4, pp. 35–50., March 1894. ESCAP (United Nations Economic and Social Commission for Asia and the Pacific) “Issues in Accession to The WTO for Economies on Transition in Caucasus and Central Asia: an Overview” ST/ESCAP/2160, 2001.
+
+71
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+References
+
+Etheir, Wilfred J. “The Theory of Trade Policy and Trade Agreements: A Critique” Penn Institute for Economic Research, Working Paper 06-013, 2006. Fan, M. and Zheng, Y. “The Impact of China’s Trade Liberalisation for WTO Accession: A Computable General Equilibrium Analysis,” mimeo, Institute of Quantitative and Technical Economics, Chinese Academy of Social Sciences, 2000. Feenstra, Robert and Jagdish Bhagwati “Tariff Seeking and the Efficient Tariff ” in Bhagwati, Jagdish, ed., Import Competition and Response, University of Chicago Press: Chicago, 1982. Forte, Rosa “The Relationship Between Foreign Direct Investment and International Trade. Substitution or Complementarity? A Survey.” CETE Working Paper #140, 2004. Francois, J.F., McDonald, B. and Nordstrom, H. “The Uruguay Round: A Numerically-based Qualitative Assessment” in W. Martin and L.A. Winters (eds.) “The Uruguay Round and the Developing Economies”, New York: Cambridge University Press, 1996. Francois, J., Van Meijl, H. and Van Tongeren, F. “Trade Liberalization and Developing Countries under the Doha Round” CEPR Discussion Paper No. 4032, 2003.
+
+Need help with your dissertation?
+Get in-depth feedback & advice from experts in your topic area. Find out what you can do to improve the quality of your dissertation!
+
+Get Help Now
+
+Go to www.helpmyassignment.co.uk for more info
+
+72
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+References
+
+GATT (1), Marrakesh Ministerial Meeting, “Agreement Establishing The World Trade Organization, Marrakesh Declaration of 15 April 1994”, www.wto.org, 1994. Ginsburgh, V., and M. Keyzer “The Structure of Applied General Equilibrium Models.” Cambridge: MIT Press, 1997. Goldin, I. and Van Der Mensbrugghe, D. “Assessing Agricultural Tariffication under the Uruguay Round” in W. Martin and L. A. Winters (eds.) “The Uruguay Round and the Developing Economies”, New York: Cambridge University Press, 1996. Grossman, Gene M. and Elhanan Helpman “Interest Groups and Trade Policy” Princeton: Princeton University Press, 2002. Grossman, Gene M. and Elhanan Helpman “Protection for Sale” The American Economic Review, Vol. 84, No. 4, pp. 833–850, 1984. Gruenspecht, Howard K. “Dumping and Dynamic Competition” Journal of International Economics, 25, pp. 225–248, 1988. Harberger, Arnold C. “The Incidence of the Corporate Income Tax” Journal of Political Economy, 70 (3), 1962. Harrison, G.W., Tarr, D. and Rutherford, T.F. “Quantifying the Outcome of the Uruguay Round” Finance & Development 32, 4: 38–41, 1995. Helpman, Elhanan “A Simple Theory of International Trade with Multinational Corporations”, Journal of Political Economy 92 (3), pp. 451–471, 1984. Hertel, T., Martin, W., Yanagishima, K., Dimanaran, B. “Liberalizing Manufactures in a Changing World Economy” in W. Martin and L.A. Winters (eds.) “The Uruguay Round and the Developing Economies”, New York: Cambridge University Press, 1996. Hertel, T.W. “Global Trade Analysis: Modelling and Applications” Cambridge University Press, New York and Cambridge, 1997. Hillman, Ayre and Ursprung, Heinrich W. “Domestic Politics, Foreign Interests, and International Trade Policy” American Economic Review, 78 (4), pp. 729–45, 1988.
+
+73
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+References
+
+Horn, Henrik and Petros C. Mavroidis “The WTO Dispute Settlement System 1995-2004: Some Descriptive Statistics” World Bank, 2006. Horstmann, Ignatius and Markusen, James “Endogenous Market Structures in International Trade (natura facit saltum)”, Journal of International Economics 32, (1–2), pp. 109–129, 1992. Hunderford, T.L. “GATT: A Cooperative Equilibrium in a Non-cooperative Trading Regime?” Journal of International Economics, November, 1991. IER “Ukraine’s Trade Report” Dutch Grant No. TF 050270, 2006. IIPA (International Intellectual Property Rights Alliance) “2006 Special Report. Russian Federation” www.iipa.com, 2006. Iqbal, Zafar and Rizwana Siddiqui “Critical Review of Literature on Computable General Equilibrium Models” MIMAP Technical Paper # 9, 2001. Jensen, Jesper and Tarr, David “The Impact of Kazakhstan Accession to the World Trade Organization: A Quantitative Assessment” World Bank Policy Research Working Paper 4142, 2007. Jensen, Jesper, Rutherford, Thomas and Tarr, David “Economy-Wide and Sector Effects of Russia’s Accession to the WTO” Available at www.worldbank.org/trade/russia-wto, 2004(a). Jensen, Jesper, Rutherford, Thomas F. and Tarr, David G. “The Impact of Liberalizing Barriers to Foreign Direct Investment in Services: The Case of Russian Accession to the World Trade Organization,” Available at www.worldbank.org/trade/russia-wto, 2004(b). Jensen, Jesper, Rutherford, Thomas and Tarr, David “Telecommunications Reform within Russia’s Accession to the WTO” Available at www.worldbank.org/trade/russia-wto, 2004(c). Johansen, Leif “A Multi-sectoral Study of Economic Growth” Amsterdam: North-Holland, 1960. Johnson, Harry G. “Optimum Tariffs and Retaliation” Review of Economic Studies, Vol. 21, No. 2, pp. 142–153, 1953–1954. Jorgenson, D.W. “Econometric Methods for Applied General Equilibrium Analysis” in Scarf, H. and Shoven, J. (eds.) “Applied General Equilibrium Analysis” Cambridge University Press, Cambridge, 1984.
+
+74
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+References
+
+Kaldor, Nicholas “A Note on Tariffs and the Terms of Trade” Economica, New Series, Vol. 7, No. 28. pp. 377–380, 1940. Kaldor, N. “A Model of Economic Growth” Economic Journal, 67:591–624, 1957. Kalecki, M. “Selected Essays on the Dynamics of the Capitalist Economy” Cambridge University Press, 1971. Kaufmann, D., A. Kraay and M. Mastruzzi (2005), Governance Matters IV, Governance Indicators for 1996–2004, World Bank, Washington, D.C. Kehoe, Timothy J., T.N. Srinivasan and John Whalley (Editors) “Frontiers in Applied General Equilibrium Modeling. In Honor of Herbert Scarf ” Cambridge University Press, 2005. Keynes, J.M. “The General Theory of Employment, Interest and Money” Harcourt, Brace, New York, 1936. Kovenock, Dan and Marie Thursby “GATT, Dispute Settlement and Cooperation,” Economics and Politics, 4, pp. 151–70, 1992.
+
+75
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+References
+
+Kraev, Egor “Modeling Macroeconomic and Distributional Impact of Stabilization and Adjustment Packages: Current Literature and Challenges” CEPA Working Paper 2003-06, 2003. Kraybill, D. S. “Computable General Equilibrium Analysis at the Regional Level.” In D.M. Otto and T.G. Johnson (eds) Microcomputer-based Input-Output Modeling: Applications to Economic Development. Boulder, Co: Westview Press, 1993. Laird, S. And A. Yeats Quantitative Methods for Trade-Barriers Analysis. The Macmillan Press, 1990. Leontief, Wasiliy “Quantitative Input and Output Relations in the Economic Systems of the United States” The Review of Economics and Statistics, 1936. Leontief, Wasiliy “The Structure of the American Economy” ME Sharpe, 1941. Lipsey, R.G. and Kelvin Lancaster “The General Theory of Second Best” The Review of Economic Studies, Vol. 24, No. 1. pp. 11–32, 1956–1957. Ludema, R.D. “International Trade Bargaining and the Most Favoured Nation Clause” Economics and Politics 3, 1991. Magee, Stephen P., Brock, William A. and Young, Leslie “Black Hole Tariffs and Endogenous Policy Theory: Political Economy in General Equilibrium” Cambridge: Cambridge University Press, 1989. Maggi, Giovanni “The Role of Multilateral Institutions in International Trade Cooperation” The American Economic Review, Vol. 89, No. 1., pp. 190–214, 1999. Mai, Y.H., Horridge, M. and Perkins, F. “Estimating the Effects of China’s Accession to the World Trade Organisation,” paper presented at the 6th Annual Conference on Global Economic Analysis, June 12–14, 2003, Scheveningen, The Hague, Netherlands, 2003. Mansfield, Edwin “Intellectual Property Protection, Foreign Direct Investment and Technology Transfer” IFC Discussion Paper #19, 1994. Markusen, J. “Foreign Direct Investment and Trade”, CIES Policy Discussion Paper #0019, 2000. Markusen, J. “Trade Versus Investment Liberalization”, NBER Working Paper #6231, 1997. Markusen, J., Venables, A., Konan, D. and Zhang, K. “A Unified Treatment of Horizontal Direct Investment, Vertical Direct Investment, and the Pattern of Trade in Goods and Services”, NBER Working Paper #5696, 1996.
+76
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+References
+
+Maskus, Keith E. “Intellectual Property Rights and Foreign Direct Investment” Centre for International Economic Studies Working Paper No. 22, 2000. Matsuyama, Kiminori “Perfect Equilibria in a Trade Liberalization Game,” American Economic Review, pp. 480–92, June 1990. Mayer, Wolfgang “Endogenous Tariff Formation” American Economic Review, Vol. 47, pp. 970–985, 1984. Mayer, Wolfgang “Optimal Pursuit of Safeguard Actions Over Time,” in Alan Deardorff and Robert Stern, eds., Analytical and Negotiating Issues in the Global Trading System, University of Michigan Press: Ann Arbor, 1994. Mayer, Wolfgang “Theoretical Considerations on Negotiated Tariff Adjustments”, Oxford Economic Papers, Vol. 33, pp.135–153, 1981. Mayes, D. and Wang J. “China after WTO Membership – A CGE Analysis of the Impact of Trade Liberalisation” paper prepared for UNU/WIDER Research Programme: “The Impact of the WTO Agreement on Low Income Countries”, 2003. McKibbin, W.J and Tang, K.K. “The Global Economic Impacts of Trade and Financial Reform in China” Brookings Discussion Paper in International Economics No.137, Brookings Institution, Washington, D.C. and World Economy, Vol. 22, 455–476, 1999. Michalopoulos, Constantine “WTO Accession for Countries in Transition” The World Bank, Policy Research Working Paper No. 1934, 1998. Mill, John Stuart “Essays on Some Unsettled Questions of Political Economy” London: Parker, 1844. Miller, M.H., and J.E. Spencer “The Static Economic Effects of the UK Joining the EEC: A General Equilibrium Approach.” The Review of Economic Studies, 1977. Movchan, Veronica “Influence of Tariffs and Non-Tariff Barriers on Ukraine’s Import: Would the WTO Membership Make Change?” Paper presented at the ETSG Conference, Nottingham, UK, September 2004. Mundell, R. “International Trade and Factor Mobility” The American Economic Review, July 1957. The Ministry of Economy and European Integration of Ukraine, USAID Ukraine WTO Accession Project, IBM Global Services and The Services Group “How does a Country Accede to the WTO?”, Kiev, 2004.
+
+77
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+References
+
+Nielsen, Chantal Pohl “Regional and Preferential Trade Agreements: A Literature Review and Identification of Future Steps” Fødevareøkonomisk Institut Report no. 155, 2003. OECD “The Doha Development Agenda: Welfare Gains from Further Multilateral Trade Liberalization with Respect to Tariffs” TD/TC/WP(2003)10/FINAL, Paris: OECD, 2003. Partridge, M.D. and D.S. Rickman “Regional Computable General Equilibrium Modeling: A Survey and Critical Appraisal.” International Regional Science Review, 1998. Partyridge, Mark D. “CGE Modeling for Regional Economic Development Analysis” Draft Book Chapter for “State-of-the-Art in Regional and Urban Modeling”, 2004. Pavel, Ferdinand and Irina Tochitskaya “The Economic Impact of Belarus’ Accession to the WTO: A Quantitative Assessment” IPM Research Center, PP/14/04, 2004. Pavel, Ferdinand, Burakovsky, Igor, Selitska, Natalya and Movchan, Verkonika “Economic Impact of Ukraine’s WTO Accession. First Results From a Computable General Equilibrium Model” IER Working Paper #30, 2004.
+
+Brain power
+
+By 2020, wind could provide one-tenth of our planet’s electricity needs. Already today, SKF’s innovative knowhow is crucial to running a large proportion of the world’s wind turbines. Up to 25 % of the generating costs relate to maintenance. These can be reduced dramatically thanks to our systems for on-line condition monitoring and automatic lubrication. We help make it more economical to create cleaner, cheaper energy out of thin air. By sharing our experience, expertise, and creativity, industries can boost performance beyond expectations. Therefore we need the best employees who can meet this challenge!
+
+The Power of Knowledge Engineering
+
+Plug into The Power of Knowledge Engineering. Visit us at www.skf.com/knowledge
+
+78
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+References
+
+Pereira, A.M., and J.B. Shoven “Survey of Dynamic Computational General Equilibrium Models for Tax Policy Evaluation.” Journal of Policy Modelling, 1988. Piermartini, Roberta and Teh, Robert “Demystifying Modeling Methods for Trade Policy” WTO Discussion Paper # 10, 2005. Prusa, T.J. “Why are so Many Antidumping Petitions Withdrawn?” Journal of International Economics, August 1992. Robinson, Sherman “Macro Models and Multipliers: Leontief, Stone, Keynes, and CGE Models” International Food Policy Research Institute (IFPRI), 2003. Rotemberg, J.J. and G. Saloner “A Supergame-Theoretic Model of Price Wars During Booms” American Economic Review 76, June 1986. Rubinstein, A. “Perfect Equilibrium in a Bargaining Model” Econometrica 50, 1982. Rutherford, Thomas and Tarr, David “Regional Impacts of Russia’s Accession to the WTO” Available at www.worldbank.org/trade/russia-wto, 2006. Rutherford, Thomas, Tarr, David and Oleksandr Shepotylo “Poverty Effects of Russia’s WTO Accession: Modelling “Real” Households and Endogenous Productivity Effects” World Bank Policy Research Working Paper 3473, 2005. Scarf, Robert “On the Computation of Equilibrium Prices,” in “Ten economic studies in the tradition of Irving Fisher.” Ed.: W.J. Fellner NY: Wiley, 1967. Sen, A.K. “Neo-classical and neo-Keynesian theories of distribution” Economic Record, 39:54–64, 1963. Shoven, J.B. “The Incidence and Efficiency Effects of Taxes on Income from Capital.” Journal of Political Economy, 1976. Shoven, J.B. and J. Whalley “A General Equilibrium Calculation of the Effects of Differential Taxation of Income from Capital in the US.” Journal of Public Economics, 1972. Shoven, J.B. and J. Whalley “Applied General Equilibrium models of Taxation and International: An Introduction and Survey.” Journal of Economic Literature, 1984. Shoven, J.B. and J. Whalley “Applying General Equilibrium.” Cambridge: The University Press, 1992.
+
+79
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+References
+
+Staiger Robert W. and F.A. Wolak “The Effect of Domestic Antidumping Law in the Presence of Foreign Monopoly” Journal of International Economics, May 1992. Staiger, R. “International Rules and Institutions for Trade Policy” NBER Working Paper No. 4962, 1994. Stigler, George J. “the Theory of Economic Regulation” Bell Journal of Economics, 2 (1), pp. 359–65, 1971. Suranovic, Steve et al. “A Three-Year Review of the World Trade Organization” The George Washington University, 1998. Szabo, A. Development of the SME sector in the Visegrad Countries. UN Economic Commission for Europe; Russian SME Resource Centre www.docs.rcsme/rus/RC/Statistics, 2000. Taylor, L. (editor) “Socially Relevant Policy Analysis – Structuralist Computable General Equilibrium Models for the Developing World” Massachusetts Institute of Technology, 1990. Taylor, L. “Income Distribution, Inflation, and Growth – Lectures on Structuralist Macroeconomic Theory” Massachusetts Institute of Technology, 1991. Thissen, Mark “A Classification of Empirical CGE Modeling” SOM Research Report 99C01, 1998. Torrens, Robert “Letters on Commercial Policy” London: Longman, 1833. Transparency International Corruption Perceptions Index (CPI), 2005 www.transparency.org. UN Economic Commission for Europe’s Common European Economic Survey www.unece.org. UNCTAD “Back to Basics: Market Access Issues in the Doha Agenda” Geneva: UNCTAD, 2003. Walmsley, T.L. and Hertel, T.W. and Ianchovichina, E. “Assessing the Impact of China’s WTO Accession on Foreign Investment” Pacific Economic Review, Vol. 11, No. 3, pp. 315–339, October 2006. Wang, Z. and Li, S. “The Global and Domestic Impact of China Joining the World Trade Organisation,” GTAP Resource No. 286, 1998. Whalley, J. “A General Equilibrium Assessment of the 1973 UK Tax Reforms.” Economia, 1975. Whalley, J. “The United Kingdom Tax System, 1968-1970: Some Fixed Point Indications of its Economic Impact.” Econometrica, 1977.
+
+80
+Download free eBooks at bookboon.com
+
+Accession to the WTO: Part II
+
+References
+
+Whalley, J. “Trade Liberalization among Major World Trading Areas” The MIT Press, 1985. Willenbockel, D. “The Computable General Equilibrium Approach under Perfect Competition” Applied General Equilibrium Modeling; Imperfect Competition and European Integration, Wiley, Chichester U.K., 1994. World Bank Ukraine Trade Policy Study Report 29684-UA, 2004. World Trade Organization, Information and Media Relations Division “Understanding the WTO”, Geneva, 2005. WTO, WT/ACC/10 “Technical Note on the Accession Process”, 2001. Yang, Y. “China’s WTO Membership: What’s at Stake?” World Economy, Vol. 19, 661–682, 1996. Zhai, F. and Li, S. “China’s WTO Accession and Implications for Its Regional Economies,” manuscript, Development Research Centre, State Council, China, 2000.
+
+Challenge the way we run
+
+EXPERIENCE THE POWER OF FULL ENGAGEMENT… RUN FASTER. RUN LONGER.. RUN EASIER…
+1349906_A6_4+0.indd 1
+
+READ MORE & PRE-ORDER TODAY WWW.GAITEYE.COM
+
+22-08-2014 12:56:57
+
+81
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Accession to the WTO: Part II
+
+Endnotes
+
+5	Endnotes
+1.	 The data will be given mostly for 2008, a year when Ukraine accessed the WTO several commodities. This is not the case for Ukrainian data and production entries will be denoted as “Commodities”. 3.	 Scenarios 1 and 2 show that GDP and household consumption fluctuate very slightly. CGE models show general directions of changes and numbers should not be taken too literally. Thus, further analysis will assume “no change” as the most likely outcome, although what happens if alterations do take place will also be shown. 2.	Sometimes production is divided into activities and commodities, since one activity can produce
+
+82
+Download free eBooks at bookboon.com
+

@@ -1,0 +1,3763 @@
+Mathematics	for	Computer Scientists
+Gareth	J.	Janacek;	Mark	Lemmon	Close
+
+Download	free	books	at
+
+Gareth J. Janacek & Mark Lemmon Close
+
+Mathematics for Computer Scientists
+
+2
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists © 2011 Gareth J. Janacek, Mark Lemmon Close & Ventus Publishing ApS ISBN 978-87-7681-426-7
+
+3
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Contents
+
+Contents
+	 1	 2	 3	 4	 5	 6	 7	 8	 9	 10	 11	 Introduction	 Numbers	 The statement calculus and logic	 Mathematical Induction	 Sets	 Counting	 Functions	 Sequences	 Calculus	 Algebra: Matrices, Vectors etc.	 Probability	 Looking at Data	 5 6 20 35 39 49 56 73 83 98 119 146
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+Introduction
+
+Introduction
+The aim of this book is to present some the basic mathematics that is needed by computer scientists. The reader is not expected to be a mathematician and we hope will ﬁnd what follows useful. Just a word of warning. Unless you are one of the irritating minority mathematics is hard. You cannot just read a mathematics book like a novel. The combination of the compression made by the symbols used and the precision of the argument makes this impossible. It takes time and eﬀort to decipher the mathematics and understand the meaning. It is a little like programming, it takes time to understand a lot of code and you never understand how to write code by just reading a manual - you have to do it! Mathematics is exactly the same, you need to do it.
+
+5
+
+5
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Numbers
+
+Chapter 1 Numbers
+Defendit numerus: There is safety in numbers We begin by talking about numbers. This may seen rather elementary but is does set the scene and introduce a lot of notation. In addition much of what follows is important in computing.
+
+1.0.1
+
+Integers
+1,2,3,4,. . .,101,102, . . . , n, . . . , 232582657 − 1, . . .,
+
+We begin by assuming you are familiar with the integers
+
+sometime called the whole numbers. These are just the numbers we use for counting. To these integers we add the zero, 0, deﬁned as 0 + any integer n = 0 + n = n + 0 = n Once we have the integers and zero mathematicians create negative integers by deﬁning (−n) as: the number which when added to n gives zero, so n + (−n) = (−n) + n = 0. Eventually we get fed up with writing n +(−n) = 0 and write this as n − n = 0. We have now got the positive and negative integers {. . . , −3, −2, −1, 0, 1, 2, 3, 4, . . .} You are probably used to arithmetic with integers which follows simple rules. To be on the safe side we itemize them, so for integers a and b 1. a + b = b + a 2. a × b = b × a or ab = ba 3. −a × b = −ab 7
+
+6
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Numbers
+
+8 4. (−a) × (−b) = ab
+
+CHAPTER 1. NUMBERS
+
+5. To save space we write ak as a shorthand for a multiplied by itself k times. So 34 = 3 × 3 × 3 × 3 and 210 = 1024. Note an × am = an+m 6. Do note that n0=1. Factors and Primes Many integers are products of smaller integers, for example 2 × 3 × 7 = 42. Here 2, 3 and 7 are called the factors of 42 and the splitting of 42 into the individual components is known as factorization. This can be a diﬃcult exercise for large integers, indeed it is so diﬃcult that it is the basis of some methods in cryptography. Of course not all integers have factors and those that do not, such as 3, 5, 7, 11, 13, . . . , 2216091 − 1, . . . are known as primes. Primes have long fascinated mathematicians and others see http://primes.utm.edu/, and there is a considerable industry looking for primes and fast ways of factorizing integers. To get much further we need to consider division, which for integers can be tricky since we may have a result which is not an integer. Division may give rise to a remainder, for example 9 = 2 × 4 + 1.
+
+and so if we try to divide 9 by 4 we have a remainder of 1 . In general for any integers a and b b=k×a+r
+
+where r is the remainder. If r is zero then we say a divides b written a | b. A single vertical bar is used to denote divisibility. For example 2 | 128, 7 | 49 but 3 does not divide 4, symbolically 3 4. Aside To ﬁnd the factors of an integer we can just attempt division by primes i.e. 2, 3, 5, 7, 11, 19, . . . . If it is divisible by k then k is a factor and we try again. When we cannot divide by k we take the next prime and continue until we are left with a prime. So for example: 1. 2394/2=1197 can’t divide by 2 again so try 3
+
+7
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Numbers
+
+9 9 2. 1197/3=399
+
+3. 399/3 = 133 can’t divide by 3 again so try 7 ( not divisible by 5) = 133 can’t divide by 3 again so try 7 ( not divisible by 5) 4. 133/7 = 19 which is prime so 2394 =2 × 3 × 3 × 7 × 19 = 19 which is prime so 2394 =2 × 3 × 3 × 7 × 19 Modular arithmetic rithmetic The mod operator you meet in computer languages simply gives the remainder division. languages For example, erator you meet after in computer simply gives the remainder n. For example, 1. 25 mod 4 = 1 because 25 ÷ 4 = 6 remainder 1.
+
+=399
+
+d 4 = 1 because 25 ÷ 4 = 6 remainder 1. 2. 19 mod 5 = 4 since 19 = 3 × 5 + 4 . d 5 = 4 since 19 = 3 × 5 + 4 . 3. 24 mod 5 = 4. d 5 = 4. 4. 99 mod 11 = 0. d 11 = 0. There are some complications when negative numbers are used, but we will ignore
+
+them. also point out that you will see these results written in a slightly me complications whenWe negative numbers are used, but often we will ignore diﬀerent way i.e.see 24 these = 4 mod 5 or 21 = 0 7. which just means 24 mod 5 = so point out that you will often results written in mod a slightly 45 and 27 = mod 7=7 0. which just means 24 mod 5 = i.e. 24 = 4 mod or 21 0 mod Modular arithmetic is sometimes called clock arithmetic. Suppose we take a od 7 = 0 24 hour so 9 in the morning Suppose is 09.00 and 9 in the arithmetic is sometimes clock called clock arithmetic. we take a evening is 21.00. If I start a journey at 07.00 and it takes 25 hours then arrive at 08.00. We can think k so 9 in the morning is 09.00 and 9 in the evening is 21.00. If II will start of this as 7+25 32 and 32 at mod 24 = 8. can All think we are doing is starting at 7 and 07.00 and it takes 25 hours then= I will arrive 08.00. We (25 hour) clock is face until we to 8. I have always thought this +25 = 32 and 32going mod around 24 = 8.the All we are doing starting atget 7 and is a complex so8. take a simpler d the (25 hour) clock face untilexample we get to I have alwaysversion. thought this Four people sit around a table and we label their positions 1 to 4. We have a example so take a simpler version. point position 1 which we spin. Suppose it spins 11 and three quarters ple sit around a pointer table and we to label their positions 1 to 4. We have a or 47we quarters. The it is 47three mod 4 or 3. t to position 1 which spin. Suppose it pointing spins 11 at and quarters 1 rs. The it is pointing at 47 mod 4 or 3. 1
+
+6 6
+
+4 2
+
+4
+
+K
+
+2
+
+K
+
+3 3
+
+8
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Numbers
+
+10 The Euclidean algorithm
+
+CHAPTER 1. NUMBERS
+
+Algorithms which are schemes for computing and we cannot resist putting one in at this point. The Euclidean algorithm for ﬁnding the gcd is one of the oldest algorithms known, it appeared in Euclid’s Elements around 300 BC. It gives a way of ﬁnding the greatest common divisor (gcd) of two numbers. That is the largest number which will divide them both. Our aim is to ﬁnd a a way of ﬁnding the greatest common divisor, gcd(a, b) of two integers a and b. Suppose a is an integer smaller than b. 1. Then to ﬁnd the greatest common factor between a and b, divide b by a. If the remainder is zero, then b is a multiple of a and we are done. 2. If not, divide the divisor a by the remainder. Continue this process, dividing the last divisor by the last remainder, until the remainder is zero. The last non-zero remainder is then the greatest common factor of the integers a and b.
+
+9
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+Numbers
+
+11 The algorithm is illustrated by the following example. Consider 72 and 246. We have the following 4 steps: 1. 246 = 3 × 72 + 30 or 246 mod 72 = 30 2. 72 = 2 × 30 + 12 or 72 mod 30 = 12 3. 30 = 2 × 12 + 6 or 30 mod 12 = 6 4. 12 = 2 × 6 + 0 so the gcd is 6. There are several websites that oﬀer Java applications using this algorithm, we give a Python function def gcd(a,b): """ the euclidean algorithm """ if b == 0: return a else: return gcd(b, (a%b)) Those of you who would like to see a direct application of some these ideas to computing should look at the section on random numbers
+
+1.0.2
+
+Rationals and Reals
+
+Of course life would be hard if we only had integers and it is a short step to the rationals or fractions. By a rational number we mean a number that can be written as P/Q where P and Q are integers. Examples are 1 2 3 4 7 11 7 6
+
+These numbers arise in an obvious way, you can imagine a ruler divided into ’iths’ and then we can measure a length in ’iths’. Mathematicians, of course, have more complicated deﬁnitions based on modular arithmetic . They would argue that for every integer n, excluding zero, there is an inverse, written 1/n which has the property that 1 1 n× = ×n=1 n n Of course multiplying 1/n by m gives a fraction m/n. These are often called rational numbers. We can manage with the simple idea of fractions.
+
+10
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+12
+
+CHAPTER 1. NUMBERS
+
+Numbers
+
+One problem we encounter is that there are numbers which are neither integers or rationals but something √ else. The Greeks were surprised and confused when it was demonstrated that 2 could not be written exactly √ as a fraction. Technically there are no integer values P and Q such that P/Q = 2. From our point of view we will not need to delve much further into the details, especially as we can get good enough approximation using fractions. For example 22/7 is a reasonable approximation for π while 355/113 is better. You will ﬁnd people refer to the real numbers, sometimes written R, by which they mean all the numbers we have discussed to date. Notation As you will have realized by now there is a good deal of notation and we list some of the symbols and functions you may meet. • If x is less than y then we write x < y. If there is a possibility that they might be equal then x ≤ y. Of course we can write these the other way around. So y > x or y ≥ x. Obviously we can also say y is greater than x or greater than or equal to x • The ﬂoor function of a real number x, denoted by x or floor(x), is a function that returns the largest integer less than or equal to x. So 2.7 = 2 and −3.6 = −4. The function floor in Java and Python performs this operation. There is an obvious(?) connection to mod since b mod a can be written b − floor(b ÷ a) × a. So 25 mod 4 = 25 − 25/4 × 4 = 25 − 6 × 4 = 1
+
+11
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+13
+
+Numbers
+
+• A less used function is the ceiling function, written x or ceil(x) or ceiling(x), is the function that returns the smallest integer not less than x. Hence 2.7 = 3. • The modulus of x written | x | is just x when x ≥ 0 and −x when x < 0. So | 2 |= 2 and | −6 |= 6. The famous result about the modulus is that for any x and y | x + y |≤| x | + | y | • We met ab when we discussed integers and in the same way we can have xy when x and y are not integers. We discuss this in detail when we meet the exponential function. Note however – a0=1 for all a = 1 – 0b = 0 for all values of b including zero.
+
+1.0.3
+
+Number Systems
+
+We are so used to working in a decimal system we forget that it is a recent invention and was a revolutionary idea. It is time we looked carefully at how we represent numbers. We normally use the decimal system so 3459 3459isis shorthand for 3 ++ 44× shorthand for 3 x 1000 x 100 510 ++ 99. . The position of the digit is vital as it enables us to distinguish between 100 ++ 5x 30 and 3. The decimal system is a positional numeral system; it has positions for units, tens, hundreds and so on. The position of each digit implies the multiplier (a power of ten) to be used with that digit and each position has a value ten times that of the position to its right. Notice we may save space by writing 1000 as 103 the 3 denoting the number of zeros. So 100000 = 105. If the superscript is negative then we mean a fraction e.g 103 = 1/1000. Perhaps the cleverest part of the positional system was the addition of the decimal point allowing us to include decimal fractions. Thus 123.456 is equivalent to 1 × 100 + 2 × 10 + 3 + numbers after the point + 4 × 1/10 + 5 × 1/100 + 6 × 1/1000 Multiplier digits . . . 102 101 100 ... 1 2 3 . 10−1 10−2 10−3 . . . . 4 5 6 ... ↑ decimal point
+
+However there is no real reason why we should use powers of 10, or base 10. The Babylonians use base 60 and base 12 was very common during the middle ages in Europe. Today the common number systems are
+
+12
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+14
+
+CHAPTER 1. NUMBERS
+
+Numbers
+
+• Decimal number system: symbols 0-9; base 10 • Binary number system:symbols symbols 0,1; base 2 • Hexadecimal number system:symbols 0-9,A-F; base 16 here A ≡ 10 , B ≡ 11 , C ≡ 12 , D ≡13 E ≡ 14 , F≡ 15. • Octal number system: symbols 0-7; base 8 Binary In the binary scale we express numbers in powers of 2 rather than the 10s of the decimal scale. For some numbers this is easy so, if recall 20 = 1, Decimal number 8 7 6 5 4 3 2 1 in powers of 2 = = = = = = = = 23 22 + 21 + 20 22 + 21 22 + 20 22 21 + 20 21 20 power of 3 2 1 1 0 0 0 1 1 0 1 1 0 1 0 0 1 0 0 0 1 0 0 1 0 0 0 2 Binary number 0 0 1000 1 111 0 110 1 101 0 100 1 11 0 10 1 1
+
+As in decimal we write this with the position of the digit representing the power, the ﬁrst place after the decimal being the 20 position the next the 21 and so on. To convert a decimal number to binary we can use our mod operator. As an example consider 88 in decimal or 8810. We would like to write it as a binary. We take the number and successively divide mod 2. See below Step number n 0 1 2 3 4 5 6 xn 88 44 22 11 5 2 1 xn/2 44 22 11 5 2 1 0 xn mod 2 0 0 0 1 1 0 1
+
+Writing the last column in reverse, that is from the bottom up, we have 1011000 which is the binary for of 88, i.e.8810 = 10110002.
+
+13
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+15
+
+Numbers
+
+Binary decimals are less common but quite possible, thus 101.1011 is just 2 + 20 + 2−1 + 2−3 + 2−4 which is, after some calculation 5.6875. We have see how to turn the integer part of a decimal number into a binary number and we can do the same with a decimal fraction. Consider 0.6875. As before we draw up a table
+2
+
+Step number n 0 1 2 3
+
+xn xn × 2 0.6875 1.375 0.375 0.75 0.75 1.5 0.5 1
+
+xn × 2 1 0 1 1
+
+giving reading down 0.687510 = 10112 Beware it is possible to get into a non-ending cycle when we have a non terminating decimal. For example 0.4. Step number n 0 1 2 3 4 3 4 xn xn2 0.4 0.8 0.8 1.6 0.6 1.2 0.2 0.4 0.4 0.8 0.8 1.6 ... xn × 2 0 1 1 0 0 1 ...
+
+← here we repeat
+
+so 0.410 = 0.0110011001100 . . .2
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+14
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+16
+
+CHAPTER 1. NUMBERS
+
+Numbers
+
+• Addition in binary – 0+0 = 0 – 0+1 = 1 – 1+1 = 10 so we carry 1 and leave a zero – 1+1+1 = 1+(1+0)=1+10=11 . We can write this in very much the same way as for a decimal addition 1 1 1 ↑ 1 0 0 1 0 0 1 1 0 ↑ 0 1 1 0 1 1 Sum
+
++ 1
+
+the right hand uparrow show where we carry a 1. The left hand one shows where we have 1 + 1 + 1 so we carry a 1 and have a 1 left over • To subtract 1 1 0 1 0 1 1 0 1 1 1 0 0 0 0 1 1 1
+
+diﬀerence
+
+Multiplication in decimal 1 × 1 3 4 2 5 6 3 7 2 4 3 7 8 8 7 4 6 4 8 6 Multiplicand Multiplier times 7 Shift left one and times 8 Shift left two and times 3 Add to get product
+
+8 7 9 0 0 5 4 7 7 0 3 8 6 3 7
+
+Multiplication in binary 1 × 0 0 1 1 1 1 0 0 1 1 0 0 1 1 0 0 1 Multiplicand Multiplier times 1 Shift left one and times 0 Shift left two and times 1 0 Add to get the product
+
+1 0 0 1 0 0 0 0 0 1 0 0 1 1 1 1 1 0 0 0 0
+
+As you can see multiplication in binary is easy.
+
+15
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+17
+
+Numbers
+
+Octal Base 8 or octal does not bring any new problems. We use the symbols 0, 1, 2,. . . ,7 and the position denotes the power of 8. So 128 is 1 × 8 + 2 = 10 in decimal, while 30218 is 3 × 83 + 0 × 82 + 2 × 8 + 1 × 80 = 1536 + 16 + 1 = 1553 in decimal. Obviously we do not need the symbol for 9 as 910 = 8 + 1 = 118 in octal. To convert a decimal number to octal we can use our mod operator as we did in the binary case. As an example consider 1553 in decimal or 155310. We would like to write it as an octal number. We take the number and successively divide mod 8. See below Step number n 0 1 2 3 xn 1553 194 24 3 xn/8 194 24 3 0 xn mod 8 1 2 0 3
+
+Writing the last column in reverse we have 3021 which is the octal number we require since 3 × 83 + 0 × 82 + 2 × 8 + 1 × 80 = 1553 There is a simple link between octal and binary if we notice that 7 = 22 + 21 + 20 = 1112 3 = 21 + 20 = 112 6 = 22 + 21 = 1102 2 = 21 = 102 2 0 5 = 2 + 2 = 1012 1 = +21 = 12 4 = 22 = 1002 0 = 02 You might like to check that 1553 is 11000010001 in binary. Separating this into blocks of 3 gives 11 000 010 001 If we use our table to write the digit corresponding to each binary block of 3 we have 3021
+
+16
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+18
+
+CHAPTER 1. NUMBERS
+
+Numbers
+
+which is our octal representation! As in the binary case we can also have octal fractions, for example 0.30128. This is a way of representing 3 × 1/81 + 0 × 1/82 + 1 × 1/83 + 2 × 1/84 To convert 0.30128 to decimal we proceed as for the binary case only here we use 8 rather that 2 to give Step number n 0 1 2 3 4 5 6 7 8 9 10 11. 12 13 14 15 16 17 18 xn 0.3012 0.4096 0.2768 0.2144 0.7152 0.7216 0.7728 0.1824 0.4592 0.6736 0.3888 0.1104002 0.8832016 0.06561279 0.5249023 0.1992188 0.59375 0.75 0 8 × xn 2.4096 3.2768 2.2144 1.7152 5.72165 5.7728 6.1824 1.4592 3.6736 5.3888 3.1104 0.8832016 7.0656128 0.52490234 4.1992188 1.5937500 4.75000 6.00 0 8xn 2 3 2 1 5 5 6 1 3 5 3 0 7 0 4 1 4 6
+
+giving reading down 0.30128 = 0.23215561353070414610 hexadecimal Base 16 is more complicated because we need more symbols. We have the integers 0 to 9 and we also use A ≡ 10 , B ≡ 11 , C ≡ 12 , D ≡13 E ≡ 14 , F≡ 15. So 12316 is 1 × 162 + 2 × 161 + 3 in decimal and A2E16 is 10 × 162 + 2 × 161 + 14 in decimal. The good thing about hex is that each of the symbols corresponds to a 4 digit binary sequence ( if we allow leading zeros). This means we can easily translate from hex to binary as below 0101111010110101001022 = 0101 1110 1011 0101 0010 = 5 E B 5 216 = 5EB5216
+
+17
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+19
+
+Numbers
+
+exercises 1. Factorize (a) 3096 (b) 1234 (c) 24 − 1 2. It was thought that 2p − 1 was prime when p is a prime. Shown that this is not true when p = 11 3. Find the gcd for 3096 and 1234. 4. Write the following decimal numbers in binary (a) 25610 (b) 24 − 1 (c) 549 (d) 12.34
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+18
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+20
+
+CHAPTER 1. NUMBERS
+
+Numbers
+
+5. Convert the following binary numbers into decimal numbers and explain your answers. (a) 101.0012 (b) 1011112 (c) 0.101012 (d) 11.00012 (e) 10012 (f) 0.112 6. Convert the following decimal numbers into binary numbers and explain your answers. (a) 5010 (b) 7010 (c) 6410 (d) 39.5610 (e) 20.62510 (f) 13.1110 (8 signiﬁcant digits ) 7. Add the following numbers in binary and explain your answers. (a) 1112 + 1112 (b) 11102 + 112 (c) 111012 + 110012 8. Multiply the following numbers in binary and explain your answers. (a) 11102 ×112
+
+(b) 1112 ×1012
+
+19
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+The statement calculus and logic
+
+Chapter 2 The statement calculus and logic
+“Contrariwise,” continued Tweedledee, “if it was so, it might be; and if it were so, it would be; but as it isn’t, it ain’t. That’s logic. Lewis Carroll You will have encountered several languages - your native language or the one in which we are currently communicating( English) and other natural languages such as Spanish, German etc. You may also have encountered programming languages like Python or C. You have certainly met some mathematics if you have got this far. A language in which we describe another language is called a metalanguage. For almost all of mathematics, the metalanguage is English with some extra notation. In computing we need to deﬁne, and use, languages and formal notation so it is essential that we have a clear and precise metalanguage. We begin by looking at some English expressions which we could use in computing. Most sentences in English can be thought of as a series of statements combined using connectives such as “and”, “or”, “if . . . then . . .” For example the sentence “if it is raining and I go outside then I get wet” is constructed from the three simple statements: 1. “It is raining.” 2. “I go outside.” 3. “I get wet.” Whether the original sentence is true or not depends upon the truth or not of these three simple statements. If a statement is true we shall say that its logical value is true, and if it is false, its logical value is false. As a shorthand we shall use the letter T for true and F for false. 21
+
+20
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+22
+
+CHAPTER 2. THE STATEMENT CALCULUS AND LOGIC
+
+The statement calculus and logic
+
+We will build compound statements from simple statements like “it is raining”, “it is sunny” by connecting them with and and or In order to make things shorter and we hope more readable, we introduce symbolic notation. 1. Negation will be denoted by ¬. 2. “and” by ∧. 3. “or” by ∨. We now look at these connectives in a little more detail. Negation ¬ The negation of a statement is false when the statement is true and is true if the statement is false. So a statement and its negation always have diﬀerent truth values. For example “It is hot” and “It is not hot.” In logic you need to be quite clear about meanings so the negation of, “All computer scientists are men” is “Some computer scientists are men” NOT “No computer scientists are men.” The ﬁrst and third statement are both false!
+
+21
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+The statement calculus and logic
+
+23
+
+In symbolic terms if p is a statement, say “ it is raining” , then ¬p is its negation. That is ¬p is the statement “it is not raining”. We summarize the truth or otherwise of the statements in a truth table, see table 2.1. p ¬p T F F T Table 2.1: Truth table for negation (¬)
+
+In the truth table 2.1 the ﬁrst row reads in plain English - “If p is true then ¬p is false” and row two “If p is false then ¬p is true’. Conjunction ∧ Similarly, if p and q are statements, then p ∧ q is read as “p and q” . This (confusingly) is called the conjunction of p and q. So if p is the statement “ it is green” while q is the statement ” it is an apple” then p ∧ q is the statement “It is green and it is an apple ” We often write this in the shorter form: If p=“ it is green” and q = ” it is an apple” then p ∧ q = “It is green and it is an apple ” Clearly this statement is true only when both p and q are true. If either of them is false then the compound statement is false. It will be helpful if we have a precise deﬁnition of ∧ and we can get one using a truth table. p T T F F q p∧q T T F F T F F F
+
+Table 2.2: The truth table for ∧ From table 2 we see that if p and q are both true then p ∧ q is also true. If p is true and q is false then p ∧ q is false.
+
+22
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+24
+
+CHAPTER 2. THE STATEMENT CALCULUS AND LOGIC
+
+The statement calculus and logic
+
+Disjunction ∨ Suppose we now look at “or”. In logic we use p ∨ q as a symbolic way of writing p or q. The truth table in this case is given in table 2.3 This version of “or” , which p T T F F q p∨q T T F T T T F F
+
+Table 2.3: The truth table for ∨ is the common one used in logic is sometimes known as the “inclusive or” because we can have p ∨ q true if either one of p and q is true or if both are true. You could of course deﬁne the exclusive or , say ≡ as having the truth table in 2.4 p T T F F q p≡q T F F T T T F F
+
+Table 2.4: The truth table for ≡
+
+The Conditional ⇒ • p implies q • If p then q • q if p
+
+A rather more interesting connective is “implies” as in p “implies” q. This can be written many ways, for example
+
+• p is a suﬃcient condition for q I am sure you can think of other variants. We shall use the symbolic form p ⇒ q and the truth table for our deﬁnition is given in table 2.5.
+
+23
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+The statement calculus and logic
+
+25 p T T F F q p⇒q T T F F T T F T
+
+Table 2.5: The truth table for ⇒ We sometimes call p the hypothesis and q the consequence or conclusion. Many people ﬁnd it confusing when they read that “ p only if q” is the same as “If p then q”. Notice that “ p only if q” says that p cannot be true when q is not true, in other words the statement is false if p is true but q is false. When p is false q may be true or false. You need to be aware that “ q only if p” is NOT a way of expressing “ p ⇒ q. We see this by checking the truth values. The truth value in line 3 of table 2.5 is the critical diﬀerence. You might like to check that “ ¬p ∨ q is equivalent to p ⇒ q, see the table below p ¬p T F T F F T F T q ¬p ∨ q T T F F T T F T
+
+Notice that our deﬁnition of implication is rather broader than the usual usage.
+
+Table 2.6: The truth table for ⇒
+
+24
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+26
+
+CHAPTER 2. THE STATEMENT CALCULUS AND LOGIC
+
+The statement calculus and logic
+
+Typically you might say “if the sun shines today we will have a barbecue” . The hypothesis and the conclusion are linked in some sensible way and the statement is true unless it is sunny and we do not have a barbecue. By contrast the statement “If the sun shines today 19 is prime” is true from the deﬁnition of an implication because the conclusion is always true no matter if it is sunny or not. If we consider “if the sun shines today 8 is prime” The statement is obviously false if today is sunny because 8 is never prime. However the whole statement is true when the sun does not shine today even though 8 is never prime. Of course we are unlikely to make statements like these in real life. The Biconditional ⇐⇒
+
+Suppose p and q are two statements. Then the statement “p if and only if q” is called the biconditional and denoted by p ⇐⇒ q or iﬀ. Yes there are two f’s! It is true only when p and q have the same logical values, i.e., when either both are true or both are false. You may also meet the equivalent • p iﬀ q The truth table is shown in ﬁgure 2.7. For example we might say p T T F F q p ⇐⇒ q T T F F T F F T • p is necessary and suﬃcient for q
+
+You can go to the match if and only if you buy a ticket. This sort of construction is not very common in ordinary language and it is often hard to decide whether a biconditional is implied in ordinary speech. In mathematics or computing you need to be clear if you are dealing with implication p ⇒ q or the biconditional p ⇐⇒ q
+
+Table 2.7: The truth table for ⇐⇒
+
+25
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+The statement calculus and logic
+
+27
+
+Converse, contrapositive and inverse Propositional logic has lots of terminology. So If p ⇒ q then • q ⇒ p is the converse. • ¬q ⇒ ¬p is the contrapositive. • ¬p ⇒ ¬q is the inverse.
+
+Truth tables
+
+It is probably obvious that we aim to use logic to help us in checking arguments. We hope to be able to translate from English to symbols. Thus if p is “John learns to cook” and q is “ John will ﬁnd a job” then p ⇒ q represents . ”If John learns to cook” and then John will ﬁnd a job” In problems like these the truth table, while cumbersome can be very helpful in giving a mechanical means of checking the truth values of arguments. To construct tables for compound statements such as p ∨ ¬q ⇒ (p ∧ q) we need to think about the order we work out the truth values of symbols. The table 2.8 gives the order of precedence. Precedence Operator 1(Highest) 2 ¬ ∧ 3 ∨ 4 5(Lowest) ⇒ ⇐⇒
+
+Table 2.8: Operator precedence
+
+So we negate ﬁrst, then and etc. As in algebra we also use brackets to indicate that we evaluate the terms in brackets ﬁrst. Thus for (p ∨ q) ∧ r we evaluate the term in brackets (p ∨ q) ﬁrst. Thus p T T F F q T F T F (p ∨ q) T T T F 1 ¬p F F T T 2 (p ∨ q) ∨ ¬p T T T T 3
+
+precidence
+
+The vital point about logical statements and about truth tables is : Two symbolic statements are equivalent if they have the same truth table. and two statements p1 and p2 are equivalent, we will write p1 ⇐⇒ p2.
+
+26
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+The statement calculus and logic
+
+28
+
+CHAPTER 2. THE STATEMENT CALCULUS AND LOGIC
+
+Thus, for example, the statements (p ∨ q) ∧ ¬p and ¬p ∧ q are equivalent. We can deduce this from the truth tables, see table 2.9 p T T F F q p∨q T T F T T T F F p F F T T (p ∨ q) ∧ ¬p F F T F p ¬p T F T F F T F T q ¬p ∧ q T F F F T T F F
+
+Table 2.9: The truth tables for (p ∨ q) ∧ ¬p and(¬p ∧ q)
+
+The reader can use truth table to verify the following equivalences. 1. ¬(p ∨ q) ⇐⇒ ¬p ∧ ¬q One can avoid writing truth tables in table 2.9 and verify the ﬁrst equivalence as follows: p ∨ q is false only when both p and q are false. Therefore ¬(p ∨ q) is true only when both p and q are false. Similarly, ¬p ∧ ¬q is true only when both ¬p and ¬q are true, which is when p and q are false. This proves the equivalence. Exercise Construct truth tables for 1. ¬(p ∧ q) 2. ¬(p ∨ q) ∧ ¬(q ∨ p) 3. (p ⇒ q) ∧ (q ⇒ r) ⇒ (p ⇒ r) 5. (p ∨ q ⇒ r) ∧ (r ⇒ s) ⇒ (p ⇒ r) 4. (p ∨ q ⇒ r) ∧ (r ⇒ s) 2. ¬(p ∧ q) ⇐⇒ ¬p ∨ ¬q
+
+27
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+The statement calculus and logic
+
+29
+
+Arguments We now look brieﬂy at logical arguments and begin with some deﬁnitions. Deﬁnition: • A statement that is always true is called a tautology. • A statement that is always false is called a contradiction. So a statement is 1. A tautology if its truth table has no value F. 2. A contradiction if its truth table has no value T. Notice you may ﬁnd some writers who say that a formula ( in the statement calculus we have just described ) is valid rather than use the term tautology. The symbol A is often used as a shorthand for “A is a tautology” or “ A is valid”. Examples 1. The statement p ∨ ¬p is a tautology, while the statement p ∧ ¬p is a contradiction. 2. The statement ((p ∨ q) ∧ p) ⇐⇒ p is a tautology.
+
+Deﬁnition 1: Given two statements p1 and p2 we say that p1 implies p2 if p1 ⇒ p2 is a tautology. In everyday life we often encounter situations where we make conclusions based on evidence. In a courtroom the fate of the accused may depend the defence proving that the opposing side’s arguments are not valid. A typical task in theoretical sciences is to logically come to conclusions given premises. That is to provide principles for reasoning. A scientist might say “if all the premises are true then we have the following conclusion.” Thus they would assert that the conditional “if all the premises are true then we have the following conclusion” is a tautology, or that the premises imply his/her conclusion. If his/her reasoning is correct we say that his argument is valid.
+
+3. Two statements p1 and p2 are equivalent when p1 ⇐⇒ p2 is a tautology, and so p1 ≡ p2 when p1 ⇐⇒ p2 is a tautology.
+
+28
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+30
+
+CHAPTER 2. THE STATEMENT CALCULUS AND LOGIC
+
+The statement calculus and logic
+
+Deﬁnition 2: A conditional of the form ( a conjunction of statements) implies c where c is a statement, is called an argument. Symbolically p1, p2, . . . , pm ⇒ c
+
+The statements in the conjunction on the left side of the conditional are called premises, while c is called the conclusion. An argument is valid if it is a tautology, that is, if the premises imply the conclusion ( every line of the truth table is T), otherwise it is invalid. So we might have a sequence of premises p1, p2, p3, . . . , pm for which c is a valid consequence, symbolically p1, p2, p3, . . . , pm c You should note that 1. A conjunction of several statements is true only when all the statements are true. 2. A conditional is false only when the antecedent ( the left hand side) is true and the consequent ( the right hand side) is false. 3. Therefore, an argument is invalid only when there is a situation where all the premises are true, but the conclusion is false. If such a situation cannot occur, the argument is valid. Exercise s: 1. Is the following argument valid? All birds are mammals and the platypus is a bird. Therefore, the platypus is a mammal. Note the premises may be wrong but we are interested in the argument. 2. Sketch how you might show that the statements below below imply that “It rained”. Beware this is a big truth table so you are probably best to ensure you understand the method. If it does not rain or if it is not foggy then the regatta will be held and the lifeboat demonstration will go on. If the regatta is held then the trophy will be awarded. and
+
+29
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+The statement calculus and logic
+
+31 the trophy was not awarded. 3. Show that the following argument is valid. Blodwin works hard. If Blodwin works hard then she is a dull girl. If Blodwin is a dull girl she will not get the job therefore Blodwin will not get the job. So far we have used truth tables only to determine the validity of arguments that are given in symbolic form. However, we can do the same with other arguments by ﬁrst rewriting them in symbolic form. This is illustrated in the following example. Either I shall go home or stay and have a drink. I shall not go home. Therefore I stay and have a drink. Suppose p= I shall go home and q = I shall stay and have a drink. The argument is ¬p ⇒ q. p ¬p T F T F F T F T q ¬p ⇒ q T T F F T T F F
+
+From the truth table table 2.10 we have a F and so the argument is not valid is , we do not have a tautology. We summarize the process of determining the validity of arguments as follows.
+
+Table 2.10: The truth table for ⇒
+
+30
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+32
+
+CHAPTER 2. THE STATEMENT CALCULUS AND LOGIC
+
+The statement calculus and logic
+
+2.0.4
+
+Analyzing Arguments Using Truth Tables
+
+• Step 1: Translate the premises and the conclusion into symbolic form. • Step 2: Write the truth table for the premises and the conclusion. • Step 3: Determine if there is a row in which all the premises are true and the conclusion is false. If yes, the argument is invalid, otherwise it is valid. However truth table can become unwieldy if we have several premises. Consider the following p, r, (p ∧ q) → ¬r ¬q
+
+Given we have p, q and r we need 8 rows (23) in our table 2.11 as we need all combinations of p, q and r. If we examine line 3 in table 2.11 we can see that when p, r, (p ∧ q) → ¬r are all true ( we can ignore q ) then the result ¬q is true and we have a tautology. p T T T T F F F F q r T T T F F T F F T T T F F T F F p ∧ q ⇒ ¬r F T T T T T T T ¬q F F T T T F T T
+
+←
+
+Table 2.11: Truth table with p, q and r Now suppose we have p, q, r, s and t. Our table will have 25 = 32 rows. Take as an example : If I go to my ﬁrst class tomorrow , then I must get up early, and if I go to the dance tonight, I will stay up late. If I stay up late and get up early, then I will be forced to exist on only ﬁve hours sleep. I cannot exist on ﬁve hours of sleep. Therefore I must either miss my ﬁst class tomorrow or not go to the dance. • Let p be “ I go to my ﬁrst class tomorrow” • Let q be “ I must get up early” • Let r be “ I go to the dance ” • Let s be “ I stay up late ”.
+
+31
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+The statement calculus and logic
+
+33
+
+• Let t be “I can exist on ﬁve hours sleep”. The premises are and the conclusion is ¬p ∨ ¬r. We will prove that ¬p ∨ ¬r is a valid consequence of the premises. Of course we could write out a truth table, however we can try to be cunning. 1. Take the consequence ¬p ∨ ¬r and assume that it is FALSE. 2. Then both p and r must be TRUE. 3. The ﬁrst premise (p ⇒ q) ∧ (r ⇒ t) implies that q and t are true. 5. Thus our premise is valid. I think you might agree that this is a good deal shorter than using truth tables!. Exercises Show that 1. 2. (p ⇒ q) ⇒ ((q ⇒ r)) ⇒ (p ⇒ r)) p ⇒ (¬q ⇒ ¬p) ⇒ q) p ⇒ q ⇐⇒ ¬p ∨ q (p ⇒ q) ∧ (r ⇒ t), s ∧ q ⇒ t, ¬t
+
+4. So t is true and the last premise is ¬t is assumed TRUE so we have a contradiction.
+
+We add some tables of tautologies which enable us to eliminate conditionals and biconditionals. 1. 2. 3. 4. 5.
+
+p ⇒ q ⇐⇒ ¬(p ∨ ¬q) p ∨ q ⇐⇒ ¬p → q
+
+p ∨ q ⇐⇒ ¬(p ⇒ ¬q) p ∨ q ⇐⇒ ¬p → q
+
+32
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+34
+
+CHAPTER 2. THE STATEMENT CALCULUS AND LOGIC
+
+The statement calculus and logic
+
+6.
+
+p ∨ q ⇐⇒ ¬p → q p ∧ q ⇐⇒ ¬(p ⇒ ¬q) p ∧ q ⇐⇒ ¬(¬p ∨ ¬q) (p ⇐⇒ q) ⇐⇒ (p ⇒ q) ∧ (q ⇒ p)
+
+7.
+
+8.
+
+9.
+
+Normal forms A statement is in disjunctive normal form (DNF) if it is a disjunction i.e. a sequence of ∨’s consisting of one or more disjuncts. Each disjuncts is a conjunction, ∧, of one or more literals (i.e., statement letters and negations of statement letters. For example 1. p 2. (p ∧ q) ∨ (p ∧ ¬r) 3. (p ∧ q ∧ ¬r) ∨ (p ∧ ¬q) 4. p ∨ (q ∧ r) However ¬(p ∨ q) is not a disjunctive normal form(¬ is the outermost operator) nor is p ∨ (q ∧ (r ∨ s) as a ∨ is inside a ∧. Converting a formula to DNF involves using logical equivalences, such as the double negative elimination, De Morgan’s laws, and the distributive law. All logical formulas can be converted into disjunctive normal form but conversion to DNF can lead to an explosion in the size of of the expression. A formula is in conjunctive normal form (CNF ) if it is a conjunction of clauses, where a clause is a disjunction of literals. Essentially we have the same form as a DNF but we use ∧ rather than ∨. As a normal form, it is useful ( as is the DNF) in theorem proving. We leave with some ideas which are both important and common in mathematics.
+
+33
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+The statement calculus and logic
+
+35
+
+2.0.5
+
+Contradiction and consistency
+
+We say a contradiction is a formula that always takes the value F, for example p ∧ ¬p. Then a set of statements p1, p2, . . . , pn is inconsistent if a contradiction can be drawn as a valid consequence of this set. p1, p2, . . . , pn q ∧ ¬q for some formula b if a contradiction can be derived as a valid consequence of p1, p2, . . . , pn q and ¬q Mathematics is full of proofs by contradiction or Reductio ad absurdum (Latin for ”reduction to the absurd”). For example There are inﬁnitely many prime numbers. Assume to the contrary that there are only ﬁnitely many prime numbers, and all of them are listed as follows: n1, n2 . . . , pm. Consider the number q = n 1 × n 2 × . . . × pm + 1 Then the number q is either prime or composite. If we divided any of the listed primes ni into q, there would result a remainder of 1 for each i = 1, 2, ..., m Thus, q cannot be composite. We conclude that q is a prime number, not among the primes listed above, contradicting our assumption that all primes are in the list n1, n2 . . . , nm. Thus there are and inﬁnite number of primes. there is no smallest rational number greater than 0 Remember that a ration can be written as the ratio of two integers p/q say. Assume n0 = p/q is the smallest rational bigger that zero. Consider n0/2. It is clear that n0/2 < n0 and n0 is rational. Thus we have a contradiction and can assume that there is no smallest rational number greater than 0.
+
+34
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Mathematical Induction
+
+Chapter 3 Mathematical Induction
+I have hardly ever known a mathematician who was capable of reasoning. Plato (427 BC - 347 BC), The Republic The integers , 1, 2, 3, 4, . . . are also known as the natural numbers and Mathematical induction is a technique for proving a theorem, or a formula, that is asserted about every natural number. Suppose for example we believe 1 + 2 + 3 + ... + n = n(n + 1)/2 that is the sum of consecutive numbers from 1 to n is given by the formula on the right. We want to prove that this will be true for all n. As a start we can test the formula for any given number, say n = 3: 1 + 2 + 3 = 3 × 4/2 = 6 It is also true for n = 4 1 + 2 + 3 + 4 = 4 × 5/2 = 10 But how are we to prove this rule for every value of n? The method of proof we now describe is called the principle of mathematical induction. The idea is simple. Suppose we have some statement that is true for a particular natural number n and we want to prove that it is true for every value of n from 1, 2, 3, . . . If all the following are true 1. When a statement is true for some natural number n, say k. 2. When it is also true for its successor, k + 1. 3. The statement is true for some value n, usually n = 1. 37
+
+35
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+38
+
+CHAPTER 3. MATHEMATICAL INDUCTION
+
+Mathematical Induction
+
+then the statement is true for every natural number n. This is because, when the statement is true for n = 1, then according to 2, it will also be true for 2. But that implies it will be true for 3; which implies it will be true for 4. And so on. Hence it will be true for every natural number and thus is true for all n. To prove a result by induction, then, we must prove parts 1, 2 and 3 above. The hypothesis of step 1 “The statement is true for n = k” is called the induction assumption, or the induction hypothesis. It is what we assume when we prove a theorem by induction. Example Prove that the sum of the ﬁrst n natural numbers is given by this formula: Sn = 1 + 2 + 3 + ... + n = n(n + 1)/2 We will call this statement Sn, because it depends on n. Now we do steps 1 and 2 above. 1. First, we will assume that the statement is true for n = k that is, we will assume that Sk is true so Sk = 1 + 2 + 3 + ... + k = k(k + 1)/2 Note this is the induction assumption. 2. Assuming this, we must prove that S(k+1) is also true. That is, we need to show: S(k+1) = 1 + 2 + 3 + ... + (k + 1) = (k + 1)(k + 2)/2 To do that, we will simply add the next term (k + 1) to both sides of the induction assumption, S(k+1) = S(k+1) + (k + 1) = 1 + 2 + 3 + . . . + (k + 1) = k(k + 1)/2 + (k + 1) = (k + 1)(k + 2)/2 This is line 2, which is we wanted to show. 3. Next, we must show that the statement is true for n = 1. We have S(1) = 1 = 1 × 2/2. The formula therefore is true for n = 1. We have now fulﬁlled both conditions of the principle of mathematical induction. Sn is therefore true for every natural number.
+
+36
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Mathematical Induction
+
+39
+
+Example We prove that 8n − 3n is divisible by 5 for all n ∈ N. The proof is by mathematical induction. 1. Assume the result holds for n = k, that is 8k − 3k mod 5 = 0. Then 8k+1 − 3k+1 = 8 × 8k − 3 × 3k. 2. Now the clever step 8k+1 − 3k+1 = 8 × 8k − 3 × 3k = 3 × 8k − 3 × 3k + 5 × 8k = 3 × (8k − 3k) + 5 × 8k But 8k − 3k is divisible by 5 (by the induction hypothesis) and 5 × 8k is obviously a multiple of 5. Therefore it follows that (8k+1 − 3k+1) is divisible by 5. Hence, the result holds for n = k + 1. 3. The result holds for n = 1 because 8 − 3 = 5 and so is divisible by 5. So we have shown that the result holds for all n - by induction.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+37
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+40
+
+CHAPTER 3. MATHEMATICAL INDUCTION
+
+Mathematical Induction
+
+Another Example We prove this rule of exponents: (ab)n = anbn, for every natural number n. Call this statement S(n) and assume that it is true when n = k; that is, we assume S(k) = (ab)k = akbk is true. We must now prove that S(k + 1) is true, that is S(k + 1) = (ab)k+1 = ak+1bk+1 Simply by multiplying both sides of line (3) by ab gives : (ab)kab = akbkab = akabkb since the order of factors does not matter, (ab)kab = ak+1bk+1. Which is what we wanted to show. So, we have shown that if the theorem is true for any speciﬁc natural number k, then it is also true for its successor, k + 1. Next, we must show that the theorem is true for n = 1 which is trivial since (ab)1 = ab = a1b1. This theorem is therefore true for every natural number n. Exercises In each of the following 0 ≤ n is an integer 1. Prove that n2 + n is even. 2. Prove that
+n 2 i=1 n
+
+= n(n + 1)(2n + 1)/6.
+
+3. Prove that 1 + 4 + 7 + . . . + (3n − 2) = n(3n − 1)/2. 4. Prove that n! ≥ 2n when n > 1
+
+38
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Sets
+
+Chapter 4 Sets
+Philosophers have not found it easy to sort out sets . . . D. M. Armstrong, It is useful to have a way of describing a collection of “things” and the mathematical name for such a collection is a set. So the collection of colours {Red,Blue, Green } is a set we might call A and write as A={Red, Blue, Green } . Other examples are 1. {1, 3, 7, 14} 2. {1, 2, 3, 5, 7, 11 . . .} the set of all prime numbers. 3. { Matthew, Mark, Luke, John} 4. {k : k is an integer and k is divisible by 4} here the contents are deﬁned by a rule. 5. { All songs available on iTunes} again the contents are deﬁned by a rule. We do not care about the order of the elements of a set so {1, 2, 3} is the same as {3,2,1}. Of course we may want to do things with sets and there is a whole mathematical language attached as you might expect. For example you will often see the statement a belongs to the set A written as a ∈ A. The symbol ∈ / is, of course, the converse i.e. does not belong to. So • Mark ∈ {Matthew, Mark, Luke, John} • Abergail ∈ / {Matthew, Mark, Luke, John} . 41
+
+39
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Sets
+
+42 • 7∈ {1,2,3,4,5,6,7}
+
+CHAPTER 4. SETS
+
+There are some sets that have special symbols because they are used a lot. Examples are 1. The set with nothing in it, called the empty set is written as ∅. 2. N = {1, 2, 3, . . .} the set of natural numbers. 3. Z = {. . . , −3, −2, −1, 0, 1, 2, 3, . . .} the integers. 4. Q = the set of fractions. 5. R = the set of real numbers. 6. The set that contains everything is called the universal set written S, U or ∅. ¯ when we mean the set of things which are not in A. Finally we will write A Subsets It is probably obvious that some set are “bigger” than others, for example {A,B,C,D,E} and {B,C,D}. We formalize this idea by deﬁning subsets. If the set B contains all the elements in the set A together with some others then we write A ⊂ B. We say that A is a subset of B. So {Matthew, Mark, Luke, John} ⊂ {Matthew, Mark, Luke, John, Thomas } We can of course write this the other way around, so A ⊂ B is the same as B ⊃ A. 1. Formally for A ⊂ B we say if a ∈ A then a ∈ B or a∈A⇒a∈B
+
+2. If B is a subset but might possibly be the same as A then we use A⊆B. 3. We will use A = B to mean A contains exactly the same things as B. Note that if A ⊆ B and B ⊆ A then A = B. In our logical symbolism we have (A ⊆ B) ∧ (B ⊆ A) ⇒ A = B.
+
+40
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+43
+
+Sets
+
+The power set of A, written, P(A), or 2A , is the set of all subsets of A. So if A = { Matthew, Mark, Luke } then P(A) is the set with eight elements { Matthew, Mark, Luke } { Matthew, Mark } { Matthew, Luke } { Mark, Luke } { Matthew } { Mark } { Luke } ∅ The number of elements in a set A is called the cardinality of A and written A . So if A = { Matthew, Mark, Luke, John} then A =4. Venn Diagrams and Manipulating Sets We intend to manipulate sets and it helps to introduce Venn diagrams to illustrate what we are up to. We can think of the universal set S as a rectangle and a set, say A as the interior of the circle drawn in S, see ﬁgure 4.1 The speckled area is
+
+Figure 4.1: Venn diagram of set A and universal set S ¯ . We see immediately that A while the remainder of the area of the rectangle is A ¯ make up S A together with A
+
+41
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+44
+
+CHAPTER 4. SETS
+
+Sets
+
+Intersection We can write the set of items that belong to both the set A and the set B as A ∩ B. Formally (x ∈ A) ∧ (x ∈ B) ⇒ (x ∈ A ∩ B). We call this the intersection of A and B or, less formally, A and B. In terms of the Venn diagram in ﬁgure 4.2 the two circles represent A and B while the overlap (in black) is the intersection. As examples
+
+Figure 4.2: Venn diagram of A ∩ B
+
+1. {1,2,3,4} ∩ { 3,4,5,6,7} ={ 3,4}. Notice 3 ∈ { 3,4} while 1 ∈ / { 3,4}. 2. {1,2,3,4} ∩ { 13,14,15,16,27} =∅. 3. {Abergail, Ann, Blodwin, Bronwin, Clair,}∩ { Abergail, Bronwin, Gareth, Ian} = {Abergail, Bronwin, }. ¯ = ∅ so A and A ¯ have nothing in common. 4. In ﬁgure 4.2 we see A ∩ A 5. A ∩ B ⊂ B and A ∩ B ⊂ A Union: We can write the set of items that belong to the set A or the set B or to both as A ∪ B. Formally (x ∈ A) ∨ (x ∈ B) ⇒ x ∈ (A ∪ B). We call this the union of A and B or, less formally, A or B. The corresponding diagram is 4.3 Here the speckled area represents A ∪ B
+
+42
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+45
+
+Sets
+
+Figure 4.3: Venn diagram of set A ∪ B (speckled) and universal set S As examples we have 1. {1,2,3,4} { 3,4,5,6,7} ={ 1,2,3,4,5,6,7} { Red,Green} ={ Red,Blue , Green}
+
+2. { Blue,Green}
+
+¯ = S so A and A ¯ together make up S. 3. In ﬁgure 4.2 we see A ∪ A 4. If A ⊂ B then A ∪ B ⊂ B We can now use our basic deﬁnitions to get some results.
+
+43
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+Sets
+
+46
+
+CHAPTER 4. SETS ¯ The set A ¯ consists of all the elements of S ( the universal set) which 1. A= A ¯ is the set of elements that do not belong to A ¯, do not belong to A. So A ¯ . That is the elements that or the elements of S which do not belong to A belong to A. ¯ ⇒a∈ ¯ ⇒a∈A Or suppose a ∈ A /A ¯ ∪B ¯ 2. (A ∩ B) = A ¯ ) ∨ (a ∈ We have a ∈ (A ∩ B) ⇒ a ∈ / (A ∩ B) ⇒ (a ∈ / A) ∨ (a ∈ / B) ⇒ (a ∈ A ¯) ⇒ a ∈ A ¯ ∪B ¯ B
+
+There is a table of useful results in table 4.1. Notice each rule in the left column has a dual rule in the right. This dual has the ∪ symbol replace by ∩ A∪A=A A∩A=A (A ∪ B) ∪ C = A ∪ (B ∪ C) (A ∩ B) ∩ C = A ∩ (B ∩ C) A∪B=B∪A A∩B=B∩A A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C) A ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C) A∪∅=A A∩S=A A∪S=S A∩∅=∅ ¯ ¯ =∅ A∪A=S A∩A ¯ ∩B ¯ ¯ ∪B ¯ (A ∪ B) = A (A ∩ B) = A Table 4.1: Rules for set operations
+
+Cartesian Product Suppose we have two sets A and B. We deﬁne the Cartesian Product P = A × B to be the set of ordered pairs (a, b) where a ∈ A and b ∈ B. Or P = {(a, b) : (a ∈ A) ∧ (b ∈ B)}. The pair (a, b) is ordered in the sense that the ﬁrst term (a) comes from the set A in A × B. The obvious example and hence the name comes from the geometry of the plane. We usually write (x, y) to denote the coordinates of a point on the plane. This is an ordered pair! If we take real values x and y with x ∈ R and y ∈ R then the Cartesian product is R × R 1. Suppose A = {a, b} and B = {1, 2} then A × B = {(a, 1), (a, 2), (b, 1), (b, 2)}. 2. We can extend to 3 or more sets so A × B × C is the set of ordered triples (a, b, c).
+
+44
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+47
+
+Sets
+
+4.0.6
+
+Relations and functions
+
+Given two sets A and B and the product A × B we deﬁne a relation between A and B as a subset R of A × B. We say that a ∈ A and b ∈ B are related if (a, b) ∈ R, more commonly written aRb. This is a quite obscure deﬁnition unless we look at the rule giving the subset. Take the simple example of A = {1, 2, 3, 4, 5, 6} and B = {1, 2, 3, 4, 5, 6} then A× B is the array of pairs below - a set of 36 pairs.     (1, 1) (1, 2) (1, 3) (1, 4) (1, 5) (1, 6)       ( 2, 1 ) ( 2, 2 ) ( 2, 3 ) ( 2, 4 ) ( 2, 5 ) ( 2, 6 )       (3, 1) (3, 2) (3, 3) (3, 4) (3, 5) (3, 6) (4, 1) (4, 2) (4, 3) (4, 4) (4, 5) (4, 6)         ( 5, 1 ) ( 5, 2 ) ( 5, 3 ) ( 5, 4 ) ( 5, 5 ) ( 5, 6 )       (6, 1) (6, 2) (6, 3) (6, 4) (6, 5) (6, 6) A relation R is the subset {(1, 1), (2, 2), (3, 3), (4, 4), (5, 5), (6, 6)} or the set {(i, j) : i = j}. Other example are 1. R = {(i, j) : i + j = 8} = {(2, 6), (3, 5), (4, 4), (5, 3), (6, 2)} 2. R = {(i, j) : i = 2j} = {(2, 1), (4, 2), (6, 3)}  (1, 1) (1, 2) (1, 3) (1, 4)     (2, 3) (2, 4)  (3, 4) 3. R = {i < j} =                
+
+(1, 5) (2, 5) (3, 5) (4, 5)
+
+(1, 6) (2, 6) (3, 6) (4, 6) (5, 6)
+
+As you can see we can think of the relation R as a rule connecting elements of A to elements of B. The relation aRb between 2 sets A and B can be represented as in ﬁgure 4.4 For example 1. if A={ one, two, three, four, ﬁve} and B = {1, 2, 3, 4, 5} we can deﬁne R as the set of pairs {(word, number of letters)} eg. {(one, 3), (two, 3), (three,5), . . .} 2. If A={ 2,4,8,16,32} and B={1,2,3,4,5} then we might deﬁne R as the set { (2,1),(4,2),(8,3),(16,4),(32,5)} 1. The domain of relation {(x, y)} is the set of all the ﬁrst numbers of the ordered pairs. In other words, the domain is all of the x-values. 2. The range of relation {(x, y)} is the set of the second numbers in each pair, or the y-values.
+
+45
+Download free eBooks at bookboon.com
+
+48
+Mathematics for Computer Scientists
+
+CHAPTER 4. SETS CHAPTER 4. SETS
+Sets
+
+48
+
+Figure 4.4: The relation R between 2 sets A and B Figure 4.4: The relation R between 2 sets A and B There are all kinds of names for special types of relations. Some of them are 1. reﬂexive: all x X it follows that xRx. of For example, ”greater than or There are allfor kinds of ∈ names for special types relations. Some of them are equal to” is a reﬂexive relation but ”greater than” is not. 1. reﬂexive: for all x ∈ X it follows that xRx. For example, ”greater than or 2. symmetric: all x and y in Xbut it follows that if xRy then yRx. ”Is a blood equal to” is for a reﬂexive relation ”greater than” is not. relative of” is a symmetric relation, because x is a blood relative of y if and 2. symmetric: for all xrelative and y in only if y is a blood of X x.it follows that if xRy then yRx. ”Is a blood relative of” is a symmetric relation, because x is a blood relative of y if and 3. antisymmetric: for relative all x and y. in X it follows that if xRy and yRx then only if y is a blood of x x = y. ”Greater than or equal to” is an antisymmetric relation, because if 3. x antisymmetric: all x x= and ≥ y and y ≥ xfor , then y. y in X it follows that if xRy and yRx then x = y. ”Greater than or equal to” is an antisymmetric relation, because if x ≥ y and y ≥ x, then x = y.
+
+46
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+49
+
+Sets
+
+4. asymmetric: for all x and y in X it follows that if xRy then not yRx. ”Greater than” is an asymmetric relation, because ifx > y then y > x. 5. transitive: for all x, y and z in X it follows that if xRy and yRz then xRz. ”Is an ancestor of” is a transitive relation, because if x is an ancestor of y and y is an ancestor of z, then x is an ancestor of z. 6. Euclidean: for all x, y and z in X it follows that if xRy and xRz, then yRz. 7. A relation which is reﬂexive, symmetric and transitive is called an equivalence relation. You can now speculate as the name “Relational Database”. exercises 1. If A − B is the set of elements x that satisfy x ∈ A and x ∈ / B draw a Venn diagram for A − B 2. Prove that for sets A, B and C (a) If A ⊆ B and B ⊆ C then A ⊆ C
+
+(b) If A ⊆ B and B ⊂ C then A ⊂ C (d) If A ⊂ B and B ⊂ C then A ⊂ C 3. Recall that Z = {0, 1, 2, 3, 4, . . .} and we deﬁne the following sets (b) B = {x ∈ Z : for some integer y > 0, x = 2y − 1} ¯ B), C, ¯ (A ∪ ¯ A − C, ¯ andC − (A ∪ B) Describe A, 4. Show that for all sets A, B and C (A ∩ B) ∪ C = A ∩ (B ∪ C) iﬀ C ⊆ A 5. What is the cardinalty of {{1, 2}, {3}, 1}. 6. Give the domain and the range of each of the following relations. Draw the graph in each case. (c) A = {x ∈ Z : for some integer x < 10} (a) A = {x ∈ Z : for some integer y > 0, x = 2y} (c) If A ⊂ B and B ⊆ C then A ⊂ C
+
+47
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Sets
+
+50 (a) {(x, y) ∈ R × R} | x2 + 4y2 = 1} (c) {(x, y) ∈ R × R} | 0 ≤ y, y ≤ x and x + 1y ≤ 1}
+
+CHAPTER 4. SETS
+
+(b) {(x, y) ∈ R × R} | x2 = y2}
+
+7. Deﬁne the relation between the ordered pairs {(x, y) and (u, v) where x, y, v, v ∈ Z} where (x, y) (u, v) means xv = yu. Show that is an equivalence relation.
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+48
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+Counting
+
+Chapter 5 Counting
+There are three types of people in this world: Those who can count, and those who can’t. Counting seem quite simple but this is quite deceptive, especially when we have complicated system. If you do not believe me have a look at the probability section. To make like a little simpler we lay down some rules. Sets If we have two sets A and B the number of item in the sets ( the cardinality) is written A and B . Then we can show that A∪B = A + B − A∩B This is fairly easy to see if you use a Venn diagram. For 3 sets A∪B = A + B + C − A∩B − B∩C − A∩C + A∩B∩C Example Let S be the set of all outcomes when two dice (one blue ; one green) are thrown. Let A be the subset of outcomes in which both dice are odd, and let B be the subset of outcomes in which both dice are even. We write C for the set of outcomes when the two dice have the same number showing. How many elements are there in the following sets? It is useful to have the set S set out as below 51
+
+49
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Counting
+
+52 1 2 3 4 5 6 then we have 1. A = 9 2. B = 9 3. C = 6 4. A ∩ B =0 5. A ∪ B = 18 6. A ∩ C = (1, 1), (3, 3), (5, 5) = 3 1 1 1 1 1 1 1 2 3 4 5 6 2 2 2 2 2 2 1 2 3 4 5 6 3 3 3 3 3 3 1 2 3 4 5 6 4 4 4 4 4 4 1 2 3 4 5 6 5 5 5 5 5 5
+
+CHAPTER 5. COUNTING 1 2 3 4 5 6 6 6 6 6 6 6
+
+7. A ∪ C = A + C − A ∩ C = 9 + 6 − 3 = 12 Chains of actions If we have to perform two actions in sequence and the ﬁrst can be done m ways while the second can be done in n there will be mn possibilities in total. • Suppose we wish to pick 2 people from 9. The ﬁrst can be picked in 9 ways the second in 8 giving 9 × 8 = 72 possibilities in total. • If we roll a die and then toss a coin there are 6 × 2 = 12 possibilities.
+
+50
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+53
+
+Counting
+
+This extends to several successive actions. Thus 1. If we roll a die 3 times then there are 6 × 6 = 216 possibilities. 2. If we toss a coin 7 times there are 2 × 2 × 2 × 2 × 2 × 2 × 2 = 27 = 128 possibilities. 3. My bicycle lock has 4 rotors each with 10 digits. That gives 10×10×10×10 = 104 combinations. 4. Suppose you have to provide an 8 character password for a credit card company. They say that you can use a to z ( case is ignored) and 0 to 1 but there must be at least one number and at least one letter. there are 26 letters and 10 numbers so you can make 836 possible passwords. Of these there are 810 which are all numbers and 826 which are all letters. This gives 836 − 826 − 810 = 3.245 × 1032 allowable passwords. Permutations Suppose I have n distinct items and I want to arrange them in a line. I can do this in n × (n − 1) × (n − 2) × (n − 3) × · · · × 3 × 2 × 1 We compute this product so often it has a special symbol n!. However to avoid problems we deﬁne 1! = 0 and 0! = 1 So 3! = 3 × 2 × 1 = 6 while 5! = 5 × 4 × 3 × 2 × 1 = 120 If we look at the characters in (1D4Y) there are 4! = 24 possible distinct arrangements. Sometimes we do not have all distinct items. We might have n item of which r are identical then there are n!/r! diﬀerent possible arrangements. So WALLY can be arranged in 5!/2! = 60 ways. It is simpler to just state a rule in the more general case: Suppose we have n objects and • there are n1 of type 1. • there are n2 of type 2. • ······ • there are nk of type k.
+
+51
+Download free eBooks at bookboon.com
+
+54 Mathematics for Computer Scientists
+
+CHAPTER 5. COUNTING
+
+Counting
+
+The total number of items in n, so n = n1 + n2 + · · · nk then there are n! n1!n2!n3! · · · nk! possible arrangements. Suppose we have 3 white, 4 red and 4 black balls. They can be arranged in a row in 11! = 11550 3!4!4! possible ways while the letters in WALLY can be arranged in 5! = 60 ways 2!1!1!1! Combinations The number of ways of picking k items from a group of size n is written (for the traditionalists) nCk. The deﬁnition is n k = n! (n − k)!k!
+n k
+
+or
+
+So the number of ways of picking 5 students from a group of 19 is 19 5 = 19! 19 × 18 × 17 × 16 = 5!14! 4×3×2×2
+
+.
+
+52
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+55
+
+Counting
+
+Examples 1. Suppose you want to win the lottery. There are 49 numbers and you can pick 6. This can be done in 49! = 13983816 ways 6!43! so your chances of a win are 1/13983816. 2. How many ways can you pick 5 correct numbers in the lottery. There are 6 ways to pick the 5 correct numbers and 49-6=43 ways of picking the 5 remaining number. This gives 6 × 43 ways. 3. When we pick 3 correct numbers there are 6 ways of picking the winning 3 43 numbers and 3 ways of picking the losing ones. This gives 6 × 43 = 3 3 20 × 12341 = 246820 ways in all.
+
+5.0.7
+
+Binomial Expansions
+
+Now we have combinations we can examine a very useful result known as the binomial expansion. To start we can show that (a + b)2 = a2 + 2ab + b2 and (a + b)3 = a3 + 3a2b + 3ab2 + b3 In general we can prove that for an integer n > 0 (a+b)n = an+ or (a + b)n =
+i=0
+
+n n−1 n n−2 2 n n a b+ a b +· · ·+ a2bn−2+ abn−1+bn 1 2 n−2 n−1
+n
+
+n n−i i a b. i
+
+This can be done by induction, but there isis a page or so of algebra! For example (2 + x)5 = 25 + or (2 + x)5 = 25 + 5 × 24x + 10 × 23x2 + 10 × 22x2 + 5 × 2x4 + x5 5 2 2 5 5 4 5 3 2 2 x+ 2 x + 2 x + 2x4 + x5 1 2 3 4
+
+53
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+56
+
+CHAPTER 5. COUNTING
+8
+
+Counting
+
+Suppose you were given 3x + 5/x3 and you wanted the term in the expansion which did not have an x. From the above the general term is 8 (3x3)8−i(5/x3)i. i The x terms cancel when 8 − i = 3i or i = 2. Then the term is 8 (3x3)6(5/x3)2 = 2 8 6 2 3 5 2
+
+We can do something similar for non-integral n as follows: n(n − 1)(n − 2) · · · (n − k + 1) k n(n − 1) 2 n(n − 1)(n − 2) x + +· · ·+ x +· · · 1.2 1.2.3 1.2.3 · · · k but this is only true when |x| < 1. x1/2 + 1 −1 x−1/2 + 1 −1 −3 x−3/2 + . . . Thus (1 + x)1/2 = 1 + 1 2 2 2 2 2 2 (1+x)n = 1+nx+ Examples 1. Suppose we look at sports scholarships awarded by American universities. A total of 147,000 scholarships were earned in 2001. Out of the 5,500 scholarships for athletics, 1500 were earned by women. Women earned 75,000 scholarships in total. How many men earned scholarships in athletics? 2. In clinical trials of the suntan lotion, Delta Sun, 100 test subjects experienced third degree burns or nausea (or both). Of these, a total of 35 people experienced third degree burns, and 25 experienced both third degree burns and nausea. How many subjects experienced nausea? 3. A total of 1055 0 MSc degrees were earned in 2002. Out of the 41 MSc degrees in music and music therapy, 5 were earned by men. Men earned 650 MSc degrees. How many women earned MSc degrees in ﬁelds other than music and music therapy? 4. A survey of 200 credit card customers revealed that 98 of them have a Visa account, 113 of them have a Master Card, 62 of them have a Visa account and a American Express, 36 of them have a Master Card account and an American Express, 47 of them have only a Master Card account, 32 have a Visa account and a Master Card account and an American Express. Assume that every customer has at least one of the services. The number of customers who have only have a Visa card is?
+
+54
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+57
+
+Counting
+
+5. So for example from the New York Times According to a New York Times report on the 16 top-performing restaurant chains (a) 11 serve breakfast. (b) 11 serve beer. (c) 10 have full table service i.e. they server alcohol and all meals. All 16 oﬀered at least one of these services. A total of 5 were classiﬁed as ”family chains,” meaning that they serve breakfast, but do not serve alcohol. Further a total of ﬁve serve breakfast and have full table service, while none serve breakfast, beer, and also have full table service. We ask (a) ( How many serve beer and breakfast? (b) How many serve beer but not breakfast? (c) How many serve breakfast, but neither have full table service, nor serve beer? (d) How many serve beer and have full table service? 6. When | x |< 1 then show that • 1/(1 − x) = 1 + x + x2 + x3 + x4 + · · · + xn + · · ·
+(1/2)(−1/2)x2 1.2 3 4
+
+• 1/(1 − x)2 = 1 + 2x + 3x2 + 4x + 5x + . . . + nx 7. Expand (1 + 2x)7
+
+• 1/(1 − x)1/2 = 1 + (1/2)x +
+
++
+
+(1/2)(−1/2)(−3/2)x3 1.2.3 n−1
+
++ ...
+
++ x4 + · · ·
+
+8. Which is the coeﬃcient of the term without an x in (x + 2/x)11. 9. Find an approximation for (0.95)11. 10. Find the ﬁrst 3 terms of the expansion of (1 + x)1/4.
+
+55
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Functions
+
+Chapter 6 Functions
+Mathematicians are like Frenchmen: whatever you say to them they translate into their own language and forthwith it is something entirely diﬀerent. Johann Wolfgang von Goethe
+
+One of the most fundamental ( and useful) ideas in mathematics is that of a function. As a preliminary deﬁnition suppose we have two sets X and Y and we also have a rule which assigns to every x ∈ X a UNIQUE value y ∈ Y . We will call the rule f and say that for each x there is a y = f(x) in the set Y . This is a very wide deﬁnition and one that is very similar to that of a relation , the critical point is that for each a there is a unique value y. A common way of writing functions is
+
+f:X→Y which illustrates that we have two sets X and Y together with a rule f giving values in Y for values in X. We can think of the pairs (x, y) or more clearly (x, f(x)). This set of pairs is the graph of the function In what follows we show how functions arise from the idea of relations and come up with some of the main deﬁnitions. You need to keep in mind the simple idea a function is a rule that takes in x values and produces y values. It is probably enough to visualize f as a device which when given an x value produces a y. 59
+
+56
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Functions
+
+60
+
+CHAPTER 6. FUNCTIONS
+
+-
+
+x
+
+f the function
+
+-
+
+y = f(x)
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+57
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+Functions
+
+61
+
+Figure 6.1: Function f
+
+Clearly if you think of f as a machine we need to take care about what we are allowed to put in, x, and have a good idea of the range of what comes out, y. It is these technical issues we look at next. The set X is called the domain of the function f and Y is codomain. We are normally more interested in the set of values { f(x) : x ∈ X}. This is the range R sometimes called the image of the function. See ﬁgure 6.1 Examples We can have where f:X→Y
+
+1. f(x) = 2x where X = {x : 0 ≤ x < ∞} and Y = {y : 0 ≤ x < ∞} √ 2. f(x) = x where X = {x : 0 ≤ x < ∞} and Y = {y : 0 ≤ y < ∞} If we think of the possibilities we have
+
+3. f(x) = sin−1(x) where X = {x : −π/2 ≤ x < pi/2} and Y = {−1 ≤ y ≤ 1} • There may be some points in Y (the codomain) which cannot be reached by function f. If we take all the points in X and apply f we get a set
+
+58
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Functions
+
+62
+
+CHAPTER 6. FUNCTIONS
+
+Domain A
+
+Range of A
+
+Figure 6.2: An onto function
+
+R = {f(x) : x ∈ X} which is the range of the function f. Notice R is a subset of Y i.e.R ⊂ Y . • Surjections (or onto functions) have the property that for every y in the codomain there is an x in the domain such that f(x) = y. If you look at 6.1 you can see that in this case the codomain is bigger than the range of the function. See ﬁgure 6.2 If the range and codomain are the same then out function is a surjection. This means every y has a corresponding x for which y = f(x) • Another important kind of function is the injection (or one-to-one function), which have the property that if x1 = x2 then y1 must equal y2. See ﬁgure 6.3 • Lastly we call functions bijections, when they are are both one-to-one and onto. A more straightforward example is as follows. Suppose we deﬁne f:X→Y
+
+where f(x) = 2x and X = {x : 0 ≤ x < ∞} and Y = {y : −∞ ≤ x < ∞}. The range of the function is R = {y : 0 ≤ x < ∞} while the codomain Y has negative values which we cannot reach using our function. Composition of functions The composition of two or more functions uses the output of one function, say f, as the input of another, say g. The functions f : X → Y and g : Y → Z can be
+
+59
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Functions
+
+63
+
+Figure 6.3: An 1 to 1 function
+
+composed by applying f to an argument x to obtain y = f(x) and then applying g to y to obtain z = g(y). See ﬁgure 6.4. The composite function formed in this way from f and g can be written g(f(x)) or g ◦ f. This last form can be a bit dangerous as the order can be diﬀerent in diﬀerent subjects. Using composition we can construct complex functions from simple ones, which is the point of the exercise. One interesting function, given f, would be the function g for which x=g(f(x)). In other words g is the inverse function. Not all functions have inverses, in fact there is an inverse g written f−1 if and only if f is bijective. In this case x = f−1(f(x)) = f(f−1(x)). The arrows and blob diagrams are not the usual way we draw functions. You will recall that the technical description of f : X → Y is the set of values (x, f(x)) Suppose we take the reals R so our function takes real values and gives us a new set of reals, say f(x) = x3 we take x values , compute y = f(x) for these values and plot them as in ﬁgure 6.6. Plotting functions is a vital skill, you know very little about a function until you have drawn the graph. It need not be very accurate, mathematicians often talk about sketching a function. By this they mean a drawing which is not completely accurate but which illustrates the main characteristics of the function, Now we might reasonably does every sensible looking function have an inverse? An example consider f(x) = x2 which is plotted in ﬁgure 6.8. There is now problem in the deﬁnition of f for all real values of x, that is the domain is R and the codomain R. However if we examine the inverse we have a problem. if we take y=4, this may arise from x=2 or x=-2. So there is not an f−1 = y−1/2 ! If we change the domain we can get around this. Suppose we deﬁne R+ = {x :
+
+60
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+64
+
+CHAPTER 6. FUNCTIONS
+
+Functions
+
+Figure 6.4: Composition of two functions f and g
+
+Figure 6.5: The inverse f and g = f−1 Examples 1. Suppose f(x) = x2 and g(y) = 1/y then g(f(x)) = 1/x2. We of course have to take care about the deﬁnition if the range and the domain to avoid x = 0 2. When f(x) = x2 and g(x) = x1/2 g is the inverse function when f is deﬁned on the positive reals.
+
+61
+Download free eBooks at bookboon.com
+
+65
+Mathematics for Computer Scientists Functions
+
+−100
+
+−50
+
+0
+
+y
+
+50
+
+100
+
+−4
+
+−2
+
+0 x
+
+2
+
+4
+
+Figure 6.6: Plot of f(x) = x3
+
+y
+
+-4
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+-1
+
+0 x
+
+1
+
+2
+
+3
+
+Figure 6.7: Plot of f(x) = x3 − 2x2 − x + 2
+
+62
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+66
+
+CHAPTER 6. FUNCTIONS
+
+Functions
+
+y 0 5 10
+
+15
+
+20
+
+25
+
+−4
+
+−2
+
+0 x
+
+2
+
+4
+
+Figure 6.8: Plot of f(x) = x2
+
+y 0 0 5 10
+
+15
+
+20
+
+25
+
+1
+
+2 x
+
+3
+
+4
+
+5
+
+Figure 6.9: Plot of f(x) = x2
+
+0 ≤ x < ∞} and consider f(x) = x2 deﬁned on R+ i.e. In this case we do not have the problem of negative values of x. Every value of y arises from a unique x. R+ : f → R+
+
+63
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+67 67
+
+Exercises Exercises For the following pairs evaluate g(f(x)) and f(g(x)). For the following pairs evaluate g(f(x)) and f(g(x)). 1. f(x) = 1/x, g(x) = x2 1. f(x) = 1/x, g(x) = x2 2. f(x) = 3 + 4x, g(x) = 2x − 5 2. f(x) = 3 + 4x, g(x) = 2x − 5 3. f(x) = x + 1, g(x) = x − 1 3. f(x) = x + 1, g(x) = x − 1
+
+Functions
+
+6.0.8 6.0.8
+
+Important functions Important functions
+that some functions crop up again and again in that functions crop up again and again in pointsome to look at some of these. point to look at some of these.
+
+Over time we have come to see Over time weThis haveseems come a to see applications. good applications. This seems a good
+
+polynomials polynomials −1 We call functions like f(x) = apxp + ap−1xp + . . . + a1x + a0 polynomials and p p−1 We call functions like f ( x ) = a x + a x + . .In .+ a1x + a0 polynomials and p p − 1 these usually have a domain consisting of the reals. out example the coeﬃcients these a domainand consisting of the reals. In out example the a0, a1usually , . . . , aphave are numbers our polynomial is said to have order p.coeﬃcients Examples a , a , . . . , a are numbers and our polynomial is said to have order p . Examples 0 1 p are are 1. f(x) = x + 2 1. f(x) = x + 2 − x2 + x + 2 2. f(x) = x3 2. f(x) = x3 − x2 + x + 2 − 11 3. f(x) = x17 3. f(x) = x17 − 11 − 3x + 2 4. f(x) = x2 4. f(x) = x2 − 3x + 2
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+64
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+68
+
+CHAPTER 6. FUNCTIONS
+
+Functions
+
+Zeros Very often we need to know for what values of x for which f(x) = apxp+ ap−1xp−1 + . . . + a1x + a0 = 0 is zero. The values are called the zeros or the roots of the polynomial. We can prove that a polynomial of degree p has at most p roots which helps a little. The simplest to way to ﬁnd zeros is to factorize the polynomial so if f(x) = x3 − 6 ∗ x2 + 11x − 6 = (x − 1)(x − 2)(x − 3) so f(x) = 0 when x = 1, 2, 3. Factorization is (as for integers ) rather diﬃcult. The best strategy is to try and guess one zero, say x=a and then divide the polynomial by (x-a). We then repeat. Polynomial division is just like long division. So to divide x3 − 6x2 + 11x − 6 by x − 1: write out the sum 3 2 x−1 x − 6x + 11x − 6 x2 x3 − 6x2 + 11x − 6 ﬁnd the power of x to multiply x − 1 multiply x − 1 by x2 as shown.
+
+x−1
+
+x2 x−1 x3 − 6x2 + 11x − 6 − x 3 + x2 x2 x−1 x3 − 6x2 + 11x − 6 − x 3 + x2 − 5x2 + 11x x2 − 5x x−1 x3 − 6x2 + 11x − 6 − x 3 + x2 − 5x2 + 11x x2 − 5x x−1 x3 − 6x2 + 11x − 6 − x 3 + x2 − 5x2 + 11x 5x2 − 5x 6x − 6
+
+subtract as shown.
+
+ﬁnd a multiplier to multiply x − 1 to get a −5x2
+
+multiply x − 1 and subtract as shown
+
+65
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Functions
+
+69 x2 − 5x x−1 x3 − 6x2 + 11x − 6 − x 3 + x2 − 5x2 + 11x 5x2 − 5x 6x − 6 x2 − 5x + 6 x−1 x3 − 6x2 + 11x − 6 − x 3 + x2 − 5x2 + 11x 5x2 − 5x 6x − 6 − 6x + 6 0 ﬁnd a multiplier to multiply x − 1 to get a 6x
+
+nothing left so we stop!
+
+The answer is x2 − 5x + 6. If there is something left then it is the remainder. Hence x−3 x−2 x2 − 5x + 6 − x2 + 2x − 3x + 6 3x − 6 0 The answer is x2 − 5x + 6 = (x − 2)(x − 3). However suppose we try x−4 2 x−1 x − 5x + 6 − x2 + x − 4x + 6 4x − 4 2 We have a remainder and the answer is x2 − 5x + 6 = (x − 1)(x − 4) + 2. Exercises Factorize 1. 2x3 − x2 − 7x + 6 2. 2x3 − 3 ∗ x2 − 5x + 6
+
+66
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+70
+
+CHAPTER 6. FUNCTIONS
+
+Functions
+
+The power function Suppose we take values x from the reals and consider the function P(x) = xa for some value a. We can suppose that a is also real. So we have R:P→R
+
+An example might be P(x) = x2 or P(x) = x1.5. In the second case we clearly have to redeﬁne the domain. Can you see why? The properties of the power function 1. xa × xb = xa+b 2. x0 = 1 Logarithms We know that we can write powers of numbers, so 100 = 1 101 = 2 102 = 100 102 = 1000 ...
+
+and 100.5 = 3.162278 . . .. Now consider the backwards problem: Given y can we ﬁnd an x such that y = 10x. In other words if we deﬁne the power function y = P(x) = 10x for x ∈ R, as above, then what is the inverse of this P−1(y)? It may help to look at ﬁgure 6.10. We have plotted dotted lines from (1.5,0) to the curve. Going from x vertically to the curve and then to the y axis gives the power value P(x) = y. The reverse path from y to x is the logarithm.
+
+67
+Download free eBooks at bookboon.com
+
+71
+Mathematics for Computer Scientists Functions
+
+y
+
+0 −2
+
+20
+
+40
+
+60
+
+80
+
+100
+
+−1
+
+0 x
+
+1
+
+2
+
+Figure 6.10: Plot of f(x) = 10x
+
+The inverse of p(x) is call the logarithm or log and is written log10(x). So log10(1) = 0 log10(10) = 1 log10(100) = 0 log1000(1) = . . .
+
+Often we are lazy and drop the 10 and just write log(x) Because we know that log is the inverse of the power function we have some useful rules 1. log(u) + log(v) = log(uv) 2. log(uv) = v log(uv) 3. log(u − log(v) = log 4. −log(u) = log
+1 u u v
+
+Of course we did not have to choose 10 in our deﬁnitions. We could have choose 2, like many engineers, or any positive number a say. We then write y = loga(x) to indicate the number y which satisﬁes x = ay. The loga(x) is called the log of x to base a. For reasons which will (we hope) become apparent mathematicians like to use natural logs which have a base e = 2.718282 . . .. because they are used so often rather than write loge(x) you will often see them written as ln(x) or just as log(x). All logs satisfy the rules set out in the list 6.0.8. We shall be lazy and just use logarithms to base e.
+
+68
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+72
+
+CHAPTER 6. FUNCTIONS
+
+Functions
+
+We can of course express logs in one base as logs in another. Suppose x = a = blogb (x) then taking logs gives
+loga (x)
+
+loga(x) = loga(b) logb(x) Sometime it is natural to express powers as base 2 for example y = P(x) = 2x. Mathematicians often use the number e so the power deﬁnition is y = ex which you will often see written as y = exp(x) since ex is called the exponential function.
+
+6.1
+
+Functions and angular measure
+
+We look brieﬂy at the measurement of angles. Angular measure has been important from the very beginning of human history both in astronomy and navigation. Consider a circle with the angle θ made with the x axis as shown. Unlike maps in mathematics the reference line is not North but along the x axis and if we rotate anti-clockwise we sweep out an angle θ. The angle is traditionally measured in degrees, minutes and seconds. We will stick to degrees for the moment.
+
+3 6
+
+y θ
+-
+
+x
+
+?
+
+If we sweep anti-clockwise through 360 degrees we sweep out a circle. 180 degrees is a half circle and 720 = 3 × 360 two circles. Rotations in a clockwise direction are assumed to be negative degrees, so −90o = 270o To complicate things a little we can also measure the angle in an equivalent way by measuring the length of the arc we make out on the circle as we sweep through the angle θ. Suppose this is s. For a circle of radius 1 s is a measure of the angle, although in diﬀerent units called radians. So one circle is 2π radians and 90o is π/2 radians. We convert from degrees to radians as follows
+
+6
+
+69
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+6.1. FUNCTIONS AND ANGULAR MEASURE degrees radians θ 2πθ/360 360s/(2π) s
+
+73
+
+Functions
+
+If you look at most “scientiﬁc calculators” you will see a button for switching from degrees to radians and vice versa. The trigonometric functions Of course we can measure angles in other ways. Suppose we look at the angle θ in the diagram. The ratio of the y and x values is related to the angle. Roman surveyors would often choose and angle by ﬁxing the x value and the y value. As you can. imagine, ﬁve steps and then 3 steps vertically gives the same angle no matter where you are
+
+r
+
+y
+
+θ x
+
+Thus from the diagram θ is related to y/x. In fact we deﬁne y/x to be the tangent of θ written as tan θ = y/x. The inverse function is tan−1 θ = y/x or sometimes arctan θ = y/x The reader might like to examine our triable and see why the tangent of 90o does not exist. We provide a plot of the tangent from 0 to just under 90 degrees in ﬁgure 6.11. If we keep the deﬁnition on the domain 0 ≤ θ < 90 as is (relatively) simple. While the domain is easily extended we leave this to those of you will interests in this direction. Of course we do not have to use tangents, although they are probably the most practical in applications. Alternative are to use the ratio y/r the height y divided by the radius of the circle r. This is called the sine function and written sin θ = y/x. In a similar we we could use the cosine written cos θ = x/r. Both of these functions are plotted in ﬁgure 6.12 There are lots of links between these functions,
+
+70
+Download free eBooks at bookboon.com
+
+74
+Mathematics for Computer Scientists
+
+CHAPTER 6. FUNCTIONS
+Functions
+
+tan(theta)
+
+0
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+20
+
+40 theta
+
+60
+
+80
+
+Figure 6.11: tan x
+
+for example
+
+sin θ cos θ This can be deduced quite simple from the deﬁnitions. Try it yourself! The trigonometric functions are periodic in that if we plot them over a large part of the axis they repeat as in ﬁgure 6.13 Out next step is the study of the shapes of functions which brings us to Calculus. tan θ =
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+71
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+Functions
+
+1.0
+
+cos sin
+
+y 0.0
+0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+20
+
+40
+
+60
+
+80
+
+angle in degrees
+
+Figure 6.12: tan x
+
+1.0
+
+sin cos
+
+sin(r)
+
+−1.0
+−15
+
+−0.5
+
+0.0
+
+0.5
+
+−10
+
+−5
+
+0 r
+
+5
+
+10
+
+15
+
+Figure 6.13: Plot of sin and cos
+
+72
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Sequences
+
+Chapter 7 Sequences
+Reason’s last step is the recognition that there are an inﬁnite number of things which are beyond it. Pascal We write a sequence a1, a2, a3, · · · , an, · · · as {an} and our interest is normally whether the sequence tends to a limit A written • an → A as n → ∞. However there are many interesting sequences where limits are not the main interest. For example the Fibonacci sequence. In Fibonacci’s Liber Abaci (1202) poses the following problem How Many Pairs of Rabbits Are Created by One Pair in One Year: A certain man had one pair of rabbits together in a certain enclosed place, and one wishes to know how many are created from the pair in one year when it is the nature of them in a single month to bear another pair, and in the second month those born to bear also. The resulting sequence is 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, . . . and each term is the sum of the previous two terms. An interesting aside is that the nth Fibonacci number F(n) can we written as √ √ F(n) = [φn − (1 − φ)n] / 5 where φ = (1 + 5)/2 1.618 . . . √ which is a surprise since F(n) is an integer and the formula contains 5. For lots more on sequences see http://www.research.att.com/ njas/sequences/ 77 • or limn→∞ an = A
+
+73
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Sequences
+
+78
+
+CHAPTER 7. SEQUENCES
+
+7.0.1
+
+Limits of sequences
+
+We turn our attention to the behaviour of sequences such as {an} as n becomes very large. 1. A sequence may approach a ﬁnite value A. We say that it tends to a limit, so for example we write 1, or 1.0000 0.5000 0.2500 0.1250 0.0625 0.0312 0.0156 0.0078 0.0039 0.0020 . . . as 1 2
+n n
+
+1 2
+
+,
+
+1 2
+
+2
+
+,
+
+1 2
+
+3
+
+...
+
+1 2
+
+n
+
+,...
+
+and we shall see that 1 2 → 0 as n → ∞
+
+2. If a sequence does not converge it may go to ±∞, that is keep increasing or decreasing. 1 2 4 8 16 32 64 128 256 512 1024 . . . Informally {2n} → ∞ as → ∞. 1 Limit We need a deﬁnition of a limit and after 2000 years of trying we use : {an} → A as → ∞ if and only if, given any number there is an N such that for n ≥ N |an − A| < . In essence I give you a guarantee that I can get as close as you wish to a limit (if it exists) for all members of the sequence with suﬃciently large N, that is after N all the values of the sequence satisfy | an − A |< . The idea is that if there is a limit then if you give me some tolerance, here , I can guarantee that for some point in the sequence all the terms beyond that all lie within of the limit. −1 1 −1 1 −1 1 −1 1 −1 1
+
+3. A sequence may just oscillate
+
+74
+Download free eBooks at bookboon.com
+
+79
+Mathematics Examplesfor Computer Scientists
+1 Examples • {n } → 0.
+
+79
+
+Sequences
+
+1 • {n } → 0. • {xn} → 0 for |x| < 1.
+
+• {xn} → 0 for |x| < 1. • We argue as follows: give me a (small) value for . I can then choose a value N • Suppose We argueyou as follows: where N > 1/give . We can do this as, for for | x |< Suppose you me a (small) value . 1I can then choose a value N where N > 1/ . We can do this as, for | x |< 1 . . . | x |4<| x |3<| x |2<| x | . . . | x |4<| x |3<| x |2<| x | It then follows that as N > 1/ then > 1/N. But if n > N then 1/n < 1/N so we can say: that as N > 1/ then > 1/N. But if n > N then 1/n < 1/N It then follows if N > 1/ the when N > n | 1/n − 0 |< and so 1/n → 0 sowe wechoose can say:
+
+if we choose N > 1/ the when N > n | 1/n − 0 |< and so 1/n → 0 • We argue as follows: give me a (small) value for . I can then choose a value N • Suppose We argueyou as follows: N where | x | < . Or Na log | x |< log . Rearranging Suppose you give me (small) value for . I can then choose a value N N where | x | < . Or N log | x |< log . Rearranging log N> beware the signs! log |x| log N> beware the signs! log | x | But if log | x |< 1 then But if log | x |2 < 1 then log | x | < log | x |, log | x |3< log | x |2, . . . log | x |n< log | x |n+1 log | x |2< log | x |, log | x |3< log | x |2, . . . log | x |n< log | x |n+1 So we choose N > log / log | x | then when N > n | xn |=| xn − 0 |< and so choose | xn |→N 0 > log / log | x | then when N > n So we | xn |=| xn − 0 |< and so | xn |→ 0
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+75
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Mathematics for Computer Scientists
+
+80
+
+CHAPTER 7. SEQUENCES
+
+Sequences
+
+Rules Manipulating expressions like | an − a | can be tricky so it is easier to develop some rules. Using these is very much easier as we shall see. If {an} and {bn} are two sequences and {an} → A while {bn} → B then • {an ± bn} → A ± B • {anbn} → AB • {an/bn} → A/B provided B is nonzero as are the {bn}.
+
+also
+
+• For a constant c we have {can} → cA • If {an} → ±∞ then {1/an} → 0
+
+• If {an} → ±∞ while {bn} → B (ﬁnite B) then{an + bn} → ±∞ We can look at rational functions as follows 1. n+1 n + 13 n2 − 3n + 11 n4 + 13n2 − n + 43 3. n+1 n + 13xn 3n + 1 4n + 13 =
+
+• If {an} → ∞ while {bn} → B (ﬁnite B) then{anbn} → ±∞ depending on the sign of B. 1 + 1/n 1 + 13/n 1+0 1+0
+
+2. =
+
+→
+
+→1 → 0−0+0 1+0−0+0 → 0/1 → 0
+
+1/n2 − 3/n3 + 11/n4 1 + 13/n2 − 1/n3 + 43/n4 1 + 1/n 1 + 13xn/n
+
+=
+
+4.
+
+=
+
+(3/4)n + 1/4n 1 + 13(1/4)n
+
+→ 1/1 → 1
+
+| x |< 1
+
+Subsequence
+
+→ 0/1 = 0 → 1
+
+A subsequence of a sequence {an} is an inﬁnite succession of its terms picked out in any way. Note that if the original series converges to A so does any subsequence. If an+1 ≥ an we say the subsequence is increasing while if an+1 ≤ an we say the subsequence is decreasing. Increasing or decreasing sequences are sometimes called monatonic.
+
+76
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+7.1. SERIES Bounded
+
+81
+
+Sequences
+
+If an increasing sequence is bounded above then it must converge to a limit. Similarly If an decreasing sequence is bounded below then it must converge to a limit.
+
+7.1
+
+Series
+N
+
+A series is the sum of terms of a sequence written u1 + u2 + u3 + · · · + uN = We use capital sigma ( Σ) for sums and by
+b
+
+ui
+i=1
+
+ui
+i=a
+
+we mean the sum of terms like ui for i taking the values a to b. Of course there are many series we sum, for example we have met the Binomial series and we have the following useful results.
+
+AXA Global Graduate Program
+Find out more and apply
+
+77
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+Sequences
+
+82 • 1 + 2 + 3 + 4 + ··· + N =
+N i=1
+
+CHAPTER 7. SEQUENCES = N(N + 1)/2
+N 2 i=1 i N 3 i=1 i 1 i(i+1) N i i=0 x
+
+• 12 + 22 + 32 + 42 + · · · + N2 = • 13 + 23 + 33 + 43 + · · · + N3 = + • 11 2
+11 23
+
+= N(2N + 1)(N + 1)/6 = [N(N + 1)/2]2 =1−
+1 N+1
+
++ ··· +
+
+1 1 N N+1
+
+=
+
+N i=1
+
+• 1 + x + x 2 + x3 + · · · + x N =
+
+= 1 − xN+1 /(1 − x)
+
+7.1.1
+
+Inﬁnite series
+
+If we want the sum of the inﬁnite series ∞ i=1 ui -if such a thing exists - we need to be clear we mean. Assume that all the terms in the series are non-negative, that is 0 ≤ ui. Consider the partial sums S1 = u1 S2 = u1 + u2 S3 = u1 + u2 + u3 S4 = u1 + u2 + u3 + u4 ··· SN = u1 + u2 + u3 + · · · + uN If the sequence {Sn} converges to a limit S then we say that the series ∞ i=1 ui is convergent and the sum is S. Otherwise we say the series diverges or is divergent. Examples • is divergent. We can argue: Let S4 = 1 + and S8 = 1 + 1 + 2 1 1 + 3 4 + 1 1 1 1 + + + 5 6 7 8 >1+ 1 1 1 + + > 3/2 2 2 2 1 1 1 1 + + =1+ + 2 3 4 2 1 1 + 3 4 >1+ 1 1 + >2 2 2
+∞ 1 n=1 n
+
+···
+
+78
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+7.1. SERIES
+
+83
+
+Sequences
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 + + + + + + + + + + + S16 = 1+ + + + 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 1 1 1 1 + + + > 6/2 2 2 2 2 In general we can ( with care show ) >1+ S2k > k +1 2
+
+So we can make the partial sums of 2k terms as large as we like and they are increasing and unbounded. Thus the series must be divergent. This has an important consequence if un → 0 it does not mean that the sum is convergent. It may be but it may not be!
+∞ n n=0 x
+
+•
+
+is convergent for |x| < 1 and the sum is 1/(1 − x). When |x| > 1 the series is divergent. We can argue that
+N
+
+xn =
+n=0
+
+and since we have an explicit form for the sum the result follows. •
+∞ 1 n=1 n(n+1)
+
+1 − xN−1 → 1/(1 − x) 1−x
+
+converges and the sum is 1 since 1 1 1 − − n(n + 1) n=1 n (n + 1) n=1
+N N
+
+=1−
+
+1 N+1
+
+•
+
+∞ 1 n=1 nα
+
+is divergent for α ≥ 1 and convergent otherwise.
+
+Some Rules for series of positive terms • If and ∞ n=1 vn are both convergent with sums S and T then ∞ ( u ± v ) converges to S ± T. n n n=1
+∞ n=1 un
+
+• If ∞ n=1 un converges then adding or subtracting a ﬁnite number of terms does not aﬀect convergence, it will however aﬀect the sum.
+
+79
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+84
+
+CHAPTER 7. SEQUENCES
+∞ n=1 un
+
+Sequences
+
+• If un does not converge to zero then
+
+does not converge.
+
+∞ ∞ • The comparison test: If n=1 un and n=1 vn are two series of positive terms and if {un/vn} tends to a non zero ﬁnite limit R then the series either both converge or both diverge.
+
+• The Ratio test: If L then
+
+∞ n=1 un is
+
+– If L < 1 the series converges. – If L > 1 the series diverges.
+
+a series of positive terms and suppose {un+1/un} →
+
+– If L = 1 the question is unresolved. • The integral test: Suppose we have f which satisﬁes
+∞ n=1 un and
+
+f(n) = un for some function
+
+1. f(x) is decreasing as x increases. 2. f(x) > 0 for x ≥ 1 Then 1. 0 <
+N n=1 un
+
+−
+
+N+1 f(x)dx 1
+
+< f(1)
+∞ 1
+
+2. The sum converges if the integral ∞ f(x)dx is inﬁnite. 1 Absolute Convergence
+
+f(x)dx is ﬁnite and diverges if
+
+∞ ∞ If We say that n=1 un is absolutely convergent if n=1 | un | converges. ∞ ∞ n=1 |un| does not converge but n=1 un does then we say the series is conditionally convergent. The nice thing about absolutely convergent series is we can rearrange the terms without aﬀecting the convergence or the sum.
+
+Alternating sign test On simple test for non conditionally convergent series is the alternating sign test. Suppose we have a decreasing sequence of positive terms {un} and let S = u1 − u2 + u3 − u4 + . . . + (−1)nun . . . Then S converges. For example 1− 1 1 1 1 1 + − + − ... 2 3 4 5 6
+
+80
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+7.1. SERIES
+
+85
+
+Sequences
+
+Power series A series of the form S = a0 + a1x + a1x + a2x + a3x . . . =
+2 3 ∞
+
+anxn
+
+n=0
+
+is called a power series Many power series only converge for values of x which satisfy | x |< R for some value R. This value is called the radius of convergence. We can usually rind R using the ratio test, for example S=1+ Then | un+1/un |= x x + 5 5 x 5
+2
+
++
+
+x 5 x 5
+
+3
+
++
+
+x 5 =
+
+4
+
+...
+
+n+1
+
+/
+
+n
+
+x 5
+
+for this to be less than 1 we need | x |< 5 You can then check x ± 5 separately. Exercises 1. Write down the ﬁrst ﬁve terms of each of the sequences deﬁned below (a) an = 1 − (0.2)n (b) an = 1 − (−0.2)n (c) an = (n2 + 1)/(n + 1). (d) an = 3/an−1 a1 = −1
+
+2. Graph the sequences in question 1. 3. Decide which of the following sequences converges and ﬁnd the limit if it exists. (a) 2 − (0.2)n (b) 2 − (−0.2)n (c) (n + 1)/(n2 + 1) (d) (4 + n)/(3n − 2) (e) (4 + n) (f) (n2 − n + 2)/(5n2 + 4n + 1) (g) 2n − − 1 2
+
+81
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+86
+
+CHAPTER 7. SEQUENCES
+
+Sequences
+
+4. How large must n be for (1/3)n to be less that (a) 0.01 (b) 10−6 5. Find a number N such that n2/2n ≤ 0.001 if n > N. 6. Suppose an = x1/n x>1 (a) Show that the sequence is decreasing. (b) Show that the sequence is bounded below. (c) Is the sequence convergent? 7. Show that 1 + 3 + 5 + · · · + (2N − 1) = N2 8. Find 1 (n + 1)(n + 2) n=1 9. Decide which of the following sums are convergent. (a) (b) (c)
+∞ n=1 1/(2n − 1) ∞ 2 n=1 2/(n + 3) √ ∞ n=1 1/ 2n − 1 N
+
+82
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Calculus
+
+Chapter 8 Calculus
+I’m very good at integral and diﬀerential calculus, I know the scientiﬁc names of beings animalculous; In short, in matters vegetable, animal, and mineral, I am the very model of a modern Major-General. The Pirates of Penzance. Act 1. We have looked at limits of sequences, now I want to look at limits of functions. Suppose we have a function f(x) deﬁned on an interval a ≤ x ≤ b. I have a sequence x1, x2, · · · , xn which tends to a limit x0. Can I say that the sequence f(x1), f(x2, . . . , f(xn) tends to and what do I mean? We normally deﬁne the limit as follows: We say that f(x) → f(x0) as x → x0 if for any δ > 0 such that | x − x0 |< δ ⇒| f(x) − |< > 0 there is a value
+
+This is in the same spirit as our previous deﬁnition for sequences. We can be as close as we wish to the limiting value . For example (x − 2)4 → 0 as x → 2. If you given me an 0 < < 1 then if | x − 2 |≤ δ we know | (x − 2)4 − 0 |≤ δ4. So provided δ ≤ we have a limit as x → 0! 80.0 6 70.0 60.0 50.0 40.0 30.0 20.0 10.0 1.0 2.0 87 3.0 4.0
+-
+
+83
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Calculus
+
+88
+6
+
+CHAPTER 8. CALCULUS
+
+0.5 0.5 1.0 1.5 2.0 2.5 3.0 3.5 -0.5
+-
+
+In the second case we plot sin (1/x). This starts to oscillate faster and faster as it approaches zero and ( it is not quite simple to show) does not have a limit.
+
+84
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+89
+
+Calculus
+
+8.0.2
+
+Continuity and Diﬀerentiability
+
+We did not specify which direction we used to approach the limiting value, from above or from below. This might be important as in the diagram below where the f(x)
+
+x→
+
+x0
+
+function has a jump at x0. We like continuous functions, these are functions where f(x) → f(x0) as x → x0 from above and below. You can think of these as functions you can draw without lifting your pencil oﬀ the page. Continuous functions have lots of nice properties. If we have a continuous function we might reasonably look at the slope of the curve at any point. This may have a real physical meaning. So suppose we have the track of a car. We might plot the distance it travels, East say, against time. If the diﬀerence between the distance at times t0 and t1 is D then D/(t1 − t0) gives the approximate speed. This is just the procedure followed by average speed cameras on roads! However what we have observed is an average speed. If we want an estimate of speed at a particular time t we need t0 and t1 to approach t.
+
+t0
+
+t
+
+t1
+
+85
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Calculus
+
+90
+
+CHAPTER 8. CALCULUS
+
+f(x + δx)
+
+y
+
+θ
+
+f(x)
+
+x
+
+x + δx
+
+If we take the times to be t and t + δt, where δt means a small extra bit of t, then we want f(t + δt) − f(t) (t + δt − t) as δt becomes small or more explicitly f(t + δt) − f(t) as t → 0 δt
+
+This limit gives the derivative which is the slope of the curve f(t) at the point t and is written f (t) or f(t + δt) − f(t) df = lim (8.1) dx δt→ 0 δt Suppose we take y = f(t) = 3 − 4t, a line with constant negative slope. Using the equation 8.1 we have df −4δt 3 − 4(t + δt) − 3 + 4t = lim = = −4 dx δt→ 0 δt δt
+
+If we now have y = x2 − 3 we have, writing x for t
+
+So at x=2 the slope is zero while when x is negative the slope is down and then is upwards when x is greater that zero. You might ﬁnd it useful to consider the plot. Note that if we take a point on a curve and draw a straight line whose slope is f (x) this line is known as the tangent at x.
+
+x2 + 2xδx + (δx)2 − 3 − x2 + 3 2xδx + (δx)2 (x + δx)2 − 3 − x2 + 3 df = lim = = = 2x+δx = 2x dx δt→ 0 δx δx δx
+
+86
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Calculus
+
+91 12 6 10 8 6 4 2 -3 -2 -1 -2 1 2 3
+
+-
+
+Of course life is too short for working out the derivatives dy/dx like this from ﬁrst principles so we tend to use rules ( derived from ﬁrst principles ). 1. 2. 3. 4. 5. 6. df d [af(x)] = a where a is a constant. dx dx df dg d [f(x) + g(x)] = dx dx dx dg df d [f(x)g(x)] = f(x) + g(x) dx dx dx 1 df d 1 =− 2 dx f(x) f (x) dx d n [x ] = nxn−1 when n = 0 and zero otherwise. dx df(g(x)) = f (g(x))g (x) using for the derivative. dx
+
+87
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+92
+
+CHAPTER 8. CALCULUS
+
+Calculus
+
+This set of rules makes like very easy, so d (3x2 − 11x + 59) = 3 × 2x − 11 dx 6x − 11 d 1 =− 2 2 dx (3x − 11x + 59) (3x − 11x + 59)2 d (3x2 − 11x + 59)(x − 1) = (6x − 11)(x − 1) + (3x2 − 11x + 59)(1) dx Example Suppose we would like to show that sin x ≤ x for 0 ≤ x ≤ π/2. We know that when x = 0 x = sin x = 0. But dx d sin x = 1 and = cos x dx dx Since cos x ≤ 1 in the interval it implies that sin x grows more slowly than x and the result follows. Once we move away from polynomials life gets a little more complex. In reality you need to know the derivative to be able to proceed so you need a list such as in table 8.1. Note that the derivative of exp(x) is just exp(x). So for example Table 8.1: Table of derivatives: all logs are base e and a is a constant Function exp(ax) ax log(ax) xx sin(ax) cos(ax) tan(ax) Derivative a exp(ax) ax log(a) 1 x xx(1 + log x) a cos(x) −a sin(x) a cos2(x)
+
+• If y = exp(−x2) then
+
+d exp(−x2) = exp(−x2)(−2x) dx
+
+6x − 4 d log(3x2 − 4x + 1) = 2 dx (3x − 4x + 1) It is important to remember that the formulas only work for logarithms to base e and trigonometric functions, sin, cos etc expressed in radians. • If y = log(3x2 − 4x + 1) then
+
+88
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+93
+
+Calculus
+
+higher derivatives d dy dy dx is a function we might wish to diﬀerentiate it again to get called dx dx d2y d4y the second derivative and written . If we diﬀerentiate 4 times we write dx2 dx4 and in general dny n = 2, 3, 4, . . . dxn Since So if y = log(x) we have 1 dy = dx x Maxima and minima One common use for the derivative is to ﬁnd the maximum or minimum of a function. It is easy to see that if we have a maximum or minimum of a function then the derivative is zero. Consider y = 1 x3 + 1 x2 − 6x + 8 3 2 f(x) = 1 x3 + 1 x2 − 6x + 8 3 2 40 30 20 10 -4 -2 -10 -20 -30
+6
+
+1 d2y =− 2 2 dx x
+
+2 d3y = 3 3 dx x
+
+6 d4y = − 4 ... 4 dx x
+
+2
+
+4
+
+-
+
+df We compute = x2 + x − 6 which is zero when x2 + x − 6 = (x + 3)(x − 2) = 0 dx or x = −3 and x = 2 and from the plot it we see that we have found the turning points of the function. These are the local maxima and minima. However when we step back and look at the whole picture it is possible to we df have a stationary point i.e. = 0 which is not a turning point and hence we dx need a local max or minimum rule:
+
+89
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Calculus
+
+94
+
+CHAPTER 8. CALCULUS
+
+dy =0 dx dy < 0 for x < x0 dx dy > 0 for x > x0 dx x0 is a minimum d2y >0 dx2 dy > 0 for x < x0 dx dy < 0 for x > x0 dx x0 is a maximum d2y <0 dx2
+
+1. The function f(x) = 1 x3 + 1 x2 − 6x + 8 has derivative 3 2
+
+dy = x2 + x − 6 so dx = 0. When x < 2 the derivative is negative while when at x = 2 we have dy dx x > 2 it is positive so we have a minimum. d2y = 2x + 1 > 0 at x = 2 so we have a minimum. dx2
+
+2. Or perhaps simpler
+
+3. When x = −3 again dy = 0. For x < −3 dy > 0 while when x > −3 dy <0 dx dx dx implying a maximum. 4. Again for simplicity d2y = 2x + 1 < 0 at x = −3 hence we have a maximum. dx2
+
+90
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+95
+
+Calculus
+
+Example Suppose we make steel cans. If the form of the can is a cylinder of height h and radius r the volume of the can is V = πr2h and the area of the steel used is A = 2πrh + 2πr2. We want the volume to be 64cc. and hence V = πr2h = 64 which gives h = 64/(πr2). The area is therefore A = 2πrh + 2πr2 = 128/r2 + 2πr2 To minimize the area we compute dA = −128/r2 + 4πr dr which is zero when 4πr3 = 128 giving r To check that this is a minimum 2.17 and h = 64/(πr2) 4.34.
+
+d2A = 256/r3 + 4π 2 dr which is positive when r is positive so we have a minimum. The Taylor Expansion We leave you with one useful approximation. If we have a function f(x) then we have an dfn df a2 df2 + + . . . + + ... f(x + a) = f(x) + a dx 2! dx2 n! dxn When a is small and we evaluate the derivatives at x. For example if we take sin x the derivatives are cos x, −sinx, −cosx, sinx, . . . . So at x = 0 since sin 0 = 0 and cos 0 = 1 a 3 a5 a7 sin(a) = a − + − − ... 3! 5! 7!
+
+8.0.3
+
+Newton-Raphson method
+
+We now examine a method, known as the Newton-Raphson method, that makes use of the derivative of the function to ﬁnd a zero of that function. Suppose we have reason to believe that there is a zero of f(x) near the pointx0. The Taylor expansion for f(x) about x0 can be written as: f(x) = f(x0) + (x − x0)f (x0) + 1 (x − x2 0f (x0) + . . . 2!
+
+If we drop the terms of this expansion beyond the ﬁrst order term we have f(x) = f(x0) + (x − x0)f (x0)
+
+91
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+96
+
+CHAPTER 8. CALCULUS
+
+Calculus
+
+Now set f(x) = 0 to ﬁnd the next approximation, x1, to the zero of f(x), we ﬁnd: f(x1) = f(x0) + (x1 − x0)f (x0) = 0 or x 1 = x0 − f(x0) f (x0)
+
+This provides us with an iteration scheme which may well converge on the zero of f(x), under appropriate conditions. example Suppose we want the cube root of 2 or the value of x for which f(x) = x3 − 2 = 0. Here f (x) = 3x2 so x3 − 2 x1 = x0 − 0 2 3x0 Starting with x0 = 1 we have x1 = 1.333333 and using this value for x0 we get x1 = 1.263889. The steps are laid out below Step 0 1 2 3 4 Estimate 1 1.333333 1.263889 1.259933 1.259921
+
+Or suppose f(x) = sin x − cos x then f (x) = cos x + sin x and so x1 = x0 − then starting with x0 = 1 we have Step 1 2 3 4 5 Estimate 1 0.7820419 0.7853982 0.7853982 0.7853982 sin x0 − cos x0 cos x0 + sin x0
+
+To examine the conditions under which this iteration converges, we consider the iteration function f(x) g(x) = x − f (x)
+
+92
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+97
+
+Calculus
+
+whose derivative is: g (x) = 1 − (f (x))2 − f(x)f (x) f(x)f (x) = 2 (f (x)) (f (x))2
+
+At the actual zero, f(x) = 0, so that as long as f (x) = 0, we have g (x) = 0 at the zero of f(x). In addition we would like the iteration function to get smaller, that is | g (x) |< 1. We conclude that the Newton-Raphson method converges in the interval where. f(x)f (x) <1 (f (x))2 Step 0 1 2 3 4 Estimate 1 1.333333 1.263889 1.259933 1.259921
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+93
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+Calculus
+
+98
+
+CHAPTER 8. CALCULUS
+
+8.0.4
+
+Integrals and Integration
+
+Many important problems can be reduced to ﬁnding the area under a curve between two points a and b
+
+f(x)
+
+a
+
+x→
+
+b
+
+The obvious idea is to split the area into small rectangles and sum the area of these. So if we take the rectangle between xj and xj+1 this has a height of f(xj) and an area of f(xj)(xj+1 − xj). If we add all such rectangles this gives an gives an approximation to the area. We do better when the width of the rectangles gets small so if we choose all the widths as δ our approximation is
+
+f(xj)δx for a = x1, x2, . . . , xn = b When we shrink δx to zero we have the area we need and write
+b
+
+f(x)dx
+a
+
+The
+
+sign was originally a capital S, for sum.
+
+94
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Calculus
+
+99
+
+f(x)
+
+f(xj)
+
+a
+
+x→
+
+xj xj+1
+
+b
+
+We avoid technicalities and deﬁne the deﬁnite integral of a functionf(x) between a and b as
+b
+
+f(x)dx
+a
+
+which is the area under the curve, see ﬁgure 8.1 Using the idea of areas we have
+
+Figure 8.1: Areas under f(x) some rule for integrals 1. If a ≤ c ≤ b then 2. For a constant c
+b f(x)dx a b cf(x)dx a
+
+= =c
+
+c f(x)dx a
+
++
+
+b f(x)dx c
+
+b f(x)dx a b c (f(x) a
+
+3. For two functions f(x) and g(x)
+
++ g(x)) dx =
+
+b b f(x)dx+ a g(x)dx a
+
+95
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+100
+
+CHAPTER 8. CALCULUS
+
+Calculus
+
+Perhaps the most important result about integration is the fundamental theorem of calculus. It is easy to follow, if not to prove. Suppose we have a function f(x) and we deﬁne x F(x) = f(t)dt
+a
+
+Then
+
+x d dF(x) = f(t)dt = f(x) dx dx a In other words integration is rather like the reverse of diﬀerentiation. We need to be a bit careful so deﬁne F(x) as the primitive of f(x) if
+
+dF(x) = f(x) dx So log x is a primitive for 1/x as is log x + 23. The primitive is normally called the indeﬁnite integral f(x)dx of f(x) and is deﬁned up to a constant, so f(x)dx = F(x) + constant If the limits of the integration exist, say a and b then we have the deﬁnite integral
+b
+
+f(x)dx = F(b) − F(a)
+a
+
+(8.2)
+
+We can of course spend time looking at functions which diﬀerentiate to what we want. Normally however we use tables ( or our memory) So f(x) F(x) = f(x)dx x (n = −1) xn/(n + 1) 1/x log x exp(ax) exp(ax)/a log x x log x − x ax ax/ log a sin(ax) −cos(ax)/a cos sin(ax)/a √ (ax) 1/ a2 − x2 sin−1(x/a) (−1 < x < a) 1/(a2 − x2) tan−1(x/a)
+n
+
+Example 1. 2. 3. 4. x2dx = x3/3 + constant
+3 x2dx −2 10 1
+
+= x3/3
+
+3 −2
+
+= (3)3/3 − (−2)3/3 = (27 + 8)/3
+
+= 1/xdx = [log x]10 1 = log 10 − log 1 = 2.30 . . . − 0 √ 1/2 −1 dx/ 1 − x2 = [sin1(x)]10 1 = sin (1/2) − sin−1(0) = π/6 0
+
+96
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+101
+
+Calculus
+
+Exercises Evaluate the following integrals and check your solutions by diﬀerentiating. 1. 2. 3. x3dx 1/x2dx (25 + x2)−1dx
+
+Evaluate 1. 2. 3.
+7 log xdx 3 2 −3/2 x dx 1 2a 2 (a a
+
++ x2)−1dx
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+97
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+Algebra: Matrices, Vectors etc.
+
+Chapter 9 Algebra: Matrices, Vectors etc.
+The human mind has never invented a labor-saving machine equal to algebra Author Unknown We now meet the ideas of matrices and vectors. While they may seem rather odd at ﬁrst they are vital for studies in almost all subjects. The easiest way to see the power of the idea is to consider simultaneous equations. Suppose we have the set of equations 3x − 5y = 12 x + 5y = 24 We can ﬁnd the solution x = 9 y = 3 in several ways . For example if we add the second equation to the ﬁrst we have equations 4x = 36 x + 5y = 24. Thus x = 9 and substituting 9 in the second equation gives 9 + 5y = 24 or 5y = 15 giving y = 3. Many mathematical models result in sets of simultaneous equations, like these except much more complex which need to be solved, or perhaps just to be examined. To do this more easily the matrix was invented. The essence of the set of equations 3x − 5y = 12 x + 5y = 24 is captured in the array or matrix of coeﬃcients matrix 3 −5 12 1 5 0 3 −5 1 5 or the augmented
+
+These arrays of numbers are called matrices. To save 103
+
+98
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+104
+
+CHAPTER 9. ALGEBRA: MATRICES, VECTORS ETC.
+
+Algebra: Matrices, Vectors etc.
+
+or
+
+space we often give matrices names in boldface, for example   3 −5 12  1 5 24   A=  6 8 −3  11 0 0 X= 3 −5 12 0 1 5 24 0 .
+
+We deﬁne an r × c matrix as a rectangular array of numbers with r rows and c columns, for example A above is a 4 × 3 matrix while X is 2 × 4 is A matrix with just one column is called a column vector while one with just one row is a row vector, for example a column vector   3  1  a= 6 and a row vector b= 3 −5 12 −19
+
+We use matrices in ways which keep our links with systems of equations. Before looking at the arithmetic of matrices we see how we can use them to come up with a general method of solving equations.
+
+9.0.5
+
+Equation Solving.
+
+If you were to look at ways people use to solve equations you would be able do deduce some simple rules. 1. Equations can be multipled by a non-zero constant 2. Equations can be interchanged 3. Equations can be added or subtracted to other equations If equations are manipulated following these rules they may look diﬀerent but they have the same solutions as when you started. We can solve equations by writing the coeﬃcients in the augmented matrix form and manipulating as follows 1. rows of the matrix may be interchanged 2. rows of the matrix may be multiplied by a nonzero constant.
+
+99
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Algebra: Matrices, Vectors etc.
+
+105 3. rows can be added (or subtracted ) to (from) other rows Our aim is to reduce the matrix to what is known as row echelon form. This means that: • the leading non zero term in each row is a one. • Also the leading 1 in the ﬁrst row lies to the left of that in the second row and so on. More precisely the leading 1 in any row lies to the left of the leading ones in all the rows below it. For example  1 1 −5 12 1 −5 12  0  0 0 24  or  0 1 24  or   0 0 0 1 0 0 0 0      1 12 −19 1 1 0   0 1 3  0 0 1
+
+The reason for this will become apparent when we do it. Lets try it out: We start with the equations 2x + y + 2z = 10 x − 2y + 3z = 2 −x + y + z = 0 in this case the coeﬃcients are   2 1 2 10  1 −2 3 2  −1 1 1 0
+
+We are allowed to manipulate rows, these are row operations, to try and get to the row echelon form. Thus we have   2 1 2 10 1. Add row 2 to row 3 to get 1 −2 3 2  0 −1 4 2   1 3 −1 8 2. Subtract row 2 from row 1 to get  1 −2 3 2  0 −1 4 2   1 3 −1 8 3. Subtract row 1 from row 2  0 −5 4 −6  0 −1 4 2
+
+100
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists Algebra: ETC. Matrices, Vectors etc. 106 CHAPTER 9. ALGEBRA: MATRICES, VECTORS
+
+106
+
+CHAPTER 9. ALGEBRA: MATRICES, VECTORS ETC. 3 3 5 5 1 1  −1 8  − −1 4 8 6   − 4 6 −4 −2 −4 −2
+
+  4. Tidy to get  4. Tidy to get 
+
+  5. Subtract 5 times row 3 from row 2 to get  5. Subtract 5 times row 3 from row 2 to get    6. Interchange rows 2 and 3  6. Interchange rows 2 and 3    7. Tidy  7. Tidy  1 1 0 0 0 0 3 3 1 1 0 0 −1 − −1 4 − 4 16 16 8 8 −2 − 2 16 16
+
+1 1 0 0 0 0
+
+ 1 3 −1 8  1 82  0 3 1 − −1 4 −  0 0 1 0 − 14 − 12 0 0 1 1 This seems more like row echelon . This seems more likecorresponds row echelonto . the set of equations This last matrix This last matrix corresponds to the set of equations x + 3y − z = 8 x + 3y − z = 8 y − 4z = −2 y − 4z = −2 z = 1 z = 1 These are much easier to solve! Here These are much easier to solve! Here z = 1 y = 2 x = 3. z = 1 y = 2 x = 3.
+www.sylvania.com
+
+1 1 0 0 0 0    
+
+3 3 0 0 1 1
+
+−1 − 1 16 16 − 4 −4
+
+ 8  8  16  16 − 2 −2
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+101
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+Algebra: Matrices, Vectors etc.
+
+107
+
+It is often nicer to go a bit further and get rid of as much of the upper triangle as possible. Clearly the leading 1 in each row can be used to get zeros in the column above it. The resulting matrix is called reduced row echelon form of the original matrix. Here we get       1 0 0 3 1 3 0 9 1 3 −1 8  0 1 −4 −2  →  0 1 0 2  →  0 1 0 2  0 0 1 1 0 0 1 1 0 0 1 1
+
+It does really matter a great deal to us which we use since we are only interested in solutions. Lets look at another example 6x + 3y + 6z = 9 x + 2y = 16 4x + 5y + 1z = 18
+
+The augmented form is
+
+We have         1 2 0 6 1 2 0 6 0 −9 6 −27 6 3 6 9  1 2 0 6  →  1 2 0 6  →  0 3 −2 9  → . . . →  0 1 −2/3 3  0 0 1 −3 0 3 −1 −6 0 −3 1 −6 4 5 1 1 Some steps have been concatenated! What can go wrong In reality nothing much can go wrong but we need to examine a couple of cases where the results we obtain require some thought. 1. Suppose we end up with a row of zeros. This is no problem, except when the number of non-zero rows is less that the number of variables. This just means there is not an unique solution e.g x + 2y − z = 0 x+z = 3 2x + 2y = 3
+
+ 6 3 6 9  1 2 0 6  4 5 1 18 
+
+102
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+108
+
+CHAPTER 9. ALGEBRA: MATRICES, VECTORS ETC.
+
+Algebra: Matrices, Vectors etc.
+
+We have       1 2 1 −6 1 2 −1 0 1 2 −1 0  1 0 1 3  → · · · →  0 1 −2 −3  →  0 1 −1 −3/2  0 0 0 0 0 0 0 0 2 2 0 3 This corresponds to x+y+z = −69 y − z = −3/2
+
+Now there is a solution for these equations but it is not the explicit unique type we have been dealing with up to now. If z is known, say z0 then it follows x = 3 − z0 and y = (2z0 − 3)/2. We have a solution for every z0 value. Technically there are an inﬁnite number of solutions. It is obvious if you think about it that if you have fewer equations than variables (unknowns) then you will not have a simple solution. If we have 2 rows all zero then we have to give a value to two variables, if 3 then 3 variables and so on. 2. No Solution Of course your equations may not have a solution in that they are contradictory, for example: x = 1 y = 3 x = −2 z = 16 We recognize the equations are contradictory ( have no solutions at all ) in the following way. If we have a row of which is all zero except for the very last element then the equations have no solution. For example: Suppose we have the equations x − 2y − 3z = 1 2x + cy + 6z = 6 −x + 3y +(c − 3)z = 0
+
+where c is some constant. We proceed to row echelon     1 −2 3 2 1 −2 3 1  2 c 6 6 → 0 c+6 0 4  0 1 c 0 −1 3 c − 3 0
+
+103
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Algebra: Matrices, Vectors etc.
+
+109
+
+Before we go further what happens if c = −6? The middle row of our matrix corresponds to 0=4 which is nonsense. Thus the original equation set does not have a solution when c = −6 However we will just carry on       1 −2 3 1 1 −2 3 1 1 −2 3 1  2 c 6 6  →  0 c + 6 2c 6  →  0 0 2c − c(c + 6) 4  0 1 c 0 0 1 c 1 −1 3 c − 3 0     1 −2 3 1 1 −2 3 1 c 0  c 0 → 0 1 → 0 1 2 0 0 −4c − c 1 0 0 2c − c(c + 6) 6
+
+Now if −4c − c2 = 0, that is c = 0, or c = −4 our last equation is 0 = 1 which is clearly nonsense! This means that the original equations had no solution.
+
+You may feel that this is a bit of a sledge hammer to crack a nut, but there is a real purpose to our exercise. If you move away from the trivial cases then the scheme we have outlined above is the best approach. It is also the technique use in the computer programs available for equation solving. In addition the shape of the reduced row echelon form tell us a lot about matrices. Often we have a system of equations where we have some parameters e.g. using our techniques above we can ﬁnd the range of values, or perhaps the values themselves when solutions are possible. The row elimination ideas we have outlined are known as Gaussian elimination in numerical circles. The algorithms which bear tis name, while very much slicker are based on these simple ideas.
+
+104
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Algebra: Matrices, Vectors etc.
+
+110 Exercises 1. Solve (a)
+
+CHAPTER 9. ALGEBRA: MATRICES, VECTORS ETC.
+
+2x + 3y = 7 5x − y = 9
+
+(b) x + 3y + 3z = 1 2x + 5y + 7z = 1 −2x − 4y − 5z = 1
+
+(c) v−w−x−y−z 2v − w + 3x + 4z 2v − 2w + 2x + y + z v + x + 2y + z = = = = 1 2 1 0
+
+(d) w + 2x − 3y − 4z = 6 w + 3x + y − 2z = 4 2w + 5x − 2y − 5z = 10
+
+2. Consider the equations v−w−x−y−z 2v − w + 3x + 4z 2v − 2w + 2x + y + z v + x + 2y + z = = = = 1 2 1 c
+
+For what values of c do these equations have a unique solution? Are there any values of c for which there is no solution?
+
+105
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Algebra: Matrices, Vectors etc.
+
+111
+
+9.0.6
+
+More on Matrices
+
+If we have an n × m matrix A we need some way of referring to a particular element. It is common to refer to the (ij)th element meaning the element in row i and column j. We think of the matrix as having the form   a11 a12 · · · a1,n−1 a1n  a21 a22 . . . a2,n−1 a2n     a a · · · a a A= 31 32 3,n − 1 3n    cdots · · · · · · ··· ···  am1 am2 · · · am,n−1 am,n If we have a typical ijth element we sometimes write A = (aij) The unit matrix is an n × n matrix with ones on the diagonal and zeros elsewhere, usually written I for example   1 0 0 0  0 1 0 0  1 0  or   0 0 1 0  0 1 0 0 0 1 So A is a unit matrix if 1. It is square. 2. The elements aij satisfy aii = 1 for all i and aij = 0 for all i = j
+
+9.0.7
+
+Addition and Subtraction
+
+We can add or subtract matrices that have the same dimensions by just adding or subtracting the corresponding elements. For example a11 a12 a21 a22 a11 a12 a21 a22  1 2 when A =  3 4 4 0 5 5  5 5 while A − B = 4 5 and + b11 b12 b21 b22 b11 b12 b21 b22  = a11 + b11 a12 + b12 a21 + b21 a22 + b22
+
+a11 − b11 a12 − b12 a21 − b21 a22 − b22    −3 −1 −4 −3  and B =  −2 −1  then A + B =  1 3  4 1 0 5  −   =
+
+106
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+112
+
+CHAPTER 9. ALGEBRA: MATRICES, VECTORS ETC.
+
+Algebra: Matrices, Vectors etc.
+
+Multiplication by a scalar ( number) We can multiply a matrix A by a number s to give sA which is the matrix whose elements are those of A multiplied by s, so if   a11 a12 · · · a1,n−1 a1n  a21 a22 . . . a2,n−1 a2n     a a · · · a a A= 31 32 3,n − 1 3n    ··· ··· ··· ··· ···  am1 am2 · · · am,n−1 am,n then   sA =     sa11 sa21 sa31 ··· sam1 sa12 sa22 sa32 ··· sam2 · · · sa1,n−1 sa1n . . . sa2,n−1 sa2n · · · sa3,n−1 sa3n ··· ··· ··· · · · sam,n−1 sam,n      
+
+We use the term scalar for quantities that are not vectors. Transpose of a matrix
+
+If we take a matrix A and write the columns as rows then the new matrix is called the transpose A written AT or A   1 11 1 2 4 then AT =  2 12  Notice that (AT )T = A. Thus if A = 11 12 0 4 5 Any matrix that satisﬁes A = AT is said to be symmetric. If A = −AT then it is anti-symmetric. Multiplication of Matrices This is a rather more complicated topic. We deﬁne multiplication in a rather complex way so that we keep a connection with systems of equations. Suppose A is an n × p matrix and B is a p × m matrix. Then the (ij)th element of AB is
+p
+
+aikbkj = ai1b1j + ai2b2j + ai3b3j + ai4b4j + . . . + aip−1bp−1j + aipbpj
+k=1
+
+107
+Download free eBooks at bookboon.com
+
+113 113 113 Note that AB is an n × m matrix. One way of thinking of this is to notice that Mathematics for Computer Scientists Algebra: Matrices, Vectors etc. the (ij )th element ofnthe product matrix is made up by multiplying in Note that AB is an ×m matrix. One way of thinking of this is to elements notice that Note that AB is an n × m matrix. One way of thinking of this is to notice that the i th row of the ﬁrst matrix by the corresponding elements in the j th column of the (ij)th element of the product matrix is made up by multiplying elements in (th ij)th element of the product matrix made up by multiplying elements the second matrix. The products are then is summed. the i row of the ﬁrst matrix by the corresponding elements in the jth column in of the i th row of the ﬁrst matrix by the corresponding elements in the j th column of the second matrix. The products are then summed. the second matrix. The products are then summed. examples   examples 7 examples   6   1 2 3  7  = 1 × 7 + 2 × 6 + 3 × 4 = 31 4  = 1 × 7 + 2 × 6 + 3 × 4 = 31 6 1 2 3  7  6  = 1 × 7 3  1 2 + 2 × 6 + 3 × 4 = 31 4 7 14 21 7     4  6 12 18   6   1 2 3 = 7  7 14 21  21 4 14 8 12 4  1 2 3 = 7  7 6 12 18  6  6  1 2 3 =  6 12 18  4 58 22 12 4 1 4 1 2 4 = 4 8 12 28 2 4 9 4 12 5 124 22 1 1 2 = 5 22 1 4 1 2 2 9 = 28 124 Some consequences are 4 12 28 124 2 9 4 12 Some consequences are • You can only multiply matrices if they have the right dimensions. Some consequences are • • • • • • • • • • • • • • • • • You can only multiply matrices if they have the right dimensions. In general ABmultiply = BA matrices You can only if they have the right dimensions. In general AB = BA AIgeneral = A AB In = BA AI = A IA = =A A but I has diﬀerent dimensions to that above AI IA = A but I has diﬀerent dimensions to that above A0 = =A 0 but IA I has diﬀerent dimensions to that above A0 = 0 0A = =0 0 but 0, a matrix of zeros, has diﬀerent dimensions to that above A0 0A = 0 but 0, a matrix of zeros, has diﬀerent dimensions to that above 0A = 0 but 0, a matrix of zeros, has diﬀerent dimensions to that above
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+108
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+114
+
+CHAPTER 9. ALGEBRA: MATRICES, VECTORS ETC.
+
+Algebra: Matrices, Vectors etc.
+
+As we said the reason for this strange idea is so that it ties in with linear equations, thus if x + 2y = u 4x + 9y = v and v + 4y = 3 2v − y = 0 these can be written in matrix form Ax = and Bu = 1 2 4 9 1 4 2 −1 x y = u v 3 0 =u
+
+u v
+
+=
+
+So we can write both e can write systems of equations as one matrix equation BAx = 1 4 2 −1 1 2 4 9 3 0 17 38 −2 −5 x= 3 0
+
+x=
+
+This is exactly the same set of equations we would have had if we had eliminated u and v without any matrices. Inverses So we have a whole set of algebraic operations we can use to play with matrices, except we have not deﬁned division since if we can multiply then why not divide? For a ( non-zero) number z we can deﬁne the inverse z−1 which satisﬁes zz−1 = z−1z = 1. In the same way we say that the matrix A has an inverse A−1. if there is a matrix A−1 which satisﬁes A−1A = AA−1 = I. Beware not all matrices have inverses! Those that do are said to be non-singular otherwise a matrix which does not have an inverse said to be is singular. If you
+
+109
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Algebra: Matrices, Vectors etc.
+
+115
+
+think about it you will see that only square matrices can have inverses. Suppose A is an n × n matrix and B is another n × n matrix. If AB = BA = I where I is an n × n unit matrix then B is the inverse of A. Notice A must be square but not all square matrices have inverses. We can of course ﬁnd the inverse by solving equations. For example a b c d So e f g h = 1 0 0 1 1 0 0 1
+
+ae + bg af + bh ce + dg cf + dh
+
+=
+
+we then solve the four equations . ae + bg af + bh ce + dg cf + dh = = = = 1 0 0 1
+
+Not a very promising approach. However we can use the row-echelon ideas to get an inverse. All we do is take a matrix A and paste next to it a unit matrix I . Write this augmented matrix as B = (AI). We row reduce B to reduced row echelon form. The position of the original I 1 2 then is the inverse. For example suppose A = 4 9 B = (AI) We get using row operations 1 2 1 0 4 9 0 1 and the inverse is A−1 = Of course we check 1 2 4 9 9 2 −4 1 = 9 2 −4 1 1 2 4 9 → 1 2 1 0 0 1 −4 1 → 1 0 9 2 0 1 −4 1 1 2 1 0 4 9 0 1
+
+9 2 −4 1
+
+110
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+116
+
+CHAPTER 9. ALGEBRA: MATRICES, VECTORS ETC.
+
+Algebra: Matrices, Vectors etc.
+
+What can go wrong? 1. If you manage to convert the left hand matrix A to a unit matrix I then you have succeeded. 2. Sometimes as you manipulate the augmented matrix B you introduce a row of zeros into the position where you placed A. In this case you can stop as there is no solution.     6 3 6 1 0 0 6 3 6 Consider A =  1 2 0 . The augmented matrix is B =  1 2 0 0 1 0  4 5 1 0 0 0 4 5 0 Now using row operations we have       0 0 3 1 −6 0 0 −9 6 1 −6 0 6 3 6 1 0 0  1 2 0 0 1 0 → 1 2 0 0 1 0 → 1 2 0 0 1 0  0 −3 1 0 −4 1 0 −3 1 0 0 1 4 5 1 0 0 0     1 0 0 −2/9 −3 4/3 1 2 0 0 1 0 2 −1/3  →  0 1 −1/3 0 −4/3 −1/3  →  0 1 0 1/9 0 0 1 1/3 2 −1 0 0 1 1/3 2 1 giving us our inverse 
+
+ −2/9 −3 4/3  1/9 2 −1/3  1/3 2 0     6 3 6 1 0 0 6 3 6 Consider now A =  1 2 0 . The augmented matrix is B =  1 2 0 0 1 0  4 8 0 0 1 0 4 8 0 Now using row operations we have     0 −9 6 1 −6 0 6 3 6 1 0 0  1 2 0 0 1 0 → 1 2 0 0 1 0  0 0 0 0 0 0 4 8 0 0 0 0 Given the zeros we know there is no inverse! Of course we can think of solving equations using inverse matrices. It is almost always better to use row operations on the augmented matrix but we can proceed as follows. If we have the equations 6x + 3y + 6z = 9 x + 2y = 6 4x + 5y + z = 18
+
+111
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Algebra: Matrices, Vectors etc.
+
+117
+
+this can be written as     9 x 6 3 6  1 2 0  y  =  6  18 z 4 5 1  so  −1        6 3 6 x 9 −2/9 −3 4/3 9  y  =  1 2 0   6  =  1/9 2 −2/3   6  4 5 1 z 18 1/3 2 1 18 Ax = b then x = A−1b provided A−1 exists.
+
+In general if
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+112
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+118
+
+Algebra: Matrices, Vectors etc. CHAPTER 9. ALGEBRA: MATRICES, VECTORS ETC.
+
+Summary 1. The transpose of A written AT is the matrix made by writing the rows of A as columns in AT . 2. A is symmetric if A = AT  0 0 0 3. The zero matrix is the n × m array of zeros e.g  0 0 0  0 0 0 
+
+4. The unit matrix I ( of order n × m matrix with 1’s on the diagonal   n) is the 1 0 0 and zeros elsewhere e.g.  0 1 0  0 0 1 5. The matrix A has an inverse B iﬀ AB = BA = I. B is written A−1. 6. A matrix which has an inverse is said to be non-singular. 7. Do remember that except in special cases AB = BA
+
+Exercises
+
+4. Show that ABT = BT AT
+
+   1 2 3 1 −1 1 1. Given A =  −3 2 −1  and B =  2 4 6  compute AB and BA 1 2 0 −2 1 0   0 −2 3 0 4  is skew symmetric. 2. Show that  2 −3 −4 3   2 −2 4 3. If A =  −1 3 4  show that A = A2 1 −2 0 
+
+5. Show that the inverse of AB is B−1A−1    2 4 3 2 2 3 1  3 6 5 2 6. Find the inverse of  1 2 3  and   2 5 2 −3 3 2 2 4 5 14 0
+
+   
+
+113
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+9.1. DETERMINANTS Geometry
+
+Algebra: Matrices, Vectors etc.
+
+119
+
+We write the point (x, y) in the plane as the vector x = matrix Ax transforms x into a new point. Suppose A = 1. A 2. A 3. A 4. A 0 0 1 0 0 1 1 1 = = = = 0 0 1 0 1/2 1 3/2 1
+
+x . If A is a 2 × 2 y 1 1/2 Then 0 1
+
+If we plot the 4 points (0,0),(0,1),(1,1),(0,1) and their transforms we get
+
+−2 −2
+
+−1
+
+0
+
+y
+
+1
+
+2
+
+−1
+
+0 x
+
+1
+
+2
+
+9.1
+
+Determinants
+
+e f a b . We can show that this has an inverse g d c d when ∇ = ad − bc = 0, see 9.0.7. The quantity ∇ is called the determinant of the Consider the matrix
+
+114
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Algebra: Matrices, Vectors etc.
+
+120 a b c d
+
+CHAPTER 9. ALGEBRA: MATRICES, VECTORS ETC. a b c d  a b c or det(A). Similarly  d e f  g h i =0 
+
+matrix A =
+
+and is written
+
+has an inverse when a b c d e f g h i =a
+
+d e d f e f +c −b g h g i h i
+
+The general deﬁnition of a determinant of an n × n matrix A is as follows. 1. If n = 1 then det( A) = a11 2. if n > 1 Let Mij be the determinant of the (n − 1) × (n − 1) matrix obtained from A by deleting row i and column j. Mij is called a minor. Then
+n
+
+det(A) = a11M11−a12M12+a13M13−a14M14+. . . (−1)
+
+n+1
+
+a1nM1n =
+j=1
+
+(−1)j+1a1jM1j
+
+Determinants are pretty nasty but we are fortunate as we really only need them for n = 1, 2 or 3.
+
+9.2
+
+Properties of the Determinant
+Note: This is useful since it implies that whenever we use rows, a similar behavior will result if we use columns. In particular we will see how row elementary operations are helpful in ﬁnding the determinant.
+
+1. Any matrix A and its transpose AT have the same determinant, i.e. det(A)=det(AT ).
+
+2. The determinant  of a a diagonal, that is  0 0
+
+3. If we interchange two rows, the determinant of the new matrix is the opposite sign of the old one, that is     d e f a b c  d e f  = − a b c  g h i g h i
+
+triangular  matrix is the product of the entries on the b c e f  = aei 0 i
+
+115
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+9.2. PROPERTIES OF THE DETERMINANT
+
+Algebra: Matrices, Vectors etc.
+
+121
+
+4. If we multiply one row by a constant, the determinant of the new matrix one multiplied by the constant, that is  of the old  is the determinant a b c a b c  d e f  = λ  d e f  In particular, if all the entries in one g h i λg λh λi row are zero, then the determinant is zero. 5. If we add one row to another one multiplied by a  constant, the determinant of a b c  d e f = the new matrix is the same as the old one, that is λa + g λb + h λc + i   a b c  d e f  g h i Note that whenever you want to replace a row by something (through elementary operations), do not multiply the row itself by a constant. Otherwise, it is easy to make errors, see property 4
+
+6. det(AB)=det(A)det(B) 7. A is invertible if and only if det(A) = 0. Note in that case det(A−1)=1/det(A) While determinants can be useful in geometry and theory they are complex and quite diﬃcult to handle. Our last result is for completeness and links matrix inverses with determinants. Recall that the n × n matrix A does not have an inverse when det(A)=0. However the connection between determinants and matrices is more complex. Suppose we deﬁne a new matrix, the adjoint of A say adj(A) as  T M11 −M12 · · · (−1)n+1M1,n  −M21 M22 · · · (−1)n+2M2,n  T  adjA = (−1)i+1Mij =    ··· ··· ··· ··· n+1 n+2 2n (−1) Mn1 (−1) Mn2 · · · (−1) Mnn Here the Mij are just the minors deﬁned above.    11 −7 1 2 3 So if A =  1 3 5  then adj(A)=  −9 9 1 −2 1 5 ··· Why is anyone interested in the adjoint? The main adjA A−1 = det(A)
+
+T   2 11 −9 1 −3  =  −7 9 −2  1 2 −3 1 reason is
+
+Of course you would have to have a very special reason to compute an inverse this way.
+
+116
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+122
+
+CHAPTER 9. ALGEBRA: MATRICES, VECTORS ETC.
+
+Algebra: Matrices, Vectors etc.
+
+9.2.1
+
+Cramer’s Rule
+a1x + b1y + c1z = d1 a2x + b2y + c2z = d2 a3x + b3y + c3z = d3
+
+Suppose we have the set of equations
+
+a1 and let D = a2 a3 Then Cramer’
+
+b1 c1 b2 c2 b3 c3 s rule states that x= 1 D d1 b1 c1 d2 b2 c2 a3 b3 c3 a1 d1 c1 a2 d2 c2 a3 d3 c3 a1 b1 d1 a2 b2 d2 a3 b3 d3
+
+1 y= D 1 z= D
+
+There is even a more general case. Suppose we have Ax = d where xT = (x1, x2, . . . , xn) and dT = (d1, d2, . . . , dn). Let D Then  a · · · a1(k−1) d1 a1(k+1) · · · 1  11 ··· ··· ··· ··· ··· ··· xk = D an1 · · · an(k−1) dn an(k+1) · · · =det(A).  a1n ···  ann
+
+While this is a nice formula you would have to be mad to use it to solve equations since the best way of evaluating big determinants is by row reduction, and this gives solutions directly. Exercises 1. Evaluate 2 4 3 6
+
+117
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+9.2. PROPERTIES OF THE DETERMINANT 2 4 3 3 6 5 2 5 2 x 1 2 x2 2x + 1 x3 0 3x − 2 2  a b 0 0 c d 0 0   show that 0 0 e f  0 0 g 14 det(A) = a b c d e f g d
+
+Algebra: Matrices, Vectors etc.
+
+123
+
+2. Evaluate
+
+3. Evaluate 
+
+ 4. If A =  
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+118
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+Probability
+
+Chapter 10 Probability
+Probability theory is nothing but common sense reduced to calculation. Pierre Simon Laplace In what follows we are going to cover the basics of probability. The ideas are reasonably straightforward, however as it involves counting it is very easy to make mistakes - as we shall see. Suppose we perform an experiment whose outcome is not perfectly predictable e.g. roll a die or toss a coin. Imagine we make a list of all possible outcomes, call this list S the sample space. So • If we toss a coin S consists of {Head, Tail}, we write S = {Head, Tail}, • If we roll a die S={ 1,2,3,4,5,6} • If a princess kisses a frog then we have two possibilities S={ we get a prince, we get an embarrassed frog} • When we roll two dice then S is the set of pairs (1,1) (2,1) (3,1) (4,1) (5,1) (6,1) (1,2) (2,2) (3,2) (4,2) (5,2) (6,2) (1,3) (2,3) (3,3) (4,3) (5,3) (6,3) (1,4) (2,4) (3,4) (4,4) (5,4) (6,4) (1,5) (2,5) (3,5) (4,5) (5,5) (6,5) (1,6) (2,6) (3,6) (4,6) (5,6) (6,6)
+
+An event A is a collection of outcomes of interest, for example rolling two dice and getting a double. In this case the event A is deﬁned as 125
+
+119
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+126
+
+CHAPTER 10. PROBABILITY
+
+Probability
+
+A ={ (1,1),(2,2),(3,3),(4,4),(5,5),(6,6)}. Suppose that the event B is that the sum is less that 4 when we roll two dice, then B={ (1,1),(1,2),(2,1)} . If two events A and B have no elements in common then we say they are mutually exclusive. For example let A be the event {At least one 6} that is A={(1,6),(2,6),(3,6),(4,6),(5,6),(6,1),(6,2),(6,3),(6,4),(6,5),(6,)} Since A and B have no elements in common they are mutually exclusive. Deﬁne the event C as C={ (2,3),(5,7)} Then A and C are also mutually exclusive. If D={sum exceeds 10} then A and D are not mutually exclusive! Check this yourself. Combining events • It is handy to have a symbol for not A, we use ∼ A but we are not very picky and not A is acceptable. • The event A and B, often written A ∩ B is the set of outcomes which belong both to A and to B. • The event A or B, often written A ∪ B is the set of outcomes which belong either to A or to B or to both. You will recognise the notation from the earlier discussion on sets. Suppose S={0,1,2,3,4,5,6,7,8,9} then if we deﬁne A={1,3,5,7,9} and B={4,5,7} we have • A ∩ B = A and B = {5,7} • While A ∪ B = A or B = {1,3,4,5,7,9} • ∼ B=not B = 1,2,3,4,8,9
+
+120
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+127
+
+Probability
+
+10.0.2
+
+Probability - the rules
+
+Now to each event we are going to assign a measure ( in some way ) called the probability. We will write the probability of an event A as P[A]. We will set out some rules for probabilities, the main ones are as follows: 1. 0 ≤ P[A] ≤ 1. 2. P[S] = 1 3. For mutually exclusive events A and B P[A or B] = P[A] + P[B] We will add a few extra rules (i) For mutually exclusive events A1 and A2 and A3 · · · An then P[A1 ∪ A2 ∪ A3 · · · ∪ An · · · ] = P[A1] + P[A2] + P[A3] + · · · + P[An] + · · · or written diﬀerently P[A1 or A2 or A3 · · · or An · · · ] = P[A1] + P[A2] + P[A3] + · · · + P[An] + · · · (ii) For an event A P[ not A] = 1 − P[A] (iii) For events A and B P[A or B] = P[A] + P[B] − P[A and B] All this is a bit ﬁddley but is not really very hard. If you were not too confused at this point you will have noticed that we do not have a way of getting the probabilities. This is a diﬃcult point except in the case we are going to discuss.
+
+10.0.3
+
+Equally likely events
+
+Suppose that every outcome of an experiment is equally likely. Then we can show from the rules above for any event A P[A] = the number of outcomes in A the number of possible outcomes
+
+121
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+128
+
+CHAPTER 10. PROBABILITY
+
+Probability
+
+This means we can do some calculations. examples 1. Suppose that the outcomes • that a baby is a girl
+
+• that a baby is a boy are equally likely. Then as there are two possible outcomes we have P[girl]=1/2=P[boy]. 2. Suppose now a family has 3 children, the possibilities are BB BG GB GG and so P[ one boy and one girl]= 2/4=1/2 while P[two girls]=1/4 3. The famous statistician R A Fisher had seven daughters. If you count the possible sequences BBBBBBB to GGGGGGG you will ﬁnd that there are 27 = 128. Only one sequence is all girl so the probability of this event is 1/128. 4. A pair of dice is thrown. What is the probability of getting totals of 7 and 11. Suppose now we throw the two dice twice. What is the probability of getting a total of 11 and 7 in this case? 5. We draw 2 balls from an urn containing 6 white and 5 black, WHat is the probability that we get one white and one black ball? As you can see we really need some help in counting. ExercisesS 1. A poker hand consists of 5 cards drawn from a pack of 52. What is the probability that a hand is a straight, that is 5 cards in numerical order, but not all of the same suit. 2. What is the probability that a poker hand is a full house, that is a triple and a pair. 3. A and B ﬂip a coin in turn. The ﬁrst to get a head wins. Find the sample space. What is the probability that A wins?
+
+122
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+129
+
+Probability
+
+4. The game of craps is played as follows: A player rolls two dice. If the sum is a 2, 3 or 12 he loses. If the sum is a seven or an 11 he wins. Otherwise the player rolls the dice until he gets his initial score, in which case he wins or gets a 7 in which case he loses. What is the probability of winning? 5. A man has n keys, one of which will open his door. He tries keys at random, discarding those that don’t work until he opens the door. What is the probability that he is successful on the kth try. 6. The birthday problem How many people should be in a room to make the probability of two or more having the same birthday more than 0.5? This is quite diﬃcult and a simpler approach is to consider the probability that no two people have the same birthday. It is often a useful dodge in probability to look at P[ not A] when P[A] is hard. So P[ no coincidences] = 365 × 364 × 363 × · · · × (365 − n + 1) 365 × 365 × · · · × 365 = 1×(1−364/365)×(1−364/365)×(1−363/365)×· · ·×(1−(365−n+1)/365)
+
+Number 15 16 17 18 19 20 21 22 23 24 25
+
+Probability 0.74709868 0.71639599 0.68499233 0.65308858 0.62088147 0.58856162 0.55631166 0.52430469 0.49270277 0.46165574 0.43130030
+
+123
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists 130
+
+CHAPTER 10. PROBABILITY
+
+Probability
+
+Prob of coincident birthdays
+
+probability
+
+0.2
+10
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+number
+
+10.0.4
+
+Conditional Probability
+
+Sometime it is natural to talk of the probability of an event A given some other event has occurred. We write the probability of A given B as P[A | B] and deﬁne it as P[A | B] = Remember this is a fancy way of writing P[A | B] = P[A and B] P[B] P[A ∩ B] P[B]
+
+While conditional probabilities can have interesting philosophical implications they also allow one to do calculations. Thus P[A] = P[A | B]P[B] + P[A |∼ B]P[∼ B] or more generally if B1, B2, · · · are the only possibilities so
+n n i=1 Bi
+
+= 1 then
+
+P[A] =
+i=1
+
+P[A | Bi]P[Bi]
+
+124
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Probability
+
+131 A B
+
+Not A
+
+A
+
+not B not A
+
+The stuff you'll need to make a good living
+
+STUDY. PLAY.
+
+The stuff that makes life worth living
+
+NORWAY. YOUR IDEAL STUDY DESTINATION.
+WWW.STUDYINNORWAY.NO FACEBOOK.COM/STUDYINNORWAY
+
+125
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+132
+
+CHAPTER 10. PROBABILITY
+
+Probability
+
+Examples 1. Consider the table below. Employed 460 140 600 Unemployed Total 40 500 260 400 300 900
+
+Male Female Total Then • P[ Male] = 500/900
+
+• P[ Male and Unemployed] =40/900 • P[ Unemployed — Male] =40/500 = P[ Unemployed and Male] /P[Male] = 40/900 ÷ 500/900 =40/500. 2. Suppose we buy widgets from 3 suppliers A,B and C. They supply all production and the number of defective items per batch as well as their share of our supply is given below.
+
+B C Supplier Proportion supplied 0.60 0.30 0.10 Proportion defective 0.03 0.05 0.07
+
+A
+
+What proportion of widgets are defective? We know • P[defective|A] = 0.03 • P[defective|B]=0.03 • P[defective|C]=0.07 so using the formula we have P[defective]=P[defective|A]×P[A]+P[defective|B]×P[B]+P[defective|C]×P[C] So P[defective] = 0.03 × 0.6 + 0.03 × 0.3 + 0.07 × 0.1 = 0.034
+
+126
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+133
+
+Probability
+
+10.0.5
+
+Bayes
+
+We also have Bayes Theorem P[A|B] = or P[A|B] ∝ P[B|A]P[A] (10.2) Here ∝ means equal to but multiplied by a constant. You will often ﬁnd that you can compute P[A | B] when really you want P[B | A]. Bayes theorem gives you the means for turning one into the other. Examples 1. Take the data in the example 2 above. We know that P[defective | A]=0.03 and we found that P[defective]=0.034. Then suppose we pick up a defective component and ask what is the probability that it come from A. Thus we need P[A | defective]. We can use Bayes to give P[A | defective] = P[defective | A]P[A]/P[defective] = 0.03 × 0.6/0.34 = 9/17 = 0.529. 2. Suppose that the probability that a person has a disease P[D] = 0.01. A test is available which is correct 90% of the time. If we use Y to denote that the test is positive and ∼ Y negative we mean P[Y |D] = P[∼ Y | ∼ D] = 0.9 Now the probability of a yes is P[Y ] = P[Y |D]P[D] + P[Y | ∼ D]P[∼ D] = 0.9 × 0.01 + 0.1 × 0.99 = 0.108. The more interesting case is P[D|Y ] = P[Y |D]P[D] = 0.009/0.108 = 0.0833 P[Y ] P[B|A]P[A] P[B] (10.1)
+
+127
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+134 134
+
+CHAPTER CHAPTER 10. 10. PROBABILITY PROBABILITY
+
+Probability
+
+Exercises Exercises 1. 1. An An insurance insurance broker broker believes believes that that a a quarter quarter of of drivers drivers are are accident accident prone. prone. What is more the probability of an accident prone driver making a What is more the probability of an accident prone driver making a claim claim is 1/3 while for a non accident prone drive the probability is 1/5. What is 1/3 while for a non accident prone drive the probability is 1/5. What is is the the probability probability of of a a claim? claim? On On his his way way home home the the broker broker sees sees that that one one of of his his customers customers has has driven driven his his car car into into a a tree. tree. What What is is the the probability probability that that this this customer is accident prone? customer is accident prone? 2. 2. An An urn urn contains contains 4 4 red red and and 6 6 green green balls. balls. One One ball ball is is drawn drawn at at random random and and it’s it’s colour colour observed. observed. It It is is then then returned returned to to the the urn urn and and 3 3 new new balls balls of of the the same colour are added to the urn, which now contains 13 balls. A second same colour are added to the urn, which now contains 13 balls. A second ball ball is is now now drawn drawn from from the the urn. urn. (a) (a) (b) (b) What What is is the the What is What is the the was green was green probability probability that that the the ﬁrst ﬁrst ball ball drawn drawn was was green? green? probability of getting a red ball given the probability of getting a red ball given the ﬁrst ﬁrst ball ball drawn drawn
+
+(c) (c) What What is is the the probability probability of of getting getting a a green green ball ball in in the the second second draw? draw? 3. 3. Sometime Sometime used used by by unscrupulous unscrupulous students students of of probability probability We have 3 cards. The ﬁrst card has two red sides, the second We have 3 cards. The ﬁrst card has two red sides, the second two two black black sides. sides. The The remaining remaining card card has has one one black black and and one one red red side. side. Otherwise Otherwise the the cards cards are are identical. identical. The The three three cards cards are are mixed mixed in in a a hat hat and and one one card card is is selected selected at at random random an an placed placed on on a a table. table. If If the the exposed exposed side side is is red red what what is is the the probability probability that that the the hidden hidden side side is is black? black?
+
+I joined MITAS because I wanted real responsibili� I joined MITAS because I wanted real responsibili�
+
+Maersk.com/Mitas www.discovermitas.com
+
+�e Graduate Programme for Engineers and Geoscientists
+
+� for Engin
+
+M
+
+Real work International Internationa al opportunities �ree wo work or placements
+
+Month 16 I was a construction M supervisor ina cons I was the North Sea supe advising and the N he helping foremen advis s solve problems Real work he helping International Internationa al opportunities �ree wo work or placements s solve p
+Click on the ad to read more
+
+128
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+135
+
+Probability
+
+Independence If P[A|B] = P[A] then we say A and B are independent. This is usually written in the equivalent form P[A ∩ B] = P[A]P[B] Independent is very useful and plays a central role in statistics.
+
+10.0.6
+
+Random Variables and distributions
+
+If we conduct and experiment and see an outcome we almost always code the outcome in same way, say H,T for head and tail or even 0,1. The coding is known as a random variable, usually written as a capital such as X. If we toss a coin we can say that the outcome is X. The actual values may be head, head, tail, giving the sequence of values of X as H, H, T, . . We use random variables when we have probability distributions, that is lists of possible outcomes and probabilities, such as in the table k 0 P[X = k] 0.1 1 0.3 2 0.5 3 0.1
+
+We point out that the sum of the probabilities must be one, that is 3 k=0 P [X = k] We deﬁne the cumulative distribution function (c.d.f.) F(x) as the cumulative sum of the probabilities
+k
+
+F(x) =
+x=0
+
+P[X = k]
+
+So in the example above k 0 P[X = k] 0.1 F(x) 0.1 1 0.3 0.4 2 0.5 0.9 3 0.1 1.0
+
+It is more usual to give a formula for a random variable, for example P[x = k] = 0.3 × 0.7x−1 x = 1, 2, 3, · · ·
+
+As the formula is commonly shorter you can see why.
+
+129
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Probability
+
+136
+
+CHAPTER 10. PROBABILITY
+
+10.1
+
+Expectation
+
+We can also view probability from the point of view of what happens in the long run. Given a random variable X deﬁne the expected value of X written E[X] as E[X] =
+allx
+
+xP[X = x]
+
+The expected value can be regarded as the long run average. So if we roll a fail die and the outcome is X then P[X = i] = 1/6 i = 1, 2, · · · , 6] and so E[X] = 1 × 1 1 1 + 2 × + · · · + 6 × = 3.5 6 6 6
+
+You can be sure that if you roll a die you will never get 3.5, however if you rolled a die and kept an average of the score you will ﬁnd that this will approach 3.5, see the plot below
+
+running average score
+
+1.0
+0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+20
+
+40
+
+60 no rolls
+
+80
+
+100
+
+For a coin we have Head and Tail. Suppose we count head as 1 and tail as zero, then P[X = 1] = 1/2 and P[X = 0] = 1/2 and so E[X] = 1 ×
+1 2
+
++0×
+
+1 2
+
+=1 . A similar experiment gives the following 2
+
+130
+Download free eBooks at bookboon.com
+
+10.1. EXPECTATION
+Mathematics for Computer Scientists
+
+137
+Probability
+
+0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7
+0
+
+running average score
+
+20
+
+40
+
+60 no rolls
+
+80
+
+100
+
+10.1.1
+
+Moments
+µr = E[Xr] r = 1, 2, . . .
+
+Some important expected values in statistics are the moments since we can usually estimate these while probabilities are much more diﬃcult. You will have met the • mean µ = E[X] • The variance σ2 = E[(X − µ)2]. The central moments are deﬁned as • The parameter σ is known as the standard deviation. µr = E[(X − µ)r]
+3
+
+r = 1, 2, . . .
+
+The third and fourth moments E[(X − µ) ],E[(X − µ)4] are less commonly used. We can prove an interesting link between the mean µ and the variance σ2. The result s known as Chebyshev’s inequality σ 2 P[|X − µ| > ] ≤ (10.3) This tells us that departure from the mean have small probability when σ is small.
+
+131
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Probability
+
+138
+
+CHAPTER 10. PROBABILITY
+
+10.1.2
+
+Some Discrete Probability Distributions
+
+We shall run through some of the most common and important discrete probability distributions. The Discrete Uniform distribution Suppose X can take one values 1, 2, · · · , n with equal probability, that is P[X = k] = • The mean is E[X] =
+n+1 2 1 4
+
+1 n
+
+k = 1, 2, · · · , n
+
+(10.4)
+
+• the variance is var(X) = 1 n3 + 1 n2 + 2 n− 3 4 3
+
+For example a die is thrown, the distribution of the score X is uniform on the integer 1 to 6. The Binomial distribution Suppose we have a series if trials each of which has two outcomes, success S and failure F. We assume that the probability of success, p, is constant, so for every trial P[ Success] = p and P[ failure ] = 1 − p e the probability of X successes in n trails is given by P[X = k] = • The mean is E[X] = np • the variance is var(X) = np(1 − p) The probability that a person will survive a serious blood disease is 0.4. If 15 people have the disease the number of survivors X has a Binomial B(15,0.4) distribution. • P[X = 3] = • P[X ≤ 8] =
+15 3
+
+n k p (1 − p)n−k k
+
+k = 0, 1, 2, · · · n
+
+(10.5)
+
+(0.4)3(0.6)12 (0.4)x(0.6)15−x
+8 15 x=2 x
+
+8 15 x=0 x
+
+• P[3 ≤ X ≤ 8] = P[X ≤ 8] − P[X ≤ 2] =
+
+(0.4)x(0.6)15−x
+
+132
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+10.1. EXPECTATION
+
+139
+
+Probability
+
+Applying expectation using the Binomial A more interesting use is: Suppose we wish to test whether N people have a disease. It would seem that the only way to do this is to take a blood test, which will require N blood tests. Suppose we try the following: 1. We pool the blood of k < N people. 2. If the combined sample is negative we have k people without the disease. 3. If the pooled test is positive we then test all k people individually, resulting in k + 1 tests in all. 4. Repeat until everyone is diagnosed What does this save us?
+
+Need help with your dissertation?
+Get in-depth feedback & advice from experts in your topic area. Find out what you can do to improve the quality of your dissertation!
+
+Get Help Now
+
+Go to www.helpmyassignment.co.uk for more info
+
+133
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+140
+
+CHAPTER 10. PROBABILITY
+
+Probability
+
+Assume the probability of a person having the disease is p and that we have a Binomial distribution for the number with the disease. Then for a group of k 1. P[ just 1 test] = (1 − p)k 2. P[ k+1 tests] = 1 − P[ just 1 test] = 1 − (1 − p)k So the expected number of tests is E[ no. of tests] = (1 − p)k + (k + 1) 1 − (1 − p)k = k 1 − (1 − p)k + 1 This does give a considerable saving in the number of tests, see the diagram below
+p = 0.1 p = 0.01
+
+Expected Number
+
+Expected Number
+5 10 k 15 20
+
+1.5 3.0 4.5
+5
+
+5 10 15
+
+10 k
+
+15
+
+20
+
+p = 0.001
+
+p = 1e−04
+
+Expected Number
+
+Expected Number
+5 10 k 15 20
+
+1.01
+5
+
+1.1
+
+1.03
+
+1.3
+
+10 k
+
+15
+
+20
+
+The Hypergeometric distribution Suppose we have N items and D of these are defective. I take a sample of size n from these items, then the probability that this sample contains k defectives is P[X = k] =
+D • The mean is E[X] = n N N−D D n−k k N n
+
+k = 0, 1, 2, · · · n
+
+(10.6)
+
+• the variance is var(X) =
+
+(N−n) D n (N−1) N
+
+1−
+
+D N
+
+While situations involving the Hypergeometric are common ii common practice to approximate with the Binomial when N is large compared to D. We set p = D/N and sue n k P[X = k] = p (1 − p)N−k k = 0, 1, 2, · · · n k
+
+134
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+10.1. EXPECTATION
+
+141
+
+Probability
+
+The Poisson distribution Suppose events occur at random P[X = k] = • The mean is E[X] = λ • the variance is var(X) = λ The average number of oil tankers arriving per day at a port is 10. The facilities at the port can handle at most 15 arrivals in a day. What is the probability that the port will not be able to handle all the arrivals in a day? The variable X is Poisson λ = 10 so 10x exp(−10) = 1 − P[X ≥ 16] = x! x=16
+∞
+
+λke−λ k!
+
+k = 1, 2, · · · , n
+
+(10.7)
+
+10x exp(−10) = 1 − 0.9513 x! x=0
+
+15
+
+135
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+142
+
+CHAPTER 10. PROBABILITY
+
+Probability
+
+10.1.3
+
+Continuous variables
+
+All the cases we have considered so far have been where X takes discrete values. This does not have to be true - we can imagine X taking a continuous set of values. SInce we have though of a probability at X=k we might think of the probability of X being in some small interval x, x + δx This probability will be P[x ≤ X ≤ x + δx] = f(x)δx The function f(x) is called the probability density function. δx
+ 6 6
+
+3.0
+
+2.0
+
+f(x)
+
+1.0
+
+?
+
+-
+
+x The probability, as can be seen from the sketch is made up of boxes, and if we add these together we get a probability. Personally I ﬁnd it simpler to think of the cumulative distribution function F(x) which is deﬁned as P[X ≤ x] = F(x). This is just a probability and is what you ﬁnd in tables. We relate this to the density function by
+x
+
+F(x) = It is then not diﬃcult to show that
+−∞
+
+f(t)dt
+
+b
+
+P[a ≤ X ≤ b] = Typical shapes are
+
+f(t)dt
+a
+
+136
+Download free eBooks at bookboon.com
+
+10.1. EXPECTATION
+Mathematics for Computer Scientists
+
+143
+Probability
+
+density function
+dnorm(x) 0.3 0.0
+
+−3
+
+−2
+
+−1
+
+0 x
+
+1
+
+2
+
+3
+
+distribution function
+pnorm(x) 0.8 0.0
+
+−3
+
+−2
+
+−1
+
+0 x
+
+1
+
+2
+
+3
+
+Brain power
+
+By 2020, wind could provide one-tenth of our planet’s electricity needs. Already today, SKF’s innovative knowhow is crucial to running a large proportion of the world’s wind turbines. Up to 25 % of the generating costs relate to maintenance. These can be reduced dramatically thanks to our systems for on-line condition monitoring and automatic lubrication. We help make it more economical to create cleaner, cheaper energy out of thin air. By sharing our experience, expertise, and creativity, industries can boost performance beyond expectations. Therefore we need the best employees who can meet this challenge!
+
+The Power of Knowledge Engineering
+
+Plug into The Power of Knowledge Engineering. Visit us at www.skf.com/knowledge
+
+137
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+144
+
+CHAPTER 10. PROBABILITY
+
+Probability
+
+10.1.4
+
+Some Continuous Probability Distributions
+
+Uniform Distribution Here X is uniformly distributed on a range, say (a, b) so f(x) = It follows that F(x) = P[X ≤ x] = • The mean is E[X] =
+a+b 2 1 (b 12 x−a b−a
+
+1 b−a
+d−c b−a
+
+(10.8)
+
+and P[c ≤ X ≤ d] =
+
+• the variance is var(X) =
+
+− a)2
+
+This is a useful model for a random choice in he interval froma to b. Exponential Distribution Here X is distributed on the range (0, ∞) and
+
+f(x) = λ exp(−λx)
+
+(10.9)
+
+where λ is a constant. It follows that F(x) = P[X ≤ x] = 1 − exp(λx) and P[c ≤ X ≤ d] = exp(λc)1 − exp(λd) • The mean is E[X] =
+1 λ 1 λ2
+
+• the variance is var(X) =
+
+Normal Distribution Here X is distributed on the range (−∞, ∞) and f(x) = √ 1 2πσ2 exp − where µ and σ are constants. • The mean is E[X] = µ • the variance is var(X) = σ2 The normal distribution crops up all over the place the problem is that there is no simple way of working out the probabilities. They can be computed but you either need the algorithm or tables.
+
+(x − µ)2 2σ2
+
+(10.10)
+
+138
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+10.1. EXPECTATION
+
+145
+
+Probability
+
+Normal Computation Suppose X has a Normal distribution with mean µ and Variance σ2, often written N (µ, σ2). We can show that X is related to a Standard Normal variable z, that is z is N(0,1) by X−µ z= (10.11) σ And of course we have the reverse X=µ+σ×z (10.12)
+
+Now the standard normal is what is given in the tables do we convert our problem into a standard one. 1. Suppose X is N (100, 92) Then (a) P[X ≤ 70] = P z =
+X−100 9 X−100 9 70−100 ≤ −3.33 = 0.004 9 100 ≤ 95− ≤ −5/9 = 0.2893 9 X−100 109−100 ≥ ≥ 1 = 1 − 0.2893 9 9
+
+(b) P[X ≤ 95] = P z =
+
+≤
+
+(d) P[70 ≤ X ≤ 109] = P[X ≥ 109] − P[X ≤ 70] = 0.7017 − 0.004 Suppose we wish to ﬁnd the value a so that P[X ≤ a] = 0.95. Then P[X ≥ a] = P[z = From tables
+a−100 9
+
+(c) P[X ≥ 109] = 1 − P z =
+
+a − 100 X − 100 ≥z= ] = 0.9 9 9
+
+= 1.645 and so a = 100 + 1.645 × 9
+
+Another example Suppose we know 1. P[X < 2] = 0.05 2. P[X > 14] = 0.25 So we have P[X < 2] = P[z = (X − µ)/σ < (2 − µ)/σ] = 0.05 and so from tables (2 − µ)/σ = −1.645 We also have P[X > 14] = 0.25 or P[X < 14] = P[z < (X − µ)/σ < (X − µ)/σ] = 1 − 0.25 = 0.975 Hence (14 − µ)/σ = 1.96 We have a pair of equations
+
+139
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+146
+
+CHAPTER 10. PROBABILITY
+
+Probability
+
+1. 2 − µ = −σ × 1.645 2. 14 − µ = σ × 1.96 Solving gives (14 − µ) − (2 − µ) = 12 = 0.315σ or σ = 3.32871 and so µ = 7.475728 The Normal approximation to the Binomial A Binomial variable X which is B(n, p) can be approximated by a Normal variable Y , mean np, variance np(1 − p). This can be very useful as the Binomial tables provided are not very extensive. This is known as the Normal approximation to the Binomial. In this case z = (Y − np)/ (np(1 − p)) is standard Normal. Example , 40 5 ). Then Suppose X is number of 6’s in 40 rolls of a die. Let Y be N( 40 6 6 6 P[X < 5] P[Y < 5] = P[z < 5 − 20/3 50/9 ] = Φ(−0.7071068) = 0.2398
+
+You can reﬁne this approximation but we will settle for this at the moment. Exercises 1. A die is rolled, what is the probability that (a) The outcome is even. (b) The outcome is a prime. (c) The outcome exceeds 2. (d) The outcome is -1. (e) The outcome is less than 12. 2. Two dice are rolled. What is the probability that (a) The sum of the upturned faces is 7? (b) The score on one die is exactly twice the score on the other.
+
+140
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+10.1. EXPECTATION
+
+147
+
+Probability
+
+(c) You throw a double, that is the dice each have the same score. 3. Suppose we toss a coin 3 times. Find the probability distribution of (a) X=the number of tails. (b) Y = the number of runs. Here a run is a string of heads or tails. So for HTT Y =2. 4. The student population in the Maths department at the University of San Diego was made up as follows • 10% were from California
+
+• 6% were of Spanish origin
+
+• 2% were from California and of Spanish origin. If a student from the class was to be drawn at random what is the probability that they are (a) From California or of Spanish origin. (b) Neither from California nor of Spanish origin. (c) Of Spanish origin but not from California
+
+Challenge the way we run
+
+EXPERIENCE THE POWER OF FULL ENGAGEMENT… RUN FASTER. RUN LONGER.. RUN EASIER…
+1349906_A6_4+0.indd 1
+
+READ MORE & PRE-ORDER TODAY WWW.GAITEYE.COM
+
+141
+Download free eBooks at bookboon.com
+
+22-08-2014 12:56:57
+
+Click on the ad to read more
+
+Mathematics for Computer Scientists
+
+148
+
+CHAPTER 10. PROBABILITY
+
+Probability
+
+5. For two events A and B the following probabilities are known P[A] = 0.52 Determine the probabilities (a) P[A ∩ B] (c) P[∼ B] 6. A hospital trust classiﬁes a group of middle aged men according to body weight and the incidence of hypertension. The results are given in the table. Overweight Hypertensive 0.10 Not Hypertensive 0.15 Total 0.25 Normal Weight 0.08 0.45 0.53 Underweight Total 0.02 0.20 0.20 0.80 0.22 1.00 P[B] = 0.36 P[A ∪ B] = 0.68
+
+(b) P[∼ A]
+
+(a) What is the probability that a person selected at random from this group will have hypertension? (b) A person selected at random from this group is found to be overweight, what is the probability that this person is also hypertensive? (d) Find P[hypertensive ∪ Not Underweight] 7. Two cards are drawn from an ordinary deck of 52 cards. What is the probability of drawing (a) Two aces. (b) The two black aces. (c) Two cards from the court cards K,Q,J 8. Five cards are drawn from a deck of cards. What is the chance that (a) Four cards are aces (b) Four cards are the same i.e. 4 10’s, 4 9’2 etc. (c) All the cards are of the same suit. (d) All the card are of the same suit and are in sequence. (c) Find P[hypertensive ∪ Underweight]
+
+142
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+10.1. EXPECTATION
+
+149
+
+Probability
+
+9. A student of statistics was told that there was a chance of 1 in a million that there was a bomb on an aircraft. The reasoned that there would be a one in 1012 chance of being two bombs on a plane. He thus decided that he should take a bomb with him ( defused - he was not stupid) to reduce the odds of an explosion. Assuming no security problems is this a sensible strategy? 10. There are four tickets numbered 1,2,3,4. A two digit number is formed by drawing a ticket at random from the four and a second from the remaining three. So if the tickets were 4 and 1 the resulting number would be 41. What is the probability that (a) The resulting number is even. (b) The resulting number exceeds 20 (c) The resulting number is between 22 and 30. 11. Three production lines contribute to the total pool of parts used by a company. • Line 1 contributes 20% and 15% of items are defective. • Line 2 contributes 50% and 5% of items are defective. • Line 3 contributes 30% and 6% of items are defective. (a) What percentage of items in the pool are defective? (b) Suppose an item was selected at random and found to be defective, what is the probability that it came from line 1? (c) Suppose an item was selected at random and found not to be defective, what is the probability that it came from line 1?
+
+143
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Probability
+
+150
+
+CHAPTER 10. PROBABILITY
+
+10.2
+
+The Normal distribution
+the standard
+
+This table gives the cumulative probabilities for normal distribution, that is z 1 √ exp(−x2/2)dx P[Z ≤ z] = 2π −∞ This is the shaded area in the ﬁgure. z 0.00 -0.01 -0.02 -0.03 -0.04 -3.4 0.0003 0.0003 0.0003 0.0003 0.0003 -3.3 0.0005 0.0005 0.0005 0.0004 0.0004 -3.2 0.0007 0.0007 0.0006 0.0006 0.0006 -3.1 0.0010 0.0009 0.0009 0.0009 0.0008 -3.0 0.0013 0.0013 0.0013 0.0012 0.0012 -2.9 0.0019 0.0018 0.0018 0.0017 0.0016 -2.8 0.0026 0.0025 0.0024 0.0023 0.0023 -2.7 0.0035 0.0034 0.0033 0.0032 0.0031 -2.6 0.0047 0.0045 0.0044 0.0043 0.0041 -2.5 0.0062 0.0060 0.0059 0.0057 0.0055 -2.4 0.0082 0.0080 0.0078 0.0075 0.0073 -2.3 0.0107 0.0104 0.0102 0.0099 0.0096 -2.2 0.0139 0.0136 0.0132 0.0129 0.0125 -2.1 0.0179 0.0174 0.0170 0.0166 0.0162 -2.0 0.0228 0.0222 0.0217 0.0212 0.0207 -1.9 0.0287 0.0281 0.0274 0.0268 0.0262 -1.8 0.0359 0.0351 0.0344 0.0336 0.0329 -1.7 0.0446 0.0436 0.0427 0.0418 0.0409 -1.6 0.0548 0.0537 0.0526 0.0516 0.0505 -1.5 0.0668 0.0655 0.0643 0.0630 0.0618 -1.4 0.0808 0.0793 0.0778 0.0764 0.0749 -1.3 0.0968 0.0951 0.0934 0.0918 0.0901 -1.2 0.1151 0.1131 0.1112 0.1093 0.1075 -1.1 0.1357 0.1335 0.1314 0.1292 0.1271 -1.0 0.1587 0.1562 0.1539 0.1515 0.1492 -0.9 0.1841 0.1814 0.1788 0.1762 0.1736 -0.8 0.2119 0.2090 0.2061 0.2033 0.2005 -0.7 0.2420 0.2389 0.2358 0.2327 0.2296 -0.6 0.2743 0.2709 0.2676 0.2643 0.2611 -0.5 0.3085 0.3050 0.3015 0.2981 0.2946 -0.4 0.3446 0.3409 0.3372 0.3336 0.3300 -0.3 0.3821 0.3783 0.3745 0.3707 0.3669 -0.2 0.4207 0.4168 0.4129 0.4090 0.4052 -0.1 0.4602 0.4562 0.4522 0.4483 0.4443 0.0 0.5000 -
+
+-0.05 0.0003 0.0004 0.0006 0.0008 0.0011 0.0016 0.0022 0.0030 0.0040 0.0054 0.0071 0.0094 0.0122 0.0158 0.0202 0.0256 0.0322 0.0401 0.0495 0.0606 0.0735 0.0885 0.1056 0.1251 0.1469 0.1711 0.1977 0.2266 0.2578 0.2912 0.3264 0.3632 0.4013 0.4404 -
+
+-0.06 0.0003 0.0004 0.0006 0.0008 0.0011 0.0015 0.0021 0.0029 0.0039 0.0052 0.0069 0.0091 0.0119 0.0154 0.0197 0.0250 0.0314 0.0392 0.0485 0.0594 0.0721 0.0869 0.1038 0.1230 0.1446 0.1685 0.1949 0.2236 0.2546 0.2877 0.3228 0.3594 0.3974 0.4364 -
+
+-0.7 0.0003 0.0004 0.0005 0.0008 0.0011 0.0015 0.0021 0.0028 0.0038 0.0051 0.0068 0.0089 0.0116 0.0150 0.0192 0.0244 0.0307 0.0384 0.0475 0.0582 0.0708 0.0853 0.1020 0.1210 0.1423 0.1660 0.1922 0.2206 0.2514 0.2843 0.3192 0.3557 0.3936 0.4325 -
+
+-0.08 0.0003 0.0004 0.0005 0.0007 0.0010 0.0014 0.0020 0.0027 0.0037 0.0049 0.0066 0.0087 0.0113 0.0146 0.0188 0.0239 0.0301 0.0375 0.0465 0.0571 0.0694 0.0838 0.1003 0.1190 0.1401 0.1635 0.1894 0.2177 0.2483 0.2810 0.3156 0.3520 0.3897 0.4286 -
+
+-0.09 0.0002 0.0003 0.0005 0.0007 0.0010 0.0014 0.0019 0.0026 0.0036 0.0048 0.0064 0.0084 0.0110 0.0143 0.0183 0.0233 0.0294 0.0367 0.0455 0.0559 0.0681 0.0823 0.0985 0.1170 0.1379 0.1611 0.1867 0.2148 0.2451 0.2776 0.3121 0.3483 0.3859 0.4247 -
+
+144
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+10.2. THE NORMAL DISTRIBUTION
+
+151
+
+Probability
+
+This table gives the cumulative probabilities for the standard normal distribution, that is
+z
+
+P[Z ≤ z] = This z 0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8 1.9 2.0 2.1 2.2 2.3 2.4 2.5 2.6 2.7 2.8 2.9 3.0 3.1 3.2 3.3 3.4 is the shaded area 0.00 0.01 0.5000 0.5040 0.5398 0.5438 0.5793 0.5832 0.6179 0.6217 0.6554 0.6591 0.6915 0.6950 0.7257 0.7291 0.7580 0.7611 0.7881 0.7910 0.8159 0.8186 0.8413 0.8438 0.8643 0.8665 0.8849 0.8869 0.9032 0.9049 0.9192 0.9207 0.9332 0.9345 0.9452 0.9463 0.9554 0.9564 0.9641 0.9649 0.9713 0.9719 0.9772 0.9778 0.9821 0.9826 0.9861 0.9864 0.9893 0.9896 0.9918 0.9920 0.9938 0.9940 0.9953 0.9955 0.9965 0.9966 0.9974 0.9975 0.9981 0.9982 0.9987 0.9987 0.9990 0.9991 0.9993 0.9993 0.9995 0.9995 0.9997 0.9997
+
+in the ﬁgure. 0.02 0.03 0.5080 0.5120 0.5478 0.5517 0.5871 0.5910 0.6255 0.6293 0.6628 0.6664 0.6985 0.7019 0.7324 0.7357 0.7642 0.7673 0.7939 0.7967 0.8212 0.8238 0.8461 0.8485 0.8686 0.8708 0.8888 0.8907 0.9066 0.9082 0.9222 0.9236 0.9357 0.9370 0.9474 0.9484 0.9573 0.9582 0.9656 0.9664 0.9726 0.9732 0.9783 0.9788 0.9830 0.9834 0.9868 0.9871 0.9898 0.9901 0.9922 0.9925 0.9941 0.9943 0.9956 0.9957 0.9967 0.9968 0.9976 0.9977 0.9982 0.9983 0.9987 0.9988 0.9991 0.9991 0.9994 0.9994 0.9995 0.9996 0.9997 0.9997
+
+−∞
+
+1 √ exp(−x2/2)dx 2π 0.04 0.5160 0.5557 0.5948 0.6331 0.6700 0.7054 0.7389 0.7704 0.7995 0.8264 0.8508 0.8729 0.8925 0.9099 0.9251 0.9382 0.9495 0.9591 0.9671 0.9738 0.9793 0.9838 0.9875 0.9904 0.9927 0.9945 0.9959 0.9969 0.9977 0.9984 0.9988 0.9992 0.9994 0.9996 0.9997 0.05 0.5199 0.5596 0.5987 0.6368 0.6736 0.7088 0.7422 0.7734 0.8023 0.8289 0.8531 0.8749 0.8944 0.9115 0.9265 0.9394 0.9505 0.9599 0.9678 0.9744 0.9798 0.9842 0.9878 0.9906 0.9929 0.9946 0.9960 0.9970 0.9978 0.9984 0.9989 0.9992 0.9994 0.9996 0.9997 0.06 0.5239 0.5636 0.6026 0.6406 0.6772 0.7123 0.7454 0.7764 0.8051 0.8315 0.8554 0.8770 0.8962 0.9131 0.9279 0.9406 0.9515 0.9608 0.9686 0.9750 0.9803 0.9846 0.9881 0.9909 0.9931 0.9948 0.9961 0.9971 0.9979 0.9985 0.9989 0.9992 0.9994 0.9996 0.9997 0.07 0.5279 0.5675 0.6064 0.6443 0.6808 0.7157 0.7486 0.7794 0.8078 0.8340 0.8577 0.8790 0.8980 0.9147 0.9292 0.9418 0.9525 0.9616 0.9693 0.9756 0.9808 0.9850 0.9884 0.9911 0.9932 0.9949 0.9962 0.9972 0.9979 0.9985 0.9989 0.9992 0.9995 0.9996 0.9997 0.08 0.5319 0.5714 0.6103 0.6480 0.6844 0.7190 0.7517 0.7823 0.8106 0.8365 0.8599 0.8810 0.8997 0.9162 0.9306 0.9429 0.9535 0.9625 0.9699 0.9761 0.9812 0.9854 0.9887 0.9913 0.9934 0.9951 0.9963 0.9973 0.9980 0.9986 0.9990 0.9993 0.9995 0.9996 0.9997 0.09 0.5359 0.5753 0.6141 0.6517 0.6879 0.7224 0.7549 0.7852 0.8133 0.8389 0.8621 0.8830 0.9015 0.9177 0.9319 0.9441 0.9545 0.9633 0.9706 0.9767 0.9817 0.9857 0.9890 0.9916 0.9936 0.9952 0.9964 0.9974 0.9981 0.9986 0.9990 0.9993 0.9995 0.9997 0.9998
+
+145
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Looking at Data
+
+Chapter 11 Looking at Data
+It is very much more diﬃcult to handle data rather than to construct nice probability arguments. We begin by considering the problems of handling data. The ﬁrst questions are the provenance of the data. • Is it reliable? • Who collected it? • Is it what it is said to be? • Is it a sample and from what population? Such questions are important because if the data is wrong no amount of statistical theory will make it better. Collecting your own data is the best as you should know what is going on. Almost all statistical theory is based on the assumption that the observations are independent and in consequence there is a large body of methodology on sampling and data collection.
+
+11.1
+
+Looking at data
+
+Once you have the data what is he next step? If it is presented as a table ( do read the description) it may well be worth reordering the table and normalising the entries. Simplifying and rounding can be very eﬀective, especially in reports. After gathering data, it pays to look at the data in as many ways as possible. Any unusual or interesting patterns in the data should be ﬂagged for further investigation.
+
+The Histogram
+Anyone who does not draw a picture of their data deserves all the problems that they will undoubtedly encounter. The basic picture is the histogram. For the histogram we split the range of the data into intervals and count the number of observations in each
+
+153
+
+146
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+154
+
+CHAPTER 11. LOOKING AT DATA
+
+Looking at Data
+
+interval. We then construct a diagram made up of rectangles erected on each interval. The area of the rectangle being proportional to the count.
+
+110 190 11 44 19 63 150 29 22 11 84 73 30 27 18 175 17 6 41 61 50 73 8 27
+
+55 65 76 23 70 12 18 21 26 29 54 44 85 35 10 20 47 130 116 55 43 80 32 75
+
+43 28 17 60 82 82 5 29 115 67 52 10
+
+15 40 32 12 15 57 33 49 16 43 23 36 6 21 64 16 95 29 22 52 19 16 16 20 37 50 17 26 51 9 17 22 28 45
+
+Table 11.1: Dorsal lengths of octapods
+
+Histogram of oct
+
+Frequency
+
+0
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+50
+
+100 oct
+
+150
+
+200
+
+11.1.1
+
+Summary Statistics
+
+Location This is often called the ”measure of central tendency” in our textbooks, or the ”centre” of the dataset in other sources. Common measures of location are the mean and median. Less common measures are the mode and the truncated mean. Given observations x1, x2, . . . , xn • The sample mean is just
+1 n n i=1 xi written
+
+¯. For the Octopods it is 44.67021. x
+
+• The median is the middle value, we arrange the observations in order and if n is odd pick the middle one. If n is even then we take the average of the two middle values. For the Octopods it is 32.5
+
+147
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Looking at Data
+
+11.1. LOOKING AT DATA
+
+155
+
+• A truncated mean is the mean of a data set where some large or small (or both) observations have been deleted. As you might expect the median is much less inﬂuenced by outliers - it is a robust estimate.
+Histogram of oct
+
+Frequency
+
+0
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+50
+
+100 oct
+
+150
+
+200
+
+Example
+The Australian Bureau of Meteorology collects data on rainfall across Australia. Given below is the mean monthly rainfall in Broken Hill as well as the median monthly rainfall. Average Monthly Rainfall in Broken Hill (in millimeters) 1900 to 1990 Month Mean Median Jan 23 9 Feb 24 10 Mar 18 9 Apr 19 9 May 22 13 Jun 22 15 Jul 17 15 Aug 19 17 Sep 20 12 Oct 25 15 Nov 19 10 Dec 20 7
+
+148
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Looking at Data
+
+156
+
+CHAPTER 11. LOOKING AT DATA
+(a) Note that the median monthly rainfall is January is much smaller than the mean monthly rainfall. What does this imply about the shape of the distribution of the rainfall data for the month of January? (b) Which measure of central tendency, the mean or the median, is more appropriate for describing rainfall in Broken Hill? Justify your answer using knowledge of mean and median. (c) Use the above table to calculate the total yearly rainfall for Broken Hill. (d) In the north of Australia, the wet season occurs from November to April. Broken Hill, in central Australia, is occasionally drenched by a northern storm during these months. These storms tend drop a large amount of rain in a comparatively short time. How does the table reﬂect this fact?
+
+Spread This is the amount of variation in the data. Common measures of spread are the sample variance, standard deviation and the interquartile range. Less common is the range. The traditional measure is the sample variance s2 = 1 n
+n
+
+¯)2 (xi − x
+i=1
+
+and the square root of the sample variance known as the standard deviation 1 n
+n
+
+s2 =
+
+¯ )2 (xi − x
+i=1
+
+For the octopods s=36.06159. Alternatives are:
+
+The range This is deﬁned as range = largest data value - smallest data value this is obviously not very robust and hence is not often used which is a shame. Interquartile Range The interquartile range Q3-Q1, while simple in concept, has caused much grief to introductory statistics teachers since diﬀerent respectable sources deﬁne it in diﬀerent respectable ways! First we ﬁnd the lower quartile Q1, this is the k = (n/4)th of the ordered observations. If k is not an integer we take the integer part of k plus 1 otherwise we take k + 1. The upper quartile Q3 is obtained by counting down from the upper end of the ordered sample. This is a good robust measure of spread. For the Octopods Q3-Q1= 59.25 -19.00 = 40.25.
+
+149
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+11.1. LOOKING AT DATA Shape
+
+157
+
+Looking at Data
+
+The shape of a dataset is commonly categorized as symmetric, left-skewed, right-skewed or bi-modal. The shape is an important factor informing the decisions on the best measure of location and spread. There are several summary measures. The sample third moment n 1 ¯)3 (xi − x κ3 = ns3
+i=1
+
+measures skewness-it is zero for a symmetric distribution. The fourth moment κ4 = 1 ns4
+n
+
+¯)3 (xi − x
+i=1
+
+gives a ﬂat top measure. It is 3 for a normal variable!
+
+Outliers
+Outliers are data values that lie away from the general cluster of other data values. Each outlier needs to be examined to determine if it represents a possible value from the population being studied, in which case it should be retained, or if it is non-representative (or an error) in which case it can be excluded. It may be that an outlier is the most important feature of a dataset. It is said that the ozone hole above the South Pole had been detected by a satellite years before it was detected by ground-based observations, but the values were tossed out by a computer program because they were smaller than were thought possible.
+
+Clustering
+Clustering implies that the data tends to bunch up around certain values.
+
+Granularity
+Granularity implies that only certain discrete values are allowed, e.g. a company may only pay salaries in multiples of £1,000. A dotplot shows granularity as stacks of dots separated by gaps. Data that is discrete often shows granularity because of its discreteness. Continuous data can show granularity if the data is rounded.
+
+11.1.2
+
+Diagrams
+
+There is much to be said for drawing pictures. It is hard to imagine a data set where a histogram is not useful. If your computer program does not draw pictures then replace it! I rather like to smooth the histogram to get an idea of the shape of the p.d.f. Note however we need to take care even with the humble histogram! Ideally a histogram should show the shape of the distribution of the data. For some datasets but
+
+150
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+158
+
+CHAPTER 11. LOOKING AT DATA
+
+Looking at Data
+
+the choice of bin width can have a profound eﬀect on how the histogram displays the data.
+
+Stem and Leaf charts
+If you are in a computer-free environment a stem-and-leaf plot can be a quick an eﬀective way of drawing up such a chart. Consider the data below 27 37 47 stem 2 3 4 5 leaves 789 0123456789 0123456789 0123456 28 38 48 29 39 49 freq 3 10 10 7 30 40 50 31 41 51 32 42 52 33 43 53 34 44 54 35 45 55 36 46 56
+
+cum freq 3 13 23 30
+
+Such a stem and leaf chart is valuable in giving an approximate histogram and giving the basis for some interesting data summaries. As you can see it is fairly easy to ﬁnd the median, range etc. from the stem and leaf chart.
+
+Dotplots
+A traditional dotplot resembles a stemplot lying on its back, with dots replacing the values on the leaves. It does a good job of displaying the shape, location and spread of the distribution, as well as showing evidence of clusters, granularity and outliers. And for smallish datasets a dotplot is easy to construct, so the dotplot is a particularly valuable tool for the statistics student who is working without technology.
+
+Box-Plots
+Another useful picture is the box plot. Here we mark the quartiles Q1 Q2 on an axis and draw a box whose ends are at these points. The ends of the vertical lines or ”whiskers” indicate the minimum and maximum data values, unless outliers are present in which case the whiskers extend to a maximum of 1.5 times the inter-quartile range. The points outside the ends of the whiskers are outliers or suspected outliers. can be very useful, especially when making comparisons. One drawback of boxplots is that they tend to emphasize the tails of a distribution, which are the least certain points in the data set. They also hide many of the details of the distribution. Displaying a histogram in conjunction with the boxplot helps. Both are important tools for exploratory data analysis.
+
+151
+Download free eBooks at bookboon.com
+
+11.2. SCATTER DIAGRAM Mathematics for Computer Scientists
+Octopod Boxplot
+
+159 Looking at Data
+
+11.2
+
+Scatter Diagram
+
+A common diagram is the scatter diagram where we plot x values against y values. We illustrate the ideas with two examples.
+
+Breast cancer
+In a 1965 report, Lea discussed the relationship between mean annual temperature and the mortality rate for a type of breast cancer in women. The subjects were residents of certain regions of Great Britain, Norway, and Sweden. A simple regression of mortality index on temperature shows a strong positive relationship between the two variables.
+
+Data
+Data contains the mean annual temperature (in degrees F) and Mortality Index for neoplasms of the female breast. Data were taken from certain regions of Great Britain, Norway, and Sweden. Number of cases: 16 Variable Names 1. Mortality: Mortality index for neoplasms of the female breast 2. Temperature: Mean annual temperature (in degrees F) The Data:
+
+0
+
+50
+
+100
+
+150
+
+152
+Download free eBooks at bookboon.com
+
+Mathematics for Computer Scientists
+
+Looking at Data
+
+160
+Mortality 102.5 104.5 100.4 95.9 87 95 88.6 89.2 78.9 84.6 81.7 72.2 65.1 68.1 67.3 52.5
+
+CHAPTER 11. LOOKING AT DATA
+Temperature 51.3 49.9 50 49.2 48.5 47.8 47.3 45.1 46.3 42.1 44.2 43.5 42.3 40.2 31.8 34
+
+mort
+
+60
+
+70
+
+80
+
+90
+
+100
+
+35
+
+40 temp
+
+45
+
+50
+
+153
+Download free eBooks at bookboon.com
+

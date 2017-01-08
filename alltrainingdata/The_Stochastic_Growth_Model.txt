@@ -1,0 +1,955 @@
+The	Stochastic	Growth	Model
+Koen	Vermeylen
+
+Download	free	books	at
+
+The Stochastic Growth Model
+
+Contents
+
+Contents
+1. 2. 3. 4. 5. 6. 7. Introduction The stochastic growth model The steady state Linearization around the balanced growth path Solution of the linearized model Impulse response functions Conclusions 3 4 7 8 9 13 18 20 20 20 22 24 24 25 26 26 28 30 32
+
+Appendix A A1. The maximization problem of the representative ﬁrm A2. The maximization problem of the representative household Appendix B Appendix C C1. The linearized production function C2. The linearized law of motion of the capital stock C3. The linearized ﬁrst-order condotion for the ﬁrm’s labor demand C4. The linearized ﬁrst-order condotion for the ﬁrm’s capital demand C5. The linearized Euler equation of the representative household C6. The linearized equillibrium condition in the goods market References
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+2 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+The Stochastic Growth Model
+
+Introduction
+
+1. Introduction
+This article presents the stochastic growth model. The stochastic growth model is a stochastic version of the neoclassical growth model with microfoundations,1 and provides the backbone of a lot of macroeconomic models that are used in modern macroeconomic research. The most popular way to solve the stochastic growth model, is to linearize the model around a steady state,2 and to solve the linearized model with the method of undetermined coeﬃcients. This solution method is due to Campbell (1994). The set-up of the stochastic growth model is given in the next section. Section 3 solves for the steady state, around which the model is linearized in section 4. The linearized model is then solved in section 5. Section 6 shows how the economy responds to stochastic shocks. Some concluding remarks are given in section 7.
+
+3 Download free eBooks at bookboon.com
+
+The Stochastic Growth Model
+
+The stochastic growth model
+
+2. The stochastic growth model
+The representative ﬁrm Assume that the production side of the economy is represented by a representative ﬁrm, which produces output according to a Cobb-Douglas production function:
+α Yt = Kt (At Lt )1−α
+
+with 0 < α < 1
+
+(1)
+
+Y is aggregate output, K is the aggregate capital stock, L is aggregate labor supply and A is a technology parameter. The subscript t denotes the time period. The aggregate capital stock depends on aggregate investment I and the depreciation rate δ: Kt+1 = (1 − δ)Kt + It with 0 ≤ δ ≤ 1 (2)
+
+The productivity parameter A follows a stochastic path with trend growth g and an AR(1) stochastic component: ˆ ln At = ln A∗ t + At ˆt = φA A ˆt−1 + εA,t A A∗ t = A∗ t−1 (1 + g)
+
+with |φA | < 1
+
+(3)
+
+The stochastic shock εA,t is i.i.d. with mean zero. The goods market always clears, such that the ﬁrm always sells its total production. Taking current and future factor prices as given, the ﬁrm hires labor and invests in its capital stock to maximize its current value. This leads to the following ﬁrst-order-conditions:3 (1 − α) Yt Lt = wt 1 Yt+1 1−δ α + Et 1 + rt+1 Kt+1 1 + rt+1 (4) (5)
+
+1 = Et
+
+According to equation (4), the ﬁrm hires labor until the marginal product of labor is equal to its marginal cost (which is the real wage w). Equation (5) shows that the ﬁrm’s investment demand at time t is such that the marginal cost of investment, 1, is equal to the expected discounted marginal product of capital at time t + 1 plus the expected discounted value of the extra capital stock which is left after depreciation at time t + 1.
+
+4 Download free eBooks at bookboon.com
+
+The Stochastic Growth Model
+
+The stochastic growth model
+
+The government The government consumes every period t an amount Gt , which follows a stochastic path with trend growth g and an AR(1) stochastic component: ˆ ln Gt = ln G∗ t + Gt ˆ t = φG G ˆ t−1 + εG,t G
+∗ G∗ t = Gt−1 (1 + g )
+
+with |φG | < 1
+
+(6)
+
+The stochastic shock εG,t is i.i.d. with mean zero. εA and εG are uncorrelated at all leads and lags. The government ﬁnances its consumption by issuing public debt, subject to a transversality condition,4 and by raising lump-sum taxes.5 The timing of taxation is irrelevant because of Ricardian Equivalence.6
+
+5 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+The Stochastic Growth Model
+
+The stochastic growth model
+
+The representative household There is one representative household, who derives utility from her current and future consumption: Ut = Et
+∞ s =t
+
+1 1+ρ
+
+s −t
+
+ln Cs
+
+with ρ > 0
+
+(7)
+
+The parameter ρ is called the subjective discount rate. Every period s, the household starts oﬀ with her assets Xs and receives interest payments Xs rs . She also supplies L units of labor to the representative ﬁrm, and therefore receives labor income ws L. Tax payments are lump-sum and amount to Ts . She then decides how much she consumes, and how much assets she will hold in her portfolio until period s + 1. This leads to her dynamic budget constraint: Xs+1 = Xs (1 + rs ) + ws L − Ts − Cs (8)
+
+We need to make sure that the household does not incur ever increasing debts, which she will never be able to pay back anymore. Under plausible assumptions, this implies that over an inﬁnitely long horizon the present discounted value of the household’s assets must be zero:
+s→∞
+
+lim Et
+
+1 1 + rs s =t
+
+s
+
+Xs+1
+
+= 0
+
+(9)
+
+This equation is called the transversality condition. The household then takes Xt and the current and expected values of r , w, and T as given, and chooses her consumption path to maximize her utility (7) subject to her dynamic budget constraint (8) and the transversality condition (9). This leads to the following Euler equation:7 1 Cs = Es 1 + rs+1 1 1 + ρ Cs+1 (10)
+
+Equilibrium Every period, the factor markets and the goods market clear. For the labor market, we already implicitly assumed this by using the same notation (L) for the representative household’s labor supply and the representative ﬁrm’s labor demand. Equilibrium in the goods market requires that Yt = Ct + It + Gt Equilibrium in the capital market follows then from Walras’ law. (11)
+
+6 Download free eBooks at bookboon.com
+
+The Stochastic Growth Model
+
+The steady state
+
+3. The steady state
+Let us now derive the model’s balanced growth path (or steady state); variables evaluated on the balanced growth path are denoted by a ∗ . ˆt = To derive the balanced growth path, we assume that by sheer luck εA,t = A ˆ t = 0, ∀t. The model then becomes a standard neoclassical growth εG,t = G model, for which the solution is given by:8 Yt∗
+∗ Kt ∗ It ∗ Ct
+
+= = = =
+
+α ∗ r +δ α ∗ r +δ
+
+α 1−α
+
+A∗ tL A∗ tL
+1
+
+(12) (13) (14)
+α 1−α
+
+1 1−α
+
+∗ = wt
+
+r∗ =
+
+1−α α (g + δ) ∗ A∗ tL r +δ α α 1 − (g + δ) ∗ ∗ r +δ r +δ α 1−α α (1 − α) ∗ A∗ t r +δ (1 + ρ)(1 + g) − 1
+
+∗ A∗ t L − Gt
+
+(15) (16) (17)
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+7 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+The Stochastic Growth Model
+
+Linearization around the balanced growth path
+
+4. Linearization around the balanced growth path
+Let us now linearize the model presented in section 2 around the balanced growth path derived in section 3. Loglinear deviations from the balanced growth path ˆ = ln X − ln X ∗ ). are denoted by aˆ(so that X Below are the loglinearized versions of the production function (1), the law of motion of the capital stock (2), the ﬁrst-order conditions (4) and (5), the Euler equation (10) and the equilibrium condition (11):9 ˆt = αK ˆ t + (1 − α)A ˆt Y ˆ t+1 = 1 − δ K ˆt + g + δ I ˆt K 1+g 1+g ˆt = w Y ˆt Et rt+1 − 1 + r∗ r∗ = r∗ +δ ˆt+1 ) − Et (K ˆ t+1 ) Et (Y 1 + r∗ (18) (19) (20) (21) (22) (23)
+
+rt+1 − r ∗ ˆ ˆ Ct = Et Ct+1 − Et 1 + r∗ ∗ ∗ ∗ ˆt + It I ˆt + Gt G ˆt ˆt = Ct C Y Yt∗ Yt∗ Yt∗
+
+The loglinearized laws of motion of A and G are given by equations (3) and (6): ˆt+1 = φA A ˆt + εA,t+1 A ˆ t+1 = φG G ˆ t + εG,t+1 G (24) (25)
+
+8 Download free eBooks at bookboon.com
+
+The Stochastic Growth Model
+
+Solution of the linearized model
+
+5. Solution of the linearized model
+I now solve the linearized model, which is described by equations (18) until (25). ˆt and G ˆ t are known in the beginning of period t: K ˆ t depends ˆ t, A First note that K ˆt and G ˆ t are determined by current and past on past investment decisions, and A ˆ t, A ˆt and G ˆ t are values of respectively εA and εG (which are exogenous). K therefore called period t’s state variables. The values of the other variables in period t are endogenous, however: investment and consumption are chosen by the representative ﬁrm and the representative household in such a way that they ˆt and C ˆt are therefore called period t’s control maximize their proﬁts and utility (I variables); the values of the interest rate and the wage are such that they clear the capital and the labor market. Solving the model requires that we express period t’s endogenous variables as ˆt , for instance, therefore functions of period t’s state variables. The solution of C looks as follows: ˆt = ϕCK K ˆ t + ϕCA A ˆt + ϕCG G ˆt C The challenge now is to determine the ϕ-coeﬃcients. First substitute equation (26) in the Euler equation (22): ˆ t + ϕCA A ˆt + ϕCG G ˆt ϕCK K ˆ t+1 + ϕCA A ˆt+1 + ϕCG G ˆ t+1 − Et = Et ϕCK K rt+1 − r ∗ 1 + r∗ (26)
+
+(27)
+
+Now eliminate Et [(rt+1 − r ∗ )/(1+ r ∗ )] with equation (21), and use equations (18), ˆt+1 , A ˆt+1 and G ˆ t+1 in the resulting expression. This (24) and (25) to eliminate Y
+
+9 Download free eBooks at bookboon.com
+
+The Stochastic Growth Model
+
+Solution of the linearized model
+
+ˆ t+1 : leads to a relation between period t’s state variables, the ϕ-coeﬃcients and K ˆ t + ϕCA A ˆt + ϕCG G ˆt ϕCK K ∗ r +δ ˆ r∗ + δ ˆt + ϕCG φG G ˆt K = ϕCK + (1 − α) + ϕ − (1 − α ) φA A t+1 CA 1 + r∗ 1 + r∗ (28) We now derive a second relation between period t’s state variables, the ϕ-coeﬃcients ˆt with equation (23); ˆ t+1 : rewrite the law of motion (19) by eliminating I and K ˆt and C ˆt in the resulting equation with the production function (18) eliminate Y and expression (26); note that I ∗ = K ∗ (g + δ); and note that (1 − δ)/(1 + g) + ∗ (1 + g )) = (1 + r ∗ )/(1 + g ). This yields: (αYt∗ )/(Kt
+∗ C∗ ˆ t+1 = 1 + r − ˆt K ϕCK K 1+g K ∗ (1 + g) (1 − α)Y ∗ G∗ C∗ C∗ ˆt − ˆt + A − ϕ + ϕCG G CA K ∗ (1 + g) K ∗ (1 + g) K ∗ (1 + g) K ∗ (1 + g) (29)
+
+ˆ t+1 yields: Substituting equation (29) in equation (28) to eliminate K ˆ t + ϕCA A ˆt + ϕCG G ˆt ϕCK K r∗ + δ 1 + r∗ C∗ ˆt − ϕCK K = ϕCK + (1 − α) 1 + r∗ 1+g K ∗ (1 + g) r ∗ + δ (1 − α)Y ∗ C∗ + ϕCK + (1 − α) − ϕCA 1 + r ∗ K ∗ (1 + g) K ∗ (1 + g) r∗ + δ G∗ C∗ − ϕCK + (1 − α) + ϕCG 1 + r ∗ K ∗ (1 + g) K ∗ (1 + g) r∗ + δ ˆt − ϕCG φG G ˆt + ϕCA − (1 − α) φA A 1 + r∗
+
+ˆt A ˆt G (30)
+
+ˆt and G ˆ t , we ﬁnd the following ˆ t, A As this equation must hold for all values of K system of three equations and three unknowns: ϕCK ϕCA r∗ + δ 1 + r∗ r∗ + δ = ϕCK + (1 − α) 1 + r∗ r∗ + δ + ϕCA − (1 − α) 1 + r∗ r∗ + δ = − ϕCK + (1 − α) 1 + r∗ = ϕCK + (1 − α) 1 + r∗ C∗ − ∗ ϕCK 1+g K (1 + g) (1 − α)Y ∗ C∗ − ϕCA K ∗ (1 + g) K ∗ (1 + g) φA (31)
+
+(32)
+
+ϕCG
+
+C∗ G∗ + ϕCG − ϕCG φG K ∗ (1 + g) K ∗ (1 + g) (33)
+
+10 Download free eBooks at bookboon.com
+
+The Stochastic Growth Model
+
+Solution of the linearized model
+
+Now note that equation (31) is quadratic in ϕCK : Q0 + Q1 ϕCK + Q2 ϕ2 CK = 0 where Q0 = −(1 − α) 1+g , Q1 = (1 − α) This quadratic equation has two solutions: ϕCK 1,2 = − Q1 ± Q2 1 − 4Q0 Q2 2Q2 (35)
+r ∗ +δ r ∗ +δ 1+r ∗
+
+(34)
+∗ Ct ∗ Kt (1+g )
+
+−
+
+r ∗ −g 1+g
+
+and Q2 =
+
+∗ Ct ∗ Kt (1+g )
+
+It turns out that one of these two solutions yields a stable dynamic system, while the other one yields an unstable dynamic system. This can be recognized as follows. Recall that there are three state variables in this economy: K , A and G. A and G may undergo shocks that pull them away from their steady states, but as |φA | and |φG | are less than one, equations (3) and (6) imply that they are always expected to converge back to their steady state values. Let us now look at the expected time path for K , which is described by equation (29). If K is not ˆ = 0), K is expected to converge back to its at its steady state value (i.e. if K ˆ t in equation (29), steady state value if the absolute value of the coeﬃcient of K 1+r ∗ C∗ 1+r ∗ C∗ ˆ 1+g − K ∗ (1+g ) ϕCK , is less than one; if | 1+g − K ∗ (1+g ) ϕCK | > 1, K is expected to increase - which means that K is expected to run away along an explosive path, ever further away from its steady state.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+11 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+The Stochastic Growth Model
+
+Solution of the linearized model
+
+Now note that equation (31) is quadratic in ϕCK : Q0 + Q1 ϕCK + Q2 ϕ2 CK = 0 where Q0 = −(1 −
+∗ +δ α) r1+ g ,
+
+(34)
+∗ Ct r ∗ +δ α) 1+ ∗ ∗ r Kt (1+g )
+
+Q1 = (1 −
+
+−
+
+r ∗ −g 1+g
+
+and Q2 =
+
+∗ Ct ∗ Kt (1+g )
+
+This quadratic equation has two solutions: ϕCK 1,2 = − Q1 ± Q2 1 − 4Q0 Q2 2Q2 (35)
+
+It turns out that one of these two solutions yields a stable dynamic system, while the other one yields an unstable dynamic system. This can be recognized as follows. Recall that there are three state variables in this economy: K , A and G. A and G may undergo shocks that pull them away from their steady states, but as |φA | and |φG | are less than one, equations (3) and (6) imply that they are always expected to converge back to their steady state values. Let us now look at the expected time path for K , which is described by equation (29). If K is not ˆ = 0), K is expected to converge back to its at its steady state value (i.e. if K ˆ t in equation (29), steady state value if the absolute value of the coeﬃcient of K ∗ ∗ ∗ ∗ 1+r C 1+r C ˆ 1+g − K ∗ (1+g ) ϕCK , is less than one; if | 1+g − K ∗ (1+g ) ϕCK | > 1, K is expected to increase - which means that K is expected to run away along an explosive path, ever further away from its steady state. ϕCG = −
+r +δ ϕCK + (1 − α) 1+ r∗ r +δ 1 + ϕCK + (1 − α) 1+ r∗
+∗ ∗
+
+G∗ K ∗ (1+g ) C∗ K ∗ (1+g )
+
+− φG
+
+(38)
+
+We now have found all the ϕ-coeﬃcients of equation (26), so we can compute ˆ t, A ˆt and G ˆ t . Once we know C ˆt , the other ˆt from period t’s state variables K C endogenous variables can easily be found from equations (18), (19), (20), (21) and (23). The values of the state variables in period t + 1 can be computed from equation (29), and equations (3) and (6) (moved one period forward).
+
+12 Download free eBooks at bookboon.com
+
+The Stochastic Growth Model
+
+Impulse response functions
+
+6. Impulse response functions
+∗ We now calibrate the model by assigning appropriate values to α, δ, ρ, A∗ t , Gt , φA , φG , g and L. Let us assume, for instance, that every period corresponds to a quarter, and let us choose parameter values that mimic the U.S. economy: α = 1/3, δ = 2.5%, φA = 0.5, φG = 0.5, and g = 0.5%; A∗ t and L are normalized ∗ ∗ ∗ to 1; Gt is chosen such that Gt /Yt = 20%; and ρ is chosen such that r ∗ = 1.5%.11
+
+It is then straightforward to compute the balanced growth path: Yt∗ = 2.9, ∗ = 24.1, I ∗ = 0.7, C ∗ = 1.6 and w∗ = 1.9 (while r ∗ = 1.5% per construction). Kt t t t ∗ Y , K ∗ , I ∗ , C ∗ and w∗ all grow at rate 0.5% per quarter, while r ∗ remains constant over time. Note that this parameterization yields an annual capitaloutput-ratio of about 2, while C and I are about 55% and 25% of Y , respectively - which seem reasonable numbers. Once we have computed the steady state, we can use equations (36), (37) and (38) to compute the ϕ-coeﬃcients. We are then ready to trace out the economy’s reaction to shocks in A and G. Consider ﬁrst the eﬀect of a technology shock in quarter 1. Suppose the economy ˆs = A ˆs = G ˆs = 0 is initially moving along its balanced growth path (such that K ∀s < 1), when in quarter 1 it is suddenly hit by a technology shock εA,1 = 1. ˆ1 = 1 as well, while equations (29) and From equation (3) follows then that A ˆ ˆ (6) imply that K1 = G1 = 0. Given these values for quarter 1’s state variables ˆ1 can be computed from equation (26); the other and given the ϕ-coeﬃcients, C endogenous variables in quarter 1 follow from equations (18), (19), (20), (21) and (23). Quarter 2’s state variables can then be computed from equations (28), (3) and (6) - which leads to the values for quarter 2’s endogenous variables, and quarter 3’s state variables. In this way, we can trace out the eﬀect of the technology shock into the inﬁnite future.
+
+13 Download free eBooks at bookboon.com
+
+The Stochastic Growth Model
+
+Impulse response functions
+
+Figure 1: Eﬀect of a 1% shock in A ...
+
+in % 0.15 0.10 0.05 0 0 4
+
+ˆ ... on K
+
+in % 0.8 0.6 0.4 0.2 0
+
+ˆ ... on Y
+
+8 12 16 20 24 28 32 36 40 quarter
+
+0
+
+4
+
+8 12 16 20 24 28 32 36 40 quarter
+
+in % 0.15 0.10 0.05 0 0 4
+
+ˆ ... on C
+
+in % 3 2 1 0
+
+ˆ ... on I
+
+8 12 16 20 24 28 32 36 40 quarter
+
+0
+
+4
+
+8 12 16 20 24 28 32 36 40 quarter
+
+in % 0.8 0.6 0.4 0.2 0 0 4
+
+... on w ˆ
+
+in % 1.5 1.0 0.5 0 −0.5
+
+... on E (r ) − r ∗
+
+8 12 16 20 24 28 32 36 40 quarter
+
+0
+
+4
+
+8 12 16 20 24 28 32 36 40 quarter
+
+14 Download free eBooks at bookboon.com
+
+The Stochastic Growth Model
+
+Impulse response functions
+
+Figure 2: Eﬀect of a 1% shock in G ...
+
+in % 0 −0.01 −0.02 −0.03 −0.04 0 4
+
+ˆ ... on K
+
+in % 0 −0.005 −0.010 −0.015
+
+ˆ ... on Y
+
+8 12 16 20 24 28 32 36 40 quarter
+
+0
+
+4
+
+8 12 16 20 24 28 32 36 40 quarter
+
+in % 0 −0.01 −0.02 −0.03 −0.04 0 4
+
+ˆ ... on C
+
+in % 0 −0.2 −0.4 −0.6 −0.8
+
+ˆ ... on I
+
+8 12 16 20 24 28 32 36 40 quarter
+
+0
+
+4
+
+8 12 16 20 24 28 32 36 40 quarter
+
+in % 0 −0.005 −0.010 −0.015 0 4
+
+... on w ˆ
+
+in % 0.12 0.08 0.04 0
+
+... on E (r ) − r ∗
+
+8 12 16 20 24 28 32 36 40 quarter
+
+0
+
+4
+
+8 12 16 20 24 28 32 36 40 quarter
+
+15 Download free eBooks at bookboon.com
+
+The Stochastic Growth Model
+
+Impulse response functions
+
+Figure 1 shows how the economy reacts during the ﬁrst 40 quarters. Note that Y jumps up in quarter 1, together with the technology shock. As a result, the representative household increases her consumption, but as she wants to smooth her consumption over time, C increases less than Y . Investment I therefore initially increases more than Y . As I increases, the capital stock K gradually increases as well after period 1. The expected rate of return, E (r ), is at ﬁrst higher than on the balanced growth path (thanks to the technology shock). However, as the technology shock dies out while the capital stock builds up, the expected interest rate rapidly falls and even becomes negative after a few quarters. The real wage w follows the time path of Y . Note that all variables eventually converge back to their steady state values. Consider now the eﬀect of a shock in government expenditures in quarter 1. Assume again that the economy is on a balanced growth path in quarter 0. In quarter 1, however, the economy is hit by a shock in government expenditures ˆ1 = 1 as well, while equations εG,1 = 1. From equation (3) follows then that A ˆ 1 = 0. Once we know the state variables in ˆ1 = G (29) and (6) imply that K quarter 1, we can compute the endogenous variables in quarter 1 and the state variables for quarter 2 in the same way as in the case of a technology shock which leads to the values for quarter 2’s endogenous variables and quarter 3’s state variables, and so on until the inﬁnite future.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+16 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+The Stochastic Growth Model
+
+Impulse response functions
+
+Figure 2 shows the economy’s reaction to a shock in government expenditures during the ﬁrst 40 quarters. As G increases, E (r ) increases as well such that C and I fall (to make sure that C + I + G remains equal to Y , which does not change ˆ 1 = 0). As I falls, the capital stock K gradually decreases after in quarter 1 as K period 1, such that Y starts decreasing after period 1 as well. In the meantime, however, the shock in G is dying out, so after a while E (r ) decreases again. As a result, C and I recover - and as I recovers, K and Y recover also. Note that the real wage w again follows the time path of Y . Eventually, all variables converge back to their steady state values.
+
+17 Download free eBooks at bookboon.com
+
+The Stochastic Growth Model
+
+Conclusions
+
+7. Conclusions
+This note presented the stochastic growth model, and solved the model by ﬁrst linearizing it around a steady state and by then solving the linearized model with the method of undetermined coeﬃcients. Even though the stochastic growth model itself might bear little resemblance to the real world, it has proven to be a useful framework that can easily be extended to account for a wide range of macroeconomic issues that are potentially important. Kydland and Prescott (1982) introduced labor/leisure-substitution in the stochastic growth model, which gave rise to the so-called real-business-cycle literature. Greenwood and Huﬀman (1991) and Baxter and King (1993) replaced the lump-sum taxation by distortionary taxation, to study how taxes aﬀect the behavior of ﬁrms and households. In the beginning of the 1990s, researchers started introducing money and nominal rigidities in the model, which gave rise to New Keynesian stochastic dynamic general equilibrium models that are now widely used to study monetary policy - see Goodfriend and King (1997) for an overview. Vermeylen (2006) shows how the representative household can be replaced by a large number of households to study the eﬀect of job insecurity on consumption and saving in a general equilibrium setting.
+
+18 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+The Stochastic Growth Model
+
+Conclusions
+
+1
+
+Microfoundations means that the objectives of the economic agents are formulated explicitly, and that their behavior is derived by assuming that they always try to achieve their objectives as well as they can. A steady state is a condition in which a number of key variables are not changing. In the stochastic growth model, these key variables are for instance the growth rate of aggregate production, the interest rate and the capital-output-ratio. See appendix A for derivations. This means that the present discounted value of public debt in the distant future should be equal to zero, such that public debt cannot keep on rising at a rate that is higher than the interest rate. This guarantees that public debt is always equal to the present discounted value of the government’s future primary surpluses. Lump-sum taxes do not aﬀect the ﬁrst-order conditions of the ﬁrms and the households, and therefore do not aﬀect their behavior either. Ricardian equivalence is the phenomenon that - given certain assumptions - it turns out to be irrelevant whether the government ﬁnances its expenditures by issuing public debt or by raising taxes. The reason for this is that given the time path of government expenditures, every increase in public debt must sooner or later be matched by an increase in taxes, such that the present discounted value of the taxes which a representative household has to pay is not aﬀected by the way how the government ﬁnances its expenditures which implies that her current wealth and her consumption path are not aﬀected either. See appendix A for the derivation. See appendix B for the derivation. See appendix C for the derivations. The solution with unstable dynamics not only does not make sense from an economic point of view, it also violates the transversality conditions. Note that these values imply that the annual depreciation rate, the annual growth rate and the annual interest rate are about 10%, 2% and 6%, respectively.
+
+2
+
+3 4
+
+5
+
+6
+
+7 8 9 10
+
+11
+
+19 Download free eBooks at bookboon.com
+
+The Stochastic Growth Model
+
+Appendix A
+
+Appendix A
+A1. The maximization problem of the representative ﬁrm
+The maximization problem of the ﬁrm can be rewritten as: Vt (Kt ) =
+{Lt ,It }
+
+max
+
+Yt − wt Lt − It + Et
+
+1 Vt+1 (Kt+1 ) 1 + rt+1
+
+(A.1)
+
+α s.t. Yt = Kt (At Lt )1−α
+
+Kt+1 = (1 − δ )Kt + It The ﬁrst-order conditions for Lt , respectively It , are:
+α 1−α −α At Lt − wt (1 − α)Kt ∂Vt+1 (Kt+1 ) 1 −1 + Et 1 + rt+1 ∂Kt+1
+
+= 0 = 0
+
+(A.2) (A.3)
+
+In addition, the envelope theorem implies that ∂Vt (Kt ) ∂Kt =
+α−1 αKt (At Lt )1−α + Et
+
+∂Vt+1 (Kt+1 ) 1 (1 − δ ) 1 + rt+1 ∂Kt+1
+
+(A.4)
+
+Substituting the production function in (A.2) gives equation (4): (1 − α) Substituting (A.3) in (A.4) yields: ∂Vt (Kt ) ∂Kt =
+α−1 αKt (At Lt )1−α + (1 − δ )
+
+Yt Lt
+
+= wt
+
+Moving one period forward, and substituting again in (A.3) gives: −1 + Et 1 α−1 1−α αKt + (1 − δ ) +1 (At+1 Lt+1 ) 1 + rt+1 = 0
+
+Substituting the production function in the equation above and reshuﬄing leads to equation (5): 1 = Et Yt+1 1 1−δ + Et α 1 + rt+1 Kt+1 1 + rt+1
+
+A2. The The maximization problem of the representativehousehold household A2. maximization problem of the representative
+The maximization problem of the household can be rewritten as: Ut (Xt ) = max ln Ct +
+{Ct }
+
+1 Et [Ut+1 (Xt+1 )] 1+ρ
+
+(A.5)
+
+s.t. Xt+1 = Xt (1 + rt ) + wt L − Tt − Ct
+
+20 Download free eBooks at bookboon.com
+
+The Stochastic Growth Model
+
+Appendix A
+
+The ﬁrst-order condition for Ct is: ∂Ut+1 (Xt+1 ) 1 1 Et − Ct 1+ρ ∂Xt+1 In addition, the envelope theorem implies that ∂Ut (Xt ) ∂Xt = ∂Ut+1 (Xt+1 ) 1 Et (1 + rt ) 1+ρ ∂Xt+1 (A.7) = 0 (A.6)
+
+Substituting (A.6) in (A.7) yields: ∂Ut (Xt ) ∂Xt = (1 + rt ) 1 Ct
+
+Moving one period forward, and substituting again in (A.6) gives the Euler equation (10): 1 1 + rt+1 1 − Et Ct 1 + ρ Ct+1 = 0
+
+21 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+The Stochastic Growth Model
+
+Appendix B
+
+Appendix B
+If C grows at rate g , the Euler equation (10) implies that
+∗ Cs (1 + g ) =
+
+1 + r∗ ∗ C 1+ρ s
+
+Rearranging gives then the gross real rate of return 1 + r∗ : 1 + r∗ = (1 + g )(1 + ρ) which immediately leads to equation (17). Subsituting in the ﬁrm’s ﬁrst-order condition (5) gives: α Yt∗ +1 ∗ Kt+1 = r∗ + δ
+
+Using the production function (1) to eliminate Y yields:
+∗α−1 1−α αKt +1 (At+1 L) ∗ Rearranging gives then the value of Kt +1 : ∗ Kt +1
+
+=
+
+r∗ + δ
+
+=
+
+α ∗ r +δ
+
+1 1−α
+
+At+1 L
+
+which is equivalent to equation (13).
+
+22 Download free eBooks at bookboon.com
+
+The Stochastic Growth Model
+
+Appendix B
+
+Substituting in the production function (1) gives then equation (12): Yt∗ = α r∗ + δ
+α 1−α
+
+At L
+
+Substituting (12) in the ﬁrst-order condition (4) gives equation (16):
+∗ wt
+
+=
+
+(1 − α)
+
+α ∗ r +δ
+
+α 1−α
+
+At
+
+Substituting (13) in the law of motion (2) yields: α ∗ r +δ
+∗ such that It is given by: ∗ It
+1 1−α
+
+At+1 L
+
+= (1 − δ )
+
+α ∗ r +δ
+
+1 1−α
+
+∗ At L + It
+
+= = =
+
+α ∗ r +δ α ∗ r +δ (g + δ )
+
+1 1−α
+
+At+1 L − (1 − δ )
+
+α ∗ r +δ
+
+1 1−α
+
+At L
+
+1 1−α
+
+[(1 + g ) − (1 − δ )] At L
+1 1−α
+
+α r∗ + δ
+
+At L
+
+...which is equation (14). Consumption C ∗ can then be computed from the equilibrium condition in the goods market:
+∗ Ct
+
+= = =
+
+∗ Yt∗ − It − G∗ t
+
+α ∗ r +δ
+
+α 1−α
+
+At L − (g + δ ) α ∗ r +δ
+α 1−α
+
+α ∗ r +δ
+
+1 1−α
+
+At L − G∗ t
+
+g+δ 1−α ∗ r +δ
+
+At L − G∗ t
+
+Now recall that on the balanced growth path, A and G grow at the rate of technological progress g . The equation above then implies that C ∗ also grows at the rate g , such that our initial educated guess turns out to be correct.
+
+23 Download free eBooks at bookboon.com
+
+The Stochastic Growth Model
+
+Appendix C
+
+Appendix C
+C1. The linearized production function
+The production function is given by equation (1): Yt =
+α Kt (At Lt )1−α
+
+Taking logarithms of both sides of this equation, and subtracting from both sides their ˆ t = 0), immediately yields values on the balanced growth path (taking into account that L the linearized version of the production function: ln Yt ln Yt − ln Yt∗ ˆt Y = = = α ln Kt + (1 − α) ln At + (1 − α) ln Lt ∗ ∗ α(ln Kt − ln Kt ) + (1 − α)(ln At − ln A∗ t ) + (1 − α)(ln Lt − ln Lt ) ˆ t + (1 − α)A ˆt αK
+
+...which is equation (18).
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+24 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+The Stochastic Growth Model
+
+Appendix C
+
+C2. The linearized law of motion of the capital stock
+The law of motion of the capital stock is given by equation (2): Kt+1 = (1 − δ )Kt + It
+
+Taking logarithms of both sides of this equation, and subtracting from both sides their values on the balanced growth path, yields:
+∗ ln Kt+1 − ln Kt +1 ∗ = ln {(1 − δ )Kt + It } − ln Kt +1
+
+∗ Now take a ﬁrst-order Taylor-approximation of the right-hand-side around ln Kt = ln Kt ∗ and ln It = ln It : ∗ ln Kt+1 − ln Kt +1 ˆ Kt+1
+
+= =
+
+∗ ∗ ϕ1 (ln Kt − ln Kt ) + ϕ2 (ln It − ln It ) ˆ ˆ ϕ1 Kt + ϕ2 It
+
+(C.1)
+
+where ϕ1 ϕ2 = = ∂ ln {(1 − δ )Kt + It } ∂ ln Kt ∂ ln {(1 − δ )Kt + It } ∂ ln It
+∗ ∗
+
+∗
+
+ϕ1 and ϕ2 can be worked out as follows: ϕ1 = = = = ϕ2 ∂ ln {(1 − δ )Kt + It } ∂Kt ∂Kt ∂ ln Kt 1−δ Kt (1 − δ )Kt + It
+∗ ∗
+
+1−δ Kt Kt+1 1−δ ...as Kt grows at rate g on the balanced growth path 1+g ∂ ln {(1 − δ )Kt + It } ∂It ∂It ∂ ln It 1 It (1 − δ )Kt + It 1 Kt+1 g+δ 1+g
+∗ ∗ ∗
+
+=
+
+= = =
+
+It
+∗ ∗ ...as It /Kt = g + δ and Kt grows at rate g on the balanced growth path
+
+Substituting in equation (C.1) gives then the linearized law of motion for K : ˆ t+1 K ...which is equation (19). = 1−δ ˆ g+δˆ Kt + It 1+g 1+g
+
+25 Download free eBooks at bookboon.com
+
+The Stochastic Growth Model
+
+Appendix C
+
+C3. The linearized ﬁrst-order condotion for the ﬁrm’s labor demand
+The ﬁrst-order condition for the ﬁrm’s labor demand is given by equation (4): (1 − α) Yt Lt = wt
+
+Taking logarithms of both sides of this equation, and subtracting from both sides their ˆ t = 0), immediately yields values on the balanced growth path (taking into account that L the linearized version of this ﬁrst-order condition: ln (1 − α) + ln Yt − ln Lt (ln Yt − ln Yt∗ ) − (ln Lt − ln L∗ ) ˆt Y ...which is equation (20). = ln wt ∗ = ln wt − ln wt = w ˆt
+
+C4. The linearized ﬁrst-order condition for the ﬁrms’ capital demand C4. The linearized ﬁrst-order condotion for the ﬁrm’s capital demand
+The ﬁrst-order condition for the ﬁrm’s capital demand is given by equation (5): 1 = Et [Zt+1 ] with Zt+1 =
+Yt+1 1 1+rt+1 α Kt+1
+
+(C.2) +
+1−δ 1+rt+1
+
+(C.3)
+
+Now take a ﬁrst-order Taylor-approximation of the right-hand-side of equation (C.3) ∗ ∗ around ln Yt+1 = ln Yt∗ +1 , ln Kt+1 = ln Kt+1 and rt+1 = r : Zt+1
+∗ ∗ = 1 + ϕ1 (ln Yt+1 − ln Yt∗ +1 ) + ϕ2 (ln Kt+1 − ln Kt+1 ) + ϕ3 (rt+1 − r ) ˆt+1 + ϕ2 K ˆ t+1 + ϕ3 (rt+1 − r∗ ) = 1 + ϕ1 Y (C.4)
+
+26 Download free eBooks at bookboon.com
+
+The Stochastic Growth Model
+
+Appendix C
+
+where ⎛ ϕ1 = ⎝ ⎛ ϕ2 = ⎝ ⎛ ϕ3 = ⎝ ∂
+Yt+1 1 1+rt+1 α Kt+1
+
++
+
+1−δ 1+rt+1
+
+⎞∗ ⎠ ⎞∗ ⎠ ⎞∗ ⎠
+
+∂ ln Yt+1 ∂
+Yt+1 1 1+rt+1 α Kt+1
+
++
+
+1−δ 1+rt+1
+
+∂ ln Kt+1 ∂
+Yt+1 1 1+rt+1 α Kt+1
+
++
+
+1−δ 1+rt+1
+
+∂rt+1
+
+ϕ1 , ϕ2 and ϕ3 can be worked out as follows: ⎛ ϕ1 = ⎝ ∂
+Yt+1 1 1+rt+1 α Kt+1
+
++
+
+1−δ 1+rt+1
+
+∂Yt+1
+∗
+
+⎞∗ ∂Yt+1 ⎠ ∂ ln Yt+1
+
+= =
+
+ϕ2
+
+=
+
+1 1 α Yt+1 1 + rt+1 Kt+1 r∗ + δ ∗ ∗ ...using the fact that αYt∗ +1 = (r + δ )Kt+1 1 + r∗ ⎛ ⎞∗ Yt+1 1 1−δ ∂ 1+r α + Kt+1 1+rt+1 ∂Kt+1 ⎠ t+1 ⎝ ∂Kt+1 ∂ ln Kt+1 1 Yt+1 α 2 Kt+1 1 + rt+1 Kt+1 ∗ r +δ ∗ ∗ − ...using the fact that αYt∗ +1 = (r + δ )Kt+1 1 + r∗ − Yt+1 1 α +1−δ 2 (1 + rt+1 ) Kt+1 1 − 1 + r∗ −
+∗ ∗
+
+= = ϕ3
+
+= =
+
+(C.5)
+
+Substituting in equation (C.4) gives then: Zt+1 = 1+ r∗ + δ ˆ r∗ + δ ˆ rt+1 − r∗ − − Y K t+1 t+1 1 + r∗ 1 + r∗ 1 + r∗
+
+Substituting in equation (C.2) and rearranging, gives then equation (21): Et rt+1 − r∗ 1 + r∗ = r∗ + δ ˆt+1 ) − Et (K ˆ t+1 ) Et (Y 1 + r∗
+
+27 Download free eBooks at bookboon.com
+
+The Stochastic Growth Model
+
+Appendix C
+
+C5. The linearized Euler equation of the representative household
+The Euler equation of the representative household is given by equation (10), which is equivalent to: 1 = Et [Zt+1 ] with Zt+1 = (C.6)
+1+rt+1 Ct 1+ρ Ct+1
+
+(C.7)
+
+Now take a ﬁrst-order Taylor-approximation of the right-hand-side of equation (C.7) ∗ ∗ ∗ around ln Ct+1 = ln Ct +1 , ln Ct = ln Ct and rt+1 = r : Zt+1 where ϕ1 = =
+∗ ∗ ∗ 1 + ϕ1 (ln Ct+1 − ln Ct +1 ) + ϕ2 (ln Ct − ln Ct ) + ϕ3 (rt+1 − r ) ˆt+1 + ϕ2 C ˆt + ϕ3 (rt+1 − r∗ ) 1 + ϕ1 C
+
+(C.8)
+
+⎛ = ⎝ ⎛ ϕ2 = ⎝ ⎛ ϕ3 = ⎝
+
+∂
+
+1+rt+1 Ct 1+ρ Ct+1
+
+⎞∗ ⎠ ⎞∗ ⎠ ⎞∗ ⎠
+
+∂ ln Ct+1 ∂
+1+rt+1 Ct 1+ρ Ct+1
+
+∂ ln Ct ∂
+1+rt+1 Ct 1+ρ Ct+1
+
+∂rt+1
+
+ϕ1 , ϕ2 and ϕ3 can be worked out as follows: ⎛ rt+1 Ct ∂ 1+ 1+ρ Ct+1 ϕ1 = ⎝ ∂Ct+1 = − = −1 ⎛ ϕ2 = ⎝ ∂
+
+⎞∗ ∂Ct+1 ⎠ ∂ ln Ct+1
+∗
+
+1 + rt+1 Ct 2 Ct+1 1 + ρ Ct +1
+
+1+rt+1 Ct 1+ρ Ct+1
+
+⎞∗ ∂Ct ⎠ ∂ ln Ct
+∗
+
+∂Ct
+
+= = 1 ϕ3
+
+1 + rt+1 1 Ct 1 + ρ Ct+1
+∗
+
+= =
+
+Ct 1 1 + ρ Ct+1
+1+rt+1 Ct 1+ρ Ct+1
+
+∗
+
+1 + rt+1
+
+28 Download free eBooks at bookboon.com
+
+The Stochastic Growth Model
+
+Appendix C
+
+=
+
+1 1 + r∗
+
+Substituting in equation (C.8) gives then: Zt+1 = ˆt+1 + C ˆt + 1−C rt+1 − r∗ 1 + r∗
+
+Substituting in equation (C.6) and rearranging, gives then equation (22): ˆt C =
+∗ ˆt+1 − Et rt+1 − r Et C 1 + r∗
+
+.
+
+29 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+The Stochastic Growth Model
+
+Appendix C
+
+C6. The linearized equillibrium condition in the goods market
+The equilibrium condition in the goods market is given by equation (11): Yt = Ct + It + Gt
+
+Taking logarithms of both sides of this equation, and subtracting from both sides their values on the balanced growth path, yields: ln Yt − ln Yt∗ = ln (Ct + It + Gt ) − ln Yt∗
+
+∗ Now take a ﬁrst-order Taylor-approximation of the right-hand-side around ln Ct = ln Ct , ∗ ∗ ln It = ln It and ln Gt = ln Gt :
+
+ln Yt − ln Yt∗ ˆt Y where
+
+= =
+
+∗ ∗ ϕ1 (ln Ct − ln Ct ) + ϕ2 (ln It − ln It ) + ϕ3 (ln Gt − ln G∗ t) ˆ ˆ ˆ ϕ1 Ct + ϕ2 It + ϕ3 Gt (C.9)
+
+ϕ1 ϕ2 ϕ3
+
+= = =
+
+∂ ln {Ct + It + Gt } ∂ ln Ct ∂ ln {Ct + It + Gt } ∂ ln It ∂ ln {Ct + It + Gt } ∂ ln Gt
+
+∗
+
+∗
+
+∗
+
+ϕ1 , ϕ2 and ϕ3 can be worked out as follows: ϕ1 = = = ∂ ln {Ct + It + Gt } ∂Ct ∂Ct ∂ ln Ct 1 Ct Ct + It + Gt
+∗ ∗
+
+∗ Ct Yt∗
+
+30 Download free eBooks at bookboon.com
+
+The Stochastic Growth Model
+
+Appendix C
+
+ϕ2
+
+= = =
+
+∂ ln {Ct + It + Gt } ∂It ∂It ∂ ln It 1 It Ct + It + Gt
+∗
+
+∗
+
+∗ It Yt∗
+
+ϕ3
+
+= = =
+
+∂ ln {Ct + It + Gt } ∂Gt ∂Gt ∂ ln Gt 1 Gt Ct + It + Gt G∗ t Yt∗
+∗
+
+∗
+
+Substituting in equation (C.9) gives then the linearized equilibrium condition in the goods market: ˆt Y =
+∗ ∗ ∗ Ct ˆt + It I ˆt + Gt G ˆt C Yt∗ Yt∗ Yt∗
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+31 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+The Stochastic Growth Model
+
+References
+
+References
+Baxter, Marianne, and Robert G. King (1993), ”Fiscal Policy in General Equilibrium”, American Economic Review 83 (June), 315-334. Campbell, John Y. (1994), ”Inspecting the Mechanism: An Analytical Approach to the Stochastic Growth Model”, Journal of Monetary Economics 33 (June), 463-506. Goodfriend, Marvin and Robert G. King (1997), ”The New Neoclassical Synthesis and the Role of Monetary Policy”, in Bernanke, Ben S., and Julio J. Rotemberg, eds., NBER Macroeconomics Annual 1997, The MIT Press, pp. 231-83. Greenwood, Jeremy, and Gregory W. Huﬀman (1991), ”Tax Analysis in a Real-BusinessCycle Model: On Measuring Harberger Triangles and Okun Gaps”, Journal of Monetary Economics 27 (April), 167-190. Kydland, Finn E., and Edward C. Prescott (1982), ”Time to Build and Aggregate Fluctuations”, Econometrica 50 (Nov.), 1345-1370. Vermeylen, Koen (2006), ”Heterogeneous Agents and Uninsurable Idiosyncratic Employment Shocks in a Linearized Dynamic General Equilibrium Model”, Journal of Money, Credit, and Banking 38, 3 (April), 837-846.
+
+32 Download free eBooks at bookboon.com
+

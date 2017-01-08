@@ -1,0 +1,287 @@
+.Length	/	3	)
+
+Customer	Relationship Management	(CRM)
+Christopher	Zerres;	Roger	Baran;	Michael	Zerres
+
+Download	free	books	at
+
+Rogen Baran, Christopher Zerres & Michael Zerres
+
+Customer Relationship Management
+
+2
+Download free eBooks at bookboon.com
+
+Customer Relationship Management
+Roger Baran, DePaul University, Chicago Christopher Zerres, Universität Kassel Michael Zerres, Universität Hamburg
+
+1st edition © 2014 Rogen Baran, Christopher Zerres & Michael Zerres & bookboon.com ISBN 978-87-7681-296-6
+
+3
+Download free eBooks at bookboon.com
+
+Customer Relationship Management
+
+Contents
+
+Contents
+1	 History and theory 	 5 8 14 19
+
+2	 Field concerns and data collection	 3	 Issues regarding communication and CRM	 4	 Future of CRM	
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Customer Relationship Management
+
+History and theory
+
+1	 History and theory
+Customer Relationship Management (CRM) is growing in importance due to the challenging business environment faced by organizations throughout the world today. It is particularly critical in industries undergoing changes in traditional channel configuration. CRM is a means of addressing increasing competition, changing economic conditions and promotional dependence through the use of intimate customer knowledge; knowledge gained through relationship development and past marketing programs. CRM is increasing in prominence because it focuses on current users who are the source of the majority of business revenue and the best option for improving business in uncertain times. There are a number of working definitions for CRM. In fact the letters CRM have been used to identify Continuous Relationship Marketing, Customer Relationship Marketing and Customer Relationship Management. Each term represents the same process. CRM can be defined as a process that maximizes customer value through on-going marketing activity founded on intimate customer knowledge established through collection, management and leverage of customer information and contact history. CRM is about perfecting relationships to maximize a customer’s value over time. CRM is part of an evolution in corporate thinking that began with the Enterprise Resource Planning (ERP) initiative of the 1990s. ERP forces all resources within a corporation to work within one business system. In the 1990s, over $300 billion was spent on centralizing, standardizing and organizing information and resources throughout U.S. corporations. The results, however, have been mixed in terms of payout. What is indisputable is that the information system processing skills acquired in implementing ERP programs enabled many organizations to support CRM and E-commerce programming; initiatives not in existence when ERP began. CRM was developed, in large part, as a result of data mining, or segmentation and targeting research, made possible from the centralization of customer records. Organizations began to realize that they could better serve customers since they better understood customers. CRM has benefited from advances in data management and middleware new software that allows disparate data resources to work as a single integrated database. CRM has also been supported by a new generation of promotional tools; for example, selective binding, variable valuation and new probabilistic targeting tools such as Spectra. In the U.S., CRM is now practiced by approximately 45% of the companies in retailing, aircraft and utilities; 50–55% of the companies in financial services, pharmaceuticals and transportation; and 70% of the companies in telecommunications and credit.
+
+5
+Download free eBooks at bookboon.com
+
+Customer Relationship Management
+
+History and theory
+
+The development and popularity of electronic marketing as a tool has produced a rich source of consumer data for access by organizations in many industries. Focusing on the retail grocery industry in the U.S., Frequent Shopper Programs (FSP’s), are used by grocery retailers who comprise over 60% of the All Commodity Volume. They have produced consumer files that will be the key to more profitable grocery promotion for them in the future. Companies like Safeway, Kroger and American stores are heavily invested in these programs. Frequent shopper programs in the grocery industry developed as loyalty program extensions. These programs are consumer card-based programs that track purchases based on the use of scanners and reward customers with discounts based on brands purchased. These programs were developed to provide customers with an additional reason to increase their share of purchase in a particular chain of stores. The concept of customer lifetime value, the money value of a customer relationship over time, has evolved to enable savvy direct marketers the opportunity to differentiate the profit potential for each of the various market segments that they serve. Loyalty marketing has always focused on the fact that retaining and improving business with current consumers costs less than acquiring new customers. Customer retention, as a strategy, is founded on the ability to segment and differentially target current users to improve the value of the relationship for both seller and buyer. Lifetime value is calculated by identifying the revenue stream over a period in time, applying a retention rate for each year, subtracting total cost and then applying a discount rate to gross profit in order to determine the net present value of a customer. The calculation is completed for a number of years using different retention rates. Midas Mufflers uses customer lifetime value as the backbone for their direct marketing efforts. Midas tracks cars based on vehicle mileage and contacts customers to remind them of service and brake opportunities over the life of their vehicle. There is a difference between Frequent Shopper Programs and Loyalty Focused Programs. For example, in the U.S. grocery industry today, the focus for supermarkets is on promotion rather than on the development of comprehensive loyalty programs. Customers participate in these programs in large part to ensure they earn the lowest possible discount, not because of any loyalty to a retailer. Less than half of all managers believe that their CRM programs are attaining corporate objectives despite the advances made in data technology, ERP, new software linking databases, e-commerce and customer loyalty programming. The problems with CRM to date have been the following: lack of overall project responsibility, poorly written objectives, and inferior technical performance. Many feel that the results for CRM to-date have been disappointing. However, we are early in the effort. Required for improvement are the establishment of clearly stated objectives, the establishment of organizational authority and improvements in the use of information technology. These will be discussed in following sections.
+
+6
+Download free eBooks at bookboon.com
+
+Customer Relationship Management
+
+History and theory
+
+Segmentation is the process of placing individuals or organizations who have similar needs into groups. Target segments are selected based on an organization’s ability to satisfy respective segments’ needs. Organizations match benefits with the respective needs of sub-segments by developing positioning strategies for each sub segment. CRM professes that markets are “segments-of-one”. However, it is not feasible to create a specific segmentation and subsequent positioning strategy for each individual. So, the question arises as to how one can successfully manage “segments-of-one”? The following is an example of how traditional segmentation and the techniques required for “segments-of-one” can be integrated in a CRM effort. A major Gaming Corporation began implementing a CRM strategy across four of their hotel and casino properties. Traditional segmentation techniques were initially used to define their customer and prospect market. The most promising segment was based on a psychographic variable “risk”. This segment consisted of small business owners. Other segments were based upon geographic location (in-state versus out-ofstate), frequency of visits and length of visits. Sub-segments consisted of those individuals who gambled at the slot machines and those who gambled at tables. While a person could play both slots and tables, there was a propensity for one or the other. Within these segments a person could either gamble at the casino and stay in that casino’s hotel, gamble at the casino and stay at another hotel or stay at the hotel but gamble at another casino. There was also the segment of potential gamblers who stayed at the hotel but were not gambling. The next step for the Gaming Corporation was to focus on each individual. Over 100 demographic, psychographics, lifestyle and behavioral variables were captured and maintained on each individual. These variables served as CRM enablers. An individual’s Lifetime Value (LTV) was calculated. LTV was combined with an individual’s theoretical wins and losses in a real time environment (as the person was gambling) to determine an appropriate CRM strategy. Data on an individual’s gambling was captured from slot machines via a card the customer swiped through the machine. Casino personnel captured table play activity. The key was that they knew the individual and could monitor that person’s theoretical wins and losses. They were trained to monitor ten individuals concurrently and enter that information into a networked computer every hour. If a person was losing a considerable amount in a session, the CRM system would recommend a monetary value for a specific CRM initiative. The respective variables would be used in support of compensation to the individual. For example, if a person is staying at the property and preferred a certain restaurant or type of entertainment, reservations could be made for dining and a show – with the house paying the tab. CRM efforts are also possible even if an individual is staying with another hotel – perhaps a gift of one’s favorite perfume fragrance or a new dress – clothing size having been captured through the CRM effort. Or for gamblers identified as golf enthusiasts and slot players, a solicitation could be sent asking the individual to attend a combination golf and slot tournament for a three-day stay.
+
+7
+Download free eBooks at bookboon.com
+
+Customer Relationship Management
+
+Field concerns and data collection
+
+2	 Field concerns and data collection
+Customer Data Integration (CDI) enables an organization to accrue knowledge about the customer, a necessary antecedent for an effective CRM strategy. CDI allows for the creation of a consolidated view of the customer from multiple customer data stores. All customer touch points are linked, and CDI continuously accesses and upgrades customer information. While most organizations believe that a single, integrated view of the customer is critical, only a few currently have this. The word “customer,” used throughout this discussion, applies to prospective customers (i.e. prospects) as well as inactive former customers. There are a number of challenges facing organizations as they attempt to create the single customer view so critical to CRM. It is necessary to consolidate and resolve the problems resulting from: •	 Disparate databases, •	 multiple touch points, •	 departmental disparity, •	 dissimilar applications, and •	 inconsistent customer data.
+
+8
+Download free eBooks at bookboon.com
+
+Customer Relationship Management
+
+Field concerns and data collection
+
+Figure 1 is an organization/consumer marketing information flow diagram. At the bottom, a consumer can call the organization, can access the organization’s web pages or communicate via traditional channels such as the mail, point of sale (POS) transactions, surveys, returns, warranty and any other batch communication.
+
+Datamart Sources
+Survey Statistics
+2001 2000 1999 Jan Feb Mar
+
+Responses
+
+D a t a P r e p e r a t I o n
+
+Data Mining & Reporting
+
+POS Transactions
+Return Address Customer Address Address 22222
+
+Operational Data Store
+
+Rule-based Processing
+
+Data Warehouse
+
+Campaign Mgmt
+
+Accounting/Financial Reporting
+
+Mail Coupons/ redemptions
+
+Web
+
+Dataprep
+TM
+
+Other
+
+Legal
+
+Other Disciplines Communication to Consumer
+
+Figure 1: Data Flow Environment
+
+•	 The Operational Data Store (ODS) icon represents a database that is designed to allow for quick read/write access and contains that information required to process a typical customer request either via the Web or inbound telemarketing. •	 The data warehouse (DW) icon represents a database that contains all relevant customer (primary and secondary data) information including history, product information, and product return activity, marketing promotion and campaign data. •	 On the right side there are a few sample Data Marts shown. A Data Mart (DM) is a smaller database and is a subset of the DW. It could be as small and simple as an Excel Spreadsheet. It is generated from data gleaned from a specific function. Marketing may be running a campaign targeting inactive male customers for a specific promotion. They would download all relevant data into a DM, which is accessed from software conducive to their activity, such as Campaign Management Software. On the other hand, Legal may want to monitor or analyze all customers who purchased a particular line of products as they research liability issues. Therefore, the organization on the right side of the diagram uses information to analyze and communicate with the customer.
+
+9
+Download free eBooks at bookboon.com
+
+Customer Relationship Management
+
+Field concerns and data collection
+
+The customer responds via multiple channels. All responses allow for data capture and must be processed and loaded back into the DW. The cycle continues. CDI is the process of managing the customer response or activity related to all possible touch points. Specific CDI steps are as follows: •	 Identify touch points, •	 Set up data collection business rules, •	 Define input process logistics & data conversion rules, •	 Perform Address Standardization, •	 Perform Address Correction, •	 Perform Postal processing (NCOA in U.S. for change of address), •	 De-duplication (Loose/tight), data enhancement, data suppression, data consolidation, •	 Update process logistics regarding ODS or DW. Address and Postal processing is country dependent. The process ensures an address (regular mail or e-mail) is deliverable and is the most up-to-date. Data collection business rules determine what information should be captured and what to do when duplicate types of information come in from different sources (See figure 2).
+
+10
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Customer Relationship Management
+
+Field concerns and data collection
+
+Data Element Children Income Homeowner Occupation Age
+
+Source A Yes $35–50K N/A N/A 28–29
+
+Source B 1 @ 6–12 1 @ under 6 $35–50K No Blue Collar 27
+
+Source C Yes N/A Yes Blue Collar N/A
+
+Source D N/A N/A N/A N/A 28–29
+
+Result 1 @ 6–12 1 @ under 6 $35–50K Yes Blue Collar 28–29
+
+Figure 2: Consumer Data Construction
+
+Rules can be set in a variety of ways and are dependent on the respective business situation. A source may be listed as a priority source and no matter what the results for other sources it would be used as a result. This could be an example of a trusted primary data capture source. A consensus, or majority rules may also be used when there is not a trusted source. De-duplication is a critical step. This is where we tie individuals and households together. A business may be looking at building a relationship with the entire household or trying to understand the household life-time-value. Or one may be looking at the individual separate from the household. Each individual would be assigned a unique identifier. Each household would also have a unique identifier. Therefore, a person would have two identifiers their own individual identifier, as well as their household’s. There is software available on the market that supports this effort and companies that provide this as a service. DE-duplication is critical to understanding who the customer is, which supports the CRM effort. Once identified, secondary data can be applied to the primary data for an enhanced customer profile. This enhances the CRM effort as an organization expands the customer profile. One must also suppress, usually for privacy or regulatory reasons, certain information from use in any future marketing activity. One may still maintain the data for analytical purposes but may not be able to use it for the basis of any communication. Data consolidation is the process of aggregating data in support the DW update process. The sales function has been in a rapid state of change since ERP made obvious the need for coordinating all information resources of a corporation. During the last years, sales automation was seen as a means to improving business. Many sales forces adopted new management tools to gather information and direct the sales effort in a more prescribed manner. A number of industries took the lead in these efforts: financial services, consumer credit, computer software, grocery and the automotive industries. The new automation tools they employed ranged from complete software suites provided by Siebel Systems, E.piphany and SAP, to tools provided by niche providers like Oracle that built a reputation in sales configuration software. Other key niche participants are Pivotal and Onyx, producers of Direct Sales and Partner Relationship programming. While these new sales tools improve operational efficiency, the cost is high. In addition, they did not address the dynamics of how the sales function should best address changing customer needs.
+
+11
+Download free eBooks at bookboon.com
+
+Customer Relationship Management
+
+Field concerns and data collection
+
+Sales Automation is the deployment of a variety of technological tools that enable companies to better organize, manage and compensate the sales force, as well as forecast sales, based on more timely and accurate information. Applications being used in industry today link the sales function directly to rest of the enterprise. This results in greater availability of data pertaining to customer relationships, purchasing habits, purchasing organizations and buying patterns. Base system configurations; e.g., Siebel’s, allow clients the luxury of improved inventory visibility, better sales history, more accurate control of expenses, portability of information and the ability to access customer information on an almost real-time basis. The new software suites provide for better sales coverage, more productive sales calls and enterprisewide involvement in sales, resulting in a more highly motivated sales force. Mobile applications for sales automation range from paging and wireless messaging to data replication at customers’ locations. Software packages afford sales managers the ability to conduct e-briefings, define quotas and goals, track performance and provide customer credit information in expeditious fashion. Nearly all agree that the new sales automation tools have made the sales function more responsive. At issue is whether the sales function, even with these new tools, adds value to the distribution of products today? CRM and customer-centric thinking has created the need for a change in the role played by the sales function. The customer focus that organizations have adopted has created major changes in the evaluation of what value the sales force provides today. The purpose of a sales force is to add value to the distribution of products. Today, value is defined by customers and not by organizations. The traditional role of sales has been to communicate the value of company’s products; but for the sales force to be the sole communication link in business today is no longer practical or advisable. The challenge for all business functions is to create value. How then can sales deliver on that objective in today’s business environment? The sales function must exist to solve customers’ problems at everreduced costs. In order for the sales force to become problem solvers, however, requires that customers and prospects “buy into” their revised role. Customers have three basic needs that should be satisfied by any organization’s sales force: (1) They require product, promotional and price information. (2) They require help in the use of the product and (3) They require a partnership with the selling company to create a product. The needs can be typified as transactional, consultative or partnership requirements.
+
+12
+Download free eBooks at bookboon.com
+
+Customer Relationship Management
+
+Field concerns and data collection
+
+In the first instance, where only information is required, sales can create very little value that other communication tools couldn’t provide at a lower cost. The web, catalogue or advertising would be more efficient in providing this customer support. The second need is perfectly suited to CRM and requires that the sales representative provide customized solutions regarding the use of company products. The partnership need requires the sales force to become the customer’s advocate within their own company. This last need is, once again, perfect for CRM, as it requires intimate knowledge, cooperation and team building to ensure company success. While it would be easy to say that these various requirements are industry specific, they are not. In fact, customer types vary within industries. While sales automation may provide a competitive advantage for businesses today, it will be a requirement in the near future. Organizations that aren’t ready to change will not be able to compete in the more competitive world of CRM.
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+13
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Customer Relationship Management
+
+Issues regarding communication and CRM
+
+3	 Issues regarding communication and CRM
+An emerging social issue that has potentially devastating consequences for CRM is that of consumer privacy. The success of CRM is directly associated with an organization’s ability to capture consumer information and use that information to satisfy consumer needs. As organizations increase the capture and leverage of consumer data in their marketing efforts, consumers’ concerns of privacy invasion have precipitated regulatory pressure. There are several laws in place which control how and where certain consumer data can be used in the financial services and health care industries. Information on children and marketing efforts directed toward children, have been regulated in the U.S. for some time. For example, children “age” data may be kept only in the form of age ranges, such as 0–2 years, 2–4 years up to the age of 13. In response to potential regulation, proactive organizations have attempted to police their respective industries. Formal privacy advocates have been appointed within some organizations including the creation of an executive Chief Privacy Officer. Such appointments help ensure that privacy concerns are communicated throughout the organization, that an appropriate organizational privacy-sensitive culture is in place and that the organization is adhering to their privacy policies as well as those of their respective industry. “Privacy” conferences are beginning to grow in popularity as organizations struggle to keep up with current legislation and industry “best practices”. Some Privacy Groups and Seals of good practice in the U.S. are: •	 TRUSTe •	 BBBOnLine (Better Business Bureau Online) •	 CAUCE (Coalition Against Unsolicited Email) •	 Bright Mail (Bright Light Technologies) •	 DMA (Direct Marketing Association) •	 AIM (Association of Interactive Media) •	 IAB (Internet Advertising Bureau) •	 CADM (Chicago Association for Direct Marketing
+
+14
+Download free eBooks at bookboon.com
+
+Customer Relationship Management
+
+Issues regarding communication and CRM
+
+Methods such as Permission Marketing, Opt-in and Opt-out procedures and ethical business practice enable an organization to adhere to legal and generally accepted privacy practice policies. Organizations are starting to ask the consumer’s permission to open a communication pathway. This path is a means by which the organization attempts to understand and fulfill consumers’ needs. Organizations are finding this to be a competitive advantage, as consumers have less time for messages. An organization’s willingness to ask for permission to send messages is an indication of interest. When an individual decides to grant permission to an organization, they are “opting-in”. This means they may be willing to let the organization market to them, use their data to learn more about them in order to create more attractive marketing offers, or actually sell their data to someone else for similar efforts. If they decide that they do not want to participate in any combination of the above, they will “opt-out” of the respective option. Opt-in or opt-out options can generate many permutations with respect to what can or cannot be done based upon the individual’s decision. Managing these options is difficult and is further exacerbated when there are multiple touch points within an organization. The challenge increases when, other members of the value-chain such as an agency, for example, are involved in the marketing effort. Let’s focus on a person who chooses to “opt-out” of a request from a certain area of an organization, or a value chain member. If there is another marketing attempt being made to that same person from another area of the same organization or a different value chain member who is not aware of the “opt-out” but is using the same data, they have violated what the consumer saw as an agreement with the organization. Similar problems occur when a person decides to “opt-out” via the Web. If the organization’s outbound telemarketing person is not aware of the “opt-out” and calls that individual, they have negated the “optout” and are in breach of the agreement. Another concern involves just what “opting-in” really means. When a person “opts-in”, did they really choose to “opt-in” or did they not understand the basis of their agreement? By using a “double opt-in” method, the organization comes back to the individual to verify that they want to, in fact, “opt-in”. If the consumer responds with a “yes” a second time, the organization has reduced their risk of any misunderstanding. Organizations will sometimes resist using this type of method at times, as they feel they are making the individual too aware of what is happening and that they may change their mind. Another problem can occur when a person “opts-in”, time passes on and they then elect to “opt-out”. The organization must then suppress all future efforts made and in some cases may be asked to delete all data captured to date. The latter is sometimes referred to as a “double-opt-out” and is very difficult to process.
+
+15
+Download free eBooks at bookboon.com
+
+Customer Relationship Management
+
+Issues regarding communication and CRM
+
+Management of “opt-in” and “opt-out” procedures are further complicated by timing. When a person chooses an option, all other potential activity from an organization or value-chain member must be coordinated with the decision before the next effort. Failure to know violates the agreement, lowers the level of trust and may lead to a liable position. The latter possibility has started to spur some consumer activity. Some individuals have taken advantage of an organization’s inability to coordinate multiple touchpoints, have opted-out in one area and done every thing possible to subtly coerce the organization in another area to solicit them for an offering. They then raise the privacy issue, along with evidence of their “opt-out,” and sue. Several individuals have won lawsuits through this effort. While keeping the previous cautions in mind, an organization must not be timid in their approach to CRM. They should ensure that they have integrated all consumer touch points to capture and report activity in a timely fashion: •	 Their database strategy must archive relevant information and be secure, •	 They must keep abreast of privacy regulation for all relevant markets, and •	 They must ensure executive ownership of privacy.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+16
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Customer Relationship Management
+
+Issues regarding communication and CRM
+
+The purpose of CRM is to better direct company communication to customers in the B2B and B2C channels. CRM has also been referred to as continuous relationship marketing or the ability to improve relationships through continuous refinement of customer and consumer contact. This marketing approach to customers is not new. direct marketing , and direct mail in particular, have long practiced the continuous refinement of product offerings to customers. Direct marketing has always relied on segmentation, targeting, differentiated marketing and careful evaluation. What is new with respect to CRM is the scope of customer contact, the information available and the depth of customer knowledge utilized. New printing technology makes possible more appropriate products; e.g., PARENT magazine selectively binds magazines based on the ages of children in the home. Fingerhut develops catalogs based on past purchases. Data mining allows Nordstrom to have their representatives’ call when appropriative clothing lines arrive. Customers today are being cultivated to produce more profit and volume; however, there are risks associated with this level of communication. Within the CRM approach, as much as 74% of enterprise-customer interactions are phone calls, while16% are e-mail messages. A sophisticated database is required to support this constant interaction with customers. Further, systems must be in place to constantly enrich the database on a real-time basis. In fact, consistent customization of communication is the key to successful CRM. Inconsistency causes customer frustration, longer calls, higher customer service cost, customer service representative frustration and a loss of cross selling opportunities. The net result of poor communication is customer dissatisfaction and a loss of brand equity. When we consider that 20% of customers comprise 80% of an organization’s total volume, this becomes all the more critical. What constitutes effective CRM communication? Effective communication is founded on the ability to engage customers in a dialog that results in greater satisfaction with the brand. Campaign management is the process of developing, delivering and then measuring results of marketing efforts within a CRM environment. Campaign management is focused on the successful achievement of customer satisfaction, sales, profit and marketing cycle time objectives. Marketing cycle times refer to the time it takes to field and evaluate a CRM program. Formal customer communication programs typically contain variably valued and targeted customer offers. Objectives for such programs include: •	 Customer retention, •	 Increase in purchase quantity, and •	 Increased buying rate.
+
+17
+Download free eBooks at bookboon.com
+
+Customer Relationship Management
+
+Issues regarding communication and CRM
+
+The keys to successful CRM communication are to: •	 Develop communication with customers in mind, •	 Develop simple not complex communications, and •	 Make data collection transparent to users. •	 Provide the customer with value in addition to the offer carried within the communication. CRM communication can enhance brand value through providing customers with information they require, provide offers that add value to purchasing the brand and transparently facilitate the acquisition of information to improve future CRM efforts.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+18
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Customer Relationship Management
+
+Future of CRM
+
+4	 Future of CRM
+The future of Customer Relationship Marketing is uncertain. Reported results have been disappointing with respect to campaign management, call center management and marketing analytics. According to a recent McKinsey Study, only 35% of the managers responsible for those operations were satisfied with attainment of objectives. In fact, while most IT based initiatives don’t garner CEO visibility, CRM initiative must begin at the top levels of a corporation to be successful. CRM initiatives are extremely expensive, time consuming and require an organizational commitment to be successful. A typical CRM initiative within a major corporation can cost well over $80 million and take 3 years to complete. The size of investment alone warrants senior management involvement; but it is the revenue opportunity for CRM programming that truly requires senior management direction. The shortcomings in implementing CRM programs have become abundantly clear. Targeted revenue goals, for example, are not often achieved. Most initiatives expect at least a 10% improvement in revenue, but corporations in the U.S. are experiencing half that result. In addition, budgeted costs are generally exceeded and timetables are not met. Budget overruns can exceed estimated amounts by 300%. Failure to achieve revenue forecasts, budget overruns and poor performance of CRM can lead employees to stop using the system, further eroding performance. This was the case at a leading computer wholesaler and retailer where telephone sales representatives, upset with system performance, stopped entering data. Some companies have abandoned CRM initiatives as a result of such problems. Will CRM survive? The answer will be found in an organization’s ability to stay the course and remain committed to the objectives of their programs. What is required is dedication to CRM principles by senior management and technical support personnel. Success will be gained by a team approach across disciplines. Cross-functional resources are necessary because the CRM effort requires technical skill to identify problems and the authority to resolve them. The start of any CRM turnaround entails the revision and refinement of objectives. Goals must be reevaluated, clearly articulated and clearly prioritized to ensure that resources will be properly allocated to meet the most important goals of a company. For example, how should an organization prioritize the following goals? •	 increase customer base, •	 increase revenue from existing customers, •	 convert competitive customers, •	 decrease turnover of profitable customers?
+
+19
+Download free eBooks at bookboon.com
+
+Customer Relationship Management
+
+Future of CRM
+
+These goals all have varying rates of return. Each must be considered in terms of ROI. Only after determining which objectives provide maximum return can strategy provide a clear vision as to how business improvement is to be accomplished. An organization’s strategy will determine the requirements of the system and which tactical activities should be employed to achieve intended results. In fact, only after the strategic possibilities are addressed and tactics determined can organizational requirements for the initiative be addressed. The involvement and commitment of the entire organization is critical for a CRM strategy to work given the large number of consumer touch points that cut across many departments. It is important to know who will do the work and what work will be required. One example is sufficient to illustrate the point. Consider a customer service representative who has no incentives for entering data which will benefit manufacturing. Without understanding the importance of the information or the reason for its use, valuable information may be lost.
+
+20
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Customer Relationship Management
+
+Future of CRM
+
+The technological basis for CRM programming is most often an integrated suite from suppliers like Oracle, PeopleSoft, SAP, Siebel Systems or IBM. These suites are meant to be all encompassing solutions that are mutually exclusive. One system will satisfy the needs of the entire company. While these powerful solutions can work effectively, they may be too far reaching for the needs of a company and provide features that may not be employed until much later in a CRM initiative. It is important to evaluate products based on need and stage in a company’s relationship marketing efforts to ensure that the proper product is purchased. What are the key lessons that practitioners have learned regarding CRM to date? •	 Use your current customer database more effectively. One industry where this is particularly important is auto insurance. Companies like GEICO and Progressive Insurance are experts at using segmentation to direct policy offerings. CRM efforts allow GEICO to direct offerings to low risk motorists, while Progressive segments and effectively targets products to the high-risk motorist segment. •	 Identify the value of market segments. Most industries have key factors that represent customer leverage points. In the credit card industry, for example, those factors would be monthly margin of a customer, longevity of a customer and customer acquisition costs. Capital One has learned that encouraging existing customers to increase their charge volume produces higher returns than attracting new customers. Consequently, the real focus for the industry is customer lifetime value or the profitability of purchases over time. •	 Build customer relationships. Too often we focus our attention on the size of customer databases. Consider the database for frequent shoppers for the Safeway grocery chain. It exceeds 28 million households in size. Nonetheless, Safeway’s promotional efforts tend to be transaction focused and not relationship oriented. •	 Segmentation is a means to discriminate. If you have the information to differentiate offers, do it! Consider United Airlines Mileage Plus Program. They have the flight history of each passenger at their disposal and therefore offer incentives to their best customers accordingly. They differentiate based on miles flown and revenue earned per customer. We believe the future for CRM is bright. To achieve success we must focus the resources of a corporation specifically on the task at hand. Senior management and users of the system must work together establishing objectives, strategies and tactics that will be understood and agreed to by all within the company. Technology must be selected for a particular environment with consideration for the appropriate scope of the initiative. CRM must be exercised with good business judgment and within the personality of an industry. Success in CRM can and will be attained through leadership, teamwork, initiative and an appreciation for the complexity of the undertaking.
+
+21
+Download free eBooks at bookboon.com
+

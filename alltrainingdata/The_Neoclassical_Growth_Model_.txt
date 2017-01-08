@@ -1,0 +1,837 @@
+The	Neoclassical	Growth	Model
+and	Ricardian	Equivalence Koen	Vermeylen
+
+Download	free	books	at
+
+Neoclassical Growth Model and Ricardian Equivalence
+
+Contents
+
+Contents
+1. 2. 3. 4. 5. Introduction The neoclassical growth model The steady state Ricardian equivalence Conclusions 3 4 9 11 12 13 13 15 15 16 18 18 19 21
+
+Appendix A A1. The maximization problem of the representative ﬁrm A2. The equilibrium value of the representative ﬁrm A3. The goverment’s intertemporal budget constraint A4. The representative household’s intertemporal budget constraint A5. The maximization problem of the representative household A6. The consumption level of the representative household Appendix B References
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+2 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Neoclassical Growth Model and Ricardian Equivalence
+
+Introduction
+
+1. Introduction
+This note presents the neoclassical growth model in discrete time. The model is based on microfoundations, which means that the objectives of the economic agents are formulated explicitly, and that their behavior is derived by assuming that they always try to achieve their objectives as well as they can: employment and investment decisions by the ﬁrms are derived by assuming that ﬁrms maximize proﬁts; consumption and saving decisions by the households are derived by assuming that households maximize their utility.1 The model was ﬁrst developed by Frank Ramsey (Ramsey, 1928). However, while Ramsey’s model is in continuous time, the model in this article is presented in discrete time.2 Furthermore, we do not consider population growth, to keep the presentation as simple as possible. The set-up of the model is given in section 2. Section 3 derives the model’s steady state. The model is then used in section 4 to illustrate Ricardian equivalence. Ricardian equivalence is the phenomenon that - given certain assumptions - it turns out to be irrelevant whether the government ﬁnances its expenditures by issuing public debt or by raising taxes. Section 5 concludes.
+
+3 Download free eBooks at bookboon.com
+
+Neoclassical Growth Model and Ricardian Equivalence
+
+The neoclassical growth model
+
+2. The neoclassical growth model
+The representative ﬁrm Assume that the production side of the economy is represented by a representative ﬁrm, which produces output according to a Cobb-Douglas production function:
+α (At Lt )1−α Yt = Kt
+
+with 0 < α < 1
+
+(1)
+
+Y is aggregate output, K is the aggregate capital stock, L is aggregate labor supply, A is the technology parameter, and the subscript t denotes the time period. The technology parameter A grows at the rate of technological progress g. Labor becomes therefore ever more eﬀective.3 The aggregate capital stock depends on aggregate investment I and the depreciation rate δ: Kt+1 = (1 − δ)Kt + It with 0 ≤ δ ≤ 1 (2)
+
+The goods market always clears, such that the ﬁrm always sells its total production. Yt is therefore also equal to the ﬁrm’s real revenues in period t. The dividends which the ﬁrm pays to its shareholders in period t, Dt , are equal to the ﬁrm’s revenues in period t minus its wage expenditures wt Lt and investment It : Dt = Yt − wt Lt − It (3) where wt is the real wage in period t. The value of the ﬁrm in period t, Vt , is then equal to the present discounted value of the ﬁrm’s current and future dividends: Vt =
+∞ s =t
+
+⎛ ⎝
+
+1 ⎠ Ds 1 + rs s =t+1
+
+s
+
+⎞
+
+(4)
+
+where rs is the real rate of return in period s .
+
+4 Download free eBooks at bookboon.com
+
+Neoclassical Growth Model and Ricardian Equivalence
+
+The neoclassical growth model
+
+Taking current and future factor prices as given, the ﬁrm hires labor and invests in its capital stock to maximize its current value Vt . This leads to the following ﬁrst-order-conditions:4 Yt (1 − α) = wt (5) Lt Yt+1 = rt+1 + δ (6) α Kt+1 Or in words: the ﬁrm hires labor until the marginal product of labor is equal to the marginal cost of labor (which is the real wage w); and the ﬁrm invests in its capital stock until the marginal product of capital is equal to the marginal cost of capital (which is the real rate of return r plus the depreciation rate δ). Now substitute the ﬁrst-order conditions (5) and (6) and the law of motion (2) in the dividend expression (3), and then substitute the resulting equation in the value function (4). This yields the value of the representative ﬁrm in the beginning of period t as a function of the initial capital stock and the real rate of return:5 Vt = Kt (1 + rt ) (7)
+
+5 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Neoclassical Growth Model and Ricardian Equivalence
+
+The neoclassical growth model
+
+The government Every period s, the government has to ﬁnance its outstanding public debt Bs , the interest payments on its debt, Bs rs , and government spending Gs . The government can do this by issuing public debt or by raising taxes Ts .6 Its dynamic budget constraint is therefore given by: Bs+1 = Bs (1 + rs ) + Gs − Ts (8)
+
+where Bs+1 is the public debt issued in period s (and therefore outstanding in period s + 1). It is natural to require that the government’s public debt (or public wealth, if its debt is negative) does not explode over time and become ever larger and larger relative to the size of the economy. Under plausible assumptions, this implies that over an inﬁnitely long horizon the present discounted value of public debt must be zero:
+s→∞
+
+lim
+
+1 1 + rs s =t
+
+s
+
+Bs+1 = 0
+
+(9)
+
+This equation is called the transversality condition. Combining this transversality condition with the dynamic budget constraint (8) leads to the government’s intertemporal budget constraint:7 Bt+1 =
+∞ s=t+1
+
+⎛ ⎝
+
+1 ⎠ 1 ⎠ ⎝ Ts − Gs 1 + r 1 + r s s s=t+1 s =t+1 s =t+1
+
+s
+
+⎞
+
+∞
+
+⎛
+
+s
+
+⎞
+
+(10)
+
+Or in words: the public debt issued in period t (and thus outstanding in period t + 1) must be equal to the present discounted value of future tax revenues minus the present discounted value of future government spending. Or also: the public debt issued in period t must be equal to the present discounted value of future primary surpluses.
+
+The representative household Assume that the households in the economy can be represented by a representive household, who derives utility from her current and future consumption: Ut =
+∞ s =t
+
+1 1+ρ
+
+s −t
+
+ln Cs
+
+with ρ > 0
+
+(11)
+
+The parameter ρ is called the subjective discount rate. Every period s, the household starts oﬀ with her assets Xs and receives interest payments Xs rs . She also supplies L units of labor to the representative ﬁrm, and
+
+6 Download free eBooks at bookboon.com
+
+Neoclassical Growth Model and Ricardian Equivalence
+
+The neoclassical growth model
+
+therefore receives labor income ws L. Tax payments are lump-sum and amount to Ts . She then decides how much she consumes, and how much assets she will hold in her portfolio until period s + 1. This leads to her dynamic budget constraint: Xs+1 = Xs (1 + rs ) + ws L − Ts − Cs (12)
+
+Just as in the case of the government, it is again natural to require that the household’s ﬁnancial wealth (or debt, if her ﬁnancial wealth is negative) does not explode over time and become ever larger and larger relative to the size of the economy. Under plausible assumptions, this implies that over an inﬁnitely long horizon the present discounted value of the household’s assets must be zero: lim 1 1 + rs s =t
+s
+
+s→∞
+
+Xs+1 = 0
+
+(13)
+
+Combining this transversality condition with her dynamic budget constraint (12) leads to the household’s intertemporal budget constraint:8
+∞ s 1 ⎠ 1 ⎠ ⎝ ⎝ Cs = Xt (1 + rt ) + ws L 1 + rs 1 + rs s=t s =t+1 s=t s =t+1 ∞
+
+⎛
+
+s
+
+⎞
+
+⎛
+
+⎞
+
+−
+
+∞ s =t
+
+⎛ ⎝
+
+1 ⎠ Ts 1 + rs s =t+1
+
+s
+
+⎞
+
+(14)
+
+Or in words: the present discounted value in period t of her current and future consumption must be equal to the value of her assets in period t (including interest payments) plus the present discounted value of current and future labor income minus the present discounted value of current and future tax payments. The household takes Xt and the current and future values of r , w, and T as given, and chooses her consumption path to maximize her utility (11) subject to her intertemporal budget constraint (14). This leads to the following ﬁrst-order condition (which is called the Euler equation): Cs+1 = 1 + rs+1 Cs 1+ρ (15)
+
+Combining with the intertemporal budget constraint leads then to the current value of her consumption: Ct =
+∞ s ∞ s 1 ⎠ 1 ⎠ ⎬ ρ ⎨ ⎝ ⎝ Xt (1 + rt ) + ws L − Ts ⎭ 1+ρ⎩ 1 + rs 1 + rs s=t s =t+1 s=t s =t+1
+
+⎧
+
+⎛
+
+⎞
+
+⎛
+
+⎞
+
+⎫
+
+(16)
+
+7 Download free eBooks at bookboon.com
+
+Neoclassical Growth Model and Ricardian Equivalence
+
+The neoclassical growth model
+
+Or in words: every period t, the household consumes a fraction ρ/(1 + ρ) of her total wealth, which consists of her ﬁnancial wealth Xt (1 + rt ) and her human wealth (i.e. the present discounted value of her current and future labor income), minus the present discounted value of all her current and future tax obligations.9 Equilibrium Every period, the factor markets clear. For the labor market, we already implicitly assumed this by using the same notation (L) for the representative household’s labor supply and the representative ﬁrm’s labor demand. Equilibrium in the capital market requires that the representative household holds all the shares of the representative ﬁrm and the outstanding government bonds. The value of the representative ﬁrm in the beginning of period t + 1 is Vt+1 , such that the total value of the shares which the household can buy at the end of period t is given by Vt+1 /(1 + rt+1 ). The value of the government bonds which the household can buy at the end of period t is equal to the total public debt issued in period t, which is denoted by Bt+1 . This implies that Xt+1 = Vt+1 + Bt+1 1 + rt+1 (17)
+
+Equilibrium in the goods market requires that the total production is consumed, invested or purchased by the government, such that Yt = Ct + It + Gt . Note that equilibrium in the goods market is automatic if the labor and the capital markets are also in equilibrium (because of Walras’ law).
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+8 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Neoclassical Growth Model and Ricardian Equivalence
+
+The steady state
+
+3. The steady state
+It is often useful to analyse how the economy behaves in steady state. To derive the steady state, we need to impose some restrictions on the time path of government spending. Let us therefore assume that government spending G grows at the rate of technological progress g: Gs+1 = Gs (1 + g) (18)
+
+To derive the steady state, we start from an educated guess: let us suppose that in the steady state consumption also grows at the rate of technological progress g. We can then derive the values of the other variables, and verify that the model can indeed be solved (such that our educated guess turns out to be correct). The steady state values of output, capital, investment, consumption, the real wage and the real interest rate are then given by the following expressions:10 Yt∗
+∗ Kt ∗ It
+
+= = =
+
+α ∗ r +δ α ∗ r +δ
+
+α 1−α
+
+At L At L
+1
+
+(19) (20) (21) (22) (23) (24)
+
+1 1−α
+
+∗ = Ct ∗ = wt
+
+r∗ =
+
+1−α α (g + δ) ∗ At L r +δ α 1−α g+δ α 1−α ∗ At L − G∗ t ∗ r +δ r +δ α 1−α α (1 − α) ∗ At r +δ (1 + ρ)(1 + g) − 1
+
+...where a superscript ∗ shows that the variables are evaluated in the steady state. Recall that the technology parameter A and government spending G grow at rate g while labor supply L remains constant over time. It then follows from the equations above that the steady state values of aggregate output Y ∗ , the aggregate capital stock K ∗ , aggregate investment I ∗ , aggregate consumption C ∗ and the real wage w∗ all grow at the rate of technological progress g.
+
+9 Download free eBooks at bookboon.com
+
+Neoclassical Growth Model and Ricardian Equivalence
+
+The steady state
+
+We can now draw two conclusions: First, suppose that the government increases government spending G∗ t and after∗ wards continues to have G growing over time at rate g (such that government spending is permanently higher). It then follows from equations (19) until (24) that aggregate consumption decreases one-for-one with the higher government spending. The rest of the economy, however, is not aﬀected: aggregate output, the capital stock, investment, the real wage and the real interest rate do not change as a result of a permanent shock in government spending. So government spending crowds out consumption. Second, the way how the government ﬁnances its spending turns out to be irrelevant for the behavior of the economy: whether the government ﬁnances its spending by raising taxes or by issuing public debt, does not matter. This phenomenon is called Ricardian equivalence. Ricardian equivalence actually holds not only in steady state, but also outside steady state. In the next section, we explore the reason for Ricardian equivalence in more detail.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+10 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Neoclassical Growth Model and Ricardian Equivalence
+
+Ricardian equivalence
+
+4. Ricardian equivalence
+Let us consider again the intertemporal budget constraint of the representative household, equation (14). Recall that the household’s assets consist of the shares of the representative ﬁrm and the public debt, such that Xt = Vt /(1 + rt ) + Bt . Substituting in (14) yields:
+∞ s =t
+
+⎛ ⎝
+
+1 ⎠ 1 ⎠ ⎝ Cs = Vt + Bt (1 + rt ) + ws L 1 + rs 1 + rs s=t s =t+1 s =t+1 1 ⎠ ⎝ Ts − 1 + rs s=t s =t+1
+∞
+
+s
+
+⎞
+
+∞
+
+⎛
+
+s
+
+⎞
+
+⎛
+
+s
+
+⎞
+
+(25)
+
+Now replace Bt by the right-hand-side of the government’s budget constraint (equation (10), but moved backwards with one period):
+∞ s =t
+
+⎛ ⎝
+
+1 ⎠ 1 ⎠ 1 ⎠ ⎝ ⎝ Cs = Vt + Ts − Gs 1 + rs 1 + rs 1 + rs s=t s =t+1 s=t s =t+1 s =t+1
+∞ s 1 ⎠ 1 ⎠ ⎝ ⎝ + ws L − Ts 1 + rs 1 + rs s=t s =t+1 s=t s =t+1 ∞
+
+s
+
+⎞
+
+∞
+
+⎛
+
+s
+
+⎞
+
+∞
+
+⎛
+
+s
+
+⎞
+
+⎛
+
+s
+
+⎞
+
+⎛
+
+⎞
+
+(26) The present discounted value of tax payments then cancels out, such that the household’s intertemporal budget constraint becomes:
+∞
+
+∞ s ∞ s 1 ⎠ 1 ⎠ 1 ⎠ ⎝ ⎝ ⎝ Cs = Vt + ws L − Gs 1 + rs 1 + rs 1 + rs s=t s =t+1 s=t s =t+1 s=t s =t+1
+
+⎛
+
+s
+
+⎞
+
+⎛
+
+⎞
+
+⎛
+
+⎞
+
+(27) This is a crucial result. It means that from the household’s point of view, only the present discounted value of government spending matters. The precise time path of tax payments and the size of the public debt are irrelevant. The reason for this is that every increase in public debt must sooner or later be matched by an increase in taxes. Households therefore do not consider their government bonds as net wealth, because they realize that sooner or later they will have to pay taxes to the government such that the government can retire the bonds. From the household’s point of view, it is therefore irrelevant whether the government has a large public debt or not: in the ﬁrst case, households will have a lot of assets, but expect to pay a lot of taxes later on; in the second case, households will have fewer assets, but feel compensated for that as they also anticipate lower taxes.
+
+11 Download free eBooks at bookboon.com
+
+Neoclassical Growth Model and Ricardian Equivalence
+
+Conclusions
+
+5. Conclusions
+This note presented the neoclassical growth model, and solved for the steady state. In the neoclassical growth model, it is irrelevant whether the government ﬁnances its expenditures by issuing debt or by raising taxes. This phenomenon is called Ricardian Equivalence. Of course, the real world is very diﬀerent from the neoclassical growth model. Consequently, there are many reasons why Ricardian Equivalence may not hold in reality. But nevertheless, the neoclassical growth model is a useful starting point for more complicated dynamic general equilibrium models, and the principle of Ricardian Equivalence often serves as a benchmark to evaluate the eﬀect of government debt in more realistic settings.
+
+1
+
+Note that the Solow growth model (Solow, 1956) is sometimes called the neoclassical growth model as well. But the Solow model is not based on microfoundations, as it assumes an exogenous saving rate. The stochastic growth model, which is at the heart of modern macroeconomic research, is in essence a stochastic version of the neoclassical growth model, and is usually presented in discrete time as well. This type of technological progress is called labor-augmenting or Harrod-neutral technological progress. See appendix A for derivations. See appendix A for a derivation. In general, there is a third source of revenue for the government, namely seigniorage income. For simplicity, we make abstraction from this, and assume that seigniorage income is zero. See appendix A for derivations. The derivation is similar as for the government’s intertemporal budget constraint, and is given in appendix A. Derivations of equations (15) and (16) are given in appendix A. Derivations are given in appendix B.
+
+2
+
+3
+
+4 5 6
+
+7 8
+
+9 10
+
+12 Download free eBooks at bookboon.com
+
+Neoclassical Growth Model and Ricardian Equivalence
+
+Appendix A
+
+Appendix A
+A1. The maximization problem of the representative ﬁrm
+The maximization problem of the ﬁrm can be rewritten as: Vt (Kt ) = max Yt − wt Lt − It + 1 Vt+1 (Kt+1 ) 1 + rt+1 (A.1)
+
+{Lt ,It }
+
+α s.t. Yt = Kt (At Lt )1−α
+
+Kt+1 = (1 − δ )Kt + It The ﬁrst-order conditions for Lt , respectively It , are:
+α 1−α −α (1 − α)Kt At Lt − wt 1 ∂Vt+1 (Kt+1 ) −1 + 1 + rt+1 ∂Kt+1
+
+= 0 = 0
+
+(A.2) (A.3)
+
+In addition, the envelope theorem implies that ∂Vt (Kt ) ∂Kt =
+α−1 αKt (At Lt )1−α +
+
+∂Vt+1 (Kt+1 ) 1 (1 − δ ) 1 + rt+1 ∂Kt+1
+
+(A.4)
+
+Substituting the production function in (A.2) gives equation (5): (1 − α) Yt Lt = wt
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+13 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Neoclassical Growth Model and Ricardian Equivalence
+
+Appendix A
+
+Substituting (A.3) in (A.4) yields: ∂Vt (Kt ) ∂Kt =
+α−1 αKt (At Lt )1−α + (1 − δ )
+
+Moving one period forward, and substituting again in (A.3) gives: −1 + Reshuﬄing leads to: 1 + rt+1
+α−1 1−α = αKt + (1 − δ ) +1 (At+1 Lt+1 )
+
+1 α−1 1−α αKt + (1 − δ ) +1 (At+1 Lt+1 ) 1 + rt+1
+
+= 0
+
+Substituting the production function in the equation above gives then equation (6): α Yt+1 Kt+1 = rt+1 + δ
+
+14 Download free eBooks at bookboon.com
+
+Neoclassical Growth Model and Ricardian Equivalence
+
+Appendix A
+
+A2. The equilibrium value of the representative ﬁrm
+First substitute the ﬁrst-order conditions (5) and (6) and the law of motion (2) in the dividend expression (3): Dt = = = = Yt − (1 − α)Yt − It αYt − It Kt (rt + δ ) − [Kt+1 − (1 − δ )Kt ] Kt (1 + rt ) − Kt+1
+
+Substituting in the value function (4) gives then the equilibrium value of Vt , equation (7): Vt = = Kt (1 + rt ) − Kt+1 + Kt (1 + rt ) Kt+1 (1 + rt+1 ) − Kt+2 Kt+2 (1 + rt+2 ) − Kt+3 + ··· + 1 + rt+1 (1 + rt+1 )(1 + rt+2 )
+
+A3. The government’s intertemporal budget constraint A3. The goverment’s intertemporal budget constraint
+Let us ﬁrst rewrite the government’s dynamic budget constraint (8): Bt = Bt+1 Tt Gt + − 1 + rt 1 + rt 1 + rt (A.5)
+
+Moving this equation one period forward gives an expression for Bt+1 , which we can use to eliminate Bt+1 in the equation above: Bt = = Tt Bt+2 1 Tt+1 Gt+1 Gt + + − − 1 + rt 1 + rt+1 1 + rt+1 1 + rt+1 1 + rt 1 + rt Tt Bt+2 Tt+1 + + (1 + rt )(1 + rt+1 ) 1 + rt (1 + rt )(1 + rt+1 ) Gt Gt+1 − − 1 + rt (1 + rt )(1 + rt+1 )
+
+(A.6)
+
+We can then move equation (A.5) two periods forward to obtain an expression for Bt+2 , and replace Bt+2 in (A.6). Continuing in this manner eventually leads to
+s
+
+Bt
+
+=
+
+s→∞
+
+lim
+
+s =t
+
+1 1 + rs
+
+∞
+
+s s =t
+
+Bs+1 +
+s=t
+
+1 1 + rs
+
+∞
+
+s s =t
+
+Ts −
+s=t
+
+1 1 + rs
+
+Gs
+
+Using the transversality condition (9) leads then to the government’s intertemporal budget constraint:
+∞ s s =t+1
+
+Bt (1 + rt )
+
+=
+s=t
+
+1 1 + rs
+
+∞
+
+s s =t+1
+
+Ts −
+s=t
+
+1 1 + rs
+
+Gs
+
+15 Download free eBooks at bookboon.com
+
+Neoclassical Growth Model and Ricardian Equivalence
+
+Appendix A
+
+...which can be rewritten as in equation (10):
+∞ s s =t+1
+
+Bt+1
+
+=
+s=t+1
+
+1 1 + rs
+
+∞
+
+s s =t+1
+
+Ts −
+s=t+1
+
+1 1 + rs
+
+Gs
+
+A4. The representative household’s intertemporal budget conA4. The representative household’s intertemporal budget constraint straint
+Let us ﬁrst rewrite the representative household’s dynamic budget constraint (12): Xt = Xt+1 wt L Tt Ct − + + 1 + rt 1 + rt 1 + rt 1 + rt (A.7)
+
+Moving this equation one period forward gives an expression for Xt+1 , which we can use to eliminate Xt+1 in the equation above: Xt = Xt+2 wt L 1 wt+1 L Tt+1 Ct+1 Tt − − + + + 1 + rt 1 + rt+1 1 + rt+1 1 + rt+1 1 + rt+1 1 + rt 1 + rt Ct + 1 + rt wt L Tt Xt+2 wt+1 L Tt+1 − + − + (1 + rt )(1 + rt+1 ) 1 + rt (1 + rt )(1 + rt+1 ) 1 + rt (1 + rt )(1 + rt+1 ) Ct Ct+1 + (A.8) + 1 + rt (1 + rt )(1 + rt+1 )
+
+=
+
+16 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Neoclassical Growth Model and Ricardian Equivalence
+
+Appendix A
+
+We can then move equation (A.7) two periods forward to obtain an expression for Xt+2 , and replace Xt+2 in (A.8). Continuing in this manner eventually leads to
+s
+
+Xt
+
+=
+
+s→∞ ∞
+
+lim
+
+s =t s
+
+1 1 + rs 1 1 + rs
+
+∞
+
+s s =t s s =t
+
+Xs+1 −
+s=t ∞
+
+1 1 + rs
+
+ws L Cs
+
++
+s=t s =t
+
+Ts +
+s=t
+
+1 1 + rs
+
+Using the transversality condition (13) and rearranging, leads then to the household’s intertemporal budget constraint:
+∞ s=t s s =t
+
+1 1 + rs
+s s =t+1
+
+∞
+
+s s =t
+
+Cs
+
+=
+
+Xt +
+s=t
+
+1 1 + rs
+∞
+
+∞
+
+s s =t
+
+ws L −
+s=t
+
+1 1 + rs
+
+Ts
+
+...which can be rewritten as in equation (14):
+∞ s=t
+
+1 1 + rs
+
+s s =t+1
+
+Cs
+
+= Xt (1 + rt ) +
+s=t ∞ s s =t+1
+
+1 1 + rs
+
+ws L
+
+−
+s=t
+
+1 1 + rs
+
+Ts
+
+17 Download free eBooks at bookboon.com
+
+Neoclassical Growth Model and Ricardian Equivalence
+
+Appendix A
+
+A5. The maximization problem of the representative household
+The maximization problem of the household can be rewritten as: Ut (Xt ) = max ln Ct +
+{Ct }
+
+1 Ut+1 (Xt+1 ) 1+ρ
+
+(A.9)
+
+s.t. Xt+1 = Xt (1 + rt ) + wt L − Tt − Ct The ﬁrst-order condition for Ct is: 1 ∂Ut+1 (Xt+1 ) 1 − Ct 1+ρ ∂Xt+1 In addition, the envelope theorem implies that ∂Ut (Xt ) ∂Xt = 1 ∂Ut+1 (Xt+1 ) (1 + rt ) 1+ρ ∂Xt+1 (A.11) = 0 (A.10)
+
+Substituting (A.10) in (A.11) yields: ∂Ut (Xt ) ∂Xt = (1 + rt ) 1 Ct
+
+Moving one period forward, and substituting again in (A.10) gives: 1 + rt+1 1 1 − Ct 1 + ρ Ct+1 Rearranging leads then to the Euler equation (15): Ct+1 = 1 + rt+1 Ct 1+ρ (A.12) = 0
+
+A6. The consumption level of the representative household
+First note that repeatedly using the Euler-equation (15) allows us to eliminate all future values of C from the left-hand-side of equation (14):
+∞ s=t s s =t+1
+
+A6. The consumption level of the representative household
+
+1 1 + rs
+
+∞
+
+Cs
+
+=
+s=t
+
+1 1+ρ
+
+s−t
+
+Ct
+
+=
+
+1+ρ Ct ρ
+
+Substituting in (14) and rearranging yields then equation (16): Ct = ρ 1+ρ
+∞ s s =t+1
+
+Xt (1 + rt ) +
+s=t
+
+1 1 + rs
+
+∞
+
+s s =t+1
+
+ws L −
+s=t
+
+1 1 + rs
+
+Ts
+
+18 Download free eBooks at bookboon.com
+
+Neoclassical Growth Model and Ricardian Equivalence
+
+Appendix B
+
+Appendix B
+If C grows at rate g , the Euler equation (15) implies that
+∗ (1 + g ) = Cs
+
+1 + r∗ ∗ C 1+ρ s
+
+Rearranging gives then the gross real rate of return 1 + r∗ : 1 + r∗ = (1 + g )(1 + ρ) which immediately leads to equation (24). Subsituting in the ﬁrm’s ﬁrst-order condition (6) gives: α Yt∗ +1 ∗ Kt +1 = r∗ + δ
+
+Using the production function (1) to eliminate Y yields:
+∗α−1 1−α αKt +1 (At+1 L) ∗ Rearranging gives then the value of Kt +1 : ∗ Kt +1
+
+=
+
+r∗ + δ
+
+=
+
+α r∗ + δ
+
+1 1−α
+
+At+1 L
+
+which is equivalent to equation (20). Substituting in the production function (1) gives then equation (19): Yt∗ = α ∗ r +δ
+α 1−α
+
+At L
+
+Substituting (19) in the ﬁrst-order condition (5) gives equation (23):
+∗ wt
+
+=
+
+(1 − α)
+
+α ∗ r +δ
+
+α 1−α
+
+At
+
+Substituting (20) in the law of motion (2) yields: α ∗ r +δ
+1 1−α
+
+At+1 L
+
+= (1 − δ )
+
+α ∗ r +δ
+
+1 1−α
+
+∗ At L + It
+
+19 Download free eBooks at bookboon.com
+
+Neoclassical Growth Model and Ricardian Equivalence
+
+Appendix B
+
+∗ such that It is given by: ∗ It
+
+= = =
+
+α ∗ r +δ α r∗ + δ (g + δ )
+
+1 1−α
+
+At+1 L − (1 − δ )
+
+α ∗ r +δ
+
+1 1−α
+
+At L
+
+1 1−α
+
+[(1 + g ) − (1 − δ )] At L
+1 1−α
+
+α r∗ + δ
+
+At L
+
+...which is equation (21). Consumption C ∗ can then be computed from the equilibrium condition in the goods market:
+∗ Ct
+
+= = =
+
+∗ Yt∗ − It − G∗ t
+
+α ∗ r +δ
+
+α 1−α
+
+At L − (g + δ ) α ∗ r +δ
+α 1−α
+
+α ∗ r +δ
+
+1 1−α
+
+At L − G∗ t
+
+g+δ 1−α ∗ r +δ
+
+At L − G∗ t
+
+Now recall that on the balanced growth path, A and G grow at the rate of technological progress g . The equation above then implies that C ∗ also grows at the rate g , such that our initial educated guess turns out to be correct.
+
+20 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Neoclassical Growth Model and Ricardian Equivalence
+
+References
+
+References
+Ramsey, Frank P. (1928), ”A Mathematical Theory of Saving”, Economic Journal 38, 152(Dec.), 543-559. Reprinted in Joseph E. Stiglitz and Hirofumi Uzawa (eds.), Readings in the Modern Theory of Economic Growth, MIT Press, 1969. Solow, Robert (1956), ”A Contribution to the Theory of Economic Growth”, Quarterly Journal of Economics 70, 1(Feb.), 65-94.
+
+21 Download free eBooks at bookboon.com
+

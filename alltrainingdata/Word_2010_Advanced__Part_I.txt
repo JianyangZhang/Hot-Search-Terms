@@ -1,0 +1,2155 @@
+Word	2010	Advanced:	Part	I
+Templates,	Forms	and	Styles Stephen	Moffat,	The	Mouse	Training	Company
+
+Download	free	books	at
+
+Stephen Moffat, The Mouse Training Company
+
+Word 2010 Advanced
+Part I
+
+2
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I © 2011 Stephen Moffat, The Mouse Training Company & bookboon.com ISBN 978-87-7681-848-7
+
+3
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Contents
+
+Contents
+	Introduction	 1	 	 	 	 	 	 Advanced tables	 Moving and copying	 Table sizes and alignment	 Sorting your data	 Table formulas	 Other features	 7 9 10 12 15 19 22 30 31 43 46 51 57 62 66 74 75
+
+Section 2	 Advanced formatting	 	Styles	 	 	 	 	 Import and export styles	 Defining styles automatically	 Quickstyle sets	 Document themes	
+
+	Columns	 	Sections	 Section 3	 Outlining / Master documents	 	 Document outlines	
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I 	 	 Heading style numbering	 Master documents	 78 84 95 96 99 111
+
+Contents
+
+Section 4	 Templates and forms	 	Templates	 	Fields	 	 	 Form fields	 To see Section 5-10 download Word 2010 Advanced: Part II
+
+Section 5	 Mailmerge	 	 	 Mailmerge create letters and other documents	 Troubleshooting	
+
+Part II Part II Part II Part II Part II Part II Part II Part II Part II Part II Part II
+
+Section 6	 Indexes, Tables, Cross reference	 	 	 	 	 Table of Contents	 Indexes	 Cross-Referencing Text	 Citations and Bibliographies	
+
+Section 7	 Footnoes and Endnotes	 	 	 Using Footnotes	 Using Endnotes	
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I Section 8	 Reviewing	 	 	 	 	 Track changes (revision marks)	 Reviewing the changes	 Comments	 Versions	 Part II Part II Part II Part II Part II Part II Part II Part II Part II Part II Part II Part II Part II Part II
+
+Contents
+
+Section 9	 Objects	 	 	 	 Inserting, formatting and deleting objects	 SmartArt	 Building blocks	
+
+Section 10	 Advanced extras	 	 	 	 	 Odd & Even Headers & Footers	 Hyperlinks	 Customising command access	 Macros	
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+6
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Introduction
+
+Introduction
+Word 2010 is a powerful word processing application that allows users to produce typed documents. These can range from simple letters through to fax cover sheets, reference manuals and sophisticated reports incorporating numbered headings, figures and graphics. All graphics related to Microsoft in this book is in compliance with Microsoft guidelines and thus permitted by Microsoft.
+
+How To Use This Guide
+This manual should be used as a point of reference following attendance of the introductory level Word 2010 training course. It covers all the topics taught and aims to act as a support aid for any tasks carried out by the user after the course. The manual is divided into sections, each section covering an aspect of the introductory course. The table of contents lists the page numbers of each section and the table of figures indicates the pages containing tables and diagrams.
+
+Instructions
+Those who have already used a spreadsheet before may not need to read explanations on what each command does, but would rather skip straight to the instructions to find out how to do it. Look out for the arrow icon which precedes a list of instructions.
+
+Appendices
+The Appendices list the Ribbons mentioned within the manual with a breakdown of their functions and tables of shortcut keys. Keyboard Keys are referred to throughout the manual in the following way: ENTER – Denotes the return or enter key, DELETE – denotes the Delete key and so on. Where a command requires two keys to be pressed, the manual displays this as follows: CTRL P – this means press the letter “p” while holding down the Control key.
+
+ӹӹ Commands
+When a command is referred to in the manual, the following distinctions have been made: When Ribbon commands are referred to, the manual will refer you to the Ribbon – E.g. “Choose home from the Ribbons and then B for bold”.
+
+7
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Introduction
+
+When dialog box options are referred to, the following style has been used for the text – “In the Page Range section of the Print dialog, click the Current Page option” Dialog box buttons are shaded and boxed – “Click OK to close the Print dialog and launch the print.” Within each section, any items that need further explanation or extra attention devoted to them are denoted by shading. E.G.: “Word will not let you close a file that you have not already saved changes to without prompting you to save.”
+
+8
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced tables
+
+1	 Advanced tables
+By the end of this section you will be able to: •	 Move and copy table rows and columns •	 Split a table •	 Change table size and alignment •	 Merge and split table cells •	 Sort table data •	 Add formulae to tables •	 Draw tables
+
+9
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced tables
+
+Moving and copying
+Rows and columns in a table can be moved using the same procedures as text within a document. However, the position of the insertion point when pasting or dragging rows and columns is important as it can alter the final result.
+
+Using Cut/Copy & Paste
+
+ӹӹ To move or copy a row/column:
+Mouse
+
+1.	 Select the row to be moved/copied or select the column to be moved/copied. 2.	 Click on the Cut/Copy button. 3.	 Select the row where you want to paste (Word pastes above) or select the column where you want to paste (Word pastes to the left).
+
+4.	 Click on the Paste button
+
+Using Drag & Drop
+Rows and Columns can also be moved or copied using standard drag and drop techniques.
+
+ӹӹ To Move the selection:
+Mouse 1.	 Click on the middle of the selected area and drag it to the new location
+
+ӹӹ To Copy the selection:
+Mouse 1.	 Click on the middle of the selected area and hold down the CTRL while you drag the selection to where you want to copy it. Release the mouse button before the CTRL key
+
+10
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced tables
+
+Splitting A Table
+Sometimes you need to split a table between rows to add text in-between.
+
+ӹӹ To split a table in two at the current cursor position:
+Mouse 1.	 Select the table at the point you wish to split it. 2.	 Go to the merge group on the layout ribbon and click the split Table button. Or Keyboard 1.	 Press CTRL SHIFT ENTER •	 To rejoin tables that have been split, simply delete the paragraph marker between them.
+
+Merging And Splitting Cells
+When you have inserted your table there may be times in a number of cells that you would want them as one cell and not several and similarly you may wish for one cell to be split into several. In 2010 this feature is easy to do. Not only can you split cells but you can split a whole table into multiple tables if the need arises
+
+ӹӹ To split cells
+Mouse 1.	 Select the cell(s) you wish to split 2.	 Go to the merge group on the layout ribbon and click the split cells button.
+
+ӹӹ To merge cells
+Mouse 1.	 Select the cells you wish to merge. 2.	 Go to the merge group on the layout ribbon and click the merge cells button.
+
+11
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced tables
+
+ӹӹ To split Table
+Mouse 1.	 Click in the row that you wish to be the first row of the split table. 2.	 Go to the merge group on the layout ribbon and click the split Table button. 3.	 The table will split above the row your cursor is in.
+
+Table sizes and alignment
+The columns, rows and positioning of a table on the page are all adaptable. Some of the techniques for getting the best results when changing these options are outlined below.
+
+Advanced Column Width Techniques
+When you adjust the width of a column, Word proportionately resizes the other columns to the right so that the overall table width does not change. However it is possible to be more precise about how the remaining columns should be affected. •	 The SHIFT key allows the width of a column to be altered and increases the overall width of the table accordingly.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+12
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I To increase the width of column 1, click over the column boundary and drag it with the mouse…
+
+Advanced tables
+
+Column 2 becomes narrower To increase the width of column 1 without altering the width of column 2, click over the column boundary, hold down the SHIFT key and drag it with the mouse…
+
+Column 1 width increases and so does the overall width of the table
+
+Row Height
+
+The height of the rows in a Word table is usually controlled by the contents of the cell. If the text in a cell is too wide, Word will wrap the text within the cell. Using the ENTER key to insert blank lines within a cell can also alter the height of rows. In a situation where a cell’s height needs to be set precisely there is an option on the layout ribbon that allows you to input a specific measurement. This is particularly useful if tables are being used to create forms and space should be left for people to fill the form in.
+
+ӹӹ To change the row height:
+Mouse 1.	 Select the rows where the height is to be changed 2.	 Choose Properties from the Layout ribbon
+
+13
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I 3.	 Select the Row Tab in the dialog 4.	 Use the Row height is: field to set a precise size Or
+
+Advanced tables
+
+1.	 Change the cell height in the cell size group by entering the height you wish The options in the Height drop-down list are outlined next:
+Option Exactly At Least Result This sets a specific height that will not adjust Enables specification of a minimum height, but will still fit rows around text that is taller
+
+•	 You can also use the before and after options in the Paragraph format dialog box to space out text within cells in a table.
+
+Table Alignment
+Tables can be aligned to the left, right or centre of the page. The default for tables is left aligned. Individual rows can be aligned - but if the whole table is to be affected, ensure that the entire table is selected before issuing the command. •	 This is NOT text alignment but TABLE alignment to the page
+
+ӹӹ To change table alignment:
+Mouse 1.	 Select the row(s) to align or the whole table. 2.	 Choose Properties from the Layout ribbon. 3.	 Click on the Table tab, and select the required alignment.
+
+Indenting The Table
+The whole table may be indented from the margin, this is useful to do if you wish to align your table with any indented text within a document
+
+14
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced tables
+
+ӹӹ To indent table rows:
+Mouse 1.	 Select the table. 2.	 Choose Properties from the Layout ribbon. 3.	 Click on the Table Tab. 4.	 Set the indent in the Indent From Left: field •	 To indent text within cells, use the indent options within the Paragraph format dialog box.
+
+Sorting your data
+Sorting Cells
+You can quickly sort cells, arranging the entries in alphabetic, numeric or date order. Word changes the order of rows based on the first column unless you specify otherwise.
+COUNTRY Albania Bulgaria Romania Turkmenistan YEAR 1998 1999 1998 1999 INVESTMENT £1,867,659.00 £657,948,945.00 £867,482,475.00 £768,958,372.00
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+15
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Advanced tables
+
+The table above is currently in alphabetical order by Country. Supposing you wanted to sort the table by Year, and where the year is the same, you want it sub-sorted by Investment.
+
+ӹӹ To sort the table:
+Mouse
+
+1.	 Select the table. 2.	 Under Table Tools, on the Layout ribbon, in the Data group, click Sort. 3.	 In the Sort dialog box, select the options that you want.
+
+4.	 Choose the main Sort by column from the drop-down list. 5.	 Select the type of information in that column (Text, Number or Date). 6.	 Choose the sort order (Ascending or Descending). 7.	 Repeat this process in the Then by field if you are sub-sorting. The table from the previous page would now appear like this:
+COUNTRY Albania Romania Bulgaria Turkmenistan YEAR 1998 1998 1999 1999 INVESTMENT £1,867,659.00 £867,482,475.00 £657,948,945.00 £768,958,372.00
+
+16
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I Header Row
+
+Advanced tables
+
+•	 The first row in the table will not be included in the sort, and the text in the cells of that row will appear as choices in the Sort by/Then by fields. No Header Row •	 All the rows will be included in the sort, and you select the column number to sort by (rather than the names). The choice here depends on whether your table has headings in the first row:
+
+Sort A Single Column In A Table
+If you just wish to sort the data in one column while leaving the data in all other columns unchanged then we need to select that column and change a setting.
+
+ӹӹ To sort a single column
+Mouse 1.	 Select the column that you want to sort. 2.	 Under Table Tools, on the Layout ribbon, in the Data group, click Sort.
+
+3.	 Under My list has, click Header row or No header row. 4.	 Click Options. 5.	 Under Sort options, select the Sort column only check box. 6.	 Click OK.
+
+Sort By More Than One Word Or Column Inside A Table.
+To sort the data in a table that is based on the contents of a column where it includes more than one word, you must first use characters to separate the data — including data in the header row. •	 E.G. if the cells in a column contain both last and first names, you can use commas to separate the names.
+
+17
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced tables
+
+ӹӹ To sort a table by multiple columns
+Mouse 1.	 Select the column that you want to sort. 2.	 Under Table Tools, on the Layout ribbon, in the Data group, click Sort. 3.	 Under My list has, click Header row or No header row.
+
+4.	 Click Options. 5.	 Under Separate fields at, click the type of character that separates the words or fields that you want to sort. 6.	 Click OK to close dialog 7.	 In the sort dialog under Sort by, in the Using list, select which word or field you want to sort by.
+
+18
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Advanced tables
+
+8.	 In the first Then by list, enter the column that contains the data that you want to sort by, and then in the Using list, select which word or field you want to sort by. 9.	 If you want to sort by an additional column, repeat this step in the second Then by list. 10.	Click OK to apply sort
+
+Table formulas
+You can write formulae inside table cells to perform common calculations. You can use A1, B1-style references as you might in an Excel spreadsheet. However, you are not able to create relative cell references, therefore formulas cannot be copied across a row or down a column.
+
+ӹӹ To create a formula:
+Mouse
+
+1.	 Position the mouse in the cell you wish to create a formula.
+
+2.	 Under Table Tools, on the Layout ribbon, in the Data group, click formula. 3.	 Word may automatically suggest a formula, which you can overwrite. Use the = sign to begin the formula and the same mathematical operators as are used in Excel ( ,-,*,/).
+
+19
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced tables
+
+4.	 Use A1 style references to cells within the table - you will have to work out which reference will apply to each cell you are referring to. In the example above, the profit has been worked out using the formula =B2B3, and assigning a currency number format to get the £ sign. Formatting Numbers You can format a formula’s results by using the drop-down list of Number Formats in the formula dialog. The available formats are similar to those in Excel, such as Comma, Currency and Percentage.
+
+Updating The Formula
+If the figures in the table change, the formula result only updates when you print the document. If you want to see the new result on the screen, you will need to manually update the formula.
+
+ӹӹ To update a formula’s result:
+Keyboard 1.	 Click on the cell containing the result 2.	 Press F9. OR Mouse 1.	 Right click on the formula 2.	 Click on update field
+
+Paste Function
+When you use the paste function tool into a cell, Word will detect numbers in the cells above and to the left of the current cell and may offer to sum them for you. AutoSum Positioning at the bottom of a column of numbers automatically creates a =SUM(ABOVE) function. Positioning to the right of a row of numbers automatically creates a =SUM(LEFT) function. You can also use BELOW and RIGHT to refer to adjacent cells below or to the right of formulas. Functions You can paste in an Excel function, such as AVERAGE, COUNT or IF from a list contained in the Formula dialog.
+
+20
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced tables
+
+•	 E.G. to count the number of entries in a column above the cell where the cursor is positioned, choose: =COUNT(ABOVE)
+
+Nesting Functions
+Once the function is pasted in, you can use cell references as earlier to edit the function if necessary. You can also ‘nest’ functions inside others using the Paste function: list. •	 E.G. to add a different rating depending on the highest value in the column above, enter: =IF(MAX(ABOVE)>50000,”WELL DONE”,”TRY HARDER”)
+
+21
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Advanced tables
+
+Other features
+Draw A Table
+
+You can draw a complex table — E.G. one that contains cells of different heights or a varying number of columns per row.
+
+ӹӹ To draw a table
+Mouse
+
+1.	 Click where you want to draw the table. 2.	 On the Insert ribbon, in the Tables group, click Table. 3.	 Click Draw Table. 4.	 The pointer changes to a pencil. 5.	 To define the outer boundaries of the table, draw a rectangle. 6.	 Draw column and row lines inside the rectangle. 7.	 To erase a line or block of lines, under Table Tools, on the Design ribbon, in the Draw Borders group, click Eraser.
+
+22
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced tables
+
+8.	 Click the line that you want to erase. When you are finished, click Draw Table to continue drawing the table. 9.	 When you finish drawing the table, click in a cell and start typing or insert a graphic.
+
+Repeating Table Headings
+When a table spreads across more than one page, it can be useful to automatically repeat the first row(s) of the table on each page as the first row(s) will often contain headings that apply to the columns of the table. If you choose to repeat table headings, the rows you have chosen will automatically be inserted at the top of each new page the table spreads onto. To edit the heading rows or make formatting changes, you must go back to the top of the table as it is simply an image of the first row(s) on the other table pages.
+
+ӹӹ To repeat table headings:
+Mouse 1.	 Select the row(s) that you wish to repeat at the top of each page that the table prints on. 2.	 Go to the data group on the layout ribbon and click the Repeat header rows button You will only see the repeating headings when you are in Print Layout or Print preview
+
+23
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced tables
+
+Layout Options
+Icon Function Draw Table - Inserts a table where you drag in the document. After creating the outside of the table, drag inside to create columns and rows. Eraser - Removes a table cell line and merges the contents of the adjacent cells. Line Style - Choose the line style and thickness to draw your table with. Line Weight - Choose the width of the border you require. Border Colour - Choose the colour of the border you require. Borders - Allows you to add a border of some type to the table or individual cells. Shading Colour - Allows you to select a colour to fill the table or individual cells. Merge Cells - Combines the contents of selected adjacent cells into a single cell. Split Cells - Splits the selected cells into the number of rows or columns you specify. Ribbon & group Design, draw borders
+
+Design, draw borders
+
+Design, draw borders Design, draw borders Design, draw borders Design, Table styles Design, Table styles Layout, Merge Layout, Merge
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+24
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Advanced tables
+
+Distribute Rows - Alters the height of the selected cells to make them equal. Distribute Columns - Alters the width of the selected cells to make them equal. Change Text - Changes direction of the selected text in a cell horizontally, left or right. Sort Ascending - Sorts the selected items alphabetically from the beginning of the alphabet. Sort Opens the sort dialog box
+
+Layout, Cell size Layout, Cell size
+
+Layout, alignment
+
+Home, paragraph
+
+Layout, data
+
+Formula - Allows calculations to be entered into a cell. Align Top Left, Centre & Right - Aligns the text contained within the selected table or cells at the top of the cell. Align Centre Left, Centre & Right - Aligns the text contained within the selected table or cells in the centre of the cell. Align Bottom Left, Centre & Right, - Aligns the text contained within the selected table or cells at the bottom of the cell.
+
+Layout, data Layout, alignment Layout, alignment Layout, alignment
+
+TableStyles
+After you create a table, you can format the entire table by using Table Styles. By resting your pointer over each of the preformatted table styles, you can preview what the table will look like.
+
+ӹӹ To use table styles to format an entire table
+Mouse 1.	 Click in the table that you want to format. 2.	 click the Design ribbon. In the Table Styles group, rest the pointer over each table style until you find a style that you want to use.
+
+3.	 To see more styles, click the More arrow . 4.	 Click the style to apply it to the table.
+
+25
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced tables
+
+5.	 In the Table Style Options group, on the design ribbon select or clear the check box next to each of the table elements to apply or remove them from the selected style.
+
+26
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced tables
+
+Converting Table To Text
+At times you may have data in a table that you wish was normal text to allow you to arrange it in other ways or do other things with it. So we need to remove the table from around the data and leave the data intact. Some form of delimiting character (separator) needs to replace the cell walls so that it can be turned back into a table if necessary at some later date.
+
+ӹӹ To convert table to text
+Mouse
+
+.
+
+27
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I 1.	 Select the table or select the rows/columns of data you wish to convert.
+
+Advanced tables
+
+2.	 Go to the layout ribbon in the data group and click the convert to text button a dialog will appear. 3.	 Select a delimiter type from the choices presented. •	 If other, then manually type character you wish as a delimiter in the box provided. 4.	 Click ok to convert.
+
+Text To Table
+
+ӹӹ To convert text to table
+Mouse
+
+1.	 Turn on show/hide characters from the home ribbon paragraph group to identify the kind of delimiter separating your text.
+
+2.	 If none exist then you will have to manually create the delimiters within your data 3.	 Select the text you wish to convert
+
+28
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I 4.	 Go to the insert ribbon tables group and click on table 5.	 From the menu select convert text to table a dialog will appear
+
+Advanced tables
+
+6.	 Make a choice on how the data has been separated if different from Tabs (tabs are default) the number of rows and columns should then appear automatically, if you wish different amounts then enter new values. 7.	 Click on ok to convert your data
+
+29
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+Section 2	 Advanced formatting
+By the end of this section you will be able to: •	 Understand what styles are •	 Apply default styles to paragraphs and text •	 Create styles •	 Redefine styles •	 Copy styles between documents •	 Apply borders to text, paragraphs and pages •	 Create and use columns
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+30
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+Styles
+In Word, a “style” is a collection of font and paragraph formats given a specific name. It may be used to apply formatting to areas of a document quickly or to make changes easily to everything, which already has a certain style applied. A style can either apply to a whole paragraph of text or to a few individual characters.
+
+Default Styles
+Word supplies a number of default styles, which are attached to the Normal Template. These may be altered to reflect personal choices. Normal Style The “Normal” style, in the Style list box (found by using the dialog box launcher of the styles group), controls the overall characteristics of most of the text in a document and is the style that will be first seen on opening a new document. Headings 1 - 9 Word supplies nine heading styles, which variously underline, bold, and indent etc. the text they are applied to. When a new document is created, based upon the Normal Template, only three heading styles appear to be available but you can see all the possible default styles changing which styles are viewed.(explained later)
+
+31
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I QuickStyles
+
+Advanced formatting
+
+These are ordinary styles that have been added to the QuickStyle gallery which is what you see in the styles group on the home ribbon you ma customise this gallery to add your most often used styles to allow speedy access to them when needed. Default Paragraph Font When you have applied a style to a paragraph, you may decide to add some extra formatting. If at a later point you then want to remove the extra formatting and return to the underlying style format you can use this style to do so. You can choose from a variety of methods to apply styles to existing text in a document.
+
+ӹӹ To apply a style using the Quick style gallery:
+Mouse
+
+1.	 Select text to be changed. 2.	 Go to the styles group on the Home ribbon. 3.	 Move your mouse over the styles to see a preview temporarily applied to the text in your document you have selected. 4.	 Select a style you can see or click on the down arrow to the bottom right of the visible styles to open the style gallery 5.	 More styles may be available by scrolling down. 6.	 Click on selected style to apply
+
+32
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+ӹӹ To - apply a style - dialog
+keyboard
+
+1.	 Press CTRL SHIFT S to bring up a dialog
+
+ӹӹ To apply a style using a shortcut key:
+Keyboard
+
+2.	 Select a style from the dialog that appears..
+
+1.	 Heading styles 1 to 3 already have the shortcut keys CTRL ALT num defined, where num is 1 for heading style 1 and so on.
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+33
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+ӹӹ To apply a style from styles task pane
+Mouse 1.	 Click on the dialog box launcher on the styles group on the home ribbon
+
+ӹӹ To change to another style:
+Mouse 1.	 Select the paragraph(s) (or select text) to be changed 2.	 Click on the required style from the Style window.
+
+2.	 Select any style visible
+
+34
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+Creating New Quick Styles
+You might want to create a new style and add it to the Quick Styles gallery, or you might want to add a style that does not appear in the Quick Styles gallery but that you use often.
+
+ӹӹ To create a new QuickStyle:
+Mouse 1.	 Select the paragraph(s) that you want to create style from 2.	 Change the format of the font, paragraph etc. as required 3.	 Go to the styles group on the Home ribbon 4.	 Select the down arrow to the bottom right of the visible style to open the gallery 5.	 Select save selection as new quick style from the available choices. 6.	 New style will be found in the quick style gallery. •	 It is also possible to create a new style using the styles task pane. The window can be opened by Clicking on the dialog box launcher on the styles group on the home ribbon
+
+Create New Style From Taskpane
+Creating and applying a new QuickStyle from existing text may seem easy enough but when you are preparing styles for a new document you will need to create them from scratch the easiest and most straightforward way of doing this is from the styles taskpane (shown previously). From here we can create manage export and import our styles as well as use tools like the style inspector.
+
+ӹӹ To create a style from the taskpane.
+Mouse 1.	 Use the dialog box launcher to show the styles taskpane as mentioned previously.
+
+35
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+2.	 Click on the new style button at the bottom of the taskpane. It is the first of three buttons a dialog appears.
+
+3.	 Give the style a name in the top text box. 4.	 Make choices from the following selection boxes. 5.	 Make a choice whether to make this style available in this document or to make it available to other documents based on the template your current document is based on. 6.	 Click OK to create style. Style type A style can be for various things if you look in the drop down box you will see various options a paragraph style will only apply paragraph formatting settings any text in your document for example.
+
+The most common type of style is the linked where you will be able to apply ALL types of formatting to selected text but the choice depends really upon your need. You may wish only one or two paragraph styles in your document but many character styles or vice versa.
+
+36
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I Based on
+
+Advanced formatting
+
+It saves time if the style you are going to create has many formatting changes to base it on a similar style to the one you are going to create as then you will not have to make quite so many formatting changes. Another important reason is that if the base style is modified by say changing the font it will then apply to all the styles based on it without you manually having to go and change them all. Style For Following Paragraph 1.	 Select the style that you want applying to the paragraph after you press return in your document the next paragraph will be formatted with the style you choose here. •	 E.G. When creating a Chapter Heading style, you might select the Heading 1 style in the Style For Following Paragraph box. This means that when you press ENTER at the end of a paragraph formatted with the Chapter Heading style, Word automatically applies the Heading 1 style to the next new paragraph. Add to QuickStyle list Set this option if you wish to see your style in the QuickStyle gallery as mentioned earlier remember it can be added or removed at any time
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+37
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I Format button
+
+Advanced formatting
+
+The format button is the way we set formats within a style. Hopefully by now you are used to all the dialog boxes you are likely to encounter while using this tool. You will encounter the font, paragraph, (the button to launch tabs dialog is in the paragraph dialog.) bullets and numbering, borders amongst others.
+
+Selecting any option within the format menu of the modify style dialog will launch the dialog boxes for each of the selected areas. This gives you every formatting option available for paragraph or character formatting. There is also an option to allow you to assign a shortcut key to the style to enable you to apply it easily.
+
+ӹӹ To set formats for a style
+1.	 Click on the Format button to define the formatting for the style and assign a short key to apply the style 2.	 When all options are determined you can see a preview of the formatted style in the preview area of the dialog. 3.	 When all selections have been made click ok. 4.	 All paragraphs using the style are automatically updated. OR 1.	 Use the limited format options within the create new style dialog box
+
+38
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+Shortcut Key
+This is extremely useful especially for typists as they do not need to stop in the flow of their work to apply styles they just hit a key combination to apply the predefined format for the text or paragraph they are currently typing, without leaving the keyboard. To set shortcut key Mouse
+
+1.	 While in the create style or modify style dialog click on the format button in bottom left corner 2.	 Choose shortcut key a dialog will appear. 3.	 In the press new shortcut key area press a combination of keys to apply the style. (use ctrl or alt or shift within your combination as these keys would not normally be used within typing.) 4.	 If the combination has already been assigned it will say what it has been assigned to if not it will say unassigned.
+
+39
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I 5.	 When you have decided upon your key combination click on the assign button.
+
+Advanced formatting
+
+6.	 If you change your mind you may always click on the remove button and then assign a different set of keys as the shortcut key. 7.	 When complete click on close •	 Select text or click in a paragraph use your shortcut key combination to apply your desired style
+
+Modifying A Style
+
+ӹӹ To update a style
+
+1.	 Select text that is styled with the style attributes that you want to change. •	 E.G. to change the attributes of the Heading 1 style, select text that has the Heading 1 style applied. 2.	 To view the attributes of a particular style, click the Styles Dialog Box Launcher, and then rest your pointer over a style in the list.
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+40
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+3.	 Format the selected text with the new attributes that you want. E.G. you might decide that you want to change the point size for the Heading 1 style from 16 points to 14 points. 4.	 In the styles task pane or the styles group on the home ribbon, right-click the style that you want to change. 5.	 Click Update to Match Selection. All text with the style that you changed will automatically change to match the new style that you defined. If you changed the styles in a document and the styles are not updating the way you expected, click the Styles Dialog Box Launcher, and then click Style Inspector to find out whether text was manually formatted instead of formatted by using styles. Styles can also be created and updated using the modify command from the manage styles dialog. You can set many more options for the style if you create or redefine it in this way. A Character Style can only change Fonts and Language formats, but it can be applied to a selection of less than a paragraph.
+
+ӹӹ To modify using the task pane
+Mouse
+
+1.	 Open the styles taskpane as previously described 2.	 Move your mouse over the style you wish to edit 3.	 Click on drop down arrow to the right of the style 4.	 Choose modify to open the modify dialog •	 The modify dialog looks the same as the create style dialog but some options may not be available to you anymore because of the nature of the style or because certain options are uneditable after creation. 5.	 Once your modifications are complete click on OK 6.	 Wherever that style has been used throughout your document the format should now update.
+
+41
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+Manage Styles
+
+ӹӹ To access the Style dialog:
+Mouse
+
+1.	 On the Home ribbon, click the Styles Dialog Box Launcher, 2.	 Click on the Manage Styles button, in the Styles task pane a dialog opens.
+
+3.	 Find the name of the style you wish to change 4.	 Select style and click Modify 5.	 Choose modify to open the modify dialog
+
+•	 The modify dialog looks the same as the create style dialog but some options may not be available to you anymore because of the nature of the style or because certain options are uneditable after creation. 6.	 Once your modifications are complete click on OK
+
+42
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+7.	 Wherever that style has been used throughout your document the format should now update.
+
+Import and export styles
+Copying Styles Between Documents
+The styles that you redefine, or new ones that you create, can only be used in the current document. (By default) Clearly you may want to copy a style into another document, rather than recreating or redefining it from scratch.
+
+ӹӹ To copy a style from one document to another:
+Mouse 1.	 Open the file which currently contains the styles you wish to export. 2.	 Click on the Manage Styles button, in the Styles task pane a dialog opens.
+
+3.	 Click on the Import/export button 4.	 Click Close File to close the active document and its attached template or close the Normal template.
+
+AXA Global Graduate Program
+Find out more and apply
+
+43
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+5.	 Then click Open File, and open the template or file you want. 6.	 Click the items you want to copy in either list, and then click Copy 7.	 The list of styles on the left-hand side of the dialog belongs to the current document.
+
+ӹӹ To specify the document which will be receiving the new style(s):
+1.	 Click on the Close File button (on the right-hand side of the dialog) 2.	 The button will then change to an Open File button, click on this to select the target document 3.	 Select the styles(s) in the left-hand list, and click on the Copy button. To select more than one style, click on the first style and then hold down CTRL and click on the other required styles. To select all the styles, click on the first, then hold down SHIFT and click on the last style. If you copy a style to a file that already contains that style, E.G. Heading 1, you will receive a message asking for confirmation. In addition to copying styles, you can delete or rename styles in either list using the Delete and Rename buttons. When you delete a style, you are asked for confirmation.
+
+Copying To/From Document Templates
+If the document where the styles have been changed was based on a particular Template, the new styles can be copied back to the Template. This means that new documents based on the Template will automatically pick up the style changes. However, to update existing documents with changes in the Template, you would have to copy the styles from the Template. Updating the Template The procedure for copying style changes in a document back to its underlying Template is a very similar to copying to another document (see previous page).
+
+44
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+ӹӹ To update the template with the new styles:
+Mouse 1.	 Open the file which currently contains the styles and click on the Manage Styles button in the Styles task pane a dialog opens. 2.	 Click on the Import/export button •	 Word initially assumes that you want to copy the styles to NORMAL.DOTM 3.	 Select the underlying document template by: •	 Click on the Close File button (on the right-hand side of the dialog) •	 The button will then change to an Open File button, click on this to select the target template 4.	 Select the styles(s) in the left-hand list, and click on the Copy button. You will be prompted for confirmation if the styles you are copying already exist in the template. 5.	 Click on Close to close the Organiser dialog. You will then be asked whether you want to save the changes made to the template. The same prompt occurs when you save and close the current document. It is a final chance to either accept or reject the changes to the document template. Updating A Document The method of copying styles from the template back into existing documents is much simpler.
+
+To Update Document Styles With Template Styles:
+Mouse
+
+1.	 Open the document which needs updating 2.	 Click the File Tab and click on options select Add-Ins. Select which add-in to manage from the drop down box near the bottom of the screen (templates) and click GO a dialog appears
+
+45
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+3.	 The name of the underlying document template should appear in the dialog. To copy the styles into the current document: 4.	 Click in the Automatically update document styles check-box 5.	 Click on OK to return to the document 6.	 The styles in the document will be updated and will continue to be updated automatically if any other changes are made to the template in future.
+
+46
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+Defining styles automatically
+Using Autocorrect
+
+To have Word automatically define styles, from the AutoCorrect options. 1.	 Open the Autocorrect options these are accessed by •	 going to the File Tab, options •	 Go to the proofing tab on the left •	 Go to the autocorrect options button in the autocorrect section on the right. Styles can also be updated automatically when manual formatting is applied to text that is already formatted with a specific style. 2.	 Go to the AutoFormat As You Type tab 3.	 Check Define styles based on your formatting
+
+Using The Style Option
+
+ӹӹ To have Word automatically update a style:
+Mouse 1.	 On the Home ribbon, click the Styles Dialog Box Launcher,
+
+2.	 Click on the Manage Styles button, in the Styles task pane a dialog opens.
+
+47
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+3.	 Find the name of the style you wish to change 4.	 Select style and click Modify 5.	 Select the Automatically update check box. The Normal style cannot be updated automatically.
+
+Style Inspector
+The style inspector gives you a preview and analysis of the style of any text you happen to click on with options to clear any aspects of the style that don’t meet with your approval or to clear all. For a further breakdown click on the reveal formatting button on the bottom left of the window to give a complete breakdown of your style
+
+ӹӹ To show style inspector
+Mouse
+
+1.	 On the Home ribbon, click the Styles Dialog Box Launcher, 2.	 Click on the style inspector button, in the Styles task pane a dialog opens.
+
+48
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+ӹӹ To reveal formatting
+Mouse
+
+1.	 Open the style inspector 2.	 Click on the button on the bottom left of the window 3.	 The reveal formatting task pane opens.
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+49
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+4.	 Clicking on any of the blue hyperlinks opens the dialogs to edit any part of that style it is a very useful tool for editing your style.
+
+ӹӹ To close style inspector
+Mouse 1.	 Click the cross on top right of dialog
+
+Printing Styles
+To print a list of styles from the active document select Styles in the Print What list box of the File, Print Window. (For more information see the printing section in the Introductory manual)
+
+50
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+Quickstyle sets
+In Microsoft Office Word 2010, QuickStyles are sets of styles that are designed to work together to create an attractive and professional looking document. In most cases, you won’t change styles in a Quick Style set because the styles have been designed to complement one another, and it’s easier to use a different Quick Style set. But, under certain circumstances, you might want to change the attributes of a style in a Quick Style set.
+
+Adding & Removing Styles From QuickStyle Gallery
+Occasionally, a style is removed from the Quick Styles gallery, or it does not appear in the list of styles. When that happens, it’s easy to move a style to the Quick Styles gallery so it’s available for you to use.
+
+ӹӹ To show styles in taskpane
+1.	 On the Home ribbon, click the Styles Dialog Box Launcher, to open the styles task pane and then click Options bottom right hand corner
+
+2.	 Under Select styles to show, click All styles.
+
+51
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+3.	 All styles should now appear in taskpane
+
+ӹӹ To add styles to QuickStyle gallery
+1.	 Move your mouse over the style you wish to appear in the quickstyles gallery a drop down arrow will appear to the right of the style. 2.	 Click drop down arrow and select add to quick style gallery
+
+ӹӹ To Remove a style from the Quick Styles gallery
+1.	 On the Home ribbon, in the Styles group, right-click the QuickStyle that you want to remove from the gallery. 2.	 Click Remove from Quick Styles gallery. Or 1.	 From the styles taskpane
+
+52
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+2.	 Move your mouse over the style you want to remove from the quick styles gallery a drop down arrow will appear to the right of the style. 3.	 Click drop down arrow and select Remove from quick style gallery Removing a style from the Quick Styles gallery does not remove the style from the entries that appear in the Styles task pane. The Styles task pane lists all of the styles in the document.
+
+Changing Style Sets
+
+Changing the style sets is relatively easy
+
+ӹӹ To change a style set
+Mouse
+
+1.	 Click on the change styles button to the right of the styles group 2.	 Move down to style sets and a selection of different style sets appear
+
+53
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I 3.	 You may change style sets as often as you wish
+
+Advanced formatting
+
+Modifying Style Sets
+The styles in a style set are made up of colours, fonts, and paragraph spacing these can be changed in a few clicks. Your document will then be updated with your choices when you have mixed and matched these various components you may save your selections to another style set allow you to use it in the future.
+
+ӹӹ To change colours scheme
+1.	 Select style set you wish to modify 2.	 Click on the change styles button and move down to colours 3.	 Select a colour scheme for your style set 4.	 Your colour scheme will have updated your style set and document.
+
+ӹӹ To change font scheme
+Mouse 1.	 Select style set you wish to modify 2.	 Click on the change styles button and move down to fonts
+
+54
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+3.	 Select a font scheme for your style set 4.	 Your font scheme will have updated your style set and document.
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+55
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+ӹӹ To change Paragraph spacing’s
+Mouse
+
+1.	 Select style set you wish to modify 2.	 Click on the change styles button and move down to Paragraph spacing 3.	 Select a spacing scheme for your style set 4.	 Your spacing scheme will have updated your style set and document.
+
+Saving A Style Set
+Whether you have created all your styles manually or have modified existing styles add used ones to the QuickStyle gallery and remove any you do not need so that the gallery reflects all the styles you will use in a document(s) you might be using or creating in the future and we can then save this as a style set that can be transferred to other machines or quickly accessed on this one if you use several style sets
+
+ӹӹ To save a style set
+Mouse 1.	 Make sure all styles you wish in style set are added to the gallery 2.	 Make sure all styles you do not wish are removed from gallery 3.	 Ensure all styles have been modified to your liking 4.	 Click on the change styles button 5.	 Move to the style set selection 6.	 Below available style sets click on save as QuickStyle set 7.	 The save a QuickStyle set dialog opens 8.	 Enter a style set name (it is best not to change location because word may not be able to locate it in the future and add it into the menu) 9.	 Click on save •	 You may load this style set at any time by following the instructions for changing style sets previously described.
+
+56
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+Document themes
+Apply A Document Theme
+Themes in 2010 have been enhanced by adding many more themes for you to choose from than in 2007. To give you more choice when producing professional looking and coherently formatted documents.
+
+•	 theme: A set of unified design elements that provides a look for your document by using colour, fonts, and graphics. You can quickly and easily format an entire document to give it a professional and modern look by applying a document theme A document theme is a set of formatting choices that include a set of theme colours, a set of theme fonts (including heading and body text fonts), and a set of theme effects (including lines and fill effects). Programs such as Microsoft Office Word, Excel, and PowerPoint provide several predefined document themes, but you can also create your own by customizing an existing document theme, and then by saving it as a custom document theme. Document themes are shared across Office programs so that all of your Office documents can have the same, uniform look.
+
+57
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+ӹӹ To Apply a document theme
+Mouse 1.	 On the Page Layout ribbon, in the Themes group, click Themes. To select a theme. Or 1.	 If a document theme that you want to use is not listed, click Browse for Themes to find it on your computer or a network location. 2.	 Select a theme to apply it to your current document •	 To search for other document themes on Office Online, click Search Office Online. Custom is available only if you created one or more custom document themes. For more information about creating custom document themes.
+
+Customise A Document Theme
+To customise a document theme, you start by changing the colours, the fonts, or the line and fill effects that are used. Changes that you make to one or more of these theme components immediately affect the styles that you have applied in the active document. If you want to apply these changes to new documents, you can save them as a custom document theme.
+
+58
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+Theme Colours
+
+Theme colours contain four text and background colours, six accent colours, and two hyperlink colours. The colours in the Theme Colours button represent the current text and background colours. The set of colours that you see next to the Theme Colours name after you click the Theme Colours button represent the accent and hyperlink colours for that theme. When you change any of these colours to create your own set of theme colours, the colours that are shown in the Theme Colours button and next to the Theme Colours name will change accordingly.
+
+ӹӹ To customise the theme colours
+1.	 On the Page Layout ribbon, in the themes group, click Colours.
+
+2.	 Click Create New Theme Colours the following dialog is displayed
+
+3.	 Under the create new Theme colours dialog, click the drop down button of the theme colour element that you want to change.
+
+59
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I 4.	 Select the colours that you want to use. •	 Under Sample, you can see the effect of the changes that you make. 5.	 Repeat step 3 and 4 for all of the theme colour elements that you want to change. 6.	 In the Name box, (bottom) type an appropriate name for the new theme colours. 7.	 Click Save.
+
+Advanced formatting
+
+To return all theme colour elements to their original theme colours, you can click Reset before you click Save.
+
+Theme Fonts
+Theme fonts contain a heading font and a body text font. When you click the Theme Fonts button , you can see the name of the heading font and body text font that is used for each theme font below the Theme Fonts name. You can change both of these fonts to create your own set of theme fonts.
+
+ӹӹ To customise the theme fonts
+1.	 On the Page Layout ribbon, in the Themes group, click Theme Fonts. 2.	 Click Create New Theme Fonts. 3.	 In the Heading font and Body font boxes, select the fonts that you want to use.
+
+4.	 The sample is updated with the fonts that you select. 5.	 In the Name box, type an appropriate name for the new theme fonts. 6.	 Click Save.
+
+Theme Effects
+Theme effects are sets of lines and fill effects. When you click the Theme Effects button, you can see the lines and fill effects that are used for each set of theme effects in the graphic that is displayed with the Theme Effects name. Although you cannot create your own set of theme effects, you can choose the one that you want to use in your own document theme.
+
+60
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+ӹӹ To select a set of theme effects
+
+1.	 On the Page Layout ribbon, in the Themes group, click Theme Effects. 2.	 Select the effect that you want to use.
+
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+61
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+Save A Theme
+Any changes that you make to the colours, the fonts, or the line and fill effects of a document theme can be saved as a custom document theme that you can apply to other documents.
+
+ӹӹ To save a document theme
+1.	 On the Page Layout ribbon, in the Themes group, click Themes. 2.	 Click Save Current Theme. 3.	 The save current theme dialog appears 4.	 In the File Name box, type an appropriate name for the theme 5.	 Click save. A custom document theme is saved in the Document Themes folder and is automatically added to the list of custom themes.
+
+Columns
+You can setup pages in documents where the text is laid out “newspaper style” in columns. Word will automatically “section off ” the area where the columns are active, so you will see continuous section breaks (see section breaks) appear above and below the column area.
+
+62
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+Newspaper Columns
+A columnar layout can either be tabular (where the information is divided both vertically and horizontally) or snaking columns, which have only a vertical division. The ‘snaking’ effect means that once column 1 is full, the text “snakes” on to the top of the next column, just like in a newspaper.
+
+ӹӹ To set up newspaper columns:
+Mouse 1.	 Select the text you wish to have in columns OR click at the point you wish the columns to start. 2.	 Go to the print layout ribbon and then to the page setup group. Click on the columns button 3.	 Select the number of columns of columns you wish from the displayed list.
+
+63
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+OR 1.	 Click on more columns to display the columns dialog box. 2.	 Type in the number of columns required, •	 E.G. 3, adjust the space between columns if necessary (the default is 1.25cm).
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+64
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+3.	 You have the choice of having lines separating the columns. Lines will be the length of the longest column. Lines will only be printed if there are two or more columns. 4.	 Click on the box at Line Between. 5.	 To see the line use Print Preview or print layout view. 6.	 If you wish to have columns of different widths ensure you untick the equal column width checkbox 7.	 When all options are selected click ok to apply your columns
+
+Entering Text
+Once your document has been set up with a columnar layout, you can enter text in the usual way. Make sure you are in Print layout View; otherwise you will not see a true representation of how your document will print out.
+
+Copying, Moving And Deleting Text Between Columns
+Text can be easily moved and copied between columns in Word once they have been set up. To Move, copy and delete text between columns: Mouse 1.	 Select the text to be copied and copy it with your preferred method. 2.	 Place the Insertion Point at the point where you wish to copy it to and press the Paste icon. 3.	 Select the text to be moved and cut it with your preferred method. 4.	 Place the Insertion Point at the point where you wish to copy it to and press the Paste icon. 5.	 Select the text to be deleted and press the delete key..
+
+Column Breaks
+If you want to end a column before the bottom of the page, you will need to insert a column break. Ensure show/hide characters are visible or you will not be able to see where the break is in case you need to delete it.
+
+ӹӹ To insert a column break:
+Mouse
+
+1.	 Click on Breaks from the page setup group on the print layout tab 2.	 Select Column break the break will be inserted. It can be deleted just like a page break or any other character with the delete key on the keyboard.
+
+65
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I OR 1.	 Keyboard 2.	 Press CTRL SHIFT ENTER.
+
+Advanced formatting
+
+3.	 This will force a new column to appear for you to use. It behaves much like a forced page break. Just imagine each column is like a separate page and column breaks rather than page breaks are used to end that column and allow you to the top of the next. In draft view, columns are displayed as one column continuing down the page. Each time there is a snap to a new column this is shown as a dotted line with column Break labelled on it. If you try to use the columns button in this view, Word will change you to print Layout view.
+
+Sections
+Dividing a document into sections allows you to apply different page set-up options in different pages of your document. •	 E.G. you might want page 3 of your document in landscape because it contains a very wide table, but the rest of the document is a report that needs to be in portrait orientation. You may want different margin sizes in different parts of your document or page numbering restarting in different formats at different points. Columns use sections so that each section can be treated differently from the others. Word sometimes adds the section breaks to a document for you. especially when you change the format for a selection.
+
+On the far left corner of the status bar there is an indicator that tells the user which page and in what section the insertion point is currently working. E.G.: Page 13 Section 3.
+
+66
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+Section Breaks
+There are three types of break that will be examined here.
+
+In Print layout view, breaks are invisible unless you show/hide characters. This feature lets you see all the special characters that make formatting you have carried out, visible, other than text formatting. That is – spaces, carriage returns and tabs as well as breaks. You will also see other little symbols to indicate such things as table cells. To see the characters, click on the show/hide characters button. On the Home ribbon, paragraph group. •	 You can also switch to Draft view and see breaks without activating other commands but this view can be confusing, especially when working with columns. A page break is not a section break Continuous Section Breaks Use the continuous section break to effectively make a fresh start in your document. Whatever kinds of formatting and other items went before – columns, fields entered, styles etc., a continuous break makes the section above it just that, a section. It also allows you to change the page set-up options for that section only without affecting the whole document.
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+67
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I Next Page Section Breaks
+
+Advanced formatting
+
+Inserts a section break, breaks the page, and starts the new section on the next page. This feature can be used •	 E.G. to insert different headers and footers in the new page section. Odd Page And Even Page Section Breaks Useful when your document is set up with double-sided printing and mirror margins, these section breaks allow you to determine whether the next page should be odd (print on the right-hand side of the double-page) or even (print on the left-hand side of the double-page). What Is Stored Within A Section? A section can have its own unique headers and footers, margins and page orientation. It may also have a different number of snaking columns to the rest of the document.
+
+Creating A Section Break
+Sometimes Word automatically creates section breaks for you. •	 E.G. when you make one of your pages landscape, or if you format some of the text to be displayed in a different number of columns. Otherwise, you have to create the section break manually. To create a section break: Mouse 1.	 Click on Breaks from the page setup group on the print layout ribbon
+
+2.	 Select from the menu that appears. •	 2010 gives a little explanation by the side of each option.
+
+68
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+3.	 The section break will appear. 4.	 Select next page if you want the section start to be on the next page, Or 1.	 Choose Continuous if the section should run through on the same page. Or 1.	 Choose Odd Page/Even Page to determine which side of the book the new section should begin on. The section break is displayed just before the new section: Word initially copies the header and footer, margin settings and page orientation into the new section. The margin and orientation settings can be easily changed from the Page Set-up dialog, since Word will assume you want to only affect the current section.
+
+Handling Headers And Footers
+
+69
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+The headers and footers in the new section will be linked to the previous section. This means that if you change the header or footer in the first section, those in the second section will automatically change.
+
+ӹӹ To unlink a header/footer from the previous section:
+Mouse 1.	 Position the insertion point in the second section
+
+2.	 Choose Header or Footer from the insert ribbon header & footer group and select edit header and footer from the bottom of the displayed options 3.	 Click on the Link to Previous button to turn off the link to deselect the highlighted button The link between any other two sections can be broken in the same way. However sometimes you may want to keep the link, particularly if you are working in a Master Document - see the section on Master Documents later in this manual.
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+70
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+Moving Between Sections
+You can quickly move from one section to another by using the F5 key. The goto tool
+
+ӹӹ To move to a specific section:
+Keyboard 1.	 Press F5 to open the goto dialog. Click on Section, then type in the section number 2.	 Click on the Go To button. Or 1.	 Choose Header or Footer from the insert ribbon header & footer group and select edit header and footer from the bottom of the displayed options.
+
+2.	 Go to the design ribbon, and use the navigation buttons to move from section to section.
+
+Removing A Section Break
+
+You may need to merge two sections into one by deleting a section break.
+
+71
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+ӹӹ To delete a section break:
+Mouse 1.	 Select the section break to be removed and Press DELETE •	 The two sections would then become one section. It is important to note that this new section inherits all the page set-up, column and header/footer settings from the second of the two sections.
+
+Section Properties
+In Print layout view and with the show/hide characters feature active, double click any of the continuous section breaks in the document. The Page Set-up dialog box will appear, usually displaying the Layout page. To switch to margins options, click the Margins ribbon. You can now adapt the print layout, margins and other options for the section only, as long as you do not change Apply to: This section. Click the Line Numbers… button on the layout page for options on adding a number for each line of text in the section.
+
+Section Properties
+When you set properties in a dialog box such as page orientation header/footers etc you will notice (if applicable) a box somewhere on the dialog showing one of the following options: •	 Apply to this section only •	 From this point forward •	 Whole document It is important to make the right choice here as it will greatly affect how your document will appear The following exercise shows settings for headers and footers. please note the “apply to what part of the document box” on the bottom left. Do you really want these settings applied to one section or the whole document.
+
+ӹӹ To Change the properties for a section:
+1.	 Double click the section break. The Page Set-up dialog will appear. 2.	 In the Page Set-up dialog box, set the options you wish to change 3.	 Click OK. Your changes will have affected only the section you are in.
+
+72
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Advanced formatting
+
+73
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Outlining / Master documents
+
+Section 3	 Outlining / Master documents
+By the end of this section you will be able to: •	 View a document outline •	 Outline a document using styles •	 Promote and demote outline levels •	 Expand and collapse outline levels •	 Move and copy outline levels •	 Use outline numbering •	 Apply preset numbering to headings in a document •	 Customise the numbering style for headings •	 Remove heading numbering •	 Use Master document view •	 Create a new Master document •	 Convert an existing document into a Master •	 Insert sub-documents into a Master document •	 Split, merge and remove subdocuments •	 Allow multiple-user access to a Master document •	 Format Master documents. •	 Print Master documents
+
+74
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Outlining / Master documents
+
+Document outlines
+What Is A Document Outline?
+An outlined document is one with a structure of headings, at various levels, with associated text. E.G. the chapter of this manual could be presented in outline.
+
+When To Use Outlining
+Outlining is most useful on larger documents or ones with a definable structure. An outlined document is easy to reorganise and restructure. Word also provides standard styles for the levels of an outline, which can be redefined for ease and speed of formatting. Tables of contents can be readily generated from outlines and the levels of the outline numbered in various ways.
+
+Outlining A Document
+Word provides a special view and nine heading level styles to create outlines. Outline view contains an outline bar to help quickly perform outlining tasks such as changing and displaying various heading levels. Existing documents can be outlined or a document outline can be created in a new document.
+
+ӹӹ To create an outline in a new document:
+Mouse 1.	 Create a new document using your preferred method. 2.	 Choose outline view from the status bar view buttons OR 1.	 Go to the view ribbon and select Outline from the document views Group. 2.	 Type a heading. Word automatically formats the text as heading level 1. 3.	 Press ENTER and then type the text for the next heading or body text paragraph. The new entry will have the same level as the previous entry. 4.	 To change the heading level, do one of the following:
+
+75
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Outlining / Master documents
+
+To create a Lower-level heading - Demote Higher-level heading - Promote Paragraph of body text from a heading
+
+Click ALT SHIFT → ALT SHIFT ←
+
+Press
+
+ALT SHIFT 5 On the numeric keypad
+
+5.	 Repeat steps 4 and 5 for each heading and body text paragraph in the outline.
+
+Outlining An Existing Document
+Outline an existing document to view its organisation or quickly change its structure.
+
+ӹӹ To outline an existing document:
+Mouse 1.	 If the document is not in outline view, choose go to the view ribbon and select Outline from the document views Group. The text of the document is initially paragraphs of body text. 2.	 Select a paragraph to change into an outline heading. 3.	 Change the heading level (see table previous). 4.	 Repeat steps 2 and 3 for each heading.
+
+The stuff you'll need to make a good living
+
+STUDY. PLAY.
+
+The stuff that makes life worth living
+
+NORWAY. YOUR IDEAL STUDY DESTINATION.
+WWW.STUDYINNORWAY.NO FACEBOOK.COM/STUDYINNORWAY
+
+76
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I Or 1.	 Select a paragraph to change into an outline heading.
+
+Outlining / Master documents
+
+2.	 Use the drop down box available between the promote/demote arrows to apply a specific level of heading to paragraph. In all other views view, apply heading level styles like any other style.
+
+Using An Outline
+
+ӹӹ To show heading levels:
+Mouse
+
+1.	 On the Outline ribbon Use the drop down arrow on the show level box and click Show All levels or press ALT SHIFT A to show all heading levels and text.
+
+Showing Text
+Text can be expanded or collapsed below a certain level.
+
+ӹӹ To expand or collapse text:
+Mouse
+
+77
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Outlining / Master documents
+
+1.	 Position the insertion point in a paragraph and click the plus button on the Outline ribbon to expand text below the heading or the minus button to collapse text below the heading.
+
+Moving Headings And Body Text In An Outline
+Moving headings in an outline can quickly restructure a document. When a heading is moved, all subheadings and body text under that heading move with it, if the subheadings and body text are collapsed under the heading.
+
+ӹӹ To move headings:
+Mouse
+
+1.	 Drag the heading symbol, or body text symbol, at the left of the heading, or text, up or down to the new position or click the Move Up or Move Down buttons on the outline ribbon. Word moves all subtext with the heading. Or Keyboard 1.	 Position the insertion point in the heading. 2.	 To prepare the heading to be moved, collapse the heading (see above). 3.	 To move the heading above the preceding paragraph, press ALT SHIFT ↑. 4.	 To move the heading below the following paragraph, press ALT SHIFT ↓
+
+Heading style numbering
+Outline Numbering
+Outline numbering allows you to create multi-level lists. You can either apply a list format to normal text or use special outlining for text that has styles attached to it. The example below shows what can be achieved with outline numbering.
+
+78
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Outlining / Master documents
+
+1)	 Word ‘2002 advanced course topics include: a)	 Advanced table features 1)	 Drawing a table 2)	 Adjusting column widths and row heights 3)	 Formulae in tables d)	 Sections 1)	 Why use sections? 2)	 Dividing a document into sections c)	 Styles
+
+I joined MITAS because I wanted real responsibili� I joined MITAS because I wanted real responsibili�
+
+Maersk.com/Mitas www.discovermitas.com
+
+�e Graduate Programme for Engineers and Geoscientists
+
+� for Engin
+
+M
+
+Real work International Internationa al opportunities �ree wo work or placements
+
+Month 16 I was a construction M supervisor ina cons I was the North Sea supe advising and the N he helping foremen advis s solve problems Real work he helping International Internationa al opportunities �ree wo work or placements s solve p
+Click on the ad to read more
+
+79
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Outlining / Master documents
+
+Applying A Multi-Level List
+
+You can apply lists using Word’s automatic numbering tools that have many different list levels. This is useful if the list you are creating has sub-points which need to line up properly. Word will initially use the top level style for all list items. Use the keyboard to demote and promote items to the required levels.
+
+ӹӹ To apply a multi-level list:
+Mouse 1.	 Type the list one line under the other. 2.	 If you want blank lines of space between list items select the lines and use the Space after setting in the Paragraph dialog. 3.	 Use the drop down arrow to the right of the multi-level numbering button to see a selection of multi-level numbering styles after making a selection click to apply style to highlighted list.
+
+80
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Outlining / Master documents
+
+ӹӹ To promote an item:
+Mouse
+
+1.	 Position the cursor somewhere in the paragraph, or if you want to demote several paragraphs, select them and click the indent button in the paragraph group or press the tab key. Or
+
+1.	 Use the drop down arrow to the right of the multi-level numbering button and near the bottom choose change list level and select a new level for your list. To demote an item: Mouse
+
+1.	 Position the cursor somewhere in the paragraph, or if you want to demote several paragraphs, select them and click the outdent button or hold down the shift and tab key. Or
+
+1.	 Use the drop down arrow to the right of the multi-level numbering button and near the bottom choose change list level and select a new level for your list. If you use the standard Heading Styles in a document, you can then apply preset or customised numbering to all the Heading Level paragraphs. Numbering can be applied in any of Word’s standard views (Draft, Print layout or Outline). Before you apply Heading Numbering, it may be advisable to apply the Heading Level Styles to the appropriate paragraphs. If you subsequently change a paragraph from one Heading style to another, E.G. from heading 1 to heading 2, the numbering will automatically update.
+
+81
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Outlining / Master documents
+
+To Define A New Multi Level List
+If none of the multi level lists suit your purposes it is possible to define one of your own with many options all in one place to set the indents and number styles required for your document Level The Level field on the left of the dialog determines which Heading level Numbering you are modifying. To select a different level, either scroll up or down or click on the required level. Initially, Word always defaults to Level 1. Number Style The Number style: field controls the style of numbering, whether it is Arabic, Roman numerals, words or bullets. These styles are selected from the drop-down list. You can also specify what text (if any) should appear immediately before and after the number by adding it in the Number format field, and you can change the Font of the number. If you don’t want any numbering on a specific level, choose None from the Number style: drop-down. The Start at: field enables you to specify if the numbering should start at something other than one. Previous Level Number If you are creating a Legal or similar style, you can choose to make Levels 2-9 include the numbering of the previous level. E.G. if Level 1 style is 1, you can make Level 2 appear as 1.1. This option is not available for Level 1, as Level 1 has no previous level.
+
+Need help with your dissertation?
+Get in-depth feedback & advice from experts in your topic area. Find out what you can do to improve the quality of your dissertation!
+
+Get Help Now
+
+Go to www.helpmyassignment.co.uk for more info
+
+82
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I Number Position
+
+Outlining / Master documents
+
+In this section, you can choose the alignment of the numbered text and where you want the numbers aligned. The Text position can be used to specify a precise measurement between the number and the text.
+
+ӹӹ To define new list
+Mouse
+
+1.	 Use the drop down arrow to the right of the multi-level numbering button and near the bottom; choose define new multi-level list a dialog (below) will appear.
+
+2.	 Select a level to modify (1-9) 3.	 Click the drop-down list arrow to the right of the Number style box. Word offers a variety of different numbering styles for lists, standard Arabic numbers, Roman numerals and so on. 4.	 Click on the required style from the displayed list. 5.	 Click on the font button. The font dialog opens allowing you to select font options for the selected number style. 6.	 Add other characters to the enter formatting for number text box to enhance your number style. Use this option to add extra digits to numbers (e.g. if you want extra decimal places) or to add prefix and suffix characters (e.g. the word “Item”, -dash etc.).
+
+83
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I Position
+
+Outlining / Master documents
+
+1.	 Use the number alignment drop down box to allow a change in alignment of the numbers to left, right or centre. 2.	 Either enter a number or use the spin buttons to set the indent for the number or character for this level. 3.	 Either enter a number or use the spin buttons to set the indent for the text you will type at this level (where you want your text to start). 4.	 If you want the same set of indents for all levels then click the set for all levels button the indents chosen will be applied for all levels within your list. 5.	 You may now work through the levels selecting the alignment , number style and formatting for as many levels as you would use. Click ok to complete and create your new multi level list
+
+Remove Heading Numbers
+
+ӹӹ To remove Heading Numbers from the whole document:
+Mouse 1.	 Select the heading style you wish to remove the numbers from 2.	 Select the highlighted numbering button on the home ribbon and select none from the options displayed.
+
+Master documents
+
+A master document helps you organise and maintain a long document by dividing it into several subdocuments. With a master document, you can work either with the entire long document or with any individual subdocument. You can create a table of contents and an index in the master document, which refers to all the subdocuments, and you can build cross-references between two documents. You can work with a master document either in Master Document View or Draft View. If you want to work on the entire master document as if it were a single document, work in Draft View. Master Document View, however, is used to create, insert, open and reorganise subdocuments in the long document.
+
+84
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Outlining / Master documents
+
+ӹӹ To change to Master Document view:
+Mouse
+
+1.	 Select Outline from the View ribbon. Click on the show Document icon to reveal the buttons below.
+
+85
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+A brief description of each of the tools is listed below:
+
+Outlining / Master documents
+
+Collapse Subdocuments
+
+Create a Subdocument Remove a Subdocument Insert a Subdocument Merge two Subdocuments Split a Subdocument	 Lock or Unlock the selected document
+
+It is important to note that the total size of a master document and all of its subdocuments cannot exceed 32MB, excluding graphics. Also, a master document cannot contain more than 8 subdocuments.
+
+Setting Up A Master Document
+There are three ways to set up a master document: 1.	 You can create a new master document from scratch; 2)	 convert an existing document into a master document; 3)	 combine existing documents to create a new master document. Whichever method you use, you need to be working in Master Document view.
+
+1 -Creating A New Master Document
+Use this procedure for creating a new master document from scratch
+
+86
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Outlining / Master documents
+
+ӹӹ To create a new master document:
+Mouse 1.	 Open a new document and switch to outline view 2.	 Click on show document for the document 3.	 Create subdocuments from the outline by clicking on the create button.
+
+4.	 Move within the main document to create other subdocuments. 5.	 Save the master document as you would with any other document. All of the subdocuments will be saved in the same location as the master with default names. (First letter of master and subdocument number)
+
+Creating A Master Document Outline
+The outline is simply a list of the topics that your overall document is going to discuss. When you create the outline for the Long Document, you must use the standard Heading styles (Heading 1-9). It is a good idea to leave a couple of blank lines at the start of the outline, since this will leave space for a table of contents, and an overall document title.
+
+Create the Subdocuments from the Outline
+Each outlined topic together with its subtopics can be divided into a subdocument.
+
+ӹӹ To create subdocuments using the master document outline:
+Mouse 1.	 Select the headings and text that you want to divide into a subdocument. 2.	 Click on the Create Subdocument button.
+
+87
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I Outline view
+
+Outlining / Master documents
+
+3.	 Word then encloses each subdocument in a box, displaying a Subdocument icon in the upper-left corner of each box. The subdocuments are also separated with section breaks - the breaks can be seen in Draft view.
+
+Brain power
+
+By 2020, wind could provide one-tenth of our planet’s electricity needs. Already today, SKF’s innovative knowhow is crucial to running a large proportion of the world’s wind turbines. Up to 25 % of the generating costs relate to maintenance. These can be reduced dramatically thanks to our systems for on-line condition monitoring and automatic lubrication. We help make it more economical to create cleaner, cheaper energy out of thin air. By sharing our experience, expertise, and creativity, industries can boost performance beyond expectations. Therefore we need the best employees who can meet this challenge!
+
+The Power of Knowledge Engineering
+
+Plug into The Power of Knowledge Engineering. Visit us at www.skf.com/knowledge
+
+88
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I Draft view
+
+Outlining / Master documents
+
+Saving The Master Document
+To save the master document and all of the subdocuments, save the Master Document as you would any other document. When you assign a filename and click on OK, Word automatically creates filenames for all the subdocuments. It uses the first character of the heading that begins each subdocument. E.G. if you have a subdocument that begins with “Chapter 1”, the resulting filename will be “CHAPTERI.DOC”. If a subdocument filename is going to conflict with an existing file, then Word uses part of the heading text and appends a number for the filename, E.G. “CHAP1234.DOC”.
+
+2 -Convert An Existing Document Into A Master Document
+It may be advantageous in some situations to convert existing files to be used as master and sub documents.
+
+ӹӹ To change a document into a master:
+Mouse 1.	 In your existing document, switch to outline view and click on show document to access the the commands. 2.	 Use Outline view to promote and demote the heading styles as necessary 3.	 Then highlight the necessary text and create the subdocuments from the outline and save the master document. These two processes are covered in the previous section, “Creating a New Master Document”.
+
+3 -Combining Documents Into A Master Document
+You may already have several documents which you want to combine together to make a master document.
+
+89
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Outlining / Master documents
+
+ӹӹ To incorporate documents into a master:
+Mouse 1.	 Open a new or existing document and switch to Outline view, click on the show document button. 2.	 Add some space at the start of the document (press ENTER a couple of times) if you wish to leave room for other items. 3.	 Position the insertion point where you want to insert the first document 4.	 Click on the Insert Subdocument button and select the file from the Insert Subdocument dialog.
+
+5.	 Repeat these last two steps for all the subdocuments. When you save the Master Document, all the subdocuments retain their original filenames and locations Avoid inserting a subdocument at the top of the Master Document. Try to leave a few blank lines, as this will make it easier to include a table of contents and a title page.
+
+Opening A Subdocument
+You can either open a subdocument from within the master document or as a completely separate file in the normal way.
+
+ӹӹ To use the master to open a Subdocument:
+Mouse 1.	 Open the master document and switch to outline view 2.	 Double-click on the subdocument icon belonging to the subdocument you want opened An advantage to opening a file this way, is that you don’t have to remember what the file is called or where it is saved.
+
+Renaming A Subdocument
+If you want to rename a subdocument or save it in a different location, you must open the subdocument from within the master.
+
+ӹӹ To rename a subdocument:
+Mouse 1.	 Open the master document and switch to Outline view, click on the show document button. 2.	 Double-click on the subdocument icon to open the subdocument you want renamed 3.	 Use the File Tab, Save As, word document button to open the save as dialog to rename and relocate the subdocument. 4.	 Close the subdocument, then save and close the master document
+
+90
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Outlining / Master documents
+
+Do not use File-Manager to rename or move subdocuments, if you do, it breaks the link between the master document and the subdocument.
+
+Splitting A Subdocument
+You can split a subdocument if it becomes too large, this would also allow multiple authors to work on parts of the subdocument. Conversely, you can merge subdocuments if you want to combine small files.
+
+ӹӹ To split a subdocument in two:
+Mouse 1.	 Position the insertion point in front of the heading where you want the second subdocument to begin 2.	 Click on the Split button.
+
+Merging Subdocuments
+
+ӹӹ To merge two subdocuments into one:
+Mouse
+
+Challenge the way we run
+
+EXPERIENCE THE POWER OF FULL ENGAGEMENT… RUN FASTER. RUN LONGER.. RUN EASIER…
+1349906_A6_4+0.indd 1
+
+READ MORE & PRE-ORDER TODAY WWW.GAITEYE.COM
+
+91
+Download free eBooks at bookboon.com
+
+22-08-2014 12:56:57
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Outlining / Master documents
+
+1.	 Open master document and switch to Outline view, click on the show document button. 2.	 Move the subdocuments next to one another. (If they are not already, using the outlining tools mentioned previously) 3.	 Click on the subdocument icon of the first subdocument 4.	 Hold down SHIFT and click on the second subdocument’s icon 5.	 Click on the Merge button.
+
+Removing A Subdocument
+
+ӹӹ To convert a subdocument into part of the master document:
+Mouse 1.	 Switch to Outline view 2.	 Click on the subdocument icon belonging to the subdocument you want to convert 3.	 Click on the unlink Subdocument button.
+
+ӹӹ To completely remove a subdocument from the master document:
+Mouse 1.	 Open master document and switch to Outline view, click on the show document button. 2.	 Click on the subdocument icon belonging to the subdocument you want to remove 3.	 Press DELETE This action deletes the subdocument from the main document but the subdocument would still exist on the drive and directory where it is stored with the same filename it had before.
+
+Sharing A Master Document
+One of the great advantages of using master and subdocument documents is that more than one person can be working on them at the same time. When you open a master document, you will be able to edit any of the subdocuments that belong to you - these would be the ones that you created. However, if someone else created one of the subdocuments you can only open it as read-only, unless you unlock it. Word determines which document belongs to which person by looking at the name of the Author in the Properties. A subdocument for which you are not the author will have a small padlock displayed under the subdocument icon. This means that the subdocument is locked for editing you can only open it as read-only.
+
+92
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Outlining / Master documents
+
+Unlocking A Subdocument
+
+ӹӹ To unlock the subdocument so that you can make changes:
+Mouse 1.	 Open master document and switch to Outline view, click on the show document button. 2.	 Click somewhere in the subdocument 3.	 Click on the Lock/Unlock Document button. The padlock symbol should then disappear allowing you to work on the subdocument.
+
+Multi-User Access
+More than one person can work on the same master document at the same time, however they cannot work on the same subdocument. If you want to work on a subdocument, and let one of your colleagues work on one of the other subdocuments, you should do the following: So that you can work on a subdocument while someone else accesses the master document do the following. (this is assuming that all path names are not known to you. Otherwise it is a simple matter of closing the document someone else wishes to access.)
+
+ӹӹ To allow others access to the master document:
+Mouse 1.	 Open master document and switch to Outline view, click on the show document button. 2.	 Open the required subdocument (unlocking if necessary) 3.	 Using the view ribbon, switch windows command, switch to the master document. 4.	 Close the master document so that your colleague can open it 5.	 Your colleague can then follow the same process. He or she should also close the master document after opening the relevant subdocument so that you or another colleague can open it. Any changes made to the subdocuments will update in the master document.
+
+Formatting A Master Document
+You can format a master document just as you would any other Word document. Any formatting you apply when working in the master document will where relevant carry through to the subdocuments. E.G. if you redefine the formatting of one of the heading styles, the change will automatically carry through to the whole master document and its subdocuments. However, because subdocuments are placed in separate sections of the master document some changes you make may not be carried through to the whole document. E.G. if you make one of the subdocuments landscape, this will only affect the subdocument unless you specify in the Page Set-up dialog that it should affect the whole document.
+
+93
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I Styles
+
+Outlining / Master documents
+
+The style definitions in the master document override the style definitions in a subdocument. If you insert a subdocument `with different style formatting, it will automatically adopt the master document’s styles. However when you open the subdocument, it will still retain the old formatting. Headers And Footers The Headers and Footers can be different in each subdocument, since they are in separate sections within the master document. If you want consistency throughout the master document, you should modify each of the subdocuments headers and footers to look the same. (Link to previous option on design ribbon when headers & footers are being edited: see sections) If you don’t set headers and footers for any of the subdocuments, the master document’s header and footer will automatically appear on every page. Tables Of Contents And Indexes You do not need to create subdocuments for a table of contents or an index in a master document, simply insert the table of contents as part of the master document before the first subdocument. Similarly insert the index typically after the last subdocument. Cross-References If you want to create a cross-reference between two subdocuments, make sure you have the master document open and are working in draft view. Printing The Master Document To print the entire master document print in the usual way. Printing A Subdocument To print one of the subdocuments, you can open it and print it as normal. If a subdocument contains cross-references to another subdocument, you must print the master document so that the cross-references are updated properly.
+
+94
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+Section 4	 Templates and forms
+By the end of this section you will be able to: •	 Understand what templates can be used for •	 Create a new template •	 Base documents on a saved template •	 Add standard text, formatting and graphics •	 Use fields to automate templates •	 Customise the template with AutoText, macros and toolbars •	 Create an on-line form template •	 Protect a form template •	 Create new documents based on a form template •	 Understand what fields can be used for •	 Insert fields into a document •	 Update fields •	 Lock fields to prevent updates •	 Unlink fields from source data •	 Recognise and use some common long document fields
+
+This e-book is made with
+
+SetaPDF
+
+SETASIGN
+
+PDF components for PHP developers
+
+www.setasign.com
+95
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+Templates
+A template is a structure for a particular type of document. You can eliminate much of the work involved in creating new documents if you design templates for the documents you create most often. Templates can include text, styles, formatting, fields, macros, AutoText entries and graphics. The method of accessing templates is a little different in 2010
+
+The new document area is split into 3 main areas •	 Local templates created by you or preinstalled ones on your local machine these can be accessed any time they are stored in your user templates folder. •	 Office.com templates you may see a thumbnail here if you have previously been online but you must be online to download and use these templates, •	 The preview area far right to give you a preview of what your template will look like if you create a document based on this file
+
+Create A Template
+You can create a new template by modifying one of the templates supplied with Word, by saving an existing document in template format or by using the File Tab, New to set up a brand new template file.
+
+ӹӹ To create a new template:
+Mouse 1.	 Click the File Tab then New. The New document window will be to your right.
+
+96
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+2.	 Choose the Blank Document icon in the main window click on create on the right underneath the preview. 3.	 A new document will appear on-screen. 4.	 Click on the file tab and save or save as 5.	 Give the file an appropriate name. 6.	 In the save as type box select document template (see picture) 7.	 The file location should be your local user templates folder.
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+97
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I 8.	 Click on save to save the template. OR 1.	 In the file - new area select my templates a dialog will appear.
+
+Templates and forms
+
+2.	 Select a previous template you wish to base your new template on (if there are none then select blank document. 3.	 Near the bottom right of the dialog choose template instead of document then click OK 4.	 A new document will appear on screen but it will say template 1 in the title bar. 5.	 Save as previously instructed when you have made the changes you wish. •	 A template can be edited like any other file it must be opened like any other file to edit it in any way. do not go to the file - new area to edit a template this is only to create new files based on a given template. All template files are saved with a .dotx extension in the C:\Documents and Settings\username\Application Data\Microsoft\Templates. This location may be different if your company has specified a different location for user templates in the Options dialog. You can change the location in which to store your template, however, you may have difficulties accessing it
+
+Template Settings
+When designing a template for documents for a specific purpose, you should consider the usual appearance you want for the documents. Options that affect the appearance of a document include the following: •	 Paper size •	 Page orientation •	 Margins •	 Headers and footers •	 Styles •	 Themes
+
+ӹӹ To set template appearance:
+Mouse 1.	 Open the template file for editing as mentioned previously. 2.	 Access the Page set-up dialog and set the margins, orientation and paper size as appropriate. 3.	 Create any headers and footers within the template so that all new documents based on the template will have consistent headers and footers and Save the file.
+
+Enhancing A Template
+Any text or graphics that you save in the template will appear in every document based on that template. This is a way to create, •	 E.G. a standard letter for your company that includes the company logo and address.
+
+98
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+ӹӹ To enter boilerplate text and graphics:
+Mouse 1.	 Open the template file and Type in any standard text and format it to look the way you want. 2.	 Insert any pictures that should appear in all documents based on the template and Save the file
+
+Template From Existing Document
+You can also start from a document you already have and save it as a Template, but the save procedure is different from normal. You 1.	 Select File, Save As. 2.	 In the Save As dialog box, you type the file name 3.	 click the Save As File Type drop down option. Choose Document Template from the list and this will add the extension .dotx to the file name. It will also change the destination folder into which the file will be saved. This is the special Templates folder. •	 It is vital you do not try to override this feature because when you select File, New later, Word will look to the Templates folder to present all the available templates to you.
+
+Customising The Template Environment
+You can attach different features to a specific template. •	 E.G. you can set up field entries and charts that are template specific and you can create macros that are only available to documents based on a particular template.
+
+Fields
+Fields are special codes that instruct Word to insert information into a document. They can be used to provide document information such as the file name, or the date when it was created. You can also use fields for simple information like page numbering and displaying the current date. Fields are also the underlying component of cross-references, tables of contents and indexes.
+
+Inserting Fields
+
+99
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+ӹӹ To insert a field into a document:
+1.	 Mouse 2.	 Position the insertion point where you want to add the field 3.	 Choose quick parts from the Insert ribbon in the text group. 4.	 Choose field from the menu a dialog opens. 5.	 The Field dialog displays a list of Categories:, and when you click on one of these, the Field names: in that category are displayed below. At this point you can select the required field (the description tells you what the field will display) 6.	 Click on the options button on the bottom left of the dialog to access the switches dialog.
+
+100
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+Field Switches (Field Properties)
+Some fields have further options called “switches”, E.G. the Filename field has an extra switch, which enables you to display the filename with its full path.
+
+101
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+ӹӹ To add a switch:
+Mouse 1.	 There are two tabs in the field options dialog one tab as shown above for general switches you can see the options in the first dialog, make a selection. 2.	 Clicking on the field specific switches tab (if available) will allow some alternatives to add to your field very specific to the field you are using. Make a selection and click OK to apply those switches to your field 3.	 Click on OK on the main field dialog to insert your field with all its switches
+
+Inserting The Styleref Field
+There are various reference fields, which are largely irrelevant, since there is a separate cross-referencing feature in word. However one field, which is useful, is {StyleRef}. It is often used to place the current Chapter Title in the Header or Footer area. {StyleRef} - inserts the text of the next or most recent paragraph using the specified style. This training manual displays the Heading 1 text in the Header. The text changes only when a new Heading 1 paragraph is on the current page. If there isn’t one, it continues to use the last Heading 1 text.
+
+ӹӹ To insert the StyleRef field:
+Mouse 1.	 Choose quick parts from the Insert ribbon in the text group. Click on field A dialog opens. 2.	 Select the Links and References category, then select StyleRef 3.	 Specify the style name you wish to use from the field properties and click on OK {STYLEREF “Heading 1”} 4.	 Right click on the field and then choose edit field the dialog opens link the field to another style, E.G.: {STYLEREF “Heading 2”}
+
+102
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I 5.	 Then press F9 to update the field.
+
+Templates and forms
+
+Updating Fields
+Most fields do not update automatically. In these cases you would need to update the fields. •	 E.G. if you enter the Date field (displays the current date), every time you open the document in future, the old date is still displayed. Or, if you have entered the Filename field in a document, and subsequently change the name of the file, the document will still display the old filename.
+
+ӹӹ To update a field:
+Mouse 1.	 Right click on a field and choose update field. Keyboard 1.	 Click in or select the field and Press F9 Alternatively, you can make Word automatically update all the fields when you print the document.
+
+ӹӹ To set automatic field updating when printing:
+Mouse
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+103
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+1.	 Click the File Tab and select adavnced 2.	 Scroll down on the right to the printing options 3.	 Select the Update Fields before printing check box
+
+Viewing Field Codes
+When you have inserted a field, the results will be displayed in your document. •	 E.G. a field code to display the path and name of the current document might show up like this: C:\MY DOCUMENTS\WORD2002 ADVANCED MANUAL.DOC You may need to see the underlying code.
+
+Display All Field Codes
+
+ӹӹ To display all the field codes in the document:
+Keyboard 1.	 PressAlt F9 OR 1.	 Click the File Tab and select options. 2.	 Click on the advanced tab and scroll on the right to show document content. 3.	 Click on the show Field codes instead of their values check-box.
+
+104
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+4.	 You also have the option how those field codes are displayed just underneath that option you may select from the drop down box whether to show the fields shaded or not so as to easily identify them. Whatever choices you make these are selections for the screen only the fields will print the actual vales as described. Print preview will show exactly how the data will appear. To toggle back to display all field results, repeat the procedure above.
+
+Display A Single Field Code
+
+ӹӹ To display the underlying field code:
+Mouse
+
+1.	 Click the right mouse button when pointing at the field from the shortcut menu click on Toggle Field Codes Or Keyboard 1.	 Click in or select the resulting the text, and press SHIFT F9 The field code is always displayed inside a set of brackets. The name of the field is displayed along with any switches. {FILENAME \p \* MERGEFORMAT} Pressing SHIFT F9 (or using the menu) is a toggle, in other words every time you press it, and Word either displays the field result or the field code.
+
+Locking A Field
+It is possible to lock a field so that the results displayed cannot be updated by either pressing F9, or by using the turning off the Update Fields before printing option in the Printing Options.
+
+105
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+ӹӹ To lock/unlock a field:
+Keyboard 1.	 To lock - Click in or select the field. Press CTRL F11. 2.	 To unlock - Click in or select the field Press CTRL SHIFT F11
+
+Unlinking Fields
+You can also unlink a field. The field result is converted into literal text, which means it is no longer, a field and so cannot be updated.
+
+ӹӹ To unlink a field:
+Keyboard 1.	 Click in or select the field Press CTRL SHIFT F9
+
+Deleting Fields
+If you have entered a field which you no longer want to keep, you must select the whole field before pressing DELETE or BACKSPACE.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+106
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+Common Long Document Fields
+There are many different types of fields, some of which are used for specific tasks. The following fields are some of the more common used in Long Documents. Whilst these fields can be placed anywhere in a document, they are often displayed in the Header and Footer area.
+
+Date And Time
+Field Name Date Time Create Date Print Date Save Date The current date The current time The date when the document was created The date when the document was last printed The date when the document was last saved Description
+
+When you insert these fields, you can click on the Options button in the Field dialog to change the formatting of the dates and times.
+
+Document Information
+Field Name Title Subject Author LastSavedBy Filename Template NumPages Description The Title from the Summary Information The Subject from the Summary Information The Author from the Summary Information The name of the person who last saved the file The name of the document, with an option to display the full path The name of the document’s template, and an option to display the path The total number of pages in the document
+
+Numbering
+Field Name Page Section Section Pages RevNum The current page number The current section number The total number of pages in the current section The number of times the document has been saved Description
+
+The Page and The Section fields can be combined to produce composite page numbers. E.G. the second page in the fifth section could be displayed like this: 5-2.
+
+107
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+Using Fields In A Template
+Word fields may also be part of a template. There are nine categories of Word fields and they provide the means to insert information or perform an action automatically. •	 E.G. the Date field inserts the computer system’s current date in a document. Other Word fields can insert page or section numbers, enter the author’s name, or insert correct page references to another page in the document. When you insert the date or time, you can check Update Automatically. When this is checked, Word will automatically update the field to the current date or time when the document is printed. If you want the current date to be inserted in the document and to remain as that date, do not check Update Automatically. In order to view the field inserted in a document or template, you must check the show field shading when selected option in the advanced tab, display section of the Word Options dialog box accessed from the File Tab.
+
+ӹӹ To insert a date field in a template:
+Mouse 1.	 Open the template file 2.	 Position the insertion point where you want the date to appear. 3.	 Go to the Quickparts button on the insert ribbon and select field.
+
+4.	 Insert the date field from the field dialog 5.	 Choose the format you would like for your date by clicking on the appropriate date in the list of field properties . 6.	 Click OK. The date will appear in the template.
+
+108
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+The Fillin Field
+The Fillin field allows you to pop-up a custom dialog box that prompts the user of the document to enter text. You enter the message that you want displayed in the dialog box. E.G. you might use a Fillin field in a memo template to prompt the author for the memo subject.
+
+ӹӹ To insert fields to provide user prompts:
+Mouse 1.	 Open the template file. 2.	 Position the cursor where you want the variable information. 3.	 Go to the Quickparts button on the insert ribbon and select field. The field dialog box will appear. 4.	 In the Categories list choose Mail Merge. 5.	 In the Field names list choose Fill-in. Click in the field properties text box and type your prompt, such as Please enter the memo subject. 6.	 If you expect many entries the same such as “country of origin” “UK” then enter a default response in the field options text box for a default response.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+109
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+7.	 Click OK. The following dialog box will flash up on the screen. 8.	 This is a preview of how your prompt boxes will appear to those people using your template. 9.	 Click the Cancel button to clear the dialog. 10.	Repeat the process until you have created dialogs to cover all the variable information you need to prompt for. 11.	Save the template file. You won’t see the underlying FILLIN field codes unless you switch on the field codes on the advanced page show document content section of the Options dialog. It is useful to see these as you are working on the template, but remember to switch them off before you save the file or anyone using the template might get confused!
+
+Using A Template With Fillin Fields
+The dialog boxes will appear whenever a new document based on the template is created.
+
+ӹӹ To create a new document based on the template:
+Mouse 1.	 Click the File Tab then New. 2.	 Choose My templates The my template dialog will appear 3.	 The templates should be listed on the my templates page of the dialog in icon format. Select the type of document you want to create with the Fillin fields and ensure that the document option in the “create new” section is selected then click on ok or double click the icon.
+
+110
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+4.	 The new document will appear with any boilerplate text, headers and footers and dialogs that you set up in the template. 5.	 Enter information in the various Fillin field dialogs this will enter the information in the appropriate locations in the document when complete save and print it in the usual way. Whenever you click in a field code or result, the whole field is displayed with a grey shaded background. However you can use the Field shading Options dialog to specify that all fields, even if they are not selected, should be displayed with a grey background. This can help you to quickly identify text which has been generated by a field.
+
+ӹӹ To alter field shading options:
+Mouse 1.	 Click the File Tab and select Word options. Click on the advanced tab and scroll on the right to show document content. Click on the show Field codes instead of their values check-box. 2.	 Use the Field Shading drop down list to pick the type of shading you want: •	 Choose Never to display no shading •	 Choose Always to display shading on all fields •	 When selected is the default
+
+Form fields
+Starting with a template, you can add content controls and instructional text in Microsoft Office Word 2010 to quickly and easily create a form that you can send to others to fill out using Office Word 2010 on their computer. In an advanced scenario, any content controls that you add to a form can also be linked to data.
+
+111
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+You can also create a form by starting with a sample template. Many are available on the Microsoft Office Online Web site. You can print a form that was created by using content controls in Office Word 2010, but the boxes around the content controls will not be printed.
+
+112
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+Create A Form
+Word is not immediately ready to start creating forms as the more advanced tools have been hidden. To rectify this we must make them available.
+
+ӹӹ To Set up Word for creating forms
+Mouse 1.	 Click the File Tab , and then click Options. 2.	 Click customise ribbon on the left. 3.	 On the right Select Developer tab check box, and then click OK.
+
+ӹӹ To create a template or a document on which to base the form
+Mouse 1.	 Click the File Tab , and then click New. 2.	 Under available Templates, click My templates.
+
+3.	 Click blank document, and then select Template or Document on the bottom right. 4.	 Click OK 5.	 Click the File Tab , and then click Save As. 6.	 In the Save As dialog box, give the new template or document a file name, and then click Save.
+
+113
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+Controls
+Content control Rich Text Definition Formatting can be saved by loading, saving, or closing the document. Limited to content that cannot contain any formatting, only plain text. Example Use for a short paragraph such as an abstract, a summary, or a legal disclaimer. Use for a simple paragraph. Restrictions No restrictions.
+
+Text
+
+Limits the formatting to the formatting that is applied around the content control. You can change the formatting by making changes to the surrounding formatting. Limits formatting changes to picture brightness and contrast. Also prohibits users from inserting any other Word objects or any text. Like plain text, limits text to a single paragraph that cannot contain any formatting.
+
+Picture
+
+Fills the content control with a single picture.
+
+Use for a drawing, a shape, a chart, a table, a clip art object, or SmartArt.  
+
+Combo Box
+
+Contains a list that you can edit directly. Formatting can be saved by saving or closing the document. Contains a list of restricted choices defined by the template author when the user activates the drop-down box. Contains a calendar control. Limits text to a single paragraph. Shows a gallery of formatted design choices that you can add to the content control.
+
+Drop-Down List
+
+Use this to provide a set of choices, such as a list of names or a set of formatted design elements (such as cover pages or header or footers). Use this to help users enter a date. Use this to specify a set of cover pages, headers and footers, page designs, or other building blocks that you add to the Quick Parts gallery.
+
+Like plain text, limits text to a single paragraph that cannot contain any formatting.
+
+Date Picker
+
+Like plain text, limits text to a single paragraph that cannot contain any formatting. No restrictions.
+
+Building Block Gallery
+
+ӹӹ To Add content controls to the form
+Mouse and keyboard
+
+114
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+1.	 Design the form by sketching a layout first (on paper), or use an existing form as a guide. 2.	 In your form, you can add content controls, tables, and other graphics elements. 3.	 On the Developer ribbon, in the Controls group, click Design Mode, and then click where you want to insert a control. 4.	 On the Developer ribbon, in the Controls group, click the Rich Text control or the Text control .
+
+•	 Inserts a basic text field where users can enter text 5.	 On the Developer ribbon, in the Controls group, click the Drop-Down List control.
+
+115
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+•	 Inserts a drop-down list that restricts available choices to those you specify 6.	 Select the content control, and then on the Developer ribbon, in the Controls group, click Properties. 7.	 To create a list of choices, under Drop-Down List Properties, click Add. 8.	 Type a choice in the Display Name box, such as Yes, No, or Maybe. 9.	 Repeat this step until all of the choices are in the drop-down list then click ok.
+
+ӹӹ To set or change properties for content controls
+Each content control has properties that you can set or change. E.G., the Date Picker control offers options for the format you want to use to display the date.
+
+116
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I Mouse 1.	 Ensure you are in design mode 2.	 Right-click the content control that you want to change. 3.	 Click Properties, and change the properties that you want.
+
+Templates and forms
+
+ӹӹ To add instructional text to the form
+
+Instructional text can enhance the usability of the form you create and distribute. You can change the default instructional text in content controls. To customise the default instructional text for your form users, do the following: Mouse 1.	 On the Developer ribbon, in the Controls group, click Design Mode. 2.	 Click the content control where you want to revise the placeholder instructional text. 3.	 Edit the placeholder text and format it any way you want. 4.	 If you want the content control to disappear when someone types in their own content to replace your instructions in a Rich Text control or a Text control, click Properties in the Controls group, and then select the Remove content control when contents are edited check box. 5.	 On the Developer ribbon, in the Controls group, click Design Mode to turn off the design feature and save the instructional text. •	 Do not select the Contents cannot be edited check box if you want form users to replace the instructional text with their own text.
+
+Add Protection To The Form
+You can protect individual content controls in a template to help prevent someone from deleting or editing a particular content control or group of controls, or you can help protect all of the template content with a password. •	 If you want, you can test the form prior to distributing it. Open the form, fill it out as the user would, and then save a copy in a location that you want.
+
+ӹӹ To Protect fields in a form
+Mouse 1.	 Open the form that you want to protect. 2.	 Select the content control or the group of controls to which you want to restrict changes. 3.	 To group several controls, select the controls by pressing SHIFT and clicking each control that you want to group. On the Developer ribbon, in the Controls group, click Group, and then click Group. 4.	 On the Developer ribbon, in the Controls group, click Properties. 5.	 In the Content Control Properties dialog box, under Locking, do either of the following: 6.	 Select the Content control cannot be deleted check box, which allows the content of the control to be edited but the control itself cannot be deleted from the template or a document that is based on the template.
+
+117
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+7.	 Select the Contents cannot be edited check box, which allows you to delete the control but does not allow you to edit the content in the control. This option is not available for all controls.
+
+ӹӹ To Protect all of the contents of a form
+Mouse
+
+1.	 Open the form that you want to help protect. 2.	 On the Developer ribbon, in the Protect group, click Restrict editing, a task pane opens.
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+118
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+3.	 In the restrict formatting and editing task pane, under Editing restrictions, select the Allow only this type of editing in the document check box. 4.	 In the list of editing restrictions, select Filling in forms. 5.	 Under Start enforcement, click Yes, Start Enforcing Protection. 6.	 To assign a password to the document so that only reviewers who know the password can remove the protection, type a password in the Enter new password (optional) box, and then confirm the password.
+
+ӹӹ To Protect A Section Of The form
+Rather than protect the whole of a form, you may want to allow users to freely type into certain areas. Mouse 1.	 Position the insertion point where you wish protection to stop. 2.	 Select Breaks from the page setup group on the page layout ribbon. 3.	 Click on the Continuous break. 4.	 Restrict editing from the review or developer ribbon
+
+119
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+Templates and forms
+
+5.	 Click on the filling in forms from the drop down box then click on Sections a dialog opens. 6.	 Remove the protection from Section 2 and click on the yes start protection. 7.	 Type a password if you desire. Confirm the password and note that the top section is now protected. Now save the template. Open a new document based on this and note that while you can only access the fields in the protected section you are able to type below the section break. If you choose not to use a password, anyone can change your editing restrictions. Use strong passwords that combine uppercase and lowercase letters, numbers, and symbols. Weak passwords don’t mix these elements. Strong password: Y6dh!et5. Weak password: House27. Passwords should be 8 or more characters in length. A pass phrase that uses 14 or more characters is better. It is critical that you remember your password. If you forget your password, Microsoft cannot retrieve it. Store the passwords that you write down in a secure place away from the information that they help protect.
+
+120
+Download free eBooks at bookboon.com
+
+Word 2010 Advanced: Part I
+
+To see Section 5-10 download Word 2010 Advanced: Part II
+
+121
+Download free eBooks at bookboon.com
+

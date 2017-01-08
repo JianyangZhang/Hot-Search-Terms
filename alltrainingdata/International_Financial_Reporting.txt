@@ -1,0 +1,1245 @@
+International	Financial	Reporting
+Marco	Mongiello
+
+Download	free	books	at
+
+Marco Mongiello
+
+International Financial Reporting
+
+2
+Download free eBooks at bookboon.com
+
+International Financial Reporting 1st edition © 2010 Marco Mongiello & bookboon.com ISBN 978-87-7681-424-3
+
+3
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Contents
+
+Contents
+	 	 Book description	 About the author	 7 8 9
+
+1	Introduction	 2	 The annual reports under the International Financial Reporting Standards (IFRS)	 3	 Balance sheet: its contents and informational aims	 3.1	 3.2	 3.3	 3.4	 Assets: definition, classification, valuation	 Liabilities: definition, classification, valuation	 Equity: value, meaning, components	 Overall informational value of the balance sheet	
+
+12 15 15 19 21 22
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+International Financial Reporting
+
+Contents
+
+4	 Income statement: various levels of profit and informational aims	 4.1	 4.2	 4.3	 Gross profit	 Operating profit and profit before interest and tax	 Profit after tax and retained profit	
+
+24 24 25 27 29 31 32 32 33 42
+
+5	 Cash flow statement: its contents and informational aims	 6	 Statement of changes in equity: its contents and informational aims	 7	 Analysis and interpretation of the annual report	 7.1	 7.2	 7.3	 The narrative component of the annual report	 Ratio analysis	 A holistic and dynamic approach to analysis and interpretation	
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+International Financial Reporting
+
+Contents
+
+	 	 	 	
+
+Appendix A	 Appendix B	 Appendix C	 References and bibliography	
+
+43 46 47 52 53
+
+	Endnotes	
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+6
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+International Financial Reporting
+
+Book description
+
+Book description
+The rationale, aim and purpose of this study guide The rationale for a study guide on how to read and interpret annual reports is that this is a skill that can prove valuable in many contexts, situations and job positions. Whether you are the decision maker in, or you are contributing to the decision of, selecting a business partner or a supplier or a client, you will find that being able to have an informed insight in the financial performance and position of these third parties that you are considering is rather useful. You can be a project manager, the responsible for a product line, a production manager, an independent consultant, and still be interested in making your opinion about the current solidity and future perspective of a business with which you are considering collaborating. This study guide is aimed at anyone, with no or basic accounting expertise and knowledge, interested in reading and making sense of corporate annual reports. Also readers who have been trained in bookkeeping might find this study guide useful. Whilst the purpose of the study guide is to guide the readers through the corporate document called ‘annual report’, for them to interpret its meaning, the readers will not learn how to prepare the annual report. Upon completing this study guide, the readers should be able to read and interpret any annual report based on International Accounting Standards and, even though they might still lack the full knowledge of unusual or very technical information, they should be able to make their own informed opinion about the financial performance, situation and perspective of the reporting entity that published that annual report.
+
+7
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+About the author
+
+About the author
+Dr Marco Mongiello is Teaching Fellow in Accounting at the Imperial College Business School, which he joined in September 2007 and where he also is the Director of the MSc Management programme. He holds a BA degree with honours in Business Administration from Ca’ Foscari University in Venice (Italy – 1993) and a PhD in Accounting also from Ca’ Foscari (1998). In the meantime he became Chartered Accountant (1995) and subsequently Certified Auditor (1999) in Italy. He then obtained the Certificate in Teaching and Learning in Higher Education (2001) in Oxford and became Fellow of the UK Higher Education Academy (2007). Prior to joining Imperial College, Marco has taught and researched accounting for more than ten years, mostly in the UK at Oxford Brookes University and University of Westminster. He internationally published articles, presented papers and led and contributed to editorial tasks in accounting. His teaching interests lie in managerial and financial accounting both for specialised and non-specialised academic curricula and for the corporate market Marco’s personal webpage is: www.imperial.ac.uk/people/m.mongiello
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+8
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+International Financial Reporting
+
+Introduction
+
+1	Introduction
+This study guide is aimed at exploring the informational value of the annual report under the International Financial Reporting Standards’ (IFRS) provisions. The annual report is a publication that fulfils the regulatory requirements of reporting the financial performance and situation of a reporting entity and, at the same time, is also used for wider corporate communication purposes. A reporting entity (which we will call “entity” from here onwards) is either a company or a group of companies, which are all controlled by the same decision maker, i.e. normally the same board of directors. This occurs when the board of directors of a company controls directly or indirectly a number of other companies, by holding directly or indirectly the absolute or relative majority of the voting rights of other companies. Figure 1 illustrates an example where Alfa Ltd is a company that controls a group of companies made of: Beta Ltd (directly controlled), Gamma Ltd (indirectly controlled), Delta Ltd (directly controlled by absolute majority) and Epsilon Ltd (indirectly controlled by relative majority), whilst Theta Ltd is not part of the group, the ‘Alfa group’ either exercises significant influence over Theta Ltd or does not, making Theta Ltd respectively either an associate company or simply an investment of the ‘Alfa group’. This simple example is based on the assumptions that the remaining part of the capital1 of Epsilon Ltd is spread among many shareholders, none of which controls more than 15% and that this does not apply to the remaining capital of Theta Ltd. All the companies that are part of the group are ‘subsidiaries’ of Alfa Ltd.
+
+Alfa Ltd 100% Beta Ltd 100% Gamma Ltd
+
+60%
+
+Delta Ltd 15% Epsilon Ltd
+
+15% Theta Ltd
+
+Figure 1 – ‘Alfa group’
+
+9
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Introduction
+
+The annual report’s contents vary from entity to entity, yet they must include certain compulsory elements, which are required by the legislations of the respective countries where companies are registered and, in case, listed in the stock exchanges; these legal requirements and regulations mostly refer to the provisions of the IFRS – with notable exceptions of countries that have not as yet fully embraced the IFRS. Several reasons affect the variability of the contents of the annual reports. Firstly, the IFRS allow wide areas of choice for what concerns the formats of the financial statements, implying that the cultural background and past experience of the preparers of the accounts determines what interpretation to adopt, let alone that some provisions’ interpretation are subject of controversy among accountants. Secondly, the IFRS have been subject to a relatively high-paced development over the last decade or so; normally the changes are phased in, with the companies’ end (or beginning) of the financial year falling on either sides of the enforcement date of the revised standards, and often allowing the possibility to comply with the revised standard earlier than the starting enforcement date. Thirdly, the more the annual report is used for wider communication purposes, the more the companies’ directors choose to include information aimed at distinguishing their report from those of other companies. Other reasons lie on the different versions of the standards endorsed in different world regions; chiefly the European Union’s (EU) ‘carve outs’ of the IAS 39, whereby certain provisions that refer to the treatment and reporting of certain financial instruments is different in the EU than in the rest of the world2. Finally, the format of the annual reports has been affected more and more by the possibility of using information technology tools to communicate the financial statements and all the other contents of the annual report. Some examples of how this affects the reporting can be easily found on the internet: see in particular BMW’s3 and Marks & Spencer’s4 official web pages’ investor relations areas. In these examples you can see a ‘technological’ interpretation of the principle of fairness in the presentation of the statements, as the hyperlink to Excel enables the readers of the accounts to carry out their analysis more easily and efficiently than if they had to copy the relevant figures in their own spreadsheets. These and other examples5 also show how the medium of communication can be used to convey the innovation strive of the entity originating the accounts. I suggest that you browse a number of annual reports of reporting entities on which you feel interested; think of the companies whose brands you know or those whose products or policies you either particularly like or dislike. You can easily download these annual reports from the companies’ respective web pages or obtain free paper versions by contacting their headquarters. You should aim at familiarising yourself with these documents and try to understand as much as you can from the narrative parts and from the financial statements parts.
+
+10
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Introduction
+
+You should be aware that with the expressions “IFRS” and “IAS” it is normally intended to refer to the whole body of standards that are under the names of International Accounting Standards (IAS) and the newer International Financial Reporting Standards (IFRS). Many IAS are still valid insofar they have not been replaced by new IFRS. When the International Accounting Standard Board intervenes in the body of accounting standards it: •	 either modifies existing IAS or IFRS •	 or issues new standards (IFRS), which are added to the existing list of standards superseding existing IAS, which are then no longer used •	 or issues new standards (IFRS), which address completely new areas of accounting. This is the reason why both IAS and IFRS are coexisting and make, together, the whole body of international accounting standards.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+11
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+International Financial Reporting
+
+The annual reports under the International Financial Reporting Standards (IFRS)
+
+2	 The annual reports under the International Financial Reporting Standards (IFRS)
+Annual reports produced under the IFRS normally include, among others, some or all of the following documents: •	 Chairman’s letter to the shareholders •	 Operational review •	 Directors’ report: business review •	 Directors’ report: corporate governance •	 Financial statements6: •	 Accounting policies •	 Income statement •	 Balance sheet •	 Cash flow statement •	 Statement of changes in equity •	 Notes to the accounts •	 Auditors’ report All of these documents must be read and analysed in combination. The financial statements, on their own, are able to convey only a certain level of information; even considering the amount of disclosure included in the ‘accounting policies’ and the ‘notes to the accounts’, interpretation of the figures included in the statements must be supported by the analysis of the intentions of the directors and their considerations on the entity’s going concern. For example the operational review should normally enlighten the reader of the accounts on the reasons behind certain capital expenditures, i.e. investments for maintaining or improving the production and distribution capacity of the entity. These expenses could, for example, seem inexplicably high, in comparison with sector’s or competitors’ benchmarks, if not seen in the context provided by an operational review, where the directors explain that they are undertaking a business re-engineering process aimed at reducing areas of inefficiency in production or distribution. Another example is where the strategic considerations provided by the directors in their ‘business review’ enlighten about, for instance, a sudden expansion of the production volumes with lower gross margin percent; in the context of a highly price competitive environment and with a choice of aggressive market penetration, these results might reflect a sound strategy.
+
+12
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+The annual reports under the International Financial Reporting Standards (IFRS)
+
+What you should expect to see in each of the sections above mentioned is briefly explained below. The Chairman’s letter to the shareholders is a document from the person, who should bring to the owners of the entity some relatively independent view about its situation and performance. This letter is meant to represent the chairman’s opinion and his/her view, i.e. you should not expect objectivity and perhaps even its absolute fairness can, under certain circumstances, be forgone. However, you should assume that the contents of the letter are true and based on true results, i.e. in compliance with one leg of the main accounting principle of ‘truth and fairness’. The Operational review widely varies in formats and approaches from industry to industry and from entity to entity. You can normally expect some description of the main product lines and services provided by the entity; their contribution to the overall performance of the entity; the operational point of view of the main innovations embraced during the year. This review often makes references to the results as presented by segments according to the segmental analysis.7 The Directors’ report is often split in business review and corporate governance. The business review part of the directors’ report consists of the analysis and view of the directors on the situation and performance of the entity, as a result of their decisions in the past year. Also, this document contains a prospective view of where the entity is heading; the directors’ view of the entity’s going concern. The entity’s strategy is explained in the context of its competitive market, often with a very dynamic approach encompassing the possible medium and long term scenarios of the broader industry. Together with the operational review, this report is the main tool the directors can use to convey the image of the entity and the strength of their strategy. It is the opportunity to link the entity’s mission statement with the directors’ strategic plans, support them with the directors’ insight of the relevant environment and with their highlights of the results obtained so far. As per the chairman’s statement, this part of the report must be based on true figures and results, but it is very much a subjective interpretation of them, made by those who are at the helm of the entity (and wish to be confirmed in their roles). The Directors’ report more and more often includes a section on Corporate Governance. This is where the directors explain what “process of supervision and control intended to ensure that the entity’s management acts in accordance with the interests of shareholders”8 is in place. The message conveyed by this part of the report is aimed at reassuring the investors and the wider public, that the entity’s management is bound to certain rules of sound management in the interest of the shareholders and, often, also that the entity has commitments to preserve the business and natural environment in which it operates. This information is relevant to the entity’s providers of capital in two ways: firstly it reassures them about the protection they have against the moral hazard temptation of their ‘agents’9, i.e. the entity’s management; secondly it reduces the perceived risk the market attaches to the entity, which implies a reduction of the risk premium required by providers of capital of the entity, hence reducing the entity’s cost of capital.
+
+13
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+The annual reports under the International Financial Reporting Standards (IFRS)
+
+The following chapters of this study guide will address in more details the financial statements one-byone. It is, however, worth highlighting at this stage what you should expect to read in the Accounting policies of section. This is a section filled of ‘obvious’ material, i.e. many of the policies are in fact dictated by the IFRS and do not leave much room for interpretation. However, there are many notable exceptions, where the corporate policies reflect subjective choices of the directors, which can affect the readers’ perception of the validity and reliability of the accounts. The Notes to the accounts are considered integral part of the financial statements and represent explanatory remarks about how certain figures and values have been obtained and what they represent in more details than it is possible to show on the face of the accounts, i.e. balance sheet, income statements, cash flow statements and statement of changes in equity. These notes often include information that is mandatorily required along side with information provided to fulfil the broader principle of fairness in the representation of the financial situation and performance of the entity. Finally the Auditors’ report represents the opinion that the auditors have stated about the validity of the accounts and their compliance with the relevant IFRS and local legislation.
+
+14
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+International Financial Reporting
+
+Balance sheet: its contents and informational aims
+
+3	 Balance sheet: its contents and informational aims
+The balance sheet reports the financial situation of an entity, by showing its assets, liabilities and equity, where the equity equals the difference between total assets and total liabilities, as illustrated in figure 2.
+
+Totalliabilities
+
+Totalassets
+
+Equity
+
+Figure 2 – the main components of the balance sheet and their relationship
+
+3.1	
+
+Assets: definition, classification, valuation
+
+3.1.1	Definition As a general rule, the assets are all those items over which the entity exercises enough control to enable it to receive the benefits emanating from them. A more technical definition goes along the lines of assets being entity’s rights to future economic benefits. In addition, for the assets to be reported in the balance sheet, they must be measurable in a fairly objective way. The economic benefit should be exclusive of the entity, i.e. is not emanating from a public good. The assets are normally owned by the entity that reports them, however, it is common that non-owned assets are reported in the balance sheet, if the entity can exercise enough control over them. This is the result of the application of a principle (called ‘substance over form’), whereby the substantial truth is more relevant than the formal reality, e.g. an asset is considered as if it was owned, if is going to be used exclusively and for most of its useful life by one entity under an agreement (normally called ‘leasing’), with the third party that legally owns the asset, that payments should be made to the owner of the asset, which amount to a total that is substantially equal or higher than the value of the asset.10
+
+15
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Balance sheet: its contents and informational aims
+
+3.1.2	Classification All assets are classified as non-current and current assets. The non-current, also called fixed assets, are assets whose economic benefits are expected to emanate to the entity in more than one go and, normally, over a period of time longer than one year. Typically, these are: machinery, property, equipment, vehicles, software, patents, licences, right to exploit others’ intellectual property or to use others’ brands, investments etc. You will also find less obvious non-current assets, such as capitalised costs, pension related items and others. For example, capitalised costs refer to expenses that were incurred by the entity for the development of products, ideas, formulae, etc. from which revenues will be obtained in the future, but have not been obtained as yet. This refers to the ‘time matching principle’, which we will explore later on when focussing on the income statement. Pension related items refer to investments that the entity has made, in order to be able to face its obligations towards its employees, when the respective pension payments fall due. For each of these and any other non-current assets, you should always refer to the definition of non-current asset and try to devise in what sense their economic benefit will flow to the entity in more than one occasion over a period of time longer than one year. A very good help for this interpretation is often represented by the notes to the accounts. The current assets, instead, are expected to be used only once, as they will exhaust all of their economic benefit in one go. Typically, these are: inventories, i.e. row materials, finished goods, components; debtors, i.e. rights to receive cash from clients and customers or any other third party; cash, etc. You will also find other less obvious items, classified as current assets. For example, pre-payments refer to the entity’s right to receive services or goods for which payment has been already made. Once again, however, these are current assets as their economic benefit will flow to the entity in one go and anyway within one year. The notes to the accounts can represent a valuable help also for the interpretation of these items. 3.1.3	Valuation The default criterion that concerns the assets values, as you read them on the face of the balance sheet, is that the values should represent prudent valuations of the future economic benefits that are expected to emanate from the assets to the entity, under the assumption of ‘going concern’, i.e. the assumption that the entity will keep operating in the foreseeable future.11 To this respect, three important considerations must be made: firstly, the assumption is made that, as a starting point, the original cost of the assets when they were purchased, or indeed produced in-house, is a conservative and objective, hence appropriate, valuation of the assets (historical cost valuation); secondly, exceptions must be made in the case of current assets, and more specifically inventories, when their expected realisable value12 is lower than their cost of purchase or production; and thirdly, a different method, called ‘fair value accounting’, is required (or allowed) under certain circumstances for certain assets.
+
+16
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Balance sheet: its contents and informational aims
+
+The historical cost valuation has the following implications for you, when you read the balance sheet of an entity. Assets reported using this method (and these are the vast majority of the non-current assets) are reported at a value that is calculated as their cost of purchase or production: •	 less the sum of the deductions regularly and methodically made every year to represent the amount of their economic benefits that has emanated to the entity – these deductions are called depreciation for tangible assets and amortisation for intangible assets •	 less any further loss in value that is not represented by the regular deduction above explained, which result from exceptional, unexpected, permanent and unfavourable changes in the amount of future economic benefits still left to emanate to the entity, for example because of damages, or unexpected technological obsolescence, or shorter than originally accounted for useful life – these deductions are called impairments •	 plus any increase in value that results from exceptional, unexpected, permanent, favourable and allowed to be reported changes in the amount of future economic benefits still left to emanate to the entity, for example because of permanent changes of the marketability of those assets, such as is the case of increases in value of properties (not in the context of a financial crisis) – these increases in values are called revaluations.
+
+17
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+International Financial Reporting
+
+Balance sheet: its contents and informational aims
+
+All the values and their changes as explained in the bullet point above can be easily traced in the notes to the accounts of your chosen entity. Look at its balance sheet, find the non-current (or fixed) assets, identify the notes to the accounts that refer to them; in those notes you will find a table with an explanation of the changes in the historical costs of those assets, due to acquisitions and disposal, split in categories, which vary according to the industry and to the entity, typical examples being machinery, fixture and fittings, properties, vehicles, equipment, etc. Also, based on the same categories, you will find the changes in value of the sum of the depreciation and amortisation, the impairments and the revaluations. Whilst the notes to the accounts refer to the facts of the entity’s past years, you will find explanations about the policies adopted by the entity in the accounting policies, where the depreciation and amortisation policies are explained, together with the impairment and revaluation criteria. These policies are normally shown in a section of the annual report that just precedes or just follows the financial statements or are included in the notes to the accounts as the first note. Fair value accounting is applied to financial instruments and can be applied to other non-current assets. The underlying rationale of fair value accounting is that, where it is possible to refer to a market value for certain assets, that one is the most appropriate value for reporting purposes. Where no market value is available, then reference should be made to recent transactions involving similar items. In absence of these transactions, other techniques should be used, which are aimed at calculating the actual amount of economic benefit that will emanate from these assets. Whilst the intention of this method of accounting is to provide the reader of the accounts with more realistic figures, which are updated at each period end (in the annual report or in the interim reports), the effect has also been to bring the volatility of market values and the uncertainty of valuation techniques to the balance sheet (and to an extent to the income statement, as we will address later on). The implications of fair value accounting, for you when you read the accounts of your chosen entity, are that the values of any investment or other financial instruments present in the balance sheet are likely to refer to their respective market quotations as known when the accounts you are reading were prepared. On this matter, though, you must be aware of recent developments due to the international financial crisis and on-going recession; a temporarily provision has been hastily taken by the International Accounting Standard Board, to ‘relax’ the fair value accounting rules. The rationale behind this provision is that, in a context of widespread financial crisis and recession, reporting corporate investments at their market values negatively affects the value of corporate equity and, as this equity is likely to represent investments of other entities, also these other entities’ equities are negatively affected, triggering a destructive domino effect that contributes to spread panic among investors and deepens the crisis even further. It is not obvious, at the moment, how long the fair value accounting rules will stay ‘relaxed’ or whether they will ever be restored in their original form. Given the controversy that has accompanied these rules all along since they have been issued, it is very likely that those who have never been convinced by this approach will leverage on the current situation to radically modify it.13
+
+18
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Balance sheet: its contents and informational aims
+
+For what concerns the current assets, again the default criterion of valuation at cost applies, where possible i.e., as mentioned above, inventories are valued at their cost unless their net realisable value is expected to be lower. Cash, debtors and pre-payments are valued at their nominal value, less any prudent forecast of losses from those values, e.g. expected percentage of debts that will not be honoured by the pool of debtors or the value of debts owed by debtors who are expected to default. Other investments are valued either at their cost or at their fair value.
+
+3.2	
+
+Liabilities: definition, classification, valuation
+
+3.2.1	Definition Liabilities are entity’s obligations to transfer future economic benefits to third parties. They comprise: all debentures, borrowings from lenders, received bills and unpaid invoices, which are actual obligations; but also, accruals, which are obligations not yet substantiated by third parties’ invoices or bills; and provisions for future expenses, which are not yet obligations, but will be in the future for facts that have happened in the past. A few examples of the above mentioned liabilities follow. Debentures are mostly made of bonds, also called own debt instruments. Borrowings are short and long term loans, mortgages and overdrafts. Bills and invoices are documents received from providers of services and suppliers of goods who were not paid as yet when the accounts were closed. Accruals are obligations for services or goods that have been received, but whose bills and invoices have not been produced or received yet, e.g. rent, workforce, consultancies, raw materials. Provisions for future expenses are undefined commitments that the entity is certain or likely to have to honour in the future and which will, normally, be valued more exactly in the future, e.g. the costs of a legal case that is likely to be lost, the costs of decommissioning a field when the on-going extraction of minerals will reach an end. 3.2.2	Classification Liabilities are classified according to when they are likely to fall due, i.e. within a year or in more than a year, as current and long term liabilities respectively. You will find provisions under either of the two categories according to when they are expected to become real. Often you will find that the same long term obligation has also a short term leg, as it is the case of mortgages, for the principal components falling due within a year, debentures, for the bonds reaching their maturity within a year, etc. 3.2.3	Valuation Liabilities are valued according to the expected value of the economic benefits that the entity will have to transfer to third parties, in order to settle the underlying obligations.
+
+19
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Balance sheet: its contents and informational aims
+
+This means that the value you see in the balance sheet for each item of liability or provision represents a prudent valuation of how much the entity is likely to have to pay when the obligation will fall due, this being the result of a statistical calculation weighting the probabilities of possible outcomes of series of events or simply an estimate of the likely payment that the entity might be required to make. An example of the first is a provision for the cost of replacement or repair of faulty products covered by guarantee, whereby the entity can estimate the expected number of products that will be returned under the terms of the guarantee and hence calculate the cost of replace or repair them. An example of the second is a provision for a case in court, whereby it is known that the entity will succumb and an estimate is made of the most likely (and prudent) amount that will have to be paid. More common examples, though, are the liabilities towards suppliers and providers, which are reported at their nominal value, unless it is likely that only part of the total amount will have to be eventually paid. Another typical liability item you will come across is deferred taxation. This occurs when the entity had been previously allowed to postpone the payment of its taxes, which created a liability to be paid in future years. Once again, this liability is likely to have a short term leg that reflects the amounts that are falling due in the next year.
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+20
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+International Financial Reporting
+
+Balance sheet: its contents and informational aims
+
+You might also come across the liability component of a hybrid financial instrument. This is the case of your chosen entity having issued, for example, convertible bonds.14 In compliance with IAS 39, these instruments are reported splitting the debt component, as if the bond was an ordinary one, and the equity component, which is the embedded ‘call option’, i.e. the option to buy a share at a fixed price in the future. See appendix B for an example of this calculation. For any other liability that you find in the balance sheet of your chosen entity, it is advisable to read the respective notes to the accounts, for explanations.
+
+3.3	
+3.3.1	
+
+Equity: value, meaning, components
+Value and its meaning
+
+The value of the equity is the result of total assets less total liabilities. It represents the ‘book value’ of the entity, i.e. its value according to the accounting books, which has a very weak link with the value attributed to it by actual and potential investors. The equity is normally a positive value. A negative equity is not sustainable in the long run, hence, in such case, an entity’s management will have to either raise more capital by issuing new shares or wind up the entity. Ultimately the equity, being the excess of assets over liabilities, represents the amount of capital that, according to the books, guarantees an entity’s solvency in case of winding up. However, given the definition of assets and their valuation criteria, it is apparent that a positive equity might, in fact, become negative in the very moment when the entity is being wound up. This is the effect of the going concern assumption fading away and the assets being, therefore, valued at their realisable value as opposed to their potential contribution to the entity in operation. 3.3.2	Components Not only the total value of the equity, but also its components convey valuable information for the readers of the accounts. The main message you want to obtain from the analysis of the components of the equity is what part of it is made of ‘realised’ profits, the remaining part being made of ‘recognised’ (but not realised) profits. Realised profits are values calculated yearly, and accumulated year on year, as the excess of revenues over expenses. We will address this concept in the next chapter on income statement, however it is worth knowing that only the profits that have been realised can be distributed to the shareholders as dividends, whilst non-realised profits cannot be distributed. The rationale underpinning this rule is that only realised profits objectively represent value added to the entity’s wealth, as they are the result of transactions with third parties. Recognised profits, instead, are the results of assumptions which, no matter how much they have been substantiated by sophisticated procedures and credible and certified experts, they still remain assumptions.
+
+21
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Balance sheet: its contents and informational aims
+
+Typically the equity includes the following: •	 Share capital, which represents the nominal value of all the shares issued by the entity •	 Share premium reserve, which represents the accumulated value of all premia paid by new shareholders as they bought shares at higher than their nominal values •	 Retained profits, or reserve of profits, which represent the accumulated profits that have been retained in the entity over its whole life. This value is often split in more reserves, called ‘other statutory reserves’ •	 Retained profit or loss, which represents the retained profit or the loss of the current year •	 Revaluation reserve, which represents the sum of all the recognised increases in value of non-current assets over the whole life of the entity •	 Gains and losses that have been accounted for directly in the equity, as opposed to having been included in the profit, i.e. not reported in the income statement. These are technical reserves made from the changes in value of financial instruments under certain circumstances or changes in value of other assets or liabilities due to changes in the rate of exchange between the currency used for the accounts and other denomination currencies of credits, debts and other items. You might come across other components of the equity, which are less significant and for which some explanation is likely to be given in the notes to the accounts.
+
+3.4	
+
+Overall informational value of the balance sheet
+
+The balance sheet provides you with an insight about how much capital the entity’s management can count on or, in more appropriate terms, the total value of the assets, which the management can employ to operate the business, and what these assets are. On the other hand, the balance sheet also indicates where the capital to finance these assets has come from; liabilities represent capital that is borrowed by the entity and equity represents capital that is owned by the entity. The capital coming from both liabilities and equity is invested in the entity’s assets. Hence, the accounting equation that underpins the balance sheet can be read with two perspectives: •	 the first is “Total assets – total liabilities = equity”, which highlights the message of the balance sheet that the equity is the excess of assets over liabilities, making the equity the entity’s ‘net book value’, i.e. the entity’s value, as reported in the books kept according to accounting rules, net of all liabilities (see section 3.3. above and figure 3)
+
+22
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Balance sheet: its contents and informational aims
+
+Currentassets
+
+Currentliabilities
+
+Longterm liabilities Fixedassets Sharecapital Reserves:
+Ͳdistributable ͲnonͲdistributable
+
+Figure 3 – the accounting equation as “Total assets – total liabilities = equity”
+
+•	 the second is “Total assets = total liabilities + equity”, which highlights the message that all assets must be financed by capital raised either through debt, i.e. liabilities, or through owner’s investment, i.e. equity. (See figure 4)
+
+Current assets
+
+Current liabilities
+
+Long term liabilities Fixed assets Share capital Reserves:
+
+-distributable -non-distributable
+
+Figure 4 – the accounting equation as “Total assets = total liabilities + equity”
+
+23
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Income statement: various levels of profit and informational aims
+
+4	 Income statement: various levels of profit and informational aims
+The income statement shows the entity’s performance in terms of profits, i.e. how the entity has transformed inputs in more valuable (when the profits are positive) outputs.
+
+4.1	
+
+Gross profit
+
+The first profit you might come across, when reading the income statement of your chosen entity (you can refer again to the annual reports indicated in chapter 1 – Introduction) is the gross profit. This profit shows the value that the entity has added to the value of the inputs that the entity has used to produce what has been sold. The equation for gross profit is: “Turnover – cost of sales = gross profit”
+
+.
+
+24
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+International Financial Reporting
+
+Income statement: various levels of profit and informational aims
+
+Where: •	 ‘turnover’ is the value recognised by the entity’s clients and customers for the production that has been sold. Turnover is also called ‘revenues’, ‘sale revenues’, ‘sales’ •	 ‘cost of sales’ or ‘cost of goods sold’ is the cost of production of what has been sold. This means that the costs of what has been produced but not sold are not included in here nor, indeed, anywhere else in the income statement. Hence, gross profit represents the ability of the entity to make its clients and consumers recognise a value for its products or services, which is higher than the cost of producing them. You can expect a comparatively15 high gross profit, from entities whose brand is renown as one of high quality, and a comparatively low gross profit, from entities whose brand is unknown or known as one of low price products or services. Gross profit is not always shown on the ‘face of the accounts’, i.e. in the page of the income statement, but is often shown in the notes to the accounts that refer to the next line down of the income statement, i.e. the operating profit. Certain entities choose not to show the gross profit; this is allowed by the IFRS/ IAS and is particularly obvious in businesses where gross and operating profits are difficult to separate. The reasons for this occurrence will be explained below, in the section on ‘operating profit’.
+
+4.2	
+
+Operating profit and profit before interest and tax
+
+The operating profit results from deducting from the gross profit further expenses and adding any operating income that was not included in the turnover. These are called, respectively, ‘other operating expenses’ and ‘other operating income’. The former represents: (i) administrative expenses, i.e. the costs of running the personnel office, the accounting department, the costs of legal advice, etc.; and (ii) distribution costs, i.e. those related to marketing, transport of finished goods, promotion, etc. Other operating income includes any income that comes from the operations of the entity, i.e. from producing, buying, selling, licensing third parties to use patents, brands, logos, etc. but is not originated by the entity’s core business. Other operating expenses and income can originate also from ‘exceptional items’, i.e. as the result of events that are exceptional by nature or size. For example profit or loss deriving from disposal of noncurrent assets is an exceptional item by nature, given that the entity is not normally disposing of its non-current assets, it is instead using them for production purposes. Also, profit deriving from an order of exceptional size, albeit of typical nature, is an exceptional item. The income and expenses deriving from the exceptional items can also be shown separately, below the operating profit; this choice is allowed by the IAS/IFRS.
+
+25
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Income statement: various levels of profit and informational aims
+
+As mentioned in the section above on gross profit, in certain entities, typically in service industries, all operating expenses are incurred on as part of running the core business; often there is no distinction between cost of sales and other operating expenses. For example, in airlines, it is difficult to draw a line that separates the administrative and distribution costs related to issuing a ticket (or processing an electronic booking) and the cost of sale of the same ticket. What about the check-in operations? Are they simply enabling the production of the main service of transporting passengers or are they part of the actual production of the service? Browse the British Airways latest annual report16 to find out how this entity has solved the problem of reporting its performance. As you will see, a list of the major categories of costs is presented with no distinction of what is ‘cost of sales’ and what is ‘other operating expenses’, but with a useful level of detail. Profit before interest and tax represents the profit made by the entity from anything but financial income and costs. In other terms, below this line you will find other income related to financial investments, i.e. mainly interest, as well as other costs related to borrowing, i.e. once again mainly interest – unless the entity is operating in the banking sector, where of course interest payable and earned are part of the core business. Only in case the exceptional items have been shown separately, you will find that profit before interest and tax and operating profit show two different values. If the two values are the same, chances are that you will not see both reported (what would the point be?). This might confuse you, when you compare two or more entities, where one reports an operating profit and the others report a profit before interest tax, but they all might refer to the same concept. However the layout is arranged, the operating profit is a key value for the evaluation of the performance of a reporting entity in that it represents the profit that the entity has been able to create from its operations (including or not including exceptional items and with separate consideration of the discontinued operations, if it is the case). The operations are at the core of the entity’s business and, where the operations provide a healthy profit, the entity is achieving one of its main targets, i.e. produce wealth. In this case, whether this wealth actually reaches the owners, making the entity fulfil its main reason of existence, depends no longer on the entity’s operations but on how it is financed, given that the only remaining cost to be deducted from the profit before interest and tax, is the cost related to the financing of the entity. This is the reason why, when analysing the performance of the entity, it will be important to devise, in the context of the specific analysis, whether it is appropriate to consider or to exclude exceptional items or the discontinued operations, depending on whether the analysis aims at evaluating the performance of the specific period under consideration or is more focussed on the underlying performance of the entity. More on this matter will be considered in the next chapters of this guide.
+
+26
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Income statement: various levels of profit and informational aims
+
+4.3	
+
+Profit after tax and retained profit
+
+Profit after tax results from deducting tax from the profit before interest and tax. The deducted tax is the amount of taxation calculated from the profit before interest and tax, regardless of any public policy that, as it happens, allows postponing the payment in certain circumstances. This form of profit is also called ‘profit attributable to the shareholders’, meaning that the owners are entitled to that value created by the entity; part of this profit will reach the owners directly, when dividends are paid out, the remaining will be reinvested in the entity itself, becoming ‘retained profit’ that goes to feed the equity. As the shareholders’ equity represents the book value of the entity, the owners see their capital increase in value by the ‘retained profit’, which is a distributable reserve of the shareholders’ equity – as illustrated in figure 5.
+Balance sheet Current Assets Current liabilities Income statement Turnover (cost of sales) Gross profit (other operating expenses) other operating income Operating profit/profit before int.&tax (finance costs) finance income Profit before tax (taxation) Profit attributable to the shareholders
+
+Long term liabilities Fixed assets
+
+Shareholders’ Equity
+
+Shareholders
+Figure 5 – the allocation of profit attributable to the shareholders
+
+In broader terms you can look at the income statement as the valuation of the allocation of the wealth, originated by the operating and financial income, to various different parties, which are the entity itself, suppliers of materials and services, employees, providers of credit capital and providers of equity capital – as illustrated in figure 6.
+
+27
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Income statement: various levels of profit and informational aims
+
+Trade Suppliers + Employees + Consultants
+
+Clients + Consumers Income statement Turnover (cost of sales) Gross profit (other operating expenses) other operating income Operating profit/profit before int.+tax (finance costs) finance income Profit before tax (taxation) Profit attributable to the shareholders
+
+Trade Suppliers + Employees + Consultants
+
+Clients
+
+Lenders
+
+Borrowers
+
+Government Shareholders + their equity
+Figure 6 – the origins and destination of income
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+28
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+International Financial Reporting
+
+Cash flow statement: its contents and informational aims
+
+5	 Cash flow statement: its contents and informational aims
+The cash flow statement shows the entity’s performance in terms of cash flows, i.e. from where the cash inflows have come and to where the cash outflows have gone. The cash flow statement is divided in three parts: cash from operating activities, cash from investing activities, cash from financing activities. Cash from operating activities is made of cash outflows, spent to run the reporting entity’s core operations, e.g. paying trade creditors, paying workforce, bills and consultants; and cash inflows, deriving from selling the products or services typical of the reporting entity. Cash from investing activities is made of cash outflows spent to purchase non-current assets and cash inflows deriving from disposing of those assets. Cash from financing activities is made of cash inflows deriving from obtaining loans and other credit, and cash outflows spent to repay those debts. Each of the three parts can show a net cash inflow or a net cash outflow as a result, respectively if the cash inflows of those activities are higher or lower than the cash outflows. However, it is typical for an entity that the operating activities show a positive net cash flow, the investing activities result in a negative net cash flow and the financing activities result in a negative net cash flow. This typical situation is the scenario of an entity that is creating more cash than it uses for running its core operations, uses cash to maintain and perhaps expand its assets and uses cash to pay back its lenders. Other scenarios are made of the various possible combinations of positive and negative results. For example in the year when an entity has borrowed a substantial amount of money, the cash from financing activities is likely to be a positive figure. The meaning is that in that year the entity might have improved its liquidity position, by borrowing more money; in the years to come that money must be returned to the lenders, hence the cash from financing activities will show a reverse effect, i.e. it will contribute to deplete the cash resources of the reporting entity. Again, you might come across entities that report a positive cash flow from investing activities. This is typically due to the entity disposing of non-current assets, i.e. properties plant and equipment or financial assets or indeed intangible assets. Regardless whether or not the entity has made a gain out of the disposal, i.e. whether or not it has sold the asset at a higher value than its net book value, as long as it has sold the asset for a price, a positive cash flow is derived from that disposal.
+
+29
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Cash flow statement: its contents and informational aims
+
+These examples should lead to a reflection about the difference between cash and economic performance. The latter example, taken to the extreme, leads to a reporting entity that can potentially become cash rich in the short term, but that is depleting its capital assets, compromising its capacity to produce profits in the medium and long term. On the other hand, you might come across reporting entities whose fast paced expansion absorbs more liquidity than it produces, despite being profitable. A worked example is reported in appendix C, where the case of fictitious consulting company called ‘Consulando’ is presented. Consulando expands at such a fast pace that every month it needs larger amounts of cash to pay for the services it provides to ever more clients, whilst the amounts of cash that it receives from the clients served in the previous months is never sufficient to cover for the current needs. Once Consulando will stop expanding, the cash inflows will catch up with the cash outflows and the business profitability will be reflected also in accumulation of cash, as illustrated in figure 6. The peril is, of course, that before Consulando has saturated the entire demand that it potentially can, its managers decide or are forced to slow down the expansion, because of lack of access to immediate cash.
+
+Figure 6 – the cash flow and the margin trends of Consulando compared – see appendix C for calculations and assumptions.
+
+If Consulando were to close its accounts on 31st August 2009, its cash flow statement would show a negative cash flow from operations most likely compensated by a positive cash flow from financing activities or, if the reporting entity was cash rich from previous activities, the negative cash flow from operations would most likely not need to be compensated by financing activities and the net change in cash at the end of the year would be negative. In this scenario, drawing a conclusion that Consulando is not performing well would be wrong.
+
+30
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Statement of changes in equity: its contents and informational aims
+
+6	 Statement of changes in equity: its contents and informational aims
+The statement of changes in equity shows a detail of the changes of the equity from the beginning to the end of the year. The main reason for the equity to change is, as explained in section 4.3 above, due to the retained profit contribution to the distributable reserves. However, many other events can affect the equity. When reading an annual report you must be aware of the following most common reasons for changes of the equity: •	 Issue of new shares. In this case the increases of share capital and share premium reserve are balanced by an increase in cash and debtors •	 Revaluation of properties. In this case the increase of the revaluation reserve is balanced by an increase in value of the non current assets •	 Changes in value of certain financial instruments. This occurs when some financial instruments, such as shares, derivatives, etc., are treated at their ‘fair value through profit and loss’. The matter is regulated by IAS 39 and is, at the moment of writing this study guide, subject to a ‘relaxation’ of this rule •	 Changes due to translation from foreign currencies. This derives from the changes in value of assets and liabilities which are denominated in different currencies in the subsidiaries that are part of the reporting entity and had to be ‘translated’ into the reporting currency. This translation might have created losses of gains from one year to the other. Refer to your chosen annual report and read the statement of changes in equity. To make sense of it, you will need to read some of the relevant notes to the accounts, on the other hand you might find that some of the items are very technical, but this should not impede your effective insight in the reporting entity’s movements of equity.
+
+31
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Analysis and interpretation of the annual report
+
+7	 Analysis and interpretation of the annual report
+7.1	 The narrative component of the annual report
+As we have seen so far, the annual report provides its readers with a large amount of information about the performance and situation of the reporting entity. You can think of all this information as different ‘lenses’ through which to analyse the same object, i.e. the reporting entity. As any tool, also these ‘lenses’ can be used effectively or misused, hence some guidance on how to use them must be sought. This is provided by the abundant information that is normally contained in the narrative parts of the annual report. The directors’ report, the operating and financial review and the other possible sections of the annual report provide different keys to interpret the figures reported in the accounts. Your interpretation of the accounts must consider these proposed views, but should also be critical of them.
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+32
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+International Financial Reporting
+
+Analysis and interpretation of the annual report
+
+On the one hand, it is widely recognised among analysts that the more information is included in the annual report, which can ease the insight in the performance and situation of the entity, the less uncertainty and risk are attached to the entity’s values and prospective performance. On the other hand, the very nature of this information allows the directors to steer the attention of the readers towards certain results as opposed to others, biasing their judgement about the performance and situation of the entity. A typical example occurs when an increase in turnover is highlighted, whilst its negative effects on the profitability are not mentioned. Another example is provided by directors pointing the attention to the underling performance of the year, but neglecting that ‘exceptional’ events have completely undermined it during the financial year – or vice versa according to what makes the picture more convenient.17
+
+7.2	
+
+Ratio analysis
+
+Ratios enable to form an insight into the different aspects of the performance and financial situation of a reporting entity, by calculating the relationships between various values of the accounts. The results of these calculations must be interpreted in light of the entity’s strategy and targets, of its past results and of the results of its competitors or broader industry averages. 7.2.1	 Profitability analysis
+
+As one of the main aims of the reporting entity is to maximise the wealth of its owners in the medium and long term, an important question to pose when starting the analysis of the entity is whether this aim has been achieved. Profitability, from the owners’ point of view, means how much profit attributable to them has been produced, given their investment in the entity. The profit attributable to the owners is, as explored above, the net profit (normally after tax), whilst the owners’ investment is represented by the equity, making the Return on Equity as follows: ROE = net profit / equity. Although the owners have directly invested only the amount of money represented by the share capital and the share premium reserve (see chapter 3 above), their interest in the entity is represented by the entire equity, as this includes other reserves of capital accumulated by the entity from the use of its own assets, i.e. profit, or from their revaluation. Hence, the equity is made of capital that in various forms and more or less directly is attributable to the owners. A more detailed aspect of the profitability of the entity explores the amount of wealth that the entity has created by using the resources made available for its operations. We are looking, in this case, at the operating profit, i.e. the profit made from the operations, regardless how these are financed (remember that operating profit is calculated before deducting the cost of financing). The operating profit was made possible by the use of the resources that normally employed in the entity for its operations. These are represented by the that amount of assets that is financed by long term sources of capital, such as equity and long term liabilities. Hence, the formula for capital employed is:
+
+33
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Analysis and interpretation of the annual report
+
+Capital employed = equity + long term liabilities This means that the capital employed includes all the non-current assets and those current assets, which are constantly employed. Examples of this part of the current assets are: the oil in long pipelines, whereby a certain amount of oil must be constantly present in the pipeline for the pipeline to work, despite this oil is a current asset and despite its very fast movement, it still represents a constant investment; grocery on the outlets’ shelves, whereby there need to be an average amount of grocery constantly on the shelves for the business to operate, and regardless of how fast this grocery turns over, that capital is constantly invested in that grocery. Seen from a different point of view (refer to the accounting equation explained in chapter 3), this formula is also: Capital employed = total assets – current liabilities In this second version the capital employed is seen as the total amount of assets from which the volatile element of current assets is removed. The volatile element of current assets is that part of current assets financed by current liabilities, which are affected by a similar volatility. Once again, this leads to considering the capital employed as the amount of capital that is constantly or normally employed. Hence the formula for Return on Capital Employed is: ROCE = operating profit / capital employed. Whether you decide to use operating profit including exceptional events or you prefer to stick with the underline performance, i.e. the performance that does not consider the exceptional events and the discontinued activities, depends on the aim of your analysis; are you investigating the performance of a specific period of time, or are you trying to understand the potential of the entity in its core operations? Further analysis will most likely break in two avenues: one aimed at exploring the margins, i.e. the level of prices in comparison with the costs of producing and selling, and the other aimed at exploring the pace of the capital turnover, i.e. how fast the capital employed is renewed in a year. Formally, this is done by calculating respectively Return on Sales and Asset TurnOver: ROS = operating profit / sales ATO = sales / capital employed
+
+34
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Analysis and interpretation of the annual report
+
+The obvious relationship ROS X ATO = ROCE is quite meaningful. It says that the profitability of the core operations is made of a combination of pace of the turnover of the capital and margins. In other terms, if an entity’s strategy is based on selling high volumes of products or services at low prices, this analysis will most likely show high ATO and low ROS. Typical examples of such a strategy are found in the retail industry, where the large chains of retail shops embark in fierce price competitions to lure customers from each other aiming at expanding their volumes of sales as much as possible. Obviously their margins per unit of product are reduced to the minimum. If an entity’s strategy is based on selling products or services to selected segments of the market at high prices, this analysis will most likely show high ROS and low ATO. Typical examples of such a strategy are found in the deluxe products industries, e.g. precious objects, jewelleries, etc. where a high margin for each unit of product sold is obtained but the volume of sales is relatively low. The combined effect of margin and volume, i.e. ROS and ATO can lead to a better ROCE in either of the strategies. Although it is normally possible to identify quite clearly if the strategy of an entity is more on the high-volume-low-margin or low-volume-high-margin direction, often attempts are made to increase both volumes and margins. Typically, you should reflect on the accounting effects of new lines of premium products in the high-volume-low-margin context, e.g. the ‘organic’ product line in a supermarket chain; the margins per unit will increase and the volume will be, probably, unaffected. On the other hand, you should reflect on the effects of a new line of less pricy (and less expensive to produce) clothing to be added to a prestigious brand; the margins per unit will be marginally, if at all, reduced, but the volumes will increase significantly as an entire new segment of the market is targeted.
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+35
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+International Financial Reporting
+
+Analysis and interpretation of the annual report
+
+Select a number of entities, of which you have some knowledge, and which are operating in the same industry, obtain their accounts and work out the three ratios: ROCE, ROS and ATO. You should be able to position them in a matrix as in figure 7. Their positions will most likely confirm your prior knowledge about their brand strategy but also, maybe, reserve some unexpected results.
+
+Figure 7 – matching brand strategy with accounting results
+
+Further, you will find it useful to calculate other ratios, aimed at exploring the components of the ROS and ATO. 7.2.2	 Exploring ROS
+
+Gross profit percent, i.e. how much gross profit is made for every £100 of sales, represents the ability of the entity to add value to the resources it has consumed for the production of what has been sold. This result enables to investigate even more closely the accounting effects of the consumers’ and clients’ perceived quality of the entity’s products or services (see above chapter 4 on Income statement). On the other hand, the effort that the entity has made, in order to create such a perception of quality, is reflected in the distribution, administrative and other operating costs. Hence, the valuation of these costs, too, as a percentage of the sales gives an effective comparative tool between different entities. 7.2.3	 Exploring ATO
+
+The turnover of the entity’s non-current assets and the turnover of the entity’s working capital,18 respectively ‘calculated as sales divided by non-current assets’ and ‘sales divided by working capital’, will give some insight on how effective the entity is, in comparison with its competitors, in using its noncurrent assets and how efficient it is in using its current assets. Respectively, the higher the non-current assets turnover, the more effective the entity is, as it is able to obtain more sales from those assets; the higher the working capital turnover, the more efficient the entity is in making its current assets flow at a fast pace.
+
+36
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Analysis and interpretation of the annual report
+
+The sequence of ratios linked in a sort of cascade as explained so far is called the ‘pyramid of ratios’, as illustrated in figure 8.
+
+ROCE ROS
+
+X
+
+ATO
+
+GP%
+
+Other Op. Exp.%
+
+Non-current Working capital assets turnover turnover
+
+Figure 8 – the pyramid of ratios
+
+7.2.4	
+
+Solidity and solvency
+
+The conceptual difference between ROE and ROCE is explained above, in terms of purposes and use of the two ratios. However, in managerial terms, there is link between the two ratios; the difference in value between the two ratios is originated by the amount of debt exposure of the entity. If the value of the equity is kept constant, increasing long term liabilities implies an increase of the capital employed. As a consequence, the entity can count on more resources with which to produce more operating profit, at a pace measured by ROCE. If the additional finance cost created by the additional long term liability does not exceed the increase of operating profit, the net profit will increase, too, hence improving the ROE. See figure 8. The amount of long term liabilities in respect of the amount of equity is called Gearing19 and is measured with the following formula: Gearing = long term liabilities / equity
+
+Figure 8 – the gearing effect on the size of an entity
+
+37
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Analysis and interpretation of the annual report
+
+It might seem, as a corollary of the above explanation, that the higher the gearing is, the better it is for the owners of the business, because of its multiplier effect of the profitability. However, the effect of high gearing is also that the risk of the entity increases, as the entity is committed to more and more debt to be paid back (principal) and paid for (interest). Should the ROCE decline, the entity might find itself over-exposed towards its lenders and using more resources than it is creating, i.e. reducing the owners’ wealth instead of maximising it. In fact, as a general rule, there is a point of the expansion of any entity where further expansion will result in reduction of ROCE, because less profitable markets will have to be targeted and because the costs of coordination of an ever expanding entity will increase more than proportionally of the benefits they create. Equally, there is a point of a gearing-based expansion, beyond which the cost of financing the expansion will be more than proportional to the amount of new raised capital, which is due to the increasing risk that the lenders attach to the entity. Hence, there is a point in the way of an ever expanding entity, where expanding is no longer logical, as its cost overcomes its benefit. A wise management must identify this point and stop exposing the entity to new debt well ahead of that point, to account for the risk of unwillingly drifting towards it, should the profitability slow down at a faster than expected pace or the cost of debt increase at a faster than expected rate. See figure 9.
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+38
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+International Financial Reporting
+
+Analysis and interpretation of the annual report
+
+Figure 9 – the risk associated with gearing and the ‘danger zone’
+
+You will be able to assess the appropriateness of your chosen entity’s gearing by comparing its gearing with the average gearing of its competitors and the average in the industry. Also, other ratios will complement this information: one of them is the ‘interest cover’, for example, which shows how many times the operating profit is larger than the cost of financing the entity, with the following formula, Interest cover = operating profit / finance costs You can choose to consider the ‘net finance cost’, i.e. finance cost deducted of finance income or purely the ‘finance cost’, based on whether the finance income is integral part of the normal financing activity of the entity or derives from an exceptional event. 7.2.5	Liquidity Another effect of the combination of profitability, gearing and management of cash flows is the status of the entity’s liquidity. Liquidity represents the ability of the entity to pay for its current liabilities counting on its current assets. An entity that can honour its current liabilities (including not only trade creditors, but also interest and short term component of long term loans) by using its current assets is said to be liquid. An entity whose current assets are not sufficient to cover honour the current liabilities, but which as a consequence has to dispose of non-current assets or indeed repeatedly renew its short term loans (transforming them de facto in long term ones), is said to be illiquid.
+
+39
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Analysis and interpretation of the annual report
+
+The assessment of whether an entity is liquid or illiquid can be attempted by using a set of ratios: current and quick ratios, which compare the amount of current assets to the amount of current liabilities at a point in time, and the debtors’, creditors’ and inventory’s days, which measure the time it takes on average for the cash flows to enter or leave the entity from the day of their economic origin. The formulae are as follows: Current ratio = current assets / current liabilities Quick ratio = (current assets – inventory) / current liabilities Debtors’ days = (trade debtors / sales) × 365 Creditors’ days = (trade creditors / purchases) × 365 Inventory’s days = (inventory / cost of sales) × 365 These ratios are not free from inconsistencies and limitations in their use. Among others: (i) they refer to trade creditors and debtors, whilst we are interested in the whole of the cash flows, but this makes the results more reliable and meaningful; (ii) purchases are normally not given in the account, hence they must be constructed starting from cost of sales and adjusting for amortisation, depreciation and variation of inventories (see cost of sales in chapter 4 on income statement); and (iii) they should refer to more representative values of the debtors, creditors and inventory than the closing ones, e.g. annual averages. A general rule states that the current and quick ratios should be high enough to guarantee that the entity will be able to honour its current liabilities, but also low enough to prevent the entity from having capital tied up in non-productive investment, i.e. cash, debtors, inventory. However, what ‘high’ and ‘low’ mean depends on a number of factors: the entity’s strategy, its business, its industry and its monetary cycle. The latter refers to the timing of the cash inflows and outflows. By combining debtors’, creditors’ and inventory’s days it is possible to work out the monetary cycle, i.e. how long it takes for the entity, on average, to transform a cash outflow in a cash inflow. See figure 10
+Inventory’s days Creditors’ days Debtors’ days
+
+Purchase
+
+Cash outflow
+
+Completion of production
+
+Sell
+
+Cash inflow
+
+Monetary cycle
+Figure 10 – a positive monetary cycle
+
+40
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Analysis and interpretation of the annual report
+
+Although the most normal situation is that entities show a positive monetary cycle, i.e. they spend cash before receiving cash from the related activities, hence they have a cycle made of a positive number of days, it is quite frequent in certain industries that the monetary cycle is negative.20 The meaning of this is that the entity receives cash for certain activities, in advance of spending it for the same activities. This is typical of large retailer chains, which sell very quickly to customers who pay very quickly (often they pay contextually to the sale) and pay their suppliers long after having purchased from them. In this type of scenarios current and quick ratios below the value of 1, are perfectly acceptable, given that although the value of current assets at a given point is not enough to pay for the current liabilities at that given point, it is also true that those assets will be transformed in cash more quickly (hence more frequently) than those liabilities will fall due. See figure 11.
+Inventory’s days Debtors’ days Creditors’ days
+
+Purchase
+
+Sell
+
+Cash inflow Negative monetary cycle
+
+Cash outflow
+
+Figure 11 – a negative monetary cycle
+
+AXA Global Graduate Program
+Find out more and apply
+
+41
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+International Financial Reporting
+
+Analysis and interpretation of the annual report
+
+Also, when performing a liquidity analysis, it is advisable, once again, that you refer to the entity’s strategy, to devise what values are appropriate and justifiable. For example, an entity whose business is to provide parts and components for aircraft maintenance and whose mission statement is to respond, with a less than 24 hour delivery, to any client’s request, will need to have very high inventory levels, which will make its current ratio abnormal in comparison with other entities operating in different fields21.
+
+7.3	
+
+A holistic and dynamic approach to analysis and interpretation
+
+Although the process of analysis, by its very nature, is based on dissecting the various aspects of the entity’s performance and situation, in order to enable us to consider them in specific comparison with similar aspects of other entities (individually or in aggregations), we should not overlook the fact that the entity is one. As such every aspect of its performance and situation is linked to the others, in a complex interconnection of causes and effects, which are dictated by the entity’s declared strategy and the entity’s contingent facts, which might have significantly departed from the planned strategy, hence the analysis and interpretation must follow a holistic approach. The implication is that any consideration about performance and situation must be supported by the evaluation of a number of different aspects. For example, when considering an entity’s ROE higher than the relevant competitors, an evaluation of the Gearing must be done to assess if that higher profitability bears a higher risk. The analysis will include the calculation of the interest cover, to assess the sustainability of that level of gearing. Also, it must be assessed how sustainable that profitability is, by evaluating the underling performance as opposed to the exceptional events and whether it comes from a configuration of volume and margin (ROS and ATO) that complies with the declared strategy. Furthermore, every aspect of the entity is affected by a continuous change and transformation, hence the analysis must be based on a dynamic perspective. For example an entity that has just embarked in a fast paced expansion process, might have a seemingly plunging ROCE, caused by the distribution and other administrative costs needed for the expansion to take place. However, if the expansion has been successful and its Gross profit percent has remained at the desired level, it is likely that those costs that affected the ROCE will not occur again, leading to a restored ROCE and, consequent to the expansion, an improved ROE, subject to checking if the expansion was conducted by raising credit capital at a cost below ROCE or equity less than proportionally to the increase of the profit.22 Finally, the business sustainability must be tested, given that the entity’s very existence might depend on its weakest aspect; whereby a profitable and solid entity might collapse for bad liquidity management, whilst an entity that seems to thrive might, in fact, being burning its resources and undermining its reputation on the market to an extent that endangers its medium and long existence. Also, an entity might appear strong in every aspect of its performance and situation, but is hiding a miscalculation of the risk that it has taken on board and that is not fairly reflected in its accounts… and, to point your attention on how important this effect can be, you should recall that this is one of the widely accepted causes of the current global financial crisis.
+
+42
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Appendix A
+
+Appendix A
+
+43
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Appendix A
+
+44
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Appendix A
+
+45
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+International Financial Reporting
+
+Appendix B
+
+Appendix B
+A company has issued at par the following convertible bonds on 1st January 2009: 1,000 “$100 – 31/12/2013 – 5% convertible into 50 ordinary shares per $100 OR redeem at par at maturity”. Contextually the same company has issued ordinary, i.e. non-convertible bonds, with same maturity bearing and interest rate of 6%. The value of the debt component is calculated as follows: Present value of redemption payment		 Present value of interest (5 years)		 Value of equity proceeds			 $74,726 $21,062 $ 4,212
+
+Value of debt					$95,788 Par value					$100,000 Where: $74,726 = $100,000 / (1.06)5 $21,062 = [$1,000 / (1.06)] + [$1,000 / (1.06) 2] + [$1,000 / (1.06) 3] + [$1,000 / (1.06) 4] + [$1,000 / (1.06) 5] $4,212 = $100,000 – $95,788 NB: The redemption and the interest payments have been discounted using 6%, which is an appropriate discounting rate for the debt component of the convertible bond, because it is the interest of a similar ordinary bond.
+
+46
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Appendix C
+
+Appendix C
+Consulando – the case of an expanding firm’s cash flow. This example provides some explanations about a cash budget in the case of an expanding consulting firm. Consulando is a consulting firm operating in the fields of Auditing, Tax planning and Managerial consulting. Consulando has experienced a relatively slow growth, since it was established five years ago. However, because of external factors, such as legislation and economics conditions, and because of its very strong reputation, Consulando is now going to face the forecast of an unprecedented growth. It has been possible to make some estimates only for the next 12 months, as any forecast beyond this period would be unreliable. The Excel spreadsheet attached to this document allows you to make some assumptions about the current level of business and the rate of growth. You will insert your assumptions only in the orange cells of the sheet called “Scenario”. All the others will be automatically updated. The choice of assumption you see as a starting point, i.e. before you modify them by including your own, results in a Master budget that shows positive margins throughout the financial period. However, Consulando would need a significant amount of cash to finance its operations, under these assumptions. The reasons for this situation lie on the fact that the clients who take longer to pay are the ones growing faster, hence Consulando has to spend fast-growing amounts of cash, in order to provide those clients with services, but will receive cash from them later on. This is a typical situation where, despite being very profitable, the business can be illiquid until it stops expanding. At that point the growth of the cash inflows will catch up with that of the cash outflows and the net cash flow will be positive… and indeed very high if the firm has expanded for a long period of time! You can make the assumption that the other clients, i.e. those who pay more quickly, grow faster than the first category, and observe what happens. Chances are that Consulando will be less profitable, but more liquid! Make your own assumption and adapt the model to your firm. Enjoy your model! Marco
+
+47
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Appendix C
+
+Insert in the table below the current volume of business and the forecast rate of constant growth by category of clients Current monthly volume of business. Values in thousands of $ Auditing Clients tier 1 Clients tier 2 Clients tier 3 1,000 2,000 2,500 5% 15% 20% Forecast rate of contant growth
+
+Tax planning Clients tier 1 Clients tier 2 Clients tier 3 2,000 1,500 1,000 10% 7% 5%
+
+Managerial consulting Clients tier 1 Clients tier 2 Clients tier 3 800 900 750 3% 5% 7%
+
+Insert in the table below the expected costs of sales by typology of costs as a percentage of revenues (volume of business) Consultant hours Other direct costs 60% 20%
+
+Insert in the table below the expected monthly fixed costs of sales by typology of costs in dollars Administrative Property 350 250 400
+
+Other monetary costs
+Assumptions:
+
+1. Auditing clients pay three months after the service is provided 2. Tax clients pay two months after the service is provided 3. Managerial clients pay one month after the service is provided 4. All costs are paid in the months when they are incurred
+
+48
+Download free eBooks at bookboon.com
+
+31/01/2009
+
+28/02/2009
+
+31/03/2009
+
+30/04/2009
+
+31/05/2009
+
+30/06/2009
+
+31/07/2009
+
+31/08/2009
+
+30/09/2009
+
+31/10/2009
+
+30/11/2009
+
+    5% 15% 20%     10% 7% 5%           5% 5% 5% 5% 5%   7% 7% 7% 7% 7% 10% 10% 10% 10% 10% 10% 7% 5%                 10% 7% 5%                 20% 20% 20% 20% 20% 20% 20% 15% 15% 15% 15% 15% 15% 15% 15% 20%     10% 7% 5%   5% 5% 5% 5% 5% 5% 5% 5% 5% 15% 20%     10% 7% 5%                    
+
+Current monthly volume of business   5% 15% 20%     10% 7% 5%  
+
+Auditing
+
+ 
+
+ 
+
+Clients tier 1
+
+1,000
+
+5%
+
+International Financial Reporting
+
+Clients tier 2
+
+2,000
+
+15%
+
+Clients tier 3
+
+2,500
+
+20%
+
+ 
+
+ 
+
+ 
+
+Tax planning
+
+ 
+
+ 
+
+Clients tier 1
+
+2,000
+
+10%
+
+Clients tier 2
+
+1,500
+
+7%
+
+Clients tier 3
+
+1,000
+
+5%
+
+Download free eBooks at bookboon.com   3% 5% 7% 7% 7% 5% 5% 3% 3% 3% 5% 7%         3% 5% 7%   3% 5% 7%   3% 5% 7%   3% 5% 7%
+
+ 
+
+ 
+
+ 
+
+Managerial consulting
+
+ 
+
+ 
+
+  3% 5% 7%
+
+  3% 5% 7%
+
+  3% 5% 7%
+
+Clients tier 1
+
+800
+
+3%
+
+Clients tier 2
+
+900
+
+5%
+
+Clients tier 3
+
+750
+
+7%
+
+31/12/2009
+
+49
+
+Appendix C
+
+International Financial Reporting
+
+Appendix C
+
+Current monthly 31/01/09 28/02/09 31/03/09 30/04/09 31/05/09 30/06/09 31/07/09 31/08/09 30/09/09 31/10/09 30/11/09 31/12/09 31/01/10     1,796     1,796     6,277 3,378 1,796         6,277 3,378 1,796   1,141 1,616 1,689     1,141 1,616 1,689       350 250 400     9,137 All values in Thousands of $ Revenues Auditing Clients tier 1 Clients tier 2 Clients tier 3   Tax planning Clients tier 1 Clients tier 2 Clients tier 3   Managerial consulting Clients tier 1 Clients tier 2 Clients tier 3   Total revenues (a) Expenses Consultant hours Other direct costs Administrative Property Other monetary costs   Total expenses (b) Margin (a)-(b) Cumulative margin   1,755 3,813 6,215 9,012 12,262 16,032 20,403 25,467 31,333 38,129 46,007 55,144 64,281 73,417         400   400   400   400   400   400   400   400   400   400   400   400   400   800 900 750                 824 945 803     849 992 859     874 1,042 919     900 1,094 983     927 1,149 1,052     955 1,206 1,126     984 1,266 1,204     1,013 1,330 1,289     1,044 1,396 1,379     1,075 1,466 1,475     1,107 1,539 1,579     1,141 1,616 1,689   of business     1,000 2,000 2,500     2,000 1,500 1,000         1,050 2,300 3,000     2,200 1,605 1,050   28/02/10 350 250 9,137 volume
+
+    1,103 2,645 3,600     2,420 1,717 1,103
+
+    1,158 3,042 4,320     2,662 1,838 1,158  
+
+    1,216 3,498 5,184     2,928 1,966 1,216  
+
+    1,276 4,023 6,221     3,221 2,104 1,276  
+
+    1,340 4,626 7,465     3,543 2,251 1,340  
+
+    1,407 5,320 8,958     3,897 2,409 1,407  
+
+    1,477 6,118
+
+    1,551 7,036
+
+    1,629 8,091
+
+    1,710 9,305
+
+    1,796
+
+10,701 10,701 10,701
+
+10,750 12,899 15,479 18,575 22,290 22,290 22,290     4,287 2,577 1,477         4,716 2,758 1,551       5,187 2,951 1,629       5,706 3,157 1,710       6,277 3,378 1,796
+
+13,777 15,287 17,011 18,985 21,249 23,852 26,853 30,319 34,330 38,983 44,390 50,684 50,684 50,684   8,266 2,755 350 250   9,172 3,057 350 250                    
+
+10,207 11,391 12,749 14,311 16,112 18,191 20,598 23,390 26,634 30,410 30,410 30,410 3,402 350 250 3,797 350 250 4,250 350 250 4,770 350 250 5,371 350 250 6,064 350 250 6,866 350 250 7,797 350 250 8,878 350 250 10,137 10,137 10,137 350 250
+
+12,021 13,230 14,609 16,188 17,999 20,082 22,482 25,255 28,464 32,186 36,512 41,547 41,547 41,547 1,755 2,057 2,402 2,797 3,250 3,770 4,371 5,064 5,866 6,797 7,878 9,137
+
+50
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+Appendix C
+
+Current monthly 31/01/09 28/02/09 31/03/09 30/04/09 31/05/09 30/06/09 31/07/09 31/08/09 30/09/09 31/10/09 30/11/09 31/12/09 31/01/10 Thousands of $ of business     1,000 2,000 2,500   1,000 2,000 2,500     2,000 1,500 1,000   2,000 1,500 1,000   28/02/10     1,710 9,305 18,575     6,277 3,378 1,796     1,141 1,616 1,689   45,487   26,634 8,878 350 250 400 36,512 8,976 All values in volume
+
+Cash inflows   Auditing Clients tier 1 Clients tier 2 Clients tier 3    
+
+    1,000 2,000 2,500     2,000 1,500 1,000  
+
+    1,000 2,000 2,500     2,200 1,605 1,050  
+
+    1,050 2,300 3,000     2,420 1,717 1,103  
+
+    1,103 2,645 3,600     2,662 1,838 1,158  
+
+    1,158 3,042 4,320     2,928 1,966 1,216  
+
+    1,216 3,498 5,184     3,221 2,104 1,276  
+
+    1,276 4,023 6,221     3,543 2,251 1,340  
+
+    1,340 4,626 7,465     3,897 2,409 1,407  
+
+    1,407 5,320 8,958     4,287 2,577 1,477  
+
+    1,477 6,118 10,750     4,716 2,758 1,551  
+
+    1,551 7,036 12,899     5,187 2,951 1,629  
+
+    1,629 8,091 15,479     5,706 3,157 1,710  
+
+Tax planning   Clients tier 1 Clients tier 2 Clients tier 3   Managerial consulting Clients tier 1 Clients tier 2 Clients tier 3   Total cash inflows (a) Cash outflows Consultant hours Other direct costs Administrative Property Other monetary costs Total cash outflows (b) Net cash flow (a)-(b) Cumulative cash Blu shades are assumed inflows from the past                         800 900 750
+
+  800 900 750  
+
+  824 945 803  
+
+  849 992 859  
+
+  874 1,042 919  
+
+  900 1,094 983  
+
+  927 1,149 1,052  
+
+  955 1,206 1,126  
+
+  984 1,266 1,204  
+
+  1,013 1,330 1,289  
+
+  1,044 1,396 1,379  
+
+  1,075 1,466 1,475  
+
+  1,107 1,539 1,579  
+
+  1,141 1,616 1,689  
+
+12,450
+
+12,572 13,055 14,425 15,982 17,757
+
+19,786
+
+22,109
+
+24,776
+
+27,846
+
+31,386
+
+35,479
+
+40,219
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8,266
+
+9,172
+
+10,207 11,391 12,749 14,311
+
+16,112
+
+18,191
+
+20,598
+
+23,390
+
+26,634
+
+26,634
+
+26,634
+
+2,755
+
+3,057
+
+3,402
+
+3,797
+
+4,250
+
+4,770
+
+5,371
+
+6,064
+
+6,866
+
+7,797
+
+8,878
+
+8,878
+
+8,878
+
+350 250
+
+350 250
+
+350 250
+
+350 250
+
+350 250
+
+350 250
+
+350 250
+
+350 250
+
+350 250
+
+350 250
+
+350 250
+
+350 250
+
+350 250
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+12,021
+
+13,230 14,609 16,188 17,999 20,082
+
+22,482
+
+25,255
+
+28,464
+
+32,186
+
+36,512
+
+36,512
+
+36,512
+
+429
+
+-658
+
+-1,554
+
+-1,763
+
+-2,017
+
+-2,325
+
+-2,697
+
+-3,146
+
+-3,688
+
+-4,341
+
+-5,125
+
+-1,033
+
+3,708
+
+429
+
+-229
+
+-1,784
+
+-3,547
+
+-5,564
+
+-7,889
+
+-10,585 -13,732 -17,420 -21,760 -26,885 -27,918 -24,210 -15,235
+
+Green shades are assumed inflows and outflows beyond the range of the forecast
+
+51
+Download free eBooks at bookboon.com
+
+International Financial Reporting
+
+References and bibliography
+
+References and bibliography
+Elliott and Elliott, 2008, Financial Accounting and reporting, Prentice Hall, 12th edition. Solomon, 2007, Corporate Governance and Accountability, Wiley.
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+52
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+International Financial Reporting
+
+Endnotes
+
+Endnotes
+1.	 2.	 3.	 4.	 5.	 6.	 The remaining part of the capital of subsidiary, controlled by absolute or relative majority alike, is currently called ‘minority interest’, however the term is changing into the more appropriate ‘non controlling interest’. See Appendix A for an example of the EU endorsement status report and the following URL for its latest updates: http://www.efrag.org/content/default.asp?id=4090 www.bmwgroup.com/annualreport2007/nav/index.html?http://www.bmwgroup.com/annualreport2007/ start.html http://annualreport.marksandspencer.com/financials/con_balance_sheet.html E.g.: Johnson & Johnson http://jnj.v1.myvirtualpaper.com/report/2008030701/en/popup However, beware that the current version of IAS 1 recently revised, allows to change the titles of financial statements: -- ‘balance sheet’ will become ‘statement of financial position’ -- ‘income statement’ will become ‘statement of comprehensive income’ -- ‘cash flow statement’ will become ‘statement of cash flows’. -- The new names will be used by the IFRS and can be used by reporting entities producing their accounts under IFRS. Once again, though, check if and when this amendment has been endorsed by the EU – see above for considerations on endorsement in different regions. 7.	 8.	 9.	 10.	 This is a requirement of IFRS 8 and can be equally shown as a self contained section of the report or in the notes to the accounts. Although there are many other definitions of corporate governance, this one has resulted as the most commonly agreed in a recent survey (Solomon, J., 2007, Corporate Governance and Accountability, Wiley). Refer to the wide literature on the ‘principal/agent’ problem, here, if you like to gain a deeper insight in this topic. This example refers to a contract called ‘finance leasing’. For the principle of substance over form, whether an entity borrows a sum to finance the purchase of an asset or acquires it under a finance leasing agreement, the accounting treatment is almost the same; the asset and an equivalent liability are reported in the balance sheet and the finance cost, albeit implicit, is reported in the income statement as finance expense. 11.	 12.	 13.	 14.	 If this assumption is no longer true, then the statements would be prepared for liquidation purposes, which is not the purpose of the annual report. This is the amount of money that is expected to be obtained from selling the inventories, deducted of the costs that must be incurred on to make the selling happen. For an update on this matter, refer to the IASB’s website www.iasb.org and of course you might like to check if any change has been endorsed by the EU, as explained in note 2 Convertible bonds entitle the holder of the bonds not only to receive an interest (normally paid yearly) and a capital repayment at maturity, but also to exercise the option to convert their bonds in shares of the entity at a fixed ratio, hence a fixed price. 15.	 The comparison here implied is between entities operating in similar businesses. Also, in order for the comparison to be meaningful, it must be re-scaled to the entity’s size, i.e. it is the gross profit as a percentage of turnover that is, in this case, compared, as opposed to the absolute value of gross profit. See chapter 2.
+
+53
+Download free eBooks at bookboon.com
+
+International Financial Reporting 16.	 17.	 18.	 19.	
+
+Endnotes
+
+http://www.britishairways.com/cms/global/microsites/ba_reports/fin_statements/fs_income.html For an example of considerations based on underline performance in different years in a reporting entity, refer to the annual reports of Oxford Instrument of the last four years www.oxford-instruments.com Working capital is made of ‘current assets less current liabilities’, i.e. recalling the accounting equation, it represents ‘capital employed less non-current assets’. You can find it called ‘Leverage’ with the same formula or indeed ‘Debt to equity ratio’ with a different formula that bears the same informational, though.
+
+20.	A negative monetary cycle is better than a positive monetary cycle, because it allows the entity to use the cash at its disposal for profitable ventures. 21.	 22.	 An example of such a scenario is provided by Aero Inventories Plc www.aero-inventory.com An example of such a scenario is in the annual report of a company called LPKF: www.lpkf.com
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+54
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+

@@ -1,0 +1,1469 @@
+Basics	of	Accounting	&	Information Processing
+The	Accounting	Cycle Larry	M.	Walther;	Christopher	J.	Skousen
+
+Download	free	books	at
+
+Larry M. Walther
+
+Basics of Accounting & Information Processing
+The Accounting Cycle
+
+2
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing: The Accounting Cycle 1st edition © 2010 Larry M. Walther, under nonexclusive license to Christopher J. Skousen & bookboon.com. All material in this publication is copyrighted, and the exclusive property of Larry M. Walther or his licensors (all rights reserved). ISBN 978-87-7681-583-7
+
+3
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+Contents
+
+Contents
+	 1	 1.1	 1.2	 1.3	 1.4	 1.5	 Part 1 W  elcome to the World of Accounting	 Accounting Information 	 Accounting Defined	 Financial Accounting	 Managerial Accounting	 A Quality Information System	 Inherent Limitations	 8 9 9 10 10 10 11 12 12 13 13 13 13 14
+
+2	 The Accounting Profession and Careers	 2.1	 Accounting and Professional Ethics	
+
+3	 The Fundamental Accounting Equation 	 3.1	Assets	 3.2	Liabilities	 3.3	 3.4	 Owners’ Equity	 Balance Sheet	
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Basics of Accounting & Information Processing
+
+Contents
+
+4	 How Transactions Impact the Accounting Equation	 4.1	 4.2	 4.3	 4.4	 4.5	 4.6	 5	 5.1	 5.2	 5.3	 5.4	 5.5	 5.7	 Edelweiss Collects an Account Receivable	 Edelweiss Buys Equipment With Loan Proceeds	 Edelweiss Provides Services to a Costumer on Account	 Edelweiss Pays Expenses With Cash	 Generalizing About the Impact of Transactions 	 Distinguishing Between Revenue and Income	 The Core Financial Statements	 Financial Statements 	 Income Statement	 The Statement of Retained Earnings	 Balance Sheet	 Statement of Cash Flows	 Unlocking the Mystery of Articulation	
+
+15 15 16 17 17 17 19 20 21 21 22 23 24 25 26
+
+5.6	Articulation	
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Basics of Accounting & Information Processing
+
+Contents
+
+	 6	 6.2	 6.3	 6.4	 6.5	 6.7	 6.8	 6.9	 7	 7.1	 7.2	 7.3	 7.4	
+
+Part 2 Information Processing	 Accounts, Debits, and Credits	 Debits and Credits	 The Fallacy of “+/-” Nomenclature	 The Debit/Credit Rules 	 Assets/Expanses Dividends	 Analysis of Transactions and Events	 Determining an Account’s Balance	 A Common Misunderstanding About Credits	 The Journal	 Illustrating the Accounting Journal	 Special Journals	 Page Numbering	 But, What are the Account Balances?	
+
+27 28 28 29 30 31 31 31 32 32 33 34 35 35 37 37
+
+6.1	Accounts	
+
+6.6	Liabilities/Revenues/Equity	
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+6
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Basics of Accounting & Information Processing
+
+Contents
+
+8	 8.2	 9	 9.1	 9.2	
+
+The General Ledger	 To Review	 The Trial Balance	 Debits Equal Credits	 Financial Statements From the Trial Balance	
+
+38 38 42 43 43 44 45 46 48 48 50 51
+
+8.1	Posting	
+
+10	 Computerized Processing Systems	 10.1	 What do they Look Like	
+
+11	T-accounts	 11.1	 11.2	 11.3	 Comprehensive T-Accounting Illustration	 Chart of Account	 Control and Subsidiary Accounts	
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+7
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Basics of Accounting & Information Processing
+
+Part 1 Welcome to the World of Accounting
+
+Part 1	 Welcome to the World of Accounting
+Your goals for this “welcoming” chapter are to learn about: •	 The nature of financial and managerial accounting information. •	 The accounting profession and accounting careers. •	 The fundamental accounting equation: Assets = Liabilities + Owners’ Equity. •	 How transactions impact the fundamental accounting equation. •	 The four core financial statements.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+8
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Basics of Accounting & Information Processing
+
+Accounting Information
+
+1	 Accounting Information
+You likely have a general concept of what accountants do. They capture information about the transactions and events of a business, and summarize that activity in reports that are used by persons interested in the entity. But, you likely do not realize the complexity of accomplishing this task. It involves a talented blending of technical knowledge and measurement artistry that can only be fully appreciated via extensive study of the subject. The best analogy is to say that you probably know what a heart surgeon does, but you no doubt appreciate that considerable knowledge and skill is needed to successfully treat a patient. If you were studying to be a surgeon, you would likely begin with some basic anatomy class. In this chapter, you will begin your study of accounting by looking at the overall structure of accounting and the basic anatomy of reporting. Be advised that a true understanding of accounting does not come easily. It only comes with determination and hard work. But, if you persevere, you will be surprised at what you discover about accounting. Knowledge of accounting is very valuable to business success. And, once you conquer the basics, accounting is actually quite an interesting subject.
+
+1.1	
+
+Accounting Defined
+
+It seems fitting to begin with a more formal definition of accounting: Accounting is a set of concepts and techniques that are used to measure and report financial information about an economic unit. The economic unit is generally considered to be a separate enterprise. The information is potentially reported to a variety of different types of interested parties. These include business managers, owners, creditors, governmental units, financial analysts, and even employees. In one way or another, these users of accounting information tend to be concerned about their own interests in the entity. Business managers need accounting information to make sound leadership decisions. Investors hold out hope for profits that may eventually lead to distributions from the business (e.g., “dividends”). Creditors are always concerned about the entity’s ability to repay its obligations. Governmental units need information to tax and regulate. Analysts use accounting data to form their opinions on which they base their investment recommendations. Employees want to work for successful companies to further their individual careers, and they often have bonuses or options tied to enterprise performance. Accounting information about specific entities helps satisfy the needs of all these interested parties. The diversity of interested parties leads to a logical division in the discipline of accounting: financial accounting and managerial accounting. Financial accounting is concerned with external reporting of information to parties outside the firm. In contrast, managerial accounting is primarily concerned with providing information for internal management. You may have some trouble seeing why a distinction is needed; after all aren’t we just reporting financial facts? Let’s look closer at the distinctions.
+
+9
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+Accounting Information
+
+1.2	
+
+Financial Accounting
+
+Consider that financial accounting is targeted toward a broad base of external users, none of whom control the actual preparation of reports or have access to underlying details. Their ability to understand and have confidence in reports is directly dependent upon standardization of the principles and practices that are used to prepare the reports. Without such standardization, reports of different companies could be hard to understand and even harder to compare. As a result, there are well organized processes to bring consistency and structure to financial reporting. In the United States, a private sector group called the Financial Accounting Standards Board (FASB) is primarily responsible for developing the rules that form the foundation of financial reporting. With the increase in global trade, the International Accounting Standards Board (IASB) has been steadily gaining prominence as a global accounting rule setter. Financial reports prepared under the generally accepted accounting principles (GAAP) promulgated by such standard setting bodies are intended to be general purpose in orientation. This means they are not prepared especially for owners, or creditors, or any other particular user group. Instead, they are intended to be equally useful for all user groups. As such, attempts are made to keep them free from bias (neutral).
+
+1.3	
+
+Managerial Accounting
+
+In sharp contrast to financial accounting, managerial accounting information is intended to serve the specific needs of management. Business managers are charged with business planning, controlling, and decision making. As such, they may desire specialized reports, budgets, product costing data, and other details that are generally not reported on an external basis. Further, management may dictate the parameters under which such information is to be accumulated and presented. For instance, GAAP may require that certain research costs be deducted immediately in computing a business’s externally reported income; on the other hand, management may see these costs as a long-term investment and stipulate that internal decision making be based upon income numbers that exclude such costs. This is their prerogative. Hopefully, such internal reporting is being done logically and rationally, but it need not follow any particular set of guidelines.
+
+1.4	
+
+A Quality Information System
+
+Both financial accounting and managerial accounting depend upon a strong information system to reliably capture and summarize business transaction data. Information technology has radically reshaped this mundane part of the practice of accounting during the past 30 years. The era of the “green eyeshaded” accountant has been relegated to the annals of history. Now, accounting is more of a dynamic, decision-making discipline, rather than a bookkeeping task.
+
+10
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+Accounting Information
+
+1.5	
+
+Inherent Limitations
+
+Accounting data is not absolute or concrete. Considerable amounts of judgment and estimation are necessary to develop the specific accounting measurements that are reported during a particular month, quarter, or year (e.g., how much pension expense should be reported now for the future benefits that are being earned by employees now, but the amounts will not be known with certainty until many years to come?). About the only way around the problem of utilizing estimation in accounting is to wait until all facts are known with certainty before issuing any reports. However, by the time any information could be reported, it would be so stale as to lose its usefulness. Thus, in order to timely present information, it is considered to be far better to embrace reasonable estimations in the normal preparation of ongoing financial reports. In addition, accounting has not yet advanced to a state of being able to value a business (or a business’s assets). As such, many transactions and events are reported based upon the historical cost principle (in contrast to fair value). This principle holds that it is better to maintain accountability over certain financial statement elements at amounts that are objective and verifiable, rather than opening the door to random adjustments for value changes that may not be supportable. For example, land is initially recorded in the accounting records at its purchase price. That historical cost will not be adjusted even if the fair value is perceived as increasing. While this enhances the “reliability” of reported data, it can also pose a limitation on its “relevance.”
+
+11
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Basics of Accounting & Information Processing
+
+The Accounting Profession and Careers
+
+2	 The Accounting Profession and Careers
+To decide to be an accountant is no more descriptive than deciding to be a doctor. Obviously, there are many specialty areas. Many accountants engage in the practice of “public” accounting, which involves providing audit, tax, and consulting services to the general public. To engage in the practice of public accounting usually requires one to be licensed as a CPA (Certified Public Accountant). Auditing involves the examination of transactions and systems that underlie an organization’s financial reports, with the ultimate goal of providing an independent report on the appropriateness of financial statements. Tax services relate to the providing of help in the preparation and filing of tax returns and the rendering of advice on the tax consequences of alternative actions. Consulting services can vary dramatically, and include such diverse activities as information systems engineering to evaluating production methods. Many accountants are privately employed directly by small and large businesses (i.e., “industry accounting”) and not-for-profit agencies (such as hospitals, universities, and charitable groups). They may work in areas of product costing and pricing, budgeting, and the examination of investment alternatives. They may focus on internal auditing, which involves looking at controls and procedures in use by their employers. Objectives of these reviews are to safeguard company resources and assess the reliability and accuracy of accounting information and accounting systems. They may serve as in house tax accountants, financial managers, or countless other occupations. And, it probably goes without saying that many accountants work in the governmental sector, whether it be local, state, or national levels. You would expect to find many accountants at the Internal Revenue Service, General Accounting Office, Securities and Exchange Commission (“SEC” – the USA governmental agency charged with regulating accounting and reporting by companies whose shares of stock are bought and sold in public markets), and even the Federal Bureau of Investigation.
+
+2.1	
+
+Accounting and Professional Ethics
+
+Because investors and creditors place great reliance on financial statements in making their investment and credit decisions, it is imperative that the financial reporting process be truthful and dependable. Accountants are expected to behave in an entirely ethical fashion, and this is generally the case. To help insure integrity in the reporting process, the profession has adopted a code of ethics to which its licensed members must adhere. In addition, checks and balances via the audit process, government oversight, and the ever vigilant “plaintiff ’s attorney” all serve a vital role in providing additional safeguards against the errant accountant. If you are preparing to enter the accounting profession, you should do so with the intention of behaving with honor and integrity. If you are not planning to enter the profession, you will likely rely upon accountants in some aspect of your personal or professional life. You have every right to expect those accountants to behave in a completely trustworthy and ethical fashion. After all, you will be entrusting them with your financial resources and confidential information.
+
+12
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+The Fundamental Accounting Equation
+
+3	 The Fundamental Accounting Equation
+The basic features of the accounting model we use today trace their roots back over 500 years. Luca Pacioli, a Renaissance era monk, developed a method for tracking the success or failure of trading ventures. The foundation of that system continues to serve the modern business world well, and is the entrenched cornerstone of even the most elaborate computerized systems. The nucleus of that system is the notion that a business entity can be described as a collection of assets and the corresponding claims against those assets. The claims can be divided into the claims of creditors and owners (i.e., liabilities and owners’ equity). This gives rise to the fundamental accounting equation: Assets = Liabilities + Owners’ Equity
+
+3.1	Assets
+Assets are the economic resources of the entity, and include such items as cash, accounts receivable (amounts owed to a firm by its customers), inventories, land, buildings, equipment, and even intangible assets like patents and other legal rights and claims. Assets are presumed to entail probable future economic benefits to the owner.
+
+3.2	Liabilities
+Liabilities are amounts owed to others relating to loans, extensions of credit, and other obligations arising in the course of business.
+
+3.3	
+
+Owners’ Equity
+
+Owners’ equity is the owner’s “interest” in the business. It is sometimes called net assets, because it is equivalent to assets minus liabilities for a particular business. Who are the “owners?” The answer to this question depends on the legal form of the entity; examples of entity types include sole proprietorships, partnerships, and corporations. A sole proprietorship is a business owned by one person, and its equity would typically consist of a single owner’s capital account. Conversely, a partnership is a business owned by more than one person, with its equity consisting of a separate capital account for each partner. Finally, a corporation is a very common entity form, with its ownership interest being represented by divisible units of ownership called shares of stock. These shares are easily transferable, with the current holder(s) of the stock being the owners. The total owners’ equity (i.e., “stockholders’ equity”) of a corporation usually consists of several amounts, generally corresponding to the owner investments in the capital stock (by shareholders) and additional amounts generated through earnings that have not been paid out to shareholders as dividends (dividends are distributions to shareholders as a return on their investment). Earnings give rise to increases in “retained earnings,” while dividends (and losses) cause decreases.
+
+13
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+The Fundamental Accounting Equation
+
+3.4	
+
+Balance Sheet
+
+The fundamental accounting equation is the backbone of the accounting and reporting system. It is central to understanding a key financial statement known as the balance sheet (sometimes called the statement of financial position). The following illustration for Edelweiss Corporation shows a variety of assets that are reported at a total of $895,000. Creditors are owed $175,000, leaving $720,000 of stockholders’ equity. The stockholders’ equity section is divided into the $120,000 that was originally invested in Edelweiss Corporation by stockholders (i.e., capital stock), and the other $600,000 that was earned (and retained) by successful business performance over the life of the company. Does the stockholders’ equity total mean the business is worth $720,000? No! Why not? Because many assets are not reported at current value. For example, although the land cost $125,000, the balance sheet does not report its current worth. Similarly, the business may have unrecorded resources to its credit, such as a trade secret or a brand name that allows it to earn extraordinary profits. If one is looking to buy stock in Edelweiss Corporation, they would surely give consideration to these important nonfinancial statement based valuation considerations. This observation tells us that accounting statements are important in investment and credit decisions, but they are not the sole source of information for making investment and credit decisions.
+
+EDELWEISS CORPORATION Balance Sheet December 31, 20X3
+Assets Cash Accounts receivable Inventories Land Buildings Equipment Other assets Total assets $ 25,000 50,000 35,000 125,000 400,000 250,000 10,000 $895,000 Liabilities Accounts payable Loans payable Total liabilities Stockholders’ equity Capital stock Retained earnings Total stockholders’ equity it Total Liabilities and equity $120,000 600,000 720,000 0,000 , $895,000 $ 50,000 125,000 $175,000
+
+ASSETS $895,000
+
+=
+
+LIABILITIES $175,000
+
++
+
+STOCKHOLDERS’ EQUITY $720,000
+
+14
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+How Transactions Impact the Accounting Equation
+
+4	 How Transactions Impact the Accounting Equation
+The preceding balance sheet for Edelweiss was static. This means that it represented the financial condition at the noted date. But, each passing transaction or event brings about a change in the overall financial condition. Business activity will impact various asset, liability, and/or equity accounts; but, they will not disturb the equality of the accounting equation. So, how does this happen? To reveal the answer to this question, let’s look at four specific transactions for Edelweiss Corporation. You will see how each transaction impacts the individual asset, liability, and equity accounts, without upsetting the basic equality of the overall balance sheet.
+
+4.1	
+
+Edelweiss Collects an Account Receivable
+
+If Edelweiss Corporation collected $10,000 from a customer on an existing account receivable (i.e., not a new sale, just the collection of an amount that is due from some previous transaction), then the balance sheet would be revised as follows:
+
+15
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Basics of Accounting & Information Processing
+
+How Transactions Impact the Accounting Equation
+
+EDELWEISS CORPORATION Balance Sheet December 31, 20X3 (before indicated transaction)
+Assets Cash Accounts receivable Inventories Land Building Equipment Other assets Total assets $ 50,000 125,000 $120,000 600,000 $ 25,000 50,000 35,000 125,000 400,000 250,000 10,000 $895,000
+
+EDELWEISS CORPORATION Balance Sheet December 31, 20X3 (after indicated transaction)
+Assets Cash Accounts receivable Inventories Land Building Equipment Other assets Total assets Liabilities Accounts payable Loans payable p y Total liabilities Stockholders’ equity Capital stock Retained earnings Total stockholders’ equity Total liabilities and equity $ 50,000 125,000 $120,000 600,000 $ 35,000 , , 40,000 35,000 125,000 400,000 250,000 10,000 $895,000
+
++ $10,000 - $10,000
+
++ $0
+
+* Liabilities
+
+Accounts payable Loans payable p y Total liabilities Stockholders’ equity Capital stock Retained earnings Total stockholders’ equity Total liabilities and equity
+
+$175,000
+
++ $0
+
+$175,000
+
+720,000 , $895,000
+
++ $0
+
+720,000 , $895,000
+
+The illustration plainly shows that cash (an asset) increased from $25,000 to $35,000, and accounts receivable (an asset) decreased from $50,000 to $40,000. As a result total assets did not change, and liabilities and equity accounts were unaffected. Thus, assets still equal liabilities plus equity.
+
+4.2	
+
+Edelweiss Buys Equipment With Loan Proceeds
+
+If Edelweiss Corporation purchased $30,000 of equipment, agreeing to pay for it later (i.e. taking out a loan), then the balance sheet would be further revised as follows.
+EDELWEISS CORPORATION Balance Sheet December 31, 20X3 (before indicated transaction)
+Assets Cash Accounts receivable Inventories Land Building q p Equipment Other assets Total assets Liabilities Accounts payable p y Loans payable Total liabilities Stockholders’ equity Capital stock g Retained earnings q y Total stockholders’ equity Total liabilities and equity $ 50,000 125,000 , $120,000 600,000 $ 35,000 40,000 35,000 125,000 400,000 250,000 + $30,000 10,000 $895,000 + $30,000
+
+EDELWEISS CORPORATION Balance Sheet December 31, 20X3 (after indicated transaction)
+Assets Cash Accounts receivable Inventories Land Building q p Equipment Other assets Total assets Liabilities Accounts payable Loans p payable y Total liabilities Stockholders’ equity Capital stock Retained earnings g Total stockholders’ equity q y Total liabilities and equity $ 50,000 155,000 $120,000 600,000 $ 35,000 40,000 35,000 125,000 400,000 , 280,000 10,000 $925,000
+
+$175,000
+
++ $30,000
+
+$205,000
+
++ $0 720,000 , $895,000 + $30,000
+
+720,000 , $925,000
+
+16
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+How Transactions Impact the Accounting Equation
+
+This illustration shows that equipment (an asset) increased from $250,000 to $280,000, and loans payable (a liability) increased from $125,000 to $155,000. As a result, both total assets and total liabilities increased by $30,000, but assets still equal liabilities plus equity.
+
+4.3	
+
+Edelweiss Provides Services to a Costumer on Account
+
+What would happen if Edelweiss Corporation did some work for a customer in exchange for the customer’s promise to pay $5,000? This requires further explanation; try to follow this logic closely! You already know that retained earnings is the income of the business that has not been distributed to the owners of the business. When Edelweiss Corporation earned $5,000 (which they will collect later) by providing a service to a customer, it can be said that they generated revenue of $5,000. Revenue is the enhancement to assets resulting from providing goods or services to customers. Revenue will bring about an increase to income, and income is added to retained earnings. Can you follow that? As you examine the balance sheet on the top of the next page, notice that accounts receivable and retained earnings went up by $5,000 each, indicating that the business has more assets and more retained earnings. And, guess what: assets still equal liabilities plus equity.
+
+4.4	
+
+Edelweiss Pays Expenses With Cash
+
+It would be nice if you could run a business without incurring any expenses. However, such is not the case. Expenses are the outflows and obligations that arise from producing goods and services. Imagine that Edelweiss paid $3,000 for expenses. The lower set of balance sheets on the following page shows this impact.
+
+4.5	
+
+Generalizing About the Impact of Transactions
+
+There are countless types of transactions that can occur, and each and every transaction can be described in terms of its impact on assets, liabilities, and equity. What is important to know is that no transaction will upset the fundamental accounting equation of assets = liabilities + owners’ equity.
+
+17
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+How Transactions Impact the Accounting Equation
+
+Services to a customer on account:
+EDELWEISS CORPORATION Balance Sheet December 31, 20X3 (before indicated transaction)
+Assets Cash Accounts receivable Inventories Land Building * Equipment Other assets Total assets Liabilities Accounts payable Loans payable Total liabilities Stockholders’ equity Capital stock g Retained earnings Total stockholders’ equity Total liabilities and equity $ 50,000 155,000 $120,000 600,000 $ 35,000 , 40,000 35,000 125,000 400,000 280,000 10,000 $925,000
+
+EDELWEISS CORPORATION Balance Sheet December 31, 20X3 (after indicated transaction)
+Assets Cash Accounts receivable Inventories Land Building Equipment Other assets Total assets Liabilities Accounts payable Loans payable Total liabilities Stockholders’ equity Capital stock Retained earnings g Total stockholders’ equity Total liabilities and equity $ 50,000 155,000 $120,000 605,000 , $ 35,000 45,000 35,000 125,000 400,000 280,000 10,000 $930,000
+
++ $5,000
+
++ $5,000
+
+$205,000 $
+
++ $0
+
+$205,000 $
+
+720,000 , $925,000
+
++ $5,000 + $5,000
+
+725,000 , $930,000
+
+Pays expenses:
+EDELWEISS CORPORATION Balance Sheet December 31, 20X3 (before indicated transaction)
+Assets Cash Accounts receivable Inventories Land Building Equipment Other assets Total assets Liabilities Accounts payable Loans payable Total liabilities Stockholders’ equity Capital stock g Retained earnings Total stockholders’ equity Total liabilities and equity $ 50,000 155,000 $120,000 605,000 $ 35,000 - $3,000 45,000 35,000 125,000 400,000 280,000 10,000 $930,000 - $3,000
+
+EDELWEISS CORPORATION Balance Sheet December 31, 20X3 (after indicated transaction)
+Assets Cash Accounts receivable Inventories Land Building Equipment Other assets Total assets Liabilities Accounts payable Loans payable Total liabilities Stockholders’ equity Capital stock Retained earnings g Total stockholders’ equity Total liabilities and equity $ 50,000 155,000 $120,000 602,000 $ 32,000 , 45,000 35,000 125,000 400,000 280,000 10,000 $927,000
+
+$205,000
+
++ $0
+
+$205,000
+
+725,000 , - $3,000 $930,000
+
+- $3,000
+
+722,000 , $927,000
+
+18
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+How Transactions Impact the Accounting Equation
+
+4.6	
+
+Distinguishing Between Revenue and Income
+
+In day-to-day conversation, some terms can often be used casually and without a great deal of precision. Words may be treated as synonymous, when in fact they are not. Such is the case for the words “income” and “revenue.” Each term has a very precise meaning, and you should accustom yourself to the correct usage. It has already been pointed out that revenues are enhancements resulting from providing goods and services to customers. Conversely, expenses can generally be regarded as costs of doing business. This gives rise to another “accounting equation”: Revenues – Expenses = Income Revenue is the “top line” amount corresponding to the total benefits generated from business activity. Income is the “bottom line” amount that results after deducting the expenses from revenue. In some countries, revenue is also referred to as “turnover.”
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+19
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Basics of Accounting & Information Processing
+
+The Core Financial Statements
+
+5	 The Core Financial Statements
+Your future will undoubtedly be marked by numerous decisions about investing money in the capital stock of some corporation. Another option that will present itself is to lend money to a company, either directly, or by buying that company’s debt instruments known as “bonds.” Stocks and bonds are two of the most prevalent financial instruments of the modern global economy. The financial press and television devote seemingly endless coverage to headline events pertaining to large public corporations. Public companies are those with securities that are readily available for purchase/sale through organized stock markets. Many more companies are private, meaning their stock and debt is in the hands of a narrow group of investors and banks. If you are contemplating an investment in a public or private entity, there is certain information you will logically seek to guide your decision process. What types of information will you desire? What do you want to know about the companies in which you are considering an investment? If you were to prepare a list of questions for the company’s management, what subjects would be included? Whether this challenge is posed to a sophisticated investor or to a new business student, the listing almost always includes the same basic components. What are the corporate assets? Where does the company operate? What are the key products? How much income is being generated? Does the company pay dividends? What is the corporate policy on ethics and environmental responsibility? Many such topics are noted within the illustrated “thought cloud.” Some of these topics are financial in nature (noted in blue). Other topics are of more general interest and cannot be communicated in strict mathematical terms (noted in red).
+
+20
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+The Core Financial Statements
+
+Financial accounting seeks to directly report information for the topics noted in blue. Additional supplemental disclosures frequently provide insight about subjects such as those noted in red. But, you would also need to gain additional information by reviewing corporate web sites (many have separate sections devoted to their investors), filings with the securities regulators, financial journals and magazines, and other such sources. Most companies will have annual meetings for shareholders and host web casts every three months (quarterly). These events are very valuable in allowing investors and creditors to make informed decisions about the company, as well as providing a forum for direct questioning of management. You might even call a company and seek “special insight” about emerging trends and developments. Be aware, however, that the company will likely not be able to respond in a meaningful way. Securities laws have very strict rules and penalties that are meant to limit selective or unique disclosures to any one investor or group (in the United States: Regulation Full Disclosure/Reg. FD). It is amusing, but rarely helpful, to review “message boards” where people anonymously post their opinions about a company.
+
+5.1	
+
+Financial Statements
+
+Financial accounting information is conveyed through a standardized set of reports. You have already been introduced to the balance sheet. The other fundamental financial statements are the income statement, statement of retained earnings, and statement of cash flows. There are many rules that govern the form and content of each financial statement. At the same time, those rules are not so rigid as to preclude variations in the exact structure or layout. For instance, the earlier illustration for Edelweiss was first presented as a “horizontal” layout of the balance sheet. The subsequent Edelweiss examples were representative of “vertical” balance sheet arrangements. Each approach, and others, is equally acceptable.
+
+5.2	
+
+Income Statement
+
+A summary of an entity’s results of operation for a specified period of time is revealed in the income statement, as it provides information about revenues generated and expenses incurred. The difference between the revenues and expenses is identified as the net income or net loss. The income statement can be prepared using a single-step or a multiple-step approach, and might be further modified to include a number of special disclosures relating to unique items. These topics will be amplified in a number of subsequent chapters. For now, take careful note that the income statement relates to activities of a specified time period (e.g., year, quarter, month), as is clearly noted in its title:
+
+21
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+The Core Financial Statements
+
+QUARTZ CORPORATION Income Statement For the Year Ending December 31, 20X9
+Revenues Services to customers Interest revenue Total revenues Expenses Salaries Rent Other operating expenses Total expenses Net income $235,000 115,000 300,000 650,000 $115,000 $750,000 15,000 $765,000
+
+5.3	
+
+The Statement of Retained Earnings
+
+The example balance sheets for Edelweiss revealed how retained earnings increased and decreased in response to events that impacted income. You also know that retained earnings are reduced by dividends paid to shareholders.
+
+.
+
+22
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Basics of Accounting & Information Processing
+
+The Core Financial Statements
+
+Beginning Retained Earnings
+
+Net e Incom
+
+Ending Retained Earnings
+
+OR O
+
+Div
+
+Beginning Retained Earnings
+
+Net Loss
+
+ide
+
+nds
+
+Div
+
+ide
+
+nds
+
+Ending Retained Earnings
+
+The statement of retained earnings provides a succinct reporting of these changes in retained earnings from one period to the next. In essence, the statement is nothing more than a reconciliation or “bird’s-eye view” of the bridge between the retained earnings amounts appearing on two successive balance sheets. QUARTZ CORPORATION Statement of Retained Earnings For the Year Ending December 31, 20X9
+Retained earnings - January 1, 20X9 Plus: Net income Less: Dividends Retained earnings - December 31, 20X9 $400,000 115,000 $515,000 35,000 $480,000
+
+If you examine very many sets of financial statements, you will soon discover that many companies provide an expanded statement of stockholders’ equity in lieu of the required statement of retained earnings. The statement of stockholders’ equity portrays not only the changes in retained earnings, but also changes in other equity accounts such as capital stock. The expanded statement of stockholders’ equity is presented in a subsequent chapter.
+
+5.4	
+
+Balance Sheet
+
+The balance sheet focuses on the accounting equation by revealing the economic resources owned by an entity and the claims against those resources (liabilities and owners’ equity). The balance sheet is prepared as of a specific date, whereas the income statement and statement of retained earnings cover a period of time. Accordingly, it is sometimes said that balance sheets portray financial position (or condition) while other statements reflect results of operations. Quartz’s balance sheet is as follows:
+
+23
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+The Core Financial Statements
+
+QUARTZ CORPORATION Balance Sheet December 31, 20X9
+Assets Cash Accounts receivable Land Other assets Total assets Liabilities Salaries payable Accounts payable Total liabilities Stockholders’ equity Capital stock Retained earnings Total stockholders’ equity Total liabilities and equity $220,000 480,000 $ 34,000 166,000 $192,000 248,000 450,000 10,000 $900,000
+
+$200,000
+
+700,000 $900,000
+
+5.5	
+
+Statement of Cash Flows
+
+The statement of cash flows details the enterprise’s cash flows. This operating statement reveals how cash is generated and expended during a specific period of time. It consists of three unique sections that isolate the cash inflows and outflows attributable to (a) operating activities, (b) investing activities, and (c) financing activities. Notice that the cash provided by operations is not the same thing as net income found in the income statement. This result occurs because some items hit income and cash flows in different periods. For instance, remember how Edelweiss (from the earlier illustration) generated income from a service provided on account. That transaction increased income without a similar effect on cash. These differences tend to even out over time.
+
+24
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+The Core Financial Statements
+
+QUARTZ CORPORATION Statement of Cash Flows For the Year Ending December 31, 20X9
+Operating activities Cash Cash Cash Cash Cash received from customers received for interest paid for salaries paid for rent paid for other items $ 720,000 15,000 (240,000) (115,000) (300,000) $ 80,000 (250,000) (35,000) $(205,000) 397,000 $ 192,000
+
+Cash provided by operating activities Investing activities Purchase of land Financing activities Payment of dividends Decrease in cash Cash, January 1 Cash, December 31
+
+Suffice it to say that the underpinnings of the statement cash flows require a fairly complete knowledge of basic accounting. Do not be concerned if you feel like you lack a complete comprehension at this juncture. A future chapter is devoted to the statement.
+
+5.6	Articulation
+It is important for you to take note of the fact that the income statement, statement of retained earnings, and balance sheet articulate. This means they mesh together in a self-balancing fashion. The income for the period ties into to the statement of retained earnings, and the ending retained earnings ties into the balance sheet. This final tie-in causes the balance sheet to balance. These relationships are illustrated in the following diagram.
+QUARTZ CORPORATION Income Statement For the Year Ending December 31, 20X9
+Revenues Services to customers Interest income Total revenues Expenses Salaries Rent Other operating expenses Total expenses Net income $750,000 15,000 $765,000
+
+QUARTZ CORPORATION Statement of Retained Earnings For the Year Ending December 31, 20X9
+Retained earnings - January 1, 20X9 Plus: Net income $400,000 115,000 $515,000 Less: Dividends Retained earnings - Dece December 31, 20X9 35,000 $480,000 Assets
+
+QUARTZ CORPORATION Balance Sheet December 31, 20X9
+
+Cash Accounts receivable Land Other assets Total assets
+
+$192,000 248,000 450,000 10,000 $900,000
+
+*
+
+$235,000 115,000 300,000 650,000 $115,000
+
+abili Liabilities s pay Salaries payable ayabl Accounts payable s Total liabilities Stockholders’ equity Capital stock Retained earnings Total stockholders’ equity Total liabilities and equity $220,000 480,000 $ 34,000 166,000
+
+$200,000
+
+700,000 $900,000
+
+25
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+The Core Financial Statements
+
+5.7	
+
+Unlocking the Mystery of Articulation
+
+It seems almost magical that the final tie-in of retained earnings will exactly cause the balance sheet to balance. This is reflective of the brilliance of Pacioli’s model, and is indicative of why it has survived for centuries.
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+26
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Basics of Accounting & Information Processing
+
+Part 2 Information Processing
+
+Part 2	 Information Processing
+Your goals for this “information processing” chapter are to learn about: •	 Accounts, debits and credits. •	 The journal. •	 The general ledger. •	 The trial balance. •	 Computerized processing systems. •	 T-Accounts.
+
+27
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+Accounts, Debits, and Credits
+
+6	 Accounts, Debits, and Credits
+The previous chapter showed how transactions caused financial statement amounts to change. “Before” and “after” examples, etc. was used to develop the illustrations. Imagine if a real business tried to keep up with its affairs this way! Perhaps a giant chalk board could be set up in the accounting department. As transactions occurred, they would be called in to the department and the chalk board would be updated. Chaos would quickly rule. Even if the business could manage to figure out what its financial statements were supposed to contain, it probably could not systematically describe the transactions that produced those results. Obviously, a system is needed. It is imperative that a business develop a reliable accounting system to capture and summarize its voluminous transaction data. The system must be sufficient to fuel the preparation of the financial statements, and be capable of maintaining retrievable documentation for each and every transaction In other words, some transaction logging process must be in place. In general terms, an accounting system is a system where transactions and events are reliably processed and summarized into useful financial statements and reports. Whether this system is manual or automated, the heart of the system will contain the basic processing tools: accounts, debits and credits, journals, and the general ledger. This chapter will provide insight into these tools and the general structure of a typical accounting system.
+
+6.1	Accounts
+The records that are kept for the individual asset, liability, equity, revenue, expense, and dividend components are known as accounts. In other words, a business would maintain an account for cash, another account for inventory, and so forth for every other financial statement element. All accounts, collectively, are said to comprise a firm’s general ledger. In a manual processing system, you could imagine the general ledger as nothing more than a notebook, with a separate page for every account. Thus, you could thumb through the notebook to see the “ins” and “outs” of every account, as well as existing balances. An account could be as simple as the following:
+
+28
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+Accounts, Debits, and Credits
+
+ACCOUNT: Cash
+Date Jan. 1, 20X3 Jan. 2, 20X3 Jan. 3, 20X3 Jan. 5, 20X3 Jan. 7, 20X3 Jan. 8, 20X3 Jan. 8, 20X3 Jan. 10, 20X3 Jan. 12, 20X3 Description Balance forward Collected receivable Cash sale Paid rent Paid salary Cash sale Paid bills Paid tax Collected receivable Increase Decrease Balance
+
+$ $ 10,000 5,000 $ 4,000 2,000 1,000 7,000 7,000 3,000
+
+50,000 60,000 65,000 58,000 55,000 59,000 57,000 56,000 63,000
+
+This account reveals that cash has a balance of $63,000 as of January 12. By examining the account, you can see the various transactions that caused increases and decreases to the $50,000 beginning of month cash balance. In many respects, this Cash account resembles the “register” you might keep for a wallet style check book. If you were to prepare a balance sheet on January 12, you would include cash for the indicated amount (and, so forth for each of the other accounts comprising the entire financial statements).
+
+6.2	
+
+Debits and Credits
+
+Without a doubt, you have heard or seen a reference to debits and credits; perhaps you have had someone “credit” your account or maybe you have used a “debit” card to buy something. Debits (abbreviated “dr”) and credits (abbreviated “cr”) are unique accounting tools to describe the change in a particular account that is necessitated by a transaction. In other words, instead of saying that cash is “increased” or “decreased,” we say that cash is “debited” or “credited.” This method is again traced to Pacioli, the Franciscan monk who is given credit for the development of our enduring accounting model. Why add this complexity – why not just use plus and minus like in the previous chapter? You will soon discover that there is an ingenious answer to this question! Understanding the answer to this question begins by taking note of two very important observations: (1) every transaction can be described in debit/credit form and (2) for every transaction, debits = credits
+
+29
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+Accounts, Debits, and Credits
+
+6.3	
+
+The Fallacy of “+/-” Nomenclature
+
+The second observation above would not be true for an increase/decrease system. For example, if services are provided to customers for cash, both cash and revenues would increase (a “+/+” outcome). On the other hand, paying an account payable causes a decrease in cash and a decrease in accounts payable (a “-/-” outcome). Finally, some transactions are a mixture of increase/decrease effects; using cash to buy land causes cash to decrease and land to increase (a “-/+” outcome). In the previous chapter, the “+/-” nomenclature was used for the various illustrations. As you can tell by reviewing the illustration in Part 1, the “+/-” system lacks internal consistency. Therefore, it is easy to get something wrong and be completely unaware that something has gone amiss. On the other hand, the debit/credit system has internal consistency. If one attempts to describe the effects of a transaction in debit/credit form, it will be readily apparent that something is wrong when debits do not equal credits. Even modern computerized systems will challenge or preclude any attempt to enter an “unbalanced” transaction that does not satisfy the condition of debits = credits.
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+30
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Basics of Accounting & Information Processing
+
+Accounts, Debits, and Credits
+
+6.4	
+
+The Debit/Credit Rules
+
+At first, it is natural for the debit/credit rules to seem confusing. However, the debit/credit rules are inherently logical (the logic is discussed at linked material in the online version of the text). But, memorization usually precedes comprehension. So, you are well advised to memorize the “debit/ credit” rules now. If you will thoroughly memorize these rules first, your life will be much easier as you press forward with your studies of accounting.
+
+6.5	
+
+Assets/Expanses Dividends
+
+As shown at right, these three types of accounts follow the same set of debit/credit rules. Debits increase these accounts and credits decrease these accounts. These accounts normally carry a debit balance. To aid your recall, you might rely on this slightly off-color mnemonic: D-E-A-D = debits increase expenses, assets, and dividends.
+INCREASED WITH DEBITS DECREASED WITH CREDITS
+
+ASSETS EXPENSES DIVIDENDS
+
+Normal Balance is Debit
+
+6.6	Liabilities/Revenues/Equity
+These three types of accounts follow rules that are the opposite of those just described. Credits increase liabilities, revenues, and equity, while debits result in decreases. These accounts normally carry a credit balance.
+
+DECREASED WITH DEBITS
+
+INCREASED WITH CREDITS
+
+LIABILITIES REVENUES EQUITY
+
+Normal Balance is Credit
+
+31
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+Accounts, Debits, and Credits
+
+6.7	
+
+Analysis of Transactions and Events
+
+You now know that transactions and events can be expressed in “debit/credit” terminology. In essence, accountants have their own unique shorthand to portray the financial statement consequence for every recordable event. This means that as transactions occur, it is necessary to perform an analysis to determine (a) what accounts are impacted and (b) how they are impacted (increased or decreased). Then, debits and credits are applied to the accounts, utilizing the rules set forth in the preceding paragraphs. Usually, a recordable transaction will be evidenced by some “source document” that supports the underlying transaction. A cash disbursement will be supported by the issuance of a check. A sale might be supported by an invoice issued to a customer. Receipts may be retained to show the reason for a particular expenditure. A time report may support payroll costs. A tax statement may document the amount paid for taxes. A cash register tape may show cash sales. A bank deposit slip may show collections of customer receivables. Suffice it to say, there are many potential source documents, and this is just a small sample. Source documents usually serve as the trigger for initiating the recording of a transaction. The source documents are analyzed to determine the nature of a transaction and what accounts are impacted. Source documents should be retained (perhaps in electronic form) as an important part of the records supporting the various debits and credits that are entered into the accounting records. A properly designed accounting system will have controls to make sure that all transactions are fully captured. It would not do for transactions to slip through the cracks and go unrecorded. There are many such safeguards that can be put in place, including use of renumbered documents and regular reconciliations. For example, you likely maintain a checkbook where you record your cash disbursements. Hopefully, you keep up with all of the checks (by check number) and perform a monthly reconciliation to make sure that your checkbook accounting system has correctly reflected all of your disbursements. A business must engage in similar activities to make sure that all transactions and events are recorded correctly. Good controls are essential to business success.
+
+6.8	
+
+Determining an Account’s Balance
+
+The balance of a specific account can be determined by considering its beginning (of period) balance, and then netting or offsetting all of the additional debits and credits to that account during the period. Earlier, an illustration for a Cash account was presented. That illustration was developed before you were introduced to debits and credits. Now, you know that accounts are more likely maintained by using the debit/credit system. So, the Cash account is repeated below, except that the increase/decrease columns have been replaced with the more traditional debit/credit column leadings. A typical Cash account would look similar to this illustration:
+
+32
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+Accounts, Debits, and Credits
+
+ACCOUNT: Cash
+Date Jan. 1, 20X3 Jan. 2, 20X3 Jan. 3, 20X3 Jan. 5, 20X3 Jan. 7, 20X3 Jan. 8, 20X3 Jan. 8, 20X3 Jan. 10, 20X3 Jan. 12, 20X3 Description Balance forward Collected receivable Cash sale Paid rent Paid salary Cash sale Paid bills Paid tax Collected receivable Debit Credit Balance
+
+$ $ 10,000 5,000 $ 4,000 2,000 1,000 7,000 7,000 3,000
+
+50,000 60,000 65,000 58,000 55,000 59,000 57,000 56,000 63,000
+
+6.9	
+
+A Common Misunderstanding About Credits
+
+Many people wrongly assume that credits always reduce an account balance. However, a quick review of the debit/credit rules reveals that this is not true. Where does this notion come from? Probably because of the common phrase “we will credit your account.” This wording is often used when you return goods purchased on credit; but, carefully consider that your account (with the store) is on the store’s books as an asset account (specifically, an account receivable from you). Thus, the store is reducing its accounts receivable asset account (with a credit) when it agrees to “credit your account.” On the other hand, some may assume that a credit always increases an account. This incorrect notion may originate with common banking terminology. Assume that Matthew made a deposit to his account at Monalo Bank. Monalo’s balance sheet would include an obligation (“liability”) to Matthew or the amount of money on deposit. This liability would be credited each time Matthew adds to his account. Thus, Matthew is told that his account is being “credited” when he makes a deposit.
+
+33
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+The Journal
+
+7	 The Journal
+Most everyone is intimidated by new concepts and terminology (like debits, credits, journals, etc.). But, learning can be made quite simple by relating new concepts to preexisting notions that are already well understood. So, think: what do you know about a journal (not an accounting journal, just any journal)? It’s just a log book, right? A place where you can record a history of transactions and events – usually in date (chronological) order. But, you knew that. Likewise, an accounting journal is just a log book that contains a chronological listing of a company’s transactions and events. However, rather than including a detailed narrative description of a company’s transactions and events, the journal lists the items by a “form of shorthand notation.” Specifically, the notation indicates the accounts involved, and whether each is debited or credited. Remember what was said at the beginning of the chapter: “The system must be sufficient to fuel the preparation of the financial statements, and be capable of maintaining retrievable documentation for each and every transaction. In other words, some transaction logging process must be in place.” The journal satisfies the need for this logging process!
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+34
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Basics of Accounting & Information Processing
+
+The Journal
+
+The general journal is sometimes called the book of original entry. This means that source documents are reviewed and interpreted as to the accounts involved. Then, they are documented in the journal via their debit/credit format. As such the general journal becomes a log book of the recordable transactions and events. The journal is not sufficient, by itself, to prepare financial statements. That objective is fulfilled by subsequent steps. But, maintaining the journal is the point of beginning toward that end objective.
+
+7.1	
+
+Illustrating the Accounting Journal
+
+The following illustration draws upon the facts for the Xao Corporation. Specifically it shows the journalizing process for Xao’s transactions. You should review it carefully, specifically noting that it is in chronological order with each transaction of the business being reduced to the short-hand description of its debit/credit effects. You will also note that each transaction is followed by a brief narrative description; this is a good practice to provide further documentation. For each transaction, it is customary to list “debits” first (flush left), then the credits (indented right). Finally, notice that a transaction may involve more than two accounts (as in the January 28 transaction below); the corresponding journal entry for these complex transactions is called a “compound” entry. As you review the general journal for Xao, note that it is only two pages long. An actual journal for a business might consume hundreds and thousands of pages to document its many transactions. As a result, some businesses may maintain the journal in electronic form only.
+
+7.2	
+
+Special Journals
+
+First, the illustrated journal was referred to as a “general” journal. All transactions and events can be recorded in the general journal. However, a business may sometimes use “special journals.” Special journals are totally optional; they are typically employed when there are many redundant transactions. Thus, a company could have special journals for each of the following: cash receipts, cash payments, sales, purchases, and/or payroll. These special journals do not replace the general journal. Instead, they just strip out recurring type transactions and place them in their own separate journal. The transaction descriptions associated with each transaction found in the general journal are not normally needed in a special journal, given that each transaction is redundant in nature. Without special journals, you can well imagine how voluminous a general journal could become. But, for learning purposes, let’s just rely on the general journal to accomplish our goals.
+
+35
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+The Journal
+
+GENERAL JOURNAL
+Date
+1 1 X3 Cash Capital Stock
+Issued stock to shareholders, in exchange for cash
+
+Page 1
+Accounts Debits
+25,000 25,000
+
+Credits
+
+1 4 X3
+
+Advertising Expense Cash
+Paid advertising expense for initial advertising programs
+
+2,000 2,000
+
+1 8 X3
+
+Cash Service Revenue
+Provided services to customers for cash
+
+4,000 4,000
+
+GENERAL JOURNAL
+Date
+1 15 X3
+
+Page 2
+Accounts Debits
+1,000 1,000
+
+Credits
+
+Utilities Expense Accounts Payable
+Received bill for utility costs incurred
+
+1 17 X3
+
+Accounts Receivable Service Revenue
+Provided services to customers on account
+
+8,000 8,000
+
+1 18 X3
+
+Accounts Payable Cash
+Paid half of the amount due on the utility bill received on January 15
+
+500 500
+
+1 25 X3
+
+Cash Accounts Receivable
+Received 60% of the amount due on the receivable that was established on January 17
+
+4,800 4,800
+
+1 28 X3
+
+Land Cash Notes Payable
+Purchased land by giving $5,000 cash, and promising to pay the remainder in 90 days
+
+15,000 5,000 10,000
+
+36
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+The Journal
+
+7.3	
+
+Page Numbering
+
+Second, notice that the illustrated journal consisted of two pages (labeled page 1 and page 2). Although the journal is chronological, it is helpful to have the page number indexing for transaction cross referencing and working backward from financial statement amounts to individual transactions.
+
+7.4	
+
+But, What are the Account Balances?
+
+The general journal is a great tool to capture transaction and event details, but it certainly does nothing to tell a company about the balance in each specific account. For instance, how much cash does Xao Corporation have at the end of January? One could go through the journal and net the debits and credits to Cash ($25,000 – $2,000 + $4,000 – $500 + $4,800 – $5,000 = $26,300). But, this is tedious and highly susceptible to error. It would become virtually impossible if the journal were hundreds of pages long. A better way is needed. This is where the general ledger comes into play.
+
+37
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+The General Ledger
+
+8	 The General Ledger
+As you just saw, the general journal is, in essence, a notebook that contains page after page of detailed accounting transactions. In contrast, the general ledger is, in essence, another notebook that contains a page for each and every account in use by a company. The ledger account for Xao would include the Cash page as illustrated below:
+
+ACCOUNT: Cash
+Date Jan. 1, 20X3 Jan. 1, 20X3 Jan. 4, 20X3 Jan. 8, 20X3 Jan. 18, 20X3 Jan. 25, 20X3 Jan. 28, 20X3 Description Balance forward Journal page 1 Journal page 1 Journal page 1 Journal page 2 Journal page 2 Journal page 2 Debit Credit Balance
+
+$ $ 25,000 $ 4,000 500 4,800 5,000 2,000
+
+25,000 23,000 27,000 26,500 31,300 26,300
+
+*
+
+Xao’s transactions utilized all of the following accounts: •	 Cash •	 Accounts Receivable •	 Land •	 Accounts Payable •	 Notes Payable •	 Capital Stock •	 Service Revenue •	 Advertising Expense •	 Utilities Expense Therefore, Xao Corporation’s general ledger will include a separate page for each of these nine accounts.
+
+8.1	Posting
+Before diving into the details of each account, let’s consider what we are about to do. We are going to determine the balance of each specific account by posting. To do this, we will copy (“post”) the entries listed in the journal into their respective ledger accounts.
+
+38
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+The General Ledger
+
+In other words, the debits and credits in the journal will be accumulated (“transferred”/ “sorted”) into the appropriate debit and credit columns of each ledger page. Following is an illustration of the posting process. Notice that arrows are drawn to show how the first journal entry is posted. A similar process would occur for each of the other accounts. In reviewing the ledger accounts at right, notice that the “description” column includes a cross-reference back to the journal page in which the transaction was initially recorded. This reduces the amount of detailed information that must be recorded in the ledger, and provides an audit trail back to the original transaction in the journal.
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+39
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Basics of Accounting & Information Processing
+
+The General Ledger
+
+ACCOUNT: Cash
+Date
+Jan. 1, 20X3 Jan. 1, 20X3 Jan. 4, 20X3 Jan. 8, 20X3 Jan. 18, 20X3 Jan. 25, 20X3 Jan. 28, 20X3
+
+Description
+Balance forward Journal page 1 Journal page 1 Journal page 1 Journal page 2 Journal page 2 Journal page 2
+
+Debit
+
+Credit
+$
+
+Balance
+25,000
+
+$ 25,000 $ 4,000 500 4,800 5,000 2,000
+
+23,000 27,000 26,500 31,300 26,300
+
+ACCOUNT: Accounts Receivable
+Date
+Jan. 1, 20X3 Jan. 17, 20X3 Jan. 25, 20X3
+
+Description
+Balance forward Journal page 2 Journal page 2
+
+Debit
+
+Credit
+$
+
+Balance
+8,000
+
+$ 8,000 $ 4,800
+
+3,200
+
+ACCOUNT: Land
+Date
+Jan. 1, 20X3 Jan. 28, 20X3
+
+Description
+Balance forward Journal page 2
+
+Debit
+
+Credit
+$
+
+Balance
+15,000
+
+$ 15,000
+
+ACCOUNT: Accounts Payable
+Date
+Jan. 1, 20X3 Jan. 15, 20X3 Jan. 18, 20X3
+
+Description
+Balance forward Journal page 2 Journal page 2
+
+Debit
+
+Credit
+$ $ 1,000
+
+Balance
+1,000 500
+
+$
+
+500
+
+ACCOUNT: Notes Payable
+Date
+Jan. 1, 20X3 Jan. 28, 20X3
+
+Description
+Balance forward Journal page 2
+
+Debit
+
+Credit
+$ $ 10,000
+
+Balance
+10,000
+
+ACCOUNT: Capital Stock
+Date
+Jan. 1, 20X3 Jan. 1, 20X3
+
+Description
+Balance forward Journal page 1
+
+Debit
+
+Credit
+$ $ 25,000
+
+Balance
+25,000
+
+ACCOUNT: Service Revenue
+Date
+Jan. 1, 20X3 Jan. 8, 20X3 Jan. 17, 20X3
+
+Description
+Balance forward Journal page 1 Journal page 2
+
+Debit
+
+Credit
+$ $ 4,000 8,000
+
+Balance
+4,000 12,000
+
+ACCOUNT: Advertising Expense
+Date
+Jan. 1, 20X3 Jan. 4, 20X3
+
+Description
+Balance forward Journal page 1
+
+Debit
+
+Credit
+$
+
+Balance
+2,000
+
+$ 2,000
+
+ACCOUNT: Utilities Expense
+Date
+Jan. 1, 20X3 Jan. 15, 20X3
+
+Description
+Balance forward Journal page 2
+
+Debit
+
+Credit
+$
+
+Balance
+1,000
+
+$ 1,000
+
+40
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+The General Ledger
+
+GENERAL JOURNAL Date
+1 1 X3 Cash Capital Stock Issued stock to shareholders, in exchange for cash 1 4 X3 Advertising Expense Cash Paid advertising expense for initial advertising programs 1 8 X3 Cash Service Revenue Provided services to customers for cash 4,000 2,000
+
+Page 1 Debits
+25,000 25,000
+
+Accounts
+
+Credits
+
+2,000
+
+4,000
+
+GENERAL JOURNAL Date
+1 15 X3
+
+Page 2 Debits
+1,000 1,000
+
+Accounts
+Utility Expense Accounts Payable Received bill for utility costs incurred
+
+Credits
+
+1 17 X3
+
+Accounts Receivable Service Revenue Provided services to customers on account
+
+8,000 8,000
+
+1 18 X3
+
+Accounts Payable Cash Paid half of the amount due on the utility bill received on January 15
+
+500 500
+
+1 25 X3
+
+Cash Accounts Receivable Received 60% of the amount due on the receivable that was established on January 17
+
+4,800 4,800
+
+1 28 X3
+
+Land Cash Notes Payable Purchased land by giving $5,000 cash, and promising to pay the remainder in 90 days
+
+15,000 5,000 10,000
+
+The Check Marks ( ) in the journal indicate that a particular transaction has been posted to the ledger. Without these marks (in a manual system), it would be very easy to fail to post a transaction, or even post the same transaction twice.
+
+41
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+The General Ledger
+
+8.2	
+
+To Review
+
+Thus far you should have grasped the following accounting “steps”: •	 STEP 1: Each transaction is analyzed to determine the accounts involved •	 STEP 2: A journal entry is entered into the general journal for each transaction •	 STEP 3: Periodically, the journal entries are posted to the appropriate general ledger page
+
+1
+
+2
+
+3
+
+AXA Global Graduate Program
+Find out more and apply
+
+42
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Basics of Accounting & Information Processing
+
+The Trial Balance
+
+9	 The Trial Balance
+After all transactions have been posted from the journal to the ledger, it is a good practice to prepare a trial balance. A trial balance is simply a listing of the ledger accounts along with their respective debit or credit balances. The trial balance is not a formal financial statement, but rather a self-check to determine that debits equal credits. Following is the trial balance prepared from the general ledger of Xao Corporation. XAO CORPORATION Trial Balance January 31, 20X3
+Debits Cash Accounts receivable Land Accounts payable Notes payable Capital stock Service revenues Advertising expense Utilities expense $26,300 3,200 15,000 Credits
+
+$
+
+2,000 1,000 $47,500
+
+500 10,000 25,000 12,000
+
+$47,500
+
+9.1	
+
+Debits Equal Credits
+
+Since each transaction was journalized in a way that insured that debits equaled credits, one would expect that this equality would be maintained throughout the ledger and trial balance. If the trial balance fails to balance, an error has occurred and must be located. It is much better to be careful as you go, rather than having to go back and locate an error after the fact. You should also be aware that a “balanced” trial balance is no guarantee of correctness. For example, failing to record a transaction, recording the same transaction twice, or posting an amount to the wrong account would produce a balanced (but incorrect) trial balance.
+
+43
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+The Trial Balance
+
+9.2	
+
+Financial Statements From the Trial Balance
+
+In the next chapter you will learn about additional adjustments that may be needed to prepare a truly correct and up-to-date set of financial statements. But, for now, you can probably see that a tentative set of financial statements could be prepared based on the trial balance. The basic process is to transfer amounts from the general ledger to the trial balance, then into the financial statements:
+
+*
+
+In reviewing the following financial statements for Xao, notice that blue italics were used to draw attention to the items taken directly from the trial balance above. The other line items and amounts simply relate to totals and derived amounts within the statements. These statements would appear as follows:
+XAO CORPORATION Income Statement For the Year Ending January 31, 20X3
+Revenues Services to customers Expenses Advertising Utilities Net income $2,000 1,000
+
+XAO CORPORATION Balance Sheet January 31, 20X3
+Assets Cash Accounts receivable Land Total assets Liabilities Accounts payable Notes payable Total liabilities Stockholders’ equity Capital stock Retained earnings Total stockholders’ equity Total liabilities and equity $25,000 9,000 $ 500 10,000 $26,300 3,200 15,000 $44,500
+
+$12,000
+
+3,000 $9,000
+
+XAO CORPORATION Statement of Retained Earnings For the Year Ending January 31, 20X3
+Retained earnings - January 1, 20X3 Plus: Net income Less: Dividends Retained earnings - January 31, 20X3 $ 9,000 $9,000 $9,000
+
+$10,500
+
+34,000 $44,500
+
+44
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+The Trial Balance
+
+10	Computerized Processing Systems
+You probably noticed that much of the material in this chapter involves rather mundane processing. Once the initial journal entry is prepared, the data are merely being manipulated to produce the ledger, trial balance, and financial statements. No wonder, then, that some of the first business applications that were computerized many years ago related to transaction processing. In short, the only “analytics” relate to the initial transaction recordation. All of the subsequent steps are merely mechanical, and are aptly suited to computerization. Many companies produce accounting software. These packages range from the simple to the complex. Some basic products for a small business may be purchased for under $100. In large organizations, millions may be spent hiring consultants to install large enterprise-wide packages. Recently, some software companies have even offered accounting systems maintained on their own network, with the customers utilizing the internet to enter data and produce their reports.
+
+45
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Basics of Accounting & Information Processing
+
+Computerized Processing System
+
+10.1	
+
+What do they Look Like
+
+As you might expect, the look, feel, and function of software-based packages varies significantly. Each company’s product must be studied to understand its unique attributes. But, in general, accounting software packages: •	 Attempt to simplify and automate data entry (e.g., a point-of-sale terminal may actually become a data entry device so that sales are automatically “booked” into the accounting system as they occur). •	 Frequently divide the accounting process into modules related to functional areas such as sales/collection, purchasing/payment, and others. •	 Attempt to be “user-friendly” by providing data entry blanks that are easily understood in relation to the underlying transactions. •	 Attempt to minimize key-strokes by using “pick lists,” automatic call-up functions, and auto complete type technology. •	 Are built on data-base logic, allowing transaction data to be sorted and processed based on any query structure (e.g., produce an income statement for July, provide a listing of sales to Customer Smith, etc.) •	 Provide up-to-date data that may be accessed by key business decision makers. •	 Are capable of producing numerous specialized reports in addition to the key financial statements. Following is a very typical data entry screen. It should look quite familiar. After the data are input, The subsequent processing (posting, etc.) is totally automated.
+
+Debits
+
+Credits
+
+502 201
+
+Utilities Expense Accounts Payable
+
+$1,000.00 $1,000.00
+
+$1,000.00 Record entry #756
+
+$1,000.00
+
+Entry in balance
+
+46
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+Computerized Processing System
+
+Despite each product’s own look and feel, the persons primarily responsible for the maintenance and operation of the accounting function must still understand accounting basics such as those introduced in this chapter: accounts, debits and credits, journal entries, etc. Without that intrinsic knowledge, the data input decisions will quickly go astray, and the output of the computerized accounting system will become hopelessly trashed. So, while it is safe to assume that you will probably be working in a computerized accounting environment, it equally true to say that you should first come to understand the basic processing described in this and subsequent chapters. These principles will clearly guide you toward successful implementation and use of most any computerized accounting product, and the reports they produce.
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+47
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Basics of Accounting & Information Processing
+
+T-accounts
+
+11	T-accounts
+A useful tool for demonstrating certain transactions and events is the “t-account.” Importantly, one would not use t-accounts for actually maintaining the accounts of a business. Instead, they are just a quick and simple way to figure out how a small number of transactions and events will impact a company. T-accounts would quickly become unwieldy in an enlarged business setting. In essence, t-accounts are just a “scratch pad” for account analysis. They are useful communication devices to discuss, illustrate, and think about the impact of transactions. The physical shape of a t-account is a “T,” and debits are on the left and credits on the right. The “balance” is the amount by which debits exceed credits (or vice versa). Below is the t-account for Cash for the transactions and events of Xao Corporation. Carefully compare this t-account to the actual running balance ledger account which is also shown (notice that the debits in black total to $33,800, the credits in red total to $7,500, and the excess of debits over credits is $26,300 – which is the resulting account balance shown in blue).
+
+ACCOUNT: Cash
+CASH
+Date Jan. 1, 20X3 Jan. 1, 20X3 Jan. 4, 20X3 Jan. 8, 20X3 Jan. 18, 20X3 Jan. 25, 20X3 Jan. 28, 20X3 Description Balance forward Journal page 1 Journal page 1 Journal page 1 Journal page 2 Journal page 2 Journal page 2 Debit Credit Balance
+
+25,000* 2,000 4,000 500 4,800 5,000 33,800 7,500 26,300
+
+$ $ 25,000 $ 4,000 500 4,800 5,000 2,000
+
+25,000 23,000 27,000 26,500 31,300 26,300
+
+11.1	
+
+Comprehensive T-Accounting Illustration
+
+The following diagram illustrating the flow of transactions from a general journal to a set of t-accounts may look rather “busy” but it is actually quite simple. The debits/credits for each entry can be traced to the corresponding accounts. Once all of entries are transferred, the resulting balances for each account can be carried forward to form the trial balance.
+
+48
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+T-accounts
+
+CASH 25,000 4,000 4,800 33,800 26,300
+LAND
+
+2,000 500 5,000 7,500
+
+GENERAL JOURNAL Date
+1 1 X3 Cash Capital Stock Issued stock to shareholders, in exchange for cash 1 4 X3 Advertising Expense Cash Paid advertising expense for initial advertising programs 1 8 X3 Cash Service Revenue Provided services to customers for cash 4,000 2,000
+
+Page 1 Debits
+25,000 25,000
+
+ACCOUNTS RECEIVABLE 8,000 3,200 NOTES PAYABLE 10,000 10,000 SERVICE REVENUE 4,000 8,000 , 12,000 12,000 UTILITIES EXPENSE 1,000 1,000
+XAO CORPORATION Trial Balance January 31, 20X3
+
+Accounts
+
+Credits
+
+15,000 15,000 ACCOUNTS PAYABLE 500 1,000 500
+
+4,800
+
+2,000
+
+4,000
+
+CAPITAL STOCK
+Page 2 Debits
+1,000 1,000
+
+GENERAL JOURNAL Date
+1 15 X3
+
+25,000 25,000 ADVERTISING EXPENSE
+
+Accounts
+Utilities Expense Accounts Payable Received bill for utility costs incurred
+
+Credits
+
+1 17 X3
+
+Accounts Receivable Service Revenue Provided services to customers on account
+
+8,000 8,000
+
+2,000 2,000
+
+1 18 X3
+
+Accounts Payable Cash Paid half of the amount due on the utility bill received on January 15
+
+500 500
+
+1 25 X3
+
+Cash Accounts Receivable Received 60% of the amount due on the receivable that was established on January 17
+
+4,800 4,800
+
+Debits Cash Accounts receivable Land Accounts payable Notes payable Capital stock Service revenues Advertising expense Utilities expense $26,300 3,200 15,000
+
+Credits
+
+1 28 X3
+
+Land Cash Notes Payable Purchased land by giving $5,000 cash, and promising to pay the remainder in 90 days
+
+15,000 5,000 10,000
+
+$
+
+2,000 1,000 $47,500
+
+500 10,000 25,000 12,000
+
+$47,500
+
+49
+Download free eBooks at bookboon.com
+
+Basics of Accounting & Information Processing
+
+T-accounts
+
+11.2	
+
+Chart of Account
+
+A listing of all accounts in use by a particular company is called the chart of accounts. Individual accounts are often given a specific reference number. The numbering scheme helps keep up with the accounts in use, and helps in the classification of accounts. For example, all assets may begin with “1” (e.g., 101 for Cash, 102 for Accounts Receivable, etc.), liabilities with “2,” and so forth. A simple chart of accounts for Xao Corporation might appear as follows: No. 101: Cash No. 102: Accounts Receivable No. 103: Land No. 201: Accounts Payable No. 202: Notes Payable No. 301: Capital Stock No. 401: Service Revenue No. 501: Advertising Expense No. 502: Utilities Expense The assignment of a numerical account number to each account assists in data management, in much the same way as zip codes help move mail more efficiently. Many computerized systems allow rapid entry of accounts by reference number rather than by entering a full account description.
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+50
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Basics of Accounting & Information Processing
+
+T-accounts
+
+11.3	
+
+Control and Subsidiary Accounts
+
+Some general ledger accounts are made of many sub-components. For instance, a company may have total accounts receivable of $19,000, consisting of amounts due from Compton, Fisher, and Moore. The accounting system must be sufficient to reveal the total receivables, as well as amounts due from each customer. Therefore, sub-accounts are used. For instance, in addition to the regular general ledger account, separate auxiliary receivable accounts would be maintained for each customer, as shown in the following illustration:
+ACCOUNTS RECEIVABLE: SUBSIDIARY LEDGERS
+ACCOUNT: Compton
+Date Jan. 1, 20X5 Jan. 11, 20X5 Description Balance forward Journal page 1 $ 6,000 Debit Credit Balance $ 6,000
+
+ACCOUNTS RECEIVABLE: CONTROL LEDGER
+ACCOUNT: Accounts Receivable
+Date Jan. 1, 20X5 Jan. 11, 20X5 Jan. 12, 20X5 Jan. 24, 20X5 Jan. 30, 20X5 Description Balance forward Journal page 1/Compton Journal page 1/Fisher Journal page 2/Sunderman $ 6,000 $ 11,000 8,000 2,000 Debit Credit Balance alance $ 30,000 36,000 25,000 17,000 19,000
+
+ACCOUNT: Fisher her
+Date te Jan. 1, 20X5 Jan. 12, 20X5 Description Balance forward Journal page 1 $ 11,000 Debit Credit Balance $ 15,000 4,000
+
+ACCOUNT: Sunderman ACCOUNT
+Date 1 20X5 Jan. 1, Jan. 24, 20X5 Description Balance forward Journal page 2 $ 8,000 Debit Credit Balance $ 8,000 -
+
+* 2/Moore Journal page
+
+ACCOUNT: Moore
+Date Jan. 1, 20X5 Jan. 30, 20X5 Description Balance forward ward Journal page 2 $ 2,000 Debit Credit Balance $ 7,000 9,000
+
+ENDING BALANCES MUST AGREE WITH CONTROL ACCOUNT BEGINNING BALANCES MUST AGREE WITH CONTROL ACCOUNT
+
+$ 19.000 $ 30.000
+
+The total receivables are the sum of all the individual receivable amounts. Thus, the Accounts Receivable general ledger account total is said to be the “control account” or control ledger, as it represents the total of all individual “subsidiary account” balances. The company’s chart of accounts will likely be based upon some convention such that each subsidiary account is a sequence number within the broader chart of accounts. For instance, if Accounts Receivable bears the account number 102, you would expect to find that individual customers might be numbered as 102.001, 102.002, 102.003, etc. It is simply imperative that a company be able to reconcile subsidiary accounts to the broader control account that is found in the general ledger. Here, computers can be particularly helpful in maintaining the detailed and aggregated data in perfect harmony.
+
+51
+Download free eBooks at bookboon.com
+

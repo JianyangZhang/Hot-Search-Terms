@@ -1,0 +1,823 @@
+Tools	for	Enterprise	Performance Evaluation
+Budgeting	and	Decision	Making Larry	M.	Walther;	Christopher	J.	Skousen
+
+Download	free	books	at
+
+Larry M. Walther
+
+Tools for Enterprise Performance Evaluation
+Budgeting and Decision Making
+
+2
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation: Budgeting and Decision Making 1st edition © 2010 Larry M. Walther, under nonexclusive license to Christopher J. Skousen & bookboon.com. All material in this publication is copyrighted, and the exclusive property of Larry M. Walther or his licensors (all rights reserved). ISBN 978-87-7681-575-2
+
+3
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Contents
+
+Contents
+	 Tools for Enterprise Performance Evaluation	 7 8 8 9 10 10 11 11 13 16 16 16
+
+1	 Responsibility Accounting and Management by Exception 	 1.1	 1.2	 1.3	 1.4	 1.5	 1.6	 1.7	 1.8	 1.9	 1.10	 Centralized VS. Decentralized Decision-Making 	 Responsibility Centers 	 Cost Center 	 Profit Center 	 Investment Center 	 Affixing Responsibility 	 Responsibility Center Reports 	 The Power of a Data Base System 	 Traceable Versus Common Fixed Costs 	 Management by Expansion 	
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Tools for Enterprise Performance Evaluation
+
+Contents
+
+2	 2.1	 2.2	 2.3	 3	 3.1	 3.2	 3.3	 4	 4.1	 4.2	 4.3	 4.4	 4.5	 4.6	 4.7	 4.8	 4.9	
+
+Flexible Budgets 	 Flexible Budget for Performance Evaluations 	 Flexible Budgets for Planning 	 Flexible Budgets and Efficiency of Operation 	 Standard Costs 	 Setting Standards 	 Philosophy of Standards 	 The Downside of the Standards 	 Variance Analysis 	 Variances Relating to Direct Materials 	 An Illustration of Direct Material Variance Calculations 	 Journal Entries for Direct Material Variances	 When Purchases Differ From Usage 	 Variances Relating to Direct Labor 	 An Illustration of Direct Labor Variance Calculations 	 Journal Entries for Direct Labor Variances 	 Factory Overhead Variances 	 Variable Versus Fixed Overhead 	
+
+17 18 18 19 20 21 22 22 23 24 25 27 28 28 29 31 31 32
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Tools for Enterprise Performance Evaluation
+
+Contents
+
+4.10	 4.11	 4.12	 4.13	 4.14	 4.15	 4.16	 4.17	 4.18	 4.19	
+
+Variances Relating to Variable Factory Overhead 	 Exploring Variable Overhead Variances 	 An Illustration of Variable Overhead Variances	 Journal Entry for Variable Overhead Variances 	 Careful Interpretation of Variable Overhead Variances 	 Variances Relating to Fixed Factory Overhead 	 An Illustration of Fixed Overhead Variances 	 Journal Entry for Fixed Overhead Variances 	 Recapping Standards and Variances 	 Examining Variances 	
+
+32 33 34 35 35 36 36 38 39 40 41 41 43
+
+5	 Balanced Scorecard Approach to Performance Evaluation 	 5.1	 The Balance Scorecard in Operation 	
+
+	Appendix	
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+6
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Tools for Enterprise Performance Evaluation
+
+Tools for Enterprise Performance Evaluation
+
+Tools for Enterprise Performance Evaluation
+Your goals for this “performance evaluation” chapter are to learn about: •	 Concepts in responsibility accounting and management by exception. •	 Using flexible budgets to adapt outcome assessments to variable scenarios. •	 Developing and using standard costs. •	 Traditional variance calculations for monitoring cost and efficiency. •	 The balanced scorecard approach to measuring business performance.
+
+7
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Responsibility Accounting and Management by Exception
+
+1	 Responsibility Accounting and Management by Exception
+Perhaps you have worked some of the questions and problems accompanying this text. What purpose do they serve? After all, they are actually quite redundant with the material in the text. Hopefully, you will see this question as merely rhetorical. The questions and problems serve as a self test to help you identify areas where your understanding is not clear. They provide feedback on areas where additional study is needed. Such “performance evaluations” are an important part of managing and improving your education. Clearly, your professors rely on some form of performance evaluation in assigning grades. This is one of the least desirable tasks for most educators. But, it is through this feedback method that students are able to sense areas of strength and weakness, as well as providing a key “motivator” to study and learn. Excellent students are rewarded. Poor students are signaled to work harder or consider alternative fields of study. Performance evaluations can be harsh, but are generally viewed as necessary in striving toward an end result. As you will see, businesses must also adopt performance evaluation methods. Earlier chapters have focused on techniques used for costing products and services, understanding cost behavior, budgeting, and so forth. These basic devices are essential to a well managed organization. But, one must also be mindful that managers must be held accountable for the results of their decisions and related execution. Without performance-related feedback, the business will not perform at its best possible level, and opportunities for improvement may go unnoticed. Given that managers must be held accountable for decisions, actions, and outcomes, it becomes very important to align a manager’s area of accountability with their area of responsibility. The “area” of responsibility can be a department, product, plant, territory, division, or some other type of unit or segment. Usually, the attribution of responsibility will mirror the organizational structure of the firm. This is especially true in organizations that have a decentralized approach to decision-making.
+
+1.1	
+
+Centralized VS. Decentralized Decision-Making
+
+Sometimes by plan, and sometimes simply as a result of top managements’ leadership style, organizations will tend to gravitate to either a centralized or a decentralized style of management. With a centralized style, the top leaders make and direct most important decisions. Lower-level personnel execute these directives but are generally powerless to independently make policy decisions. A centralized organization is benefited by strong coordination of purpose and methods, but it has some glaring deficiencies. Among these are the stifling of lower-level managerial talent, suppression of innovation, and reduced employee morale.
+
+8
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Responsibility Accounting and Management by Exception
+
+Many contemporary business successes have occurred in highly decentralized organizations. Top management concentrates on strategy, and leaves the day-to-day operation and decision-making tasks to lower-level personnel. This facilitates rapid “front-line” response to customer issues and provides for identifying and training emerging managers. It can also improve morale by providing each employee with a clear sense of importance that is often lacking in a highly centralized environment. Decentralization can prove a fertile ground for cultivating new and improved products and business processes.
+
+1.2	
+
+Responsibility Centers
+
+A decentralized environment results in highly dispersed decision making. As a result, it is imperative to monitor and judge the effectiveness of each manager. This is easier said than done. Not all units are capable of being evaluated on the same basis. Some units do not generate any revenue; they only incur costs in support of some necessary function. Other units that deliver goods and services have the potential to be assessed on the basis of profit generation. As a generalization, the part of an organization under the control of a manager is termed a “responsibility center.” To aid performance evaluation it is first necessary to consider the specific character of each responsibility center. Some responsibility centers are cost centers and others are profit centers. On a broader scale, some are considered to be investment centers. The logical method of assessment will differ based on the core nature of the responsibility center.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+9
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Tools for Enterprise Performance Evaluation
+
+Responsibility Accounting and Management by Exception
+
+1.3	
+
+Cost Center
+
+Obviously most business units incur costs, so this alone does not define a cost center. A cost center is perhaps better defined by what is lacking; the absence of revenue, or at least the absence of control over revenue generation. Human resources, accounting, legal, and other administrative departments are expensive to support and do not directly contribute to revenue generation. Cost centers are also present on the factory floor. Maintenance and engineering fall into this category. Many businesses also consider the actual manufacturing process to be a cost center even though a saleable product is produced (the sales “responsibility” is shouldered by other units). It stands to reason that assessments of cost control are key in evaluating the performance of cost centers. This chapter will show how standard costs and variance analysis can be used to pinpoint areas where performance is above or below expectation. Cost control should not be confused with cost minimization. It is easy to reduce costs to the point of destroying enterprise effectiveness. The goal is to control costs while maintaining enterprise effectiveness. Nonfinancial metrics are also useful in monitoring cost centers: documents processed, error rates, customer satisfaction surveys, and other similar measures can be used. The concept of a balanced scorecard is discussed later in this chapter, and it can be very relevant to evaluating the performance of a cost center.
+
+1.4	
+
+Profit Center
+
+Some business units have control over both costs and revenues and are therefore evaluated on their profit outcomes. For such profit centers, “cost overruns” are expected if they are coupled with commensurate gains in revenue and profitability. A restaurant chain may evaluate each store as a separate profit center. The store manager is responsible for the store’s revenues and expenses. A store with more revenue would obviously generate more food costs; an assessment of food cost alone would be foolhardy without giving consideration to the store’s revenues. For such profit centers, the flexible budgets discussed in this chapter are particularly useful evaluative tools. Other metrics include unit-by-unit profitability analysis using ratio tools introduced in the financial analysis chapter.
+
+10
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Responsibility Accounting and Management by Exception
+
+1.5	
+
+Investment Center
+
+At higher levels within an organization, unit managers will be held accountable not only for cost control and profit outcomes, but also for the amount of investment capital that is deployed to achieve those outcomes. In other words, the manager is responsible for adopting strategies that generate solid returns on the capital they are entrusted to deploy. Evaluation models for investment centers become more complex and diverse. They usually revolve around various calculated rates of return. One popular method was pioneered by E.I. du Pont de Nemours and Company. It is commonly known as the DuPont return on investment (ROI) model, and is pictured at right. This model consists of a margin subcomponent (Operating Income/Sales) and a turnover subcomponent (Sales/Average Assets). These two subcomponents can be multiplied to arrive at the ROI. Thus, ROI = (Operating Income/Sales) × (Sales/Average Assets). A bit of algebra reveals that ROI reduces to a much simpler formula: Operating Income/ Average Assets. But, a prudent manager who is to be evaluated under the ROI model will quickly realize that the subcomponents are important. Notice that ROI can be increased by any of the following actions: increasing sales, reducing expenses, and/or decreasing the deployed assets. The DuPont approach encourages managers to focus on increasing sales, while controlling costs and being mindful of the amount invested in productive assets. A disadvantage of the ROI approach is that some “profitable” opportunities may be passed by managers because they fear potential dilution of existing successful endeavors. The consulting firm of Stern, Stewart & Co. has trademarked and popularized the Economic Value Added model as an alternative comprehensive evaluative tool for assessing investment returns. Presumably, it compensates for the deficiencies of simpler models. Advanced managerial accounting courses typically devote considerable coverage to the various approaches to evaluating investment centers.
+
+1.6	
+
+Affixing Responsibility
+
+Lower-level managers may only be responsible/accountable for a small subset of business activities. As one moves up the organizational chart, mid and upper-level managers assume ever greater degrees of responsibility. The reporting system should mimic the expanded scope, and develop information which reveals the performance for all units within the control of a particular manager. At successively higher steps, individual performance reports are combined to reveal the success or failure of all activities beneath a particular manager. This can result in one manager being held accountable for a combination of cost, profit, and investment centers. A keen manager must be familiar with the specific techniques for managing and gauging the success of each!
+
+11
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Responsibility Accounting and Management by Exception
+
+Following is an organization chart for Out To Lunch Hamburgers. Out to Lunch is a rapidly growing fast-food restaurant chain. Their business model revolves around a uniquely flavored hamburger, and a very simple menu consisting of a hamburger, fries, and drinks. They provide simple “round number” pricing, few products, and rapid service. Out to Lunch also has a catering service for sporting events, corporate outings, and similar occasions. The block colors in the organization chart indicate the character of performance/responsibility evaluation that is germane to each position. The Chief Executive Officer reports to the owners, and the owners are primarily interested in their return on investment. Three vice presidents report to the CEO: The VP of operations is responsible • for the overall investment in operations, which is driven heavily by the combined profits of each store. The VP of Operations oversees procurement, store management, and catering management. •	 The Procurement Manager oversees purchasing of food and dishware. -- The Procurement activities are evaluated as cost centers, relying on budgets and standard costs to control activities. •	 The Store and Catering managers oversee supervisors from each location. -- The Store and Catering Managers are responsible for producing profits, and are evaluated accordingly.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+12
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Tools for Enterprise Performance Evaluation
+
+Responsibility Accounting and Management by Exception
+
+•	 The VP of Finance is viewed and evaluated as a cost center. •	 The VP of Real Estate is responsible for site acquisition and construction. Although the activities are largely viewed in the context of a cost center, there is an expected rate of return for each new real estate investment. Therefore, the VP of Real Estate is evaluated for cost control and return on investments.
+
+1.7	
+
+Responsibility Center Reports
+
+A company’s accounting system should support preparation of an accounting report for each responsibility center. This information is essential to monitor, control, and direct each business unit. The exact form and detail of a performance report depends on the particular organization and the nature of the responsibility center. Oftentimes, the reports will provide a comparison between budgeted and actual data, with the difference being reported as a variance from budget. These performance reports should be consistent with the organizational structure of the firm. At successively higher levels within an organization, the reports tend to include less transaction specific detail and more combinations of business units. For Out to Lunch Hamburgers, each store will likely have a customized performance report:
+PERFORMANCE REPORT -- STORE LOCATION A FOR THE YEAR ENDING DECEMBER 31, 20X5 ACTUAL RESULTS Percent of Sales Sales: Burgers Fries Drinks Total Sales Less: Variable Expenses Food Cost Other Variable Expenses Total Variable Expenses Contribution Margin Less: Traceable Fixed Costs Location A Margin 40% 24% 36% 100% 19% 7% 26% Totals $1,000,000 600,000 900,000 $2,500,000 $ 475,000 175,000 $ 650,000 $1,850,000 1,100,000 $ 750,000 BUDGETED RESULTS Percent of Sales 43% 22% 35% 100% 20% 8% 28% Totals $1,100,000 550,000 875,000 $2,525,000 $ 505,000 200,000 $ 705,000 $1,820,000 1,100,000 $ 720,000 $ (100,000) 50,000 25,000 $ (25,000) $ (30,000) (25,000) $ (55,000) $ $ 30,000 30,000 VARIANCE
+
+Drinks (36%)
+
+Burgers (40%)
+
+Fries (24%)
+
+13
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Responsibility Accounting and Management by Exception
+
+Notice that Location A’s performance report is very detailed, and provides a basis for analysis of numerous facets of the business. Graphics are frequently used to facilitate understanding by those not accustomed to accounting reports. For example, each store supervisor knows that fries and drinks have the highest profit margins and they are encouraged to train employees to soft-sell these items by asking customers “what type of drink did you prefer?” rather than “did you want a drink with this order?” As a result, the report is “specialized” to show the product mix proportions. In addition, each manager gets a bonus if food costs are below 20% of sales; this incentive is designed to reduce food waste and encourage sales of high margin products. The report provides sufficient detail to show if the objectives are being met. Notice that unfavorable variances are highlighted in red. Summarizing the results for Location A, note that the budgeted goal for hamburger sales was not met. But, the profit objectives were nevertheless exceeded because the product mix of fries and drinks produced offsetting higher margins. In addition Location A managed to contain other variable costs. The next step up in the organizational chart is the Senior Manager of Store Operations. This person is concerned with making sure that each unit is profitable. Underperforming stores are identified, problems are studied, and corrective measures are taken. Very little time is spent on locations that are meeting or exceeding corporate profit goals. Although this manager has access to the detailed reports for each store, the performance report of interest is a compilation of summary data for each location that quickly highlights the areas of needed improvement. Review the following performance report, noting the carry forward of Location A’s data into the report. Obviously, some stores are performing much better than others; the senior manager will certainly want to focus on store E immediately! Also notice that there is $1,500,000 of fixed costs associated with store operations that are not traceable to any specific location; nevertheless, the senior manager of store operations must control this cost and it is subtracted in calculating the overall margin. Thus, the total fixed cost for all store operations is $9,500,000 ($8,000,000 + $1,500,000).
+PERFORMANCE REPORT -- ALL STORES FOR THE YEAR ENDING DECEMBER 31, 20X5
+Combined Sales: Burgers Fries Drinks Total Sales Less: Variable Exp. Food Cost Other Variable Exp. Total Variable Exp. Contribution Margin Traceable Fixed Costs Location Margin Common Fixed Costs Stores Margin $ 7,050,000 3,675,000 5,685,000 $16,410,000 $ * 3,334,850 1,241,100 $ 4,575,950 $ 11,834,050 8,000,000 $ 3,834,050 1,500,000 $ 2,334,050 Location A $1,000,000 600,000 900,000 $2,500,000 $ 475,000 175,000 $ 650,000 $1,850,000 1,100,000 $ 750,000 Location B $ 875,000 400,000 910,000 $2,185,000 $ 458,850 131,100 $ 589,950 $1,595,050 1,000,000 $ 595,050 Location C $1,200,000 750,000 975,000 $2,925,000 $ 526,500 234,000 $ 760,500 $2,164,500 900,000 $ 1,264,500 Location D $1,400,000 800,000 1,000,000 $3,200,000 $ 640,000 224,000 $ 864,000 $2,336,000 1,200,000 $ 1,136,000 Location E $ 600,000 200,000 450,000 $1,250,000 $ 337,500 112,500 $ 450,000 $ 800,000 1,300,000 $ (500,000) Location F $ 875,000 300,000 550,000 $1,725,000 $ 293,250 207,000 $ 500,250 $1,224,750 1,100,000 $ 124,750 Location G $1,100,000 625,000 900,000 $2,625,000 $ 603,750 157,500 $ 761,250 $1,863,750 1,400,000 $ 463,750
+
+14
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Responsibility Accounting and Management by Exception
+
+Continuing up the organizational chart, the VP of Operations will focus on summary data from store management, catering management, and procurement. Notice that the “stores” column (below) is derived from information found in the “combined” column (above). Again, note the presence of fixed costs that are not traceable to any specific operating segment ($1,300,000). Even though this cost is not assigned to a specific segment, it remains a cost for which the VP of Operations is responsible.
+PERFORMANCE REPORT -- OPERATIONS FOR THE YEAR ENDING DECEMBER 31, 20X5
+Combined Total Sales Total Variable Expenses Contribution Margin Less: Traceable Fixed Costs Unit Margin Less: Common Fixed Costs Operations Margin $28,866,000 $ 6,942,590 $ 21,923,410 1 7,700,000 $ 4,223,410 1,300,000 $ 2,923,410 Stores $16,410,000 $ 4,575,950 $ 11,834,050 9,500,000 $ 2,334,050 Catering $12,456,000 $ 2,366,640 $ 10,089,360 7,000,000 $ 3,089,360 Procurement $ $ $ -
+
+1,200,000 $(1,200,000)
+
+The next step in the corporate ladder is the CEO. This individual would most likely be evaluated on the overall financial statement outcomes. Although the CEO would have access to any and all of the reports from within the organization, they would mostly focus on the reports emanating from each vice president’s unit.
+
+15
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Tools for Enterprise Performance Evaluation
+
+Responsibility Accounting and Management by Exception
+
+1.8	
+
+The Power of a Data Base System
+
+The static reports illustrated above are quite useful, but do suffer from an important limitation. Specifically, what you see is what you get. It is very difficult to “mine data” pertinent to a specific inquiry. For example, if the VP of Operations wanted to know the overall corporate sales mix proportions (hamburgers, fries, drinks) a specific request would be initiated to the store and catering managers. They would gather the individual reports from each location and develop a report to channel back up to the VP. The VP of Operations would then need to combine the two reports before having an answer to the inquiry. This is very inefficient and may have the undesirable outcome of forcing management to make decisions based on incomplete information. Increasingly, companies are developing customized electronic data base systems that capture data and store it in such a way as to enable accurate and real time retrieval of information relevant to an almost endless number of potential questions.
+
+1.9	
+
+Traceable Versus Common Fixed Costs
+
+You likely noticed that the above reports separated out variable and fixed expenses. The fixed expenses were further divided between those that were traceable to a specific business unit and common fixed costs. Traceable fixed costs would not exist if the unit under evaluation ceased to exist. Common fixed costs support the operations of more than one unit. Great care must be taken in distinguishing between traceable and common fixed costs. Remember that effective performance evaluations require a clear alignment of responsibility and accountability. To the extent a unit manager is burdened with allocations of common costs, poor signaling of performance can result. This is why such costs are usually segregated out in performance based reporting methods. This topic will be further explored in the next chapter’s discussion of segment reporting.
+
+1.10	
+
+Management by Expansion
+
+“Underperforming stores are identified, problems are studied, and corrective measures are taken. Very little time is spent on locations that are meeting or exceeding corporate profit goals.” These sentences are taken directly from the preceding discussion about how the senior manager of store operations uses the performance reports. This is an excellent illustration of what is meant by the concept of management by exception. The objective of management by exception is to focus attention on areas where corrective measures appear necessary. Performance evaluation tools that do not satisfy this objective are of little value. Importantly, not every exception requires a remedy. One characteristic of a strong manager is the ability to study problems, and differentiate between those requiring a solution and those that simply happened because of bad luck.
+
+16
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Flexible Budgets
+
+2	 Flexible Budgets
+The previous chapter provided a comprehensive budget illustration using a static budget. The static budget is one which is developed for a single level of activity. It is very useful for planning and control purposes. However, you were also cautioned about the potential shortcomings of using static budgets for performance evaluation. Specifically, when the actual output varies from the anticipated level, variances are likely to arise. These variances can be quite misleading. The genesis of the problem is that variable costs will tend to track volume. If the company produces and sells more products than anticipated, one would expect to see more variable costs (and vice versa). Presumably, it is a good thing to produce and sell more than planned, but the variances resulting from the higher costs can appear as a bad thing! The opposite occurs when volume is less than anticipated. To illustrate, assume that Mooster’s Dairy produces a premium brand of ice cream. Mooster’s Dairy uses a static budget based on anticipated production of 100,000 gallons per month. Cost behavior analysis revealed that direct materials are variable and anticipated to be $1 per gallon ($100,000 in total), direct labor is variable and anticipated to be $.50 per gallon ($50,000 in total), and variable factory overhead is expected to be $1.50 per gallon ($150,000 in total). Fixed factory overhead is planned at $205,000 per month. The monthly budget for total manufacturing costs is $505,000, as shown in the budget column below.
+MOOSTER’S DAIRY - Static Budget/Expense Analysis For the Month Ending July 31, 20X9
+Actual (105,000 units) Variable Expenses Direct materials Direct labor Variable factory overhead Total Variable Expenses Fixed Factory Overhead Total Manufacturing Costs $ 105,000 53,000 155,000 $ 313,000 $ 200,000 $ 513,000 Budget (100,000 units) $ 100,000 50,000 150,000 $ 300,000 $ 205,000 $ 505,000 Variance $ (5,000) (3,000) (5,000) $ (13,000) $ 5,000 $ (8,000)
+
+July of 20×9 was hotter than usual, and Mooster found them selves actually producing 105,000 gallons. Total factory costs were $513,000. Mooster’s July’s budget versus actual expense analysis reveals unfavorable variances for materials, labor, and variable factory overhead. Does this mean the production manager has done a poor job in controlling costs? Remember that actual production volume exceeded plan. At a glance, it is challenging to reach any conclusion. What is needed is a performance report where the budget is “flexed” based on the actual volume.
+
+17
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Flexible Budgets
+
+The flexible budget reveals a much different picture. Rather than incurring $8,000 of cost overruns as portrayed by the variances associated with the static budget, you can see below that total production costs were $7,000 below what would be expected at 105,000 units of output. On balance, it appears that the production manager has done a good job.
+MOOSTER’S DAIRY - Flexible Budget/Expense Analysis For the Month Ending July 31, 20X9
+Actual (105,000 units) Variable Expenses Direct materials Direct labor Variable factory overhead Total Variable Expenses Fixed Factory Overhead Total Manufacturing Costs $ 105,000 53,000 155,000 $ 313,000 $ 200,000 $ 513,000 Budget (105,000 units) $ 105,000 52,500 157,500 $ 315,000 $ 205,000 $ 520,000 Variance $ (500) 2,500 2,000 5,000 7,000
+
+$ $ $
+
+Specifically, direct materials cost exactly $1.00 per gallon of output. Direct labor totaled $500 in excess of the plan amount of $52,500 (105,000 units × $0.50 = $52,500), resulting in an unfavorable labor variance. This could be due to using more labor hours or paying a higher labor rate per hour – or some combination thereof. Later in this chapter, you will learn how to perform analysis to better identify the root contributing cause of such variances. The variable factory overhead was expected at $157,500 (105,000 units × $1.50 per unit = $157,500), but actually only cost $155,000. Fixed factory overhead was $5,000 less than anticipated.
+
+2.1	
+
+Flexible Budget for Performance Evaluations
+
+The flexible budget responds to changes in activity, and may provide a better tool for performance evaluation. It is driven by the expected cost behavior. Fixed factory overhead is the same no matter the activity level, and variable costs are a direct function of observed activity. When performance evaluation is based on a static budget, there is little incentive to drive sales and production above anticipated levels because increases in volume tend to produce more costs and unfavorable variances. The flexible budgetbased performance evaluation provides a remedy for this phenomenon.
+
+2.2	
+
+Flexible Budgets for Planning
+
+The flexible budget illustration for Mooster’s Dairy was prepared after actual production was known. While this tool is useful for performance evaluation, it does little to aid advance planning. But, flexible budgets can also be useful planning tools if prepared in advance. For instance, Mooster’s Dairy might anticipate alternative volumes based on temperature-related fluctuations in customer demand for ice cream. These fluctuations will be very important to production management as they plan daily staffing and purchases of milk and cream that will be needed to support the manufacturing operation. As a result, Mooster’s Dairy might prepare an advance flexible budget based on many different scenarios:
+
+18
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Flexible Budgets
+
+MOOSTER’S DAIRY - Static Budget/Expense Analysis For the Month Ending July 31, 20X9
+Budget (80,000 units) Variable Expenses Direct materials Direct labor Variable factory overhead Total Variable Expenses Fixed Factory Overhead Total Manufacturing Costs $ 80,000 40,000 120,000 $ 240,000 $ 205,000 $ 445,000 Budget (90,000 units) $ 90,000 45,000 135,000 $ 270,000 $ 205,000 $ 475,000 Budget (100,000 units) $ 100,000 50,000 150,000 $ 300,000 $ 205,000 $ 505,000 Budget (110,000 units) $ 110,000 55,000 165,000 $ 330,000 $ 205,000 $ 535,000 Budget (120,000 units) $ 120,000 60,000 180,000 $ 360,000 $ 205,000 $ 565,000 Notes $1.00 per unit $0.50 per unit $1.50 per unit
+
+The above flexible budget reveals only the aggregate expense levels expected to be generated. In reality, supporting flexible budget documents would resemble the comprehensive budget documents portrayed in the prior chapter. Such comprehensive documents would provide the information necessary to manage the smallest of operating details that must be adjusted as production volumes fluctuate.
+
+2.3	
+
+Flexible Budgets and Efficiency of Operation
+
+It perhaps goes without saying that computers are most helpful in preparing budget information that is easily flexed for changes in volume. Indeed, even the preparation of the very simple illustrative information for Mooster’s Dairy was aided by an electronic spreadsheet. Businesses save millions upon millions of dollars in accounting time by relying on computers to aid budget preparation. But, this savings is inconsequential when compared to the real savings that results from using computerized flexible budgeting tools. As production volumes ramp up and down to meet customer demand, computerized flexible budgets are adjusted on a real-time basis to send signals throughout the modern organization (including electronic data interchange with suppliers). The net result is that the supply chain is immediately adjusted to match raw material orders to real production levels, thereby eliminating billions and billions of dollars of raw material waste and scrap.
+
+19
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Standard Costs
+
+3	 Standard Costs
+Budgets deal with total expected costs. But, as you saw for Mooster’s Dairy, these overall estimates are based upon fundamental assumptions about standard quantity and cost of inputs required in producing a single unit of output. Recall for Mooster: “…direct materials are variable and anticipated to be $1 per gallon ($100,000 in total), direct labor is variable and anticipated to be $.50 per gallon ($50,000 in total), and variable factory overhead is expected to be $1.50 per gallon ($150,000 in total).” Standards are the predetermined expectation of the inputs necessary to achieve a unit of output. Standard costs provide an assessment of what those inputs should cost. Standards are important ingredients in planning and controlling a business. You have just seen how they influence the budget preparation process. They are also integral to the assumptions needed for proper cost-volume-profit analysis discussed in an earlier chapter. Standards can also be used in pricing goods and services. Perhaps you have had your car repaired; the bill is likely based on an hourly rate applied to a standard number of hours for the job (your specific repair might have actually taken more or less time).
+
+20
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Tools for Enterprise Performance Evaluation
+
+Standard Costs
+
+This chapter will look at how standards are used for performance evaluation via measures of efficiency and cost incurrence. You have perhaps worked in a restaurant. Each cashier may have a standard for how much business they must “ring.” Managers have standards for how many tables must be “turned.” The bus staff is allowed only so much “breakage.” Virtually every business has a similar set of standards. In a traditional manufacturing environment, a unit of finished goods is decomposed into its components to determine how much raw material, labor, and overhead is necessary to produce the item. These component quantities are then considered in terms of what they should cost.
+
+3.1	
+
+Setting Standards
+
+The decision about the quantity and cost of productive components is more complex than it may seem. If you were building a new home, how much sheetrock (wall board) would you need for the job? In calculating the quantity you would begin with the overall wall dimensions and back out the area for windows and doors. But, you would also realize that some of the cutouts for windows would result in useless scrap material. In addition, it is inevitable that some material will be damaged or cut in error. In estimating the quantity of material, you will want to provide for such elements, but you also realize that excess material may not be easily returned without cost. Determining the right quantity of sheetrock is much like setting standards in a business environment. Standard setters need to understand waste, spoilage, evaporation, and other characteristics that consume raw materials. Standard setters need to be mindful of how much time it takes to perform certain tasks, remembering that humans will make mistakes and need time to correct them. Humans must also have periods of rest. Standards are applicable to manufacturing and nonmanufacturing tasks. Even the accountants who are seen as the monitors of standards are themselves subject to standards. An auditor may be allowed a certain number of hours to audit payroll, verify a bank reconciliation, and so forth. Without standards, the tasks may expand in scope and time, beyond what is prudent or necessary. Although performance reports may be prepared by managerial accountants, the standards themselves should originate with personnel who best understand the productive process. These personnel should develop standards that are based on realistic information derived from careful study of business processes. For example, an industrial engineer may engage in time and motion studies to determine the appropriate amount of time to complete a given task. Past data may be used to provide realistic measures of the raw material quantity that is needed to complete a finished unit. Some standards are based on averages; total estimated costs are divided by total estimated output or activity. For example, standard variable overhead can be determined by dividing estimated variable overhead by the estimated activity level for the upcoming period. Likewise, fixed standard per-unit overhead would be determined by dividing estimated fixed overhead by the estimated activity level.
+
+21
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Standard Costs
+
+3.2	
+
+Philosophy of Standards
+
+It has probably already occurred to you that standards can be set very tight, allowing almost no room for waste or rest. Or, management may adopt a more realistic set of standards that are within reach. After all, standards are somewhat like goals. In playing a round of golf, most players will see “par” as a benchmark against which to compare a score; realistically, few players expect to achieve “par” on a consistent basis. Nevertheless, it constitutes a standard. At other times, golfers will calculate their “handicap” to determine a target score they plan to shoot on a given round of golf. This is also a standard, but one that is expected to be achieved. In setting standards within a business environment, management needs to consciously consider the level of standards to adopt: •	 Achievable standards are realistically within reach. Such standards take into account normal spoilage and inefficiency. Such standards are intended to allow workers to reach the established benchmarks. This level of standard provides a clear set of metrics against which job performance can be gleaned. The interpretation is generally unambiguous; when goals are not met, improvement is needed. It is also thought to reduce the opportunity for frustration and discouragement that can be associated with less attainable goals. •	 Ideal standards may never be reached. They represent what will result in a state of perfection – no spoiled goods, no worker fatigue, no errors, etc. The idea behind such standards is that employees will never rest on their laurels. Instead, they will achieve their full potential by striving to hit the lofty goal. Many businesses avoid ideal standards because they fear that employees will see ideal standards as meaningless since they cannot hope to achieve them. In other words, the employees cease to strive for a goal they cannot hope to reach. Further, such goals may not help in performance evaluations; what is the feedback value of telling employees they failed to meet such standards (after all, isn’t that what was expected)?
+
+3.3	
+
+The Downside of the Standards
+
+A manager also needs to consider the downside of standards and develop compensating balances. For instance, if employees are encouraged to work fast, quality can suffer. Standards need to be in place to make sure that quality of output is not adversely affected. On the other hand, some seasoned employees may have become so skilled that they can easily meet their output goals and find themselves able to coast through the work day. Usually skilled workers receive a higher pay scale; it is not unfair to expect them to produce more output. Therefore, one standard may not fit all. A good manager is particularly adept at helping to establish fair standards, and use them to plan and control the operations within their area of responsibility.
+
+22
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Variance Analysis
+
+4	 Variance Analysis
+As already mentioned, standard costs provide information that is useful in performance evaluation. Standard costs are compared to actual costs, and mathematical deviations between the two are termed variances. Favorable variances result when actual costs are less than standard costs, and vice versa. The following illustration is intended to demonstrate the very basic relationship between actual cost and standard cost. AQ means the “actual quantity” of input used to produce the output. AP means the “actual price” of the input used to produce the output. SQ and SP refer to the “standard” quantity and price that was anticipated. As you will soon see, variance analysis can be conducted for each factor of productive input: material, labor, and overhead. For the moment, just focus on the major concept – variances are simply the differences between actual cost incurred and the standard cost that was appropriate for the achieved production:
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+23
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Tools for Enterprise Performance Evaluation
+
+Variance Analysis
+
+Variance analysis is the logical examination of the deviations in an attempt to identify areas for improvement. Management is responsible for careful evaluation of variances. This task is an important part of effective control of an organization. While comparing total actual costs to total standard costs is interesting, it provides little useful information for pinpointing specific problem areas. Instead, management must perform a more penetrating analysis into the detailed variances relating to each factor of production.
+
+4.1	
+
+Variances Relating to Direct Materials
+
+The total variance for direct materials is found by comparing actual direct material cost to standard direct material cost. The top portion of the illustration at right demonstrates this point. However, the overall materials variance could result from any combination of having procured goods at prices equal to, above, or below standard cost, and using more or less direct materials than anticipated. Proper variance analysis requires that the Total Direct Materials Variance be separated into the: •	 Materials Price Variance: A variance that reveals the difference between the standard price for materials purchased and the amount actually paid for those materials [(standard price – actual price) × actual quantity]. •	 Materials Quantity Variance: A variance that compares the standard quantity of materials that should have been used to the actual quantity of materials used. The quantity variation is measured at the standard price per unit [(standard quantity – actual quantity) × standard price].
+24
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Variance Analysis
+
+If you carefully study the illustration, you will see there are several ways to perform the intrinsic variance calculations. You can very simply compute the values for the red, blue, and green balls; noting the differences. Or, you can perform the noted algebraic calculations for the price and quantity variances; adding them together gives you the total variance. In performing the math operations, be very careful to note that unfavorable variances (negative numbers) offset favorable (positive numbers) variances. But, don’t get lost in the math and forget the importance of the analysis. Management’s goal is to pinpoint problem areas. A total variance could be zero, resulting from the purchasing department having negotiated favorable pricing that was wiped out by waste in material usage. A good manager would want to take corrective action, but would be unaware of the problem based on an overall budget versus actual comparison. The moral of the story is to always look into the details for improvement opportunities.
+
+4.2	
+
+An Illustration of Direct Material Variance Calculations
+
+Blue Rail Manufacturing produces high quality handrails, gates, banisters, corral systems, and similar welded steel products. The primary raw material is 40 foot long pieces of heavy gauge steel pipe. This pipe is custom cut and welded into rails like that shown in the accompanying picture. In addition, the final stages of production require some grinding and sanding operations, along with a final spray coating of paint (welding rods, grinding disks, and paint are relatively inexpensive and are classified as indirect material components within factory overhead). Blue Rail measures their output in “sections.” Each section consists of one post and four rails. The sections are 10’ in length and the posts average 4’ each. Some overage and waste is expected due to the need for an extra post at the end of a set of sections, taller than normal posts, faulty welds, bad pipe cuts, and defective pipe. The company has adopted an achievable standard of 1.25 pieces of raw pipe (50') per section of rail. During August, Blue Rail produced 3,400 sections of railing. It was anticipated that pipe would cost $80 per 40' piece. Standard material cost for this level of output is computed as follows:
+Output -- Number of rail sections Standard quantity of input per rail section -- 40’ long pieces of pipe Standard quantity of input (pipes) to achieve output (rail sections) Standard price per unit of input (pipe) Standard cost of direct materials 3,400 1.25 4,250 X $80 $ 340,000 X
+
+The production manager was very disappointed to receive the monthly performance report that revealed actual material cost of $369,000. A closer examination of the actual cost of materials revealed the following:
+
+25
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Variance Analysis
+
+Actual quantity of input (pipes) to achieve output (rail sections) Actual price per unit of input (pipe) Actual cost of direct materials
+
+4,100 X $90 $ 369,000
+
+The total direct material variance was unfavorable $29,000 ($340,000 vs. $369,000). However, this unfavorable outcome was driven by higher prices for raw material, not waste. It seems that steel prices escalated rapidly. The unfavorable materials price variance is calculated as follows: MATERIALS PRICE VARIANCE = (SP – AP) × AQ = ($80 – $90) × 4,100 = <$41,000> Materials usage was favorable since less material was used (4,100 pieces of pipe) than was standard (4,250 pieces of pipe). This resulted in a favorable materials quantity variance: MATERIALS QUANTITY VARIANCE = (SQ – AQ) × SP = (4,250 – 4,100) × $80 =$12,000
+
+.
+
+26
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Tools for Enterprise Performance Evaluation
+
+Variance Analysis
+
+These two variances net (<$41,000> + $12,000) to produce the total $29,000 unfavorable outcome:
+
+4.3	
+
+Journal Entries for Direct Material Variances
+
+A company may desire to adapt their general ledger accounting system to capture and report variances. Let’s see how this might occur for Blue Rail. First, do not ever lose sight of the very simple fact that the amount of money to account for is still the money that was actually spent ($369,000). To the extent the price paid for materials differs from standard, the variance is debited (unfavorable) or credited (favorable) to a Materials Price Variance account. This results in the Raw Materials Inventory account carrying only the standard price of materials, no matter the price paid:
+8 31 XX Raw Materials Inventory Materials Price Variance Accounts Payable
+To record purchase of raw materials at standard price and related unfavorable variance
+
+328,000 41,000 369,000
+
+Work in Process is debited for the standard cost of the standard quantity that should be used for the productive output achieved, no matter how much is actually used. Any difference between standard and actual raw material usage is debited (unfavorable) or credited (favorable) to the Materials Quantity Variance account:
+8 31 XX Work in Process Inventory Raw Materials Inventory Materials Quantity Variance
+To transfer raw materials to production at standard usage rates and related favorable quantity variance
+
+340,000 328,000 12,000
+
+27
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Variance Analysis
+
+The Materials Price Variances and Materials Quantity Variances are generally reported by decreasing income (if unfavorable debits) or increasing income (if favorable credits), although other outcomes are possible (alternative dispositions are discussed in more advanced managerial accounting courses). Examine the following diagram to be sure you understand how these entries play out in the ledger – the first entry is in green and the second is in blue. As you examine this diagram, notice that the $369,000 of cost is ultimately attributed to work in process inventory ($340,000 debit at standard cost/quantity), materials price variance ($41,000 debit), and materials quantity variance ($12,000 credit):
+
+4.4	
+
+When Purchases Differ From Usage
+
+The discussion and illustration for direct material variances presumed that all of the raw material purchases were put into production. If this were not a valid assumption, then the preceding illustration would need to be modified to reflect price variances based on the amount purchased and quantity variances based on output. Be aware that the ripple effect of this modification would potentially upset the relationships between the “red, green, and blue balls” used in this chapter to illustrate the basic principles of variance calculations. Further discussion of this topic issue is deferred to more advanced managerial accounting courses.
+
+4.5	
+
+Variances Relating to Direct Labor
+
+The intrinsic logic for direct labor variances is very similar to that of direct material. The total variance for direct labor is found by comparing actual direct labor cost to standard direct labor cost. The overall labor variance could result from any combination of having paid laborers at rates equal to, above, or below standard rates, and using more or less direct labor hours than anticipated. In this illustration, AH is the actual hours worked, AR is the actual labor rate per hour, SR is the standard labor rate per hour, and SH is the standard hours for the output achieved.
+
+28
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Variance Analysis
+
+The Total Direct Labor Variance can be separated into the: •	 Labor Rate Variance: A variance that reveals the difference between the standard rate and actual rate for the actual labor hours worked [(standard rate – actual rate) × actual hours]. •	 Labor Efficiency Variance: A variance that compares the standard hours of direct labor that should have been used to the actual hours worked. The efficiency variance is measured at the standard rate per hour [(standard hours – actual hours) × standard rate]. If you carefully study the illustration, you will see there are several ways to perform the intrinsic labor variance calculations. You can very simply compute the values for the red, blue, and green balls; noting the differences. Or, you can perform the noted algebraic calculations for the rate and efficiency variances; adding them together gives you the total variance. In performing the math operations, be very careful to note that unfavorable variances (negative numbers) offset favorable (positive numbers) variances.
+
+4.6	
+
+An Illustration of Direct Labor Variance Calculations
+
+Let’s continue with our illustration for Blue Rail Manufacturing. Recall that each section of railing requires that individual pieces of pipe be custom cut, welded, sanded, and painted. Welding is a slow and labor intensive process, and the company has adopted a standard of 3 labor hours for each section of rail. Skilled labor is anticipated to cost $18 per hour. During August, remember that Blue Rail produced 3,400 sections of railing. Therefore, the standard labor cost for August is calculated as:
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+29
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Tools for Enterprise Performance Evaluation
+
+Variance Analysis
+
+Output -- Number of rail sections Standard hours per rail section Standard hours to achieve output Standard rate per hour of labor Standard cost of direct labor
+
+3,400 3.00 10,200 X $18 $ 183,600 X
+
+The monthly performance report revealed actual labor cost of $175,000. A closer examination of the actual cost of labor revealed the following:
+Actual hours of labor Actual rate per hour Actual cost of direct labor 12,500 X $14 $ 175,000
+
+The total direct labor variance was favorable $8,600 ($183,600 vs. $175,000). This variance was driven by favorable wage rates: LABOR RATE VARIANCE = (SR – AR) × AH = ($18 – $14) × 12,500 = $50,000 The hourly wage rate was lower because of a shortage of highly skilled welders. The less experienced welders were paid less per hour but they also worked slower. This inefficiency shows up in the unfavorable labor efficiency variance: LABOR EFFICIENCY VARIANCE = (SH – AH) × SR = (10,200 – 12,500) × $18 =<$41,400> These two variances net ($50,000 + <$41,400>) to produce the total $8,600 favorable outcome:
+
+30
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Variance Analysis
+
+4.7	
+
+Journal Entries for Direct Labor Variances
+
+If Blue Rail desires to capture labor variances in their general ledger accounting system, the entry might look something like this:
+8 31 XX Work in Process Inventory Labor E ciency Variance Labor Rate Variance Wages Payable
+To increase work in process for the standard direct labor costs, and record the related efficiency and rate variances
+
+183,600 41,400 50,000 175,000
+
+*
+
+Once again, debits reflect unfavorable variances, and vice versa. Such variance amounts are generally reported as decreases (unfavorable) or increases (favorable) in income, with the standard cost going to the Work in Process Inventory account. The following diagram shows the impact within the general ledger accounts.
+
+4.8	
+
+Factory Overhead Variances
+
+Remember that manufacturing costs consist of direct material, direct labor, and factory overhead. You have just seen how variances are computed for direct material and direct labor. Similar variance analysis should be performed to evaluate spending and utilization for factory overhead. But, overhead variances are a bit more challenging to calculate and evaluate. As a result the techniques for factory overhead evaluation vary considerably from company to company (and textbook to textbook). If you progress to advanced managerial accounting courses, you will likely learn about a variety of alternative techniques. For now, let’s focus on one comprehensive approach.
+
+31
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Variance Analysis
+
+4.9	
+
+Variable Versus Fixed Overhead
+
+To begin, recall that overhead has both variable and fixed components (unlike direct labor and direct material that are exclusively variable in nature). The variable components may consist of items like indirect material, indirect labor, and factory supplies. Fixed factory overhead might include rent, depreciation, insurance, maintenance, and so forth. Because variable and fixed costs behave in a completely different fashion, it stands to reason that proper evaluation of variances between expected and actual overhead costs must take into account the intrinsic cost behavior. As a result, variance analysis for overhead is split between variances related to variable overhead and variances related to fixed overhead.
+
+4.10	
+
+Variances Relating to Variable Factory Overhead
+
+The cost behavior for variable factory overhead is not unlike direct material and direct labor, and the variance analysis is quite similar. The goal will be to account for the total “actual” variable overhead by applying: (1) the “standard” amount to work in process, and (2) the “difference” to appropriate variance accounts. This accounting objective is no different than observed for direct material and direct labor!
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+32
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Tools for Enterprise Performance Evaluation
+
+Variance Analysis
+
+On the left-hand side of the following graphic, notice that more is spent on actual variable factory overhead than is applied based on standard rates. This scenario produces unfavorable variances (also known as “under applied overhead” since not all that is spent is applied to production). The right-hand side is the opposite scenario (favorable/over applied overhead). Beneath the graphics are T-accounts intending to illustrate the cost flow. As monies are spent on overhead (wages, utilization of indirect materials, etc.), the cost (xxx) is transferred to the Factory Overhead account. As production occurs, overhead is applied/transferred to Work in Process (yyy). When more is spent than applied (as on the left scale), the balance (zz) is transferred to variance accounts representing the unfavorable outcome. When less is spent than applied (as on the right scale), the balance (zz) represents the favorable overall variances.
+
+4.11	
+
+Exploring Variable Overhead Variances
+
+A good manager will want to explore the nature of variances relating to variable overhead. It is not sufficient to simply conclude that more or less was spent than intended. As with direct material and direct labor, it is possible that the prices paid for underlying components deviated from expectations (a variable overhead spending variance). On the other hand, it is possible that the company’s productive efficiency drove the variances (a variable overhead efficiency variance). Thus, the Total Variable Overhead Variance can be divided into a Variable Overhead Spending Variance and a Variable Overhead Efficiency Variance. Before looking closer at these variances, it is first necessary to recall that overhead is usually applied based on a predetermined rate, such as $× per direct labor hour (you may find it helpful to review this concept from Part 3 of the Managerial and Cost Accounting book. This means that the amount debited to work in process is driven by the overhead application approach. This will become clearer with the following illustration.
+
+33
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Variance Analysis
+
+4.12	
+
+An Illustration of Variable Overhead Variances
+
+Let’s return to the illustration for Blue Rail. Variable factory overhead for August consisted primarily of indirect materials (welding rods, grinding disks, paint, etc.), indirect labor (inspector time, shop foreman, etc.), and other items. Extensive budgeting and analysis had been performed, and it was estimated that variable factory overhead should be applied at $10 per direct labor hour. During August, $105,000 was actually spent on variable factory overhead items. The standard cost for August’s production was as follows:
+Output -- Number of rail sections Standard hours per rail section Standard hours to achieve output Standard variable overhead rate per hour of direct labor Standard cost of variable overhead 3,400 3 10,200 X $10 $ 102,000
+
+X
+
+The total variable overhead variance is unfavorable $3,000 ($102,000–$105,000). This may lead to the conclusion that performance is about on track. But, a closer look reveals that overhead spending was quite favorable, while overhead efficiency was not so good. Remember that 12,500 hours were actually worked. Since variable overhead is consumed at the presumed rate of $10 per hour, this means that $125,000 of variable overhead (actual hours × standard rate) was attributable to the output achieved. Comparing this figure ($125,000) to the standard cost ($102,000) reveals an unfavorable variable overhead efficiency variance of $23,000. However, this inefficiency was significantly offset by the $20,000 favorable variable overhead spending variance ($105,000 vs. $125,000). The following diagram may prove useful in helping you sort out the variable overhead variances:
+
+34
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Variance Analysis
+
+4.13	
+
+Journal Entry for Variable Overhead Variances
+
+The following journal entry can be used to apply variable factory overhead to production and record the related variances:
+
+4.14	
+
+Careful Interpretation of Variable Overhead Variances
+
+Material and labor variances are more easily interpreted than variable overhead variances. The variable overhead efficiency variance can be somewhat confusing because it may reflect efficiencies or inefficiencies experienced with the base used to apply overhead, rather than overhead itself. For Blue Rail, remember that the total number of hours was “run up” beyond plan because of inexperienced labor. A good manager will want to keenly evaluate the cause and meaning of variable overhead variances. In fact, the variances are likely only the point of beginning for a proper evaluation. Remember that variable overhead is made up of many components. For Blue Rail, it is conceivable that the inexperienced welders used more welding rods, and the welds were likely sloppier requiring more grinding to smooth out the joints. Further, it is likely that inspectors had to spend more time checking work to make sure that the welds were strong. While the overall variance calculations would provide signals about these issues, a manager would actually need to drill down into each individual cost component (perhaps calculating variances for each budgeted line item rather than just on an overall basis) to truly find areas for business improvement.
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+35
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Tools for Enterprise Performance Evaluation
+
+Variance Analysis
+
+How important is control of overhead? A study of self-made 50-year old millionaires revealed very little correlation between wealth and income, and a strong correlation between wealth and life-long savings patterns. Although the study is related to individuals, the message rings equally true for business. Careful control of spending is essential to long-term value building. Businesses vary considerably in their attitudes and discipline as it relates to control of overhead. Some businesses are rather cavalier about controlling things like light/electricity usage, control over low cost parts, efficiency in shipping methods, etc. Others are rather fanatical about maintaining absolute and stringent controls. For instance, one controller of a manufacturing plant was frustrated with the number of screws that were dropped and left to be swept away at the end of each business day. These were seemingly insignificant to the employees. In frustration, the controller scattered a box of nickels onto the factory floor – by the end of the day none remained for the janitorial staff to sweep away. A subsequent memo was issued reminding everyone that screws cost 5¢ each. The rather obvious point was to draw a comparison between the nickels that everyone was eager to recover and the screws for which there was little concern. To build a successful business, a good manager will keep a keen eye on all overhead items, and control them with vigor. The variable overhead variances are macro indicators of success in accomplishing this goal.
+
+4.15	
+
+Variances Relating to Fixed Factory Overhead
+
+Frequently (but not always), actual fixed factory overhead will show little variation from budget. This results because of the intrinsic nature of a fixed cost. For instance, rent is usually subject to a lease agreement that is relatively certain. Depreciation on factory equipment can be calculated in advance. The costs of insurance policies are negotiated and tied to a contract. Even though budget and actual numbers may differ little in the aggregate, the underlying fixed overhead variances are nevertheless worthy of close inspection.
+
+4.16	
+
+An Illustration of Fixed Overhead Variances
+
+Let’s take one final look at Blue Rail. Assume that the company budgeted total fixed overhead at $72,000; only $70,000 was actually spent (seemingly a good outcome). Here our accounting objective will be to allocate the $70,000 actually spent between work in process and variance accounts. The temptation would be to book $72,000 into work in process and reflect a $2,000 offsetting favorable variance – but that would be the wrong approach! Instead, the Work in Process account should reflect the standard fixed overhead cost for the output actually produced. We get to this calculated value by reconsidering the company’s original assumptions about production. Assume that Blue Rail had planned on producing 4,000 rail systems during the month; remember that only 3,400 systems were actually produced – output was disappointing, perhaps due to the inexperienced labor pool. This means that the planned fixed overhead was $18 per rail ($72,000/4,000 = $18). Because three labor hours are needed per rail, the fixed overhead allocation rate is $6 per direct labor hour ($18/3). Use this new information to consider the following illustration for fixed factory overhead (remember from the earlier discussion that the standard labor hours for the actual output were 10,200):
+
+36
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Variance Analysis
+
+By reviewing this familiar looking illustration, you can see that $61,200 should be allocated to work in process. This reflects the standard cost allocation of fixed overhead that would be attributable to the production of 3,400 units (i.e., 10,200 hours should be used to produce 3,400 units). Notice that this differs from the budgeted amount of fixed overhead by $10,800, representing an unfavorable Fixed Overhead Volume Variance. In other words, since production did not rise to the anticipated level of 4,000 units, much of the fixed cost (that was in place to support 4,000 units of output) was “wasted” or “under-utilized.” Thus, the measured volume variance is highly unfavorable. If more units had been produced than originally anticipated, the fixed overhead volume variance would be favorable (this would reflect total budgeted fixed overhead being spread over more units than originally anticipated). For Blue Rail, the volume variance is offset by the more easily understood favorable Fixed Overhead Spending Variance of $2,000; $70,000 was spent versus the budgeted $72,000. Together, the two variances combine to reveal a net $8,800 unfavorable Total Fixed Overhead Variance.
+
+37
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Variance Analysis
+
+4.17	
+
+Journal Entry for Fixed Overhead Variances
+
+The diagram below illustrates the flow of fixed costs into the Factory Overhead account, and on to Work in Process and the related variances.
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+38
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Tools for Enterprise Performance Evaluation
+
+Variance Analysis
+
+Following is a compound journal entry to apply fixed factory overhead to production and record the related variances:
+8 31 XX Work in Process Inventory Fixed Overhead Volume Variance Fixed OH Spending Variance Factory Overhead
+To increase work in process for the standard fixed overhead, and record the related volume and spending variances
+
+61,200 10,800 2,000 70,000
+
+*
+
+4.18	
+
+Recapping Standards and Variances
+
+The foregoing provided a painstakingly detailed account of the variances for Blue Rail. Before moving on, it is best to put the entire subject in perspective. The goal is to compare standard costs to actual costs. Blue Rail’s work in process is recorded at the standard costs found in the Blue circles (hint – the work in process inventory of blue rails is recorded at the amounts found in blue circles), while actual costs are found in the red circles. These amounts are recapped in the table below:
+Standard Cost Assigned to Work in Process $340,000
+
+Actual Cost to Account For Direct Materials Price Variance Quantity Variance Direct Labor Rate Variance (I¿FLHQF\9DULDQFH Variable Factory Overhead Spending Variance (I¿FLHQF\9DULDQFH Fixed Factory Overhead Spending Variance Volume Variance AGGREGATE $369,000
+
+Overall Variances $ (29,000)
+
+6SHFL¿F Variances $ (41,000) $ 12,000 $ 50 000 $ (41,400) $ 20,000 $ (23,000) $ 2,000 $ (10,800)
+
+$175,000
+
+$183,600
+
+$
+
+8,600
+
+$105,000
+
+$102,000
+
+$ (3,000)
+
+$ 70,000
+
+$ 61,200
+
+$ (8,800)
+
+$719,000
+
+$686,800
+
+$ (32,200)
+
+You will notice that the standard cost of $686,800 corresponds to the amounts assigned to work in process inventory via the various journal entries, while the total variances of $32,200 were charged/ credited to specific variance accounts. By so doing, the full $719,000 actually spent is fully accounted for in the records of the Blue Rail.
+
+39
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Variance Analysis
+
+4.19	
+
+Examining Variances
+
+Not all variances need to be analyzed. One must consider the circumstances under which the variances resulted and the materiality of amounts involved. One should also understand that not all unfavorable variances are bad. For example, buying raw materials of superior quality (at higher than anticipated prices) may be offset by reduction in waste and spoilage. Likewise, favorable variances are not always good. Blue Rail’s very favorable labor rate variance resulted from using inexperienced, less expensive labor. Was this the reason for the unfavorable outcomes in efficiency and volume? Perhaps! The challenge for a good manager is to take the variance information, examine the root causes, and take necessary corrective measures to fine tune business operations. In closing this discussion of standards and variances, be mindful that care should be taken in examining variances. If the original standards are not accurate and fair, the resulting variance signals will themselves prove quite misleading.
+
+AXA Global Graduate Program
+Find out more and apply
+
+40
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Tools for Enterprise Performance Evaluation
+
+Balanced Scorecard Approach to Performance Evaluation
+
+5	 Balanced Scorecard Approach to Performance Evaluation
+Thus far, this chapter has focused on budgets, standards, and variances to assess entity performance. However, other nonfinancial metrics should also be employed in performance evaluation. This is sometimes referred to as maintaining a balanced scorecard, meaning that performance assessment should take a holistic approach. Long-term business success will not be achieved if the focus is only on near-term financial outcomes. At the same time, financial goals are not abandoned; the goal is to achieve balance. With the balanced scorecard approach, an array of performance measurements are developed. Each indicator should be congruent with the overall entity objectives. Further, each measure should be easily determined and understood. These measurements can relate to financial outcomes, customer outcomes, or business process outcomes. Although a balanced scorecard approach may include target thresholds that should be met, the primary mantra is on improvement. This means that all participants are continually striving to beat pre-existing scores for each measure. Early in this chapter, you saw how responsibility accounting concepts caused performance reports to be prepared for different steps in the corporate ladder. This notion is equally applicable to the balanced scorecard approach. The overall corporate entity may have macro targets and measures. Similarly, sub-units will have their own unique goals. A scorecard approach can even be pushed down to the individual employee level. For instance, a retail store may require that tellers complete a certain number of transactions per hour. This “quota” in essence would represent a nonfinancial metric that can be scored for each employee.
+
+5.1	
+
+The Balance Scorecard in Operation
+
+You saw for Blue Rail Manufacturing a number of examples of financial goals that could be included in a balanced scorecard assessment. Examples include the standard cost for material, the standard labor hours per rail set, the expected production level, and so forth. But, what would be some examples of customer outcomes and business process outcomes? •	 Potential Customer Outcomes: ■■ Results of a customer satisfaction survey ■■ Product returns/warranty work rates ■■ The frequency that customers reorder (or do not reorder) ■■ Estimated market share ■■ New customers that are based on referrals of existing customers ■■ Frequency that customer bids lead to customer orders ■■ Customer complaint/compliment rates ■■ Price in comparison to competitors
+41
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Balanced Scorecard Approach to Performance Evaluation
+
+•	 Potential Business Process Outcomes ■■ Defect free units as a proportion of total production ■■ Frequency/size of product liability claims ■■ Time from order receipt to shipment ■■ Size of customer order backlogs ■■ Lost production days due to out-of-stock raw materials or equipment failure ■■ Employee turnover rate ■■ Employee morale survey results ■■ Employee accident rates/claims for workers’ compensation ■■ Average experience level of employees In reviewing this list of potential items for inclusion in a balanced scorecard performance appraisal, you have probably thought of some additional items for inclusion. The choice is up to management. The idea is to find those items that drive business success in a way that is consistent with the corporate philosophy. Perhaps Blue Rail has a goal of 100% customer satisfaction with respect to quality, but knows that its price will be 20% higher than competitors. Or, Blue Rail may have a goal of being the lowest cost provider and will tolerate some degree of customer discord. The metrics are intended to measure progress toward fulfillment of the corporate objectives, and the managerial accountant is apt to be heavily involved in gathering the necessary data for inclusion in the balanced scorecard performance reports. These reports are often graphical in nature to facilitate easy use and interpretation, with particular emphasis on timely identification of trends. Sometimes, the metrics are prominently posted in the work place; perhaps you have seen a sign at a construction site noting the number of consecutive accident free work days. By prominent display of such data, employees are constantly reminded of, and vigilant to meet, key performance goals.
+
+42
+Download free eBooks at bookboon.com
+
+Tools for Enterprise Performance Evaluation
+
+Balanced Scorecard Approach to Performance Evaluation
+
+Appendix
+
+43
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+

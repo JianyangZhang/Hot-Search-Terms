@@ -1,0 +1,1154 @@
+Using	Accounting	Information
+Larry	M.	Walther;	Christopher	J.	Skousen
+
+Download	free	books	at
+
+Using Accounting Information © 2009 Larry M. Walther, under nonexclusive license to Christopher J. Skousen & Ventus Publishing ApS. All material in this publication is copyrighted, and the exclusive property of Larry M. Walther or his licensors (all rights reserved). ISBN 978-87-7681-490-8
+
+2 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Contents
+
+Contents
+Part 1. Financial Reporting and Concepts 1. 1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8 2. 2.1 2.2 2.3 2.4 2.5 2.6 2.7 2.8 3. 3.1 Special Reporting Situations Corrections of Errors Discontinued Operations Extraordinary Items Changes in Accounting Methods Other Comprehensive Income Recap EBIT and EBITDA Return on Assets Earnings per Share, Price Earnings Ratios, Book Value per Share, and Dividend Rates Basic EPS Diluted EPS Subdividing EPS Amounts Price Earnings Ratio Book Value per Share Calculating Book Value per Share Dividend Rates and Payout Ratios Return on Equity Objectives of Financial Reporting Objectives 7 8 8 9 11 13 13 13 15 15 16 17 18 18 19 20 20 21 23 24 24
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+3 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Using Accounting Information
+
+Contents
+
+4. 4.1 4.2 4.3 5. 5.1 5.2 5.3 5.4 5.5 5.6 5.7 6. 6.1 6.2 6.3 6.4 6.5 6.6 7. 7.1 7.2 7.3
+
+Qualitative Characteristics of Accounting Understandability Threshold Issues Other Concepts The Development of GAAP The Audit Function The Development of GAAP The 1929 Stock Crash and Great Depression The Securities and Exchange Commission The FASB and its Predecessors A More Recent Crisis of Reporting Conﬁdence Sarbanes-Oxley Key Assumptions Entity Assumption Going-Concern Assumption Periodicity Assumption Monetary Unit Assumption Stable Currency Assumption What do you Think? Global Accounting Issues Issues in International Trade Global Subsidiaries Global Trading Transactions
+
+25 26 26 26 28 28 29 29 29 30 31 32 33 34 34 35 35 35 35 36 37 37 38
+
+4 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Using Accounting Information
+
+Contents
+
+Part 2. Financial Analysis and the Statement of Cash Flows 8. 8.1 8.2 8.3 8.4 8.5 8.6 9. 9.1 9.2 10. 10.1 10.2 11. 12. 12.1 12.2 12.3 Financial Statement Analysis Comprehensive Illustration Balance Sheet Income Statement Statement of Retained Earnings Ratios for Emerson Corporation as of December 31, 20x5 Trend Analysis Cash Flows and the Cash Flow Statement The Statement of Cash Flows Cash and Cash Equivalents Operating, Investing and Financing Activities Investing Activities Financing Activities Noncash Investing and Financing Activities Direct Approach to the statement of Cash Flows Methods to Prepare a Statement of Cash Flows Operating Activities Investing Activities
+
+41 42 44 45 45 46 46 47 48 48 48 49 49 49 50 51 51 52 55
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+5 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Using Accounting Information
+
+Contents
+
+12.4 12.5 12.6 12.7 13. 14.
+
+Financing Activities Cash Flow Recap Noncash Investing/Financing Activities Reconciliation of Income to Operating Cash Flows Indirect Approach to Presenting Operating Activities Using a Worksheet to Prepare a Statement of Cash Flow
+
+56 57 57 58 60 61
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+6 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+Financial Reporting and Concepts
+Part 1
+
+Your goals for this “accounting, reporting, and analysis” chapter are to learn about: x Special reporting situations (errors, discontinued operations, extraordinary items, etc.). x Earnings per share, price earnings ratios, book value per share, and dividend rates. x The objectives of financial reporting. x The qualitative characteristics of useful accounting information. x The development of generally accepted accounting principles. x Key assumptions of financial accounting and reporting. x The growing role and importance of global accounting issues.
+
+7 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+1. Special Reporting Situations
+In earlier book chapters, it was noted that the accounting profession uses an “all inclusive” approach to measuring income. Virtually all transactions, other than shareholder related transactions like issuing stock and paying dividends, are eventually channeled through the income statement. However, there are certain situations where the accounting rules have evolved in sophistication to provide special disclosures. The reason for the added disclosure is to make it easier for users of financial statements to sort out the effects that are related to ongoing operations versus those that are somehow unique. Specifically, the following discussion will highlight the correct handling of (1) error corrections, (2) discontinued operations, (3) extraordinary items, (4) changes in accounting methods, and (5) other comprehensive income items.
+
+1.1 Corrections of Errors
+Errors consist of mathematical mistakes, incorrect reporting, omissions, oversights, and other things that were simply handled wrong in a previous accounting period. Once an error is discovered, it must be corrected. The temptation is to simply force the books into balance by making a compensating error in the current period. For example, assume that a company failed to depreciate an asset in 20X4, and this fact is discovered in 20X5. Why not just catch up by “double depreciating” the asset in 20X5, and then everything will be fine, right? Wrong! While it is true that accumulated depreciation in the balance sheet would be back on track at the end of 20X5, income for 20X4 and 20X5 would now both be wrong. It is not technically correct to handle errors this way; instead, generally accepted accounting principles dictate that error corrections (if material) must be handled by “prior period adjustment.” This means that the financial statements of prior periods must be subjected to a restatement to make them correct -- in essence the financial statement of prior periods are redone to reflect the correct amounts. Correcting financial statements of prior periods entails reissuing financial statements with the necessary corrections. However, what journal entry is needed, given that revenue and expense accounts from earlier years have already been closed? Suppose that, in 20X5, a journal entry is needed to record the depreciation for 20X4 that was previously omitted in error:
+
+XX-XX-XX
+
+Retained Earnings Accumulated Depreciation
+To record correction of error for previously omitted 20X4 depreciation expense
+
+50,000 50,000
+
+*
+
+This entry reveals a debit to Retained Earnings (reducing the beginning of year balance) for the depreciation expense that should have been recorded as an expense and closed to retained earnings in the prior year. The credit to Accumulated Depreciation provides a catch up adjustment to where the account would have been, had the deprecation been correctly recorded in 20X4.
+
+8 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+Importantly, if comparative financial statements (i.e., financial statements, side by side, for two or more years as illustrated in the next chapter) are presented for 20X4 and 20X5, depreciation would be reported at the correct amounts in each years’ statements (along with a note indicating that the presentation of prior years’ data have been revised for an error correction). If an error related to prior periods for which comparative data are not presented, then the statement of retained earnings would be amended as follows:
+
+GOOF UP CORPORATION Statement of Retained Earnings For the Year Ending December 31, 20X5
+Retained earnings - January 1, 20X5 - as previously reported Less Le ss: : Effect Effe Ef fect ct of o f correction corr co rrec ecti tion on of o f depreciation depr de prec ecia iati tion on error err e rror or from fro f rom m 20X4 20 X4 Less: $500,000 (50,000) (50, (5 ( 0,00 ,000 0) $450,000 125,000 $575,000 Less: Dividends Retained earnings - December 31, 20X5 (25,000) $550,000
+
+* beginning retained earnings Corrected
+Plus: Net income
+
+Shareholders generally take a dim view of prior period adjustments as they tend to undermine confidence in management and financial information. But, GAAP takes the position that accountants must own up to their mistakes and reissue corrected financial data. As a practical matter, some accountants give way to the temptation to find creative ways to sweep errors under the rug. But, be wary of falling into this trap, as many a business person has found themselves in big trouble for trying to hide erroneous accounting data!
+
+1.2 Discontinued Operations
+As you find time to read the business press, you will encounter many interesting articles about highprofile business decisions. Particularly popular with the press is coverage of a major corporate action to exit a complete business unit. Such disposals occur when a corporate conglomerate (i.e., a company with many diverse business units) decides to exit a unit of operation by sale to some other company, or by outright abandonment. For example, a computer maker may decide to sell its personal computer manufacturing unit to a more efficient competitor, and instead focus on its mainframe and service business. Or, a chemical company may simply decide to close a unit that has been producing a specialty product that has become an environmental and liability nightmare. Whatever the scenario, if an entity is disposing of a complete business component, it will invoke the unique reporting rules related to “discontinued operations.” To trigger these rules requires that the disposed business component have operations that are clearly distinguishable operationally and for reporting purposes. This would typically relate to a separate business segment, unit, subsidiary, or group of assets. Below is an illustrative income statement for Bail Out Corporation. Bail Out distributes farming implements and sporting goods. During 20X7, Bail Out sold its sporting equipment business and
+
+9 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+began to focus only on farm implements. In examining this illustration, be aware that revenues and expenses only relate to the continuing farming equipment. All amounts relating to operations of the sporting equipment business, along with the loss on the sale of assets used in that business, are removed from the upper portion of the income statement, and placed in a separate category below income from continuing operations.
+
+BAIL OUT CORPORATION Income Statement For the Year Ending December 31, 20X7
+Sales Cost of goods sold Gross profit Operating expenses Salaries * Rent Other operating expenses Income from continuing operations before income taxes Income taxes Income from continuing operations Discontinued operations Loss Lo ss from fro f rom m operation oper op erat atio ion n of sports spo s port rts s equipment equi eq uipm pmen ent t unit, unit un it, including incl in clud udin ing g loss lo ss on o n disposal disp di spos osal al Income Inco In come me tax t ax benefit ben b enef efit it from fro f rom m loss lo ss on o n disposal disp di spos osal al of o f business busi bu sine ness ss unit uni u nit t Loss on discontinued operations Net income $ 5,500,000 3,300,000 $ 2,200,000 $ 635,000 135,000 300,000
+
+1,070,000 $ 1,130,000 400,000 $ 730,000
+
+$ 600,000 600 600,0 ,000 00 130,000 130 130, ,000 000 470,000 , $ 260,000
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+10 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+Importantly, if a company is merely disposing of a single manufacturing plant or some other set of assets that does not constitute a business component, then the discontinued operations reporting rules are not invoked. For instance, suppose Sail Out merely sold its facility in Georgia, but continued to distribute the same products at all of its other locations. This would not constitute a discontinued operation. The income statement might include the gain or loss on the sale of the Georgia location as a separate line item in the income statement (as follows), but it would not require the expanded disclosures necessitated for a discontinued operation.
+
+SAIL OUT CORPORATION Income Statement For the Year Ending December 31, 20X7
+Sales Cost of goods sold Gross profit Operating expenses Salaries Rent * expenses Other operating Loss Lo ss on o n sale sa le of o f Georgia Geor Ge orgi gia a location loca lo cati tion on Income from continuing operations before income taxes Income taxes Net income $ 5,500,000 3,300,000 $ 2,200,000 $ 635,000 135,000 300,000 600,000 600 60 0, ,000 ,0 00
+
+1,670,000 1,6 1 ,670 , 70,0 ,000 , 00 $ 530,000 30 000 270,000 $ 260,000
+
+Before moving on, review Bail Out’s income statement, noting that total income taxes were “split” between those applicable to continuing operations and discontinued operations. This method of showing the tax effects related to the discontinued operations is mandatory, and is called “intraperiod tax allocation.” However, you should also note that only one income tax number is attributed to income from continuing operations; it is improper to further subdivide that amount of tax. For example, in the Sail Out income statement illustration, no attempt was made to match a portion of the total tax to the Georgia transaction. As you will soon observe, intraperiod tax allocation is also applicable to other items that are reported below the income from continuing operation section of the income statement (additionally, intraperiod tax allocation can impact prior period adjustments and other scenarios beyond the scope of this discussion).
+
+1.3 Extraordinary Items
+From time to time, a business may experience a gain or loss that results from an event that is both unusual in nature and infrequent in occurrence. When these two conditions are both met, the item is deemed to be an extraordinary item, and it is to be reported in a separate category below income from continuing (and discontinued, if applicable) operations. Extraordinary items are to be shown net of their related tax effect, as follows:
+
+11 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+UFO CORPORATION Income Statement For the Year Ending December 31, 20X2
+Sales Cost of goods sold Gross profit Operating expenses Salaries Rent * Other operating expenses Income from continuing operations before income taxes Income taxes Income from continuing operations Extraordinary item Uninsured Unin Un insu sure red d loss lo ss from fro f rom m meteorite mete me teor orit ite e strike stri st rike ke at a t corporate corp co rpor orat ate e office offi of fice ce Income Inco In come me tax t ax benefit ben b enef efit it from fro f rom m loss lo ss Extraordinary loss net of tax Net N ti income $ 5,500,000 3,300,000 $ 2,200,000 $ 635,000 135,000 300,000
+
+1,070,000 $ 1,130,000 400,000 $ 730,000
+
+$ 600,000 600, 60 0,00 000 0 130 13 0, ,000 000 130,000 470,000 , $ 260,000 260 26 0 00 000 0
+
+What does and does not meet the conditions of unusual in nature and infrequent in occurrence? In the example above, I presumed that a meteorite hitting a business and causing a major loss met both conditions. Although meteorites do occur, it is indeed rare for one to hit a specific business and cause a major loss. It would be very unlikely that this same business would ever sustain this type of loss again. On the other hand, flood losses for businesses located along a river, earthquakes for businesses in the Pacific Rim, wind damage in coastal areas, airline crashes, and the like can give rise to losses that are not unusual in nature and may be expected to reoccur from time to time; these types of items would be reported in continuing operations as a separate line item.
+
+HIGH WATER CORPORATION Income Statement For the Year Ending December 31, 20X7
+Sales Cost of goods sold Gross profit Operating expenses Salaries Rent * Other operating p g expenses p Flood Floo Fl ood d loss lo ss at a t Delta Delt De lta a River Rive Ri ver r facility faci fa cili lity ty Income from continuing operations before income taxes Income taxes Net income $ 5,500,000 3,300,000 $ 2,200,000 $ 635,000 135,000 300,000 600,000 6 00,0 00 ,000 , 00
+
+1,670,000 $ 530,000 270,000 $ 260,000
+
+Criteria driven rules (e.g., “unusual in nature” and “infrequent in occurrence”) can give rise to subjective assessments -- how would you classify the effects of a tornado in Kansas, a major terrorist attack in New York, a drug recall because of newly discovered health risks, an asset seizure by a foreign government, and so forth? You likely have an opinion on each of these, but there is
+
+12 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+1.4 Changes in Accounting Methods
+Now and again, a company may adopt a change in accounting principle. Such accounting changes relate to changes from one acceptable method to another acceptable method. For instance, a company may conclude that it wishes to adopt an alternative inventory procedure (e.g., FIFO to average cost). These changes should only occur for good cause (not just to improve income in some particular period!), and flip-flopping on a regular basis is not permitted. When such a change is made, the company must make a retrospective adjustment. This means that the financial statements of prior accounting periods should be reworked as if the new principle had always been used. Substantively, this is no different than the treatment afforded error corrections (restatements). However, the FASB chose to attach the different phrase (retrospective adjustment) when the process is implemented for a change in accounting principle; the idea was to use a different term to distinguish between changes resulting from errors (which carry a stigma) and other types of changes. Disclosures that must accompany a change in accounting principle are extensive. For starters, notes must be included that indicate why the newly adopted method is preferable. In addition, a substantial presentation is required showing amounts that were previously presented versus the newly derived numbers, with a clear delineation of all substantial changes. And, the cumulative effect of the change that relates to all years prior to the earliest financial data presented in the retrospectively adjusted information must also be calculated and disclosed. This is no small task, and a comprehensive illustration is well beyond the scope of any introductory accounting text.
+
+13 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+Do not confuse a change in accounting method with a change in accounting estimate. Changes in estimate are handled prospectively. This type of change was illustrated in the property, plant, and equipment chapter. If your recall is a bit fuzzy, you should probably spend a few minutes to review that material. Also, take note that sometimes a change in principle cannot be separated from a change in estimate (e.g., changes in the approach to depreciating an asset); such changes are to be treated like a change in estimate and do not entail retrospective adjustments. Likewise, do not confuse a correction of an error with an accounting change. If a company changed from FISH (first-in, still-here) to FIFO, this would be an error correction and require a prior period adjustment -- in case there is any doubt, FISH is not an acceptable inventory method. Remember, accounting changes relate to changes from one acceptable method to another acceptable method.
+
+1.5 Other Comprehensive Income
+In the long-term investments chapter, you were introduced to other comprehensive income. In that chapter, OCI arose from changes in the fair value of investments classified as “available for sale.” OCI can also result from certain pension plan accounting adjustments and translation of the financial statements of foreign subsidiaries (both of which are beyond the scope of this discussion). Whatever the source of OCI, you have already learned that many companies merely charge or credit OCI directly to equity. However, another option is to position OCI at the very bottom of the income statement.
+
+1.6 Recap
+It is highly unlikely that a company would experience all of the previously discussed items within the same year. However, were that the case, its income statement might expand to look something like this (this illustration includes the less common approach of including OCI in the statement of income, rather than direct recording of OCI directly to equity):
+RECAP CORPORATION Statement of Comprehensive Income For the Year Ending December 31, 20X7
+Sales Cost of goods sold Gross profit Operating expenses Salaries Rent Other operating expenses Income from *continuing operations before income taxes Income taxes Inco In come co me from fro f ro rom m co cont ntin nt inui in uing ui ng ope o pera pe rati ra tion ti ons on s Income continuing operations Discontinued operations Profit on operations of food processing unit, including gain on disposal Less: Income tax on disposal of business unit Gain on discontinued operations Extraordinary item Gain on discovery of diamonds in company landfill Less: Income tax on diamonds Extraordinary y gain g income/earnings Net Ne t in inco come co me/e me /ear /e arni ar ning ni ngs ng s Other comprehensive income adjustments from certain investments Comprehensive income Comp Co mp p re rehe hens he nsi i v e inco ive i n come me $ 6,500,000 4,000,000 $ 2,500,000 $ 750,000 250,000 300,000
+
+1,300,000 $ 1,200,000 500,000 $ 700,000 700 700 00,0 ,0 000
+
+$ 800,000 200,000 600,000 $ 900,000 250,000 650,000 $ 1,950,000 1 95 1, 950, 0 00 0, 000 0 100,000 $ 2,050,000 2 05 2, 050, 0 00 0, 000 0
+
+14 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+Before departing this rather elaborate look at income reporting, note that certain terms highlighted above are often tossed around rather casually. However, to the well-trained accountant, those terms have specific connotations. In a strictly correct technical sense, Net income or earnings is income from continuing operations plus/minus discontinued operations and extraordinary items. Comprehensive income is net income plus other comprehensive income. You may feel a sense of dismay as it relates to the potential complexity of income reporting, but remember that this break out is intended to help investors sort out the results of operations that are ongoing from those parts that may not recur or are otherwise unique. Careful study allows financial statement users to fully comprehend the results of operations and gain a deeper understanding of how a company arrived at its “bottom line.” As you can see, Recap Corporation sports a very nice bottom line of $2,050,000, but a huge portion is from special items that cannot be counted on to repeat themselves!
+
+1.7 Ebit and Ebitda
+You are apt to hear investors discuss a company’s “earnings before interest and taxes” (EBIT) and “earnings before interest, taxes, depreciation, and amortization” (EBITDA). These are not numbers that you will find specifically reported in financial statements. However, they are numbers that someone has calculated from information available in the statements. Some people argue that EBIT (pronounced with a long “E” sound and “bit”) and EBITDA (pronounced with a long “E” sound and “bit” and “dah”) are important and relevant to decision making, because they reveal the core performance before considering financing costs and taxes (and noncash charges like depreciation and amortization). These numbers are sometimes used in evaluating the intrinsic value of a firm, because they reveal how much the business is producing in earnings without regard to how the business is financed and taxed. Use these numbers with great care, as they provide an overly simplistic view of business performance evaluation.
+
+1.8 Return on Assets
+Some financial statement analysts will compare income to assets, in an attempt to assess how effectively assets are being utilized to generate profits. The specific income measure that is used in the return on assets ratio varies with the analyst, but one calculation is: Return on Assets Ratio = (Net Income + Interest Expense)/Average Assets These calculations of “ROA” attempt to focus on income (excluding financing costs) in relation to assets. The point is to demonstrate how much operating income is being generated by the deployed assets of the business. By itself, the number can be meaningless, but when you calculate the number for several businesses and start making comparisons, you might be surprised at the variations in return. While this ratio is useful if used correctly, I must caution heavily against misinterpretation of its signals. For example, high-tech companies often have very few tangible assets against which to compare their income (even though they may have previously invested in and expensed massive amounts of research and development monies). In comparison, a manufacturer may have a large tangible asset pool (because GAAP allowed them to capitalize the construction costs of their plant). As a result, the tech company could have a much better ROA even though it would not necessarily be the better company. Always guard against reaching definitive conclusions based on single indicators.
+15 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+2. Earnings per Share, Price Earnings Ratios, Book Value per Share, and Dividend Rates
+How is one to meaningfully compare the net income of a large corporation that has tens of millions of shares outstanding to smaller companies that may have less than even one million shares out? The larger company is probably expected to produce a greater amount of income. But, the smaller company might be doing better per unit of ownership. To adjust for differences in size, public companies must supplement their income reports with a number that represents earnings on a per share basis. Earnings per share, or EPS, is easily the most widely followed and best understood performance measure in corporate reporting. It represents the amount of net income for each share of common stock. Corporate communications and news stories will typically focus on the EPS results, but care should be taken in drawing any definitive conclusions based on a single calculated value. Remember, lots of nonrecurring transactions and events can positively or negatively impact income and EPS; always look beyond the headlines.
+
+16 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+2.1 Basic EPS
+Having now been introduced to EPS concepts, it is time to focus on the accounting calculation of this important number. Basic EPS may be thought of as a simple fraction with income in the numerator and the number of common shares in the denominator, as follows: Income/Number of Common Shares Outstanding Expanding this thought, consider that income is for a period of time (e.g., a quarter or year), and during that period of time, the number of shares might have increased or decreased because of share issuances and treasury stock transactions. Therefore, a more correct characterization of the Basic EPS calculation is: Income/Weighted-Average Number of Common Shares Outstanding Further, one must consider that some companies have both common and preferred shares. Remember that dividends on common and preferred stock are not expenses and do not reduce income. However, the preferred stock dividends do lay claim to some of the corporate income stream that would otherwise benefit common shares. Therefore, one more modification is needed to correctly portray the Basic EPS fraction: Basic EPS = Income Available to Common/ Weighted-Average Number of Common Shares Outstanding This last modification to the Basic EPS calculation entails a reduction of income by the amount of preferred dividends for the period. An illustration may help to clarify the calculation of Basic EPS. Assume that Kooyul Corporation began 20X4 with 1,000,000 shares of common stock outstanding. On April 1, 20X4, Kooyul issued 200,000 additional shares of common stock, and 120,000 shares of common stock were reacquired on November 1. Kooyul reported net income of $2,760,000 for the year ending December 31, 20X4. Kooyul also had 50,000 shares of preferred stock on which $500,000 in dividends were rightfully declared and paid during 20X4. Kooyul paid $270,000 in dividends to common shareholders. How much is Kooyul’s EPS? Income available to Kooyul’s common shareholders is $2,260,000. This amount is calculated as the net income ($2,760,000) minus the preferred dividends ($500,000). Dividends on common stock do not impact the EPS calculation. Weighted-average common shares outstanding during 20X4 are 1,130,000. The following table illustrates how this is calculated:
+
+17 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+Time Interval Jan. 1 through March 31
+
+Portion of Year 3 months 7 months 2 months 12 months
+
+Shares Outstanding During Time Interval 1,000,000 1,200,000
+(1,000,000 + 200,000)
+
+Calculation
+
+WeightedAverage Impact 250,000 700,000 180,000 1,130,000
+
+3/12 X 1,000,000 = 7/12 X 1,200,000 = 2/12 X 1,080,000 =
+
+April 1 through Oct. 31 Nov. 1 through Dec. 31
+
+*
+
+1,080,000
+(1,200,000 - 120,000)
+
+Therefore, Kooyul’s Basic EPS is $2 per share ($2,260,000/1,130,000).
+
+2.2 Diluted EPS
+For many companies, the Basic EPS is all that is required to be presented. But, other companies must report an additional Diluted EPS number. The Diluted EPS is applicable to companies that have more complex capital structures. Examples include companies that have issued stock options and warrants that entitle their holders to buy additional shares of common stock from the company, and convertible bonds and preferred stocks that are potentially to be exchanged for common shares. These financial instruments represent the possibility that more shares of common stock will be issued and are said to be potentially “dilutive” to the existing common shareholders. Accounting rules dictate that companies with dilutive securities take the potential effect of dilution into consideration in calculating the auxiliary Diluted EPS number. When you see a company that discloses Diluted EPS, it means they have done a series of (rather complex) calculations based on assumptions that dilutive securities are converted into common stock. The hypothetical calculations are quite imaginative; even going so far as to provide guidelines about how money generated from assumed exercises of options and warrants is assumed to be “reinvested” by the company. There is plenty of room to quibble over the merits of the assumptions, but the key point is that Diluted EPS provides existing shareholders a measure of how the company’s income is potentially to be shared with other interests. Dilutive effects should never be ignored in investment decision-making!
+
+2.3 Subdividing APS Amounts
+You now know that public companies are required to report EPS information, and you earlier learned that companies must present a fully developed income statement that segregates income from continuing operations from other components of income (e.g., discontinued operations, etc.). Putting these two facts together, you might assume that EPS information should parallel the detailed information shown on the income statement. And, that assumption is correct. Earnings per share information must be subdivided to reveal per share data about income from continuing operations, discontinued operations, extraordinary items, and net income.
+
+18 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+2.4 Price Earnings Ratio
+Financial analysts often incorporate reported EPS information into the calculation of a popular ratio -- the price/earnings ratio (P/E). This is simply the stock price per share divided by the EPS: Price Earnings Ratio = Market Price Per Share/Earnings Per Share For example, a stock selling at $15 per share with $1 of EPS would have a P/E of 15. Other companies may have a P/E of 5 or 25. Why would different companies have different P/E ratios? Wouldn’t investors always be drawn to companies that have the lowest ratios since they may represent the best earnings generation per dollar of required investment? The answers to these questions are complex. Remember that the “E” in P/E is past earnings and does not reflect the future. New companies may have a bright future, even if current earnings are not great; investors are sometimes willing to pay a premium. Other companies may have great current earnings, but no room to grow; investors will not pay as much for these. And, don’t forget that some companies hold valuable non-income producing assets; investors sometimes pay for such embedded values even if they are not presently generating an income stream. Suffice it to say, there are many reasons that P/E ratios differ among companies.
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+19 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+A related ratio that is gaining popularity is the “PEG” ratio. This is the P/E ratio divided by the company’s “growth” rate. For example, a company with a P/E of 20 that is experiencing average annual increases in income of 20% would have a PEG of 1. If the same company instead had annual earnings increases of 10%, then the PEG would be 2. As a rule of thumb, the lower the PEG number, the more attractive the investment appears. Use this ratio with extreme care as growth rates are very susceptible to sudden changes; high growth rates are hard to sustain and many a high flying company has seen a sudden change in their fortune.
+
+2.5 Book Value per Share
+Another per share amount that analysts frequently calculate from accounting information is the book value per share. The term “book value” is synonymous with the amount at which an item is reported on the balance sheet. For example, in the context of property, plant, and equipment, recall that it means the reported amount for a particular asset. However, in the context of the analysts’ “book value per share” number, it refers to the amount of reported stockholders’ equity for each share of common stock. Importantly, book value is not the same thing as market value or fair value (but, analysts sometimes compare market price to book value); book value is based on reported amounts within the balance sheet. Many items included in the balance sheet are based on historical costs which can be well below fair value. On the other hand, do not automatically conclude that a company is worth more than its book value, as some balance sheets include significant intangibles that cannot be easily converted to cash if liquidation becomes necessary. Like EPS, P/E, EBIT, and so forth, be careful about evaluating a company based solely on a single calculated value. These values are but single yarns of information, and it takes more than just a few yarns to make a complete tapestry.
+
+2.6 Calculating Book Value per Share
+For a corporation with only common stock, book value per share is easy to calculate: total stockholders’ equity divided by common shares outstanding at the end of the accounting period. To illustrate, assume that Fuller Corporation has the following stockholders’ equity, which results in a $24 book value per share ($12,000,000/500,000 shares):
+Stockholders’ Equity Common stock, $1 par value, 2,000,000 shares authorized, 500,000 shares issued and outstanding *Paid-in capital in excess of par -- common stock Retained earnings Total stockholders’ equity $ 500,000
+
+10,000,000 1,500,000 $12,000,000
+
+The above is simple. However, a company with preferred stock must allocate total equity between the common and preferred shares. The amount of equity attributable to preferred shares is generally considered to be the call price (i.e., redemption or liquidation price) plus any dividends that are due. The remaining amount of “common” equity (total equity minus equity attributable to preferred stock) is divided by the number of common shares to calculate book value per common share:
+
+20 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+Book Value Per Share = “Common” Equity/Common Shares Outstanding Assume that Muller Corporation has the following stockholders’ equity:
+Stockholders’ Equity Capital stock: Preferred stock, $100 par value, callable at 110, 6%, cumulative, 300,000 shares authorized, 100,000 shares issued and outstanding Common stock, $1 par value, 1,000,000 shares authorized, * issued and outstanding 600,000 shares Additional paid-in capital Paid-in capital in excess of par -- preferred stock Paid-in capital in excess of par -- common stock Total paid-in capital Retained earnings Total stockholders’ equity $10,000,000 600,000 $ 700,000 20,000,000 $10,600,000 20,700,000 $31,300,000 4,900,000 $36,200,000
+
+Mike Kreinhop is a financial analyst for an investment fund, and is evaluating the merits of Muller Corporation. Pursuant to this task, he has diligently combed through the notes to the financial statements and found that the preferred dividends were not paid in the current or prior year. He notes that the annual dividend is $600,000 (6% X $10,000,000) and the preferred stock is cumulative in nature. Although Muller has sufficient retained earnings to support a dividend, it is presently cash constrained due to reinvestment of all free cash flow in a new building and expansion of inventory. Kreinhop correctly prepared the following book value per share calculation:
+Total Equity Less: Amount of equity attributable to perferred Call price ($10,000,000 X 110%) Dividends claim (2 years @ $600,000 per year) Residual equity for common shares
+
+$36,200,000 $11,000,000 1,200,000 (12,200,000) $24,000,000
+
+*
+Number of common shares 600,000
+
+Book value per common share ($24,000,000/600,000)
+
+$40 per share
+
+2.7 Dividend Rates and Payout Ratios
+Many companies do not pay dividends. Perhaps you own stock in such a company. One explanation is that the company is not making any money. Hopefully, the better explanation is that the company needs the cash it is generating from operations to reinvest in expanding a successful concept. Many successful companies and stockholders prefer this course of action, anticipating that they will realize better after-tax increases in wealth as a result (remember from the prior chapter the problem of double-taxation of dividends). On the other hand, some profitable and mature businesses can easily manage their growth and still have plenty of cash left to pay a reasonable dividend to shareholders. Many investors seek out dividend paying stocks. After all, who doesn’t like to get an occasional check in the mail, even if it is taxable?
+
+21 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+In evaluating the dividends of a company, analysts calculate the dividend rate (also known as yield). This number is the annual dividend divided by the stock price: Dividend Rate = Annual Cash Dividend/Market Price Per Share Simply, if Pustejovsky Company pays dividends of $1 per share each year, and its stock is selling at $20 per share, it is yielding 5% ($1/$20). Analysts may be interested in evaluating whether a company is capable of sustaining its dividends and will compare the dividends to the earnings: Dividend Payout Ratio = Annual Cash Dividend/Earnings Per Share If Pustejovsky earned $3 per share, its payout ratio is .333 ($1/$3), and this is seemingly in line. On the other hand, if the earnings were only $0.50, giving rise to a dividend payout ratio of 2 ($1/$0.50), one would begin to question the “safety” of the dividend.
+
+.
+
+22 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+2.8 Return on Equity
+Earnings per share and book value per share calculations zeroed in on the interest of the common shareholder. Analysts do the same thing in considering the return on equity ratio: Return on Equity Ratio = (Net Income - Preferred Dividends)/Average Common Equity The “ROE” evaluates income for the common shareholder in relation to the amount of invested common shareholder equity. This number enables comparison of the effectiveness of capital utilization by different firms. What it does not do is evaluate risk. Sometimes, firms with the best ROE also took the greatest gambles. For example, a high ROE firm may rely heavily on debt to finance the business (instead of equity), thereby exposing the business to greater risk of failure when things don’t work out. Analysts sometimes compare return on assets (ROA) to Return on Equity (ROE). They may also compare ROE to the rate of interest on borrowed funds. This can help them in assessing how effective the firm is in utilizing borrowed funds (“leverage”). Obviously, undertaking debt involves risk. The only reason to do so is based on the belief that the utilization of borrowed funds will produce positive net returns that more than offset the underlying cost of the debt.
+
+23 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+3. Objectives of Financial Reporting
+Most organizations devote a fair amount of time and effort to considering their goals and objectives. These endeavors are often reduced to a mission statement and strategic plan. In a similar fashion, the Financial Accounting Standards Board spent years in developing a series of Statements of Financial Accounting Concepts (SFAC). These should not be confused with the many Statements of Financial Accounting Standards (SFAS) that provide specific accounting rules on various matters (e.g., how to calculate EPS, etc.). The SFAC are far more general and define the objectives of accounting, the qualities that make accounting information useful, and so forth. The FASB is the primary beneficiary of the SFAC, as the conceptual guidance is used in the development of specific accounting rules.
+
+3.1 Objectives
+SFAC No. 1 examined the objectives of financial accounting and reporting. It is a fairly lengthy document. Foremost among the objectives is to provide useful information for investors, creditors, analysts, government, and other financial statement users. Importantly, accounting information is general purpose and should be designed to serve the information needs of all types of interested parties. To be useful, information should be helpful in assessing the amounts, timing, and uncertainty of an organization’s cash inflows and outflows; assist in the study of an enterprise’s resources, claims against those resources, and changes in them; and, be helpful in examining an enterprise’s financial performance (i.e., earnings and its components). Additionally, accounting should help decision makers monitor and evaluate how well management is fulfilling its stewardship responsibilities. Of what value is accounting? Why is so much time and money spent on the development of accounting information? To fairly answer these questions, one must think broadly. Investors and creditors have limited resources and seek to place those resources where they will generate the best returns commensurate with the risks they are willing to take. Accounting information is the nexus of the decision-making process. When accounting fails to provide valuable signaling to help investors and creditors choose wisely, then capital can be misallocated (i.e., placed in the wrong endeavors). Misallocation of capital can result in inefficient production and shortages of critically needed goods and services, causing severe economic disruption. Although it is difficult to fully comprehend, at least consider that when you go to the store with the expectation of acquiring certain items, they are usually there; investors and creditors provided capital to get those goods in place for you. And, the decision-making process for those investors and creditors was driven by accounting information! So, when we say that the objective of accounting is to provide useful information for investment and credit decision making, the implications are much broader than just helping investors and creditors make their profit. There is a broader societal role for accounting that has to do with enabling capital flows in a way that facilitates the production of desired goods and services.
+
+24 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+4XDOLWDWLYH&KDUDFWHULVWLFVRI$FFRXQWLQJ
+Having first identified that the primary objective of accounting is to provide useful information, the FASB then turned its attention to the qualities of information that serve to make it useful. SFAC No. 2 notes that useful information must have the characteristics of relevance, reliability, and comparability/ consistency: Primary Qualities x Relevancy -- Information should be timely and bear on the decision-making process by possessing feedback and/or predictive value. Reliability -- Information must be faithful in representation; free from bias, neutral, and verifiable. Secondary Qualities x Comparability -- Even though different companies may use different accounting methods, there is still sufficient basis for valid comparison. Consistency -- Deviations in measured outcomes from period to period should be the result of deviations in underlying performance (not accounting quirks).
+
+x
+
+x
+
+25 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+4.1 Understandability
+Perhaps the greatest challenge facing the accounting profession is to develop measurement and presentation methods that can capture and report complex business activity in a way that is understandable. Importantly, accounting reports should be comprehensible to those with a reasonable understanding of business and economic activities. It is assumed the users will study information with reasonable diligence, but it is equally presumed that those users do not need to be accounting experts. In other words, it is imperative that financial information serve the needs of individuals who may not be fully versed in the details of accountancy, but must still rely upon the reports. This is a delicate balance to strike; oversimplification may exclude valuable information while excessive detail may overload the user to the point of obscuring key issues. Be aware of the growing complaint that accounting has become too complex. Many persons within and outside the profession protest the ever growing number of rules and their level of detail. The emerging debate is generally couched under the heading “principles versus rules.” x Advocates of a principles-based approach argue that general concepts should guide the judgment of individual accountants. Detailed and specific rules only serve to encourage financial engineering by those who seek to have transactions fall within or outside of some specific criteria driven accounting rule. Others argue that the world is quite complex, and accounting must necessarily be rulesbased. Reliance on individual judgment will lead to wide disparities in reports that will render meaningful comparisons impossible.
+
+x
+
+This is an interesting debate, and it is quite difficult to predict the ultimate outcome. Both points are seemingly valid and resolution will more likely be through evolution than revolution.
+
+4.2 Threshold Issues
+SFAC No. 2 makes it clear that the profession need not concern itself with immaterial items; those things that are so slight as to not influence decision outcomes. Of course, materiality is like beauty, being in the eye of the beholder. In addition, accountants admit that accounting information comes at a high cost, and nothing in accounting should be required to the extent that its cost exceeds the benefits it will produce. But, costs of accounting information are hard to measure, and weighing the benefits is even harder. So, while there is a conceptual embrace of threshold issues, these concepts are very difficult to quantify and implement.
+
+4.3 Other Concepts
+The FASB did not rest with only two concepts statements. Others have been issued on: x Elements of financial statements -- defining and discussing the building blocks that make up financial statements (assets, liabilities, revenues, etc.)
+
+26 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+x
+
+Recognition and measurement -- alternative approaches to measuring elements and when to recognize transactions and events Cash flows and present value -- proposing that the assessment of cash flow timing and probability is important in accounting outcomes Objectives for nonbusiness entities -- alternative financial information goals for nonbusiness entities (e.g., charities)
+
+x
+
+x
+
+Each SFAC is lengthy and thought provoking. Typically, an accounting student will delve deeper into each of these in an upper level course on accounting theory and concepts.
+
+27 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+5. The Development of GAAP
+Generally accepted accounting principles, or GAAP, encompass the rules, practices, and procedures that define the proper execution of accounting. It is important to note that this definition is quite broad, taking in more than just the specific rules issued by standard setters. It encompasses the longstanding methodologies and assumptions that have become engrained within the profession through years of thought and development. Collectively, GAAP form the foundation of accounting by providing comprehensive guidance and a framework for addressing most accounting issues.
+
+5.1 The Audit Function
+To provide a measure of integrity, financial reports of public companies are required to be audited by independent CPAs. Auditors will spend considerable time in evaluating the systems and data that lead to the reported financial statements. At the end of the day, however, the auditor will usually only issue an opinion letter on the fairness of the reports. This letter is rather brief and to the point and includes a paragraph similar to the following: In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of [at] December 31, 20X3 and 20X2, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 20X3, in conformity with U.S. generally accepted accounting principles.
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+28 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+Note that the auditor is expressing an opinion about the conformity of the financial statements with generally accepted accounting principles. Thus, conformity with GAAP is the key to obtaining the desired audit opinion. Being alert to the detection of potential fraud is important, but it is not the primary mission of a financial statement audit. If you are quite astute, you will also note the reference to U.S. GAAP. This chapter will conclude with a discussion of global accounting issues.
+
+5.2 The Development of GAAP
+In one sense, GAAP traces its roots to the renaissance era when creative mathematicians conceived the double-entry system and the related self-balancing statements of account. However, modern efforts to bring structure and conformity are most clearly understood by considering a time line of events that were catalysts for institutionalization of GAAP development.
+
+5.3 The 1929 Stock Crash and Great Depression
+A dark moment in economic history was the collapse of the stock markets in 1929, and the ensuing shock waves that brought about business failures, unemployment, bankruptcies, and a prolonged period of economic difficulty. What you may not know is that it was preceded by several years of grand economic expansion. The introduction of assembly lines, electricity, phones, automation and other innovations created enhanced productivity and wealth. These opportunities for profit attracted large amounts of investment capital in pursuit of the hottest new concept. And, the stock markets reflected this excitement by climbing upward in what seemed to be an unstoppable phoenix. Toward the end of the expansion streak, the burgeoning supply of capital in pursuit of business opportunities surpassed the legitimate opportunities for its effective deployment, and businesses began to struggle to make the profits expected by investors. As you might suspect, some business began to stretch the limits of fair accounting in an effort to keep up a good front. Finally, though, economic truth prevailed, and investors were quickly unnerved. Capital took flight, and it was a long time before investors were willing to tread back into the capital markets.
+
+5.4 The Securities and Exchange Commission
+Prior to the mid-1930’s, security markets were without significant regulation, and GAAP was not promulgated by any single authoritative body. In a depression-era effort to restore credibility to the capital markets, the U.S. Congress created the Securities and Exchange Commission (SEC). The SEC was charged with the administration of laws that regulate the reporting practices of companies whose stock is publicly traded. Today, U.S. public companies must register and report to the SEC on a continuing basis. Although the SEC has a heavy hammer it can bring to bear on the setting of accounting rules (e.g., the SEC issues occasional Staff Accounting Bulletins (SABs) that define certain accounting rules), it has instead elected to operate under a tradition of cooperation and largely defers to the private sector FASB for most accounting rules. The SEC’s deferral to the FASB may strike you as odd. Seemingly, a natural tendency of government regulation is toward expansion and dominance. However, most public policy makers have a keen sense that accounting is about fair presentation of economic activity and are remiss to allow government/political processes to gain a foothold on shaping GAAP. For example, it is easy to conceive that a political process could result in a rule that depreciation need not be recorded for
+
+29 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+companies having manufacturing plants in _________ (fill in the blank with your favorite locale); such companies would have an increase in accounting “profit” no matter how efficient or inefficient they were as producers. On a grand scale, this sort of political rule-making could distort the ability of investors to correctly allocate capital.
+
+5.5 The FASB and its Predecessors
+You already know that the Financial Accounting Standards Board (FASB) is the primary accounting rule-making body in the United States. The FASB has seven voting members, each bringing vast knowledge and experience to the rule-making process. These are well compensated individuals who are supported by a large research and administrative staff. FASB members must sever outside employment to maintain their independence. They are put in place by a foundation governed by a group of trustees, and their funding is from the foundation and other fees. Hopefully, these controls are sufficient to allow each Board member the autonomy necessary to act with the public interest at heart. The FASB issues a variety of rules. Foremost among these are the Statements of Financial Accounting Standards (SFAS) and FASB Interpretations (FIN). But, there are also numerous other guiding documents that emanate from the FASB. Spend some time on the FASB web site to develop a full appreciation of the breadth and scope of the FASB’s activities. The FASB has been the primary accounting rule maker since the early 1970’s. Prior to its creation, rules were set by the Accounting Principles Board (APB). The APB was created in 1959 by the American Institute of Certified Public Accounts (AICPA). The AICPA is a large association of professional accountants who are seeking to advance the practice of accounting. The APB issued its own authoritative pronouncements (called APB Opinions), some of which are still effective today. Before 1959, the duty of standard development fell on the shoulders of an AICPA committee known as the Committee on Accounting Procedure (CAP). CAP’s rules were articulated in Accounting Research Bulletins (ARBs), and some of those are still effective today! CAP’s origin can be traced to the late 1930’s, in proximity to the timing of the creation of the SEC. Perhaps the following chart will put this discussion in historical context:
+
+30 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+5.6 A More Recent Crisis of Reporting Confidence
+A dark moment in economic history was the collapse of the stock markets in 1929, and the ensuing shock waves that brought about business failures, unemployment, bankruptcies, and a prolonged period of economic difficulty. What you may not know is that it was preceded by several years of grand economic expansion. The introduction of assembly lines, electricity, phones, automation inexpensive high speed computers, low cost global communication, the internet, highly efficient robotic manufacturing, and other innovations created enhanced productivity and wealth. These opportunities for profit attracted large amounts of investment capital in pursuit of the hottest new concept. And, the stock markets reflected this excitement by climbing upward in what seemed to be an unstoppable phoenix. Toward the end of the expansion streak, the burgeoning supply of capital in pursuit of business opportunities surpassed the legitimate opportunities for its effective deployment, and businesses began to struggle to make the profits expected by investors. As you might suspect, some business began to stretch the limits of fair accounting in an effort to keep up a good front. Finally, though, economic truth prevailed, and investors were quickly unnerved. Capital took flight, and it was a long time before investors were willing to tread back into the capital markets. Sound familiar?
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+31 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+What happened this time? For one thing, some businesses engineered complex financial transactions in a way that seemingly satisfied detailed accounting rules but did not really report economic reality (illegitimate swaps, special purpose entities, off-balance sheet financing, etc.). In addition, some auditors became fixated on systems evaluations while failing to perform sufficient detailed transaction analysis. Perhaps others auditors were simply swayed to ignore problems because of the generous fees they were generating for their services. The U.S. Congress again responded, and created the Sarbanes-Oxley Act of 2002 (SOX).
+
+5.7 Sarbanes-Oxley
+This extensive piece of legislation sought to cure a number of ills. It imposed stringent financial statement certification requirements by corporate officers, raised the fiduciary duty of corporate boards, imposed systematic ethics awareness, and placed a much greater burden on auditors to be more thorough. In addition, Section 404 of the Act requires public companies to implement a robust system of internal control; an independent auditor must issue a separate report on the effectiveness of this control system. The Act also created a new regulatory body -- the Public Company Accounting Oversight Board (PCAOB). The PCAOB is a private-sector, non-profit corporation, charged with overseeing the auditors of public companies. Its mission is to protect the interests of investors and further the public interest in the preparation of informative, fair, and independent audit reports. You should carefully note that SOX mostly addresses issues about corporate reporting integrity (auditing, certifications, ethics, etc.); very little change was made in the structure by which GAAP is developed. One reason is that the most recent crisis in confidence had more to do with deficits in human behavior patterns than it did with inadequacies in GAAP.
+
+32 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+6. Key Assumptions
+$FFRXQWLQJLVSHUFHLYHGDVFRQFUHWH0RVWFDVXDOREVHUYHUVDVVRFLDWHWKHDFFRXQWLQJGLVFLSOLQHZLWK VFLHQFHDQGPDWKLQWHUPVRIDEVROXWHSUHFLVLRQ+RZHYHUDFFRXQWLQJLVDFWXDOO\PRUHOLNHDUWDQG VRFLDOVFLHQFH7KLVGLVWLQFWLRQLVGLIILFXOWWRPDNHLQDQDEEUHYLDWHGGLVFXVVLRQEXWDQLOOXVWUDWLRQ PD\KHOS$V\RXFRQVLGHUWKHIROORZLQJLOOXVWUDWLRQIRUJHWHYHU\WKLQJ\RXNQRZDERXWDFFRXQWLQJ ³UXOHV´DQGVLPSO\WU\WRDQVZHUWKHTXHVWLRQEDVHGRQHFRQRPLFWUXWK  6XSSRVH\RXSXUFKDVHGDKRPHIRUDQGVROGLW\HDUVODWHUIRU+RZPXFK SURILWGLG\RXPDNH",WVHHPVVLPSOHHQRXJKXQWLO\RXFRQVLGHUWKHIROORZLQJDGGLWLRQDOIDFWV  x <RXDUHPRYLQJWRDQHZFLW\DQGWKHZLOOEX\\RXDQLGHQWLFDOKRPHWRWKHRQH \RXVROGRU <RXDUHPRYLQJWRDQHZFLW\DQGWKHZLOOEX\\RXRQO\DVPDOOHUKRPHRU <RXDUHPRYLQJWRDQHZFLW\DQGWKHZLOOEX\\RXDQLFHUKRPHRU <RXDUHUHWLULQJDQGPRYLQJWRDFRQGRWKDWZLOOFRVWOHVVWKDQRU <RXDUHKDYLQJFKLOGUHQDQGQHHGLQJDELJJHUKRPHWKDWZLOOFRVWPRUHWKDQDQG  x 7KHJHQHUDOLQIODWLRQGXULQJWKHSDVWWHQ\HDUVKDVEHHQORZDQGWRGD\ZLOOEX\ PRUHWKDQGLGWHQ\HDUVDJRRU 7KHJHQHUDOLQIODWLRQGXULQJWKHSDVWWHQ\HDUVKDVEHHQKLJKDQGWRGD\ZLOOEX\ OHVVWKDQGLGWHQ\HDUVDJRRU 7KHJHQHUDOLQIODWLRQGXULQJWKHSDVWWHQ\HDUVKDVEHHQPRGHVWDQGWRGD\ZLOO EX\ZKDWGLGWHQ\HDUVDJRDQG  x <RXSDLGLQLQWHUHVWDQGWD[HVRQWKHKRPHGXULQJWKHSDVWWHQ\HDUVRU <RXSDLGOHVVWKDQLQLQWHUHVWDQGWD[HVRQWKHKRPHGXULQJWKHSDVWWHQ\HDUVRU <RXSDLGPRUHWKDQLQLQWHUHVWDQGWD[HVRQWKHKRPHGXULQJWKHSDVWWHQ\HDUV  <RXFDQVHHWKDWWKHUHLVQRWDVLQJOHFRUUHFWDQVZHUWRWKHTXHVWLRQ5DWKHUWKHDQVZHUGHSHQGVRQ ZKDWPHWKRGVDQGDVVXPSWLRQV\RXHPSOR\LQ\RXUPHDVXUHPHQWV\VWHP)RUH[DPSOHVXSSRVH\RX ZHUHWROGWRGHWHUPLQHWKHSURILWE\FRPSDULQJVDOHVSULFHWRKLVWRULFDOFRVWLJQRULQJDQ\ VXEVHTXHQWUHLQYHVWPHQWRIWKHSURFHHGVRIWKHVDOHGLVUHJDUGLQJLQIODWLRQDQGQRWIDFWRULQJ LQWKHLQWHUHVWDQGWD[HVLQFXUUHGGXULQJWKHKROGLQJSHULRG1RZ\RXFDQDVVHUWWKDWWKHSURILWLV <RXPD\QRWDJUHHZLWKWKLVDQVZHUEXWDWOHDVW\RXNQRZKRZLWLVGHULYHG$FFRXQWLQJ LVQRWEDVHGRQDEVROXWHWUXWKV  7KURXJKRXWWKLVWH[W\RXKDYHEHHQH[SRVHGWRPDQ\PHDVXUHPHQWPHWKRGVDQGSULQFLSOHVHJ HQWLW\FRQFHSWKLVWRULFDOFRVWSULQFLSOHUHYHQXHDQGH[SHQVHUHFRJQLWLRQUXOHVREMHFWLYLW\ SULQFLSOHVHWF8QGHUSLQQLQJWKLVV\VWHPDUHVRPHIXQGDPHQWDODVVXPSWLRQV)URP\RXU LQGLYLGXDOSHUVSHFWLYHWKHVHDVVXPSWLRQVPD\RUPD\QRWEHYDOLG+RZHYHUDJUHHPHQWZLWKWKHVH DVVXPSWLRQVLVVHFRQGDU\WRNQRZLQJWKDWWKH\DUHDSDUWRIWKHPHDVXUHPHQWPRGHOLQXVH 
+
+33 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+Throughout this text, you have been exposed to many measurement methods and principles (e.g., entity concept, historical cost principle, revenue and expense recognition rules, objectivity principles, etc.). Underpinning this system are some fundamental assumptions. From your individual perspective, these assumptions may or may not be valid. However, agreement with these assumptions is secondary to knowing that they are a part of the measurement model in use.
+
+6.1 Entity Assumption
+Accounting information should be presented for specific and distinct reporting units. In other words, the entity assumption requires that separate transactions of owners and others not be commingled with the reporting of economic activity for a particular business. On one hand, an individual may prepare separate financial statements for a business they own even if it is not a separate legal entity. On the other hand, consolidated financial statements may be prepared for a group of entities that are economically commingled but are technically separate legal units.
+
+6.2 Going-Concern Assumption
+In the absence of evidence to the contrary, accountants base their measurement and reporting on the going-concern assumption. This means that accountants are not constantly assessing the liquidation value of a company in determining what to report, unless of course liquidation looks as though it is a possibility. This allows for orderly allocation of long-term costs and revenues based on a presumption that the business will continue to operate into the future. Accountants are notoriously conservative (when in doubt, select the lower asset/revenue measurement choice, and the higher liability/expense measurement choice), but not to the point of introducing bias based on an unfounded fear for the future.
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+34 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+6.3 Periodicity Assumption
+Accountants assume they can divide time into specific measurement intervals (i.e., months, quarters, years). This periodicity assumption is necessitated by the regular and continuing information needs of financial statement users. More precision could be achieved if accountants had the luxury of waiting many years to report final results, but users need timely information. For instance, a health club may sell lifetime memberships for a flat fee, not really knowing how long their customers will utilize the club. But, the club cannot wait years and years for their customers to die before reporting any financial results. Instead, methods are employed to attribute portions of revenue to each reporting period. This is justified by the periodicity assumption.
+
+6.4 Monetary Unit Assumption
+The significance of this assumption is easily taken for granted. It means that accounting measures transactions and events in units of money. To understand the impact of the monetary unit assumption, think about your personal car for a moment. In your mind, how did you visualize it -- as a dollar amount, or by model, age, mileage, functionality, etc.? Stated differently, if someone asked me what I drive, I would not say $10,000; I would simply report the make and model of my vehicle. However, accounting purports to measure all things in units of money. This solution overcomes the problems that would arise by mixing measures in the financial statements (e.g., imagine the confusion of combining acres of land, cash in bank, square feet of buildings, etc.). The monetary unit assumption is core and essential to the double-entry, self-balancing accounting model.
+
+6.5 Stable Currency Assumption
+Inflation wrecks havoc on the usefulness of financial data. For example, suppose a power plant that was constructed in 1970 is still in operation. Its accounting reports may show a profit by including currently generated revenues with depreciation of old (“cheap”) construction costs. A different picture might appear if one reconsidered the “value” of the power plant that is being “used up” by generating the current revenue stream. Suffice it to say that the steady beat of inflation can distort performance measurement. Accountants have struggled with this issue for many years, and the FASB even experimented with supplemental reporting requirements for several years. At the present time, inflation is relatively tame, and this is not a hot topic. However, it certainly has the potential to reemerge as a significant issue if inflation reappears its ugly head again. In the meantime, accountants operate under the stable currency assumption, going along as though costs and revenues incurred in different time periods can be safely used without adjusting for changes in the value of the monetary unit over time.
+
+6.6 What do you Think?
+After reflecting on the above, how do you now regard accounting? Hard science or social science? Math or art? Will you think of accounting measures as absolute truth or abstract representation? And, are you starting to discern why accounting thought and knowledge entails far more than mere bookkeeping? Most importantly, when you use accounting reports, will you expand your horizon to consider more than just a company’s reported bottom line?
+
+35 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+7. Global Accounting Issues
+Understand that international trade no longer simply means importing and exporting. The notion of domestic and foreign operations is replaced by an understanding that trade and ownership has become global in nature. Companies have added subsidiaries in many countries, formed cooperative alliances, listed shares on multiple stock exchanges around the globe, engaged in global crossborder debt financing, and set up service centers that utilize technology to provide seamless customer support around the world. This is indeed a “megatrend” and a foray into uncharted terrain. Each of us, no matter where we live on this planet, is being touched by the phenomena. Indeed, persons from around the world are reading these same words at the same time as you. Likewise, financial data is being shared globally! What is the implication of global utilization of accounting information? In the simplest of terms, users must understand something about how accounting information is prepared to be able to effectively rely on it. What if each country had its own accounting rules? You can see that misinterpretation and lack of understanding could be a real problem. For example, what if a company reported their “turnover” as 10,000,000 euros? What would you conclude? For starters, you would need to know that “turnover” is synonymous with “revenue,” and you would need to know how much a euro is worth. But, my example is not hypothetical; it is real. Terminology and methods are not consistent from country to country. That is why the audit opinion illustrated earlier in this chapter includes a reference to the country of GAAP origin. Accounting rule makers from around the globe are scrambling to bring about global convergence of accounting techniques. No major country has opted out of this endeavor. The FASB has been working feverishly to rework certain accounting rules to match global approaches. For example, the EPS approach you learned earlier in this chapter was the result of a FASB reworking of the U.S. rules to match the global approach. The International Accounting Standards Board (IASB) is another important body. It issues its own accounting standards, which in many respects provide a beacon to guide the efforts going on within each country. Countries without their own standard setting body may legitimately expropriate the IASB standards as their own. The IASB membership is broad based, bringing together experts from many countries. Although each contributor to the IASB probably brings ideas to the table with a “home-country” bias, the general tenor has remained one of cooperation toward a shared goal. The IASB maintains an excellent web site (www.IASB.org) if you wish to learn more. Another useful site to explore global accounting issues is www.accountingeducation. There are many global contributors to that site, and they provide a weekly electronic newsletter that is available at no charge.
+
+36 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+7.1 Issues in International Trade
+Companies engaging in global business face some specific reporting challenges. Two of those challenges are (1) how to consolidate global subsidiaries and (2) how to account for global transactions denominated in alternative currencies. These subjects quickly become complex, and only a brief introduction to each is appropriate at this time.
+
+7.2 Global Subsidiaries
+When a parent corporation has a subsidiary outside of its home country, the financial statements of that subsidiary may be prepared in the “local” currency of the country in which it operates. But, the parent’s financials are prepared in the “reporting” currency of the country in which it is domiciled. Thus, to consolidate the parent and sub first requires converting the sub’s financial information into the reporting currency. Facts and circumstances will dictate whether the conversion process occurs by a process known as the functional currency translation approach or an alternative approach known as remeasurement: x Translation is appropriate when the subsidiary is somewhat autonomous. It will be selfsupporting by virtue of generating and reinvesting cash flows in its own operations; the parent is primarily an investor. This approach converts the assets and liabilities to the reporting currency based upon prevailing exchange rates at the balance sheet date. A “plug” translation adjustment may be needed to maintain a “balanced” translated set of financials, and that plug is an item of “other comprehensive income” (not operating income).
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+37 Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+x
+
+Remeasurement would be used when translation is not appropriate (e.g., the subsidiary is a purchasing group established to obtain inventory for the parent). Remeasurement converts assets and liabilities at a variety of exchange rates, depending on the type of asset or liability and the date of its origination. Again, a “plug” may be needed to balance, but this plug will produce a positive (credit) or negative (debit) effect on operating income.
+
+The above discussion is quite oversimplified. Entire chapters in advanced accounting texts are usually devoted to this subject, and even those chapters rarely fully develop the theory and rationale underlying the prescribed mechanics.
+
+7.3 Global Trading Transactions
+Many firms buy goods from foreign suppliers and/or sell goods to foreign customers. The terms of the transaction will stipulate how payment is to occur and the currency for making that settlement. If the currency is a “foreign currency,” then some additional thought must be given to the associated bookkeeping. Fortunately, this issue is not so complicated and can be easily illustrated with a few examples. Suppose Bentley’s Bike Shop purchases bicycles from GiroCycle of Switzerland. On July 1, 20X6, Bentley purchased 10 bikes, agreeing to pay 20,000 Swiss francs within 60 days. Bentley is in Cleveland, Ohio, and the U.S. dollar is its primary currency. On July 1, Bentley will record the purchase with the following accounts:
+
+7-1-X6
+
+Inventory
+
+????? ?????
+
+*
+
+Accounts Payable
+Purchased bicycles, agreeing to pay 20,000 Swiss francs in 60 days
+
+But, what amounts should be debited and credited? If 20,000 were used, the accounts would cease to be logical. The total Inventory balance would be illogical since it would include this item, and all other transactions in other currencies, thereby becoming a meaningless hodge-podge of currency units. Total Accounts Payable would become unintelligible as well. Therefore, Bentley needs to measure the transaction in dollars. On July 1, assume that the current exchange rate (i.e., the “spot rate”) is $0.75 U.S. dollars to acquire 1 Swiss franc. The correct entry would be:
+7-1-X6 Inventory 15,000 15,000
+
+-
+
+Accounts Payable
+Purchased bicycles, agreeing to pay 20,000 Swiss francs in 60 days (spot rate is $0.75: 20,000 X $0.75 = $15,000) $15,000
+
+By the August 29 settlement date, assume that the dollar has weakened and the spot rate is $0.80. Bentley will have to pay a bank $16,000 (20,000 X $0.80) to buy the 20,000 francs needed to settle the obligation. The following entry shows that the difference between the initially recorded payable
+
+38 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+($15,000) and the cash settlement amount ($16,000) is to be recorded as a foreign currency transaction loss:
+8-29-X6 Accounts Payable Currency Exchange Loss Cash 15,000 1,000 16,000
+
+*
+
+Paid foreign currency payable and recorded exchange loss (20,000 Swiss francs X $0.80 = $16,000)
+
+If the exchange rate had gone the other way to $0.70 by the August 29 settlement date, a foreign currency transaction gain (credit) would have been needed to balance the difference between the $15,000 payable and $14,000 ($0.70 X 20,000) required cash disbursement. In the preceding example, the foreign currency payable was created and settled within the same accounting period. It is important to know that foreign currency payables and receivables that exist at the close of an accounting period must also be adjusted to reflect the spot on the balance sheet date. The following sale transaction will illustrate this important point. Suppose Vigeland Corporation sold goods to one of its customers in England, agreeing to accept payment of 100,000 British pounds in 90 days. On the date of sale, December 1, 20X1, the spot rate for the pound was $1.75. Vigeland prepared financial statements at its year end on December 31, 20X1, at which time the spot rate for the pound was $1.90. As expected, the foreign currency receivable was collected on February 28, 20X2; Vigeland immediately converted the 100,000 pounds to dollars at the then current exchange rate of $1.70. The following illustrates the sale, yearend adjustment of the foreign currency receivable, and subsequent collection:
+12-1-X1 Accounts Receivable Sales
+Sold goods to a customer in England, agreeing to accept 100,000 British pounds (100,000 pounds X $1.75 spot rate = $175,000)
+
+175,000 175,000
+
+12-31-X1
+
+Accounts Receivable Currency Exchange Gain
+Year-end adjustment to increase accounts receivable to the spot rate (100,000 pounds X $1.90 spot rate = $190,000; $190,000 $175,000 = $15,000 gain)
+
+15,000 15,000
+
+*
+2-28-X2
+
+Cash Currency Exchange Loss Accounts Receivable
+Collected 100,000 pounds and converted them to dollars (100,000 x $1.70 spot rate). Recorded loss for decline in value of receivable since year end ($190,000 vs.$170,000)
+
+170,000 20,000 190,000
+
+39 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Reporting and Concepts
+
+Some companies may wish to avoid foreign currency exchange risks like those illustrated above. The simplest way to avoid such exposure is to convince your trading partner to make or take payment in your home currency. In the alternative, there are various financial agreements that can be structured with banks or others to transfer away this risk (but, forego the opportunity for gains as well). As you might imagine, such hedging transactions can grow quite complex. Great care must be taken to record and monitor these activities, and advanced accounting courses are apt to devote substantial time to this subject.
+
+AXA Global Graduate Program
+Find out more and apply
+
+40 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+Financial Analysis and the Statement of Cash Flows
+Part 2
+
+Your goals for this “analysis and cash flows” chapter are to learn about: x x x x x x x Tools for financial statement analysis. Evaluating cash flow and the cash flow statement. Categories of business activity: operating, investing, and financing. Noncash investing/financing activities. The direct approach to preparing a statement of cash flows. The indirect approach to presenting operating activities. Using a worksheet to prepare a statement of cash flows.
+
+41 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+8. Financial Statement Analysis
+As you know, this text provides a substantial amount of material about accounting principles, and anyone wishing to study it with due diligence can learn valuable insights about accounting. Does the mere fact that this text exists mean that everyone with access now knows about accounting principles? Obviously not. Does it mean that everyone who happens to “read it” will learn about accounting? Again, no. By analogy, the same can be said about financial information. Companies, especially public companies, spend substantial amounts of money preparing and presenting financial statements that are readily available (the reports for U.S. public companies are freely available at www.sec.gov). Does this mean that everyone with internet access now has in-depth knowledge about these companies? For that matter, if you print the annual report of a company that you find interesting, does this really help you? My point is that some degree of study is required to benefit from information. It is important for you to know that CPAs and the SEC provide safeguards to protect the integrity of reported information, but this is entirely different than suggesting that reporting companies are necessarily good investments. For example, a company could report that its revenue stream is in decline, expenses are on the rise, and significant debt is coming due without a viable plan for making the payments. The financial statements may fully report this predicament with perfect integrity, painting a rather gloomy picture. But, if financial statement users choose to ignore that report, only they are to blame. The moral of the preceding point is that you must be very thorough in examining the financial statements of companies in which you are considering making an investment. It is not sufficient to merely determine that reports exist and look nice; you must study them, drill down in the detail, and think carefully about what you are observing. Sometimes, the evaluation of complex situations can be assisted by utilization of key metrics or ratios. For example, a doctor will consider your health in conjunction with measurements of your blood pressure, heart rate, cholesterol level, etc. Likewise, you measure a company’s health by considering certain important ratios.
+
+42 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+The following ratios have been presented throughout this book series and are summarized below.
+
+LIQUIDITY AND DEBT SERVICE RATIOS
+Current Ratio Quick Ratio Debt to Total Assets Ratio Debt to Total Equity Ratio Times Interest Earned Ratio Current Assets/ Current Liabilities A measure of liquidity; the ability to meet near-term obligations
+
+(Cash + Short-term Investments + Accts. Receivable)/ A narrow measure of liquidity; the Current Liabilities ability to meet near-term obligations Total Debt/ Total Assets Total Debt/ Total Equity Income Before Income Taxes and Interest/ Interest Charges Percentage of assets financed by long-term and short-term debt Proportion of financing that is debt-related Ability to meet interest obligations
+
+*
+Accounts Receivable Turnover Ratio Inventory Turnover Ratio
+
+TURNOVER RATIOS
+Net Credit Sales/ Average Net Accounts Receivable Cost of Goods Sold/ Average Inventory Frequency of collection cycle; to monitor credit policies Frequency of inventory rotation; to monitor inventory management
+
+PROFITABILITY RATIOS
+Net Profit on Sales Ratio Gross Profit Margin Ratio Return on Assets Ratio Return on Equity Ratio Net Income/ Net Sales Gross Profit/ Net Sales (Net Income + Interest Expense)/ Average Assets (Net Income - Preferred Dividends)/ Average Common Equity Profitability on sales; for comparison and trend analysis Gross profit rate; for comparison and trend analysis Asset utilization in producing returns Effectiveness of equity investment in producing returns
+
+OTHER INDICATORS
+EPS P/E Dividend Rate/Yield Dividend Payout Ratio Book Value Income Available to Common/ Weighted-Average Number of Common Shares Market Price Per Share/ Earnings Per Share Annual Cash Dividend/ Market Price Per Share Annual Cash Dividend/ Earnings Per Share “Common” Equity/ Common Shares Outstanding Amount of earnings attributable to each share of common stock The price of the stock in relation to earnings per share Direct yield to investors through dividend payments Proportion of earnings distribute d as dividends The amount of stockholders’ equity per common share outstanding
+
+43 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+8.1 Comprehensive Illustration
+At this point, it may be helpful to consider these ratios as they relate to a comprehensive illustration. Following are financial statements for Emerson Corporation. Study them carefully. Then, examine the ratio calculations for Emerson Corporation that can be found immediately following the financial statements.
+
+44 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+8.2 Balance Sheet
+EMERSON CORPORATION Comparative Balance Sheet December 31, 20X5 and 20X4
+ASSETS Current assets Cash Accounts receivable Inventory Total current assets Property, plant & equipment Land Building Equipment Less: Accumulated Depreciation Total property, plant & equipment Total assets LIABILITIES Current liabilities Accounts payable Wages payable Total current liabilities Long-term liabilities Long-term loan payable Total liabilities STOCKHOLDERS’ EQUITY Preferred stock Common stock ($1 par) Paid-in capital in excess of par Retained earnings Total stockholders’ equity Total liabilities and equity 300,000 910,000 370,000 1,330,000 $ 2,910,000 $ 4,100,000 $ 900,000 300,000 380,000 $ 1,580,000 $ 3,630,000 $ $ 270,000 20,000 $ 290,000 900,000 $ 1,190,000 $ 200,000 50,000 $ 250,000 1,800,000 $ 2,050,000 20X5 $ 700,000 850,000 180,000 $ 1,730,000 $ 800,000 1,000,000 1,050,000 $ 2,850,000 (480,000) $ 2,370,000 $ 4,100,000 20X4 $ 170,000 600,000 220,000 $ 990,000 $ 1,400,000 700,000 900,000 $ 3,000,000 (360,000) $ 2,640,000 $ 3,630,000
+
+8.3 Income Statement
+EMERSON CORPORATION Income Statement For the Year Ending December 31, 20X5
+Revenues Cost of goods sold Gross profit Operating expenses Wages Interest Depreciation Other operating expenses Gain on sale of land Income before income taxes Income taxes Net income $ 3,250,000 1,160,000 $ 2,090,000 $ 450,000 100,000 120,000 270,000
+
+(940,000) 150,000 $ 1,300,000 300,000 $ 1,000,000
+
+45 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+8.4 Statement of Retained Earnings
+EMERSON CORPORATION Statement of Retained Earnings For the Year Ending December 31, 20X5
+
+*
+
+Beginning retained earnings, Jan. 1 Net income Less: Dividends on common Ending retained earnings, Dec. 31
+
+$
+
+380,000 1,000,000 $ 1,380,000 50,000 $ 1,330,000
+
+8.5 Ratios for Emerson Corporation as of December 31, 20x5
+Additional facts: No dividends were due or paid on the $300,000 of preferred stock which was issued in exchange for a building in late 20X5. Average common equity is assumed to be $2,095,000 ((($2,910,000 - $300,000) + $1,580,000)/2). Assume most other balance sheet items change uniformly throughout the year (e.g., average receivables = ($600,000 + $850,000)/2 = $725,000, etc.). The year end market value of the common stock was $10 per share, and the cash dividend was paid on shares outstanding at the end of the year ($50,000/910,000 shares = $0.055 per share).
+Current Ratio Quick Ratio Debt to Total Assets Ratio Debt to Total Equity Ratio Times Interest Earned Ratio Accounts Receivable Turnover Ratio Inventory Turnover Ratio Net Profit on Sales Ratio Current Assets/ Current Liabilities (Cash + Short-term Investments + Accts. Receivable)/ Current Liabilities Total Debt/ Total Assets Total Debt/ Total Equity Income Before Income Taxes and Interest/ Interest Charges Net Credit Sales/ Average Net Accounts Receivable Cost of Goods Sold/ Average Inventory Net Income/ Net Sales Gross Profit/ Net Sales (Net Income + Interest Expense)/ Average Assets (Net Income - Preferred Dividends)/ Average Common Equity Income Available to Common/ Weighted-Average Number of Common Shares Market Price Per Share/ Earnings Per Share Annual Cash Dividend/ Market Price Per Share Annual Cash Dividend/ Earnings Per Share “Common” Equity/ Common Shares Outstanding $1,730,000/$290,000 = 5.97 $1,550,000/$290,000 = 5.34 $1,190,000/$4,100,000 = 0.29 $1,190,000/$2,910,000 = 0.41 $1,400,000/$100,000 = 14 $3,250,000/$725,000 = 4.48 $1,160,000/$200,000 = 5.8 $1,000,000/$3,250,000 = 31% $2,090,000/$3,250,000 = 64% $1,100,000/$3,865,000 = 28% $1,000,000/$2,095,000 = 48% $1,000,000/905,000 = $1.11 $10/$1.11 = 9 $0.055/$10 = 0.55 % $0.055/$1.11 = 5.0% $2,610,000/910,000 = $2.87
+
+*
+
+Gross Profit Margin Ratio Return on Assets Ratio Return on Equity Ratio EPS P/E Dividend Rate/Yield Dividend Payout Ratio Book Value
+
+46 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+In examining the ratios of Emerson, it would appear that the company is doing fairly well. Its liquidity suggests no problem in meeting obligations, the debt is at a manageable level, receivables and inventory appear to be turning reasonably well, and profits are good.
+
+8.6 Trend Analysis
+Financial statement data are often reproduced in percentage terms. For example, Emerson’s cash is 17% of total assets ($700,000/$4,100,000). Such percentage data can be monitored closely, year after year. This provides sharp investors and managers with a keen sense of subtle shifts that can foretell changes in the underlying business environment.
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+47 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+9. Cash Flows and the Cash Flow Statement
+Accounting is based upon accrual concepts that report revenues as earned and expenses as incurred, rather than when received and paid. Accrual information is perhaps the best indicator of business success or failure. However, one cannot ignore the importance of cash flows. For example, a rapidly growing successful business can be profitable and still experience cash flow difficulties in trying to keep up with the need for expanded facilities and inventory. On the other hand, a business may appear profitable on an accrual basis, but may be experiencing delays in collecting receivables, and this can impose severe liquidity constraints. Or, a business may be paying generous dividends, but only because cash is being produced from the disposal of core assets. Sophisticated analysis of the balance sheet and income statement will often reveal such issues.
+
+9.1 The Statement of Cash Flows
+Rather than depending upon sophisticated financial statement users to do their own detailed cash flow analysis, the accounting profession has seen fit to require another financial statement that clearly highlights the cash flows of a business entity. This required financial statement is appropriately named the Statement of Cash Flows. The Statement of Cash Flows can be seen as an outgrowth of the FASB’s conceptual framework. In the previous chapter, it was pointed out that the FASB cited one objective of financial reporting as follows: Information should be helpful in assessing the amounts, timing, and uncertainty of an organization’s cash inflows and outflows. The applicable rules require that the statement of cash flows provide three broad categories that reveal information about operating activities, investing activities, and financing activities. In addition, businesses are required to reveal significant noncash investing/financing transactions.
+
+9.2 Cash and Cash Equivalents
+In preparing the statement of cash flows, companies broadly define “cash” to consist of cash and items that are equivalent to cash. As a general rule, cash equivalents are short-term, highly liquid investments that mature in 90 days or less.
+
+48 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+10. Operating, Investing, and Financing Activities
+Cash inflows from operating activities consist of receipts from customers for providing goods and services, and cash received from interest and dividend income (as well as the proceeds received upon the sale of “trading securities”). Cash outflows consist of payments for inventory, employee salaries and wages, taxes, interest, and other normal business expenses (and the cost of “trading securities” purchased). To generalize, cash from operating activities is generally linked to those transactions and events that enter into the determination of income. However, another way to view “operating” cash flows is to include anything that is not an “investing” or “financing” cash flow as described below.
+
+10.1 Investing Activities
+Cash inflows from investing activities result from items such as the sale of stock and bond investments (other than “trading”), disposal of long-term productive assets, and receipt of principal repayments on loans made to others. Cash outflows from investing activities include payments made to acquire long-term assets or long-term investments (other than “trading”) in other firms, loans made by the entity to others, and similar items.
+
+10.2 Financing Activities
+Cash inflows from financing activities relate to the proceeds received when a company issues its own stock or bonds, borrowings under mortgage notes and loans, and so forth. Cash outflows for
+
+49 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+11. Noncash Investing and Financing Activities
+A select set of important investing and financing activities occur without generating or consuming any cash. For example, a company may exchange common stock for land, or acquire a building in exchange for a note payable. While these transactions do not entail a direct inflow or outflow of cash, they do pertain to significant investing and/or financing events. When the FASB designed the statement of cash flows, they decided to require a separate section reporting these noncash items. Thus, the statement of cash flows is actually enhanced beyond its “title;” revealing the totality of investing and financing activities, whether or not cash is actually involved.
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+50 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+12. Direct Approach to the Statement of Cash Flows
+Earlier in this chapter, you studied the income statement, statement of retained earnings, and balance sheet for Emerson Corporation. Before proceeding, spend just a few moments reviewing those financial statements. Then, examine the following statement of cash flows for Emerson Corporation. Everything within this cash flow statement is derived from the data and additional comments presented earlier for Emerson. At first, some of the cash flow statement will seem a bit mysterious, but a “line by line” explanation will follow. The tan bar at the left is not part of the statement; it is to facilitate the “line by line” discussion” (e.g. line F4 will refer to the 4th line in the financing activities section).
+
+EMERSON CORPORATION Statement of Cash Flows (Direct Approach) For the Year Ending December 31, 20X5
+O1 O2 O3 O4 O5 O6 O7 O8 O9 I1 I2 I3 I4 F1 F2 F3 F4 F5 C1 C2 C3 N1 N2 Cash flows from operating activities: Cash received from customers Less cash paid for: Merchandise inventory Wages Interest Other operating expenses Income taxes Net cash provided by operating activities Cash flows from investing activities: $ 3,000,000 $ 1,050,000 480,000 100,000 270,000 300,000 $ $ 750,000 (150,000) 600,000 $ 80,000 (50,000) (900,000) (870,000) $ 530,000 170,000 $ 700,000
+
+(2,200,000) 800,000
+
+*Sale of land
+
+Purchase of equipment Net cash provided by investing activities
+
+Cash flows from financing activities: Proceeds from issuing stock Dividends on common Repayment of long-term loans Net cash used in financing activities Net increase in cash Cash balance at January 1, 20X5 Cash balance at December 31, 20X5 Noncash investing/financing activities: Issued preferred stock for building $ 300,000
+
+12.1 Methods to Prepare a Statement of Cash Flows
+There are several ways to go about preparing a statement of cash flows. You may hear about a “T” account approach or a “worksheet” approach for organizing data to present the statement. But, trying to learn the statement of cash flows by focusing on the specific method for its preparation can
+
+51 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+DFWXDOO\REVFXUH\RXUXQGHUVWDQGLQJRIWKHVWDWHPHQW/HW¶VILUVWIRFXVRQRXU³OLQHE\OLQH´ XQGHUVWDQGLQJRIKRZWKHFRQWHQWIRU(PHUVRQ
+VVWDWHPHQWLVGHULYHG$V\RXSURFHHGWU\WRIRFXV RQXQGHUVWDQGLQJQRWPHPRUL]DWLRQ7KHVWDWHPHQWRIFDVKIORZVGUDZVRQ\RXUFRPSOHWH XQGHUVWDQGLQJRIDFFRXQWLQJDQGLWLVTXLWHFRPPRQIRUVWXGHQWVWRLQLWLDOO\VWUXJJOHZLWKWKH VWDWHPHQWGRQRWGHVSDLUDQGGRQRWJLYHXS 
+
+12.2 Operating Activities
+/,1(2&$6+)/2:6)52023(5$7,1*$&7,9,7,(67KLVOLQHPHUHO\LGHQWLILHVWKH VHFWLRQ  O1 Cash flows from operating activities:     /,1(2&$6+5(&(,9(')520&86720(56(PHUVRQ¶VFXVWRPHUVSDLGLQ FDVK  O2 Cash received from customers $ 3,000,000     +RZGRZHNQRZWKLV"(PHUVRQ¶VLQIRUPDWLRQV\VWHPFRXOGEHVXIILFLHQWO\UREXVWWKDWD³GDWDEDVH TXHU\´FRXOGSURGXFHWKLVQXPEHUIRUXV2QWKHRWKHUKDQGZHFDQDOVRLQIHUWKLVE\UHIHUHQFHWR VDOHVDQGUHFHLYDEOHVGDWDIRXQGZLWKLQWKHLQFRPHVWDWHPHQWDQGEDODQFHVKHHW  &DVK5HFHLYHG)URP&XVWRPHUV  7RWDO6DOHV0LQXVWKH,QFUHDVHLQ1HW5HFHLYDEOHV RUSOXVDGHFUHDVHLQQHWUHFHLYDEOHV &DVK5HFHLYHG)URP&XVWRPHUV   &DVK5HFHLYHG)URP&XVWRPHUV   7KLQNLQJDERXWWKLVFDOFXODWLRQZHQRWHWKDWDFFRXQWVUHFHLYDEOHLQFUHDVHGE\GXULQJWKH \HDU7KLVPHDQVWKDWRIWKHWRWDOVDOHVRIDQHWZHQW XQFROOHFWHGGXULQJWKH\HDU7KXVFDVKUHFHLYHGIURPFXVWRPHUVRQO\FDPHWR,IQHW UHFHLYDEOHVKDGGHFUHDVHGLQVWHDGFDVKFROOHFWHGZRXOGKDYHDFWXDOO\H[FHHGHGVDOHV  /,1(2&$6+3$,')257KLVOLQHLGHQWLILHVWKHLWHPVUHODWLQJWRRSHUDWLQJFDVKRXWIORZV   O3  Less cash paid for:  /,1(2&$6+3$,')25,19(1725<(PHUVRQ¶VSDLGRIFDVKIRULQYHQWRU\
+O4 Merchandise inventory $ 1,050,000
+
+52 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+Determining the cash paid for inventory is perhaps one of the trickier calculations. Bear in mind that cost of goods sold is the dollar amount of inventory sold during the year. But, the amount of inventory actually purchased will be less than this amount if inventory on the balance sheet decreased during the year. This would mean that some of the cost of goods sold came from existing stock on hand rather than having all been purchased during the year. On the other hand, purchases would be greater than cost of goods sold if inventory increased: Inventory Purchased = Cost of Goods Sold Minus the Decrease in Inventory (or, plus an increase in inventory) Inventory Purchased = $1,160,000 - ($220,000 - $180,000) Inventory Purchased = $1,120,000 Now, the inventory purchased is only the starting point for determining cash paid for inventory. Inventory purchased must be adjusted for the portion that was purchased on credit. Notice that Emerson’s accounts payable increased by $70,000 ($270,000 - $200,000). This means that cash paid for inventory purchases was $70,000 less than total inventory purchased:
+
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+53 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+&DVK3DLGIRU,QYHQWRU\  ,QYHQWRU\3XUFKDVHV0LQXVWKH,QFUHDVHLQ$FFRXQWV3D\DEOHRUSOXVD GHFUHDVHLQDFFRXQWVSD\DEOH &DVK3DLGIRU,QYHQWRU\  &DVK3DLGIRU,QYHQWRU\   /,1(2&$6+3$,')25:$*(6(PHUVRQ¶VSDLGRIFDVKIRUZDJHVGXULQJWKH \HDU  O5 Wages 480,000     (PHUVRQ¶VSD\UROOUHFRUGVZRXOGLQGLFDWHWKHDPRXQWRIFDVKSDLGIRUZDJHVEXWWKLVQXPEHUFDQ DOVREHGHWHUPLQHGE\UHIHUHQFHWRZDJHVH[SHQVHLQWKHLQFRPHVWDWHPHQWDQGZDJHVSD\DEOHRQ WKHEDODQFHVKHHW &DVK3DLGIRU:DJHV  :DJHV([SHQVH3OXVWKH'HFUHDVHLQ:DJHV3D\DEOH RUPLQXVDQLQFUHDVHLQZDJHVSD\DEOH &DVK3DLGIRU:DJHV   &DVK3DLGIRU:DJHV   (PHUVRQQRWRQO\SDLGRXWHQRXJKFDVKWRFRYHUZDJHVH[SHQVHEXWDQDGGLWLRQDODV UHIOHFWHGE\WKHRYHUDOOGHFUHDVHLQZDJHVSD\DEOH,IZDJHVSD\DEOHKDGLQFUHDVHGWKHFDVKSDLG ZRXOGKDYHEHHQOHVVWKDQZDJHVH[SHQVH  /,1(222&$6+3$,')25,17(5(6727+(523(5$7,1*(;3(16(6$1' ,1&20(7$;(6   O6 Interest 100,000 O7 Other operating expenses 270,000    O8 Income taxes 300,000   (PHUVRQ¶VFDVKSD\PHQWVIRUWKHVHLWHPVHTXDOHGWKHDPRXQWRIH[SHQVHLQWKHLQFRPHVWDWHPHQW +DGWKHUHEHHQUHODWHGEDODQFHVKHHWDFFRXQWVHJLQWHUHVWSD\DEOHWD[HVSD\DEOHHWFWKHQWKH H[SHQVHDPRXQWVZRXOGQHHGWREHDGMXVWHGLQDPDQQHUVLPLODUWRWKDWLOOXVWUDWHGIRUZDJHV  /,1(21(7&$6+3529,'('%<23(5$7,1*$&7,9,7,(67KLVOLQHPHUHO\SURYLGHVD UHFDSRIWKHQHWHIIHFWRIDOORSHUDWLQJDFWLYLWLHV2YHUDOORSHUDWLRQVJHQHUDWHGQHWSRVLWLYHFDVK IORZVRI  $ 800,000  O9  Net cash provided by operating activities
+
+54 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+You may have noticed that two items within the income statement were not listed in the operating activities section of the cash flow statement. Specifically: x Depreciation expense is in the income statement, but it is not an operating cash flow item. The reason is very simple; it is a noncash expense. Remember that depreciation is recorded via a debit to Deprecation Expense and a credit to Accumulated Depreciation. No cash is impacted by this expense entry (the “investing” cash outflow occurred when the asset was purchased), and The gain on sale of land in the income statement does not appear in the operating cash flows section. While the land sale may have produced cash, the entire proceeds will be listed in the investing activities section; it is a “nonoperating” item, and its full cash effect is listed elsewhere.
+
+x
+
+12.3 Investing Activities
+LINE I1 -- CASH FLOWS FROM INVESTING ACTIVITIES: This line merely identifies the section:
+I1 Cash * flows from investing activities:
+
+LINE I2 -- CASH FLOWS FROM SALE OF LAND: Emerson sold land for $750,000 during the year:
+I2
+
+*Sale of land
+
+$ 750,000
+
+In actuality, it would be pretty easy to look up this transaction in the journal. The entry would look like this:
+XX-XX-X5
+
+Cash Gain Land
+Sold land costing $600,000 for $750,000
+
+750,000 150,000 600,000
+
+*
+
+But, it is not necessary to refer to the journal. Notice that land on the balance sheet decreased by $600,000 ($1,400,000 - $800,000), and that the income statement included a $150,000 gain. Applying a little “forensic” accounting allows you to deduce that $600,000 in land was sold for $750,000, to produce the $150,000 gain. LINE I3 -- CASH FLOWS FROM PURCHASE OF EQUIPMENT: Emerson purchased equipment for $150,000 during the year:
+I3 Purchase of equipment (150,000)
+
+55 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+LINE I4 -- NET CASH PROVIDED BY INVESTING ACTIVITIES: Emerson’s overall investing activities generated $600,000 in cash during the year. This resulted from the net effects of disposing of land and purchasing equipment.
+I4
+
+*
+
+Net cash provided by investing activities
+
+600,000
+
+12.4 Financing Activities
+LINE F1 -- CASH FLOWS FROM FINANCING ACTIVITIES: This line merely identifies the section:
+F1 Cash * flows from financing activities:
+
+LINE F2 -- CASH PROCEEDS FROM ISSUING COMMON STOCK: This line reveals that $80,000 was received from issuing common stock.
+F2
+
+*Proceeds from issuing stock
+
+$
+
+80,000
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+56 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+This cash inflow is suggested by the $10,000 increase in common stock ($910,000 - $900,000) and $70,000 increase in additional paid-in capital ($370,000 - $300,000). LINE F3 -- CASH OUTFLOW FOR DIVIDENDS: The statement of retained earnings reveals that Emerson declared $50,000 in dividends. Since there is no dividend payable on the balance sheet, one can assume that all of the dividends were paid during the year:
+F3
+
+*Dividends on common
+
+(50,000)
+
+LINE F4 -- CASH OUTFLOW FOR REPAYMENT OF LONG-TERM LOAN: The balance sheet reveals a $900,000 decrease in long-term debt ($1,800,000 - $900,000). This represented a significant use of cash during the year:
+F4
+
+*Repayment of long-term loans
+
+(900,000)
+
+This line item reveals that Emerson has used much of the cash flow generated from operations and asset disposals to reduce the outstanding debt of the company. LINE F5 -- NET CASH USED IN FINANCING ACTIVITIES: Emerson’s overall financing activities used $870,000 in cash during the year. The bulk of this outflow was attributable to debt repayment.
+F5
+
+*
+
+Net cash used in financing activities
+
+(870,000)
+
+12.5 Cash Flow Recap
+LINE C1, C2, C3 -- THE CHANGE IN CASH: Emerson’s cash flow statement reveals a $530,000 increase in cash during the year ($800,000 from positive operating cash flow, $600,000 from positive investing cash flow, and $870,000 from negative financing cash flow). This change in cash is confirmed by reference to the beginning and ending cash balances on the balance sheet:
+C1 C2 C3 Net increase in cash Cash * balance at January 1, 20X5 Cash balance at December 31, 20X5 $ $ 530,000 170,000 700,000
+
+12.6 Noncash Investing/Financing Activities
+LINE N1, N2 -- NONCASH INVESTING AND FINANCING ACTIVITIES: Emerson issued $300,000 of preferred stock for a building. This falls into the special section for revealing the noncash investing and financing events:
+N1 N2 Noncash investing/financing activities: Issued preferred stock for building $ 300,000
+
+57 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+12.7 Reconciliation of Income to Operating Cash Flows
+The statement of cash flows just presented is specifically known as the “direct approach.” The direct approach is the preferred approach. It is so named because the cash items entering into the determination of operating cash flow are specifically identified. In many respects, this presentation of operating cash flows resembles a cash basis income statement. An alternative “indirect” approach will be presented shortly. But first, be aware that companies who choose to use the direct approach must supplement the cash flow statement with a reconciliation of income to cash from operations:
+Net income Add (deduct) noncash effects on operating income Depreciation expense * on sale of land Gain Increase in accounts receivable Decrease in inventory Increase in accounts payable Decrease in wages payable Net cash provided by operating activities $ 1,000,000 $ 120,000 (150,000) (250,000) 40,000 70,000 (30,000) $
+
+(200,000) 800,000
+
+Notice that this reconciliation starts with the net income, and adjusts to the $800,000 net cash from operations. Some explanation may prove helpful: x Depreciation is added back to net income, because it reduced income but did not consume any cash. Gain on sale of land is subtracted, because it increased income, but is not related to operations (remember, it is an investing item and the “gain” is not the sales price). Increase in accounts receivable is subtracted, because it represents uncollected sales included in income. Decrease in inventory is added, because it represents cost of sales from existing inventory (not a new cash purchase). Increase in accounts payable is added, because it represents expenses not paid. Decrease in wages payable is subtracted, because it represents a cash payment for something expensed in an earlier period.
+
+x
+
+x
+
+x
+
+x
+
+Now, this can get rather confusing. Let’s try to simplify it a bit. First, you can probably see why depreciation is added back. But, the gain is likely fuzzy. It must be subtracted because you are trying to remove it from the operating number; it increased net income, but it is viewed as something other than operating, and that is why it is backed out. Conversely, a loss on such a transaction would be added. The increase in accounts receivable represents sales that increased income but not cash. That is why it is subtracted. If you can relate to the receivables, a pattern will develop for the other items:
+58 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+Increases in current assets related to operations will be subtracted, but decreases will be added and, vice versa: Increases in current liabilities related to operations will be added, but decreases will be subtracted Examine this pattern, to satisfy yourself that it works for the inventory, accounts payable, and wages payable. Now, you can logically extend the pattern to most any other operating adjustment that pertains to a current asset or current liability. As a reminder, this reconciliation of income to operating cash is intended to supplement the direct approach to the statement of cash flows. You will likely find the reconciliation in notes to the financial statements.
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+59 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+13. Indirect Approach to Presenting Operating Activities
+As an alternative to the direct approach, companies may present an indirect statement of cash flows. The indirect approach is mostly a repackaging of the information found in the direct approach. It is so named because the “reconciliation” replaces the direct presentation of the operating cash flows. The indirect approach is presented on the following page. Except for the shaded areas, this statement is identical to the direct approach: The first shaded area reflects the substitution of the operating cash flow calculations. The second shaded area reflects a rule that the indirect approach must be supplemented with information about cash paid for interest and taxes (these amounts are found in the operating activities section of the direct approach).
+EMERSON CORPORATION Statement of Cash Flows (Indirect Approach) For the Year Ending December 31, 20X5
+Cash flows from operating activities: Net income A dd (deduct) (d ( d ed d u ct) t ) noncash h effects eff f f e cts t on operating operati ting income i Add Depreciation expense Gain on sale of land Increase in accounts receivable Decrease in inventory Increase in accounts payable Decr De crea ease se in i n wages wage wa ges s payable paya pa yabl ble e Decrease Net cash provided by operating activities Cash flows from investing activities: Sale * of land Purchase of equipment Net cash provided by investing activities Cash flows from financing activities: Proceeds from issuing stock Dividends on common Repayment of long-term loans Net cash used in financing activities Net increase in cash Cash balance at January 1, 20X5 Cash balance at December 31, 20X5 Noncash investing/financing activities: Issued preferred stock for building Supp Su pple leme ment ntal al information: inf i nfor orma mati tion on: : Supplemental Cash paid for interest Ca sh paid pai p aid d for fo r income inco in come me taxes tax t axes es Cash $ 100,000 300 30 0,00 000 0 300,000 $ 300,000 $ $ 80,000 (50,000) (900,000) (870,000) $ 530,000 170,000 700,000 $ 750,000 (150,000) 600,000 $ 1,000,000 $ 120,000 (150,000) (250,000) 40,000 70,000 ( 30, ,000 000) ) (30,000) $
+
+(20 (2 ( 00, ,000 000) ) (200,000) 800,000
+
+60 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+14. Using a Worksheet to Prepare a Statement of Cash Flow
+Given enough time and careful thought, one can generally prepare a statement of cash flows by putting together a rough shell that approximates the statements illustrated throughout this chapter, and then filling in all of the bits and pieces that can be found. Ultimately, the correct solution is reached when the change in cash is fully explained. This is like working a puzzle without reference to a supporting picture. But, complex tasks are simplified by taking a more organized approach. To that end, consider the value of a worksheet for preparing the statement of cash flows. The worksheet examines the change in each balance sheet account and relates it to any cash flow statement impacts. Once each line in the balance sheet is contemplated, the ingredients of the cash flow statement will be found! A sample worksheet for Emerson is presented on the following page. In this worksheet, the upper portion is the balance sheet information, and the lower portion is the cash flow statement information. The change in each balance sheet row is evaluated and keyed to a change(s) in the cash flow statement. When you have explained the change in each balance sheet line, you should have accumulated (in the lower portion) the information necessary to prepare a statement of cash flows.
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+61 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+Emerson Corporation/Cash Flow Statement Worksheet/For the Year Ending Dec. 31, 20X5
+20X4 Debits Cash Accounts receivable Inventory Land Building Equipment Credits Accumulated depreciation Accounts payable Wages payable Long-term loan payable Preferred stock Common stock ($1 par) Paid-in capital in excess of par Retained earnings Cash flows from operating activities: Net income Depreciation expense Gain on sale of land Increase in accounts receivable Decrease in inventory Increase in accounts payable Decrease in wages payable Cash flows from investing activities: Sale of land Purchase of equipment Cash flows from financing activities: Proceeds from issuing stock Dividends on common Repayment of long-term loan Noncash investing/financing activities: Issue preferred stock for building Increase in cash $ 4,570,000 (e) 300,000 (e) (a) 300,000 530,000 $ 4,570,000 (k) 80,000 (l) (j) 50,000 900,000 (d) 750,000 (f) 150,000 (c) (h) 40,000 70,000 (i) 30,000 (m) (g) 1,000,000 120,000 (d) (b) 150,000 250,000 900,000 300,000 380,000 $ 3,990,000 (l) 50,000 $ 360,000 200,000 50,000 1,800,000 (i) (j) 30,000 900,000 (e) (k) (k) (m) 300,000 10,000 70,000 1,000,000 (g) (h) 120,000 70,000 $ 480,000 270,000 20,000 900,000 300,000 910,000 370,000 1,330,000 $ 4,580,000 $ 170,000 600,000 220,000 1,400,000 700,000 900,000 $ 3,990,000 (e) (f) 300,000 150,000 (a) (b) $ 530,000 250,000 (c) (d) $ 40,000 600,000 $ 700,000 850,000 180,000 800,000 1,000,000 1,050,000 $ 4,580,000 Debit Credit 20X5
+
+62 Download free eBooks at bookboon.com
+
+Using Accounting Information
+
+Financial Analysis and the Statement of Cash Flows
+
+Specific explanations for each keyed item are found in the table below. The cash flow statement explanations are color coded such that blue is the final balancing step, red is cash outflow, black is cash inflow, and green is special.
+
+Upper/Balance Sheet
+(a) debit (increase) cash
+
+Lower/Cash Flow Statement
+credit to balance - the remaining effect as net positive cash flow credit reflecting negative cash effect via receivables increase debit reflecting positive cash effect via inventory reduction credit gain and debit sale of land reflecting source of cash debit and credit reflecting noncash investing/ financing credit reflecting use of cash to purchase equipment debit reflecting noncash adjustment of income debit reflecting positive cash effect via increased payables credit reflecting negative cash effect via payables reduction credit reflecting use of cash via loan repayment debit reflecting source of cash via stock issue credit reflecting use of cash for dividends debit reflecting source of cash via income
+
+(b)
+
+debit (increase) accounts receivable
+
+(c)
+
+credit (decrease) inventory
+
+(d)
+
+credit (decrease) land debit building (increase)/credit preferred (increase) debit (increase) equipment credit (increase) accumulated depreciation credit (increase) accounts payable
+
+(e)
+
+(f) (g) (h)
+
+(i) (j) (k) (l) (m)
+
+debit (decrease) wages payable debit (decrease) loan payable credit (increase) stock and paid-in capital debit (decrease) retained earnings credit (increase) retained earnings
+
+63 Download free eBooks at bookboon.com
+

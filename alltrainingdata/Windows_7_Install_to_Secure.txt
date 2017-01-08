@@ -1,0 +1,1061 @@
+Windows	7	Install	to	Secure
+Liam	Phelan;	Jennie	Howe
+
+Download	free	books	at
+
+Liam Phelan and Jennie Howe
+
+Windows 7 Install to Secure
+
+2
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure © 2012 Liam Phelan and Jennie Howe & bookboon.com ISBN 978-87-403-0233-2
+
+3
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Contents
+
+Contents
+	 1	 	 2	 3	 	 	 	 	 	 Windows 7 from install to secure	 Introducing Windows 7	 Windows 7 Professional Test Drive Experience	 Features and Editions	 Hardware Requirements	 Identifying Graphics Card Characteristics	 Dedicated vs. Shared Memory	 Basic Internet, Email and Document Editing	 Video Editing	 Gaming Requirements	 7 8 8 11 18 21 23 24 25 26 27 38 40 43
+
+4	 Installing Windows 7 on a New Computer	 5	 	 	 Upgrading to Windows 7	 Windows 7 Upgrade Advisor	 Performing an In-place upgrade	
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 7 Install to Secure
+
+Contents
+
+6	 	 	 	 	 	
+
+Migrating to Windows 7	 Easy Transfer Cable	 Wired networking	 Wireless networking	 CD/DVD, USB Flash Drive, External Hard Disk	 Demonstration transferring using the network	
+
+47 49 49 49 50 50 54 57 58 61 65 65 68 68 69 69 69 70 72
+
+7	 Upgrading Between Windows 7 Editions	 8	 	 Application Compatibility	 Configure Program Compatibility Options	
+
+9	 Keeping Windows 7 secure, up to date and virus free	 	Firewall	 	 	 	 	 	 Windows Firewall	 Anti-Virus and Malware	 Trojan Horse	 Anti-Virus and Malware Software	 Microsoft Security Essentials	
+
+	Spyware	 	Adware	
+
+	Summary	
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Windows 7 Install to Secure
+
+Contents
+
+10	 	 	 	 	 	
+
+Backing Up Windows 7	 Backup Destinations	 Second Hard disk	 Optic Drive	 USB Flash Drive	 Performing a Backup	
+
+73 73 73 73 73 74 74 78
+
+	Network	
+
+	Summary	
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+6
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Windows 7 Install to Secure
+
+Windows 7 from install to secure
+
+Windows 7 from install to secure
+This book looks at the complete process of installing Windows 7 to having a secure backed up recoverable operating system. Whether you are upgrading from an existing operating system or starting afresh this book will take you through the process step by step. After installing Windows 7, you may find some applications are now not compatible with Windows 7. This book will take you through the various options in Windows 7 you can utilize so that software not initially designed to be run on Windows 7 will still be able to be used. The book will look at protecting your Windows 7 operating system from viruses and other damaging software. Lastly, you will be shown how to backup the operating system and how to recover the operating system at a later date.
+
+7
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Introducing Windows 7
+
+1	 Introducing Windows 7
+Windows 7 was a much anticipated release in 2009, replacing Windows Vista as Microsoft’s new operating system. Since Windows 7 is more of an upgrade for Windows Vista it improves on many of the features first introduced in Windows Vista. This includes designing a better desktop environment and making Wireless networking a lot smoother. This makes connecting to wireless networks and devices a lot easier. The smart search option in Windows 7 also allows you to quickly locate programs and find documents. For those that have used Windows Vista you may remember a lot of pop ups and notifications when performing installs or performing administrative tasks. Windows 7 has streamlined this process meaning there are now a lot less notifications. You can also reduce the number of prompts generated in Windows 7. With all these improvements, you will find that Windows 7 is still a secure operating system.
+
+Windows 7 Professional Test Drive Experience
+Moving to a new operating system can be a big step. Before you decide to purchase or upgrade to Windows 7 you may want to learn more about Windows 7 and its features. Microsoft offers a free test drive of Windows 7 at the following web site. http://www.microsoft.com/windows/business/windows-7-test-drive This website allows you to take a test drive of Windows 7 to try out some of its features. The test drive experience runs off a virtual pc. A virtual pc is very much like sitting in front of a real computer that is running Windows 7 and allows you to try out some of Windows 7 new features. The only real limitation with the test drive is that you will not be able to access the internet. To access the test drive from the web site select the option, “Take a test drive” as shown below.
+
+8
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Introducing Windows 7
+
+Once you select “Take a test drive,” you will be prompted with a few prerequisites as shown below. You will need to ensure your computer meets these prerequisites otherwise the test drive will not work.
+
+The prerequisites are as follows. 1)	 Browser needs to be an Internet Explorer 6 or newer version. 2)	 Microsoft Windows XP or newer operating system. 3)	 Cookies enabled in Internet Explorer. 4)	 ActiveX Control must be enabled and installed. 5)	 This is not listed above, but you need to have SilverLight installed. On most Windows XP and above systems you will find there will be a good chance that all prerequisites are already met. For the ActiveX control and Silverlight, Windows will prompt you to install these when they are required. Once the prerequisites for the Test Drive are met, you will need to select which features of Windows 7 you want to try from the menu on the right. As shown below, there are two different options you can select for each feature that you want to test drive. If you are interested in seeing a video presentation explaining the new features, select the play video icon.
+
+9
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Introducing Windows 7
+
+To start Windows 7 Test Drive and also to try out the new features of Windows 7, select the icon.
+
+Once you select the option to start the test drive, you will be taken to the virtual PC as shown below. Using the virtual PC you can test Windows 7 features out for yourself. The virtual PC works like a real Windows 7 install allowing you to launch applications and test out Windows 7 features from the comfort of your home or office.
+
+10
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Features and Editions
+
+2	 Features and Editions
+Windows 7 comes in 6 different editions which in most cases will be available in a 32bit and 64bit edition. This chapter looks at the difference between 32bit and 64bit and compares the features of the six editions. Understanding which features are available for each edition will allow you to make an informed decision about which edition of Windows 7 will meet your needs. Understanding the features of each edition will mean you will purchase the right edition the first time without having to pay for extra features that aren’t really needed or paying for an upgrade later on. 32Bit verses 64bit All editions of Windows 7 are available in 32bit and 64bit except for the Starter edition. Depending on how Windows 7 was purchased, you may have the option to install either one. The number of bits refers to the central processing unit (CPU) inside the computer. A 64bit CPU has the potential to run software and process data a lot faster than a 32bit CPU if the software on the computer has been designed to utilize it. Besides the processing power inside the CPU, the biggest difference between a 32bit CPU and a 64bit CPU is that a 32bit CPU can only use a maximum of 4GB of RAM. A 64bit CPU will still run 32bit software so it’s possible to install the 32bit version of Windows 7 on a 64bit system. However, installing a 32bit operating system will mean you will only be able to utilize a maximum of 4GB of ram, even if more than 4GB of ram is installed in the computer.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+11
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click Click on on the the ad ad to to read read more more
+
+Windows 7 Install to Secure
+
+Features and Editions
+
+If you purchase a new 64bit system, check that the operating system installed is 64bit. Sometimes a manufacturer will install a 32bit operating system on a 64bit system. If you want to use all the features 64bit hardware has to offer it is a good idea to re-install the operating system straight away. It is not possible to upgrade a 32bit operating system to a 64bit operating system at a later date. Starter Edition The starter edition has the least amount of features out of all the editions of Windows 7. The starter edition is also the only edition of Windows 7 that does not support 64bit. Even though all other 32bit editions of Windows 7 support a maximum of 4GB of RAM, the starter edition is limited to a maximum of 2GB of RAM. The Starter edition is often packaged with netbooks. Netbooks are noticeably smaller in comparison to other laptops and are lower priced. They are most often used while commuting and to log into social media sites, email and surfing the web. Home Basic The Home Basic Edition is only available in what Microsoft refers to as emerging markets and thus only available in certain parts of the world. It has more features than the starter edition, for example it includes an improved desktop experience using the Aero interface. The Aero interface provides the 3D looking glass effect in Windows. Most editions of Windows 7 offer full support for the Aero interface, except for Home Basic which only partially supports it. Home Premium This edition of Windows 7 is aimed for consumer use in the home. Most home users will find it will have enough features for general home use. The home premium edition lacks a lot of business and high performance features. Most noticeably lacking is the limitation of only being to install a maximum 16GB RAM and having support for only one CPU. The Home Premium is fine for the average home user that does not require extra performance, generally only needed for a high performance work station or computer enthusiasts. Professional The professional edition is aimed at the business user and computer enthusiasts. It offers additional features like encryption and domain support. Domains are used in business to centralize management of computers. This edition also supports 192GB RAM and two CPU’s. Due to the extra hardware and features it supports it is often used in high performance workstations. Enterprise/Ultimate The Enterprise and Ultimate editions have all the features that are available in Windows 7. These editions are essentially the same, with the big difference being how they are purchased. The Enterprise edition is only available via a software agreement with Microsoft. These agreements are available to large customers. The Ultimate edition is available via retail or online to the consumer.
+
+12
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Features and Editions
+
+N Editions Sold in Europe, any edition ending with N does not have Windows Media Player and other related technologies such as Windows Movie Maker. N editions come in Windows 7 Home Premium N or Windows 7 Professional N. The missing software can be downloaded and added to the operating system. For more information about the N edition and how to download the missing software, see the following web address. http://windows.microsoft.com/en-us/windows7/products/What-is-Windows-7-N-edition K Editions Editions ending with K are sold in Korea and come with hyperlink shortcuts already installed on the desktop to non-Microsoft instant messaging and media-player software. There is no difference in the edition besides the additional shortcuts found on the desktop. KN Editions Editions of Windows 7 ending in KN are the same as the K and N editions combined. Features Below is a summary of the different editions of Windows 7 and the key features that they have. The table lists the more common features. Following the table is an explanation of each of the features found in the table. You should ensure that any feature that you want to use in Windows 7 is supported by the edition of Windows 7 that you are planning to purchase.
+Starter Backup and restore HomeGroup Aero Multiple Monitor Mobility center for laptops Domain Support Presentation Mode Dynamic Disks Encrypting File System BitLocker 64 bit support Max Ram 32bit Max Ram 64 bit 2GB N/A X 4GB 8GB X 4GB 16GB X 4GB 192GB Cannot backup to network Join only Home Basic Cannot backup to network Join only Partial X X Home Premium Cannot backup to network X X X X Professional X X X X X X X X X Enterprise & Ultimate X X X X X X X X X X X 4GB 192GB
+
+13
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Features and Editions
+
+For a complete list of features, see either of the following two web addresses. http://windows.microsoft.com/en-us/windows7/products/compare?t1=tab15 or http://en.wikipedia.org/wiki/Windows_7_editions Backup and Restore Backup and Restore allows you to backup and restore a complete operating system or individual documents and files. If the hardware on your computer were to fail, Backup and Restore allows you to restore the system to a replacement computer. You can also restore your computer back to a certain date or restore certain documents and files. Backup and restore can also be used to restore the computer if the operating system is damaged by software like viruses. HomeGroup HomeGroup is a feature that allows you to configure simple file and printing sharing at home. By one computer creating a HomeGroup, other computers on the local network can access files or printers in the HomeGroup by entering the HomeGroup password once prompted. No usernames are needed to be created in the HomeGroup. Once a resource is shared using HomeGroup, it is available to all computers in the HomeGroup. All editions of Windows 7 can access resources in a HomeGroup, however the ability to create a HomeGroup will require Windows 7 Home Premium or above. If your computer is in a domain, it can access resources in the HomeGroup but will not be able to share its resources in the HomeGroup.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+14
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click Click on on the the ad ad to to read read more more
+
+Windows 7 Install to Secure
+
+Features and Editions
+
+For more information see http://technet.microsoft.com/en-us/library/ee449408(v=ws.10).aspx IT Free Training Video on HomeGroup http://itfreetraining.com/70-680/homegroup Aero The aero interface provides a 3D look and feel to Windows 7 as well as translucency and live thumbnails. To test if Aero is operating on Windows 7 – hold down the windows key, and then tap the tab key. If Aero is enabled, this will bring up Flip 3D. Flip 3D will give you a 3D representation of all applications currently running, allowing you to cycle through to the application you want to use as shown below.
+
+Multiple Monitors Windows 7 allows multiple monitors to be plugged into the same computer. Some video cards will have more than one video output so multiple monitors will be able to use the same graphics card. This can also be done by using a special cable that splits the output from a single plug into two if the video card supports it. If your video card does not support additional monitors, you can install a second video card into your desktop computer in order to connect additional monitors. If using a laptop, you will most likely be able to connect an external monitor. Depending on the video card inside the laptop, you may be able to expand your desktop to utilize both the laptop screen and the second monitor. Or you can use the second monitor to mirror what is shown on the first screen.
+
+15
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Features and Editions
+
+Mobility Center for Laptops This feature is only available on laptops. Mobility Center gives the user a tile based layout of laptop related features for quick easy access. The options include screen brightness, battery status, wireless network, external display and sync center. As well as the standard Windows 7 options provided by Microsoft, the manufacturer is able to add customized software, which will appear as another tile in the mobility center. An example of the mobility center is shown below. Notice at the bottom that additional tiles have been added by Hewlett Packard to this laptop.
+
+Domain Support If your computer is being used for business, the business owning the computer may have a domain setup. A domain is a collection of computers that share a centralized database. This allows the computers in the domain to be configured and administered as a whole. Presentation Mode Presentation Mode in Windows 7 refers to a set of desktop display settings you may wish to use when giving a presentation and using a screen projector. Presentation mode allows settings like screensaver to be disabled or different wallpaper to be displayed. You can access Presentation Mode through the start menu or via a hotkey.
+
+16
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Features and Editions
+
+Dynamic Disks Dynamic Disks provides additional features in Windows 7 when using more than one hard disk. For instance, when using Dynamic Disks, two hard disks can be duplicated in a process called mirroring. Since both hard disks contain the same information, if one hard disk was to fail the other hard disk would continue to operate and no data would be lost. Dynamic Disks also allows multiple hard disks to be combined together so the operating system sees the hard disks as the one drive. Dynamic Disks is available on Windows 7 Professional and above. Encrypting File System Encrypting File System or EFS, is a system that allows individual files to be encrypted preventing them from being read by a third party without the users password. If EFS is used, make sure that the recovery key is backed up and put in a safe place. Without the recovery key, you will not be able to access encrypted files if the operating system is reinstalled or lost. Also, if you forget your password and it is reset this will also stop the files from being accessed unless other recovery options have been configured beforehand or the recovery key is used. BitLocker BitLocker is technology that allows the whole hard disk to be encrypted so that it cannot be read if the computer is stolen. BitLocker supports a number of different ways to access the data on the hard disk. Without special hardware, BitLocker supports a password or a key stored on a device like a USB key. BitLocker also supports Trusted Platform Module (TPM), which is a microchip embedded in the computer that can hold the BitLocker keys. A hardware solution like a TPM is an excellent solution for safeguarding the keys used by BitLocker to encrypt a drive.
+
+17
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Hardware Requirements
+
+3	 Hardware Requirements
+Before you install or upgrade to Windows 7, you will need to ensure that your computer meets the hardware requirements for Windows 7. Hardware installed in the computer needs to be compatible with Windows 7 and have device drivers available to work with Windows 7. A device driver is software which provides the interface allowing Windows 7 to communicate with the hardware. As well as the minimum requirements for Windows 7, this chapter looks at a number of real world examples of systems to give you an idea of what kind of system you will need to buy to meet your needs. Windows 7 Logo
+
+When trying to determine if a computer meets the requirements to run Windows 7, it is worth your time to have a quick look at the computer to see if it has a Windows 7 sticker on it as shown on the left. Computers that have this sticker have been tested with Windows 7 to ensure they are compatible with Windows 7 as well as meet a number of requirements given by Microsoft.
+
+18
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click Click on on the the ad ad to to read read more more
+
+Windows 7 Install to Secure
+
+Hardware Requirements
+
+In some cases a computer may have the Windows 7 logo but be running a different operating system. For example, it is not uncommon in the business world for companies to buy a computer and install a different operating system on the computer like Windows XP. This is referred to as downgrade rights. If the computer you want to install Windows 7 on has been downgraded the good news is it will not cost you anything to install Windows 7. If however the computer did not originally come with Windows 7 you will need to purchase an upgrade or new version of Windows 7. Refer to the following link for more information on downgrade rights. http://www.microsoft.com/oem/en/licensing/sblicensing/pages/downgrade_rights.aspx Minimum Requirements Before you start installing Windows 7, you should first check to ensure that the computer meets the minimum requirements to run Windows 7. Listed in the table below are the minimum requirements to run Windows 7. As stated above, if the computer has a Windows 7 sticker on it, it will already meet or exceed these requirements.
+CPU RAM Hard disk Video card Optical drive BitLocker 1 Gigahertz (GHz) or faster 32bit or 64bit CPU 1 gigabyte (GB) RAM 32 bit or 64 bit 32bit 16 GB hard disk space or 64bt 20 GB Hard Disk Space DirectX 9 graphics device with WDDM 1.0 higher driver For installation only TPM 1.2 (Optional. Only required if using drive encryption)
+
+Refer to the following web page for more information about minimum requirements. http://windows.microsoft.com/en-us/windows7/products/system-requirements CPU The Central Processing Unit (CPU) requirements for Windows 7 are very low compared to CPU’s currently available on the market. Any new CPU on the market will exceed the minimum requirements for Windows 7. Windows 7 supports any CPU that has more than one core. CPU’s with multiple cores have identical processing units inside the same chip referred to as dual core, quad core, hexa-core or octa-core depending on how many cores they have. All editions of Windows 7 will run CPU’s with any number of cores. If you have a computer that supports two physical CPU’s with any number of cores, you will require Windows 7 professional or greater in order for Windows 7 to use both of these CPU’s.
+
+19
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Hardware Requirements
+
+RAM The amount of RAM that is in the computer can have a significant impact on the performance of the computer. Although the minimum requirement for Windows 7 of 1GB is quite low considering the current price of new RAM, in a lot of cases it is worth buying more than 1GB of RAM to get better performance. Keep in mind that certain editions of Windows 7 have different limitations on the amount of RAM that can be used. Listed below are limits of RAM that can be used in each edition of Windows 7.
+Version Windows 7 Ultimate Windows 7 Enterprise Windows 7 Professional Windows 7 Home Premium Windows 7 Home Basic Windows 7 Starter 16 GB 8 GB N/A 2 GB 192GB 4GB * Limit on 64bit Windows Limit on 32bit Windows
+
+* On a 32bit system with 4GB of RAM installed, the operating system will only be able to use anywhere on average from 3.3GB to 3.6GB of RAM depending on the hardware in the computer. This is due to other devices, mainly the video card, that share the RAM space.
+
+Hard Disk The amount of space given in the minimum requirements is enough to install Windows 7 but does not leave much free space to do much else. It is always best to have more space than the 16GB and 20GB that Microsoft suggests. The amount of space required will ultimately be determined by how much data you will need to store on the computer. Microsoft lists a hard disk as a requirement, but a solid state drive, a style of drive on the market which works like a flash drive, will work equally well with Windows 7. Video Card Windows 7 requires a video card that supports DirectX 9 and Windows Display Driver Model (WDDM) device driver. DirectX is a standard that determines how software can access features on the video card. DirectX 9 was released in 2002, so it more than likely any video card in today’s market will meet this standard. Since this has been a standard for ten years, it is unlikely that you will be installing Windows 7 on a computer with a graphics card that does not support DirectX 9. Since a computer that doesn’t would be close to being ten or more years old.
+
+20
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Hardware Requirements
+
+WDDM is a standard for device drivers first introduced in Windows Vista. Even though WDDM is listed as a requirement, Windows 7 will work with a graphics card that does not have this kind of device driver. Without a WDDM driver, advanced features like the looking glass desktop will not be available. It is up to the manufacturer of the graphics card to supply a WDDM driver. All graphics cards on the current market and any other cards that have been on the market since Windows Vista should meet this requirement.
+
+Identifying Graphics Card Characteristics
+The three main manufacturers of graphics processing units are NVIDIA, ATI and Intel. To find out more information on your graphics card, run the command DXDiag from the search start menu. This will launch the DirectX Diagnostic Tool.
+
+As shown below, on the first Tab will be information about the computer, such as its CPU, memory and which operating system is installed. In regards to the video card, it is important to note which version of DirectX is being used, in this example version 11 of DirectX is being used. This is underlined in red below. The DirectX Version Number will determine what video hardware features and special effects are available to the operating system and software. With some software, such as in graphic intensive games, they may require a particular version of DirectX in order to run. As shown below, additional information about the graphics card can be found on the display tab. The video card in this system is an Intel(R) HD Graphics card. If the graphics card was an NVIDIA or ATI Graphics card the model of the card would be given in the name, for example NVIDIA GeForce GTX 470.
+
+21
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Hardware Requirements
+
+The next important piece of information is found under the heading DAC type. In the example below the DAC type is listed as internal. This means the graphics card is sharing the system RAM of the computer. The DAC type can also be listed as Integrated. Integrated means that internal memory installed on the graphics card is for its video use and nothing else. Later in the chapter I will discuss the differences between having dedicated video RAM and shared video RAM.
+
+22
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click Click on on the the ad ad to to read read more more
+
+Windows 7 Install to Secure
+
+Hardware Requirements
+
+The last important piece of information that you want to get from DXDiag is the Approx. Total Memory. In the example below the memory is listed as 1696MB. Graphics Cards with high amounts of RAM can support multiple monitors and can offer better performance when the graphics card working hard. 128MB of video ram will support one monitor with a resolution of 1600x1200 dpi. To add an additional monitor with the same resolution you will need to double the RAM. A lot of video cards support more than 1GB of onboard RAM. Video cards like these should be able to run two monitors at a resolution of 2560x1600 dpi without a problem. The extra video RAM on the video card will improve performance particularly when running graphics intensive applications or running 3D games. If you’re after additional specifications for NVIDIA, ATI or Intel Graphics cards, information can be found at the following Wikipedia Web addresses. The dedicated Wiki pages will also tell you which version of DirectX that video card supports. http://en.wikipedia.org/wiki/Comparison_of_Nvidia_graphics_processing_units http://en.wikipedia.org/wiki/Comparison_of_AMD_graphics_processing_units http://en.wikipedia.org/wiki/Comparison_of_Intel_graphics_processing_units
+
+Dedicated vs. Shared Memory
+Video Cards either have Dedicated or Shared Memory. Dedicated Memory refers to memory that is used solely for the video card. Shared Memory refers to a video card utilizing the same system RAM used by the computer to run the operating system and applications. A video card that is integrated into the motherboard often utilizes Shared Memory. Shared video RAM is very common in laptops. Laptops often utilize shared RAM as it helps reduce the size and number of components required in the laptop and reduces its overall cost. If your system has shared video memory, you should consider the effect this will have on your computers performance. When system memory is being used by the video card it is no longer available to the system. Shared RAM generally works well with desktop applications that do not require a lot of 3D processing. When running 3D games or graphic intensive applications, shared RAM does not work as well. This is because the path the data must travel over between the memory and video processor is the same path that is used by the CPU and other devices. When the graphics processor is put under a lot of load it must compete with other devices for access to the system memory. In most cases it is better to have dedicated video memory, however due to the higher cost you may have to purchase a system with shared video memory. If you find that performance on the system is too slow, you may need to install additional system ram to make up for the RAM that is being used by the video card.
+
+23
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Hardware Requirements
+
+Optical Drive The optical drive is only required for the install of Windows 7. This is any optic device that can read DVD’s. You can also use a USB optical drive if your computer supports it. Any new computer on the current market should support USB optical drives for installing Windows 7. If you find the USB optical drive is not working correctly you may need to upgrade the bios on the computer. BitLocker BitLocker is hard drive encryption technology that enables you to encrypt the entire hard disk, protecting the data if the computer is lost or stolen. The encryption keys are stored inside a chip on the motherboard, called Trust Platform Module or TPM. You can also elect to store the BitLocker key on a USB key. In order to use Bitlocker with a TPM, the TPM must be version 1.2 or higher. The computer will meet BitLocker requirements if a TPM chip is installed and the computer is labeled with a Windows 7 or Windows Vista compatible sticker. BitLocker also requires Windows 7 enterprise or Ultimate edition. Lastly it should also be remembered that a TPM cannot be later added to a computer that was purchased without TPM support. Recommended Requirements Although the minimum requirements will get you going with Windows 7, you may find it just doesn’t give you the best experience running everything. Whenever possible you should try and install Windows 7 on a computer that exceeds the minimum requirements. But as is often the case, you may not have the funds to build the most wiz bang system you desire. So here are some hardware recommendations based on common computer usage requirements.
+
+Basic Internet, Email and Document Editing
+If you are only using your computer to perform basic tasks like creating small documents, emails and web browsing you will find the minimum requirements for Windows 7 should be more than enough. A 100GB hard disk should be enough to run Windows 7, with 50GB the barest minimum. Windows 7 can be installed on as little as 16GB hard disk for the 32bit operating system but this gives you little room to expand. Certain features in Windows 7 will switch themselves off if the hard disk space starts to run out. With a 16GB system, once you start storing some documents, emails or installing additional programs this space will soon be gone. Whenever possible it is a good idea to install a larger hard disk than you think you will need, to give you room to grow. Although you can get by with 1GB of RAM for basic internet and word processing use, if your budget allows it you should consider 1.5 to 2GB. With 1GB of RAM, if you have multiple applications running at the same time, you may find the system is sluggish when switching between applications. If you start creating documents with lots of pictures in them, the system may slow down while trying to edit the document.
+
+24
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Hardware Requirements
+
+Video Editing
+Any type of video editing can place the system under a lot of load. If you are using basic software like Windows Movie Maker with low resolution video you will be able to do this with only 1GB of RAM. If you are working with HD video you will need at least 2GB of RAM. Video editing software like Adobe Editing Suite and Sony Vegas will need 2GB of RAM as a minimum, but at least 4GB is recommended. Adobe CS4 was the last version of Premiere Pro that would run on a 32bit system. Sony Vegas still supports 32bit. Remember that on a 32bit system as outlined in the last chapter, if you install the maximum of 4GB of RAM, just over 3GB of the RAM will be useable. Video editing systems can be real memory hogs. If you are using additional plugins and software the memory requirements may go up. It is not uncommon for professional editing systems to have over 10GB of RAM in them. The video files used in video editing can be quite large and will use a lot of hard disk space. If you plan on editing a lot of video files it may be worth investing in a second hard disk to hold these files. The hard disk that is installed for such video editing should run at 7200 RPM (Revolutions per minute) or greater. Any slower and you’ll find it will hinder the system’s ability to handle video editing, especially when editing High Definition video files.
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+25
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click Click on on the the ad ad to to read read more more
+
+Windows 7 Install to Secure
+
+Hardware Requirements
+
+Gaming Requirements
+Although some games will run on fairly low hardware specifications the majority will require more RAM than the minimum requirements for Windows 7. Below you can see two examples of hardware requirements for games released in 2012. A lot of games on the market will make good use of additional RAM and video if they are available.
+Game Diablo 3 CPU 2.4GHz single core AMD Athlon 64 X2 4400+ 1.8 Ghz Intel Core 2 Duo RAM 2GB Video NVIDIA GeForce 7800 GT or ATI Radeon X9150 or better Video card with at least 256MB of ram and Pixel Shader 3.0 support
+
+Mass Effect 3
+
+2GB
+
+If you want your computer to run the latest 3D games, you should consider getting a graphics card that supports DirectX 11. DirectX is software on the computer that handles tasks relating to fast hardware access which is particularly important in games. Newer versions of DirectX support newer features and offer better performance. Even though DirectX is software, different versions of DirectX require certain features on the video card to work. Thus the choice of which video card you buy will determine which version of DirectX you can run. The list of games that support DirectX 11 is growing and many new games are being released now that support DirectX 11. Ultimately the type of video card you choose to install with Windows 7 will be determined by your future computer usage.
+
+26
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Installing Windows 7 on a New Compute
+
+4	 Installing Windows 7 on a New Computer
+This chapter looks at installing Windows 7 on a brand new computer with no previously installed operating system. Before you start installing Windows 7, you need to have a license. The license gives you the right to install the operating system. Microsoft provides a number of different ways that the Windows 7 operating system can be licensed. The difference in each license determines what you can and cannot do. The different licenses that will be looked are OEM, OEM System Builder and finally Retail Full Package Product. Windows 7 OEM Original Equipment Manufacture or OEM is a copy of Windows that is shipped with the computer when it is sold. There are two type of OEM software. Large computer manufacturers such as IBM, Toshiba, Dell and HP to name a few supply an OEM DVD with the computer. This DVD may be labeled as a recovery DVD or install DVD. On the DVD it will have written, “For Distribution Only With a New PC.” The DVD can only be used with computers from that manufacturer and often will only work with the computer model the DVD was shipped with. An example of a DVD is shown below.
+
+27
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Installing Windows 7 on a New Compute
+
+These DVDs are often bundled with additional software and device drivers provided by the manufacturer. For example the DVD may come with additional software for burning optic disks. Some OEM DVDs may even come with trial software that lets the user install and use software for a time period. Examples of trial software include anti-virus and video editing software. If the user likes the software they have the option to later buy a registration key. OEM software bundled with the computer is the cheapest way to license Windows 7. Due to its low cost, OEM also offers the least amount of flexibility. OEM software is tied to the computer that it is purchased with. If you purchase another computer later on, you cannot use that OEM DVD to install Windows 7 on the new computer. Large PC manufacturers of computers have special deals with Microsoft for Windows 7 OEM software. To get the low cost, the PC manufacturer also needs to provide support for the operating system. Microsoft does not provide support for OEM installs of Windows 7.
+
+.
+
+28
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click Click on on the the ad ad to to read read more more
+
+Windows 7 Install to Secure
+
+Installing Windows 7 on a New Compute
+
+To ensure the computer is correctly licensed, a product key sticker needs to be attached to the computer. An example of a product key sticker is shown below.
+
+This sticker has a product key printed on it. This product key is what uniquely identifies the license associated with that computer. To help stop piracy, Windows 7 will contact Microsoft to confirm the installation of Windows 7 is legitimate. This process is called activation. This needs to occur within 30 days of installing Windows 7 otherwise Windows 7 will switch to reduced functionality mode. This mode significantly reduces what can be done with the computer until it is re-activated. When you perform an install using the OEM DVD from the manufacturer it will not ask for the computer to be activated. The OEM DVD has an install of Windows 7 that is pre-activated and does not need to be activated again. The computer you purchase may come with both a 32bit and 64bit OEM DVD of Windows 7. This gives you the choice of which operating system you want to run. The choice of operating system you can install is dependent on what the manufacturer has supplied with your PC. Since the install does not require activation, you can re-install the operation system multiple times without issue. Since OEM software is tied to the computer that it is installed to, it is limited to what kind of hardware upgrades can be performed. A major change in hardware such as changing the motherboard would require the computer to be reactivated. Since the computer is significantly different, the activation process may fail. This is because Windows 7 thinks the operating system has been transferred to another computer which would break the terms of the OEM agreement. If hardware like the motherboard was to be replaced, it would need to be replaced with a motherboard supplied by that manufacturer. This would ensure that Windows 7 would not ask for the computer to be reactivated.
+
+29
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Installing Windows 7 on a New Compute
+
+If the hardware has significantly changed and activation fails, after 30 days the computer will go into reduced functionality mode. While in this mode, this will allow you to login to the computer to activate Windows but not to do much else. When this occurs you will need to purchase a new license in order to get the computer to run again or replace the hardware in your computer with hardware for that computer supplied by the manufacturer. Microsoft considers too many changes in hardware to mean the computer may have been upgraded rather than simply repaired. This is to prevent the user continually upgrading their computer and keeping the original Windows 7 software. Small upgrades like installing additional RAM or changing the video card will not affect activation. If you find that Windows asks to be re-activated after an upgrade and it fails, you can always ring Microsoft and try to do a phone activation. At this point it is really up to Microsoft’s discretion if they decide to allow the activation. Otherwise, you will need to purchase another license in order to use Windows 7 on that computer. OEM System Builder The second type of OEM software you may encounter is referred to as OEM system builder. This is when parts of a computer are put together by a store and sold as a complete system. The concepts of the OEM system builder are the same as the OEM version. The license is tied to the one computer and cannot be transferred. The difference with the OEM system builder is that the copy of Windows 7 needs to be activated with Microsoft. Since the OEM system builder is not being sold through a company like the OEM version, Microsoft needs a way to ensure that Windows 7 has not been installed on multiple computers. The OEM DVD supplied by a large company, as discussed in the last section checks before the install that the computer it is being installed on is from that manufacturer. For this reason it does not require activation. Using an OEM system builder DVD means you can re-install the operating system multiple times but each time it must be activated with Microsoft. Microsoft does not release the exact details of how many times you can do this, but if you do this too many times in a short period of time the activation will fail. When activation fails you will need to phone Microsoft in order to activate the operating system. Again it is up to Microsoft discretion if they allow the copy of Windows 7 to be activated. Since the OEM system builder license is tied to the computer that it was sold with, like the OEM version this means you cannot upgrade hardware like the motherboard. If your motherboard fails and needs to be replaced, Windows 7 may ask to be reactivated again and the activation could fail. You will find that both online and retail computer stores will be happy to sell you an OEM version of Windows without selling you the computer. This is essentially the OEM system builder license which should be only sold with a new PC. This breaks the OEM license. It is up to you to decide if you want to take the risk of purchasing an OEM version of Windows 7 like this as Microsoft will consider this install not to be genuine. For more information about OEM licensing, refer the Microsoft web site at http://www.microsoft.com/oem
+
+30
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Installing Windows 7 on a New Compute
+
+Retail Full Package Product The full version of Windows 7 is also referred to as a box set and is available via retail outlets. This version costs the most but offers the most flexibility. Shown below is the box set for each edition of Windows 7. Remember that the starter edition is only available in certain countries.
+
+Starter
+
+Home Basic
+
+Home Premium
+
+Professional
+
+Ultimate
+
+With the full version of Windows 7 you can move the install from PC to PC. The only limitation is that you can only have Windows 7 installed on one computer at a time. This means unlike OEM versions of Windows 7, you can upgrade the hardware in the computer including the motherboard at any time. In the next chapter I will be covering how to go about upgrading to Windows 7. If you have the full version of Windows 7 you can use this to perform what is referred to as an in-place upgrade from Windows Vista. An in-place upgrade is when you retain all your documents, settings and applications after the upgrade. Microsoft also sells an upgraded version of Windows 7 which is a lot cheaper than the full retail version. In most cases you would purchase the upgrade version instead of the full version if you have a product that qualifies as an upgrade as this is a much cheaper option. The full version of Windows 7 also gives you the option to install the 32-bit or 64-bit version. If you change between the two different versions this does require a re-install, but you can change between the two at any time. License Summary There are a lot of rules about what you can and can’t do depending on how you purchase Windows 7. Below is a summary of what can be done depending on how you purchased Windows 7.
+OEM from PC manufacturer Can be transferred to another PC Activation required Install 32/64bit No No * No OEM System Builder No Yes No Retail Full version Yes Yes Yes
+
+* Some manufacturers may supply a 32-bit and 64bit OEM DVD with the computer.
+
+31
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Installing Windows 7 on a New Compute
+
+How to install When the computer is started up with the Windows 7 DVD, the computer should automatically boot from the DVD and start installing Windows 7. If the computer fails to boot off the optic drive, you may need to change a setting in the BIOS to ensure that the computer is configured to check the optic drive for bootable media. As shown in the example below, to change the BIOS settings on this computer you need to press F2 when the computer starts up. Different computers may require a different key to be pressed like escape or F10 to change the bios settings. In some cases you may get the option to press a key and select which device you want to boot from. In the example below, if I were to press the ESC key this would access the boot menu. Once in the boot menu, I could select the optic drive and the computer would boot off this drive.
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+32
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more Click Click on on the the ad ad to to read read more more
+
+Windows 7 Install to Secure
+
+Installing Windows 7 on a New Compute
+
+In some cases you may be installing Windows 7 on a computer that already has an operating system on it. When setup detects an existing operating system it will display the message “Press any key to boot from CD or DVD” as shown below.
+
+In order to boot off the DVD and not the existing operating system, you will need to press any key when given this prompt. Setup will give you a few seconds to press any key before it automatically boots from the existing operating system. The setup DVD gives you this option in case the setup DVD is left in the computer after the install. This will ensure the operating system on the drive will boot instead of setup being run from the DVD again assuming no key is pressed when prompted. Once the computer has booted off the DVD, setup will automatically run and start installing Windows 7. As shown in the bottom left image, Windows will ask which language to install, the time and currency format and the desired keyboard or input method that you want to use. Some DVD’s may contain multiple languages; others may contain only one language option. Once you make your selection and press next, the Install screen will appear as shown in the image below on the right. A “Repair your computer” option appears on this screen at the bottom. Choosing this option will launch a number of repair tools that may be able to fix an existing Windows 7 install that is not boot or having other problems. When you are ready to install Windows 7, press the button in the middle install now.
+
+33
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Installing Windows 7 on a New Compute
+
+On the next screen of the wizard you will be presented with a license screen as shown below to the left. It is a simple matter of selecting the tick box “I accept the license terms” and pressing next. The screen that follows shown below to the right, let’s you decide if you want to perform an upgrade or a custom advanced installed. You should select the upgrade option if you want to upgrade an existing operating system to Windows 7. In order to use the upgrade option, setup needs to be run from the operating system that you want to upgrade. Since I booted the computer from the DVD the upgrade option would not work if it was selected. In the next chapter I will look at how to perform an upgrade from an existing operating system to Windows 7. In this case since this is a new clean install, select the option at the bottom Custom (advanced).
+
+The next wizard screen shown below to the left, will ask you which hard disk you want to install the operating system on. In most cases, setup should detect your drive automatically. If it does not, you may need to select the option load driver located at the bottom on the left of this screen. The load driver option will allow you to load additional device drivers supplied by your manufacturer of the drive. This is rare and should only happen if you are using hard drives which are not commonly used. Most hard drives like traditional hard disks and even the new solid state drives should appear without any problems. This screen of the wizard also allows you to reformat and change the layout of the drive called partitioning. In most cases when installing Windows 7 you will select the unallocated space as shown below on the left and press next. This will mean setup will use all the available space on the drive to install Windows 7 on. As shown below on the right, Windows 7 will now copy files from the DVD to the drive. The setup process may reboot the computer a number of times. This is normal. The process depending on the speed of your computer generally takes less than half an hour.
+
+34
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Installing Windows 7 on a New Compute
+
+Once the install is complete, Windows 7 will boot for the first time and run the initial setup wizard. The first screen of this wizard is shown below on the left. This screen will ask you to configure a user name that will be used in Windows 7 and also to configure a computer name.
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+35
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more Click Click on on the the ad ad to to read read more more
+
+Windows 7 Install to Secure
+
+Installing Windows 7 on a New Compute
+
+It is up to you what username and computer name to create but generally a computer name should be meaningful enough to remember. For example if you are installing a home office pc you may want to set the computer name to office. If the computer is for the study you may want to call it study. The name of the computer is used to identify this computer on the network and can be changed later on if needed. The next screen of the wizard shown below on the right, will ask you to enter in a password for the user that you entered in the last screen. You also have the option at the bottom that will give a hint what the password is. This should be a hint that will easily jog your memory as to what the password is, but should not be too easy someone else could guess it.
+
+The next screen of the wizard shown below on the left will ask you for a product key to install Windows. This product key is located inside the Windows 7 packaging. If you purchased Windows 7 online, Microsoft emails the product key to you. Regardless of which edition of Windows 7 you purchased the product key entered here will determine which edition is installed. For example, if you lose your full retail Windows 7 Professional DVD and then reinstall using a friend’s full retail Windows 7 Home Premium DVD, you will be able to use this Home Premium DVD to install Windows 7 Professional. Microsoft includes all copies of Windows 7 on each DVD to make sure you have all the necessary files in case you decide to upgrade your edition of Windows 7 at a later date. Setup has the option ticked by default “Automatically Activate Windows When I’m Online.” If this is left ticked, Windows will attempt to activate itself with Microsoft 3 days after the install is completed. If you untick this option, you have 30 days in which to manually activate Windows. The next screen of the wizard, shown below on the right asks you how you want to keep windows up to date. This will be covered in more detail in chapter 9. If you are unsure which settings to choose just select, “Use Recommended Settings.” This will ensure that the latest updates from Microsoft are automatically downloaded and installed without needing to prompt you.
+
+36
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Installing Windows 7 on a New Compute
+
+The next screen of the wizard shown below on the left, allows you to determine which time zone that you want to use. The time zone can be changed later on if required. There is also an option to update the time automatically during daylight saving. It is recommended that you leave this option ticked so that Windows will automatically update the time to the correct time during daylight saving if it is in use in that area. The next screen of the wizard should ask you to configure the firewall settings for your network card as shown below on the right. If you have multiple network adapters like a wireless and wired adapter you may get multiple dialogs appearing. If Windows does not prompt you for these settings they may appear later on when you first login to Windows. If the computer is used at home or work choose the work or home option. The configuration is the same regardless which option you choose so don’t worry if the computer is used on both home and work networks. The public network option is different from the other options in that it will block any incoming connections like file sharing. The public network option is normally configured on a wireless adapter since wireless adapters are often used to connect to public networks like a wireless hot spot.
+
+The initial setup wizard should now be complete and you should be logged into Windows 7 for the first time. For a video demonstration of how to install Windows 7 on a new computer please refer to the following free video. http://itfreetraining.com/70-680/clean-install-of-windows-7
+
+37
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Upgrading to Windows 7
+
+5	 Upgrading to Windows 7
+If you are already running a Windows operating system, you may be able to upgrade that operating system to Windows 7. Depending on which type of Windows operating system you have purchased you may be able to upgrade your existing operating system to Windows 7 and retain all your documents, settings and applications. In some cases you will not be able to do this and will need to start again from a fresh install of Windows 7. This chapter looks at how to upgrade an existing operating system to Windows 7 and what to do if no upgrade path is available.
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+38
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click Click on the ad to read more Click on on the the ad ad to to read read more more
+
+Windows 7 Install to Secure
+
+Upgrading to Windows 7
+
+Buying an upgrade Shown above are the upgrade versions of Windows 7. These can be purchased off the shelf from a retail store or online. These are provided to customers who already own Windows Vista or Windows XP. The copy of Windows XP or Windows Vista can be an OEM version or full retail version. The important thing to remember is that you must have a licensed copy of Windows Vista or Windows XP to upgrade from. The upgrade is provided at a reduced cost when compared to the more expensive full version. If upgrading from Windows Vista, you may be able to upgrade to Windows 7 and keep all existing settings, software and documents. This is what is referred to as an in-place upgrade. If no in-place option is available, you will need to start again with a new copy of Windows 7 but you will still be able to purchase the upgrade version at a reduced cost. In-Place Upgrades supported Listed below are all the in-place upgrades that can be available from Windows Vista.
+Existing Windows Vista Operating System Windows Vista Home Basic Windows Vista Home Premium Windows Vista Business Windows Vista Enterprise Windows Vista Ultimate Upgrade to Windows 7 Home Basic, Windows 7 Home Premium, Windows 7 Ultimate Windows 7 Home Premium, Windows 7 Ultimate Windows 7 Professional, Enterprise, Windows 7 Ultimate Windows 7 Enterprise Windows 7 Ultimate
+
+* Upgrades from a 32bit version of Windows Vista to 64bit version of Windows 7 are not supported. * Upgrades from Windows XP require a clean install as an in-place upgrade is not supported. * Upgrades from earlier operation systems like Windows 9x and Windows 2000 require the full version of Windows 7.
+
+Before purchasing an upgrade of Windows 7, you should check which version of windows you are currently running and also if it is a 32 or 64bit operating system. An in-place upgrade from 32bit to 64bit is not supported. Also you will need to ensure that you purchase the correct upgrade for the Windows Vista edition that you are currently running. For example, as shown in the previous table, you cannot purchase the Windows 7 Home Premium Upgrade to upgrade from a Windows Vista Operating System running the Ultimate edition.
+
+39
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Upgrading to Windows 7
+
+To find out which edition of Windows you are running and if it is 32bit or 64bit, open the control panel from the start menu, select system and maintenance and then select system. As shown below, the two important pieces of information are underlined in red. In this case the edition of Windows Vista is Home Premium and the system is 32bit, so an in-place upgrade is supported to Windows 7 Home Premium and Windows 7 Ultimate. Remember that a change of architecture is not supported and thus the edition of Windows 7 must also be 32bit. For information about an in-place upgrade see the following link. http://windows.microsoft.com/en-us/windows7/upgrading-to-windows-7-frequently-asked-questions
+
+Windows 7 Upgrade Advisor
+Microsoft offers a free tool called the Windows 7 Upgrade Advisor. This will check your system before performing an upgrade for any potential problems. Besides checking the computer meets the minimum specifications, the upgrade advisor can also check devices on the computer and software. These include USB devices like hard disks and printers. To download the upgrade advisor, see the link below. http://windows.microsoft.com/en-us/windows/downloads/upgrade-advisor
+
+40
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Upgrading to Windows 7
+
+The Upgrade Advisor is supported on Windows 7, Windows Vista and Windows XP with Service Pack 2. In chapter 7 I will look at upgrading an existing Windows 7 edition to higher editions of Windows 7. If you decide to do this, the upgrade advisor can also be run on a Windows 7 computer before the upgrade to ensure that it meets the requirements for the new Windows 7 edition. If you are using the Upgrade Advisor on Windows XP, you will need to install .NET framework 2.0. This is available from the Microsoft web site.
+
+In this case, I have installed the Upgrade Advisor on a computer running Windows Vista 64bit. Once the Upgrade Advisor is running you will get the screen shown below. To start checking the computer to see if it can be upgraded to Windows 7 press the button start check.
+
+41
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Upgrading to Windows 7
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+42
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more Click Click on the ad to read more Click on on the the ad ad to to read read more more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Windows 7 Install to Secure
+
+Upgrading to Windows 7
+
+The Upgrade Advisor may take a few minutes to run. Once complete it will give you a report of what it has found as shown below. At the top it will indicate which edition of Windows 7 you can upgrade to. In this case the only choice of upgrade is to Windows 7 Ultimate. If you were running a lower edition you would have additional options to upgrade to. The Windows Upgrade Advisor will give you an indication of potential problems which may prevent the upgrade from going smoothly. In this case the graphics adapter does not support Aero and the computer has only 1 GB of RAM. This will not prevent the computer from being upgraded, although the graphics adapter will prevent Windows 7 from using the full graphical interface, most noticeably transparency and 3D effects. The 1GB of RAM will allow Windows to run but Microsoft recommends 2GB for better performance. Lastly you can see an information message telling you that some features when upgrading to Windows 7 will now not be available that were previously available when running Windows Vista. It is a good idea to take a good look through the report and see what problems it has found. The Windows 7 Upgrade Advisor will also check your hardware and software for any known problems. In some cases, a particular piece of software may be known not to work with Windows 7. In this case, the Upgrade Advisor will inform you of this and offer a solution. Software like antivirus software often needs to be upgraded to a newer version when changing operating systems. Before upgrading it is recommended to remove all antivirus software and reinstall the antivirus software after the upgrade as antivirus can affect the upgrade.
+
+Performing an In-place upgrade
+To start an in-place upgrade, place the DVD into the PC that you want to upgrade. The Autorun from the DVD should immediately and installation screen should appear. If this does not occur open Windows Explorer and then run the Setup Executable located on the DVD. Once the Installation screen appears as seen below to the left, choose the option, Check compatibility online. This will take you to a webpage in which you can download the Windows 7 Upgrade Advisor, as discussed earlier in the chapter. Once you are ready to start the upgrade select the option, Install now. The next screen of the wizard, shown below on the right, will give you the option to download updates before the upgrade starts. It is recommended that you download updates before starting the upgrade. The upgrade may work fine without the updates, however if you don’t install them you increase the risk of setup failing or crashing during the upgrade process.
+
+43
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Upgrading to Windows 7
+
+Once setup has begun the upgrade process, you will be asked to accept Microsoft’s licensing agreement on the next screen, seen below to the left. Once you have ticked the option to accept the license, the next screen will give you the option to perform an Upgrade or a Custom install. The Custom install option is essentially a clean install of Windows 7. If you select this option, the old Windows directory will be moved to a directory called windows.old. None of your settings or programs will be kept. To perform an In-place upgrade simply select the top option Upgrade. If you boot off the DVD rather than running the setup from the operating system, this option will also be available, but when selected it will advise setup needs to be run from the operating system that you want to upgrade from.
+
+In some cases you may get an additional dialogue like the one shown below to the left. This is an indication that features like ultimate extras have been discontinued in Windows 7 and will no longer be available after the upgrade. As seen on the screen below to the right, Windows will start copying the files for Windows 7 and transfer your settings and software to Windows 7. The process may take up to a few hours to complete.
+
+44
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Upgrading to Windows 7
+
+During the upgrade process the computer may reboot several times. Once the upgrade process is complete Windows will restart and prompt you for the product key as shown below on the left. You can enter in the product key here or press skip to enter it later. If you don’t enter a product key you still have 30 days in which enter to enter one and active Windows. If you do not do this, after the 30 days has lapsed Windows 7 will change to reduced functionality mode. In this mode you will not be able to do much at all other than activate the operating system with Microsoft. The next screen, shown below to the right will ask you to select the time zone for Windows and set the date and time.
+
+AXA Global Graduate Program
+Find out more and apply
+
+45
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click Click on the ad to read more Click on on the the ad ad to to read read more more
+
+Windows 7 Install to Secure
+
+Upgrading to Windows 7
+
+If a network adapter is detected, Windows will prompt you to select the firewall settings that are to be used for that network adapter. Home and Work use the same settings, allowing you to easily use a work pc on a home network. If your network adapter is connected to a public network like a wireless hotspot, you should select the option public network. This option offers additional security by blocking all incoming connections. You should not select public network on a home or work network as this may prevent other computers on the network accessing that computer.
+
+After the computer has been upgraded to Windows 7, the old installation of Windows can be found in a directory called Windows.old. If the upgrade process fails, setup will use the data in this directory to roll back to the previous installed version of Windows. Be warned however, once you login into Windows 7 for the first time, you will not be able to roll back to the previous operating system.
+
+46
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Migrating to Windows 7
+
+6	 Migrating to Windows 7
+In some cases you may want to upgrade to Windows 7 but there is no In-place upgrade available. For example you may want to upgrade from Windows Vista 32bit to Windows 7 64bit. Another common scenario is if you purchase a new laptop to replace an old one. When no direct upgrade path is available you can perform what is called a migration. A migration copies files and settings from one computer to another. This chapter looks at two methods of migrating documents and settings. These are Side by Side and Wipe and Load. Side by Side is generally performed when the two computers are next to each other, although it is not necessarily a requirement. Wipe and Load is when all the files and settings are backed up from the computer and the computer is physically erased when a new operating system is installed. Once the new operating system is running, the backed up files and settings are transferred from the backup to the new operating system. Migrating to Windows 7 Migrations are often performed for the following reasons. 1)	 The operating system is before Windows Vista and thus no upgrade is supported. 2)	 The operating system is not the same architecture, e.g. one is 32bit and the other is 64bit. 3)	 A new computer is purchased, for example a new laptop to replace the old one. 4)	 The user wants to start afresh with a new operating system. This will ensure any problems with the old operating system are not carried over to the new operating system. When you are facing one of these situations, you will need to copy your documents and settings over manually or use a transfer tool like Windows Easy Transfer. Windows Easy Transfer Windows Easy Transfer was formally called File and Settings Transfer Wizard in Windows XP. File and Settings Transfer Wizard is not compatible with Windows Vista or Windows 7. You can get the latest copy of Windows Easy Transfer for Windows Vista and Windows XP from the following web site. http://windows.microsoft.com/en-us/windows7/products/features/windows-easy-transfer It is a good idea to check you have the latest version of Windows Easy Transfer before using it. Windows 7 comes with Windows Easy Transfer installed by default. If your computer is up to date with the latest software updates from Microsoft, Windows Easy Transfer should also be up to date.
+
+47
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Migrating to Windows 7
+
+Windows Easy Transfer can copy your files and settings from one computer to another; it will not copy over your applications. Once you have copied over your files and settings you will also need to reinstall any applications. Windows Easy Transfer can transfer the following: •	 Files and folders – This includes documents, photos, music and email •	 Users accounts •	 Application settings •	 Windows configuration settings It should be noted that while a lot of application settings are copied over with Windows Easy Transfer, some non-Microsoft applications may not copy over using Windows Easy Transfer. Windows Easy Transfer supports the following methods of transferring the files from one computer to another. •	 USB-to-USB bridge cable known as the easy transfer cable •	 CD/DVD, USB flash drive, external hard disk •	 Wired or wireless network
+
+48
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click Click on the ad to read more Click on on the the ad ad to to read read more more
+
+Windows 7 Install to Secure
+
+Migrating to Windows 7
+
+Easy Transfer Cable
+The easy transfer cable is a USB to USB cable that can be purchased from many computer shops. An example of an easy transfer cable is shown below. To use the cable, one end of the cable is plugged into the computer that you want to transfer from and the other to the computer you want to transfer to. It does not matter which end is plugged into which computer. The easy transfer cable provides a physical path to transfer data between the two computers.
+
+Wired networking
+If you have a network you can simply plug both computers into the same network to perform the transfer. A lot of home DSL devices allow multiple computers to be plugged into the same device, allowing them to communicate with each other. If you do not have any devices that allow your computer to be networked like a network switch, you can attempt to plug one computer into the other directly using a network cable. A standard network cable sends and receives data over the same wires. In order for a standard network cable to work, one of the network cards needs to support swapping it sending and receiving wires over. All modern network cards should support this feature and only one computer needs to support this feature in order for this to work. If this does not work, you will need to use a special network cable called a cross over cable. A cross over cable switches the send and receive wires over inside the cable allowing the computers to communicate with each other. If both computers are configured to automatically configure their networking they should detect each other without an issue. If they do not, try rebooting both computers.
+
+Wireless networking
+If both computers are connected to the same wireless hot spot they can transfers data using the wireless network. In some cases one of the computers may be connected to a wired network and the other to the wireless. As long as the computers have a direct networking path between each other Windows Easy Transfer will work. If no wireless hot spot is available, the two computers can be configured to talk directly to each other by creating an Ad-Hoc network. An Ad-Hoc network is when multiple computers are connected to each other without a centralized wireless access point.
+
+49
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Migrating to Windows 7
+
+CD/DVD, USB Flash Drive, External Hard Disk
+All the above methods involve a side by side migration, in which two computers communicate with each other. Using media like CD/DVD, Flash Drive or external hard disks data can be stored for later use. This data can be used with a Wipe and Load migration. Storing data on media separate to the computer means the computer can then be reformatted. After the computer has been formatted and a new operating system installed, the data and settings can then be transferred to the new operating system. USB flash drives tend to have a small amount of space, compared with other storage. However, if you are transferring only a small amount of files, then a USB flash drive may be large enough.
+
+Demonstration transferring using the network
+In this demonstration I will transfer documents and settings from a computer running Windows XP to Windows 7. In this scenario, there is no In-place upgrade available to upgrade a system running Windows XP to Windows 7. A work around is to upgrade the Windows XP system to Windows Vista and then Windows 7, however this is not recommended. A workaround like this will not be possible if one system is running a 32bit operating system and the other is running 64bit. It is also not possible to do this if the new computer is replacing the old computer, for example if you purchase a new laptop to replace an older laptop. First of all I will run Windows Easy Transfer on the old computer. Since the computer is running Windows XP I need to download and install the Windows Easy Transfer from the following web site. http://windows.microsoft.com/en-au/windows7/products/features/windows-easy-transfer Windows XP comes with software called Files and Settings transfer wizard. This software is not compatible with Windows 7 and should not be used. Once installed run Windows Easy Transfer, you be given the screen shown below on the left. This screen reminds you that Windows Easy Transfer can transfer user accounts, documents and settings but not applications. Once past the welcome screen, the next screen shown below on the right, will ask how you want to transfer the settings. If you have an easy transfer cable, plug this into the two computers. If you are using the network, ensure that both computers are connected to the same network or connected directly to each other using a network or cross over cable. If the computers are not able to be directly connected to each other, you can store the data from Windows Easy Transfer to a temporary location like an external hard disk or flash drive. In this example, both computers are connected via the same network so I will choose the option, “A network.”
+
+50
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Migrating to Windows 7
+
+The next screen of the wizard shown below on the left, asks if this computer is the old computer or the new computer. Since this computer is running Windows XP it cannot be the new computer so the option “This is my new computer” is hidden. You could also use Windows Easy Transfer to transfer documents and settings from one Windows 7 computer to another. This is useful for example, if you use a desktop PC and later purchase a laptop. The next screen of the wizard shown below on the right gives you a security code. One this code has been entered in on the other computer a connection between the two computers can be established.
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+51
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click Click on the ad to read more Click on on the the ad ad to to read read more more
+
+Windows 7 Install to Secure
+
+Migrating to Windows 7
+
+That’s it for the Old computer running Windows XP. To finish the transfer, Windows Easy Transfer next needs to be run on the new computer. Like the Old computer, you need to skip the welcome screen and select the network option when asked. Once past these two screens, like the Old computer you will be given the screen below on the left. Since this is the new computer I need to select the option, “This is my new computer.” The next screen of the wizard shown below on the right asks to confirm that Windows Easy Transfer has been installed on the other computer. Assuming that it has been installed, select the option, “I already installed it on my old computer.”
+
+The next screen of the wizard shown below on the left, asks you to confirm that the Easy Transfer Wizard is running on the old computer. If it is not, you can still install and run it on the old computer before pressing next. The next screen of the wizard shown below on the right asks for the transfer key. This is displayed on the old computer and is used to create a secure connection between the two computers.
+
+52
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Migrating to Windows 7
+
+Both computers will now establish a connection between each other. As shown below on the left, Windows Easy Transfer will give you the option of which files you want to transfer. If you have multiple users on the old computer, you will be given the option to select which users that you want to transfer. There are also advanced options if you want to have more control over what gets transferred. Once you have decided what to transfer, the next screen of the wizard shown below on the right will show you what was transferred and what software it detected is not on the new computer that is on the old computer. It is worth taking the time to have a look at this list to determine which software you will need to reinstall on the new computer. In a lot of cases, Windows Easy Transfer has copied the settings over for that software, so once the software has been installed it may be able to use these settings.
+
+This concludes how to transfer documents and settings to your new Windows 7 computer using Windows Easy Transfer. It is great software that can help you upgrade to Windows 7 when an In-place upgrade is not available or when you need to transfer your document and settings to a completely new computer.
+
+53
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Upgrading Between Windows 7 Editions
+
+7	 Upgrading Between Windows 7 Editions
+There are six different editions of Windows 7, four of which are available via retail to the average home or small business user. If after purchasing a particular Windows 7 edition you find you need additional features, Microsoft allows you to upgrade to a higher edition of Windows 7 by buying an upgrade through a retail outlet or online through Microsoft. The upgrade is performed using a wizard called Windows Anytime Upgrade. Windows Anytime Upgrade Windows Anytime Upgrade is used to upgrade from one edition of Windows 7 to another. Shown below are the upgrades that can be performed using Windows Anytime Upgrade. In order to upgrade Windows 7 to a higher edition, you require an upgrade Key. This can be purchased online or via retail. In some cases the upgrade key can only be purchased online.
+Currently running Windows 7 Starter Windows 7 Home Premium Windows 7 Professional
+* Only available online. ** Windows Anytime Upgrade does not allow you to upgrade from 32bit to 64bit.
+
+Home Premium X
+
+Professional X* X
+
+Ultimate X* X X*
+
+Before starting the upgrade, you should run Upgrade Advisor, as described in chapter 5. This will check that the current install of Windows 7 meets the requirements for the new edition. Since Windows 7 is already installed, it will mainly be checking that there is enough hard disk space free to perform the upgrade. The upgrade advisor is included with Windows 7 and does not need to be downloaded. Once you run Windows Anytime upgrade from the start menu, you will be given the following dialog box as shown below. If you have already purchased an upgrade key, select the first option, “Go online to choose the edition of Windows 7 that’s best for you”. This option will show you all the upgrades that are available, their costs and the features that you will gain by purchasing this upgrade. Once you have purchased an upgrade key, select the second option, “Enter an upgrade key.”
+
+54
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Upgrading Between Windows 7 Editions
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+55
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click Click on the ad to read more Click on on the the ad ad to to read read more more
+
+Windows 7 Install to Secure
+
+Upgrading Between Windows 7 Editions
+
+Once you select the option, “Enter an upgrade key,” you will be given the dialog shown below. Key in the product key purchased online/retail. Once the product key has been entered, the product key will be verified to ensure that it is valid before you are asked to accept the license agreement. Once the license agreement has been accepted you will be given a final confirmation asking you if you want to upgrade to Windows 7. Once upgrade is selected, Windows 7 will be upgraded to the new edition. The process should only take about 10 minutes. Windows anytime upgrade will also download any updates before starting the upgrade. If you want to speed up the process, it is a good idea to install all Windows updates that you can before starting Windows Anytime Upgrade. Once the upgrade has been completed, Windows 7 will automatically start rebooting.
+
+Once Windows 7 has restarted, Windows 7 will be running the new edition that you purchased. You will not be prompted for any additional media during the upgrade process. All the files required for the upgrade were copied to the hard disk during the original Windows 7 install. For more information on Windows Anytime Upgrade see the following link. http://windows.microsoft.com/en-AU/windows7/products/windows-anytime-upgrade
+
+56
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Application Compatibility
+
+8	 Application Compatibility
+Whenever you upgrade to a newer operating system, there is always a risk that your old software may not work correctly on the new operating system. Windows 7 is more of an incremental update to Windows Vista rather than offering a whole host of new features. Because of this, a lot of software that worked on Windows Vista will work on Windows 7 without any issues. Though software such as anti-virus software tends to be very operating system specific, so you may need to obtain a Windows 7 version of the software. This chapter looks at some of the options in Windows 7 that allow software to run that may not be fully compatible with Windows 7. Windows 7 Compatible Logo When looking to buy software or hardware for Windows 7 have a look to see if it has a Compatible with Windows 7 logo, as shown below.
+
+Having this logo means the software or hardware meets a number of criteria to ensure that it works with Windows 7. These include the following. •	 Works with all editions of Windows 7, 32bit and 64bit. •	 Installs seamlessly. No need to download additional software or make system changes. •	 Uses device drivers that are digitally signed to ensure they have not been modified. •	 Tested to ensure that it is robust. This does not guarantee it will not crash but it should be reliable. Not all software and hardware on the market will have this logo. This does not mean that it will not work with Windows 7; all this means is the manufacturer has not put their product through the Windows 7 Compatible program. When purchasing software, look to see if the product supports Windows 7. If the product has the Windows 7 compatible logo this is a bonus.
+
+57
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Application Compatibility
+
+Configure Program Compatibility Options
+In some cases you may have old software that is not compatible with Windows 7. It is best to check with the manufacturer of the software to see if there is an update for that software for Windows 7. In some cases, the manufacturer may offer a free update to Windows 7. Other times these upgrades will cost money or the manufacturer has decided to discontinue the product and thus not provide any more support. If you install the software on Windows 7 and start experiencing problems, there are a number of compatibility options that can be configured that may allow this software to run even though it was not originally designed for Windows 7. To access the compatibility options, right click the application and select properties for the application as shown below.
+
+58
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Application Compatibility
+
+There are a lot of compatibility settings that can be configured for the application as shown below. These options can do anything from making the application think it is running on a different operating system to change the way it is displayed. I will go through each of the options individually.
+
+Run this program in compatibility mode for: This allows you to configure the operating system that the application will detect as running. Some setup programs will not run unless they detect a particular operating system. This setting also changes how certain functions in the operating system work to make them more compatible with previous operating systems. If you are receiving an error when running the application stating that it was not designed to run on this particular operating system, selecting this option may fool the application into thinking it is running on the operating system it was designed for. Run in 256 Colors: This forces the application to run using only 256 colors. This may be required for very old DOS based applications.
+
+59
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Application Compatibility
+
+Run in 640×480 screen resolution: This forces the application to run in 640×480 resolution. If the application is having display problems you may need to configure this. Generally only used for old DOS based software. Disable visual themes: If the application title bars or Windows are not displaying correctly you may need to disable visual themes. This will disable the new themes options which may be causing the problem. Disable desktop composition: This option disables the Aero looking glass desktop effects such as transparency and live previews. This may be required if the application is not displaying correctly. While an application with this setting enabled is running, Aero is disabled for all applications and will not be enabled again until that application is closed. Disable display scaling on high DPI settings: If the font in the application is the wrong size, making text too large to fit in an icon for example – enabling this option will disable font scaling and should make the text in the application appear correctly. Run this program as an administrator: This option will run the application with administrator’s rights. Some old software, in particular software for Windows XP and earlier, may need access to parts of the operation system that a regular user does not have access to. This option will run the application as the administrator, giving them access to all areas of the operating system. Please refer to the following free video for a demonstration of application compatibility options. http://itfreetraining.com/70-680/application-compatibility XP Mode If you are running Windows 7 Professional, Enterprise or Ultimate edition there is another option which may allow your old applications to run correctly using Windows 7. This is called XP Mode and is available for download from the following address. http://windows.microsoft.com/en-AU/windows7/products/features/windows-xp-mode XP Mode works by running a virtual computer on the same computer that is running Windows 7. This virtual computer runs Windows XP with service pack 3. Since the virtual computer is considered to be a separate computer system it will use up RAM, CPU and hard disk space on the computer. XP Mode is difficult to configure and setup. Because of the extra configuration required and additional resources required, it should be considered as a last resort to getting your old applications to run. Since XP Mode uses a virtual PC the interface between the virtual machine and Windows 7 can be a little difficult to use. Please refer to the following free video from a demonstration of XP Mode http://itfreetraining.com/70-680/xp-mode
+
+60
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Keeping Windows 7 secure, up to date and virus free
+
+9	 Keeping Windows 7 secure, up to date and virus free
+As soon as you connect your computer to a network, especially a public network like a wireless hotspot, there is a risk of the computer becoming infected by unwanted software. Historically this software would have been a virus. Nowadays, there is a lot of unwanted software out there which may infect your computer like a virus does, that is not classified as a virus. This software may include spyware software which records the sites you visit and software that displays unwanted popup ads on your computer. This chapter shows you how to keep your computer secure and protected from harm, by ensuring updates are installed, a firewall is configured and anti-virus software is kept up to date. Windows update New vulnerabilities are discovered in computers all the time. These vulnerabilities may be discovered by Microsoft, a third party and in some cases by someone who deliberately writes malicious software. Sometimes vulnerability may be found but no one has discovered a way to exploit that vulnerability as yet. Think of it like leaving a Window open on the tenth floor of a building. It is possible for someone to access the building through that Window, but until they work out a way to get to the tenth floor they cannot make use of the open Window. This is why it is important to keep Windows up to date with the latest updates. Keeping your system up to date will mean your system may already be protected from the latest malicious software even before it is created. In order to keep your Windows system up to date you need to ensure that Windows Update is configured and setup correctly. To configure Windows Update, open the control panel and then select the option System and Security. Once you have opened System and Security, select the option Windows Update. You can also open Windows Update by typing Windows Update from the Start Run box. Either way, you should get the screen shown below.
+
+61
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Keeping Windows 7 secure, up to date and virus free
+
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+62
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click Click on the ad to read more Click on on the the ad ad to to read read more more
+
+Windows 7 Install to Secure
+
+Keeping Windows 7 secure, up to date and virus free
+
+Option 1 shown above, “Check for updates,” will force a manual check to see if any updates are available. This can be done at any time. Point 2 above shows you how many updates are available but have not yet been installed. If you select this, you can choose which updates to install or install all of them. The button “Install updates” will installs the selected updates. After updates have been installed, Windows Update may ask for the computer to be rebooted. When you select the option, Change Settings you will get the screen shown on the next page.
+
+The top option determines how updates should be installed. There are four options you can choose from. Install updates automatically (recommended): This option automatically downloads updates when they become available and installs them. You should select this option if possible to ensure your computer is automatically kept up to date.
+
+63
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Keeping Windows 7 secure, up to date and virus free
+
+Download updates but let me choose whether to install them: This option will download Windows Updates automatically but will not install them. In order to install the updates the user will need to choose which updates to install. Use this option if you want control when updates are installed or if you want to choose which updates are installed. Check for updates but let me choose whether to download and install them: This option will still check for updates but lets the user decide which updates to download and install. If you have a small amount of bandwidth you may want to use this option. This way, large updates will not be downloaded when using a slow connection. The user may decide to download the updates when a faster network connection becomes available or in off-peak times. Never check for updates (not recommended): The last option switches off checking for updates. This is not recommended. Updates will not be installed and the user will not receive notifications telling them when new updates are available. In order to download and know if updates are available the user must manually check for updates. This option allows the user to decide when updates should automatically be installed. By default this will be done every day at 3am. If the computer is not on at 3am, the updates will automatically be installed when the computer starts up next. When Windows first starts up a lot of software needs to be loaded by the operating system and the user many decide to open some applications straight away. To make the computer more responsive, the installation of Windows updates will be delayed after start up to allow software on the computer time to start up. Option 3, “Give me recommended updates the same way I receive important updates,”, this downloads other updates from Microsoft that are recommended but not considered as important and do not affect the security of the computer. These include program updates and device driver updates. It is a good idea to install these updates even though they may improve your Windows experience but will not affect the security of the computer. The option “Allow all users to install updates on this computer” allows users that are nonadministrators to install Windows updates. Since Windows updates come from a trusted source, in most cases you will leave this option on as it is better for a user to install an update than it is not to install the update at all. For information about Windows Update, see the following link for the Microsoft FAQ. http://windows.microsoft.com/en-us/windows-vista/Updates-frequently-asked-questions
+
+64
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Keeping Windows 7 secure, up to date and virus free
+
+Firewall
+A firewall is software or hardware that is designed to keep a network or computer secure. It does this by stopping unwanted or unasked for traffic. In many cases your connection to the internet will already have a firewall. For example, home DSL devices often have a firewall included and if you are connect to a company network they will have a firewall. Other times there may be no firewall, for example when you are using a wireless hotspot. There is also another case that you may want to consider. This is when your computer is on the same network as another computer that is infected. This is why it is important for an operating system like Windows 7 to have a firewall to protect the computer from local threats and threats from public networks like a wireless hotspot. A firewall is considered essential in modern computing. If a vulnerability exists in the operating system, the firewall may stop an attack trying to use that vulnerability and prevent your computer from becoming compromised.
+
+Windows Firewall
+The Windows Firewall is included with Windows 7 and is regarded as quite a secure firewall by many computer users. The firewall was originally added to Windows in 2004. Since the Windows Firewall has been around such a long time, it is quite a secure robust product with good software support. For these reasons, many Windows 7 users will use the Windows Firewall rather than installing a firewall from another manufacturer.
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+65
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click Click on the ad to read more Click on on the the ad ad to to read read more more
+
+Windows 7 Install to Secure
+
+Keeping Windows 7 secure, up to date and virus free
+
+To access the Windows Firewall type in Windows Firewall from the search box in the start menu. The Window Firewall can also be accessed by opening the control panel from the start menu, selecting System and Security and then selecting Windows Firewall.
+
+The control panel for the Windows Firewall is shown above. The Windows Firewall has two groups of settings. One group of settings is used for home and work networks, while the other group of settings is used for public networks. The control panel for the Windows Firewall will show you which network locations are in use. In this case, only the home or work location is in use. The public network location is currently not connected. It is not uncommon to use wireless adapters to use the public network location and wired adapters used for a home or work location. If you want to change the location that the Windows Firewall is using, select the option at the bottom left, Network and Sharing Center. Network and Sharing Center allows you to configure additional options for networking including the network locations used for each connection. As shown below, you should be able to see a list of the active networks. In this case, the active network is connected to the home network. To change it, it is a simple matter of selecting home network and then selecting the network you want. There are three options given – home, work or public. Essentially home and public use the same setting so it does not matter which one you choose. This allows a work computer to be easily used on a home network.
+
+66
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Keeping Windows 7 secure, up to date and virus free
+
+As shown above, there are a number of settings inside the Windows Firewall control panel that can be configured. Allow a program or feature through the Windows Firewall: This will allow you to configure which applications and traffic will be allowed through the firewall. Change notification settings and Turn Windows Firewall on or off: Both these options take you to the same screen. Here you can switch the firewall on or off. By default, the Windows Firewall will prompt you when it blocks network traffic from an application. This allows you to know that traffic was blocked and gives you the option to allow the traffic through the firewall. If you do not want Windows to do this, you can switch this option off in here. There is also an option to block all incoming network traffic. You would normally use this option on insecure network like a wireless network to give your computer additional security. Advanced Security: The advanced settings option opens Windows Firewall and Advanced Security. This is an advanced tool that gives you a lot more control over what traffic is allowed and blocked by the firewall. In most cases the standard Firewall control panel should have more than enough options for the average user. For the majority of Windows users the Windows Firewall provides the basic network protection required to protect your computer. There are also other firewall products on the market, some are free and some come at a cost. Regardless which product you choose, you should ensure that a firewall is installed and configured on your Windows 7 computer.
+
+67
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Keeping Windows 7 secure, up to date and virus free
+
+Anti-Virus and Malware
+The major of people have heard the term virus. A virus is a piece of software that infects the computer without the user’s knowledge. Once the computer is infected it may do things like waste ram, create random data on the hard disk or worse delete or corrupt your data files. Over the years malicious software has been developed that is simpler in nature to a virus and does not work in the in same way as a traditional virus. Malicious or unwanted software is often grouped together and can be referred to as Malware. Listed below are a few examples of software that come under the Malware heading.
+
+Spyware
+Spyware is designed to infect your computer without your knowledge like a traditional virus. Spyware reports back information about your computer usage to a third party. For example, it may upload your entire web browsing history to a third party. It is not designed to cause harm to your computer like a virus but may unintentionally do so. The harm can come from slowing down your network traffic when it is uploading data to the third party, using extra memory and processing power and in some cases crashing the computer. Since spyware installs on the computer without user knowledge, it will often bypass correct install procedures and forces its way onto the operating system. The Spyware is often not compatible with different software versions and operating systems or just poorly written and for this reason can cause computer crashes.
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+68
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click Click on the ad to read more Click on on the the ad ad to to read read more more
+
+Windows 7 Install to Secure
+
+Keeping Windows 7 secure, up to date and virus free
+
+Trojan Horse
+A Trojan horse is different from a lot of other Malware software in that it is a standalone piece of software that is often attached to another piece of software. The name Trojan horse comes from Greek mythology. In Greek mythology a wooden horse was built so that soldiers could hide inside. A Trojan horse in computing is software that will often present itself as something useful that the user may want. Since the user may feel the software is useful, they may run the software and unknowingly run the Trojan horse software that is contained within. Since the user has run the software, the Trojan software has tricked the user into allowing it to run on the computer and thus gain access to the computer. Once the Trojan horse software has run, it may do anything from creating a back door for a hacker to access the system, data theft or record keystrokes on the computer. An example of a Trojan Horse may be a free screensaver. Once the screen saver is installed it also installs a number of hidden programs. In a lot of cases the software will appear to install correctly. The user will get a fully functionally screen saver but be unaware that additional software was installed. For this reason, it is important that any software that you install comes from a trusted source.
+
+Adware
+Adware is software that installs itself without the user’s knowledge. It may attach itself to useful software or silently install itself when a user visits a website using a system vulnerability. Once installed, the software will display ads on the user’s computer. The person who wrote the software are attempting to generate revenue for themselves by displaying the ads. Adware can fast become very annoying to the user with endless popup ads appearing while the user is trying to work.
+
+Anti-Virus and Malware Software
+Nowadays when attempting to keep your computer secure, you should understand that you are no longer looking for just anti-virus software. Software should be able to stop and remove adware, spyware, Trojan horses and viruses. There are lots of free products on the market as well as commercial products. Some software offers a complete solution while other software may only address particular types of Malware. Some software comes with additional features like a firewall and webpage screening.
+
+69
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Keeping Windows 7 secure, up to date and virus free
+
+There are a lot of different products on the market that offer anti-virus and Malware features. Shown below is the current market share for each of the main products. In this chapter I will have a closer look at Microsoft Security Essentials, AVG, Avast! and Norton Antivirus. Figures from OPSWAT. http://OPSwat.com
+
+Microsoft Security Essentials
+Microsoft Security Essentials is a free product for the home user. If you run a small business, you can use it on up to 10 PC’s for free. Since its release in late 2009, Microsoft Security Essentials has received a lot of positive reviews. According to The Security Industry Market Share Analysis report of June 2011, published by OPSWAT Inc., Microsoft Security Essentially is in the top 4 most used antivirus products used in the world. For business, Microsoft Security Essentials lacks centralized management features. This makes it not a good choice for large businesses that want to manage their software from a central point. Microsoft provides another product called Microsoft System Center 2012 Endpoint Protection which provides centralized antivirus software. Microsoft Security Essentials is an easy product to install and is available for download from the following web address. http://windows.microsoft.com/MSE
+
+70
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Keeping Windows 7 secure, up to date and virus free
+
+AVG Anti-Virus Guard better known as AVG was first released in 1992 in the Czech Republic by Grisoft. AVG offers a free edition of their software as well as two commercial versions. The first commercial version offers the same features as the free editions and also offers additional protection if you are sharing files. There is also a commercial AVG version called AVG Internet Security. This version has the same features as the other two, but also includes an email spam blocker and the AVG firewall. The free version is very functional and is used by a large part of the anti-virus market. It is available for the home user but not for business or organizations. AVG does however offer discounts for government, education, charities and churches. AVG also offers a centralized management tool which is useful for businesses that want to control anti-virus from a central location. Avast! The Avast! product is a free antivirus product which in its official name includes an exclamation mark at the end. The free product offers good protection from viruses and Malware. There is also a Pro version which offers additional features to protect you while buying products online and a sandbox feature. The sandbox features allows you to conduct web browsing and run programs in what is referred to as a sandbox. A sandbox is a virtual machine that runs separately from the rest of the operating system. If the sandbox was to become infected, the sandbox is destroyed when the application closes. This is a great feature as even if a virus or malware is downloaded, it is isolated from the rest of the operating system, preventing it from being infected. There is also an internet security version, which includes a firewall and email spam protection. Norton AntiVirus Norton AntiVirus is sold by Symantec Corporation and has no free product. It is however often bundled with new computers giving the user a trial period in which to try out the product. If they are happy with the product they can buy a subscription later on. According to AV-Test.org (independent antivirus software testing website) functionality of Norton AntiVirus base product is similar to free products like AVG and Avast! Norton also offers two additional products called Norton Internet Security and Norton 360. Norton Internet Security offers additional features like identity theft protection and paternal controls to manage which website your children can browse. Norton 360 offers all the features of the other two products plus the ability to backup the computer and a PC turner. The PC Tune feature is meant to speed up the running of your computer.
+
+71
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Keeping Windows 7 secure, up to date and virus free
+
+Summary
+A lot has been covered in this chapter. To summarize in order to keep your computer secure ensure that Windows updates are being installed on the computer. This will ensure that any known vulnerabilities in Windows 7 will be fixed by installing updates as soon as they come out. Also by installing and activating a firewall, this will help protect your computer from attack. Lastly ensure that antivirus software is installed and kept up to date at all times and enabled. There are many free and commercial products available. For a lot of users many of the free products available are more than capable at protecting a computer. If you are considering buying a commercial product though, consider which additional features you will get. Besides the basic features of antivirus the free products, the commercial products offer additional protect like protecting you while making online transactions and protecting your e-mail from spam.
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+72
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click Click on the ad to read more Click on on the the ad ad to to read read more more
+
+Windows 7 Install to Secure
+
+Backing Up Windows 7
+
+10	 Backing Up Windows 7
+This chapter looks at the options that are available in Windows 7 for backing up your system. In some cases additional software may be supplied by the manufacturer of your computer to backup it up. If this is not the case, Windows 7 comes with software called “Backup and Restore”. Backup and Restore provides basic backup functionality for your documents and also allows the computer to be recovered from a complete loss, such as a hard disk failure or if a computer is lost or stolen.
+
+Backup Destinations
+Backup and Restore supports a number of different backup locations outlined below. Backup and Restore does not support backing up to the following. •	 Tape drives •	 Backing up to the same drive as Windows 7 •	 Backing to drives encrypted with BitLocker
+
+Second Hard disk
+If you have a second hard disk in your computer, either internal or external, Backup and Restore can use this second drive for backups. The hard drive does not need to be the same size as the original hard disk it is backing up; it only needs to be large enough to hold the backup.
+
+Optic Drive
+Backup and Restore supports backing up to optic media like CD, DVD and Blu-ray. Backup and Restore supports splitting the backup over multiple discs. With the low price of optic media, this can be a cheap way to backup your system if you have are happy to repetitiously insert one disc at a time during backup. Since the backup may require more than one disc, if you use the scheduling option in Backup and Restore, you will only be able to backup your documents. To backup the complete system to optic media, you need to manually run a backup each time you want to backup everything.
+
+Network
+If you are running Windows 7 Professional, Enterprise and Ultimate Backup and Restore also gives you the option to backup Windows 7 to the network. Backing up to the network requires a network share. This can be on another computer or a network device like Network Attached Storage (NAS). The backup is generally slower than other options due to the speed of the network.
+
+73
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Backing Up Windows 7
+
+USB Flash Drive
+USB Flash Drives are supported however due to the small amount of space on a USB Flash Drive compared with other media you will not be able to save a complete backup on flash media. This means only documents can be backed up on the flash drive, not system or program files.
+
+Performing a Backup
+To setup Backup and restore, go to the Control Panel from the Start Menu, then System and Security, then Backup and Restore. Shown below is the Backup and Restore control panel.
+
+Create a system image: This option creates a full backup of the computer. This includes all operating system files and data files. A system image can be used to recover the computer if the hard disk were to fail. The disadvantage of a system image is that an individual file cannot be restored by themselves, it is all or nothing.
+
+74
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Backing Up Windows 7
+
+Create a system repair disc: A system repair disc contains a number of tools that can be used to fix a Windows system or restore the system from a backup. Since the repair disc is a standalone, this can be used to boot the computer if no operating system is available, such as if the hard disk were to fail. You can also access the same tools by using the original Windows 7 setup DVD. When booting off the setup disc, select the option, Repair your computer to access these tools. Set up backup: This option runs a wizard which allows you to configure a backup on your system. This wizard is covered next. Select another backup to restore file from: In some cases you may want to recover files from another backup, maybe a backup that was done on another computer. This option lets you choose any backup to restore from.
+
+75
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Backing Up Windows 7
+
+The best way to configure a backup is to select the option Set up backup. This will launch a configuration wizard. The first screen of the wizard is shown below. This allows you to choose a backup location. To save to a network location, select the option, seen below, Save on a network. The next screen of the wizard shown below, allows you to decide what should be backed up. The top option, Let Windows choose (recommended), automatically backups all Windows system files and documents. However, if you want to have some control over what Backup and Restore includes in the backup, select the second option, Let me choose.
+
+76
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Backing Up Windows 7
+
+The next screen of the wizard shown below will appear if you choose to decide what is included in the Backup. This is divided into two parts.
+
+The top part allows you to decide which files to include in the backup. Backup and Restore only allows you to choose categories to backup. For example, you could choose to backup your documents library but would not be able to choose which documents in the library to backup. The option, Include a system image of drives: System Reserved – will include in the backup what is referred to as a system image. A system image contains all files on the hard disk including the operating system files. If you do not tick this option, you will not be able recover the operating system if the hard disk was to fail.
+
+77
+Download free eBooks at bookboon.com
+
+Windows 7 Install to Secure
+
+Backing Up Windows 7
+
+The last screen of the wizard shown below will ask you to confirm your settings. Windows Backup and Restore will run by default on Sundays at 7:00 pm. You can change this to run daily, weekly or monthly. The backup can only be scheduled to run once per day, but you can choose the time that it will run.
+
+Summary
+Backup and Restore can backup your complete system, but it is important to make sure that you use the correct settings. If you need to recover a complete Windows 7 system, you will need a system image. Due to the time and space required if you include a system image with a backup, some users will elect to manually run a system image at regular intervals. For user documents, you may schedule a backup to run that does not include a system image. With this approach, it is important to remember that when you install additional programs or make system changes, you need to create a new system image. Without a system image, if you restore the system at a later date, you will need to reinstall any additional programs that were installed after the system image was taken. For a video demonstration for how to use Backup and Restore see http://itfreetraining.com/70-680/backup-and-restore-windows-7
+
+78
+Download free eBooks at bookboon.com
+

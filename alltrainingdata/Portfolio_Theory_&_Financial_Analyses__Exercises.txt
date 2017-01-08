@@ -1,0 +1,1217 @@
+Portfolio	Theory	&	Financial	Analyses: Exercises
+Robert	Alan	Hill
+
+Download	free	books	at
+
+Robert Alan Hill
+
+Portfolio Theory & Financial Analyses
+Exercises
+
+2
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises 1st edition © 2010 Robert Alan Hill & bookboon.com ISBN 978-87-7681-616-2
+
+3
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+Contents
+
+Contents
+	 	 1	 	 	 	 	 	 2	 	 	 About the Author	 Part I: An Introduction	 An Overview	 Exercise 1.1: The Mean-Variance Paradox	 Exercise 1.2: The Concept of Investor Utility	 Summary and Conclusions	 Selected References (From PTFA)	 Part II: The Portfolio Decision	 Risk and Portfolio Analysis	 Exercise 2.1: A Guide to Further Study	 Exercise 2.2: The Correlation Coefficient and Risk	 8 9 10 10 11 13 14 15 16 17 17 18 18
+
+	Introduction	
+
+	Introduction	
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Portfolio Theory & Financial Analyses: Exercises
+
+Contents
+
+	 	 	 3	 	 	 	 	 	 	 4	 	 	 	 	
+
+Exercise 2.3: Correlation and Risk Reduction	 Summary and Conclusions	 Selected References 	 The Optimum Portfolio	 Exercise 3.1: Two-Asset Portfolio Risk Minimisation	 Exercise 3.2: Two-Asset Portfolio Minimum Variance (I)	 Exercise 3.3: Two-Asset Portfolio Minimum Variance (II)	 Exercise 3.4: The Multi-Asset Portfolio	 Summary and Conclusions	 Selected References 	 The Market Portfolio	 Exercise 4.1: Tobin and Perfect Capital Markets	 Exercise 4.2: The Market Portfolio and Tobin’s Theorem 	 Summary and Conclusions	 Selected References	
+
+19 21 22 23 23 24 26 30 31 32 33 34 35 37 42 43
+
+	Introduction	
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Portfolio Theory & Financial Analyses: Exercises
+
+Contents
+
+	 5	 	 	 	 	 	
+
+Part III: Models of Capital Asset Pricing	 The Beta Factor	 Exercise 5.1: The Derivation of Beta Factors	 Exercise 5.2: The Security Beta Factor	 Exercise 5.3: The Portfolio Beta Factor	 Summary and Conclusions	 Selected References	
+
+44 45 45 45 47 48 50 51 52 52 52 58 61 63
+
+	Introduction	
+
+6	 The Capital Asset Pricing Model (CAPM)	 	Introduction	 	 	 	 	 Exercise 6.1: Market Volatility and Portfolio Management	 Exercise 6.2: The CAPM and Company Valuation	 Summary and Conclusions	 Selected References	
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+6
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Portfolio Theory & Financial Analyses: Exercises
+
+Contents
+
+7	 Capital Budgeting, Capital Structure and the CAPM	 	Introduction	 	 	 	 	 	 Exercise 7.1: The CAPM Discount Rate	 Exercise 7.2: MM, Geared Betas and the CAPM	 Exercise 7.3: The CAPM: A Review	 Summary and Conclusions	 Selected References	
+
+64 64 64 65 67 71 71 72 73
+
+	Conclusions	
+
+8	Appendix	
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+7
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Portfolio Theory & Financial Analyses: Exercises
+
+About the Author
+
+About the Author
+With an eclectic record of University teaching, research, publication, consultancy and curricula development, underpinned by running a successful business, Alan has been a member of national academic validation bodies and held senior external examinerships and lectureships at both undergraduate and postgraduate level in the UK and abroad. With increasing demand for global e-learning, his attention is now focussed on the free provision of a financial textbook series, underpinned by a critique of contemporary capital market theory in volatile markets, published by bookboon.com. To contact Alan, please visit Robert Alan Hill at www.linkedin.com.
+
+8
+Download free eBooks at bookboon.com
+
+Part I: An Introduction
+
+9
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+An Overview
+
+1	 An Overview
+Introduction
+In a world where ownership is divorced from control, characterised by economic and geo-political uncertainty, our companion text Portfolio Theory and Financial Analyses (PTFA henceforth) began with the following question.
+How do companies determine an optimum portfolio of investment strategies that satisfy a multiplicity of shareholders with different wealth aspirations, who may also hold their own diverse portfolio of investments?
+
+We then observed that if investors are rational and capital markets are efficient with a large number of constituents, economic variables (such as share prices and returns) should be random, which simplifies matters. Using standard statistical notation, rational investors (including management) can now assess the present value (PV) of anticipated investment returns (ri) by reference to their probability of occurrence, (pi) using linear models based on classical statistical theory. Once returns are assumed to be random, it follows that their expected return (R) is the expected monetary value (EMV) of a symmetrical, normal distribution (the familiar “bell shaped curve” sketched overleaf). Risk is defined as the variance (or dispersion) of individual returns: the greater the variability, the greater the risk. Unlike the mean, the statistical measure of dispersion used by the market or management to assess risk is partly a matter of convenience. The variance (VAR) or its square root, the standard deviation (s = √VAR) is used. When considering the proportion of risk due to some factor, the variance (VAR = s2) is sufficient. However, because the standard deviation (s) of a normal distribution is measured in the same units as the expected value (R) (whereas the variance (s2) only summates the squared deviations around the mean) it is more convenient as an absolute measure of risk. Moreover, the standard deviation (s) possesses another attractive statistical property. Using confidence limits drawn from a Table of z statistics, it is possible to establish the percentage probabilities that a random variable lies within one, two or three standard deviations above, below or around its expected value, also illustrated below.
+
+10
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+An Overview
+
+Figure 1.1: The Symmetrical Normal Distribution, Area under the Curve and Confidence Limits
+
+Armed with this statistical information, investors and management can then accept or reject investments (or projects) according to a risk-return trade-off, measured by the degree of confidence they wish to attach to the likelihood (risk) of their desired returns occurring. Using decision rules based upon their own optimum criteria for mean-variance efficiency, this implies management and investors should determine their desired: -- Maximum expected return (R) for a given level of risk, (s). -- Minimum risk (s) for a given expected return (R). Thus, it follows that in markets characterised by multi-investment opportunities:
+The normative wealth maximisation objective of strategic financial management requires the optimum selection of a portfolio of investment projects, which maximises their expected return (R) commensurate with a degree of risk (σ) acceptable to existing shareholders and potential investors.
+
+Exercise 1.1: The Mean-Variance Paradox
+From our preceding discussion, rational-risk averse investors in reasonably efficient markets can assess the likely profitability of their corporate investments by a statistical weighting of expected returns. Based on a normal distribution of random variables (the familiar bell-shaped curve): -- Investors expect either a maximum return for a given level of risk, or a given return for minimum risk. -- Risk is measured by the standard deviation of returns and the overall expected return measured by a weighted probabilistic average.
+
+11
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+An Overview
+
+To illustrate the whole procedure, let us begin simply, by graphing a summary of the risk-return profiles for three prospective projects (A, B and C) presented to a corporate board meeting by their financial Director These projects are mutually exclusive (i.e. the selection of one precludes any other).
+([SHFWHG5HWXUQ 5
+
+5%
+
+%
+
+5$&
+
+$
+
+&
+
+V$
+Figure 1.2: Illustrative Risk-Return Profiles
+
+V%V&
+
+5LVNV
+
+Required: Given an efficient capital market characterised by rational, risk aversion, which project should the company select, assuming that management wish to maximise shareholder wealth? An Indicative Outline Solution Mean-variance efficiency criteria, allied to shareholder wealth maximisation, reveal that project A is preferable to project C. It delivers the same return for less risk. Similarly, project B is preferable to project C, because it offers a higher return for the same risk. -- But what about the choice between A and B? Here, we encounter what is termed a “risk-return paradox” where investor rationality (maximum return) and risk aversion (minimum variability) are insufficient managerial wealth maximisation criteria for selecting either project. Project A offers a lower return for less risk, whilst B offers a higher return for greater risk. Think about these trade-offs; which risk-return profile do you prefer?
+
+12
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+An Overview
+
+Exercise 1.2: The Concept of Investor Utility
+The risk-return paradox cannot be resolved by statistical analyses alone. Accept-reject investment criteria also depend on the behavioural attitudes of decision-makers towards different normal curves. In our previous example, corporate management’s perception of project risk (preference, indifference and aversion) relative to returns for projects A and B. Speculative investors among you may have focussed on the greater upside of returns (albeit with an equal probability of occurrence on their downside) and opted for project B. Others, who are more conservative, may have been swayed by downside limitation and opted for A. For the moment, suffice it to say that, there is no universally correct answer. Ultimately, investment decisions depend on the current risk attitudes of individuals towards possible future returns, measured by their utility curve. Theoretically, these curves are simple to calibrate, but less so in practice. Individually, utility can vary markedly over time and be unique. There is also the vexed question of group decision making. In our previous Exercise, whose managerial perception of shareholder risk do we calibrate; that of the CEO, the Finance Director, all Board members, or everybody who contributed to the decision process? And if so, how do we weight them? Required: Like much else in finance, there are no definitive answers to the previous questions, which is why we have a “paradox”. However, to simplify matters throughout the remainder of this text and its companion, you will find it helpful to download the following material from bookboon.com before we continue. -- Strategic Financial Management (SFM), 2009. -- Strategic Financial Management: Exercises (SFME), 2009. In SFM read Section 4.5 onwards, which explains the risk-return paradox, the concept of utility and the application of certainty equivalent analysis to investment analyses. In SFME pay particular attention to Exercise 4.1.
+
+13
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+An Overview
+
+Summary and Conclusions
+Based upon a critique of capital budgeting techniques (fully explained in SFM and SFME) we all know that companies should use mean-variance NPV criteria to maximise shareholder wealth. Our first Exercise, therefore, presented a selection of “mutually exclusive” risky investments for inclusion in a single asset portfolio to achieve this objective. We are also aware from our reading that: -- A risky investment is one with a plurality of cash flows. -- Expected returns are assumed to be normally distributed (i.e. random variables). -- Their probability density function is defined by the mean-variance of the distribution. -- A rational choice between individual investments should maximise the return of their anticipated cash flows and minimise the risk (standard deviation) of expected returns using NPV criteria. However, the statistical concepts of rationality and risk aversion alone are not always sufficient criteria for project selection. Your reading for the second Exercise reveals that it is also necessary to calibrate an individual’s (or group) interpretation of investment risk-return trade-offs, measured by their utility curve (curves).
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+14
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Portfolio Theory & Financial Analyses: Exercises
+
+An Overview
+
+So far so good, but even now, there are two interrelated questions that we have not yet considered
+What if investors don’t want “to put all their eggs in one basket” and wish to diversify beyond a single asset portfolio? How do financial management, acting on their behalf, incorporate the relative risk-return tradeoff between a prospective project and the firm’s existing asset portfolio into a quantitative model that still maximises wealth?
+
+We shall therefore begin to address these questions in Chapter Two.
+
+Selected References (From PTFA)
+1.	 Jensen, M.C. and Meckling, W.H., “Theory of the Firm: Managerial Behaviour, Agency Costs and Ownership Structure”, Journal of Financial Economics, 3, October 1976. 2.	 Fisher, I., The Theory of Interest, Macmillan (London), 1930. 3.	 Fama, E.F., “The Behaviour of Stock Market Prices”, Journal of Business, Vol. 38, 1965. 4.	 Markowitz, H.M., “Portfolio Selection”, Journal of Finance, Vol. 13, No. 1, 1952. 5.	 Tobin, J., “Liquidity Preferences as Behaviour Towards Risk”, Review of Economic Studies, February 1958. 6.	 Sharpe, W., “A Simplified Model for Portfolio Analysis”, Management Science, Vol. 9, No. 2, January 1963. 7.	 Lintner, J., “The valuation of risk assets and the selection of risk investments in stock portfolios and capital budgets”, Review of Economic Statistics, Vol. 47, No. 1, December, 1965. 8.	 Mossin, J., “Equilibrium in a capital asset market”, Econometrica, Vol. 34, 1966. 9.	 Hill, R.A., bookboon.com -- Strategic Financial Management, 2009. -- Strategic Financial Management: Exercises, 2009. -- Portfolio Theory and Financial Analyses, 2010.
+
+15
+Download free eBooks at bookboon.com
+
+Part II: The Portfolio Decision
+
+16
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+Risk and Portfolio Analysis
+
+2	 Risk and Portfolio Analysis
+Introduction
+We observed in Chapter One that mean-variance efficiency analyses, premised on investor rationality (maximum return) and risk aversion (minimum variability) are not always sufficient criteria for investment appraisal. Even if investments are considered in isolation, it is also necessary to derive wealth maximising accept-reject decisions based on an individual’s (or management’s) perception of the riskiness of expected future returns. As your reading for Exercise 1.2 revealed, their behavioural attitude to any risk return profile (preference, indifference or aversion) is best measured by personal utility curves that may be unique. Based upon the pioneering work of Markowitz (1952) explained in Chapter Two of our companion theory text, PTFA (2010), the purpose of this chapter’s Exercises is to set the scene for a much more sophisticated statistical model and behavioural analysis, whereby:
+Rational (risk-averse) investors in efficient capital markets (including management) characterised by a normal (symmetrical) distribution of returns, who require an optimal portfolio of investments, rather than only one, can still maximise utility. The solution is to offset expected returns against their risk (dispersion) associated with the covariability of returns within a portfolio.
+
+17
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Portfolio Theory & Financial Analyses: Exercises
+
+Risk and Portfolio Analysis
+
+According Markowitz (op cit.), any combination of investments produces a trade-off between the two statistical parameters that defines their normal distribution: the expected return and standard deviation (risk) associated with the covariability of individual returns. However, an efficient diversified portfolio of investments is one that minimises its standard deviation without compromising its overall return, or maximises its overall return for a given standard deviation. And if investors need a relative measure of the correspondence between the random movements of returns (and hence risk) within a portfolio (as we observed in our theory text) Markowitz believes that the introduction of the linear correlation coefficient into the analysis contributes to a wealth maximisation solution.
+
+Exercise 2.1: A Guide to Further Study
+Before we start, it should be emphasised that throughout this chapter’s Exercises and the remainder of the text, we shall use the appropriate equations and their numbering from our bookboon.com companion text (PTFA) for cross-reference. Portfolio Theory and Financial Analyses, 2010. For example, if we need to define the portfolio return, correlation coefficient and portfolio standard deviation, we might use the following equations from PTFA: (1) R(P) = xR(A)+(1-x)R(B) (5) COR(A,B) = COV(A,B) sAsB (8) s(P) = √ VAR(P) = √ [ x2 VAR(A) + (1-x) 2 VAR(B) + 2x(1-x) COR(A,B) s A s B] So, check these out and all the other equations in Chapter Two of PTA before we proceed. And as we develop or adapt them in future exercises, remember that you can always refer back to the relevant chapter(s) in the companion text.
+
+Exercise 2.2: The Correlation Coefficient and Risk
+To illustrate the portfolio relationships between correlation coefficients and risk-return profiles, let us process the following statistical data for a two asset portfolio. 				Project A		Project B 		 R		 14%			 3%			 20% 6% 		 s		
+
+18
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+Risk and Portfolio Analysis
+
+Required: Assume that 30 per cent of available funds are invested in Project A and 70 per cent in B. 1.	 Use Equation (1), Equation (5) and Equation (8) to calculate: a)	 The expected portfolio return R(P), b)	 The portfolio risk, s(P), that corresponds to values for COR(A,B) of +1, 0 and -1. 2.	 Confirm that when the correlation between project returns is either perfect positive or perfect negative, portfolio risk is either maximised or minimised. An Indicative Outline Solution 1.	 Set out below are the results for the calculations, which you should verify. These clearly illustrate the risk-reducing effects of diversification for the assumed values of R(A), R(B), s (A), s(B) and x when COR(A,B) = +1, 0 and -1, respectively. (a) From Equation (1):					 (b) From Equation (8) given Equation (5): (i)	 COR(A,B) = +1,				 s(P) = 5.1% R(P) = 18.2%
+
+(ii)	 COR(A,B) = 0,					s(P) = 4.3% (iii)	 COR(A,B) = -1,					s(P) = 3.3% 2.	 With this information, we can now confirm that when the returns from two investments exhibit the correlation coefficients, COR(A,B) = +1 or -1, portfolio risk s(P) is either at a maximum or minimum for a given portfolio return R(P).
+
+Exercise 2.3: Correlation and Risk Reduction
+Before we proceed to Chapter Three and the interpretation of portfolio data, it is important that you not only feel comfortable with the fundamental mechanics of Markowitz portfolio theory but how to manipulate the equations as a basis for analysis.
+
+19
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+Risk and Portfolio Analysis
+
+Set out below are the original statistics and summarised results from the previous Exercise, where 30 per cent of available funds were invested in Project A and 70 per cent in B 		 R		 s		 R(P) = 18.2% 	 R(P) = 18.2% 	 R(P) = 18.2% 	 Required: 1.	 Recalculate R(P) and the three equations for s(P) when COR(A,B) = +1, 0 and -1, respectively, assuming that two thirds of our funds are now placed in project A and the remainder in B. 2.	 Based on a comparison between your original and revised calculations, is there anything that stands out? An Indicative Outline Solution 1.	 Table 2.1 compares the revisions to our original calculations, which you should verify.
+3RUWIROLR &25$% 2ULJLQDO 5HYLVHG [[5$5%V$V%53        
+V3 
+
+Project A	 14%			 3%			
+
+Project B 20% 6% s(P) = 5.1% s(P) = 4.3% s(P) = 3.3%
+
+COR(A,B) = +1		 COR(A,B) = 0,		 COR(A,B) = -1,		
+
+    
+
+Table 2.1: The Risk-Reducing Effects of Two-Asset Portfolios
+
+2.	 A Commentary The summary table confirms that when investment returns exhibit perfect positive correlation a portfolio’s risk is at a maximum, irrespective of the weighted average of its constituents. As the correlation coefficient falls there is a proportionate reduction in portfolio risk relative to its weighted average. So, if we diversify investments, risk is at a minimum when the correlation coefficient is minus one.
+Given R(P) and COR(A,B) = +1, 0, or -1, then σ(P) > σ(P) >σ(P) respectively.
+
+But having revised the weighting of the two portfolio constituents from 30–70 per cent to two thirds-one third, have you noted what else now stands out? If not, look at the bottom righthand corner of Table 2.1.
+
+20
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+Risk and Portfolio Analysis
+
+Given perfect negative correlation, it is not only possible to combine risky investments into a portfolio that minimises the overall variance of returns but to eliminate it entirely.
+
+Of course, the derivation of this risk-free portfolio where σ(P) equals zero devised by the author may be extremely difficult to observe in practice. Even so, its very existence as a theoretical ideal has important implications for every investor concerned with the risk-return profiles of their asset portfolios. As you will discover:
+Whenever the correlation coefficient is less than unity, including zero, it is not only possible to reduce risk but also to minimise risk relative to expected return.
+
+Summary and Conclusions
+Beginning with a critique of capital budgeting techniques (fully explained in SFM and SFME, 2009) we all know that wealth maximisation using risk-return criteria is the bed-rock of modern finance. -- Investors (institutional or otherwise) trade or hold financial securities to produce returns in the form of dividends and interest, plus capital gains, relative to their initial price. -- Companies invest in capital projects to make a return from their subsequent net cash flows that satisfies their stakeholder clientele.
+
+21
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Portfolio Theory & Financial Analyses: Exercises
+
+Risk and Portfolio Analysis
+
+However, returns might be higher or lower than anticipated. This variability in returns is the cause of investment risk measured by their standard deviation. Rational risk-averse investors, or companies, will always be willing to accept higher risk for a larger return, but only up to a point. Their precise cut-off rate is defined by an indifference curve that calibrates their risk attitude. Look at Figure 2.1.
+([SHFWHG5HWXUQ 53 ,QGLIIHUHQFH &XUYH ( ) 5LVNV3
+Figure 2.1: Risk-Return, the Indifference Curve, Efficiency Frontier and Optimum Portfolio
+
+)
+
+This individual would be indifferent about choosing any investment that lies along their indifference curve. Lower returns are compensated by lower risk and vice versa, so they are all equally attractive. However, investors or companies can also reduce risk by diversification and constructing investment portfolios. Some will offer a higher return or lower risk than others. But the most efficient portfolios will lie along an efficiency frontier (F – F1) sketched in Figure 2.1. Our investor should therefore select the portfolio that is tangential to their indifference curve on the efficiency frontier (point E on the graph). This will produce an optimum risk-return combination to satisfy their preferences. And as we shall confirm later, in our texts, Portfolio E is likely to be the portfolio preferred by all risk-averse investors.
+
+Selected References
+1.	 Markowitz, H.M., “Portfolio Selection”, The Journal of Finance, Vol. 13, No. 1, March 1952. 2.	 Hill, R.A., bookboon.com -- Strategic Financial Management, 2009. -- Strategic Financial Management: Exercises, 2009. -- Portfolio Theory and Financial Analyses, 2010.
+
+22
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Optimum Portfolio
+
+3	 The Optimum Portfolio
+Introduction
+We have observed from our Theory and Exercise texts that when selecting stocks and shares of individual companies, rational investors require higher returns on more risky investments than they do on less risky ones. To satisfy this requirement and maximise corporate wealth, management should also incorporate an appropriate risk- return trade-off into their appraisal of individual projects. According to Markowitz (1952), when investors or companies construct a portfolio of different investment combinations, the same decision rules apply. Investors or companies reduce risk by constructing diverse investment portfolios. The risk level of each is measured by the variability of possible returns around the mean, defined by the standard deviation. Some portfolios will offer a higher return or lower risk than others. Investor and corporate attitudes to this trade-off can be expressed by their indifference curves. Their optimum portfolio is the one that is tangential to their highest possible indifference curve, defined by the most efficient portfolio set (point E on the curve F – F1) sketched in Figure 3.1.
+([SHFWHG5HWXUQ 53 ,QGLIIHUHQFH&XUYH ( )
+
+) 5LVNV3
+Figure 3.1: The Determination of an Optimum Portfolio: The Multi-Asset Case
+
+Markowitz goes on to say that the risk associated with individual financial securities, or capital projects, is secondary to its effect on a portfolio’s overall risk. To evaluate a risky investment, we need to correlate its individual risk to that of the existing portfolio to confirm whether it should be included or not.
+The purpose of this Chapter is to prove that when the correlation coefficient is at a minimum, portfolio risk is at a minimum. We can then derive an optimum portfolio of investments that maximises their overall expected return.
+
+23
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Optimum Portfolio
+
+Exercise 3.1: Two-Asset Portfolio Risk Minimisation
+Set out below are the statistical results for Exercise 2.3 from the previous chapter, where two thirds of our funds were placed in Project A, with the remainder in B, rather than an original 30:70 per cent split.
+3RUWIROLR &25$% 2ULJLQDO 5HYLVHG [[5$5%V$V%53        
+V3 
+
+    
+
+Table 3.1: The Risk-Reducing Effects of Two-Asset Portfolios
+
+The summary table confirms that when investment returns exhibit perfect positive correlation a portfolio’s risk is at a maximum, irrespective of the weighted average of its constituents. As the correlation coefficient falls there is a proportionate reduction in portfolio risk relative to its weighted average. So, if we diversify investments, risk is at a minimum when the correlation coefficient is minus one. And having revised the weighting of the two portfolio constituents from 30–70 to two thirds-one third, you will recall that:
+Given perfect negative correlation, it is not only possible to combine risky investments into a portfolio that minimises the overall variance of returns but to eliminate it entirely, with a risk-free portfolio where σ(P) equals zero.
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+24
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Optimum Portfolio
+
+Required: Using the data from Table 3.1 and your reading from Chapter Three (Section 3.2) of the PTFA Theory text, graph the risk return profiles for two investments with different correlation coefficients and explain their meaning. An Indicative Outline Solution Figure 3.2 sketches the various two-asset portfolios that are possible from combining investments in various proportions for different correlation coefficients. Specifically, the diagonal line A (+1) B; the curve A (E) B and the “dog-leg” A (-1) B are the focus of all possible risk-return combinations when our correlation coefficients equal plus one, zero and minus one, respectively.
+53 %
+
+
+
+( 
+
+
+
+ 
+
+$
+
+
+Figure 3.2: The Two Asset Risk-Return Profile and the Correlation Coefficient
+
+V3
+
+Thus, if project returns are perfectly, positively correlated we can construct a portfolio with any riskreturn profile that lies along the horizontal line, A (+1) B, by varying the proportion of funds placed in each proportionate project. Investing 100 percent in A produces a minimum return but minimises risk. If management put all their funds in B, the reverse holds. Between the two extremes, having decided to place say two-thirds of funds in Project A, and the balance in Project B, we find that the portfolio lies one third along A (+1) B at point +1. This corresponds to our data in Table 3.1, namely: R(P)=15.98%,s(P) = 4.0%
+
+25
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Optimum Portfolio
+
+Similarly, if the two returns exhibit perfect negative correlation, we could construct any portfolio that lies along the line A (-1) B. However, because the correlation coefficient equals minus one, the line is no longer straight but a dog-leg that also touches the vertical axis where s(P) equals zero. As a consequence, our choice now differs because: -- It is possible to construct a risk-free portfolio. -- No rational, risk averse investor would be interested in portfolios that offer a lower expected return for the same risk. As you can observe from Figure 3.2, the investment proportions lying along the line -1 to B offer higher returns for a given level of risk relative to those lying between -1 and A. Based on the mean-variance criteria of Markowitz (op. cit.) the first portfolio set is efficient and acceptable whilst the second is inefficient and irrelevant. The line -1 to B, therefore, defines the efficiency frontier for a two-asset portfolio. Where the two lines meet on the vertical axis (point -1 on our diagram) the portfolio standard deviation is zero. As the horizontal line (-1, 0, +1) indicates, this riskless portfolio also conforms to our decision to place two-thirds of funds in Project A and one third in Project B. Using the data from Table 3.1: R(P)=15.98%,s(P)=0 Finally, in most cases where the correlation coefficient lies somewhere between its extreme value, every possible two-asset combination always lies along a curve. Figure 3.1 illustrates the risk-return trade-off assuming that the portfolio correlation coefficient is zero. Once again, because the data set is not perfect positive (less than +1) it turns back on itself. So, only a proportion of portfolios are efficient; namely those lying along the E-B frontier. The remainder, E-A, is of no interest whatsoever. You should also note that whilst risk is not eliminated entirely, it could still be minimised by constructing the appropriate portfolio, namely point E on our curve.
+
+Exercise 3.2: Two-Asset Portfolio Minimum Variance (I)
+Irrespective of the correlation coefficient, the previous Exercise explains why risk minimisation represents an objective standard against which management and investors can compare the variance of returns from one portfolio to another. To prove the proposition, you will have observed from Table 3.1 and Figure 3.2 that the decision to place two-thirds of our funds in Project A and one-third in Project B falls between E and A when COR (A, B) = 0. This is defined by point 0 along the horizontal line (-1, 0, +1), according to the data given in Table 3.1: R(P)=15.98%,s(P)=2.83%
+
+26
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Optimum Portfolio
+
+Because portfolio risk is minimised at point E, with a higher return above and to the left in our diagram, the decision is clearly suboptimal. At one extreme, speculative investors would place all their funds in Project B at point B hoping to maximise their return (completely oblivious to risk). At the other, the most risk-averse among us would seek out the proportionate investment in A and B which corresponds to E. Between the two, a higher expected return could also be achieved for any degree of risk given by the curve E-A. Thus, all investors would move up to the efficiency frontier E-B and depending upon their attitude toward risk choose an appropriate combination of investments above and to the right of E. However, without a graph based on our previous data, this invites a question that we tackled theoretically in Chapter Three of PTFA.
+How do investors and companies mathematically model an optimum portfolio with minimum variance from first principles?
+
+According to Markowitz (op. cit) the mathematical derivation of a two-asset portfolio with minimum risk is quite straightforward. Using the common notation and equations from our companion text:
+
+.
+
+27
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Optimum Portfolio
+
+Where a proportion of funds x is invested in Project A and (1-x) in Project B, the portfolio variance can be defined by the familiar equation: (7)	VAR(P)=x2VAR(A)+(1-x)2VAR(B)+2x(1-x)COR(A,B)sAsB The value of x, for which Equation (7) is at a minimum, is given by differentiating VAR(P) with respect to x and setting DVAR(P) / D x = 0, such that: (17) [  BBBBB9$5%&25$%V$V%BBBBBB 9$5$9$5%&25$%V$V% Since all the variables in the equation for minimum variance are now known, the risk-return trade-off can be solved. Moreover, if the correlation coefficient equals minus one, risky investments can be combined to form a riskless portfolio by solving the following equation when the standard deviation is zero. (18)	 s(P)=√[x2VAR(A)+(1-x)2VAR(B)+2x(1-x)COR(A,B)sAsB]= 0 Because this is a quadratic in one unknown (x) it also follows that to eliminate portfolio risk when COR(A,B) = -1, the proportion of funds (x) invested in Project A should be: (19)	 [ V$BBB V$V% Required: Let us apply this theory by considering the following data: R (A) = 14%, R(B) = 20%, s(A) = 3%, s(B) = 6%, COR (A,B) = -1 1)	 What proportional investment in A and B would minimise portfolio variance? 2)	 What is the minimum variance? 3.	 What is the portfolio’s standard deviation and expected return?
+
+28
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Optimum Portfolio
+
+An Indicative Outline Solution 1)	 The investment proportions: If the correlation coefficient of A and B is minus one, the minimum variance is found using Equation (17) to solve for a proportion x invested in Project A as follows:
+>[@ >[@
+
+x	=
+
+	= 0.67 And for Project B: (1-x) = 1 – 0.67 = 0.33 2)	 Minimum variance: We can now substitute x = 0.67 into Equation (7) to derive the minimum variance. Alternatively, because the variance is a perfect square whenever the correlation coefficient is minus one, we can use the following equation explained in Chapter Three. (16) VAR(P) = [x s(A) – (1 – x) s(B) 2] 	 	 = [0.67 (3) – 0.33 (6)2] =0
+
+3)	 Portfolio Deviation and Return Since s(P) = √ VAR(P), the portfolio standard deviation is obviously zero. And if we invest two- thirds of our funds in Project A and one-third in B the portfolio return is given by: (1) R(P)	 		 = x R(A) + (1 – x) R(B) = 0.67 (14) + 0.33 (20)
+
+		 = 15.98%
+
+29
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Optimum Portfolio
+
+We have therefore derived an optimum portfolio with minimum variance, using the data from our previous Exercises.
+
+Exercise 3.3: Two-Asset Portfolio Minimum Variance (II)
+Required: The mathematically minded among you might wish to confirm that when the correlation coefficient is minus one, but only minus one, risky investments can be combined to construct a riskless portfolio by solving the equation for a portfolio’s standard deviation. So, let us apply this proposition to the previous data. An Indicative Outline Solution We have observed that where a proportion of funds x is invested in Project A and (1-x) in Project B, the portfolio variance can be defined by the familiar equation: (7) VAR(P) = x2 VAR(A) + (1-x)2 VAR(B) + 2x (1-x) COR(A,B) s A s B
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+30
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Optimum Portfolio
+
+The value of x, for which Equation (7) is at a minimum, is given by differentiating VAR(P) with respect to x and setting DVAR(P) / D x = 0, such that: (17) [  BBBBB9$5%&25$%V$V%BBBBBB 9$5$9$5%&25$%V$V% Since all the variables in the equation for minimum variance are now known, the risk-return trade-off can be solved. Moreover, if the correlation coefficient equals minus one, risky investments can be combined into a riskless portfolio by solving the following equation when the standard deviation is zero. (18) s (P) = √ [ x2 VAR(A) + (1-x) 2 VAR (B) + 2x(1-x) COR(A,B) s A s B] = 0 Because this is a quadratic in one unknown (x) it therefore follows that to eliminate portfolio risk when COR(A,B) = -1, the proportion of funds (x) invested in Project A should be: (19) [ V$ V$V% So, using the data from Exercise 3.2 to eliminate portfolio risk when COR(A,B) equals minus one, the proportion invested in Project A should be: x = 1 – 3 = 0.67 3+6 The proportion invested in Project B (1-x) therefore equals 0.33 and all our previous calculations fall into place. R(P) = 15.98%, VAR(P) = 0, s(P) = 0
+
+Exercise 3.4: The Multi-Asset Portfolio
+Once portfolio analysis extends beyond the two-asset case, we observed in Chapter Two of the theory text that the data requirements of portfolio analysis become increasingly formidable. If the covariance is used as a measure of the variability of returns, not only do we require estimates for the expected return and the variance for each asset in a portfolio but also estimates for the correlation matrix between the returns on all assets. In the absence of today’s computer technology and software, the gravity of the problems that confronted 1950s academics and analysts should not be underestimated.
+
+31
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Optimum Portfolio
+
+Required: To prove the point, suppose an insurance company’s equity fund manager wishes to assemble an efficient portfolio from all the companies listed on the Financial Times 30 Share Index. 1.	 How many distinct covariance terms would enter the Markowitz variance calculation? 2.	 How does this figure compare with a portfolio drawn from the entire FT-SE 100? What about the data requirements for more comprehensive stock exchange indices with which you are familiar, including those outside the UK? An Indicative Outline Solution 1.	 To evaluate all possible combinations of shares chosen from the FT30, an investor would need to consider the relationship of each share with all others available. Using the formula from our PTFA theory text, the number of distinct covariance terms required is ½ (302–30), which equals 435. 2.	 As the investments considered for inclusion in a portfolio increase, the covariance calculations rapidly expand. With 100 portfolio constituents drawn from the FT-SE 100, the number of distinct terms in the covariance matrix equals 4950! Perhaps you have produced similar calculations for the most obvious choices, namely the FT-All Share, Dow Jones, S&P 500, Nikkei or Hang Seng stock indices? If so, you will appreciate their formidable data requirements and why the academic community way back in the 1950s searched for a much simpler, alternative solution to the derivation of an optimum portfolio of efficient investments provided by Markowitz.
+
+Summary and Conclusions
+Based upon the pioneering work of Markowitz, we have explained how rational (risk-averse) investors in efficient capital markets, characterised by normal (symmetrical) distribution of returns, who require an optimal portfolio of investments, can maximise their utility with reference to the relationship between expected returns and their dispersion (risk) associated with the covariability of returns within a portfolio. Any combination of investments produces a trade-off between the two statistical parameters that define a normal distribution: the expected return and standard deviation (risk) associated with the covariability of individual returns. According to Markowitz, an efficient diversified portfolio is one that minimises its standard deviation without compromising the investor’s desired rate of return, or vice versa.
+
+32
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Optimum Portfolio
+
+The Markowitz model of portfolio selection is theoretically sound. Unfortunately, even if we substitute the correlation coefficient into the covariance term of the portfolio variance, the mathematical complexity of the variance-covariance matrix calculations associated with multi-asset portfolios still limits its application. So, let us move on to the theoretical resolution of very real practical problems in the following chapters.
+
+Selected References
+1.	 Markowitz, H.M., “Portfolio Selection”, The Journal of Finance, Vol. 13, No. 1, March 1952. 2.	 Hill, R.A., bookboon.com -- Strategic Financial Management, 2009. -- Strategic Financial Management: Exercises, 2009. -- Portfolio Theory and Financial Analyses, 2010.
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+33
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Market Portfolio
+
+4	 The Market Portfolio
+Introduction So far, our portfolio theory analysis has revealed that in perfect capital markets, characterised by rational, risk averse investors, the objective of efficient portfolio diversification is:
+To reduce overall risk by achieving a standard deviation lower than that of any portfolio constituent without compromising overall expected return (Markowitz Efficiency)
+
+We have also observed that overall return is maximised and risk is minimised by selecting an optimum investment portfolio from along a “frontier” of efficient portfolios that satisfies any individual’s attitude toward a risk-return trade-off.
+Given perfect market assumptions (where everybody can borrow and lend at a uniform riskfree rate of interest) the optimum efficient portfolio for all investors reduces to one: the market portfolio that contains all risky investments (Tobin’s Separation Theorem).
+
+With the exception of rational investors who are totally risk-averse, all other market participants will invest a proportion of their funds in the market portfolio. Their proportional investment in the market portfolio is a function of their risk attitudes, defined by the point of tangency between the appropriate indifference curve and the Capital Market Line (CML). Those who are highly risk-averse will only place a proportion of their funds in the market portfolio, with the remainder in risk-free securities. Conversely, speculative investors will place all their funds in the market portfolio and borrow at the risk-free rate to increase their market portfolio, until it satisfies their risk-return trade-off. Finally, we noted in our Theory text (PTFA) that the practical application of portfolio theory cannot eliminate risk entirely. The reduction in total portfolio risk only relates to the unsystematic (specific) risk associated with micro-economic factors, which are unique to individual sectors, companies, or projects. A proportion of total risk, termed systematic (market) risk, based on macro-economic factors correlated with the market is inescapable. As we shall discover in future chapters, the distinguishing features between specific and market risk have important consequences for the development of Markowitz efficiency, Tobin’s Separation Theorem and Modern Portfolio Theory (MPT).
+For the moment, suffice it to say that whilst market risk is not diversifiable, theoretically, specific risk can be eliminated entirely if all rational investors diversify until they hold the market portfolio, which reflects the risk-return characteristics for every financial security that comprises the market.
+
+34
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Market Portfolio
+
+Exercise 4.1: Tobin and Perfect Capital Markets
+So far throughout the Theory and Exercise texts we have referred to wealth maximisation and shareholder wealth maximisation as the normative objectives of investors generally and strategic financial management specifically. If you have downloaded the author’s previous SFM material (2009) from Bookboon or read any other finance texts with which you are familiar, you will appreciate that this translates into security price maximisation based on models of price behaviour (debt as well as equity). Moreover, you will have noted that all these models are based on the Separation Theorem of Irving Fisher (1930) which underpins the development of Capital Market Theory (CMT). It is a two-period consumption-investment decision model, whereby corporate management and fund managers acting on behalf their clientele can make an investment decision without prior knowledge of their individual risk-return profiles. The Separation Theorem of John Tobin (1958) is equally significant in the development of CMT and its most recent component, Modern Portfolio Theory (MPT). Based on the pioneering work of Fisher nearly thirty years earlier, he was the first academic to define a portfolio of risky investments that any risk-averse investor would wish to hold without prior knowledge of their risk attitudes (hence the term Separation). However, Tobin’s theorem and the validity of its conclusions (like that of Fisher’s) still depend upon the assumptions of a perfect capital market. Required: The perfect capital market assumptions that validate the conclusions of Tobin’s Seperation Theorem (like much else in finance) should be familiar to you. If not: seek them out, jot them down and consider their significance before we continue. An Indicative Outline Solution The assumptions of a perfect capital market (like the assumptions of perfect competition in economics) provide a sturdy theoretical framework based on logical reasoning for the derivation of increasingly sophisticated investment and financial models. Perfect markets benchmark our understanding of individual and corporate wealth maximisation strategies, irrespective of risk attitudes and the return trade-off.
+
+35
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Market Portfolio
+
+-------
+
+Large numbers of individuals and companies, none of whom is large enough to distort market prices or interest rates by their own action, (think perfect competition). All market participants are free to borrow or lend (invest) at the risk-free rate of interest, or to buy and sell financial securities. There are no material transaction costs, other than the prevailing market rate of interest, to prevent these actions. All investors have free access to financial information relating to all existing and future investment opportunities, including a firm’s projects. All investors can invest in other companies of equivalent relative risk, in order to earn their required rare of return. The tax system is neutral.
+
+Whilst perfect market assumptions are the bedrock of CMT and MPT, their real world validity has long been criticised. For example, not all investors and companies are risk-averse or behave rationally, (why play national lotteries, invest in techno shares, or the sub-prime market?). Share dealing also entails prohibitive costs and tax systems are rarely neutral. But the relevant question is not whether these assumptions are observable phenomena but do they contribute to our understanding of the capital market and the corporate decision-making process upon which it absolutely depends?
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+36
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Market Portfolio
+
+Exercise 4.2: The Market Portfolio and Tobin’s Theorem
+Based on Markowitz efficiency and the perfect market assumptions of Fisher’s Theorem (op.cit.), John Tobin (1958) demonstrates that without barriers to trade all risky financial securities which comprise the stock market can be bought and sold by all investors who also have the option to lend or borrow money at a uniform risk-free rate of interest. With the exception of those who are totally risk averse, all rational investors would ideally hold a proportion of the market portfolio, irrespective of their risk attitudes. By lending or borrowing at the risk-free rate, it is possible for individual investors to construct an efficient portfolio somewhere along the Capital Market Line (CML) to achieve a desired balance between risk and return. Required: Read through Chapter Four of our companion theory text (PTFA). Pay particular attention to the mathematics of Tobin’s Theorem and the derivation of the CML (Section 4.2) and then consider the following:
+You are a pension fund manager for Silverbald plc with €100 million to invest who is confronted with the following stock market data:
+
+			rm = 20% 		 			σm= 6% 		
+
+rf = 8% σf = 0 (obviously)
+
+Given the assumption that you are willing to accept a portfolio risk (σp) of 10 per cent: 1.	 2.	 3.	 4.	 Construct an optimal portfolio that satisfies your risk requirement. Derive the portfolio’s expected return. Explain the slope of the CML and graph your results. Derive the market price (premium) for risk, based on your reading of the PTFA.
+
+An Indicative Outline Solution Using equations with the same notation and numbering from Chapter Four of PTFA for cross-reference: 1.	 The Optimum Portfolio: Let us begin with the formula for portfolio risk (standard deviation) that incorporates the market portfolio and the option of risk-free investment. (27) sp = √ [x2s2m + (1-x)2 s2f + 2x (1-x) sm sf COR (m,f )]
+
+37
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Market Portfolio
+
+Given the data for Silverbald: sp = √ [x2 62 + (1-x)2 02 + 2x(1-x) 6.0 COR (m,f )] = 10 % The first point to note is that because sf equals zero, the second and third terms of Equation (27), which define the variance of the risk-free investment and the correlation coefficient respectively, disappear completely. Thus, our calculation for the standard deviation reduces to: (28)	 sp = √ (x2 s2m) 	 10 = √ x2 36
+
+Second, if we rearrange the terms of Equation (28) that has only one unknown and simplify, we can also determine the proportion of funds (x) invested in the market portfolio. Given any investor’s preferred portfolio and the market standard deviation of returns (sp and sm): (28) x = sp /sm As a consequence, the proportion of funds to be invested in the market portfolio by Silverbald is given by: x = 10/6 = 1.67 As a pension fund manager with €100 million to invest, you should therefore borrow an amount equal to 2/3 of the existing fund (€67 million) at the risk-free interest rate of 8 per cent. The total amount at your disposal (€167 million) should then be invested in all the risky securities that constitute the market portfolio M. 2.	 The Portfolio Return: From the general equation for a portfolio’s return and information on x, we can now define the pension fund’s return: Given: (29) rp = x rm + (1-x) rf Where: sp = 10% x = 1.67 (29) rp = (1.67 x 20) – (0.67 x 8) = 28% This is the pension fund’s most efficient portfolio of investments because it provides the highest possible return for the prescribed level of risk.
+38
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Market Portfolio
+
+3.	 The CML Slope. The CML is a simple linear regression line, whose slope (αm) is a constant, measured by (30) αm = (rm – rf ) / sm Using the data for Silverbald, this constant may be defined as follows: (30) αm = (rm – rf ) / s m = (20 – 8) / 6 = 2% It indicates that for every one per cent of risk held by the company (its standard deviation) the market yields an expected return of two per cent above the risk free rate of 8 per cent. Because αm represents the incremental return obtained by investing in the market portfolio divided by the level of risk taken, the expected return for any portfolio on the CML can therefore be expressed as: (31) rp = rf + [(rm – rf ) / sm] sp
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+39
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Market Portfolio
+
+This simplifies to: (32) rp = rf + αm .sp where the equation for the Capital Market Line (CML) is defined by: (30) αm = (rm – rf ) / sm In other words, the expected return from an efficient portfolio comprises a market portfolio holding, plus either borrowing or lending at the uniform risk-free rate of interest. Applied to our Exercise, as a fund manager you are willing to accept a portfolio risk of 10 per cent on behalf of Silverbald relative to stock market data. The expected return on the pension fund given by Equation (29) can therefore be redefined as follows: (31) rp = 8 + [(20 – 8) / 6] 10 = 28% (32) rp = 8 + (2.10) = 28% Figure 4.1 graphs our results, where αm (2%) represents the incremental return obtained by investing in the market portfolio, divided by the level of risk taken. The risk-free return (rf = 8%) is at the intercept where portfolio risk (sp) equals zero and the data for sm, rm and sp (6%, 20% and 10% respectively) defines the market’s risk-return profile and Silverbald’s risky portfolio.
+([SHFWHG5HWXUQ 53 US  &0/
+
+UP 
+
+0
+5LVN3UHPLXP
+
+UI 
+
+0DUNHW3ULFHRI5LVN
+
+5LVN)UHHUDWH RILQWHUHVW
+
+VI 
+Figure 4.1: The Market Price of Risk
+
+VP 
+
+5LVNVS VS  
+
+40
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Market Portfolio
+
+4.	 The Market Price (Premium) for Risk: The constant slope (αm) of the CML defined by Equation (30) illustrated in Figure 4.1 is called the market price of risk. It represents the incremental return (rm – rf ) obtained by investing in the market portfolio (M) divided by market risk (sm). In effect it is the risk premium added to the risk-free rate (sketched in Figure 4.1) to establish the total return for any particular portfolio’s risk-return trade off.
+Explained simply, the slope of the CML calibrates the risk- return relationships of the entire capital market and the reward to investors for accepting risk.
+
+For example, with a risk premium αm defined by Equation (30), the incremental return from a portfolio bearing risk (sp) in relation to market risk (sm) is given by: αm (sp – sm) To prove the point using Silverbald’s data with a risk premium of 2 per cent, the incremental return we expect from the pension fund with a portfolio risk of 10 percent, as opposed to market risk of 6 percent, is given by: 2(10 – 6) = 8 %
+
+AXA Global Graduate Program
+Find out more and apply
+
+41
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Market Portfolio
+
+This is confirmed if we compare the pension fund’s return with that for the market portfolio. rp = 28% rm = 20% The 8 per cent difference between the two (rp – rm) equals the market price of risk (αm) times the spread (sp – sm).
+
+Summary and Conclusions
+Individuals and companies can reduce risk without compromising return by investing in more than one security or project, providing their returns are not positively correlated (Markowitz). This implies that all rational investors will diversify their risky investments into a market portfolio, even borrowing to satisfy their risk-return preferences (Tobin). However, as we observed in the conclusion to Chapter Four of our theory text (PTFA) not all risk can be eliminated, unless investors are totally risk-averse.
+The component of total risk which can be eliminated is termed unsystematic risk. The remainder is termed systematic risk. Therefore, what concerns the investment community is not only an investment’s inherent risk characteristics, but also its relationship to overall stock market performance.
+
+For example, suppose an investment exhibits a standard deviation of 4 per cent with a market correlation coefficient of + 0.30. The total risk of the investment can be sub-divided as follows: Risk: Systematic 	 0.04 × (+ 0.30) 	= 	 0.012 0.028 Unsystematic 	0.04 × (1 – 0.30) =	
+
+Total Risk				 0.040 In other words, 2.8 per cent of the total risk of 4% has been eliminated by efficient diversification. But a residual of 1.2 per cent remains to affect the overall risk of the portfolio in which the investment is included. Given our earlier observation that the expected return on risky investments is defined by the risk-free rate of interest, plus a risk premium determined by systematic risk, rather than total risk, it was not long before academics began to derive superior models to those offered by Markowitz and Tobin to produce efficient portfolio diversification.
+
+42
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Market Portfolio
+
+Selected References
+1.	 Markowitz, H.M., “Portfolio Selection”, The Journal of Finance, Vol. 13, No. 1, March 1952. 2.	 Tobin, J., “Liquidity Preferences as Behaviour Towards Risk”, Review of Economic Studies, February 1958. 3.	 Fisher, I., The Theory of Interest, Macmillan (London), 1930. 4.	 Hill, R.A., bookboon.com -- Strategic Financial Management, 2009. -- Strategic Financial Management: Exercises, 2009. -- Portfolio Theory and Financial Analyses, 2010.
+
+43
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Part III: Models of Capital Asset Pricing
+
+44
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Beta Factor
+
+5	 The Beta Factor
+Introduction
+You will recall from our theory text and its references that total risk can be divided between unsystematic (specific, non-market) risk and systematic (market) risk. The distinction is important because the specific risk associated with one company, security, project, or portfolio relative to another can be eliminated by the construction of a well diversified portfolio of investments. Systematic risk cannot, because it is defined by macro-economic factors that affect all risky investments to a greater or lesser extent. It therefore defines the unavoidable, overall risk of the portfolio in which an individual investment is included. Fortunately, as you will also recall from our studies, systematic risk is a measurable phenomenon. The beta factor (b) calibrates the responsiveness of particular investment returns to movements in the market as a whole. Any investment with the same risk as the market will have a beta factor of one. Halve or double the risk and b will be 0.5 or 2.0, respectively. The purpose of this chapter’s Exercises is to analyse the beta concept in more detail and set the scene for the Capital Asset Pricing Model (CAPM) as a better mechanism for portfolio risk analysis.
+
+Exercise 5.1: The Derivation of Beta Factors
+In our theory text we observed how the movement of individual prices, or returns, relative to a market portfolio defined by beta factors can be calculated in several ways, depending on the information available. Required: 1.	 Define the formulae for b and explain their inter-relationships. 2.	 Summarise the theoretical and practical informational requirements for a beta calculation. 3.	 Given the following data set, relating to the risk-return characteristics of Coldplay plc and its market listing, use the appropriate formula to derive the company’s beta factor. Correlation between the returns for Coldplay plc and the market portfolio 	 Standard deviation for Coldplay plc: 						 Standard deviation for the market portfolio: 					 0.80 0.20 0.15
+
+45
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Beta Factor
+
+An Indicative Outline Solution (1) The beta factor: We began Part Three of our theory text by defining the relationship between an individual investment’s systematic risk and market risk measured by bj, its beta factor (or coefficient). (33) bj = COV(j,m) 	 VAR(m)
+
+This factor equals the covariance of an investment’s returns, relative to the market portfolio, divided by the variance of that portfolio. In Chapter Five we also explained that given the relationship between the covariance and the linear correlation coefficient, the covariance term in Equation (33) can be rewritten as: COV (j,m) = COR (j,m) . s j s m So, we can also define a theoretical value for beta as follows: bj = COR(j,m) . s j s m 	 s2(m)
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+46
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Beta Factor
+
+And simplifying: (36) bj = COR(j m) s j 	 s (m)
+
+(2) Informational β requirements: If statistical information on the appropriate variance (or standard deviation) and covariance (or correlation coefficient) is readily available, the calculation of beta is extremely straightforward using any of the previous equations. Ideally, b should be determined using forecast data (in order to appraise future investments). In its absence, however, an estimator using least-squares linear regression can be used as an approximation. This plots a security’s historical periodic return against the corresponding return for the appropriate market index. Moreover, the media also publishes betas provided by the financial services industry for stock exchange listings (3) The derivation of β for Coldplay plc: Given the statistical information for Coldplay and the market portfolio (the correlation coefficient, company and market standard deviations, respectively) the beta factor can be defined using Equation (36) as follows: (36) bj =	 		 COR(j m) s j s (m)
+
+		= 0.80 × 0.20 		 0.15 		 = 1.07
+
+Exercise 5.2: The Security Beta Factor
+Beta factors exhibit the following pivotal characteristics: The market as a whole has a b = 1 A risk-free security has a b = 0 A security with systematic risk below the market average has a b < 1 A security with systematic risk above the market average has a b > 1 A security with systematic risk equal to the market average has a b = 1
+
+47
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Beta Factor
+
+Required: Think up some assumed values for the responsiveness of an individual security’s return relative the market as a whole (beta factors) and explain their relevance to portfolio investment strategy. An Indicative Outline Solution If the average market return moves up or down by 20 per cent (say) and the returns for an individual investment track this, then the investment has a beta of 1.0 (20%/20%).The investment therefore has identical risk to the market as a whole. If the market still moves up or down by 20 per cent but the returns for a particular investment only move up or down by 15 per cent, then b falls to 0.75 (can you confirm this?).This investment is less risky than the market because it cushions the effect of more volatile changes in overall returns. The higher a security’s beta factor, the greater the return that an investor will require from it; the strategic significance of a security’s b value for the purpose of stock market investment is therefore quite straightforward.
+If overall returns are expected to fall (a bear market) it is worth buying securities with low β values because they are expected to fall less than the market. Conversely, if returns are expected to rise generally (a bull scenario) it is worth buying securities with high β values because they should rise faster than the market.
+
+Exercise 5.3: The Portfolio Beta Factor
+Just as beta factors can be defined to interpret the systemic risk of individual investments, they can also be applied to a portfolio of investments. Consider an equity fund manager with a highly diversified investment portfolio. It is close to the market portfolio, which her company still wishes to track. With new funds available, she chooses to add the following plc common stocks to the fund with individual betas quoted from a commercial service. Investment	 Quoted Beta
+
+Jones	0.83 Taylor	1.15 Wyman	0.83 Stewart	1.14
+
+48
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Beta Factor
+
+With betas within a narrow range above and below the market average of 1.0, these investments should represent a spread of risk that doesn’t compromise the current risk profile of her fund. However, before any detailed risk assessment can be undertaken, the proportion of funds allocated to each investment must be determined. Required: Without getting too technical, assume that the fund manager decides upon the following proportions as a first approximation. Investment	 Proportional % Jones	35 Taylor	20 Wyman	25 Stewart	20 1)	 Derive the weighted-average beta for the risk associated with the new investments. 2)	 Briefly explain their impact on the existing equity fund portfolio.
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+49
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Beta Factor
+
+An Indicative Outline Solution 1)	 The weighted-average beta: The risk associated with the new investments, given by their weighted beta, is calibrated as follows: Investment 		 Quoted Beta 		 Proportional % 		 Weighted Average
+
+Jones 			0.83 			35			 0.291 Taylor 			1.15 			20 			0.230 Wyman 			0.83 			25 			0.208 Stewart			 1.14 			20 			0.228 Beta Factor 									0.957 2)	 The Fund impact: Betas are invaluable for efficient portfolio selection. Investors can tailor a portfolio to their specific riskreturn (utility) requirements, aiming to hold aggressive stocks with b in excess of one while the market is rising, and less than one (defensive) when the market is falling. The new combination of investments with an average beta of 0.957 is only marginally defensive. Since the equity fund manager wishes to retain a portfolio with an average beta of 1.0 then her initial selection is eminently suitable. The ultimate proportional investments require little fine tuning.
+
+Summary and Conclusions
+Any investment with the same systemic risk as the market will exhibit a beta factor of 1.0 and its price or return should be no more volatile than the average. The higher the beta factor relative to the market, the greater the return an investor will require (and vice versa). As we shall discover in Chapter Six onwards, this measure of risk enables us to estimate the required return on a security, project, or portfolio, for any investor who wishes to match their risk-return profile with what the market has to offer.
+
+50
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Beta Factor
+
+Selected References
+1.	 Markowitz, H.M., “Portfolio Selection”, The Journal of Finance, Vol. 13, No. 1, March 1952. 2.	 Tobin, J., “Liquidity Preferences as Behaviour Towards Risk”, Review of Economic Studies, February 1958. 3.	 Fisher, I., The Theory of Interest, Macmillan (London), 1930. 4.	 Modigliani, F. and Miller, M.H., “The Cost of Capital, Corporation Finance and the Theory of Investment”, American Economic Review, Vol. XLVIII, No. 4, September 1958. 5.	 Miller, M.H. and Modigliani, F., “Dividend Policy, Growth and the Valuation of Shares”, Journal of Business of the University of Chicago, Vol. 34, No. 4, October 1961. 6.	 Black, F., Jensen, M.L. and Scholes, M., “The Capital Asset Pricing Model: Some Empirical Tests”, reprinted in Jensen, M.L. ed, Studies in the Theory of Capital Markets, Praeger (New York), 1972. 7.	 Hill, R.A., bookboon.com -- Strategic Financial Management, 2009. -- Strategic Financial Management: Exercises, 2009. -- Portfolio Theory and Financial Analyses, 2010.
+
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+51
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Capital Asset Pricing Model (CAPM)
+
+6	 The Capital Asset Pricing Model (CAPM)
+Introduction
+Throughout this study and its Theory companion (plus the other SFM and SFME texts from bookboon.com) we have assumed that the normative objective of modern finance and all its components is defined by shareholder wealth maximisation, using share price maximisation as a proxy. In Chapter Six of the companion we developed a model of share price behaviour termed the Capital Asset Pricing Model (CAPM) based on portfolio theory. Although dependent on a number of simplifying assumptions, empirical evidence suggests that the CAPM not only appears to work, but by incorporating a market price for risk, it may also be superior to other contemporary valuation models that do not; notably those by Gordon (1962) and Modigliani and Miller (1961). As we shall explain in this Chapter and the next, the CAPM not only provides a more sophisticated insight into security price determination, but as a consequence it should be of prime concern to strategic financial managers within companies that seek to maximise shareholder wealth through project appraisal.
+
+Exercise 6.1: Market Volatility and Portfolio Management
+The Review Activity for Chapter Six of our Theory text focussed on capital market volatility and its implications for active portfolio management designed to “beat the market”. This was presented as an alternative to a passive strategy of “buy and hold” that uses a tracker fund based on stock market indices. Of particular interest now, is whether the assumptions of efficient markets and the techniques of stock market analyses with which you are familiar (fundamental and technical) support one approach, rather than another, in today’s business environment. The purpose of the Exercise is to test your knowledge of the volatile world within which portfolio fund managers apply their theories. Required: 1)	 Outline the reasons for stock market volatility over the past decade. 2)	 Given your previous study of the efficient market hypothesis (EMH) and the assumptions upon which it is based, briefly explain the weakness of “technical” and “fundamental” analyses in volatile markets. 3)	 Without access to insider information (the strong form EMH) or pure speculation, evaluate the relative merits of “active” and “passive” portfolio strategies for trading securities when markets are characterised by geo-political, economic, business and financial uncertainty? 4)	 Briefly summarise the findings of your research.
+
+52
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Capital Asset Pricing Model (CAPM)
+
+An Indicative Outline Solution 1)	 Market Volatility Over the past decade, global capital markets have experienced one of the most volatile periods in their entire history. Since the millennium, stock market indices for the highest valued companies have often moved up and down by more than 100 points in a single day, driven by the extreme price fluctuation of risky shares, and the changing fortune of blue-chip companies. Multi-national financial scandals and increasing geo-political instability have also contributed to this phenomenon. Consequently, conventional methods of assessing stock market performance, premised on efficiency and investor rationality are now being questioned by professional analysts and academics alike. During the dot.com boom leading up to the millennium, many techno firms never turned a profit, let alone a dividend. Yet their share prices soared, even without dividend yields, cover or P/E ratios to compare one company with another within the sector. Many traditional companies also suffered from this tyranny of fashion as the market neglected their shares. Despite creditable financial performance, their values plummeted. Then the techno-bubble burst. Five years into the new millennium blue-chip companies were back in favour and Western economies appeared to be in good shape. Companies reported increased sales, with profits and dividends for 2006 producing a continuation of the strong results delivered in 2004 and 2005. Global stock market indices were also in rude health. The FT-SE 100 (Footsie) for example, was in excess of the psychologically important 6,000 barrier, up more than 80 per cent since its all-time low of 3,287 in March 2003. Yet, history tells us that “bull” markets cannot go on forever and securities were inevitably rising for a fall. Oil prices seemed to have peaked, but other commodities were soaring in response to growth in the Chinese and Indian economies. In the West, interest rates were also rising to combat these inflationary pressures. More worrying still, was investor complacency (irrationality even) about geopolitical uncertainty, given the extra-ordinary events of 7/11, Bali, Madrid 2003, London 2005, the Iraq war, Afghanistan, and the financial risk associated with corporate scandal (think Enron). Then in 2007, the irresponsible behaviour of the Western banking and finance sectors that were abusing increased government deregulation became public knowledge. Global markets crashed and by 2009 the world economy fell into deep recession. Today the overall picture is much improved. Thanks to governments around the world injecting large sums of cash into the financial sector, keeping interest rates low and in the case of the UK for example, also nationalising some of the banks, the system has been stabilised. The world economy has started to recover. Equity and bond markets are also very strong, particularly in Asia. So, what are the financial implications for portfolio fund management today?
+
+53
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Capital Asset Pricing Model (CAPM)
+
+2)	 Technical and Fundamental Analyses in Volatile Markets. Stock markets initially developed to allow individuals to lend surplus funds to investors who wished to borrow in order to satisfy a funding deficit. For this trade to occur, stock markets therefore needed to price investments efficiently for the mutual satisfaction of both parties, based on all the information that could affect it. Given Irving Fisher’s assumptions of a perfect market (1930) you will recall that a considerable body of finance theory was built on the Efficient Market Hypothesis (EMH) developed and subsequently tested by Eugene Fama (see 1992). This states that with no barriers to trade and freedom of information, transactions occur at a “fair” price, which reflects the investment risk both parties are willing to accept. Unfortunately, radical market movements (such as the crashes of 1929, 1987, the late nineties shake-out of Tiger economies, the millennium dot.com crisis and the 2007 financial meltdown) seriously weaken the case for the EMH, irrespective of its approach to financial analysis. Technical analysts (chartists) who subscribe to the “weak” form EMH believe that a mathematical study of past share prices reveals cyclical patterns, which hold the key to all future market movements. The chartist problem is that by the time they spot a trend it may have passed them by. Another could be underway, or a crash or rally may have occurred.
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+54
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Capital Asset Pricing Model (CAPM)
+
+Fundamental analysts with their reliance on all known information, such as profit forecasts, dividend trends, the competitive position of companies, plus press and media comment, may be equally overwhelmed by economic conditions that change rapidly. Explained simply, the interpretation of all the available evidence is easiest when markets are at their most stable and efficient, i.e. in equilibrium. So where is the market today? Since the 2007 credit crunch and banking crisis, many companies world-wide have undergone a period of introspection. Management has sought to prune unnecessary costs to maintain dividends and restore confidence. Thus, investors (technical, fundamental, or speculative) have recouped money to reinvest that has driven global markets, particularly takeover activity. However, much of the cost cutting has now been implemented and future gains will be limited if consumer demand tails off and rising commodity prices (notably oil) squeeze profit margins. Yet, as mentioned earlier, the economic out-turn for 2011 and 2012 still appears optimistic, with bullish markets characterised by historically low inflation and interest rates and hence rising profits and increased dividends. Of course, political tension is still running high and the debt crises first observed in Greece, Spain and other Euro currency members have required further government, central and world bank action. It therefore remains to be seen whether global investors (governmental, institutional, corporate, or individual) are still living in a fool’s paradise. So, without access to insider information (i.e. the strong-form EMH) what are the implications for portfolio trading strategies in a climate of geo-political, economic, business and financial uncertainty? 3)	 Active and Passive Portfolio Management Experts recommend that rational investors should hold shares for the long haul (five years and beyond). But that does not mean short-term trading opportunities should be ignored. Even if markets take a further turn for the worse, it is still possible to turn a profit. By studying the price ranges of individual shares (over a twelve-month period, say) and using all the investment criteria in the public domain, some market analysts say:
+Time your trade to buy quality shares when they are cheap and sell high to reap a profit.
+
+However, even in a reasonably efficient market when prices are buoyant, this is easier said than done for individuals. All trades entail a cost that can wipe out your gain. For example, in the UK a typical one-off dealing fee is £25.00 over the phone, although this can drop by as much as 50 per cent if you conduct more than 100 trades in a three-month period. It is also cheaper if you deal on-line. A typical internet fee of £18.00 falls to £7.50 if you trade more than 100 times. But beware of the administrative costs. Many UK stockbrokers impose annual standing charges of £60.00, although these may be waived for frequent trades. Brokers also levy a range of extra charges on top of dealing and administration fees. For example, they often charge about £10.00 per stock if you want to close your account.
+55
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Capital Asset Pricing Model (CAPM)
+
+Without suggesting a foolproof formula for picking winners, perhaps the simplest and least risky strategy for individual investors to play the market and minimise dealing costs is not to build up a partial portfolio of individual securities. Instead they should buy everything by diversifying across the entire spectrum through a professionally managed market fund. One type of fund termed an index tracker represents a proportionate investment in every company that comprises the fund’s chosen market index. All trackers (global, USA, UK or Japan, say) assume that no combination of securities (or their derivatives), other than the weighted market portfolio, can provide a higher return for the same risk. The fund is also passive, rather than active, based on a policy of “buy and hold” for all the securities in the index, rather than frequent trading at the whim of management. The “fund manager” is essentially a “computer program” fed with data to allow for new issues, or sales when a share is dropped from the index. Advocates of trackers claim superior performance over any three to five year period than the most actively managed funds because the portfolio is independent of human ingenuity and judgement when selecting stocks to buy, hold or sell. The rationale is that tracker funds perform well when their chosen market rises. If the market collapses, the fund can only fall as far as its index. Proponents of actively traded portfolios also cite impressive gains, based on the fund manager’s perception of rising world markets. But an actively traded portfolio can also plumb the depths. During periods of uncertainty, or so the argument goes, an index tracker fund offers downside protection, whilst also retaining exposure to any potential recovery. However, there are also reservations concerning passive portfolios that buy and hold a selection of securities or derivatives, even those that comprises the entire market, rather than a representative sample. For example, consider the broadest spectrum of UK stock market performance, the FT-SE All Share Index. This is calculated by combining the price movements of shares listed on the London Stock Exchange in proportion to the size of the companies it represents in terms of “market capitalisation”. Movements in the share price of larger companies therefore have a disproportionately larger effect on movements of the index than those of smaller companies. Moreover, the risk-return characteristics of the largest companies may become so extreme that they can destabilise the whole market portfolio. Consider the effect of BP’s oil crisis on the FT-SE throughout 2010. Critics of trackers also maintain that even the most sophisticated passive fund (unlike its most active competitor) still aspires to an impossible goal. The only way to beat the market is by short term speculation or privileged information, neither of which represents a realistic basis for long term risk-return management. In theory, a portfolio strategy of “buy and hold” should work best on the few occasions when markets are stable and values are determined by rational behaviour, leaving little room for manoeuvre. Between times, in the presence of bull, bear or volatile markets, it cannot predict what proportion of traders operates on fundamental or technical analyses, as opposed to rumour or speculation. In contrast, funds that actively trade their portfolios based on qualitative judgements could anticipate non-linear market behaviour fuelled by adaptive expectations, as well as changing intrinsic values in response to fundamental news.
+
+56
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Capital Asset Pricing Model (CAPM)
+
+Unfortunately, over the past decade with markets characterised by volatile peaks and troughs, the evidence for active fund management does not stack up. Unless you were lucky to select an appropriate time period (which is another example of “bad science” associated with the EMH mentioned elsewhere in our studies) the majority of funds have underperformed relative to their index. This is why many responsible institutional practitioners acting on behalf of their investment clientele (such as pension funds) have opted for passive management techniques. However, a final word of warning: Although trackers simply buy securities (or derivatives) that make up an index, passive funds should also be selected with care. Most schemes have low charges, because they use computer software, rather than employ expensive fund managers. However, not all are cheap and like their active counterparts, high charges can offset returns. Discrepancies between passive funds can also arise due to different investment strategies. Some might buy every share in an index, but many only factor in the top 60 or 80 per cent and just sample the remainder. So, even if markets are buoyant, you may be dissatisfied with your fund’s performance relative to the market as a whole.
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+57
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Capital Asset Pricing Model (CAPM)
+
+On the other hand, if markets take a turn for the worse, consistency is also important because such a fund may cope better than its competitors under stress. Even the best have periods when they trail the market, unlike active funds with much greater freedom to invest wherever they see value. But remember that consistency does not tell you all you need to know before you invest. Passive and active funds that performed well in the past might have done so because the economic climate suited their portfolio selection and managerial style. For example, active institutional funds that invested in undervalued companies over the millennium performed well. But since then many have fallen down the league table. Like individual shares, there is no guarantee that past portfolio performance is a guide to the future. All we know is that poor fund managers, like poor company management, continue to perform badly and should be replaced. 4.	 A Summary The material presented in our answer fails to justify a definitive approach to efficient portfolio fund management. Whilst there is no disagreement concerning market volatility over the past decade, portfolio strategies (passive and active) remain poles apart. Conflicting evidence concerning their performance suits their respective supporters. So, does this mean that portfolio investors (institutional or otherwise) should abandon stock market data based on conventional financial models that explain changes in security prices and their returns? The short answer is no. Without any post-modern finance theory to replace perfect markets, rationality, and random walks, the EMH and its interpretation is still favoured by most analysts, the financial press, media and websites as a determinant of investor behaviour. New theories of irrationality, inefficient markets and why they have a propensity to crash are being developed. But in their current unrefined form, they do not represent an operational substitute for traditional, linear models of wealth maximisation. To see what the internet has to offer those who wish to compare individual fund managers and their portfolio performance, you should Google a research group such as Citywire (citywire.co.uk) or an independent financial advisor, like Bestinvest (bestinvest.co.uk).
+
+Exercise 6.2: The CAPM and Company Valuation
+If you have read the SFM Theory and Exercise texts you will already be familiar with how companies and securities are valued using dividend and earnings models, as well as their strengths and weaknesses. If not you should revise Chapter Five of both books. A fundamental problem associated with all dividend and earnings valuations, (even those of Gordon and Modigliani-Miller op. cit.) is how to price risk, particularly when markets are volatile. To summarise, they fail to discriminate between the impact of macro economic factors on market values and the effects of micro economic factors caused by events affecting individual companies.
+
+58
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Capital Asset Pricing Model (CAPM)
+
+In this respect, the CAPM based on portfolio theory is a superior model. By formally pricing risk, it not only evaluates the characteristics of a particular security, but also those for a portfolio. Required: Consider the following data for Keane plc and the market: Forecast dividend per share 							$ 30 Correlation between the returns for Muse plc and the market portfolio 		 Standard deviation for Muse plc 						 Standard deviation for the market portfolio 					 Expected return for the market portfolio 					 1)	 Calculate the company’s beta factor and explain its meaning. 2)	 Calculate the expected return for Keane. 3)	 Summarise what would happen if the correlation was lower, or the standard deviation was higher. 4)	 Use the CAPM to derive a market value for the company’s shares. An Indicative Outline Solution 1)	 The Derivation ofβ: Given the statistical information for Keane and the market portfolio (the correlation coefficient, company and market standard deviations, respectively) the beta factor can be defined using Equation (36) as follows: (36) bj = COR(jm) s j 		 s (m) = 0.80 × 0.20 	 = 1.07 If you are in any doubt about the meaning of the beta factor, you might care to refer back to Exercise 5.1 in the previous chapter. It uses the same data! 0.15 0.80 0.20 0.15 0.10
+
+Risk-free rate 									0.04
+
+59
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Capital Asset Pricing Model (CAPM)
+
+2)	 The Expected Return: Using the basic CAPM equation from previous chapters, the expected return (rj) for Keane plc is given by: (34) rj = rf + ( rm – rf ) bj = 0.04 + (0.10 – 0.04)1.07 = 10.42% 3)	 Statistical Movements: As the correlation coefficient COR(j m) for the company decreases, so too, will its expected return. (rj). As the standard deviation (sj) increases, so will its expected return (rj). 4)	 Share Price: To obtain a market value for Keane using the CAPM and the available information, we can use the constant dividend formula for the capitalisation of a perpetual annuity. You will recall from reading Chapter Five (Section 5.5) of the SFM Theory text that if dividends are constant in perpetuity (Dt = D1 = D2 = D3 … = D∞) and the equity capitalisation rate (Ke) is constant, then the current ex-div price of a share equals: P0 = D1 / Ke [from Equation (12) in SFM]
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+60
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Capital Asset Pricing Model (CAPM)
+
+Where: P0 = the ex-div share value at year 0, D1 = the forecast dividend to perpetuity, the expected return for the share, based on the assumption that the CAPM is a single Ke =  period model. So, using the CAPM of Equation (34) to define Ke (that we already know equals rj = 10.42 per cent) and a forecast dividend of $30 per share, Keane’s current share value is given by P0 = D1 / Ke = $30 / 0.1042 = $287.91
+
+Summary and Conclusions
+The preceding exercises serve as a reminder that the CAPM doesn’t simply determine the expected returns for securities or portfolios. It is also a pricing model (hence its name). You should also note that whilst Equation (34) and its portfolio counterpart Equation (35) defined earlier are universal CAPM expressions for expected returns, in many financial texts they often appear with little explanation concerning their relationship to basic portfolio theory and Markowitz efficiency. For example, if we substitute the detailed formula for beta given by Equation (36) into Equation (34) for the CAPM: (36) bj = COR(jm) s j 		 s (m) We can rearrange the CAPM terms, such that the expected return for security j is: (43) rj = rf + (rm – rf ) COR(jm) s j 		 s (m) Do you notice anything familiar about the second term on the right hand side of this revised formulation? If not, you should re-read Chapter Four (Section 4.2) of the Theory text.
+
+61
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Capital Asset Pricing Model (CAPM)
+
+The second term is actually the equation for the market price of risk explained in Chapter Four, namely the constant slope of the Capital Market Line (CML). Using that chapter’s notation: (30) αm = (rm – rf ) / sm αm represents the incremental return (rm – rf ) obtained by investing in the market portfolio (M) divided by market risk (sm). In effect it is the risk premium added to the risk-free rate (rf ) to establish the total return (rj) for any investment’s risk-return trade off. So, let us use αm to simplify Equation (43) and interpret the result. (44) rj = rf + αm COR(jm) s j This expression for the CAPM reveals its true meaning.
+The expected return from a risky investment is defined by the risk-free return and a premium for total risk. However, this premium is composed of three elements: the market price of risk, the correlation between the individual investment and the market as a whole, plus the individual investment’s own risk measured by the standard deviation of its expected return.
+
+If we assume that the risk-free rate (rf ) and the market price of risk (αm) are given, the final term [COR(jm) s j] in the CAPM formula determines the amount of risk for which investors also require an additional return. As we first explained in Chapter Four, it is a proportion of total risk that cannot be eliminated by efficient diversification, termed systematic risk The important point is that we have now successfully combined basic portfolio theory and the CAPM to redefine the linear relationship between a security’s return and the total price of risk
+
+62
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+The Capital Asset Pricing Model (CAPM)
+
+Selected References
+1.	 Gordon, M.J., The Investment, Financing and Valuation of a Corporation, Irwin, 1962. 2.	 Miller, M.H. and Modigliani, F., “Dividend policy, growth and the valuation of shares”, The Journal of Business of the University of Chicago, Vol. XXXIV, No. 4 October 1961. 3.	 Fisher, I., The Theory of Interest, Macmillan (London), 1930. 4.	 Fama, E.F. and French, K.R., “The Cross-Section of Expected Stock Returns”, Journal of Finance, Vol. 47, No. 3, June 1992. 5.	 Markowitz, H.M., “Portfolio Selection”, The Journal of Finance, Vol. 13, No. 1, March 1952. 6.	 Hill, R.A., bookboon.com -- Strategic Financial Management, 2009. -- Strategic Financial Management: Exercises, 2009. -- Portfolio Theory and Financial Analyses, 2010. 7.	 Internet websites: Citywire (citywire.co.uk) and Bestinvest (bestinvest.co.uk).
+
+The stuff you'll need to make a good living
+
+STUDY. PLAY.
+
+The stuff that makes life worth living
+
+NORWAY. YOUR IDEAL STUDY DESTINATION.
+WWW.STUDYINNORWAY.NO FACEBOOK.COM/STUDYINNORWAY
+
+63
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Portfolio Theory & Financial Analyses: Exercises
+
+Capital Budgeting, Capital Structure and the CAPM
+
+7	 Capital Budgeting, Capital Structure and the CAPM
+Introduction
+Given the theoretical assumptions and practical limitations of the WACC concept covered by SFM and SFME, the following Exercises illustrate how to obtain a discount rate for project appraisal using the CAPM. Because the model can be applied to projects financed by debt as well as equity, we shall also examine the impact of capital gearing. We shall then conclude our analyses with a summary of the CAPM implications for strategic financial management as a guide to further study. Like previous Exercises, equation notation and numbering will conform to the Theory text.
+
+Exercise 7.1: The CAPM Discount Rate
+Required: From your theoretical reading for Chapter Seven 1.	 Briefly explain the use of the CAPM model as an alternative to a WACC calculation for investment appraisal. 2.	 Use the following information to derive a project discount rate. The Mynogue Company have an existing investment portfolio with an expected return of 18 per cent. They are considering a new project with a beta factor of 1.2. The current risk free rate on government stocks is 10 per cent. An Indicative Outline Solution 1)	 The CAPM Instead of using a weighted average of the company’s capital costs as a criterion for calculating the new project’s NPV, the CAPM employs a composite of the risk-free rate, plus the portfolio’s risk premium multiplied by the project’s beta factor to define the discount rate. This formulation is given by Equation (45) from the Theory text. rj = rf + (rm – rf ) bj 2)	 The Project Discount Rate The discount rate represents the minimum return required from the project, which equals: 19.6% = 10% + (8% × 1.2)
+
+64
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+Capital Budgeting, Capital Structure and the CAPM
+
+Note that because the beta factor is greater than one, the project discount rate is greater than the portfolio’s existing return. Is this good or bad for Mynogue? Look back over Chapter Five (Theory and Exercises) if you are not sure.
+
+Exercise 7.2: MM, Geared Betas and the CAPM
+According to MM’s theory of capital structure, the asset betas of companies, or projects, in the same class of business risk are identical irrespective of leverage. Higher equity betas are offset by lower debt betas, just as higher equity yields offset cheaper financing as a firm gears up. To prove the point, consider the following information. Tom plc with a debt-equity ratio of 25:75 at market value is identical in all respects to Petty plc, except that Petty is completely financed by ordinary shares with an equity beta factor of 0.9. Required: Assuming that Tom’s loan stock is risk-free and the rate of corporation tax is 33 per cent. 1)	 Confirm that the equity beta for Tom is higher than Petty’s but their asset betas are the same. 2)	 Use the CAPM to determine Tom’s cost of equity capital. An Indicative Outline Solution 1)	 The Equity and Asset Betas The first point to note is that when an all-equity company is considering a new project with the same level of risk as its current portfolio of investments, total systematic risk equals business risk, and all its beta factors are equivalent. So, in the case of Petty plc we can write: b = bj = bE = bA = bEU = 0.9 When a company such as Tom plc is funded by a combination of debt and equity, this series of equalities must be modified to incorporate a premium for systematic financial risk. As we discovered in Theory’s Chapter Seven, the asset beta must be the same as Petty’s (0.9) because (according to MM) the two companies exhibit the same business risk. However, Tom’s equity beta (bE) is a geared beta reflecting business risk plus financial risk. This measures the shareholders’ exposure to debt in the firm’s capital structure. Thus, the equity beta of Petty plc (an all-share company) must be lower than that for Tom plc, a geared firm with the same business risk. bA = bEU < bEG
+
+65
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+Capital Budgeting, Capital Structure and the CAPM
+
+Assuming that loan stock is riskless, with a 33 per cent tax rate, Tom’s geared equity beta can be calculated using Equation (61) from Chapter Seven of the Theory text bEG = bE U + [bEU (1-t) VD / VE ] = 0.9 + [(0.9) (0.67) 25/75] = 1.101 Thus we can confirm that the equity beta of an all- equity firm is lower than the equity beta of a geared firm in the same risk class (1.0 < 1.101 in our example). With a geared equity beta of 1.101 for Tom, we now have sufficient data to confirm that the company’s asset beta is the same as Petty’s (the all-equity firm). Using Equation (53): bA = bE G {VE / [VE + VD(1-t)]} = 1.101 [ 75/ 75 + 25( 0.67)] = 0.9 2)	 The Cost of Equity Capital As an alternative to a dividend or earnings share calculation, Tom’s return on equity can be estimated by the following CAPM formula, using Equation (54). Ke = rj = rf + (rm – rf ) bEU = 6% + (12% – 6%) 1.101 = 12. 61%
+
+I joined MITAS because I wanted real responsibili� I joined MITAS because I wanted real responsibili�
+
+Maersk.com/Mitas www.discovermitas.com
+
+�e Graduate Programme for Engineers and Geoscientists
+
+�e G for Engine
+
+Ma
+
+Real work International Internationa al opportunities �ree wo work or placements
+
+Month 16 I was a construction Mo supervisor ina const I was the North Sea super advising and the No he helping foremen advis s solve problems Real work he helping fo International Internationa al opportunities �ree wo work or placements s solve pr
+Click on the ad to read more
+
+66
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+Capital Budgeting, Capital Structure and the CAPM
+
+Exercise 7.3: The CAPM: A Review
+Using the normative shareholder wealth maximisation objective of strategic financial management and the common assumptions of a perfect market, the purpose of our final Exercise is to put much of the theory from our companion text into practice. It serves to illustrate how the CAPM based on MM’s “law of one price” compares with mean-variance analysis and Markowitz efficiency that we first encountered in Part Two. Consider the following scenario. Executive Board members of the Springsteen Company are discussing new investment opportunities similar to their existing portfolio. With a regime of capital rationing a choice has to be made between two mutually exclusive projects with immediate set-up costs of $10 million each. The market currently values the company at $100 million. The risk-return profile of its existing activities per $ of market value conforms to the characteristics of the stock market as whole. The prevailing rate of interest on government stocks is 10 per cent per annum As the company’s Finance Director, you believe that with probabilistic estimates for future states of the economy, the returns from existing activities and the respective net cash inflows of each project (including residual values) one year hence can be summarised as follows:
+6WDWHRIWKH(FRQRP\ 3UREDELOLW\     &XUUHQW3RUWIROLR 3URMHFW$  3URMHFW%                      P              P          P   
+
+
+
+Required: You are asked by the CEO to explain the implications of this forecast showing which, if either, of the new investment proposals should be accepted. To keep matters simple, she asks you to ignore inflation and taxation. An Indicative Outline Solution Let us begin our analysis by converting the raw data into periodic rates of return for each state of the world.
+
+67
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+Capital Budgeting, Capital Structure and the CAPM
+
+3HULRGLFUDWHRIUHWXUQ (QGRI<HDU9DOXH6WDUWRI<HDU9DOXH 6WDUWRI<HDU9DOXH 6WDWHRIWKH(FRQRP\   3UREDELOLW\ &XUUHQW3RUWIROLR  3URMHFW$    3URMHFW%                              
+
+
+
+From this information it is possible to calculate the expected return and total risk (standard deviation) for Springsteen’s current activities compared with each project. The results are as follows:
+
+([SHFWHG5HWXUQDQG5LVN3URILOHV       &XUUHQW3RUWIROLR 3URMHFW$ 3URMHFW%       5            V 9$5   
+
+If we now apply the criteria of mean-variance efficiency to the mutually exclusive investments, it is clear that Project A is preferable to Project B. It provides the same expected return for a lower degree of risk. As the following relationships reveal, Project A should also be acceptable to the company’s shareholders because Springsteen’s existing activities are not only more risky but also less profitable overall than either Project A or B.
+
+0HDQ9DULDQFH$QDO\VLV
+
+
+
+
+5$ V $
+
+ 5% !53 V% V3
+
+
+
+
+
+ 
+
+Since the Board is likely to be interested in the correlation between the returns from any new investment and those of its existing activities, we can extend our analysis by considering total risk within a portfolio framework. You will recall from Chapter Four that a project’s total risk comprises two components: systematic and unsystematic risk. The latter can be eliminated through efficient diversification in an investment portfolio that lies along the Capital Market Line (CML).
+
+68
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+Capital Budgeting, Capital Structure and the CAPM
+
+Given the assumption that the risk-return profile of Springsteen’s existing activities is similar to the entire stock market irrespective of economic conditions, we can therefore evaluate the expected return for either project by focussing on its systematic risk, rather than total risk. For a given level of systematic risk, the equation for the expected return on an individual project (j) is represented by the CAPM formula. Using Equation (45) from the Theory text: rj = rf + (rm – rf ) bj Where the project’s systematic risk is defined by the beta coefficient from Chapter Five: (33) bj = COV(j,m) 	 Or alternatively: (36) bj = COR(j m) s j 	 s (m) VAR(m)
+
+Need help with your dissertation?
+Get in-depth feedback & advice from experts in your topic area. Find out what you can do to improve the quality of your dissertation!
+
+Get Help Now
+
+Go to www.helpmyassignment.co.uk for more info
+
+69
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Portfolio Theory & Financial Analyses: Exercises
+
+Capital Budgeting, Capital Structure and the CAPM
+
+We are also in possession of the following information:
+
+&$30'DWD   UI UP V 05$5%V $V % 
+
+
+
+So, to implement the CAPM all we require are values for the market variance, and either the covariance or the correlation coefficient between the possible returns on Project A and Project B and the company’s existing investment (depending on the choice of beta formula). Given project risk, we can then use Equation (45) to estimate the minimum acceptable return required by each. Before proceeding, however, perhaps you can confirm the following data from the preceding information.
+
+7KH0DUNHW9DULDQFHDQGWKH&RYDULDELOLW\EHWZHHQ3URMHFWVDQGWKH &RPSDQ\ 9$50&29$0&25$0&29 %0&25%0  
+
+
+
+Armed with these statistics, you should also be able to calculate the following beta factors using either Equation (33) or (36).
+
+3URMHFW%HWD)DFWRUV E% E$  
+
+
+
+We now have sufficient information to calculate the CAPM return for each project using Equation (45). rj = rf + (rm – rf ) bj rA = 10 + (14 -10) × 0.70 = 12.80 % rB = 10 + (14 -10) × (- 0.54) = 7.84%
+
+70
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+Capital Budgeting, Capital Structure and the CAPM
+
+Conclusions
+With the following information summary, the Finance Director can now advise the Board of the Springsteen Company.
+
+5$  V$  &25$0  5%  V%  &25%0 
+
+E$   E%  
+
+U$  U%  
+
+
+
+The first point to consider is that according to the CAPM the required return for Project B is lower than that for Project A, even though it has a higher level of total risk when measured by the standard deviation. This arises because the correlation between the company’s return and Project B is nearer to minus one, which means that a greater proportion of its total risk can be eliminated leaving a relatively smaller proportion of systematic risk. Although the 16% expected return for Project A and Project B exceeds their required returns (12.80% and 7.84% respectively), given the disparity in systematic risk measured by their beta factors (0.70 and -0.54) Project B is preferable. Whilst this conclusion reverses our initial investment decision using mean-variance analysis, it is theoretically correct and satisfies the normative objective of wealth maximisation of strategic financial management. Project B offers a higher excess return over the required return confirmed by R (A) – r A = 16% – 12.80% = 3.20% R (B) – r B = 16% – 7.84% = 8.16% To create value, Springsteen’s Finance Director should therefore sponsor its acceptance.
+
+Summary and Conclusions
+The CAPM takes the view that a risky project should not be considered in isolation but as an addition to an existing portfolio of investments. When the risk of a new project differs from that of a firm’s existing portfolio this affects the required return used in the discounting process.
+
+71
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+Capital Budgeting, Capital Structure and the CAPM
+
+However, it is important to remember that if we use the CAPM for project appraisal, we are substituting a capital project for a financial security to obtain an appropriate cost of capital, rather than a security yield, for which the model was originally developed. Leaving aside the questionable assumptions of perfect markets, which validate much else in finance, the use of the CAPM by management to validate multi-period projects poses a number of theoretical and practical problems. -- It is a single period model; based on estimates for the risk-free rate, market return and betas. -- It assumes that all companies hold well diversified portfolios. -- Forecasting returns, covariances and correlation coefficients to feed the model is difficult. -- Shareholders’ preferences for risk and return must be reflected in managerial decisions. -- Management may be motivated more by short-termism, a bonuses culture and job security, rather than shareholders’ needs (the agency problem). -- The model regards income and capital gains as equally attractive. -- Individual projects may not be divisible to allow for efficient diversification. -- The model ignores economies of scale arising from greater investment in single projects. The list is not exhaustive, but it reminds us that management must tread carefully whenever they adopt a sophisticated mathematical model like the CAPM. It may be built on weak foundations.
+
+Selected References
+1.	 Modigliani, F. and Miller, M.H., “The Cost of Capital, Corporation Finance and the Theory of Investment”, American Economic Review, Vol. XLVIII, No. 4, September 1958. 2.	 Miller, M.H. and Modigliani, F., “Dividend Policy, Growth and the Valuation of Shares”, Journal of Business of the University of Chicago, Vol. 34, No. 4, October 1961. 3.	 Hill, R.A., bookboon.com -- Strategic Financial Management, 2009. -- Strategic Financial Management: Exercises, 2009. -- Portfolio Theory and Financial Analyses, 2010.
+
+72
+Download free eBooks at bookboon.com
+
+Portfolio Theory & Financial Analyses: Exercises
+
+Appendix
+
+8	Appendix
+),1$1&,$/$&&2817$1&< 0$1$*(0(17$&&2817$1&<
+
+6WUDWHJLF)LQDQFLDO0DQDJHPHQWDQG3RUWIROLR$QDO\VLV$Q2YHUYLHZ
+7KH)LQDQFH'HFLVLRQ([WHUQDO7KH,QYHVWPHQW'HFLVLRQ,QWHUQDO  & 2 5 3 2 5 $ 7 ( ) , 1 $ 1 & ( ) , 1 $ 1 & , $ / 0 $ 1 $ * ( 0 ( 1 7
+
+&DSLWDO  $VVHWV (TXLW\ )L[HG 'HEW  $FTXLVLWLRQRI'LVSRVLWLRQRI &XUUHQW *RYW$LG  )XQGV)XQGV  2EMHFWLYH2EMHFWLYH &DSLWDO0DUNHW 0DQDJHPHQW 3RUWIROLR$QDO\VLV 3RUWIROLR$QDO\VLV 0D[LPXP3URILW  0LQLPXP&RVW :$&& 139  
+
+
+
+&RUSRUDWH 2EMHFWLYHV ,QWHUQDO 'LVWULEXWLRQV0D[LPXP(FRQRPLF9DOXH$GGHG5HWHQWLRQV (9$ ([WHUQDO 0D[LPXP0DUNHW9DOXH$GGHG 09$
+
+&DSLWDO
+
+*DLQV:HDOWK6KDUH3ULFH0D[LPLVDWLRQ
+
+5$+LOO
+
+%86,1(66 ),1$1&(
+
+73
+Download free eBooks at bookboon.com
+

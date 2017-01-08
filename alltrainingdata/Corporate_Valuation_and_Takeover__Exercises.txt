@@ -1,0 +1,1023 @@
+Corporate	Valuation	and	Takeover: Exercises
+Robert	Alan	Hill
+
+Download	free	books	at
+
+Robert Alan Hill
+
+Corporate Valuation and Takeover
+Exercises
+
+2
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises © 2012 Robert Alan Hill & bookboon.com ISBN 978-87-403-0113-7
+
+3
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+Contents
+
+Contents
+	 	 	 1	 	 	 	 	 	 2	 About the Author	 Corporate Valuation and Takeover: Exercises	 Part I: An Introduction	 An Overview	 Modern Finance: A Review	 Exercise 1: Corporate Valuation and Takeover: A Review 	 Summary and Conclusions	 Selected References	 Part II: Share Valuation Theories	 How to Value a Share	 7 8 8 9 9 10 11 12 14 15 16 16
+
+	Introduction	
+
+	Introduction	
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Corporate Valuation and Takeover: Exercises 	 	 	 3	 	 	 	 	 	 4	 	 	 	 	 	 Exercise 2: The Dividend Yield, Cover and the P/E Ratio	 Summary and Conclusions	 Selected Reference	 The Role of Dividend Policy	 Exercise 3.1:The Gordon Growth Model 	 Exercise 3.2: Gordon’s ‘Bird in the Hand’ Model 	 Exercise 3.3: Growth Estimates and the Cut-Off Rate	 Summary and Conclusions	 Selected References	 Dividend Irrelevancy	 Exercise 4.1: Dividend Irrelevancy 	 Exercise 4.2: The MM Dividend Irrelevancy Hypothesis	 Summary and Conclusions	 Selected References	 Part III: A Guide to Stock Market Investment	 18 19 19 20 20 20 21 23 26 26 27 27 28 30 33 34 35 36
+
+Contents
+
+	Introduction	
+
+	Introduction	
+
+5	 Stock Market Dynamics: An Illustration 	
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Corporate Valuation and Takeover: Exercises 	Introduction	 	 	 	 	 	 6	 	 	 	 7	 	 	 	 	 	 Exercise 5.1: Published Accounting and Stock Market Data	 Exercise 5.2: “Beating” the Market	 Summary and Conclusions	 Selected References	 Part IV: Valuation and Takeover	 A Stock Exchange Listing	 Exercise 6: Coming to the Market 	 Summary and Conclusions	 Selected References	 Acquisition Pricing Policy	 Exercise 7.1: A “Suspect” Takeover Valuation	 Exercise 7.2: A “Promising” Takeover Valuation	 Summary and Conclusions	 Selected References 	 Appendix: Stock Market Ratios	
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+Contents 36 36 38 41 42 43 44 44 44 47 48 49 49 49 55 59 60 61
+
+	Introduction	
+
+	Introduction	
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+6
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Corporate Valuation and Takeover: Exercises
+
+About the Author
+
+About the Author
+With an eclectic record of University teaching, research, publication, consultancy and curricula development, underpinned by running a successful business, Alan has been a member of national academic validation bodies and held senior external examinerships and lectureships at both undergraduate and postgraduate level in the UK and abroad. With increasing demand for global e-learning, his attention is now focussed on the free provision of a financial textbook series, underpinned by a critique of contemporary capital market theory in volatile markets, published by bookboon.com. To contact Alan, please visit Robert Alan Hill at www.linkedin.com.
+
+7
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+Corporate Valuation and Takeover: Exercises
+This free book of Exercises reinforces theoretical applications of stock market analyses as a guide to Corporate Valuation and Takeover and other texts in the bookboon series by Robert Alan Hill. The volatility of global markets and individual shares, created by serial financial crises, economic recession and political instability means that investors (private, institutional, or corporate) cannot rely on “number crunching”. All market participants need a thorough understanding of share valuation models (whether asset, earnings, dividend and cash based) to comprehend the factors that determine their future trading decisions.
+
+8
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+Part I
+
+Part I: An Introduction
+
+8
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+An Overview
+
+1	 An Overview
+Introduction
+Having read Corporate Valuation and Takeover (2011) or any other texts from the author’s bookboon series referenced at the end of this Chapter, you should have a critical understanding of how financial securities and companies are valued. In this free compendium of Exercises we shall reinforce the theory and application of stock market analysis as a guide to further reading. Armed with the Corporate Valuation and Takeover companion text (CVT henceforth) you should have no conceptual problems with the following material. But remember the concepts need to be applied and we live in extremely difficult times where more than ever, past performance may be no guide to the future. Since the millennium dot.com crash, every year has been dramatic for stock market participants. After a five year “bull” run followed by global banking meltdown in 2007-8, economic recession has seen a number of Western governments (including America) unable to repay their debts and their credit status downgraded. The subsequent eurozone credit crisis saw the departure of four European prime ministers in late 2011 (Greece, Italy, Ireland and Spain) and the credit rating of Portugal reduced to “junk” status in early 2012. With tighter stock market regulation, increased International Monetary Fund (IMF) and central banking intervention, investors (institutional or otherwise) continue to make provision for massive losses, which imposes a huge restriction on stock market liquidity worldwide. To reflect these events, we will consider a number of worst case scenarios where appropriate. The Exercises will also compare ideal investment decisions with those to be avoided. But remember these are only hypothetical examples. A Guide to Further Study To keep up to speed with real world events as they unfold, I suggest that you acquire informed comment from quality newspapers, financial websites, corporate and analyst reports, plus any topical material that you come across as you trawl the Internet during your studies. Do read share price listings looking for trends based on the stock market ratios explained in CVT and summarised in the Appendix to this text (price, yield, cover and the price-earnings ratio). Focus on a few companies of your choice. Look back over a number of years to get a feel for how they have moved within the context of the market. Pay particular attention to company profit warnings, analyst downgrades, director share dealings, takeover activity and rumour. This research need not be too formidable, particularly if you are studying with friends and have CVT for reference.
+
+9
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+An Overview
+
+Modern Finance: A Review
+Part One of CVT explains why contemporary financial analysis is not an exact science and the theories upon which it is based may even be “bad” science. The fundamental problem is that economic decisions are characterised by hypothetical human behaviour in a real world of uncertainty. Thus, theoretical financial models may be logically conceived. But all too often, they are based on hypotheses underpinned by simple assumptions that rationalise the complex world we inhabit with little empirical support. At best they may support your conclusions. But at worst they may invalidate your analysis. Yet as we observed, most modern theorists, academics and analysts still cling to the simplistic normative objective of shareholder wealth maximisation based on “rational” investment decisions, premised on NPV maximisation techniques designed to deliver the highest absolute profit. Underpinned by the Separation Theory of Fisher (1930) that assumes perfect capital markets, characterised by freedom of information and no barriers to trade: Shares are always correctly priced by the market at their true intrinsic value. The consumption (dividend) preferences of all shareholders are satisfied by the rational managerial investment policies of the company that they own, based on the agency principle formalised by Jenson and Meckling (1976). Even when modern financial theory moves from a risk-free world to one of uncertainty, Fisherian analysis remains the bedrock of rational investment. Statistically, it defines how much return you can expect for a given level of risk, assuming project or stock market returns are linear random variables that conform to a “normal” distribution. For every level of risk, there is an investment with the highest expected return. For every return there is an investment with the lowest expected risk. Using mean-variance analysis, the standard deviation calibrates these risk-return trade-offs. Corporate wealth maximisation equals the maximisation of investor utility using certainty equivalence associated with the expected NPV (ENPV) maximisation of all a firm’s projects. According to Modern Portfolio Theory (MPT) based on the pioneering work of Markovitz (1952), Tobin (1958) and Sharpe (1963) if different investments are combined into a portfolio, management (or any investor) with the expertise can also plot an “efficiency frontier” to select any investment’s trade-off according to their desired risk-return profile (utility curve) relative to the market as a whole. So far so good, but what if capital markets are imperfect, information is not freely available and there are barriers to trade? Moreover, what if corporate management and financial institutions pursue their own agenda characterised by short-term goals at the expense of long-run shareholder wealth maximisation, as the previous decade’s catastrophic events suggest? Are shares still correctly priced and are financial resources still allocated to the most profitable investment opportunities, irrespective of shareholder consumption preferences. In other words, are markets efficient once the agency principle breaks down? Like all my other texts in the bookboon series, CVT suggests they are not. Post-modern theorists with their cutting-edge mathematical expositions of speculative bubbles, catastrophe theory and market incoherence, believe that investment returns and prices may be non- random variables and that markets have a memory. They take a non-linear view of society and dispense with the assumption that we can maximise anything. Unfortunately, their models are not yet sufficiently refined to provide the investment community with alternative guidance in their quest for greater wealth.
+
+10
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+An Overview
+
+Nevertheless, post-modernism serves a dual purpose. First, it justifies why the foundations of traditional finance may indeed be “bad science” by which we mean that theoretical investment and financing decisions are all too often based on simplifying assumptions without any empirical support. Second, it explains why the investment community still works with imperfect theories. As a consequence, it reveals why they should always interpret their results with caution and not be surprised if subsequent events invalidate their conclusions.
+
+Exercise 1: Corporate Valuation and Takeover: A Review
+We have seriously questioned the traditional assumptions of perfect markets, the agency principle and the strength of real world efficiency that underpin comparative analyses of supposedly random prices and returns by rational, riskaverse investors. Nevertheless, they still provide indispensible, theoretical benchmarks for any framework of investment, postmodern or otherwise, first formalised as the Efficient Market Hypothesis (EMH) by Eugene Fama (1965)
+
+Required:
+Because of its pivotal role in the remainder of this study, you should refer to the details of the EMH explained in Part One of CVT and before we proceed: Briefly define “efficiency” and consider the implications of the EMH for the purposes of valuation and takeover. An Indicative Outline Solution Shareholder wealth maximisation is based upon the economic law of supply and demand in a capital market that may not be perfect but reasonably efficient (i.e. not weak). Efficiency and its strength (weak, semi-strong or strong) are determined by the increasing speed with which the stock market and its participants assimilate new information into the price of financial securities, such as a share. Historical evidence suggests that investor decisions and government policies are based on the assumption of semi-strong efficiency. Hence, the absence of tight market regulation. Rational investors respond rationally to new information (good, bad or indifferent) and buy, sell, or hold shares in a market without too many barriers to trade. The market implications of the EMH relevant to valuation and takeover can be summarised as follows: 	 -- If efficiency is semi-strong, or strong, speculative investment is pointless without the advantage of “insider” information. -- In the short term “you win some and you lose some”. -- In the long run, you cannot “beat the market”. Investment is a zero sum game that delivers returns appropriate to their risk, i.e. what theorists term a “martingale”. -- Yesterday’s trading decisions based on prices and returns are independent of today’s state of play and tomorrow’s investment opportunities.
+
+11
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+An Overview
+
+-- If current share prices closely reflect current dividends and future profitability, agency theory can transform shareholder objectives into managerial policy. -- NPV maximisation represents the optimum managerial investment criterion to maximise shareholder wealth. -- New share issues that incorporate a market premium or discount should be based on their “intrinsic” value and ignore market sentiment. -- Creative corporate accounting will not fool the market. -- Takeover policies are also a zero-sum game, unless predatory corporate management can identify quantifiable synergistic benefits and economies of scale.
+
+Summary and Conclusions
+Irrespective of whether markets are efficient, behaviour is rational and prices or returns are random, every investor requires standards of comparison to justify their next trading decision. For example, has a firm’s current price, dividend or earnings prospects risen, fallen, or remained the same, relative to the market, its competitors, or own performance over time? And how are they trending? We have observed that the key to unlocking these questions presupposes an understanding of the nature of stock market efficiency. All the material contained in the CVT companion text builds on this and forms the basis of the remainder of this study. So, let us conclude with a brief summary of the remainder of CVT for future reference before you read the following chapters.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+12
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Corporate Valuation and Takeover: Exercises
+
+An Overview
+
+Part Two (Chapters Two to Four) evaluates conflicting theoretical share valuation models relative to profitable stock market investment, even if markets are perfect. Chapter Two presents a sequence of theoretical share price valuation models. Each enables current shareholders, prospective investors and management to evaluate the risk-return profiles of their dividend and earnings expectations and the market capitalisation of equity. But are dividends and earnings equally valued by investors who model share price? Chapter Three deals explicitly with the relevance of the corporate dividend decision based on the pioneering work of Myron J. Gordon (1962). We analysed its impact on current share price, the market capitalisation of equity and shareholders’ wealth, determined by the consequences of managerial policies to distribute or retain profits, which stem from their previous investment decisions and search for future investment opportunities. Chapter Four then introduces an overarching theoretical and empirical critique of the irrelevance of dividend policy to the maximisation of shareholder wealth by Modigliani and Miller (MM) whereby: Dividends and retentions are perfect economic substitutes and a firm’s distribution policy cannot determine an optimum share price and hence share price maximisation. Part Three translates conflicting theories of share valuation into practical terms with reference to real world share price listings, based on the capitalisation of a perpetual annuity. Chapter Five explains how stock market data relating to price, dividends (the yield and cover) and earnings (the P/E ratio) are analysed by the investment community, supplemented by other informed sources to implement trading decisions (i.e. “buy, sell or hold”). Chapters Six and Seven evaluate various strategies for investment based on dividends, growth and whether we can “beat” the market. Part Four then applies these market dynamics to corporate investment policies designed to maximise shareholder wealth. Chapter Eight critically examines the specific case of a firm seeking a stock exchange listing and hence a market valuation for the first time. Chapter Nine compares and contrasts rational shareholder objectives and various subjective, managerial motives for takeover activity. Chapters Ten and Eleven analyse a series of comprehensive valuations for companies prey to takeover based on a rational consideration of long-run shareholder profitability compared with the irrational managerial motives of predator companies.
+
+13
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+An Overview
+
+Chapter Twelve concludes our analyses with a survey of the current takeover scene and a guide to investment behaviour based on a number of “golden” rules to investment explained throughout the text.
+
+Selected References
+1.	 Fisher, I., The Theory of Interest, Macmillan, 1930. 2.	 Jensen, M. C. and Meckling, W. H., “Theory of the Firm: Managerial Behaviour, Agency Costs and Ownership Structure”, Journal of Financial Economics, 3, October 1976. 3.	 Markowitz, H.M., “Portfolio Selection”, Journal of Finance, Vol.13, No.1, 1952. 4.	 Tobin, J., “Liquidity Preferences as Behaviour Towards Risk”, Review of Economic Studies, February 1958. 5.	 Sharpe, W., “A Simplified Model for Portfolio Analysis”, Management Science, Vol.9, No. 2, January 1963. 6.	 Fama, E.F., “The Behaviour of Stock Market Prices”, Journal of Business, Vol. 38, 1965. 7.	 Gordon, M. J., The Investment, Financing and Valuation of a Corporation, Irwin, 1962. 8.	 Miller, M. H. and Modigliani, F., “Dividend policy, growth and the valuation of shares”, The Journal of Business of the University of Chicago, Vol. XXXIV, No. 4 October 1961. 9.	 Hill, R.A., bookboon.com. Text Books Strategic Financial Management, (SFM), 2008. Strategic Financial Management: Exercises (SFME), 2009. Portfolio Theory and Financial Analyses (PTFA), 2010. Portfolio Theory and Financial Analyses: Exercises (PTFA), 2010. Corporate Valuation and Takeover, (CVT), 2011. Business Texts Strategic Financial Management: Part I, 2010. Strategic Financial Management: Part II, 2010. Portfolio Theory and Investment Analysis, 2010. The Capital Asset Pricing Model, 2010.
+
+14
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+Part II
+
+Part II: Share Valuation Theories
+
+15
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+How to Value a Share
+
+2	 How to Value a Share
+Introduction
+The key to understanding how markets work and the basic measures used by investors to analyse their performance (price, dividend yield, cover, and the P/E ratio) requires a theoretical appreciation of the relationship between a share’s price, its return (dividend or earnings) and growth prospects using various models based on discounted revenue theory. Chapter Two of CVT set the scene, by outlining the determinants of ex-div share price using discounted techniques to define current price in a variety of ways. Each depends on a definition of future periodic income (either a dividend or earnings stream) under growth or non-growth conditions discounted at an appropriate cost of equity (either a dividend or earnings yield) also termed the equity capitalisation rate, within a time continuum. For example, given a forecast of periodic future dividends (Dt) and a shareholder’s desired rate of return (Ke) based on current dividend yields for similar companies of equivalent risk, we defined the finite-period dividend valuation model. The present ex-div value (P0) of a share held for a given number of years (n) should equal the discounted sum of future dividends (Dt) plus its eventual ex-div sale price (Pn) using the current dividend yield (Ke) as a capitalisation rate. Expressed algebraically, using the Equation numbering from the CVT text, which we shall adhere to wherever possible throughout the remainder of this study:
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+16
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Corporate Valuation and Takeover: Exercises
+
+How to Value a Share
+
+Q
+(6)	
+
+3 6'W.HW3Q.HQ W 
+
+Likewise, given a forecast for periodic future earnings (Et) and a desired return (Ke) based on current earnings yields of equivalent risk, we defined the finite-period earnings valuation model as follows: (7)	
+
+Q 3 6(W.HW3Q.HQ W 
+
+The present ex-div value (P0) of a share held for a given number of years (n) should equal the discounted sum of future earnings (Et) plus its eventual ex-div sale price (Pn) using the current earnings yield (Ke) as a capitalisation rate. We eventually focussed on a far simpler model using the capitalisation of a perpetual annuity favoured by stock exchanges worldwide, which enables the daily publication of price data, the current dividend yield and earnings yield, in the form of a price-earnings (P/E) ratio, by newspapers across the globe. This assumes that if shares are held indefinitely and the latest reported dividend or profit per share remains constant, current ex div price can be expressed using the constant dividend valuation model as follows: (8)	P0 = D1 / Ke Next year’s dividend (D1) and those thereafter are represented by the latest reported dividend (i.e. a constant). Rearranging terms, (Ke) the shareholders’ prospective rate of return (equity capitalisation rate) is also a constant represented by the current yield, which is assumed to be maintainable indefinitely. (9)	Ke = D1 / P0 Turning to published earnings data we observed that: (10)	P0 = E1 / Ke Next year’s earnings (E1) and those thereafter are represented by the latest reported profit (i.e. a constant). Rearranging terms, (Ke) the shareholders prospective rate of return (equity capitalisation rate) is also a constant represented by the current earnings yield, which is assumed to be maintainable indefinitely. (11)	Ke = E1 / P0 Because a company’s shares cannot sell for different prices at a particular point in time we then noted that: (12)	P0 = D1 / Ke = E1 / Ke If management pursue a policy of full distribution (whereby D1 = E1) then the current dividend and earnings yields must also be identical.
+
+17
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises (13)	Ke = D1 / P0 = Ke = E1 / P0
+
+How to Value a Share
+
+But if a company retains a proportion of earnings for reinvestment (D1< E1) the dividend yield will be lower than the earnings yield: (14)	Ke = D1 / P0 < Ke = E1 / P0 For example, if a company’s, latest reported dividend and earnings per share are £1.00 and £1.60 respectively, trading at a current price of £8.00 then because earnings cover dividends 1.6 times, the dividend yield is only 62.5 per cent of the earnings yield (12.5 per cent and 20 percent respectively). This difference in yields is not a problem for investors who know what they are looking for. Some prefer their return as current income (dividends and perhaps the sale of shares). Some look to earnings that incorporate retentions (future dividends plus capital gains). So, their respective returns will differ according to their consumption preferences and the risk-return profile of their portfolio of investments. This is why share price listings in the newspapers focus on dividends and earnings, as well as the interrelationship between the two measured by dividend cover. However, you will recall that to avoid any confusion between dividend and earnings yields when analysing a company’s performance, published listings adopt a universal convention. The right-hand terms of the current earnings yield defined by Equation (11) are inverted to produce the return’s reciprocal, namely a valuation multiplier: the price-earnings (P/E) ratio. (15)	 P/E = P0 / E1 = 1/Ke
+
+Exercise 2: The Dividend Yield, Cover and the P/E Ratio
+Unlike the dividend yield and the earnings yield, which are percentage returns, the P/E ratio is a real number that analyses price as a multiple of earnings. On the assumption that a firm’s current post-tax profits are maintainable indefinitely, the ratio therefore provides an alternative method whereby a company’s distributable earnings can be capitalised to establish a share’s value. However, it does not stand alone when we analyse a company’s performance. With information on dividend yield, or dividend cover it is possible to construct a comprehensive investment profile for the basis of analysis. Consider the following data relating to four companies whose dividends are covered twice by earnings. Company	 Dividend Yield (%) = D1 / P0 = Ke	 A	B	 C	 D 1.25	 2.5	 5	 10
+
+Required: 1.	 Tabulate the earnings yield and corresponding P/E ratio for each company. 2.	 Comment on the mathematical relationship between these two measures and its utility.
+
+18
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises An Indicative Outline Solution
+
+How to Value a Share
+
+1.	 The corresponding earnings yields and P/E ratios for each company can be tabulated as follows:
+
+&RPSDQ\$%&'  (DUQLQJV<LHOG (3 .H 3( 3( 
+.H
+
+7DEOH7KH5HODWLRQVKLSEHWZHHQWKH(DUQLQJV<LHOGDQGWKH3(5DWLR
+
+2.	 The Mathematical Relationship Because the two measures are reciprocals of one another, whose product always equals one, there is always a perfect inverse relationship between a share’s earnings yield and its P/E ratio. The interpretation of the P/E is that the lower the figure, the higher the earnings yield and vice versa. Because investors are dealing with an absolute P/E value and not a percentage yield, there is no possibility of confusing a share’s dividend and earnings performance when reading share price listings, articles or commentaries from the press, media, analyst reports, or internet downloads.
+
+Summary and Conclusions
+Not only is the previous exercise useful for future reference throughout this text once we begin to interpret the interrelationships between price, dividend yield and the P/E ratio in Part Three. But in the interim your regular reading of the financial press as a guide to further study outlined in Chapter One should also fall into place. However, before we analyse this practical methodology for analysing corporate, stock market performance, we need to consider its theoretical limitations with answers to the following questions. What happens to current share prices listed in the financial press if the latest reported dividends, or earnings, are not constant in perpetuity? For the purpose of equity valuation, are dividends (yields) more important than earnings (P/E ratios) or vice versa within the investment community? To understand the debate, I suggest that you do some preparation by reading the remainder of CVT Part Two (Chapters’ Three and Four) which evaluates the theoretical and real-world implications of dividend policy, rather than earnings, as a determinant of equity prices and shareholder wealth maximisation.
+
+Selected Reference
+Hill, R.A., Corporate Valuation and Takeover: Parts One and Two, bookboon.com (2011).
+
+19
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+The Role of Dividend Policy
+
+3	 The Role of Dividend Policy
+Introduction
+We began Part Two with an overview of share price valuation theory as a basis for stock market analysis using the dividend yield, dividend cover and the P/E ratio The following Exercises focus on the impact of managerial dividend and reinvestment policies on current share price, the market capitalisation of equity and shareholders’ wealth, as a prelude to whether dividends (yields) and earnings (P/E ratios) are equally valued by investors.
+
+Exercise 3.1:The Gordon Growth Model
+Throughout the late 1950’s, Myron J. Gordon (initially working with Ezra Shapiro) formalised the impact of distribution policies and their associated returns on current share price using the derivation of a constant growth formula, the mathematics for which are fully explained in the CVT text. What is now termed the Gordon dividend growth model determines the current ex-div price of a share by capitalising next year’s dividend at the amount by which the shareholders’ desired rate of return exceeds the constant annual rate of growth in dividends.
+
+20
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Corporate Valuation and Takeover: Exercises Required:
+
+The Role of Dividend Policy
+
+1.	 Present a mathematical summary of the Gordon Growth Model under conditions of certainty. 2.	 Comment on its hypothetical implications for corporate management seeking to maximise shareholder wealth. An Indicative Outline Solution These questions not only provide an opportunity to test your understanding of the companion text, but also to practise your written skills and ability to editorialise source material. 1.	 The Gordon Model According to Gordon (1962) movements in ex-div share price (P0) under conditions of certainty relate to the profitability of corporate investment and not dividend policy. Using Gordon’s original notation and our Equation numbering from CVT (Chapter Three) where Ke represents the equity capitalisation rate; E1 equals next year’s post-tax earnings; b is the proportion retained; (1-b) E1 is next year’s dividend; r is the return on reinvestment and r.b equals the constant annual growth in dividends: (16)	P0 = (1-b)E1 / Ke - rb	 subject to the proviso that Ke > r.b for share price to be finite.
+
+You will also recall that in many Finance texts today, the equation’s notation is simplified with D1 and g representing the dividend term and growth rate, subject to the constraint that Ke > g (17)	P0 = D1 / Ke - g 2.	 The Implications In a world of certainty, Gordon’s analysis of share price behaviour confirms the importance of Fisher’s relationship between a company’s return on reinvestment (r) and its shareholders’ opportunity cost of capital rate (Ke). Because investors can always borrow, or sell part of their holding to satisfy any income requirements, movements in share price relate to the profitability of corporate investment opportunities and not alterations in dividend policy. To summarise the dynamics of Equation (16): 1.	 Shareholder wealth (price) will stay the same if r is equal to Ke 2.	 Shareholder wealth (price) will increase if r is greater than Ke 3.	 Shareholder wealth (price) will decrease if r is lower than Ke
+
+Exercise 3.2: Gordon’s ‘Bird in the Hand’ Model
+Moving into a world of uncertainty, Gordon (op cit) explains why rational-risk averse investors are no longer indifferent to managerial decisions to pay a dividend or reinvest earnings on their behalf, which therefore impacts on share price.
+
+21
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises Required:
+
+The Role of Dividend Policy
+
+1.	 Present a mathematical summary of the difference between the Gordon Growth Model under conditions of certainty and uncertainty. 2.	 Comment on its hypothetical implications for corporate management seeking to maximise shareholder wealth. An Indicative Outline Solution Again, these questions provide opportunities to test your understanding of the companion text and practise your written and editorial skills. 1.	 The Gordon Model and Uncertainty According to Gordon (ibid) movements in share price under conditions of uncertainty relate to dividend policy, rather than investment policy and the profitability of corporate investment. He begins with the basic mathematical growth model: (16) 	 P0 = (1-b)E1 / Ke - rb	 subject to the proviso that Ke > r.b for share price to be finite.
+
+This again simplifies to: (17)	P0 = D1 / Ke - g subject to the constraint that Ke > g But now, the overall shareholder return (equity capitalisation rate) is no longer a constant but a function of the timing and size of the dividend payout. Moreover, an increase in the retention ratio also results in a further rise in the periodic capitalisation rate. Expressed mathematically: Ke = f ( Ke1 < Ke2 < … Ken ) 2.	 The Implications According to Gordon’s uncertainty hypothesis, rational, risk averse investors adopt a “bird in the hand” philosophy to compensate for the non-payment of future dividends. They prefer dividends now, rather than later, even if retentions are more profitable than distributions (i.e. r > Ke). They prefer high dividends to low dividends period by period. (i.e. D1> D2 ….). Near dividends and higher payouts are discounted at a lower rate (Ket now dated) , Thus, investors require a higher overall average return on equity (Ke) from firms that retain a higher proportion of earnings with obvious implications for share price. It will fall.
+
+22
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+The Role of Dividend Policy
+
+Gordon presents a plausible hypothesis in a world of uncertainty, where dividend policy, rather than investment policy, determines share price. The equity capitalisation rate is no longer a constant but an increasing function of the timing and size of a dividend payout. So, an increased retention ratio results in a rise in the discount rate (dividend yield) and a fall in the ex-div value of ordinary shares: Share prices are: Positively related to the dividend payout ratio Inversely related to the retention rate Inversely related to the dividend growth rate To summarise Gordon’s position: The lower the dividend, the higher the risk, the higher the yield and the lower the price.
+
+Exercise 3.3: Growth Estimates and the Cut-Off Rate
+The derivation of variables that comprise the Gordon model under conditions of certainty based on Equation (17) is not problematical. With zero growth, the model is equivalent to Equation (8), the constant dividend valuation model explained in Chapter Two, which simply discounts the next dividend (D1) at a constant equity capitalisation rate (Ke) using the current yield.
+
+23
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Corporate Valuation and Takeover: Exercises
+
+The Role of Dividend Policy
+
+If growth is positive, Gordon determines the current ex-div price of a share by capitalising next year’s dividend at the amount by which the shareholders’ desired rate of return exceeds (g) the constant annual rate of growth in dividends. This growth rate (g = r.b)) is equivalent to the multiplication of a constant return (r) on new projects financed by a constant retention rate (b). Subject to the mathematical proviso that Ke> g, it follows that if Ke = r; Ke > r ; Ke < r Then shareholder wealth, measured by ex-div share price, stays the same, rises or falls, which confirms Fisher’s Separation Theorem (1930) outlined at the beginning of our study. So far so good, but if management finance future projects by retaining profits and shareholders wish to incorporate this data into their analysis of corporate performance in their quest for wealth, how do they calculate the growth rate? In the real world, dividend-retention policies are rarely constant. Even if they are uniform, management and those to whom they are ultimately responsible still need annual growth estimators. A simple solution favoured by the investment community, even if the future is uncertain, is to assume that the past and future are interdependent. Without information to the contrary, Gordon (op cit) also believed that a company’s anticipated growth could be determined from its financial history and incorporated into his model. Consider the following data available from the published accounts for the Adele company.
+Year 2008 2009 2010 2011 2012 Dividend per Share ($) 20.00 22.00 24.20 26.62 29.28
+
+Required: 1.	 Using a mathematical growth formulae of your choice, calculate the company’s average periodic growth rate, as a future estimator of g 2.	 Use your answer to derive the forecast dividend for 2013 and assuming the company’s shares are currently trading at $268.40 ex-div, calculate the dividend yield, namely the equity capitalisation rate (managerial cutoff rate for new investment) according to the Gordon Growth model.
+
+24
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises An Indicative Outline Solution 1.	 The Annual Growth Rate
+
+The Role of Dividend Policy
+
+Using the formula (Dt - Dt-1)/Dt-1 or alternatively (Dt - Dt-1) -1, we can determine annual dividend growth rates.
+Year 2008-9 2009-10 2010-11 2011-12 Total Annual Growth Rate (22.00/20.00) -1 = 0.1 (24.20/22.00) -1 = 0.1 (26.62/24.20) -1 = 0.1 (29.28/26.62) -1 = 0.1 0.4
+
+The average periodic growth rate, as an estimator of g, is therefore given by the sum of annual growth rates divided by the number of observations. g = 0.4 / 4 = 10% Alternatively, we can calculate dividend growth by solving for g in the following equation and rearranging terms. $20 (1+g)4 = $29.28. (1 + g) = 4√ (29.28/20.00) g = 1.10 - 1.00 = 0.10 = 10% 2.	 The Forecast Dividend and Yield Using the previous data and the appropriate equations: The forecast dividend per share for 2013 should be $29.28 (1.1) = $32.21 If Adele’s shares are currently priced at $268.40 and dividends are expected to grow at ten per cent per annum beyond 2013, the current yield is 22 per cent. This is derived by solving for Ke in the Gordon Growth model as follows: (17)	P0 = D1 / Ke - g = $32.21/ Ke - 0.10 = $268.40 Rearranging terms:
+
+Ke = ( D1 / P0) + g = ($32.21 / $268.40) + 0.10 = 22%
+
+25
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+The Role of Dividend Policy
+
+Summary and Conclusions
+Our Exercises have focused on the inter-relationships between dividend policy, the behaviour of the dividend yield and the price of a company’s shares in the presence of growth financed by retentions. They illustrate why Myron J. Gordon believed that movements in share price relate to: 1.	 Corporate investment policy, rather than dividend policy under conditions of certainty. 2.	 Dividend policy, rather than corporate investment policy, under conditions of uncertainty. According to his “bird in the hand” hypothesis, the policy objective for an all-equity firm in a real world of uncertainty is unambiguous: Maximise the dividend payout ratio and you minimise the equity capitalisation rate (yield) which maximises share price and hence shareholder wealth. But as we explained in CVT, when Gordon published empirical evidence designed to test his hypothesis and theoretical conclusions, his results were inconclusive. The reasons for which, we shall now analyse in Chapter Four
+
+Selected References
+1.	 Fisher, I., The Theory of Interest, Macmillan (New York), 1930. 2.	 Gordon, M. J., The Investment, Financing and Valuation of a Corporation, Irwin, 1962. 3.	 Hill, R.A., Corporate Valuation and Takeover: Parts One and Two, bookboon.com (2011).
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+26
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Corporate Valuation and Takeover: Exercises
+
+Dividend Irrelevancy
+
+4	 Dividend Irrelevancy
+Introduction
+In a world of uncertainty, but reasonably efficient markets, Gordon presents a plausible hypothesis to explain why movements in share price relate to corporate dividend policy using the following growth model. (17)	P0 = D1 / Ke - g subject to the constraint that Ke > g Because rational, risk-averse investors prefer their returns in the form of dividends now, rather than later (a “bird in the hand” philosophy), the overall shareholder return (yield) or managerial cut-off rate for investment, is not a constant but a function of the timing and size of the dividend payout ratio. Expressed mathematically: Ke = f ( Ke1 < Ke2 < … Ken ) Consequently, share price is a positive function of the dividend payout ratio. As we explained in Chapter Three, Gordon and others who tested his model empirically were unable to prove this proposition categorically, even for all-equity firms, because of the statistical problem of multicolinearity. Explained simply, change D1 and all the other variables on the right hand side of Equation (17) are also affected (i.e. not only Ke but g). Fortunately, two of Gordon’s American academic contemporaries, Franco Modigliani and Merton H. Miller (MM henceforth) provided the investment community with a lifeline. According to MM (1961 onwards) the equity capitalisation rate (Ke) conforms to the company’s class of business risk, so that under conditions of certainty share price is indeed a function of corporate investment and not dividends, just as Gordon predicts. However, under conditions of uncertainty, MM maintain that the statistical significance of the Gordon model is inconclusive because it confuses dividend policy with investment policy. -- Any increase in the dividend payout ratio, without any additional finance, reduces a firm’s operating capability and vice versa. -- Because uncertainty is non-quantifiable, it is logically impossible to capitalise a multi-period future stream of dividends, where Ke1 < Ke2 < Ke3 ...etc. according to the investors’ perception of the unknown. MM therefore define a current ex-div share price using the following one period model: (18)	P0 = D1 + P1 / 1 + Ke
+
+27
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+Dividend Irrelevancy
+
+where Ke equals the shareholders’ desired rate of return (yield) and managerial cut-off rate for investment, which correspond to the “quality” of a company’s periodic earnings (class of business risk). The greater their variability, the higher the risk, the higher Ke , the lower the price and vice versa. MM then proceed to prove that because dividends and earnings are perfect economic substitutes in reasonably efficient markets: For a given investment policy of equivalent business risk, a change in dividend (D1) cannot alter a company’s current ex-div share price (P0) because Ke remains constant. The next ex-div price (P1) increases by any corresponding reduction in dividend (D1) and vice versa, leaving P0 unchanged
+
+Exercise 4.1: Dividend Irrelevancy
+Before we rehearse the MM dividend irrelevancy hypothesis more fully, let us benchmark the inter-relationship between shareholder wealth maximisation, the supremacy of investment policy and dividend irrelevancy in a perfect capital market characterised by Fisher (op cit). Suppose the Winehouse Company, an all equity firm generates a net annual cash flow of £100 million to be paid out as dividends in perpetuity. The yield and corporate cut-off (discount rate) correspond to a 10 per cent market rate of interest commensurate with the degree of business risk. Thus, the constant dividend valuation model, based on the capitalisation of a level perpetuity gives a total equity value (market capitalisation): VE = £100 million / 0.10 = £1,000 million Now assume that the company intends to finance a new project of equivalent risk by retaining the next dividend to generate an incremental net cash inflow of £200 million twelve months later, all paid out as an additional dividend. Thereafter, a full distribution policy will still be adhered to. Required: 1.	 Calculate the revised value for VE 2.	 Evaluate whether management is correct to retain earnings and whether shareholders should continue to invest in the company? An Indicative Outline Solution Our answer reviews the investment and financial criteria that underpin the normative objective of shareholder wealth maximisation, using NPV maximisation as a determinant of share price. 1.	 The Revised Equity Value (VE) The first question we must ask ourselves is how the incremental investment (a new project financed by the non-payment of a dividend) affects the shareholders’ wealth?
+
+28
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises We can present the managerial retention decision in terms of the revised dividend stream:
+t0 £ million Existing dividends Project cashflows Revised dividends £ t1 £ 100 (100) t2 £ 100 200 300 t3 £ 100 100 ….
+
+Dividend Irrelevancy
+
+t∞ £ 100
+
+100
+
+If we now compare total equity values using the discounted value of future dividends: VE (existing) = £100 million / 0.10	 = £1,000 million VE (revised) = £300 million / (1.1)2 + (£100 million / 0.10) / (1.1)2 = £1,074.4 million Thus, once the project is accepted the present value (PV) of the firm’s equity capital will rise and the shareholders will be £74.4million better off. For those of you familiar with DCF analysis and the NPV concept, it is also worth noting that the same wealth maximisation decision can be determined from a managerial perspective without even considering the fact that the pattern of dividends has changed.
+
+.
+
+29
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Corporate Valuation and Takeover: Exercises
+
+Dividend Irrelevancy
+
+The increase in total value is simply the new project’s net present value (NPV) given by the corporate DCF capital budgeting model.
+
+ 139 PLOOLRQ   
+2.	 An Evaluation of the Data
+
+PLOOLRQ  
+
+PLOOLRQ
+
+In our example, management is correct to retain earnings for reinvestment. The shareholders relinquish their next dividend. However, they gain an increase in the current ex-div value of their ordinary shares, which not only conforms to Fisher’s Separation Theorem but also the MM dividend irrelevancy hypothesis. In perfect capital markets, where the firm’s investment decisions can be made independently of the consumption decisions of shareholders: -- NPV project maximisation produces shareholder wealth maximising behaviour. -- It is a change in investment and not dividend policy that determines the value of equity.
+
+Exercise 4.2: The MM Dividend Irrelevancy Hypothesis
+Chapter Four of CVT presents a comprehensive theoretical exposition and practical illustrations of the MM dividend irrelevancy hypothesis from both a proprietary (shareholder) and entity (managerial) perspective. Based on a sequential case study of different dividend-retention policies, initially applied to Gordon’s growth model in Chapter Three, we developed a data set for an all equity firm (Jovi plc) with one million ordinary shares (common stock) in issue and an individual investor holding 40,000 shares. We observed that if Jovi adopts a nil dividend distribution policy, its current ex-div price per share was defined as follows using the MM one period model: (18) P0 = D1 + P1 / 1 + Ke = 0 + £4.10 / 1.025 = £4.00 Required: If you return to the companion text (CVT) and the Review Activity for Chapter Four, you will find the following question, for which I did not provide an answer. To reaffirm the logic of the MM dividend irrelevancy hypothesis, revise the Jovi data set for a nil distribution to assess the implications for both the shareholders and the company if management now adopt a policy of partial dividend distribution, say 50 per cent? Let us now work through this together, given the assumption that profits are reinvested in projects of similar business risk with an equivalent yield of 2.5 per cent: An Indicative Outline Solution Our answer to the CVT Review Activity reinforces why MM hypothesised that dividends and retentions may be perfect substitutes in an all-equity firm, leaving shareholder wealth unaffected by changes in dividend distribution policy.
+
+30
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises 1.	 Dividend Irrelevancy
+
+Dividend Irrelevancy
+
+For a given investment policy of equivalent risk, a change in dividend policy (either way) does not alter current share price. The future ex-div price falls by the rise in the dividend for a given investment policy of equivalent business risk and vice versa, leaving the current ex-div price unchanged. 2.	 The Shareholders’ Reaction The MM case for dividend neutrality suggests that if a firm reduces its dividend payout, then shareholders can always satisfy their current income (consumption) preferences by creating home-made dividends. As we observed in Chapter Four, either they sell a requisite proportion of their holdings at an enhanced ex-div price, or borrow at the prevailing market rate of interest. In our question, the company has moved from a zero distribution to a partial distribution. So, do shareholders who stay with the firm have a problem? Using Equation (18) and our data where the Jovi company retains all earnings and Ke = 2.5%. P0 = D1 + P1 / 1 + Ke = £0 + £4.10 	 / 1.025 = £4.00 Assuming that the firm pursues a 50 per cent retention policy to reinvest in projects of equivalent business risk (i.e. Ke = 2.5 per cent). MM would redefine: P0 = D1 + P1 / 1 + Ke = £0.05 + £4.05 / 1.025 = £4.00 So, no shareholder is worse off. 3.	 The Company’s Reaction For their part too, firms can resort to new equity issues in order to finance any shortfall in their investment plans, or if they wish to pay a dividend. Reconsider Jovi with an original nil distribution and dedicated investment policy, whose shares are currently valued at £4.00 with an ex-div price of £4.10 at time period one: P0 = D1 + P1 / 1 + Ke = £0 + £4.10 / 1.025 = £4.00 The company has now decided to distribute 50 per cent of its earnings as dividends (5 pence per share on one million shares currently in issue). If investment projects are still to be implemented, the company must raise new equity equivalent to the proportion of investment that is no longer funded by retained earnings. From our equations for the MM proof in Chapter Four, this equals:
+
+31
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises (20)	mP1 = nD1 = £50,000
+
+Dividend Irrelevancy
+
+The substitution of this figure into the equation for the total market value of the original shares, based on all the shares outstanding at time period one (nP1+mP1), defines the total market value of original shares in issue as follows: (21)	nP0 = 1/ Ke [ nD1 + (n + m) P1 – mP1] And because the term (mP1 = nD1 ) disappears from this equation, it simplifies to: (22)	nP0 = 1/ Ke (n + m) P1 = 1/ 1.025 (nP1 + £50,000) = £4 million Since P1 is the only unknown, dividing through by the number of Jovi’s shares originally in issue (n = one million) and using Equation (18) P0 = D1 + P1 / 1 + Ke = £0.05 + P1 / 1.025 = £4.00 And solving for P1: P1 = £4.05 So, as MM hypothesise:
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+32
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Corporate Valuation and Takeover: Exercises
+
+Dividend Irrelevancy
+
+Share price movements compensate for revisions to dividend-retention policy. In our example, the ex-div share price at the end of the period has fallen from its initial value of £4.10 to £4.05, which is exactly the same as the 5 pence rise in dividend per share, leaving P0 unchanged. Because the dividend term disappears from the MM equation for the market capitalisation of equity, it is impossible to assert that share price is a function of dividend policy.
+
+Summary and Conclusions
+Once a company has issued ordinary shares (common stock) and received the proceeds, it is neither directly involved with their subsequent market transactions, nor the prices at which they are transacted. These are negotiable between existing shareholders and prospective investors, based on their perception of corporate performance measured by earnings, dividends, growth and capital gains. So, in mature mixed market economies where ownership is divorced from control, modern finance theory neatly resolves this dilemma by assuming (rightly or wrongly) that: The normative objective of modern financial management is to maximise shareholder wealth, based on NPV maximisation techniques. We therefore began our analysis of this objective by tracing the development of modern finance throughout the twentieth century, underpinned by the simplistic assumptions of reasonably efficient capital markets under conditions of certainty with few barriers to trade, characterised by freedom of information. According to a significant body of independent academic work by Fisher (1930), MM (1961) and Gordon (1962), reinforced by the efficient market hypothesis (EMH) of Fama (1965) and agency theory formalised by Jensen and Meckling (1976) Management can justify retained earnings to finance future investment, rather than pay a current dividend, if their marginal return on new projects at least equals the market rate of interest that shareholders could obtain by using dividends to finance alternative investments of equivalent business risk elsewhere. Shareholders would support such behaviour, since it cannot detract from their wealth. What they lose through dividends foregone, they receive through increased equity values generated by internally financed projects discounted at their required opportunity rate of return. Moving to a real world of uncertainty, however, this academic consensus falls apart. Gordon believes that movements in share price relate to corporate dividend policy, rather than investment policy. Rational, risk-averse investors should prefer their returns in the form of dividends now, rather than later. So, share price is a positive function of the dividend payout ratio.
+
+33
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+Dividend Irrelevancy
+
+MM maintain that because dividends and retentions are perfect economic substitutes, shareholders who need to replace a missing dividend to satisfy their consumption preferences have a simple solution. They can create home-made dividends by either borrowing an equivalent amount at the same rate as the company, or sell shares at a price that reflects their earnings and reap the capital gain. According to MM, the borrowing (discount) rate is defined by an investment’s business risk (the variability of earnings) and not financial risk (the pattern of dividends). So, corporate distribution policy is trivial. Dividend decisions are concerned with what is done with earnings after the event, but do not determine the risk originally associated with the quality of investment that produces them. Let us now translate these conflicting theories into twenty-first century practice.
+
+Selected References
+1.	 Gordon, M. J., The Investment, Financing and Valuation of a Corporation, Irwin, 1962. 2.	 Miller, M. H. and Modigliani, F., “Dividend policy, growth and the valuation of shares”, The Journal of Business of the University of Chicago, Vol. XXXIV, No. 4 October 1961. 3.	 Fisher, I., The Theory of Interest, Macmillan (New York), 1930. 4.	 Fama, E.F., “The Behaviour of Stock Market Prices”, Journal of Business, Vol. 38, 1965. 5.	 Jensen, M. C. and Meckling, W. H., “Theory of the Firm: Managerial Behaviour, Agency Costs and Ownership Structure”, Journal of Financial Economics, 3, October 1976. 6.	 Hill, R.A., Corporate Valuation and Takeover: Parts One and Two, bookboon.com (2011).
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+34
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Corporate Valuation and Takeover: Exercises
+
+Part III
+
+Part III: A Guide to Stock Market Investment
+
+35
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+Stock Market Dynamics: An Illustration
+
+5	 Stock Market Dynamics: An Illustration
+Introduction
+Part Three of the CVT companion text translates conflicting theories of share valuation into practical terms with reference to real world share price listings, based on the capitalisation of a perpetual annuity. Chapter Five explains how published stock market data relating to price, dividends (the yield and cover) and earnings (the P/E ratio) are analysed by the investment community, supplemented by other informed sources to implement trading decisions (whether buy, sell or hold). Chapters Six and Seven evaluate various strategies for investment based on dividends, growth and whether we can “beat” the market. Assuming that you are already familiar with this material: The purpose of this Chapter is to illustrate how the distillation of company data into a few select metrics can provide the private investor with a disciplined framework for analysing the dynamics of its stock market performance
+
+Exercise 5.1: Published Accounting and Stock Market Data
+Consider the following financial data for Ozzy plc. Share Capital: Par or Nominal Value (£1.00)	 £	 100	million Profit after Tax 	 Market Capitalisation of Equity 	 Required: Reformulate the data to provide accounting (cost) and market (value) investment profiles as a basis for analysing the company’s performance and comment on their utility. An Indicative Outline Solution The accounting profile for Ozzy plc comprises: Par Value: £1.00; Dividend per share (DPS):5p; Dividend %:5%; Earnings per share (EPS):10p: ROCE 10% Because this data is cost based it reveals absolutely nothing about the “true” performance of the company, even if we have similar figures for previous years, or data for similar firms in a similar industry, £	 10	million 5	% £	 200	million Dividend Percentage 		
+
+36
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+Stock Market Dynamics: An Illustration
+
+In contrast, a value investment profile, based on the market capitalisation of equity, takes us beyond the “regulatory” (GAAP) framework of accounting and out into the “real world” of financial analysis. The market profile for Ozzy (as published in the financial press) can be derived from a reformulation of the accounting data derived from DPS (5 pence) EPS (10 pence) and the market price per share of £2.00 (rather than £1.00 par or nominal value). Price: £2.00; Dividend Yield: 2.5%; Cover: 2.0; P/E: 20; Earnings Yield; 5% -- The Dividend yield is the percentage dividend received for every £100 invested in a company. -- The Dividend cover gauges the quality of dividends (i.e. their risk of being cut) in relation to earnings -- The P/E ratio is the reciprocal of the earnings yield for every £100 invested. Admittedly, this listing also reveals little about the company in isolation. Remember that performance is relative and dynamic. So, it must be placed in context using comparisons, such as movements in the market, similar firms in similar industries, or the firm itself over time. However, armed with benchmark data for Ozzy plc and these comparisons (which are freely available) a value rather than cost based analysis should reflect current economic reality more accurately.
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+37
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Corporate Valuation and Takeover: Exercises
+
+Stock Market Dynamics: An Illustration
+
+Exercise 5.2: “Beating” the Market
+To analyse the dynamics of stock market performance, assume that Ozzy plc is a blue chip company with a reasonable investment profile in a sound market sector, all of which you have gleaned from the financial press, analyst reports, media comment and the internet. You will recall that the company’s latest investment profile, published by the financial press in their stock exchange listings comprises: Price: £2.00; Dividend Yield: 2.5%; Cover: 2.0; P/E: 20; Earnings Yield; 5% So, would you include this company in a diversified portfolio of investments? Without comparative price, yield, cover and P/E data relative to the market or competitors over time, there is no definitive answer. Like all companies, Ozzy plc must be placed in context. But on the available qualitative information, it is reasonable to assume that rational, risk-averse investors would hold a proportion of the company’s shares in their portfolio. Required: Assume you therefore own a proportion of Ozzy’s shares and over lunch with a board member she reveals that the company is about to issue a profit warning. Having recently attended a government conference on the Eurozone crisis, she also believes that the economy will suffer a 50 per cent downturn in the near future. Armed with this information 1.	 What is your next move? 2.	 How will markets react when your “insider” information enters the public domain? 3.	 What are the eventual implications for the company’s stock exchange listing when recession bites? 4.	 Did you “beat” the market? As a guide to your answers, incorporate a hypothetical sequence of stock market indicators, beginning with Ozzy’s current investment profile, as the company and the economy take a turn for the worse. An Indicative Outline Solution Whilst stock market analysis is not an exact science, the traditional view based on the EMH asserts that: Without access to “insider” information (which is illegal) in the long run it is impossible to beat the market (except by accident and not design) because investors are rational, markets are reasonably efficient and therefore movements in price and returns are random. But you are in a “privileged” position with access to information that has not yet entered the public domain.
+
+38
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises 1.	 What is your next move?
+
+Stock Market Dynamics: An Illustration
+
+The future profits and prices for Ozzy plc will fall as the economy moves into recession. If you accept the illegality of your actions, your rational response should be to sell immediately and reap a capital gain, whilst the rest of the market is oblivious to future events. 2.	 How will markets react when all this information enters the public domain? If the stock market is reasonably efficient, Ozzy’s price should fall, simply because something must give; either distributions or retentions used to finance re-investment. Otherwise, the company must increase its borrowing to maintain the balance between the two And this is where more information and figures would be useful. Let us assume that with the profit warning and a 50 per cent economic down turn, the company’s share price tracks the market’s recession. EPS also halves, falling from 10 pence to 5 pence. However, management decide to maintain a dividend of 5 pence per share. Can you now fill in the gaps in the following investment profile post-recession denoted by a question mark? Pre- Recession:	 Price: £2.00;	 Post-Recession:	 Price: £1.00;	 If so, you will note that: -- The dividend yield has doubled to 5 per cent and the dividend cover has halved to one. -- The P/E ratio remains unchanged at 20, which is equivalent to the original earnings yield of 5 per cent. -- The market capitalisation of equity has halved to £10 million. The market’s dynamics can be explained as follows -- Although the 5 pence dividend per share is maintained, the “quality” of the dividend (financial risk) measured by the cover deteriorates because EPS has halved from 10 to 5 pence. -- Shareholders receive twice the previous dividend yield but not because the investment is more profitable. -- New investors will now pay only half the price (£1.00) for the same distribution (5 pence) to compensate for twice the financial risk (i.e. the rising yield reflects the increased likelihood of the non-payment of a dividend). 3.	 What are the eventual implications for the company’s stock exchange listing? As we observed in CVT: A basic stock market law is the higher the risk, the lower the price, the higher the yield and vice versa. Yield: 2.5%;	 Yield: ? ;	 Cover: 2.0;	 Cover: ? ;	 P/E: 20;	 P/E: ? ;	 Market Capitalisation: £20 million. Market Capitalisation: ?
+
+39
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+Stock Market Dynamics: An Illustration
+
+However, a piece of this puzzle still doesn’t fit. Why do the company’s earnings yield and corresponding P/E ratio remain the same, once the recession sets in? You will recall from our previous discussion of the MM dividend irrelevancy hypothesis that yields based on the quality of earnings only remain constant for a given investment policy of equivalent risk that will not change But in our scenario, the company’s future re-investment policies and earnings potential have been cut back by management’s desire to maintain dividend distributions, despite a profit warning and economic recession. So, shouldn’t the earnings yield also rise (and the P/E ratio fall) to compensate for business risk? To illustrate how the market might react according to MM, let us assume that rational, risk-averse investors therefore continue to sell their shares and its price falls further to 75 pence. This is reasonable, given another fundamental rule of stock market law explained in CVT. The higher the dividend yield, or the lower the P/E ratio, or the lower the dividend cover: then the higher the risk of an investment, (and vice versa). After the recession we therefore observe the following revised equilibrium share price listing for Ozzy plc: Price: £0.75; Yield: 6.66%; Cover: 1.0; P/E: 15; Market Capitalisation: £75 million.
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+40
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Corporate Valuation and Takeover: Exercises 4.	 Did you “beat” the market? Based on insider information, of course you did!
+
+Stock Market Dynamics: An Illustration
+
+Selling “high” at £2.00 produced a profit of £1.25 per unit on your shareholding, which now trades at only 75 pence.
+
+Summary and Conclusions
+In Chapter One of this Exercise series and our CVT theoretical companion text, we have emphasised that irrespective of whether markets are efficient, behaviour is rational and prices or returns are random, every investor requires standards of comparison to justify their next trading decision. For example, has a firm’s current price, dividend or earnings prospects risen, fallen, or remained the same, relative to the market, its competitors, or own performance over time? And how are they trending? Subsequently, we have observed that the key to unlocking these questions presupposes a theoretical understanding of how shares are valued and its application by investors (institutional or otherwise) using information that may, or may not, lie in the public domain. We have also noted that without access to insider information, stock market analysis is not an exact science. You are one of a multiplicity of ordinary market participants, rather than a member of the privileged few. You “win some” you “lose some” because overall investment is a “fair” game for all. However, this is where individual attitudes to risk come into play and the “science” breaks down. You will recall from Part Three of CVT that another “golden” rule for profitable investment is to sell shares when their price is high and buy when low. So looking back to Exercise 5.2 and the final equilibrium profile for Ozzy plc you obviously have a “golden” opportunity to reinvest the profit from insider trading of the company’s shares before the market bottoms out and speculative investors, or predatory companies motivated by takeover, express an interest that could force price up. Notice, however, that Ozzy plc might seem a bargain buy but only because the company is currently worth more “dead than alive”. Private investors should therefore be cautious. Explained simply, the new market capitalisation of equity (£75 million) is not only less than its market valuation (£20 million) prior to the profit warning and recession, but also the original issue price of £100 million based on its nominal (par) value of £1.00 per share revealed by the Balance Sheet. So, there is certainly no evidence of “goodwill” and the tangible assets (even at historical cost) are likely to be worth more than 75 pence per share. All of which means that the company is ripe for take over, not as a going concern but for “asset stripping”. To prove the point, consider the original data set for Ozzy plc presented in Exercise 5.1 before any public or private knowledge of a profit warning or economic recession.
+
+41
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises Share Capital: Authorised and Issued (£1.00) 	 £100 million Profit after Tax 				 Market Capitalisation of Equity 		 £10 million £200 million Dividend Percentage 				5%
+
+Stock Market Dynamics: An Illustration
+
+And as a prelude to the Exercises in Part Five that deal with takeover activity, it would be useful to amend this table for future reference using the post-recession data.
+
+Selected References
+1.	 Hill, R.A., Corporate Valuation and Takeover: Parts One, Two and Three, bookboon.com (2011). 2.	 Miller, M. H. and Modigliani, F., “Dividend policy, growth and the valuation of shares”, The Journal of Business of the University of Chicago, Vol. XXXIV, No. 4 October 1961.
+
+AXA Global Graduate Program
+Find out more and apply
+
+42
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Corporate Valuation and Takeover: Exercises
+
+Part IV
+
+Part IV: Valuation and Takeover
+
+43
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+A Stock Exchange Listing
+
+6	 A Stock Exchange Listing
+Introduction
+In Part Three we explained how share price listings based on valuation theories that encompass dividends (the yield and cover) and earnings (the P/E ratio) are analysed by private investors and financial institutions to implement their trading decisions (i.e.” buy, sell or hold”). We shall now apply these dynamics to the corporate sector and the specific case of a firm seeking a stock exchange listing and hence a market valuation for the first time. In Chapter Seven we shall develop this corporate theme with an analysis of the most important trading decision subsequently undertaken by corporate management: namely the takeover of one firm by another.
+
+Exercise 6: Coming to the Market
+At Board meetings of the privately owned Bowie Company, the recurrent question is how to finance future growth. The rational solution would appear to go public with a listing on the London Stock Exchange. Mr. David, the company chairman, produces the following information recently obtained from a Manhattan consultancy concerning two listed companies, Eno plc and Ronson plc. Both firms are similar to Bowie in respect to size, asset composition, financial structure and product mix.
+(QR5RQVRQ (DUQLQJVSHUVKDUH $YHUDJHHDUQLQJVSHUVKDUH $YHUDJHPDUNHWSULFHSHUVKDUH 'LYLGHQGVSHUVKDUH $YHUDJHGLYLGHQGVSHUVKDUH %RRNYDOXHRIDVVHWVSHUVKDUH
+
+On the basis of this information, Mr. David asks what you think the Bowie Company was worth in 2012. The only other data that you have available at the moment are the company’s final accounts, which disclose the following ($ million)
+6KDUHFDSLWDO2UGLQDU\VKDUHV 3RVWWD[HDUQLQJV *URVVGLYLGHQG %RRNYDOXHRIDVVHWV
+
+From memory, you also recall that the post-tax earnings and dividends for 2012 were one third higher than the average for the previous four years.
+
+44
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises Required: As a basis for more detailed analysis; 1.	 Calculate valuation multipliers for Bowie based on those for Eno and Ronson. 2.	 Produce a range of values for Bowie using these multipliers. 3.	 Evaluate your results and advise the Chairman on the feasibility of going public. An Indicative Outline Solution
+
+A Stock Exchange Listing
+
+The key to answering these questions is an understanding of the term valuation multiplier, which should be familiar, given our detailed discussion of the P/E ratio elsewhere in this text and its CVT companion. Using the concept of the capitalisation of a perpetual annuity (maintainable yield): Value (price) is simply a multiple of earnings that may be interpreted as the number of years required to recoup your investment. Likewise, value can also be defined as a multiple of dividends, the price-dividend (P/D) ratio. 1.	 The Valuation Multipliers The competitors’ P/E and P/D ratios (past, present or future) provide multipliers that can be applied to a company’s earnings and dividends per share to determine a possible range of share prices if it is to go public. With the information available we can also use an asset valuation ratio (market value of assets over book value) to determine a benchmark price. Our over-arching objective is the derivation of a share price that ensures the successful launch of Bowie on the market as a going-concern. This two stage process can be summarised as follows:
+
+45
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Corporate Valuation and Takeover: Exercises Earnings and dividends per share for Bowie ($million)
+            (36     $Y(36     'LY36      $Y'36         
+
+A Stock Exchange Listing
+
+This data has been derived as follows;
+PLOOLRQ           (DUQLQJV   'LYLGHQGV    
+
+$QQXDO$YHUDJHV  7RWDO  2YHUDOO$YHUDJH 
+
+Valuation Multipliers
+%DVLV   (36    $Y(36   '36   $Y'36         (QR  5RQVRQ            
+
+                     
+
+0DUNHW3ULFH%RRN9DOXH
+
+2.	 A Range of Share Prices for Bowie: based on multiples for Eno and Ronson ($)
+(DUQLQJVSHUVKDUH 'LYLGHQGVSHUVKDUH                
+
+$YHUDJH(DUQLQJVSHUVKDUH
+
+$YHUDJH'LYLGHQGVSHUVKDUH   0DUNHW3ULFH%RRN9DOXH
+
+ 
+
+ 1RWHWKHFDOFXODWLRQRI0DUNHW3ULFH%RRN9DOXH  [ [
+
+46
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises 3.	 A Data Evaluation Any discussion of your results should initially highlight the following points: -- Price per share varies widely from $12.00 to $38.50. -- The lower price range reflects trailing low dividend payout ratios. -- Prices still vary from $24.00 to $38.50, if we ignore dividend policy.
+
+A Stock Exchange Listing
+
+-- Using the earnings multipliers (P/E ratios), price ranges narrow from $24.00 to $32.00 with an average of $28.00 for 2012. -- The highest price of $38.50 is defined by an asset valuation ratio (market value of assets over book value). Bowie therefore has two problems that must be resolved before coming to the market. Can you explain them?
+
+Summary and Conclusions
+To determine a realistic issue price, management must translate a company’s financial history and current status disclosed by published accounts into a desirable investment profile, based on stock exchange listings for similar firms already quoted on the market. As a basis for valuation, this profile should encompass the dividend yield, the P/E ratio (or its reciprocal, the earnings yield) and latest asset position. These are factors upon which the company will be judged by prospective investors to ensure full subscription when it comes to the market. In our illustration, the company has two dilemmas. First, the lower range of valuations for Bowie reflects a history of low dividend payout ratios, which could deter prospective investors. After all, a share’s price is ultimately determined by the discounted sum of expected future dividends. And adequate dividend yields are necessary to attract investors, now as well as in the future, who seek regular income. On the other hand, it can be argued that the dividend valuations currently prepared for Bowie are obviously low because they are based on the capitalisation of a perpetual annuity, which is constant. It ignores any allowance for growth and the possibility of capital gains incorporated into future share prices when the stock is eventually sold. The provision of further data using the Gordon growth model explained in Chapter Three can remedy this situation. But it is worth noting that a low dividend payout ratio should not necessarily worry the company. The market may interpret a low yield relative to earnings as a signal by Bowie that it has a profitable re-investment strategy. You will recall from CVT that many companies offer high prospective dividend yields because they have no growth prospects and little idea of what to do with any cash surplus. Indeed, we have already observed theoretically, why Modigliani and Miller (MM) way back in the 1960s maintained that the purpose of a dividend is to return unused funds to shareholders. This is not to say that companies should ignore distribution policy altogether. But eventually, a company is more likely to fail if dividends are excessive, leaving too little earnings for investment. However, this leads to our second point.
+
+47
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+A Stock Exchange Listing
+
+If companies seeking a stock exchange listing regard earnings as their primary valuation driver (which incorporates shareholders’ future dividend and growth expectations to match those of its competitors) surely an earnings valuation should also exceed an asset valuation? Without further information on the prospect of higher forecast levels of earnings for Bowie, the asset valuation multipliers, based on the relationship between market value and book value, produce the highest prices per share. But surely if the company is to expand and finance future growth, an earnings valuation should exceed an asset valuation, with the difference represented by what accountants’ term “goodwill”. Unless there is something special about the firm’s asset mix (such as a high proportion of recently valued property or investments) data drawn from its accounts is the least reliable measure of corporate worth, given the deficiencies of financial reporting based on GAAP analysis. To conclude, the question that the company’s chairman (Mr David) should address is not whether Bowie should seek a stock exchange listing, but whether it is worth more “dead than alive”?
+
+Selected References
+1.	 Hill, R.A., Corporate Valuation and Takeover, bookboon.com (2011). 2.	 Gordon, M. J., The Investment, Financing and Valuation of a Corporation, Irwin, 1962. 3.	 Miller, M. H. and Modigliani, F., “Dividend policy, growth and the valuation of shares”, The Journal of Business of the University of Chicago, Vol. XXXIV, No. 4 October 1961.
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+48
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Corporate Valuation and Takeover: Exercises
+
+Acquisition Pricing Policy
+
+7	 Acquisition Pricing Policy
+Introduction
+In Part Three we explained how private investors and financial institutions analyse share price listings based on valuation theories that encompass dividends (the yield and cover) and earnings (the P/E ratio) to implement their trading decisions (i.e.” buy, sell or hold”). Part Four began by applying these dynamics to the corporate sector and the specific case of a firm seeking a stock exchange listing and market valuation. We shall now analyse the most important trading decision undertaken by a listed company: namely the takeover of one firm by another. Based on your reading of Chapters’ Ten to Twelve of CVT and its referenced research, the objectives of our final Exercises are to: -- Illustrate why the commercial rationale for takeover activity should be based on wealth maximisation criteria, measured by a significant improvement in long-term earnings after an acquisition. -- Derive a going-concern valuation for one company (the “target”) by another (the “predator”) as a basis for acquisition. -- Demonstrate why the target company’s going-concern capitalisation of future earnings (and bid price per share) prepared by the predatory company should exceed a corresponding current valuation of the target’s net assets (which in turn should exceed its Balance Sheet figures). -- Explain why the difference between the two valuations and the price paid for “goodwill” should not be so highly valued (risky) as to invalidate the takeover.
+
+Exercise 7.1: A “Suspect” Takeover Valuation
+W. Stripes plc has completed an objective analysis of its strategic capabilities and decided upon a potential acquisition as the most viable means of achieving its goal, namely diversification. The chosen “target” is a “blue chip” company, Ozzy plc, whose background data you are already familiar with from Chapter Five. This company currently earns a “normal” return for its sector, although its current share price has been adversely affected by a recent “profit warning” and the wider economic recession. For simplicity, we shall assume that Stripes’ motivation for the takeover is not only rational but also cash based. So, borrowing (leverage) is not an issue. The acquisition investment profile prepared by Stripes is summarised as follows:
+
+49
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+Acquisition Pricing Policy
+
+7DUJHW'DWDSUHDFTXLVLWLRQ3UHGDWRU\'DWDSRVWDFTXLVLWLRQ  1RPLQDO6KDUH&DSLWDOP1HW$VVHW5HYDOXDWLRQP 3URILWDIWHU7D[P5HWXUQRQ$VVHWV 0DUNHW&DSLWDOLVDWLRQRI(TXLW\P$VVLPLODWLRQRI*RRGZLOO\HDUV
+
+The pre-acquisition data conforms to the table you were asked to derive at the end of Chapter Five for future reference. Required: Having read Part Four of the CVT text, prepare a financial report for Stripes that contains: 1.	 A summary of the objective and subjective motivational factors that underpin takeover activity. 2.	 A range of bid prices per share for Ozzy plc as a going concern, with reference to a: -- Net asset valuation -- Goodwill valuation -- Profitability valuation 3.	 A brief commentary on your findings 4.	 A risk assessment based on your valuations 5.	 Any recommendations An Indicative Outline Solution 1.	 Motivational Factors An objective analysis of any prospective acquisition should be based on rational managerial objectives underpinned by shareholder wealth maximisation criteria. Hopefully, these will be confirmed subsequently, by a significant improvement in the predator company’s long-term earnings post-acquisition. Chapter Nine of CVT explains how this requires a comprehensive valuation based on the following strategic considerations prior to take-over activity. Business Resource Influence
+
+However, all too often, the agency principle breaks down because subjective managerial motives associated with an acquisition take precedence over commercial objectives, notably management’s pursuit of: Growth Prestige Security
+
+And as we observed in CVT (Chapter Nine) the history of corporate takeovers revealed by the academic literature illustrates the extent to which these policies lead to financial disaster. With regard to Stripes strategy, diversification can vary its activities. It is always sensible to avoid “putting all your eggs in one basket”. But will this add value and create shareholder wealth?
+
+50
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+Acquisition Pricing Policy
+
+If you have read the bookboon text “Portfolio Theory and Financial Analyses” (2010) or any others by the author on the subject (see the references at the end of this Chapter) you will be aware that diversification can help management in one of two ways. Academic studies reveal that diversification has the potential to provide: -- The same return on investment as before, but with less risk. -- Higher returns than before, for the same risk. Unfortunately, diversification isn’t simply a question of investors buying more shares to add to their portfolio, or of one company acquiring another. “Efficient” diversification arises from researching individual shares, or companies, with different returns from different business activities that perform well at different points in the economic cycle. The key to profitable risk- return diversification requires genuinely different sources of income. Hopefully, Stripes has researched this? 2.	 A Bid Price per Share An offer for Ozzy’s shares, currently trading at 75 pence (25 pence below nominal value because of a profit warning and recession), depends on three factors researched by Stripes:
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+51
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Corporate Valuation and Takeover: Exercises -- The minimum purchase price of net tangible assets, -- Evidence of goodwill, -- The total profitability of the business.
+
+Acquisition Pricing Policy
+
+Using equations with the same numbering from CVT (Chapters Ten and Eleven) where appropriate, the corresponding valuations are calculated as follows (i) 	 Minimum Valuation (net tangible assets)
+
+With 100 million shares in issue and a net tangible asset revaluation of £200 million we can derive a bid price of: £200m /100m = £2.00 per share (ii)	 Goodwill Valuation (capitalisation of super profits)
+
+From Chapter Ten, the value of goodwill is represented by the right-hand term in the following going concern equation (23)	 Where: V		 A		 P		 r		 P - rA		 m 		 (P - rA ) / m 	 =	 =	 =	 =	 =	 =	 =	 going concern value of the business value of net tangible assets expected profits per annum normal rate of return superprofit capitalisation rate of surperprofit value of goodwill V = A + [(P - rA) / m] Subject to m > r
+
+The value term for goodwill can also be rewritten from a conventional accounting perspective in terms of its useful life. (24)	 Where: (1/m)= a number of years purchase of superprofit Using the acquisition investment profile prepared by Stripes, we can therefore derive: Goodwill computation: (P - r A) / m Post-acquisition profit: 10% on £200m 	 £20.0 m V = A + [(P - rA) / (1/m)] Subject to m > r
+
+52
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises Less normal profit (given) 		 Super profit 				 £ 5.0 m £15.0 m
+
+Acquisition Pricing Policy
+
+Capitalised at 20% (i.e. 5 years purchase) 	 £75.0 m Going concern valuation: V = A + (P - r. A ) / m V = £200m + (£20m - £5m) / 0.2 = £275 million With 100 million shares in issue we can derive the following bid price: £275m /100m = £2.75 per share (iii)	 Profitability Valuation: (capitalisation of future earnings)
+
+If we assume that profits are constant in perpetuity, the going-concern value of a target company can be defined using two equations from Chapter Eleven, depending on the data available: (25)	 V = Π(1 - t) x P/E
+
+(26)	V = Π (1 - t) / Ke Where: V = going concern value of the business Π = expected profits at the valuation date t = rate of corporation tax P/E = price-earnings ratio Ke = earnings yield If profits grow at a constant rate in perpetuity (g) we can also rewrite Equation (26) using the constant growth formula explained in Part Two, based on anticipated post-tax earnings one year after takeover: (27)	V = [Π (1 - t)] (1 + g) / Ke - g	 subject to the proviso that Ke > g for V to be finite.
+
+Using the information prepared by Stripes, which ignores growth, we can therefore apply Equation (26) to capitalise post-acquisition profit at 10% as follows V = Π (1 - t) / Ke = £20 m / 0.10 = £200m And dividing by the 100 million shares in issue, we can derive the following bid price: £200m /100m = £2.00 per share
+
+53
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises 3.	 Commentary
+
+Acquisition Pricing Policy
+
+Ozzy’s mediocre stock market performance (confirmed by the £25 million shortfall between the market capitalisation of equity and nominal value) may explain why the asset revaluation prepared by Stripes, not only exceeds the market capitalisation, but also equals the profitability valuation. But why does the going concern value (using net assets plus “goodwill”) exceed the profitability valuation (which is based on the assets’ earning power capitalised at the post-acquisition rate of return)? Moreover, what is so special about the company’s intangible assets to justify their acquisition at such a highrisk price? Note that the capitalisation rate of superprofit (m = 20 per cent) is twice the normal rate of return (r = 10 per cent). 4.	 A Risk Analysis The tangible assets are important in any managerial risk assessment of corporate takeover. If the net assets divided by the market capitalisation of profits “cover” the price of investment significantly (i.e. the asset backing is high) or its reciprocal (the valuation ratio) is greater than one, this may compensate for corporate failure post-acquisition if the assets need to be sold off. You will recall from CVT (Chapter Eleven) that the purchase value of tangible assets relative to a profitability valuation (asset backing) is measured by the following equation: (28)	 Cover = Net asset valuation /Profitability valuation
+
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+54
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Corporate Valuation and Takeover: Exercises The acquisition can also be assessed by the reciprocal of cover, using the valuation ratio (29)	 Valuation ratio = Profitability valuation / Net asset valuation
+
+Acquisition Pricing Policy
+
+Using the target data, we can evaluate the asset cover and valuation ratio if Stripes is willing to pay a capitalised profit figure of £200m for assets valued at £200m as follows: -- Cover = Net asset valuation /Profitability valuation = 1.0 -- Valuation ratio = Profitability valuation / Net asset valuation = 1.0 The value of the tangible assets (asset backing) completely covers the profitability valuation The acquisition can also be justified (but only just) since the profit earning capacity of the business equals the net assets as evidenced by the reciprocal of the cover: namely the valuation ratio. 5.	 Conclusion As mentioned earlier, if a profit valuation equals a net asset valuation, the question predatory management must answer is where is the goodwill? We suggested earlier in this text (see the Summary and Conclusions to Chapter Five) that perhaps Ozzy plc is worth more “dead than alive” and only ripe for asset stripping. Stripes could definitely make an initial bid that flatters the current share price of 75 pence, moving up to a profitability valuation of £2.00 covered by the assets with little risk. However, beyond this figure, any going concern valuation that incorporates goodwill suggests that the purchase of say a brand name, unsupported by profits, requires: A radical reassessment of the forecast acquisition data, an allowance for growth, or alternatively a better company to complement Stripes’ existing activities
+
+Exercise 7.2: A “Promising” Takeover Valuation
+Riding on the back of domestic economic growth, the Mantra Company is an Indian cash-rich conglomerate that wishes to expand its global operations with European facilities. Through inept management, the highly regarded Rock Company based in the north of England with mining operations throughout the Europe has recently suffered a reversal of fortune. Share price has plummeted, so much so, that Mantra regards their takeover as a perfect fit for its existing activities. The Balance Sheet for Rock reveals the following:			 Share Capital: £1.00 ordinary shares 				 (£million) 1,200
+
+Reserves 							6,432 CAPITAL EMPLOYED 						7,632
+
+55
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises REPESENTED BY Mining property	 Equipment 	 Distribution Facilities 	 Vehicles 	 Investments 	 Current Assets:	 Current Liabilities: Taxation 	 Creditors 	 	 	 	 750 300 1,050 162 7,632 4,200 1,200 900 120 1,050 1,212
+
+Acquisition Pricing Policy
+
+	6,420
+
+As a basis for acquisition, Mantra believes that Rock’s post-takeover turnover and profits should be in the region of £33,000 million and £1,500 million, respectively. The company has also prepared the following data relating to the acquisition. -- A 15 per cent incremental return on any new asset investment. -- A five year assimilation of goodwill, equivalent to a 20 per cent return on superprofits. Rationalisation policies 	 Sale of equipment 	 Sale of investments at market value 	 Annual cost savings from sale of equipment 	 New construction costs 	 Required: 1.	 Prepare a series of bid prices per share, using any assumptions you care to make, based on the information available and the following valuation techniques. -- Tangible assets -- Goodwill -- Profitability 2.	 Provide a risk assessment of your valuations. 3.	 Summarise your bid strategy An Indicative Outline Solution 1.	 A Range of Bid Prices per Share £million 1,263 1,122 207 630
+
+56
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises (i) 	 Minimum Valuation (net asset revaluation) 	 Mining Property 	 Distribution Facilities 	 Sale of Equipment 	 Vehicles 	 Investments 	 Net Current Assets 	 Total Asset Value 	 £million 	 4,200 	 900 	 1,263 	 120 	 1,122 	 162 	 7,767
+
+Acquisition Pricing Policy Assumptions Current Valuation Current Valuation Realisable Value Current Valuation Current Valuation Current Valuation
+
+With 1,200 million shares in issue and a net tangible asset revaluation of £7,767 million we can derive a minimum bid price of: £7,767m / 1,200m 					 £ 6.50 per share (say)
+
+(ii) Goodwill Valuation (using the capitalisation of superprofits) Goodwill computation: (P - r. A) / m 			 Forecast profit per annum 					 Less normal profit (15% return on £7,767m) 		 Super profit per annum 					 Capitalised at 20% (5 years purchase) 			 £million 	 1,500 		 1,165 		 335 1,675 		 i.e. m > r Assumptions Given Incremental return
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+57
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Corporate Valuation and Takeover: Exercises Going concern valuation: V = A + (P - r. A ) / m V = £7,767m + (£1,500m - £1,165m) / 0.2 = £9,442 million With 1,200 million shares in issue we can derive the following bid price: £9,442m / 1,200m 					 (iii)	 £7.90 per share (say)
+
+Acquisition Pricing Policy
+
+Profitability Valuation: (capitalisation of future earnings)
+
+							£million 	Assumptions Forecast profit per annum 					 Cost saving per annum 					 Forecast profit per annum 					 Capitalised at 15% 					 Add: Sale of equipment 					 Sale of investments 					 1,500 		 207 		 1,707 11,380 		 1,263 		 1,122		 Incremental return Given Given Given Given Given
+
+Less: New build 						 (630) 		 Total Profitability Valuation 				 13,135
+
+So, dividing by the 1,200 million shares in issue, we can derive the following bid price: £13,135m / 1,200m 					 2.	 Risk Assessment Although we have no precise information on the current market price for Rock, its mediocre stock market performance explains Mantra’s predatory interest. Our range of bid prices per share also reveals an ideal “domino” effect. The profitability valuation exceeds the going concern valuation (incorporating any remaining goodwill), which is higher than the current market valuation of assets. The latter also exceeds the total Balance Sheet value of assets However, if profits do not materialise, or the residue of goodwill evaporates post-acquisition, then Mantra may have a problem. Their return on investment will be no more than the realisation of Rock’s assets. To assess the risk of a worst-case scenario using the information available, we can compare the purchase value of net tangible assets in relation to a profitability valuation. What is termed asset backing can be measured in one of two ways, using either market capitalisation (total value) or bid price per share. £10.95 per share (say)
+
+58
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises Cover 		 = Net asset valuation /Profitability valuation
+
+Acquisition Pricing Policy
+
+Valuation ratio 	 = Profitability valuation / Net Asset valuation Remember from your previous Exercise that the valuation ratio is the simply the reciprocal of the cover. So, we can define (with rounding) the two equations, either in aggregate, or on a per share basis, as follows. -- Market Capitalisation Cover: Net Asset Valuation/Profitability Valuation 		 = £7,767m / 13,135m 	 = 60% = 1.7 Valuation Ratio: Profitability Valuation/Net Asset Valuation 	= £13,135m / £7,767m 	 -- Bid Price Cover: Net Asset Valuation/Profitability Valuation 		 = £6.50 / £10.95 	 = 60% = 1.7 Valuation Ratio: Profitability Valuation/Net Asset Valuation	 = 1 / Cover 	
+
+The purchase value of Rock’s net tangible assets (asset backing) only supports sixty per cent of Mantra’s profitability valuation. But to access a new market that complements existing activities premised on global growth is a rational strategic manoeuvre, particularly if the target company’s shares are a bargain buy. 3.	 A Bid Strategy
+
+Mantra could make an initial bid of £6.50 but a fairer price might be £8.00, if only to flush out other predators. In the event of a “bidding war”, price might go higher still. Mantra can bide its time, and progressively up its offer to £11.00. Beyond this, much depends on the strength of its objective, strategic pre-planning, attitude toward risk and how the market values Rock’s shares
+
+Summary and Conclusions
+Having illustrated the methodologies for a number of different share valuation models and evaluated their relative strengths and weaknesses, it is important to emphasise that it is unwise to depend on any one method. Indeed, the juxtaposition of share prices using different models not only provides benchmarks for a bid strategy, but also room for manoeuvre post-acquisition. For example, we observed in CVT (Chapter Ten) that if a takeover is not part of a carefully conceived corporate plan, reflecting factors other than earnings (for example a net tangible asset “break-up” valuation) the predator may inherit a negligible return on investment that is not dissimilar to takeovers premised upon subjective managerial goals of growth, prestige and security. Prospective mergers may also elicit rising expectations on the part of existing shareholders and all other stakeholders of the target company (including, employees, customers, creditors and other financiers) as well as potential investors. And if their ambitions are not fulfilled after the event, any serious demotivation will detract from goodwill. Confidence may evaporate rapidly and the equity price of the acquiring company in its new form will tumble.
+
+59
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+Acquisition Pricing Policy
+
+At a macro level, the volatility of today’s global capital markets and their individual shares, created by serial financial crises, economic recession and political instability, all mean that investors (private, institutional, or corporate) can no longer rely on simple “number crunching”. Every stock market constituent needs a thorough understanding of theoretical share valuation models (whether they be asset, earnings, dividend and cash based) to comprehend the underlying factors that determine their future investment and financial decisions.
+
+Selected References
+1.	 Hill, R.A., Corporate Valuation and Takeover, bookboon.com (2011). 2.	 Hill, R.A., bookboon.com. Portfolio Theory and Financial Analyses, 2010. Portfolio Theory and Financial Analyses: Exercises, 2010. Portfolio Theory and Investment Analysis, 2010. The Capital Asset Pricing Model, 2010.
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+60
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Corporate Valuation and Takeover: Exercises
+
+Appendix: Stock Market Ratios
+
+Appendix: Stock Market Ratios
+1.	 Ordinary Share Values
+
+     'LYLGHQG\LHOG[0DUNHWYDOXH 1RPLQDOYDOXHRU3DUYDOXH        'LYLGHQG      1RPLQDOYDOXH['LYLGHQG 0DUNHW9DOXH       'LYLGHQG\LHOG
+2.	 Dividend measures (before deduction of income tax)
+
+    'LYLGHQGSHUVKDUH         2U    'LYLGHQGSHUFHQWDJH                             2U   2U 
+
+7RWDOGLYLGHQGJURVV 1XPEHURIVKDUHV 1RPLQDOYDOXH['LYLGHQG
+
+'LYLGHQG\LHOG[0DUNHWYDOXH   1RPLQDOYDOXH 'LYLGHQGSHUVKDUH
+
+1RPLQDOYDOXHRIDQRUGLQDU\VKDUH  7RWDOGLYLGHQGVJURVV
+
+7RWDOQRPLQDOYDOXHRILVVXHGRUGLQDU\VKDUHV 1RPLQDOYDOXH['LYLGHQG  0DUNHWYDOXH
+
+   'LYLGHQG<LHOG           2U          2U      
+
+'LYLGHQGSHUVKDUH[  0DUNHWYDOXHRIDQRUGLQDU\VKDUH  7RWDOGLYLGHQG[
+
+7RWDOPDUNHWYDOXHRIRUGLQDU\VKDUHV  LHPDUNHWFDSLWDOLVDWLRQ
+
+61
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises 3.	 Earning Measures (net of corporation tax)
+
+Appendix: Stock Market Ratios
+
+          5HWXUQRQFDSLWDOHPSOR\HG52&(               (DUQLQJVSHUVKDUH(36      
+
+    
+
+3URILWVDIWHUWD[PLQXVSUHIHUHQFH  GLYLGHQGJURVV[ %DODQFHVKHHWYDOXHRIRUGLQDU\  VKDUHVSOXVUHVHUYHV
+
+
+
+3URILWVDIWHUWD[DQGSUHIHUHQFHGLYLGHQGJURVV   1XPEHURIVKDUHV
+
+    (DUQLQJVSHUVKDUH[ (DUQLQJV<LHOG     0DUNHWYDOXHRIDQRUGLQDU\VKDUH     3URILWVDIWHUWD[DQGSUHIHUHQFHGLYLGHQGVJURVV[        2U        0DUNHWFDSLWDOLVDWLRQ     3ULFH(DUQLQJVUDWLR3(         
+4.	
+
+
+
+ 
+
+
+
+ (DUQLQJV\LHOG
+
+      
+
+      
+
+      
+
+ 2U   2U  
+
+0DUNHWYDOXHRIDQRUGLQDU\VKDUH  (DUQLQJSHUVKDUH
+
+0DUNHWFDSLWDOLVDWLRQ 3URILWVDIWHUWD[DQGSUHIHUHQFH  GLYLGHQGJURVV
+
+The Relationship Between Dividends and Earnings
+
+   'LYLGHQGFRYHU            
+
+ 
+
+
+
+
+
+(36
+
+'LYLGHQGSHUVKDUH 3URILWVDIWHUWD[DQGSUHIHUHQFHGLYLGHQGVJURVV 7RWDOGLYLGHQG
+
+ 2U
+
+62
+Download free eBooks at bookboon.com
+
+Corporate Valuation and Takeover: Exercises
+
+Appendix: Stock Market Ratios
+
+ 'LYLGHQGSD\RXWUDWLR       [ 'LYLGHQGFRYHU 'LYLGHQGSHUVKDUH 2U   2U   (36 [
+
+7RWDOGLYLGHQGV     3URILWDIWHUWD[DQG SUHIHUHQFH'LYLGHQGVJURVV [
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+63
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+

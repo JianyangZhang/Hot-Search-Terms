@@ -1,0 +1,1264 @@
+Innovative	Service	Design Workbook
+Five	Step	Process	and	TRIZ	Tools	for	Service	Designers Song-Kyoo	Kim;	Kah-Hin	Chai;	Kay-Chuan	Tan;	Andrew Brian	Siy	Liao;	An-Jin	Shie
+
+Download	free	books	at
+
+Song-Kyoo Kim, Kah-Hin Chai, Kay-Chuan Tan, Andrew Brian Siy Liao & An-Jin Shie
+
+Innovative Service Design Workbook
+Five Step Process and TRIZ Tools for Service Designers
+
+2
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook © 2012 Song-Kyoo Kim, Kah-Hin Chai, Kay-Chuan Tan, Andrew Brian Siy Liao, An-Jin Shie & bookboon.com (Ventus Publishing ApS) ISBN 978-87-403-0268-4
+
+3
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Contents
+
+Contents
+1	Preface	 1.1	 1.2	 1.3	 1.4	 What is this workbook about?	 Who is this workbook for?	 How can this workbook help?	 How is this workbook used?	 8 8 8 9 9 9 10 10 11 12 13 15 22 24 28
+
+1.5	Benefits	 2	Introduction	 2.1	 2.2	 3	 	 	 	 	 	 Introduction to TRIZ	 TRIZ in Service Design	 Five-Step Process	 Step 1: Problem Identification	 Step 2: Problem Definition	 Step 3: Resolution Tool Selection	 Step 4: Problem Resolution	 Step 5: Solution Evaluation	
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Innovative Service Design Workbook
+
+Contents
+
+4	 Empirical Case Study	 4.1	 4.2	 Case Introduction 	 An Application of TRIZ	
+
+32 32 35 41 43 43 43 43 43 47 49
+
+4.3	Conclusions	 	 	 	 	 	 	 	 	 	 	 	 	 Appendix A: Worksheets	 Worksheet 1.1: Problem Diagnosis	 Worksheet 1.2: Problem Solving Technique Acceptability	 Worksheet 1.3: Problem Identification	 Worksheet 2.1: Problem Situation Analysis	 Worksheet 2.2: Problem Formulator	 Worksheet 2.3: Solution Evaluation	 Appendix B: 40 Inventive Principles with Applications in Service Operation Management	 Appendix C: ARIZ for Service Design	 Appendix D: Flowchart of Why-What’s Stopping Analysis	 Appendix E: Multi-Criteria Decision Analysis Tables	
+
+50 68 71 72
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Innovative Service Design Workbook
+
+Contents
+
+	 	 	 	 	 	 	 	
+
+Appendix F: TRIZ-Service Design Workbook Examples	 Example 1 Illustration of Problem Definition Step	 Example 2 Illustration of Patterns of Evolution Tool	 Appendix G: TRIZ Resource Analysis	 Appendix H: Multi-Screen Thinking	 Appendix I: Su-Field Model and Enhancement	 Appendix J: Service Capstone Model	 Appendix K: Major Service classes and their significant TRIZ principles	
+
+73 73 78 80 81 82 83 84 85
+
+	References	
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+6
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Innovative Service Design Workbook
+
+Disclaimer: The authors accept no responsibility for any decision taken by the users or the readers arising from the use of the workbook. Copyright: All rights reserved. © Song-Kyoo Kim, Kah-Hin Chai, Kay-Chuan Tan, Andrew Brian Siy Liao, An-Jin Shie The workbook is authored by: Associate Professor KIM, Song-Kyoo, TRIZ Specialist, W. SyCip Graduate School of Business Asian Institute of Management, Philippines Associate Professor CHAI, Kah Hin, Department of Industrial and Systems Engineering, National University of Singapore Associate Professor TAN, Kay Chuan, Department of Industrial and Systems Engineering, National University of Singapore LIAO, Andrew Brian Siy Department of Industrial and Systems Engineering, National University of Singapore Dr. SHIE, An-Jin, Department of Industrial Engineering & Management, Yuan Ze University, Taiwan
+
+7
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Preface
+
+1	Preface
+1.1	 What is this workbook about?
+The main aim of this workbook is to provide a systematic problem solving process that service designers may use in solving service design problems. This workbook is based on previous research on the usage of the Theory of Inventive Problem Solving (TRIZ) methodology in non-technical areas like service design.
+
+1.2	 Who is this workbook for?
+This workbook is for service designers who •	 are responsible for solving service-related design problems at service-orientated organizations. •	 have limited or no prior experience with tools related to the Theory of Inventive Problem Solving (TRIZ/TIPS).
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+8
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Innovative Service Design Workbook
+
+Preface
+
+1.3	 How can this workbook help?
+To date, service designers have no systematic process to solve service problems. This workbook can help them save a great deal of time and effort by providing a systematic approach to service design problem resolution. In this workbook, TRIZ tools will be used to define, formulate, solve and evaluate service design problems. It enables users to come up with creative and innovative solutions.
+
+1.4	 How is this workbook used?
+This workbook contains a detailed step-by-step process highlighting the various TRIZ tools that may be used to define, solve, and evaluate various service design problems. These steps can be seen as a systematic guide to help designers resolve design problems. Included in this workbook are worksheets that contain questionnaires and tables to aid users in solving their service problems. In addition, users will also find…
+
+…tips
+
+, tools
+
+…and examples
+
+to help them better understand the TRIZ tools being used in solving various service design problems.
+
+1.5	Benefits
+This workbook provides a means of systematically defining, formulating, solving, and evaluating service design problems. It enables designers to adapt the various TRIZ applications to their service operations. In addition, it gives useful information on the many TRIZ tools and their applications. While intangible benefits will differ from person to person, users should gain new insights on service design problem resolution through this workbook.
+
+9
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Introduction
+
+2	Introduction
+2.1	 Introduction to TRIZ
+The Theory of Inventive Problem Solving (TIPS), or Teorija Rezhenija Izobretatelskih Zadach (TRIZ) in Russian, was developed in 1946 by Genrich Altshuller in the former USSR. It hypothesizes that there are principles of invention that can help with creative innovations. The basic groundings of TRIZ consist of the analyses of thousands of worldwide patents. Through these analyses, innovation patterns and the concept of ideality were identified. TRIZ, which was developed to solve technical problems, can be defined as -- knowledge-based as it is built from problem solving heuristics taken from vast patent analyses. -- human-orientated as it is designed for human use. -- systematic as it has well-defined resolution processes. -- inventive as it defines problems as inventive problems, thus, resulting in innovative solutions. In TRIZ, the system evolves toward increasing ideality. Characteristics of ideality include •	 benefits of the system are maintained. •	 deficiencies in the system are removed. •	 new deficiencies are not introduced. •	 system does not become more complicated. The basic foundational principles of TRIZ says that •	 systems move towards increasing ideality. •	 systems are full of inherent conflicts among some of its components. •	 before the introduction of any new components, resources within the system must first be fully utilized. Throughout the years, a set of well defined TRIZ tools have been created. These tools include 40 Inventive Principles, Ideal Final Result, Patterns of Evolution, Resources and Trimming to name a few. Although TRIZ tools and applications were originally created for technical problems, in recent times, TRIZ has been introduced in many non-technical areas. Recent research have even shown TRIZ and its tools to be helpful in aiding service operators in their non-technical problems.
+
+10
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Introduction
+
+2.2	 TRIZ in Service Design
+Service design can be defined as the specifications for the service and its control and delivery. In TRIZ, most technical problems have inherent conflicts or contradictions in their system. TRIZ’s wide variety of tools can be used to eliminate these contradictions, leading to the resolution of technical problems. While contradictions may be more apparent in technical areas, they are also present in the non-technical area of services. Thus, shows TRIZ’s possible application in service design. Additionally, there are also strong synergies between TRIZ’s problem solving process and the service design process. Service design concepts have stages like idea generation, development, and testing which are compatible with TRIZ tools that define problems and generate new ideas.
+
+11
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Innovative Service Design Workbook
+
+Five-Step Process
+
+3	 Five-Step Process
+The TRIZ-Service Design model can be represented by a systematic 5-step process, which can be seen on the next page. Step 1: Problem Identification A preliminary look at an organization’s capabilities to solve service design problems is done. Through this step, organizations can identify shortcomings in their idea generation and problem solving capabilities. This step can identify the “What-I-Want” (WIW) that is the key for the next step. Step 2: Problem Definition A clear and simple definition of a problem is done. In some service problems, a good definition may lead to immediate identification of possible solutions. This step acts as the preliminary process for making the problem simple and clear through the use of several TRIZ tools. Step 3: Resolution Tool Selection This step enables service designers to choose the most suitable resolution tool from among a wide variety of TRIZ tools. Step 4: Problem Resolution In this step, service design problems are solved using systematic TRIZ heuristics and tools. Step 5: Solution Evaluation This step will aid designers in choosing the most suitable solution for implementation from among the numerous possible solutions generated.
+
+12
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Five-Step Process
+
+	 TRIZ-Service 	 Design	 Tool	 5-Steps 5-Steps TRIZ-Service Design Tool
+Step	1:	Problem	 Identi ication	 Better	understanding	of	 service’s	problem	solving	 capabilities. Step	2:	Problem	De inition	 Resources Function	 Analysis Multi-Screen	 Thinking Psychological	 Inertia	Tools
+
+Trimming
+
+No	Tool	 found
+
+Step	3:	Resolution	 Tool	Selection	 Suitable	TRIZ	 tool	is	chosen.
+
+Tool	found
+
+Well	de ined	 problem. Step	4:	Problem	 Resolution	 Patterns	of	 Evolution Su-Field	Model
+
+Steps TRIZ	Tools Outcome
+
+Contradiction
+
+Ideal	Final	 Result
+
+ARIZ
+
+Solutions	not	found
+
+Set	of	possible	solutions. Step	5:	Solution	 Evaluation	 Implementable	 solution	for	 service	problems
+
+New	problems	occur
+
+No	new	 problems
+
+Step 1: Problem Identification
+This step helps service designers look into the capabilities of their organizations through a survey of their various practices and operations.
+
+13
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Five-Step Process
+
+The service designer studies the organization’s various shortcomings in idea generation and problem solving capabilities. Normal practices and operations are taken into account so as to ascertain whether it is ready for an innovative systematic resolution process like TRIZ. To study the organization’s present practices and capabilities in innovative problem resolution, Worksheet 1.1 on Problem Diagnosis, and Worksheet 1.2 on Problem Solving Technique Acceptability, both in Appendix A, may be used. To help service designers find the appropriate problem to solve in their existing service operation, Worksheet 1.3 on Problem Identification is provided in Appendix A. This will help identify existing problems or areas for improvement in the system. What is most vital in this step, however, is that a user needs to know what he wants to do exactly. This is called “What-I-Want” (WIW). It takes the difference between the current status (problem) and the status after completing WIW (solving the problems) into account If findings after answering the worksheets in this step indicate that the service organization’s practices do not support a creative process for problem solving like TRIZ, then it means that the problem is complicated (a.k.a. complex problem). Users should then re-evaluate and reformulate their WIW into one that gives a simpler and clearer picture of their organization’s readiness in adapting the innovative problem solving approach offered by TRIZ.
+
+14
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Innovative Service Design Workbook
+
+Five-Step Process
+
+Step 2: Problem Definition
+This step enables users to obtain a clear and simple definition of the service design problem. It contains 4 main stages:
+
+Situation Analysis
+
+Problem Formulation
+
+Problem Statements
+
+Result Analysis
+Stage 2.1: Situation Analysis In this step, users will gain a better understanding of the service. Information with regard to the service operations will be collected with the aid of Worksheet 2.1 on Problem Situation Analysis found in Appendix A. The Worksheet on Problem Situation Analysis must be answered in great detail. It is thus essential that the person tasked to answer the worksheet must be the one who understands the problem the most. An example of the worksheet’s use is shown in Example 1 of Appendix F.
+
+15
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Five-Step Process
+
+5-Steps TRIZ-Service Design Tool
+
+After a brief analysis of the situation, problems can be narrowed down by using the following TRIZ tools: 1.	 Resources 2.	 Multi-Screen Thinking (MST) 3.	 Function Analysis (FA) 4.	 Trimming 5.	 Psychological Inertia Tools (STC) After using each of the above-mentioned TRIZ tools, users will have sets of simple problems. If all of the problems are still complicated at the end of this step, users should go back to Step 1 – Problem Identification.
+
+16
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Five-Step Process
+
+TRIZ Tool 2.1: Resources Resources are things, information, and materials available within or around a service system. While very important in TRIZ methodology, they are underutilized or are even ignored in many service operations cases. This tool allows users to identify resources within a service operation, thus, stimulating possible new ideas and ways in improving service design. 2.1.1	 Resource Identification To identify resources in a company, service designers may refer to (Mueller, 2005) for a detailed table with sub-categories and examples. 2.1.2	 Analysis of Resources The primary resources in the service system should be identified as they usually contain problems or inherent contradictions. The auxiliary resources, which can affect the primary resources, should then be identified. The nature of the primary resources can be altered by these auxiliary resources, eliminating contradictions and solving the service design problem.
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+17
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Innovative Service Design Workbook
+
+Five-Step Process
+
+2.1.3	 Analysis of Harmful Resources If previous analysis of resources brings no solutions, harmful resources, considered to be least likely to provide solutions, should then be considered. At times, “bad things may turn out to be good”. Ask yourself this: How can I turn this harmful resource to a useful one? To analyze harmful resources, service designers may refer to Worksheet 4.3 on Harmful Resources in Appendix A for guidance. To illustrate the use of the Worksheet on Harmful Resources, users may refer to Example 4 of Appendix F that looks into the problems caused by the elimination of litterbins at train stations. TRIZ Tool 2.2: Multi-Screen Thinking Multi-Screen Thinking (MST) gives a wider view of resources not only for the current level of the system but also the upper or lower levels of the system (i.e., super-system, sub-system.) In addition, the systems are clarified based on the timeframe (i.e., before, during, and after the situation happening). Using the Multi-Screen table (see Appendix H), one can see the different views of resources. The MST can be applied not only in Problem Definition (Step 2) but also in Problem Identification (Step 1) to clarify the problem from different viewpoints. TRIZ Tool 2.3: Function Analysis FA (Function Analysis) is a class of problem solving methods aimed at identifying the root causes of problems or events based on sets of problem formulations (see Stage 2.2.) The practice of FA is predicated on the belief that problems are best solved by attempting to address, correct, or eliminate root functions or components as opposed to merely addressing the immediately obvious symptoms. Function Analysis is also called and is basically the same tool as Functional Diagram, which is introduced in the next step (Step 2.2). The sets of Functional Diagram are in Step 2.1 and contain the core problems TRIZ Tool 2.4: Trimming The basic concept in this tool is to reduce the number of components in the service system, but at the same time, maintain or even improve the service operation’s performance. Trimming is usually applied after FA.
+
+18
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Five-Step Process
+
+This tool cannot be used on all components in the service. As such, this tool is only applicable to components that may be eliminated without adversely affecting the delivery of the service. This tool may help service designers resolve problems involving reduction of costs. The underlying question is: “Why don’t I eliminate this component?” In order to choose the component to trim, the following guidelines may be followed: •	 number of useful and harmful functions related to trimming the candidate •	 relative financial value of the trimming candidate Stage 2.2: Problem Formulation At this point, problem formulation would already have been applied during Function Analysis (see TRIZ Tool 2.3). Problem formulation is applied to the selected components where problems occur after FA and trimming. Functions in the service system are identified and categorized as either useful or harmful during Function Analysis. These functions will then be linked together using a network of cause-and-effect relationships to form a functional diagram. These relationships, inclusive of their graphical representations are: •	 Function A causes Function B
+A causes B
+
+•	 Function A eliminates Function B
+A eliminates B
+
+•	 Function A is required for Function B
+A is required for B
+
+For your reference, Example 1 (Question 3 of Worksheet 2.2) of Appendix F shows an example of a functional diagram, featuring problems associated with the introduction of water activities at water catchment areas.
+
+19
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Five-Step Process
+
+Stage 2.3: Problem Statements To show the clear relationship between functions, problem statements may be created based on the Functional Diagram from the previous stage. For your reference, problem statements based on the problems associated with the introduction of water activities at water catchment areas can be found in Example 1 (Question 5 of Worksheet 2.2) of Appendix F. Worksheet 2.2 in Appendix A, a Problem Formulator, can help users with the “Problem Formulation” and “Problem Statements” stages. An example of this worksheet’s use is shown in Example 1 of Appendix F. Stage 2.4: Result Analysis After formulating the problem statements, it is possible to come up with a list of possible solutions. To analyze the statements, the following guidelines may be used: •	 Which solution has the best cost/benefit ratio? •	 The more radical the solution, the greater the potential benefits. •	 It is better to eliminate a harmful service function.
+
+.
+
+20
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Innovative Service Design Workbook
+
+Five-Step Process
+
+•	 A solution’s level of difficulty should be considered. If these solutions are sufficient for the service designer, the user can stop with the TRIZ-Service Design workbook. However, if they are found to be inadequate, service designers should continue on. TRIZ Tool 2.5: Psychological Inertia Tools If users have not arrived at any feasible solution after going through Steps 2 through 4 of this workbook, the user should use the Psychological Inertia Tools. These TRIZ tools will help service designers see the service situation from other viewpoints. As most of us see a problem only from our own narrow perspectives, we are unable to truly understand the problem, use the correct tools, and thus, formulate some useful solutions. You can consider your brain as being “blocked” by your own narrow viewpoints with regard to the service design problem. The Psychological Tools can help you “unblock” your brain and tackle the problem using new perspectives. 2.5.1	 Size-Time-Cost (STC) In this tool, users exaggerate the following factors: •	 current service size •	 timeframe •	 current costs By discussing and studying these exaggerated factors, users can form a basis for further brainstorming sessions with other service designers to generate feasible solutions. 2.5.2	 Why-What’s Stopping Analysis People often tackle problem that they should not be in the first place. This tool analyzes the service problem hierarchies which can enable users to identify the correct problem to be tackled. The following questions are the basis for this tool: 1.	 Why do I want to solve this problem? 2.	 What is stopping me from solving this problem?
+
+21
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Five-Step Process
+
+These questions help broaden and narrow down the original service problem. By asking these two questions continuously, users can obtain a hierarchy of problem statements. This gives users a better “view” of the “correct” problem to tackle. The diagram in Appendix D can help users broaden or narrow down their original service design problem.
+
+Step 3: Resolution Tool Selection
+In this step, users will be guided in their choice of which TRIZ tool is the most relevant or suited for their respective service design problem. The stages in this step are:
+
+Service Positioning
+
+Problem Situation
+
+Selection
+Stage 3.1: Service Positioning In this stage, service designers have to ascertain the maturity or positioning of their service operation. The service must be categorized according to the following service focuses: •	 maximize service operation performance from the perspective of customers •	 maximize service operation efficiency •	 maximize service operation reliability •	 minimize costs associated with service operation
+
+22
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Five-Step Process
+
+5-Steps TRIZ-Service Design Tool
+
+Stage 3.2: Problem Situation Based on service operation positioning, users can now identify a service design problem situation according to the following: 1.	 Contradictions – presence of physical or technical contradictions among components in the service
+
+23
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Five-Step Process
+
+2.	 Weak or Strong or Missing Actions – inadequate or excessive operations in the service or lack of a service delivery 3.	 Unknown – problem situation still unidentified or no harmful, excessive, insufficient, or missing actions or relationships in the service system It is possible that different service designers may classify service problem situations differently. It is up to the user’s discretion to choose the most appropriate problem situation. Stage 3.3: Selection Users can use the Tool Selection Summary Table to choose the TRIZ tool suited for their problem situation. Users have the recommendations based on the problems. The table is shown below.
+Problem Situation Contradictions Weak or Strong or Missing Actions Unknown Recommendations Contradiction Tools / Su-Field Model / System Evolution Su-Field Model / System Evolution / Contradiction Tools / MST / FA / Trimming MST / ARIZ / FA /Triming / Back to Step 2
+Table 1: Tool Selection Summary Table
+
+The order in the each recommendation does not necessarily mean it is the best choice. Users need not strictly adhere to the choices in the table, as they are merely recommendations. It is up to the user to choose the appropriate TRIZ tool. If at the end of this step, no TRIZ tool has been chosen, users should go back to Step 2 – Problem Definition.
+
+Step 4: Problem Resolution
+This step helps users with the resolution of service problems using the following TRIZ tools: 1.	 Contradiction Tools 2.	 Ideal Final Result 3.	 Patterns of Evolution 4.	 Su-Field Model 5.	 Algorithm of Inventive Problem Solving (ARIZ)
+
+24
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Five-Step Process
+
+After using each of the above-mentioned TRIZ tools, users should have a list of feasible solutions to the service design problem. If no solutions are formulated at the end of this step, users should go back to Step 2 – Problem Definition. 5-Steps TRIZ-Service Design Tool
+
+TRIZ Tool 4.1: Contradiction Tools This tool aids in the identification of contradictions in the service operation. These contradictions will then be eradicated, resulting in innovative solutions that do not undermine the present service system.
+
+25
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Five-Step Process
+
+Before the advent of Automatic Teller Machines (ATM), customers had to go to the banks personally even for the simplest transactions. This resulted in long waiting queues. In this case, the contradiction is “Customers have to be at the banks to perform their bank transactions” versus “Customers do not need to be at the banks as they may cause inconveniences like long queues”. With the introduction of the ATM, the contradiction was eliminated. Now, customers do not need to go to the bank to do their bank transactions. Customer lines have thus been reduced at the banks. 4.1.1	 Contradiction Identification Firstly, the inherent contradictions in the service system must be identified. 4.1.2	 Intensification of Contradictions After the identification of contradictions, the inherent contradictions will then be intensified into two extreme situations. Analyzing these extreme situations may lead to insightful indications towards possible solutions to the service problem. TRIZ Tool 4.2: Ideal Final Result This tool is based on the principle of ideality. It looks at increasing the benefits in the service system while decreasing the costs and harmful effects. As such, benefits are delivered without costs or harm.
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+26
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Innovative Service Design Workbook
+
+Five-Step Process
+
+Characteristics of ideality include: •	 benefits of the system are maintained •	 deficiencies in the system are removed •	 new deficiencies are not introduced •	 system does not become more complicated TRIZ Tool 4.3: Patterns of System Evolution An understanding of the evolutionary trends of a service system makes it possible to design future service operations. It enables the achievement of improvements in current service operations. In this tool, users will look at certain patterns or trends of evolution, with current service operations to be plotted along such patterns. A service’s likely evolution will become evident and in the process, any inherent service design problem can be solved. The general patterns are: 1.	 Uneven evolution of system parts – parts of a service system are improving faster compared to others 2.	 Transition to the Macro level – improvement in service system due to integration to a higherlevel system 3.	 Transition to the Micro level – improvement in service system by splitting it up into smaller components 4.	 Increase in System Interactions – addition of components into service system to amplify insufficient functions or eliminate harmful functions To better illustrate the Patterns of System Evolution tool, users can refer to Example 2 of Appendix F, which looks into the long waiting times encountered by surgery patients at hospitals. TRIZ Tool 4.4: Su-Field Model Su-Field Model (structural substance-field model) is a structural model of the initial technological system. It exposes the system’s characteristics, and with the help of special laws, transforms the model of the problem. Su-Field model uses a special language of formulas which makes it easier to describe any technological system. A model produced in this manner is transformed according to special laws and regularities, thereby revealing the structural solution of the problem. Su-Field Model is one practical tool for problem solving and is the language for analyzing them. In addition, it is the basis of 76 standard solutions that is one of the important components in ARIZ.
+
+27
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Five-Step Process
+
+As a collection of methods to identify and apply proven problem-solving templates, Su-Field model can help the TRIZ specialist find solution concepts for many kinds of problems with 76 standard solutions. Service designers can refer to (Cheng, 2010 and Kim, 2012) for guidance. TRIZ Tool 4.5: ARIZ The Algorithm for Inventive Problem Solving (ARIZ) uses a multi-step program of actions along with systematic steps to lead service designers from ambiguous service problem beginnings to realistic service design problem solutions. It uses a structured set of statements that guides users in formulating and reformulating problems. In situations where a service problem’s situation is still unidentified even after the Problem Definition step (Step 2 in the TRIZ-Service Design Workbook), service designers can refer to ARIZ to re-analyze or re-formulate the problem and generate feasible solutions.  A set of ARIZ’s multi-step actions and statements based on ARIZ-85 (the latest version of ARIZ in the 1985) can be found in Appendix C.
+
+Step 5: Solution Evaluation
+In this final step, service designers will be led in pinpointing the best ideal solution through an evaluation of the solutions generated from Step 4: Problem Resolution. The Stages in this Step are:
+
+Solution Selection
+
+Evaluation of Selected Solution
+
+Refine Solution
+
+Stage 5.1: Solution Selection The Multi-Criteria Decision Analysis (MCDA) helps service designers to compare the different solutions obtained in the Problem Resolution Step. To choose the most ideal solution, these steps should be followed accordingly:
+
+28
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Five-Step Process
+
+1.	 Select candidate solutions from previous Problem Resolution stage. 5-Steps TRIZ-Service Design Tool
+
+2.	 Select relevant criteria with which the candidate solutions will be judged. a)	 Criteria may be quantitative (e.g. Cost, Reliability, etc…) or qualitative (e.g. Comfort, Convenience, Safety, etc…). 3.	 Give a value or “score” for each candidate solution against each of the relevant criteria. a)	 Choose a convention of either “highest score is best” or “lowest score is best” that must be consistent throughout all calculations.
+
+29
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Five-Step Process
+
+b)	 For qualitative criteria, a numerical scoring system should be used. The spectrum from “worst performance” to “best performance” can have a correspondent numerical range (Note: convention in a.) must be maintained). “Scorers” will judge each solution according to numerical range. •	 e.g. For a “highest score is best” convention, “10” can be the highest score while “1” can be the lowest score. c)	 For quantitative criteria, the given “score” must also be consistent with the convention chosen in (a.). ”Scores” should also be normalized according to the numerical range set in (b). •	 e.g. In a “highest score is best” convention, a quantitative score of $100 for service costs should be normalized to a range between “1” and “10”, “10” being the best. d)	 For multiple “scorers”, take the average “score”. Alternatively, “scorers” can discuss among themselves and come to a compromise with regard to the “score” to be given. 4.	 Give each criteria distinct numerical “weighting factors” (e.g. “1” to “10”) to show the importance of each criterion to the overall service performance. Take note of the convention being used (“highest is most important” or “lowest is most important”). •	 e.g. In a “highest is best” convention, the “safety” criteria may have a higher importance to the “convenience” criteria. Therefore “safety” can be given a weighting factor of 10 compared to the lower weighting factor given to “convenience” of 8. 5.	 Calculate the “total score” for each candidate solution. For each candidate solution, take the sum of [“score” for a criterion multiplied by the weighting factor of that criterion] for all given criteria. Again, take note that the convention being used (“highest is most important” or “lowest is most important”) is consistent. 6.	 The candidate solution with the highest “total score” will be the selected solution. Users can use the table in Appendix E in comparing the different solutions. Included in the Appendix is a worked out example for the user’s reference.
+
+30
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Five-Step Process
+
+Service Designers may not agree on the scores given to candidate solutions. Different people have differing takes on a solution’s acceptability. Therefore, it is very important that the various parties should reach a compromise with regard to candidate scores. Stage 5.2: Evaluation of Selected Solution Before accepting the chosen solution, its ideality must be checked. We can measure its ideality according to the following criteria: •	 benefits of the system are maintained •	 deficiencies in the system are removed •	 new deficiencies are not introduced •	 system does not become more complicated Worksheet 5.1, the Worksheet on Solution Evaluation in Appendix A can help service designers ascertain the ideality of the chosen solution. If the solution meets the requirements of increasing ideality, it can be chosen for possible implementation in the service operations. Stage 5.3: Refine Solution Integrating the whole or parts of other candidate solutions into the chosen service design solution can create more creative and innovative end solutions. Before the implementation of a chosen candidate solution, other important “studies” must also be carefully performed. Service designers must ensure the financial and market feasibility of the solution. After the solution evaluation step, if new problems are encountered, users should go back to Step 2 – Problem Definition.
+
+31
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Empirical  Case Stud
+
+4	 Empirical Case Study
+A real case for community-care services is introduced on this workbook. The case will be utilized to illustrate how to use the TRIZ method for conducting service innovations.
+
+4.1	 Case Introduction
+Advances in medical care and public health have meant that people are living longer, which has resulted in every developed country in the world facing significant difficulties in coping with the accommodation and social needs of an increasingly older population. In response to these demographic problems, various strategies have been suggested to facilitate independent living by senior citizens, preferably in their own homes (Fashimpar, 1983; Birnbaum et al., 1984). One such strategy is the concept of ‘ageing-in-place’, which is a diversified care model first proposed in the 1960s to deal with the issues of an ageing population. The community-care service model, provides recreational facilities and health-care services for senior citizens in a nearby community centre. This model enables senior citizens to receive appropriate care services in the community, while allowing them to maintain accommodations in their own homes or with their families. This model is suitable for senior citizens who are relatively healthy, mobile, and selfsufficient on their own without any need for intensive medical care (Wu & Chuang, 2001; Cutchin, 2003; Stone & Reinhard, 2007; Cohen-Mansfield & Frank, 2008; Jensen et al., 2008).
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+32
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Innovative Service Design Workbook
+
+Empirical  Case Stud
+
+As previously noted, the model has been utilized to provide services in support of senior citizens in their own homes or in nearby community centers or nursing homes. Of these, the home-care services model offers the greatest flexibility and convenience for senior citizens who are living in their own dwellings. This model has often been adopted by governments as part of their long-term care service policy (American Association of Retired Persons, 1990; Chapin & Dobbs-Kepper, 2001; Rubin et al., 2001; Wu & Chuang, 2001; Cutchin, 2003; Gilleard et al., 2007; Stone & Reinhard, 2007; Cohen-Mansfield & Frank, 2008; Yang & Hsiao, 2009). Nevertheless, despite the many advantages of this model reported in numerous studies, it is apparent that the model consumes huge amounts of service resources in delivering care services to clients’ homes. As a consequence, there are often insufficient resources to meet the needs of clients, which often generates conflicts between the level of service quality and the requirements of senior citizens (Birnbaum et al., 1984; Baron-Epel et al., 2001; Francis & Netten, 2004; Cutler, 2007; Stone & Reinhard, 2007; CohenMansfield & Frank, 2008; Jensen et al., 2008). To address such conflicts, the present study utilized the TRIZ method for service innovation. A case study of an ageing-in-place agency in Taiwan, which offers home-care services to senior citizens, was conducted to demonstrate the applicability of the proposed five-step TRIZ method.
+
+33
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Empirical  Case Stud
+
+5-Steps 	 TRIZ-Service 	 Design	 Tool	 5-Steps TRIZ-Service Design Tool
+Step	1:	Problem	 Identi ication	 Better	understanding	of	 service’s	problem	solving	 capabilities. Step	2:	Problem	De inition	 Resources Function	 Analysis Multi-Screen	 Thinking Psychological	 Inertia	Tools
+
+Trimming
+
+No	Tool	 found
+
+Step	3:	Resolution	 Tool	Selection	 Suitable	TRIZ	 tool	is	chosen.
+
+Tool	found
+
+Well	de ined	 problem. Step	4:	Problem	 Resolution	 Patterns	of	 Evolution Su-Field	Model
+
+Steps TRIZ	Tools Outcome
+
+Contradiction
+
+Ideal	Final	 Result
+
+ARIZ
+
+Solutions	not	found
+
+Set	of	possible	solutions. Step	5:	Solution	 Evaluation	 Implementable	 solution	for	 service	problems
+
+New	problems	occur
+
+No	new	 problems
+
+34
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Empirical  Case Stud
+
+4.2	 An Application of TRIZ
+4.2.1	 Step 1: Problem identification The first step was to identify problems of service system: the determinants of service quality of concern to senior citizens have to be identified. A review of 21 relevant studies yielded 35 service-quality determinants related to ageing-in-place programs (see Table 1). The applicability of these 35 identified determinants to the present case study was confirmed through interviews with home-care service staff members. Each of the 35 service-quality determinants was then mapped with the corresponding 39 TRIZ engineering parameters (adapted to ageing-in-place service quality). This provided the TRIZ parameter correspondence table (see Table 2).
+TRIZ parameter correspondence table community-care service-quality determinants 1 2 3 4 5 6 7 8 Service flexibility Service reliability Service continuity Symmetry of information Service adaptability Service accuracy Care staffs’ attitude Psychological and social support 35 27 13 24 35 29 17 17 TRIZ parameters Adaptability or versatility Reliability Stability of the object composition Loss of information Adaptability or versatility Manufacturing precision Temperature Temperature
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+35
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Innovative Service Design Workbook
+
+Empirical  Case Stud
+
+9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35
+
+Activeness of service Care staffs’ skills and knowledge Cost Waiting time Care staff quantity Convenience Selectivity Efficiency & Functionality of service Customization Service capacity Information transparency Time of service delivery Environment comfort Safety and privacy Staffs’ patience Service automation Service compensation Expertise Efficiency Waste of resources Equipment convenience Equipment complexity Equipment accuracy Equipment stability Equipment maintenance Ease to operation Service scope
+
+17 35 22 25 26 33 35 11 35 26 24 9 12 30 14 38 34 32 39 23 33 36 28 13 34 33 8
+Data Source: Chen et al. (2012)
+
+Temperature Adaptability or versatility Loss of energy Loss of time Amount of substance Ease of operation Adaptability or versatility Stress or pressure Adaptability or versatility Amount of substance Loss of information Speed Shape Object affected harmful factors Strength Extent of automation Ease of repair Ease of manufacture Productivity Loss of substance Ease of operation Device complexity Measurement accuracy Stability of the object composition Ease of repair Ease of operation Volume of stationary object
+
+Table 2: Reliability of TRIZ parameter correspondence table for community-care service quality
+
+4.2.2	 Step 2: Problem definition In the second step, problem formulation analyzes the service-system conflict problems into a series of simple formulas, which enables systematic detection of the conflict between harmful and useful functions. According to the function attribute analysis diagram, which includes: the home-care service system, there exists a cause-and-effect relationship among UF 3 (service automation), UF 4 (equipment maintenance), UF 1 (improving service system effectiveness), and HF 1 (waste of resource). Two problem statements can be formulated as follows: •	 Find a way to resolve the contradiction that UF 3 (service automation) should be established to enhance UF 2 (quickly meeting senior citizens’ needs), but that this will cause worsening of HF 1 (waste of resource).
+
+36
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Empirical  Case Stud
+
+•	 Find a way to resolve the contradiction that UF 4 (equipment maintenance) should be established to enhance UF 3 (service automation), but that this will cause worsening of HF 1 (waste of resource). The first problem statement indicates that the home-care service system generates a conflict between UF 3 (service automation) and HF 1 (waste of resource). The conflict indicates that service automation can immediately satisfy senior citizens’ demands, but that this generates waste of the superfluous service resource and number of care staff. The second problem statement indicates that this home-care service system generates a conflict between UF 4 (equipment maintenance) and HF 1 (waste of resource). This is because home-care service agencies need to pay additional service resource in manpower, transportation, and maintenance to maintain automated service equipment. Improvement in the effectiveness of the home-care service system thus implies assistance with regard to service automation and support of equipment maintenance. It becomes necessary to improve service automation and equipment maintenance, as well as to minimize ‘waste of resource’. 4.2.3	 Step 3: Resolution tool selection According to the result of the function attribute analysis in step 2, there were two contradictions in
+
+the home-care service system found. To address the contradictions of the service systems, the TRIZ contradiction matrix analysis was exploited as it is the most suitable tool to solve any contradiction problems.
+4.2.4	 Step 4: Problem Resolution In the third step, the analysis of the TRIZ contradiction matrix generated inventive principles. According to the TRIZ parameter correspondence table (Table 3), improvement in equipment maintenance and service automation were individually mapped onto the TRIZ improvement parameters No. 34 (ease of repair) and No. 38 (extent of automation). In addition, the obstacle for improving service system effectiveness was the cost, which was mapped onto the TRIZ worsening parameter No. 23 (loss of substance). Table 3 presents the inventive principles in terms of the TRIZ contradiction analysis. First of all, the inventive principles regarding solving waste of resources were presented. The intersecting cell of improving parameter No. 34 and the corresponding worsening parameter No. 23 generated four inventive principles (No. 2, No. 35, No. 34 and No. 27) as improvement suggestions. The intersecting cell of improving parameter No. 38 and the corresponding worsening parameter No. 23 generated four inventive principles (No. 35, No. 10, No. 18 and No. 5) as improvement suggestions. The six inventive principles that were generated in step 3 (see Table 3), were then modified into inventive principles for ageing-in-place in accordance with the suggestions of Chai et al. (2005).
+
+37
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Empirical  Case Stud
+
+Worsening parameters Improving parameters 34 Ease of repair (Equipment maintenance) 38 Extent of automation (Service automation)
+Note: the boldface numbers are TRIZ inventive principles; Table 3. TRIZ contradiction matrix analysis
+
+23 loss of substance (Waste of resource) 2, 35, 34, 27 35, 10, 18, 5
+
+The first inventive solution was inventive principle No. 2 (‘Extraction’), which refers to extract excessive services or functions from medical equipments. The inventive solution could be applied to the operationinterfaces design of medical equipments for satisfying ageing-ergonomic requirements. The excessively or infrequently used services and functions from medical equipments could be extracted and then removed (out of service) in order to avoid seniors’ operational errors and equipment damages. For instance, the cell phones for seniors and some entertainment services and internet functions seniors do not need should be removed. It would be enough to merely provide the essential functions: emergency call button, automatic dial, and SOS panic button. This option allows seniors to use these functions easily while avoiding seniors’ operational errors.
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+38
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Innovative Service Design Workbook
+
+Empirical  Case Stud
+
+The second inventive solution was inventive principle No. 35 (‘Transformation’), which refers to change the care service models of the ageing-in-place agency. Applying this to ageing-in-place, equipment maintenance tasks could be separated into the difficult and simple level tasks. The difficult level tasks (such as: repair of equipment’s motherboard) have to be conducted by a professional maintenance technician, but it needs to consume heavy resources (training and labor cost) from ageing-in-place agencies. The simple level tasks (such as: battery replacement) could be conducted by care volunteers and seniors’ families without consuming any resources. The inventive solution can minimize waste of human resource in equipment maintenance. The third inventive solution was inventive principle No. 34 (‘Discarding and recovering parts’), which refers to how after a medical facility fulfilled its functions, it is then discarded by dissolving or recovered. Applying this solution to ageing care services, the aging-in-place agency can provide disposable medical supplies and facilities, such as: disposable diapers, disposable patient-controlled analgesia pumps, and temporary toilet chairs. These medical facilities could be dissolved or recovered after care services have been finished without consuming equipment maintenance resources. The fourth inventive solution was inventive principle No. 27 (‘Dispose’), which refers to replacing expensive care services with multiple inexpensive care services. Applying this solution to ageing-in-place services, when maintenance technicians are insufficient, ageing-in-place agencies could pay lower cost to employing inexpensive temporary staff members (such as: retired-maintenance technician) who can replace the expensive professional maintenance technician’s jobs to conduct maintenance works. The fifth inventive solution was inventive principle No. 10 (‘Prior action’), which refers to prearranging care services such that they can commence from the most convenient places and without losing time for their delivery. Applying this solution to ageing-in-place services, a survey of seniors’ needs should be conducted beforehand so that service system designs can accurately take into account seniors’ needs and health conditions to provide appropriate care services. The mechanism can ensure that service systems provide customized care services while minimizing waste of service resources. The sixth inventive solution was inventive principle No. 18 (‘Mechanical vibration’). It indicates that ageing-in-place agencies should establish an incentives mechanism (a vibration effect) in care service systems, which facilitates seniors’ desire to conduct self-services. Applying this solution to ageing-in-place service, an on-line interactive-virtual exercise programme (i.e. virtual interactive video sport games—‘Wii sport’) could be established to stimulate seniors who take actively engage in exercise without the need for assistance from care staff members. By using the exercise program, the seniors’ families or doctors will be able to better understand the seniors’ health conditions when seniors use the exercise programme, while minimizing care staff members’ service time.
+
+39
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Empirical  Case Stud
+
+Finally, the seventh inventive solution was inventive principle No. 5 (‘Consolidation’), which refers to consolidating identical or similar services and functions in order to perform parallel operations. The solution suggests that ageing-in-place agencies should integrate the similar care services, and then perform them at the same time. For instance, combining the rehabilitation and health examination service allows care staff members to satisfy seniors’ needs for both rehabilitation and health examination. At the same time, the solution can improve care service efficiency while saving the costs and resources of ageing-in-place agencies. 4.2.5	 Step 5: Solution evaluation The final step is solution evaluation for examining the proposed inventive solutions. Therefore, the thirteen inventive solutions were then evaluated by six experts (doctors, managers, and consultants of ageing-in-place service agencies). These experts were requested to prioritize the thirteen inventive solutions in terms of three criteria: (i) innovativeness; (ii) solving the existing problems; and (iii) bringing benefits to improve the service system (see Table 4.8). A 5-point Likert-type scale was used for this evaluation (1 = ‘strong disagreement’; 5 = ‘strong agreement’). The two evaluation results are illustrated as follows.
+The Generated Inventive Solution for improving waste of resource. Discarding Evaluation Criteria Extraction Transformation of properties and recovering parts The inventive solution has innovativeness. The inventive solution can solve the existing problems. The inventive solution can bring expected benefits to improve the service system. Total Priority 77 1 69 2 54 6 45 7 59 4 55 5 66 3 28 25 19 14 21 17 22 25 23 18 16 20 17 21 24 21 17 15 18 21 23 Dispose Prior action Mechanical vibration Consolidation
+
+Table 4. Evaluation of the inventive solutions to improving waste of resource
+
+40
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Empirical  Case Stud
+
+Finally, the results of this evaluation for inventive solutions to improving waste of resource are shown in Table 4. It is apparent that the order of priority of the seven inventive solutions was: (i) extraction; (ii) transformation of properties; (iii) consolidation; (iv) prior action; (v) mechanical vibration; (vi) discarding and recovering parts; and (vii) dispose. The top-three optimal innovative solutions (Extraction, Transformation of properties, and Consolidation) should be preferentially implemented in the home-care services until all conflict problems are resolved between service quality and seniors’ needs, thus increasing seniors’ satisfaction.
+
+4.3	Conclusions
+The previous literature on ageing-in-place has focused primarily on surveys of service quality. However, there has been a conspicuous lack of studies that have examined how the service systems of ageing-inplace programs might be improved through service innovation. The present study addressed this issue by proposing a TRIZ method for system innovation that provides a systematic procedure to generate innovative solutions for service improvement. The three advantages of the proposed method are as follows: •	 The method integrates TRIZ parameters and ageing-in-place service-quality determinants to build a TRIZ parameter correspondence table, which enables service developers to identify appropriate TRIZ parameters from the contradiction matrix.
+
+AXA Global Graduate Program
+Find out more and apply
+
+41
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Innovative Service Design Workbook
+
+Empirical  Case Stud
+
+•	 The research proposes a TRIZ method for system innovation with systematic analysis to enable service developers to invent effective solutions for aging-in-place service conflicts. •	 The method utilizes scientific function attribute analysis, problem formulation, and a TRIZ contradiction matrix to identify existing service-system conflict problems systematically, and to develop inventive solutions for improving service systems, rather than relying on the intuition and/or personal experience of service developers. The feasibility and advantages of using the proposed TRIZ method for system innovation have been demonstrated by a case study of an ageing-in-place service agency that provides home-care services to the dwellings of senior citizens in Taiwan. Based on TRIZ inventive principles, six inventive solutions for improving the services were proposed. These inventive solutions can be applied to medical equipment designs and ageing-in-place service systems. In summary, the study has successfully shown that the proposed TRIZ method for system innovation can deliver a systematic set of feasible innovation solutions. Several managerial implications accrue from this study. The case study demonstrates to managers that the proposed method can facilitate the systematic improvement of their service systems by formulating effective innovative solutions. In particular, the TRIZ parameter correspondence table can help service developers who are less experienced in using TRIZ technique to select appropriate TRIZ parameters and generate innovative solutions. Moreover, because the TRIZ technique has a powerful knowledge base and a collection of tested innovation patterns (Zhang et al., 2003a; Zhang et al., 2003b; Chai et al., 2005; Zhang et al., 2005), the proposed TRIZ method for system innovation can help service developers to design new ageing-in-place services by utilizing existing innovation knowledge. Managers should also establish a standard operational procedure (SOP) to generate innovation solutions which would enable them to maintain continuous innovation in their ageing-in-place services. In addition, given that the customer-oriented approach is increasingly valued in all service industries, ageing-in-place managers need to take account of the multiple stakeholders’ (such as senior citizens, their families, care-givers, and government) viewpoints. Finally, managers of ageing-in-place service agencies should regularly conduct surveys to understand the needs of their clients. This will enable managers to make optimal use of the proposed TRIZ process.
+
+42
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Appendix A: Worksheets
+
+Appendix A: Worksheets
+This appendix consists of various worksheets that enable the definition, resolution, and evaluation of service design problems. Through the questions and hints in each worksheet, service designers will be able to find possible ideas and solutions for their service design problems. Each worksheet is numbered accordingly. For example, Worksheet 2.3 is the 3rd worksheet that is found in Step 2 of the workbook.
+
+Worksheet 1.1: Problem Diagnosis
+(Source: Zhang, 2004) This appendix will be completed in due course.
+
+Worksheet 1.2: Problem Solving Technique Acceptability
+(Source: Zhang, 2004) This appendix will be completed in due course.
+
+Worksheet 1.3: Problem Identification
+(Source: Zhang, 2004) This appendix will be completed in due course.
+
+Worksheet 2.1: Problem Situation Analysis
+(Source: Terinko et al., 1998) 1.	 What is the main function or purpose of the target service operation? Please describe briefly. __________________________________________________________________________ __________________________________________________________________________
+
+43
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Appendix A: Worksheets
+
+2.	 How does the service operation work? What is the system structure of the target service operations? (Hint: Identify the components of the target service operations system and then specify their relationships) __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ 3.	 What resources are available to the target service operation? __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________
+
+44
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Innovative Service Design Workbook
+
+Appendix A: Worksheets
+
+4.	 What are the existing problems that you want to solve in the target service operation? Please describe briefly. (Hint: Describe the problems in the current service operations system, the areas to be improved, or the barriers to delivering the new services desired) __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ 5.	 If possible, state the possible causes of the problems. __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ 6.	 Is the purpose to design a new service to resolve the existing problems or to redesign the current service with the problems? (Hint: Describe what the (potential) customer needs to be met are and how the current problem service or desired new service aim to meet the needs) __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ 7.	 What are the known solutions to address the service design problem? Please discuss and list them as much as you can. (Hint: State past and current solutions to the identified problems) __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________
+
+45
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Appendix A: Worksheets
+
+8.	 What are the advantages and disadvantages of the known solutions listed? __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ 9.	 To your knowledge, have there been any previous attempts to solve these problems? Please describe them briefly. __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ 10.	What are the local constraints or limitations to resolve the problem? (Hint: Estimate the permissible expenditure for solving the problem and find out the changes that are allowable and not allowable to the original system) __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ 11.	What is the ideal final result to the problem? __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________
+
+46
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Appendix A: Worksheets
+
+Worksheet 2.2: Problem Formulator
+(Sources: Zlatin et al., 2001 and Terninko et al., 1998 and Zhang, 2001) 1.	 What are the key functional components for the target service or the operations of the service? __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ 2.	 What is the aim of the target service offering? Based on this purpose, please classify the functions into two groups: useful function (UF) and harmful function (HF). If possible, please also identify the primary useful function (PUF) that achieves the aim and the primary harmful function (PHF) that hinders achievement. __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+47
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Innovative Service Design Workbook
+
+Appendix A: Worksheets
+
+3.	 Please use cause-and-effect relationship to describe the linkage among the functional components, and draw the functional diagram. __________________________________________________________________________ __________________________________________________________________________ 4.	 Please review the functional diagram, add in any other essential function and delete any redundant function if necessary. __________________________________________________________________________ __________________________________________________________________________ 5.	 On the basis of the functional diagram, please formulate problem statements accordingly. __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ 6.	 Please analyze the formulated problem statements one by one, and list any solutions indicated by the statements. __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________
+
+48
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Appendix A: Worksheets
+
+7.	 Please check whether the found solutions are enough for the resolution of problem. __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________
+
+Worksheet 2.3: Solution Evaluation
+1.	 What is the ideal final result to the service problem? __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ 2.	 Check the chosen solution against the four criteria of increasing ideality. __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ 3.	 Does the chosen solution conform to these criteria? __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ 4.	 What are the local constraints (e.g. facilities, costs, etc…) needed to realize this chosen solution? __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________ __________________________________________________________________________
+
+49
+Download free eBooks at bookboon.com
+
+Appendix B: 40 Inventive Principles with Applications in Innovative Service Design Workbook Service Operation Management
+
+Appendix B: 40 Inventive Principles with Applications in Service Operation Management
+(Source: Zhang and et. al., 2003) Principle 1: Segmentation A. Divide an object or system into independent parts. •	 Service packages can be divided into several components: supporting facility, facilitating goods, explicit services and implicit services.
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+50
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Appendix B: 40 Inventive Principles with Applications in Innovative Service Design Workbook Service Operation Management
+
+B. Make an object or system easy to disassemble. •	 The body of customers can be segmented based on their personal information such as their needs, ages, buying behaviors, etc. (e.g., United Services Automobile Association targets its business of automobile insurance only towards military officers, a group that presents lowerthan-average risk of problems requiring compensation; wholesale companies can target customers who are willing to buy in quantity, do without frills, and serve themselves). C. Increase the degree of fragmentation or segmentation. •	 Service centers can improve service delivery efficiency by segmenting the service ranges into several categories and pre-arranging them in the tape of an automatic phone answering system. It shortens the time for customers to find the right consultant for inquiries. Principle 2: Taking out A. Separate an interfering part or property from an object or system, or single out the only necessary part (or property) of an object or system. •	 Automated Teller Machines extract the core functions that essentially perform the banking transactions, such as cash withdrawal and funds transfer, and make them happen outside banks. •	 Online reservation system (e.g., airline, hotel, and cinema). •	 Hospitals send out blood donation ambulances so that donors do not have to travel to the hospitals. Principle 3: Local quality A. Change an object’s or system’s structure from uniform to non-uniform; change an external environment (or external influence) from uniform to non-uniform. •	 Service offerings should be customized based on the needs of customers (e.g., public buildings must provide various entrances for people who can drive in, walk in, or even for those who are handicapped). B. Make each part of an object or system function in conditions most suitable for its operation. •	 The layout designs in large grocery stores like Safeway and superstores like Wal-mart, emphasize strategic product placement and customer flows through their stores to maximize sales and convenience. •	 Restaurants usually choose locations that are heavily populated to maximize revenues.
+
+51
+Download free eBooks at bookboon.com
+
+Appendix B: 40 Inventive Principles with Applications in Innovative Service Design Workbook Service Operation Management
+
+C. Make each part of an object or system fulfill a different and useful function. •	 Customers are a unique element in service delivery and can play a vital role in improving the quality of service offerings (e.g., patient’s accurate descriptions of their symptoms will help doctors provide effective prescriptions; in fast food restaurants, customers assemble their own dishes which cater to their taste). •	 In most service industries, service packages are a mix of tangible and intangible goods. They have their own roles in creating a good experience for customers (e.g., the atmosphere of a restaurant and the cheerfulness of its waiters might be as important as the taste of the food it sells). Principle 4: Asymmetry A. Change the shape of an object or system from symmetrical to asymmetrical. •	 Sometimes, providing customized service offerings instead of standard ones will help create a unique experience for customers (e.g., customers are greeted with their names at hotel reception counters; hair salons make records of customer preferences). B. If an object or system is asymmetrical, increase its degree of asymmetry. •	 Customer differentiation (e.g., Banks offer free financial consulting services for clients who deposit high savings). Principle 5: Merging A. Bring closer together (or merge) identical or similar objects or systems; assemble identical or similar parts to perform parallel operations. •	 In shopping malls, cashier counters are usually positioned together to expedite the transaction time. •	 Identical products or similar products are usually put together for the convenience of customers (e.g., similar goods in supermarket; works of the same times, or the same artist, or the same topic, are displayed together in museums). •	 Collaboration and partnerships among service organizations (e.g., theaters invite famous bands, singers for shows). B. Make operations contiguous or parallel; bring them together in time. •	 Bundling services and operating them together (e.g., an admission to Disney world means visitors can enjoy a variety of attractions and a fantastic atmosphere which can help to create wonderful experiences in the mind of customers).
+
+52
+Download free eBooks at bookboon.com
+
+Appendix B: 40 Inventive Principles with Applications in Innovative Service Design Workbook Service Operation Management
+
+Principle 6: Universality A. Make a par, object, or system perform multiple functions; eliminate the need for other parts. •	 A service offering might perform multiple functions by satisfying various needs of customers (e.g., by purchasing a meal, a customer can enjoy a package of service offerings which might include a set of delicious food, a cozy environment with light music, nice interaction with servers, and some other intangible elements. Each of these elements has their own function and they altogether provide a nice experience in the minds of diners). B. Use standardized features. •	 Perform consistent service delivery (e.g., McDonald’s, French fry food). •	 ISO 9004-2:1991(E) – Guide to Quality Management and Quality Systems Elements for Services •	 Scoring system used for customer selection and solicitation. Principle 7: “Nested doll” A. Place one object or system inside another; place each object or system, in turn, inside the other. •	 Flight traveling would be a boring experience if there were no extra services like entertainment incorporated in the flight package.
+
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+53
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Appendix B: 40 Inventive Principles with Applications in Innovative Service Design Workbook Service Operation Management
+
+B. Make one part pass through a cavity in the other. •	 The operations of the back office should not be isolated from the operations of the front office (e.g., Receptionists should know the operational status in hotel rooms, such as occupancy and cleaning status). Principle 8: Anti-weight A. To compensate for the weight of an object or system, merge it with other objects or systems that provide lift. •	 Organizations invite consulting firms to help identify and solve problems. •	 Theaters invite famous bands and singers to provide interesting shows and concerts that attract audiences. •	 To attract more customers to accept and use internet banking services and to save tremendous expense from marketing, e-banks often collaborate with large traditional banks to gain recognition rapidly from customers. B. To compensate for the weight of an object or system, make it interact with the environment (e.g. use aerodynamic, hydrodynamic, buoyancy, and other forces). •	 Customers can become a marketing medium of service firms who offer high quality services (e.g., word-of-mouth effect). Principle 9: Preliminary anti-action A. If it will be necessary to do an action with both harmful and useful effects, this action should be replaced with anti-actions to control harmful effects. •	 Before the commercialization of a new service product, preventive analysis should be done to identify any potential failure points in the service offering. B. Create beforehand stresses in an object or system that will oppose known undesirable working stresses later on. •	 “Help” file is always included in software to help users to solve problems whenever they are met. •	 Software or hardware providers offer free technology support for customers through online inquiries or toll-free phone numbers. Principle 10: Preliminary action A. Perform the required change of an object or system (either fully or partially) before it is needed. •	 Customer-contact personnel are representatives of service firms. So basic training for the skills like customer interaction skills is needed before they begin to work and represent for companies. •	 A nice setting for service facilities would be beneficial to create a wonderful experience for customers (e.g., coffee shops, theaters). •	 Put up sign posters and location maps as route directions for visitors.
+
+54
+Download free eBooks at bookboon.com
+
+Appendix B: 40 Inventive Principles with Applications in Innovative Service Design Workbook Service Operation Management
+
+B. Pre-arrange objects or systems such that they can commence from the most convenient place and without losing time for their delivery. •	 The “hub-and-spoke” network delivery concept used by Federal Express. •	 Customers are allowed to rent cars from one of the chain shops and then return it later to any one of the chain shops closest to them. •	 Strategic placement of commodities in shopping malls. •	 To shorten check-out time, many hotels total the bills and slide them under the guest room doors during the last night of guests’ stays, thereby achieving “zero waiting time”. Principle 11: Beforehand cushioning A. Prepare emergency means beforehand to compensate for the relatively low reliability of an object or system. •	 To manage service capacity and smooth customer demand, service firms can use a set of preventive strategies such as price differentials to encourage off-peak demand, early advertising to avoid season rush, and the use appointment and reservations. Principle 12: Equipotentiality A. In a potential field, limit position changes (e.g. change operating conditions to eliminate the need to raise or lower objects or systems in a gravity field). •	 Car renting companies usually have a scatter of branches. Customers can rent a car at any shop, drive it around and then return it later to any one of the chain shops closest to them (it is also shown in Principle 10, preliminary action). •	 The emergence of e-banking transformed traditional transactions into online transactions, making the distance between banks and customers just a few clicks away. Principle 13: The other way round A. Invert the action(s) used to solve the problem (e.g. instead of cooling an object or system, heat it). •	 With the advancement of e-services, customers do not have to go shopping at physical stores as before. They can shop and make payments online just by sitting at home and waiting for the delivery of purchased products to their homes. B. Make movable parts (or the external environment) fixed, and fixed parts movable. •	 Service companies can earn competitive advantages by delivering on-site services (e.g., ASUS provides on-site warranty services in the first year of the purchase of its laptops). •	 Emergency ambulances travel to the places of patients. C. Turn the object (or process) ‘upside down’. •	 On many occasions, customers don’t need to wait for service staff members’ help, they can help themselves (e.g., websites often put answers to FAQs; students can always learn by themselves).
+
+55
+Download free eBooks at bookboon.com
+
+Appendix B: 40 Inventive Principles with Applications in Innovative Service Design Workbook Service Operation Management
+
+Principle 14: Spheroidality A. Instead of using rectilinear parts, surfaces, or forms, use curvilinear ones; move from flat surfaces to spherical ones; from parts shaped as a cube (parallelepiped) to ball-shaped structures. B. Use rollers, balls, spirals, domes. C. Go from linear to rotary motion, use centrifugal forces. •	 The process of new service development is highly iterative rather than just being linear. •	 Feedback from customers and frontline staff (marketing and sales) are valuable in developing new services. Principle 15: Dynamics A. Allow (or design) the characteristics of an object, external environment, or process to change to be optimal or to find an optimal operating condition. •	 Service firms can empower frontline staff with the discretionary right to deliver services. (e.g., Joie de Vivre Hotel Chain has a dream-maker program. Their employees can create a customized welcome gift for VIP customers).
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+56
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Appendix B: 40 Inventive Principles with Applications in Innovative Service Design Workbook Service Operation Management
+
+B. Divide an object or system into parts capable of movement relative to each other. •	 The team of a new service development should consist of the members from cross-functional departments. C. If an object (or process) is rigid or inflexible, make it movable or adaptive. •	 Customer demands usually follow a certain pattern. Thus, service firms can try to adapt service capacities to meet customer demands (e.g., airlines increase flights during peak season; restaurants hire temporary staff). Principle 16: Partial or excessive actions A. If 100 percent of an object or system is hard to achieve using a given solution method, then by using ‘slightly less’ or ‘slightly more’ of the same method, the problem may be considerably easier to solve. •	 Giving notices and explanations to customers beforehand for temporary unavailability of services can prevent loss of customer loyalty due to blind waiting (e.g., websites put notice links to explain the temporary failure of services; window service staff put notices like “20 minutes back” or “service starts from 2 p.m.”). •	 Customers can be delighted if the perceived service quality exceeds their expectations (e.g., conference or meeting organizers send reminder letters or emails to attendants before the meeting and also send follow-up letters to thank them for their presence after the meeting; many mall centers provide kid caring services and amusement so that parents can shop with ease). Principle 17: Another dimension A. To move an object or system in two- or three-dimensional space. •	 Multi-dimensional customer satisfactions surveys; the use of House of Quality in service design. •	 Multi-level sales system (e.g., Amway or Avon sales system). B. Use a multi-story arrangement of objects or systems instead of a single-story arrangement. •	 The organization structure of McDonald’s is pyramid-shaped, with layers of supervision from the assistant store manager, store manager, and regional manager to corporate “consultants”, to ensure consistency of service delivery across all locations. •	 Differentiate and segment customers on the basis of their needs, behaviors, ages, etc. C. Tilt or re-orient the object or system; lay it on its side. D. Use ‘another side’ of a given area.
+
+57
+Download free eBooks at bookboon.com
+
+Appendix B: 40 Inventive Principles with Applications in Innovative Service Design Workbook Service Operation Management
+
+Principle 18: Mechanical vibration A. Cause an object or system to oscillate or vibrate. •	 Benchmarking the best practices across different service industries would be helpful to improve the service quality. Keep innovating in developing service offerings. •	 Varying the required service capacity with the fluctuation pattern of customer demands (e.g., fast food restaurants hire temporary staff to service customers at peak times). B. Increase its frequency (even up to the ultrasonic). •	 Ritz Carlton Hotels have 10 minutes per day of employee training, instead of long classes at less frequent intervals. C. Use an object’s or a system’s resonant frequency. •	 Consulting firms need to work “in harmony” with their clients with the goal of resolving problems. •	 The use of Just-In-Time (JIT) inventory systems in supply chain management. D. Use piezoelectric vibrators instead of mechanical ones. E. Use combined ultrasonic and electromagnetic field oscillations. Principle 19: Periodic action A. Instead of continuous action, use periodic or pulsating actions. •	 To many service industries, it is not cost-effective, or of no point at all, to keep service capacity fixed throughout the time (e.g., Airlines increase flights on hot routing in tour season; cinemas put on more show sessions on weekends). B. If an action is already periodic, change the periodic magnitude or frequency. •	 Consumer demands in some service industries typically exhibits very cyclic behavior over periods of time, with considerable variation between the peaks and valleys. Some means might be helpful to smooth the magnitude of demand at the peak time (e.g., some rail lines charge less for off-peak trains; restaurants offer early-bird discounts). C. Use pauses between impulses to perform a different action. •	 In the operations of back office, inspections of the working conditions of machines should be regular (periodic) to prevent the accidental breakdown. •	 Employees can be trained during periods of low customer demand, and thus be prepared for periods of high demand.
+
+58
+Download free eBooks at bookboon.com
+
+Appendix B: 40 Inventive Principles with Applications in Innovative Service Design Workbook Service Operation Management
+
+Principle 20: Continuity of useful action A. Carry on work continuously; makes all parts of an object or system work at full load all the time. •	 Some service organizations develop a retirement job bank of their retired employees that is used a source of skilled labor to fill in during peak work times, absences, and vacations. •	 Some services and facilities are in the state of continuous delivery (e.g., radio programs, customer hotlines, public highway). B. Eliminate all idle or intermittent actions or work. Principle 21: Skipping A. Conduct a process or certain stages (e.g. destructible, harmful or hazardous operations) at high speed. •	 The procedure for X-ray mammograms is uncomfortable for the patient. The actual X-ray exposure only takes a few seconds, but positioning the patient can take several minutes. If technicians learn how to do the positioning quickly, and they know how to release the pressure at the instance that the X-ray is taken, patients are more likely to return. •	 Keeping customers waiting for a long time increases the risk of losing their loyalty. Shortening the waiting time (skipping this harmful time) can be realized by setting up more service counters or by hiring more part-time employees during peak times.
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+59
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Appendix B: 40 Inventive Principles with Applications in Innovative Service Design Workbook Service Operation Management
+
+•	 An alternative way to manage a waiting line is to let customers feel that the waiting time was skipped psychologically (e.g., Disney employs entertainment for people waiting in line; highrise buildings put mirrors on elevator doors to make people less maniacal during waits). •	 To increase the automation level, many service organizations try to shorten the direct customer contact time (e.g., the use of automated phone answering systems or online reservation systems). •	 The “zero waiting time” achieved by hotels (Also shown in the Principle of Preliminary Action). Principle 22: “Blessing in disguise” or “Turn Lemons into Lemonade” A. Use harmful factors (particularly harmful effects of the environment or surroundings) to achieve a positive effect. •	 Service firms can improve the quality in service delivery by listening to customer complaints. •	 If a service failure occurs or a potential service fail point is identified, service companies can respond fast and take effective measures to fix the problem. It can create very positive perceptions about service quality in the minds of customers (e.g., Microsoft publishes patches in time for software products to improve their quality; serving complimentary drinks on a delayed flight can turn a potentially poor customer experience into a good one; the credit of Singapore was upgraded because of its successful efforts in containing SARS). B. Eliminate the primary harmful action by adding it to another harmful action to resolve the problem. Amplify a harmful factor to such a degree that it is no longer harmful. •	 In professional services (e.g., consulting), price for purchasing service offerings is often considered a surrogate for service quality. Thus, high pricing of this kind of service with excellent quality may be a competitive strategy. Principle 23: Feedback A. Introduce feedback (referring back, cross-checking) to improve a process or action. •	 Instant feedback on sales and inventory movements can be obtained through the use of RFID (radio frequency identification) tags. This can result in a better match of inventory to customer needs. •	 Use of patients’ medical records and listening to their feedback on previous prescriptions can greatly influence the effectiveness of the attending physician. B. If feedback is already used, change its magnitude or influence. •	 Increase the collection of feedback data from customers and frontline staff by using other means such as focus group, brainstorming, lead user interview, etc. •	 Instead of waiting for customer feedback, some companies proactively use a computerized information system (e.g., bar coding or checkout scanner technology) to collect and analyze customer-buying behaviors.
+
+60
+Download free eBooks at bookboon.com
+
+Appendix B: 40 Inventive Principles with Applications in Innovative Service Design Workbook Service Operation Management
+
+Principle 24: ‘Intermediary’ A. Use an intermediary carrier article or intermediary process. •	 A large number of service firms are intermediaries (e.g., job agents, travel agents, law firms, etc.). •	 Customer-contact personnel are representatives of service firms or the intermediaries between service firms and customers. Their performances affect the image of service firms directly. •	 Some physical goods play the roles of intermediary in creating customer experiences for delivered services (e.g., purchased food in restaurants; replacement parts for servicing). •	 Customers can be advertisers of service offerings (e.g., a happy customer is willing to share with his friends the experience of a good service). B. Merge one object temporarily with another (which can be easily removed). •	 In some industries, customers or “their representatives” must temporarily stay with supporting facilities in the course of service delivery (e.g., customers stay on airplanes during flights; postal mail are in the hands of post offices during forwarding). Principle 25: Self-service A. Make an object or system serve itself by performing auxiliary helpful functions. •	 In fast-food restaurants (e.g., cafeteria, salad bar), customers become partial employees. Customers can actually assemble meals based on their preferences and help augment the work of service staff. •	 The effectiveness of education is largely dependent on the students’ own efforts. B. Use waste resources, energy, or substances. •	 Evaluate examples of bad service to improve (e.g., Hospitals track how often patients are readmitted with the same problem to measure “waste” of treatment. Principle 26: Copying A. Instead of an unavailable, expensive, fragile object or system, use simpler and inexpensive copies. •	 In many museums, visitors have a cheaper option to hiring a tour guide, that is, to rent an audio guide. B. Replace an object, system, or process with optical copies. •	 Microfilms are used to store huge volumes of books. •	 Use of a projector and transparency copies in lecturing. C. If visible optical copies are already used, move to infrared or ultraviolet copies. D. Copy creative service concepts across different industries. •	 The EZ-link card and general ticketing machines employed in the Singapore MRT (city train) and bus systems are similar in concept to bank credit cards and automated teller machines.
+
+61
+Download free eBooks at bookboon.com
+
+Appendix B: 40 Inventive Principles with Applications in Innovative Service Design Workbook Service Operation Management
+
+•	 Southwest Airlines cut its turnaround time by 50% by observing how the pit crews of Indianapolis 500 fuel and service race cars. •	 Gas utility companies can speed up the delivery of their products by examining how Federal Express delivers packages overnight. Principle 27: Cheap short-living objects A. Replace an inexpensive object or system with multiple inexpensive objects or systems, compromising certain qualities (such as service life, for instance). •	 During the SARS period, canteen food outlets in Singapore used disposable cutlery in order to contain the disease. •	 Many software companies allow potential customers to download and use their products for a trial period or a limited number of uses. This helps customers experience the functions of the products before they make a decision to buy. •	 Movie trailers are usually released quite early before the show of movies. Principle 28: Mechanics substitution A. Replace mechanical means with sensory (optical, acoustic, taste or smell) means. •	 Video tape of lectures and CD recordings of concerts represent convenient substitutes for physical attendance.
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+62
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Appendix B: 40 Inventive Principles with Applications in Innovative Service Design Workbook Service Operation Management
+
+B. Use electric, magnetic, and electromagnetic fields to interact with the object or system. •	 Applying manufacturing technologies to automate the back-office operations in service companies (e.g., airport luggage-handling system). •	 In traditional service delivery, customers must travel to service facilities, or servers must travel to customers’ places. Electronic communication can be substituted for physical travel (e.g., learning through registering in an online class; conducting a video conference). C. Change from static to movable fields, from unstructured fields to those having structure. •	 Internet technologies enable the real-time communication with visual images, which is a revolutionary change from the traditional way of calling over phone. D. Use fields in conjunction with field-activated (e.g. ferromagnetic) particles. Principle 29: Pneumatics and hydraulics (Intangibility) A. Use intangible parts of an object or system instead of tangible parts. •	 The brand images of service organizations can be a guarantee for service quality (e.g., social recognition for academic degrees from top universities, which may stand for high quality of education for degree holders). Principle 30: Flexible shells and thin films A. Use flexible shells and thin films instead of three-dimensional structures. B. Isolate the object or system from the external environment using flexible shells and thin films. •	 Some trains use automated shutting doors to isolate smoking compartments from non-smoking compartments. Principle 31: Porous materials A. Make an object or system porous or add porous elements (inserts, coatings, etc.). •	 Some supermarkets open a green cashier counter in peak time for customers who just buy a few items so that they can check out quickly and do not have to wait in the long queue. •	 There should be a channel for service providers to listen to the voice of customers. Information technologies create the opportunity for service providers to interact more frequently with customers (e.g., after some companies implemented the live chat function on their websites to expedite the interactions with customers, their sales closures rose dramatically).
+
+63
+Download free eBooks at bookboon.com
+
+Appendix B: 40 Inventive Principles with Applications in Innovative Service Design Workbook Service Operation Management
+
+B. If an object or system is already porous, use the pores to introduce a useful substance or function. •	 In order to develop better products or enhance service quality, service providers can encourage and reward customers to provide feedback of their experiences (e.g., use customer focus group to assess new services before formal launches or involve customers in idea generation). Principle 32: Color changes A. Change the color of an object, a system, or its external environment. •	 Changing the color of a service facility might be able to influence the customer’s perception of the service (e.g., renovate restaurants with warm color in winter). •	 Avoiding any typical hospital color “association” might be helpful in the rapid recovery for patients. B. Change the transparency of an object, a system, or its external environment. •	 Sometimes it is useful to promote customer confidence by making a part of service operations transparent to public scrutiny (e.g., some restaurants provide a view into the kitchen; some auto repair shops can be observed through windows in the waiting area; some hair salons can be viewed from outside). Principle 33: Homogeneity A. Make objects or systems interacting with a given object or system of the same material (or material with identical properties). •	 Some hospitals encourage the patients who have received surgery to discuss their experiences with new patients to alleviate their pre-operative fears; Schools encourage students to help each other clarify puzzles during study. Principle 34: Discarding and recovering A. Make portions of an object or system that have fulfilled their functions go away (discard by dissolving, evaporating, etc.) or modify these directly during operation. •	 Some of the elements in service packages will be consumed after they have fulfilled their task of helping create experiences in the minds of customers (e.g., food/drinks offered by restaurants; medicines provided by hospitals; knowledge taught by teachers). B. Conversely, restore consumable parts of an object or system directly in operation.
+
+64
+Download free eBooks at bookboon.com
+
+Appendix B: 40 Inventive Principles with Applications in Innovative Service Design Workbook Service Operation Management
+
+Principle 35: Parameter changes A. Change an object’s or system’s physical state (e.g. to a gas, liquid, or solid). •	 The emergence of information technologies turns brick-and-mortar banks into intangible e-banks. B. Change the concentration or consistency. •	 The “focus” service strategy rests on the premise that service firms can serve its narrow target market more effectively and/or efficiently than other firms trying to serve a broad market. C. Change the degree of flexibility. •	 Sometimes, adding customization to a standard service offering may endear a firm to its customers at very little cost. Examples: A hotel operator who is able to address a guest by name can make an impression that translates into repeat business; Hair salons have added many personalizing features (e.g., personal stylist, juice bar, relaxed surroundings, mood music) to differentiate themselves from hair shops; Burger King’s efforts to promote a made-to-order policy is an attempt to differentiate itself from McDonald’s classic make-to-stock approach to fast-food service. •	 Museums send their top art works for stroll exhibitions over the world; famous circuses make travel shows across many places.
+
+The stuff you'll need to make a good living
+
+STUDY. PLAY.
+
+The stuff that makes life worth living
+
+NORWAY. YOUR IDEAL STUDY DESTINATION.
+WWW.STUDYINNORWAY.NO FACEBOOK.COM/STUDYINNORWAY
+
+65
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Appendix B: 40 Inventive Principles with Applications in Innovative Service Design Workbook Service Operation Management
+
+D. Change the atmosphere to an optimal setting. •	 A coffee bar might need a relaxed environment with mood music as background. •	 A nightclub might need some special recreation programs to match the moods of customers. Principle 36: Phase transitions A. Use phenomena occurring during phase transitions (e.g. volume changes, loss or absorption of heat, etc.). •	 Recreation centers launch different new leisure programs in different seasons. •	 With the aging of club members, some resort clubs might design more family activities to cater to the evolution of their members’ needs. Principle 37: Thermal expansion (Strategic expansion) A. Use thermal expansion (or contraction) of materials. •	 Some service industries use adaptable service capacity to cater to fluctuating demands of customers (e.g., restaurants hire temporary staff to meet peak demands; airlines increase flight amounts during tour season). •	 Popular restaurants that are so “hot” can expand to a worldwide chain (e.g., Hard Rock Café, KFC, Wolfgang Puck, etc.) B. If thermal expansion is being used, use multiple materials with different coefficients of thermal expansion. Principle 38: Strong oxidants (Boosted interactions) A. Replace common air with oxygen-enriched air (more exposure to customers). •	 Contrary to the closed-system perspective that is taken in manufacturing, service operations adopt an open-system concept because of the presence of customers in the process of service delivery. This helps enrich the company’s knowledge of its customers. B. Replace enriched air with pure oxygen (increase the level of customer participation in service delivery). •	 Further enhance the role of customers as co-producers in service delivery (e.g., the evolution of customer roles in service delivery from traditional banking, to phone banking, to internet banking). C. Expose air or oxygen to ionizing radiation. D. Use ionized oxygen. E. Replace ozonized (or ionized) oxygen with ozone.
+
+66
+Download free eBooks at bookboon.com
+
+Appendix B: 40 Inventive Principles with Applications in Innovative Service Design Workbook Service Operation Management
+
+Principle 39: Inert atmosphere A. Replace a normal environment with an inert one. •	 During the period of the SARS outbreak, patients who were infected by the disease were quarantined in order to prevent further spreading. •	 Use of neutral third parties during difficult negotiations. B. Add neutral parts or inert additives to an object or system. •	 Break time for a lecture. Principle 40: Composite materials A. Change from uniform to composite (multiple) materials. •	 Adding tangible elements to service offerings can give customers physical reminders of their purchases of the intangible services (e.g., airlines send souvenirs to passengers; hotels provide complimentary toiletry items with the hotel name prominently affixed). •	 Use multi-media in education-lecture with music and video.
+
+67
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Appendix C: ARIZ for Service Design
+
+Appendix C: ARIZ for Service Design
+The Algorithm for Inventive Problem Solving (ARIZ from its Russian abbreviation) uses a multi-step program of actions and systematic steps to lead service designers from ambiguous service problem beginnings to realistic service design problem solutions. It uses a structured set of statements that guides users in formulating and reformulating problems. The ARIZ in this Appendix is based on ARIZ-85c (the latest version of ARIZ from the 1980s). Presented are the structured sets or stages of statements and questions that are characteristic of ARIZ. Before starting step 2, the problem must be well defined to apply the ARIZ. If the problem is not well defined, a user should go back to step 1 before considering ARIZ. Part 1: Problem Analysis Write down the service problem’s specification using special terminologies. After which, formulate the problem using general and simpler terms.
+
+I joined MITAS because I wanted real responsibili� I joined MITAS because I wanted real responsibili�
+
+Maersk.com/Mitas www.discovermitas.com
+
+�e Graduate Programme for Engineers and Geoscientists
+
+�e G for Engine
+
+Ma
+
+Real work International Internationa al opportunities �ree wo work or placements
+
+Month 16 I was a construction Mo supervisor ina const I was the North Sea super advising and the No he helping foremen advis s solve problems Real work he helping fo International Internationa al opportunities �ree wo work or placements s solve pr
+Click on the ad to read more Click on the ad to read more
+
+68
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Appendix C: ARIZ for Service Design
+
+1.1	
+
+Isolate and write down the conflicting or contradicting pairs of service elements.
+
+1.1	 Identify the interrelationships between the components found in 1.2 and classify them as either Useful or Harmful. 1.2	 Model the problem by indicating the conflicting pairs of elements and the contradictions present in the service system. Part 2: Analysis of the Model of Problem 2.1	 2.2	 2.3	 Define the operational zone (OZ) Define the operational time (OT) Select one element from the conflicting pairs of elements that can be easily changed or replaced.
+
+Part 3: Define IFR and Physical Contradictions (PC) 3.1	 Write down the formulation for the Ideal Final Result: Element (from 2.3) itself removes indicated Harmful function while retaining the ability to perform indicated Useful function. 3.2	 Identify elements that cannot cope with the instances demanded by the Ideal Final Result (from 3.1). 3.1	 3.2	 Write down the physical contradiction at macro-level Write down the physical contradiction at micro-level
+
+Part 4: Utilization of Resources * *) Sub-parts are not based on ARIZ-85c 4.1	 Use the 40 Inventive Principles (refer to Appendix B of this Worksheet) to resolve the contradictions in the service. 4.2	 Using the obtained solution from the 40 Inventive Principles, formulate a method for solving and develop a way in which such solution will be implemented. 4.3	 Use the Su-Field Model to remove the Harmful function. The solution can be recommended based on 76 standard solution.
+
+69
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Appendix C: ARIZ for Service Design
+
+4.4	Using the solution obtained from Su-Field Model, apply the various elements for substance and field (4.5~4.7 in ARIZ-85c) Part 7: Analysis of the Principle of PC Elimination** **) Sub-parts are not based on ARIZ-85c 7.1	 Evaluate the initial solution using the following checklist: •	 Are the Ideal Final Result requirements fulfilled? •	 Which contradiction has been eliminated by the solution? •	 Is the solution suitable in real service operations? 7.2	 What secondary effects can arise in the implementation of this solution? List possible subordinate problems (e.g. administrative, financial, etc…) Part 8: Using of the Obtained Answer 8.1	 8.2	 8.3	 Determine how the Macro-level service system will change. Check whether the new solution will have to be applied in a new way. Examine the possibility of using the reverse of the service idea obtained.
+
+Some of parts for ARIZ-85c that are not applicable for services have been removed from Appendix C.
+
+70
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Appendix D: Flowchart of Why-What’s Stopping Analysis
+
+Appendix D: Flowchart of WhyWhat’s Stopping Analysis
+Why do I want to solve this problem? Why do I want to solve this problem?
+
+Broader Problem 2
+
+Broader Problem 1
+Why do I want to solve this problem?
+
+Original Problem (start here)
+
+What is stopping me from solving this problem?
+
+Narrower Problem 1
+What is stopping me from solving this problem?
+
+Narrower Problem 2
+
+What is stopping me from solving this problem?
+
+Need help with your dissertation?
+Get in-depth feedback & advice from experts in your topic area. Find out what you can do to improve the quality of your dissertation!
+
+Get Help Now
+
+Go to www.helpmyassignment.co.uk for more info
+
+71
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Innovative Service Design Workbook
+
+Appendix E: Multi-Criteria Decision Analysis Tables
+
+Appendix E: Multi-Criteria Decision Analysis Tables
+Candidate Solution 1 2 Criteria 3 4 … Total Score (A1*W1) A A1  A2  A3   A4   + (A2*W2) +… B C … Criteria Weighting Factor W1 W2 W3 W4                                    
+
+To further illustrate the use of the Multi-Criteria Decision Analysis Table, a simple worked out example is shown below. The relevant criteria used are safety, convenience, and profits. Safety is deemed most important (weighing factor of 10) while convenience is the least important (weighing factor of 5).
+Criteria Safety 8 5 7 Convenience 4 8 8 Profits 6 8 7 Total Score
+
+Candidate Solution A B C Criteria Weighting Factor 10
+
+142 146 159
+
+5
+
+7
+
+According to the table above, Candidate Solution C, which at 159, has the highest total score, should be chosen.
+
+72
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Appendix F: TRIZ-Service Design Workbook Examples
+
+Appendix F: TRIZ-Service Design Workbook Examples
+In this appendix, the various tools used in the workbook are illustrated using examples.
+
+Example 1 Illustration of Problem Definition Step
+A South East Asian country has just opened up previously out of bounds water catchment areas and reservoirs for water activities and sports. Presently, such activities are mainly found on the eastern coasts of the country. As such, the opening of the catchment areas was done to provide people convenient access to the country’s water resources for recreational purposes. However, there are also concerns about the effects of such a move on the areas’ natural surroundings. Worksheet 2.1: Problem Situation Analysis 1.	 What is the main function or purpose of the target service operation? Please describe briefly. •	 The main purpose is to provide the general public with a wider selection of water-based activities like canoeing, sailing, and wakeboarding. Convenient access to such activities is also important. 2.	 How does the service operation work? What is the system structure of the target service operations? (Hint: Identify any components of the target service operations system, and then specify their relationships) •	 The public will be able to use the various resources in the catchment areas and reservoirs for water activities and sports. 3.	 What resources are available to the target service operation? •	 Resources are the natural surroundings like the reservoirs at the water catchment areas. 4.	 What are the existing problems that you want to solve in the target service operation? Please describe briefly. (Hint: Describe the problems in current service operations system, the areas to be improved, or the barriers to delivering the desired new services) •	 Allowing water sports may cause disturbance and pollution to the natural surroundings.
+
+73
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Appendix F: TRIZ-Service Design Workbook Examples
+
+5.	 If possible, state the possible causes to the problems. •	 With the introduction of more water-based activities, there will be more visitors. This causes more cars being driven into the catchment areas, thus, causing air pollution. Water sports using motorized boats may also cause water pollution. With the increase in the number of visitors, additional amenities and facilities like car parks must be built, thus, disturbing the natural surroundings. 6.	 Is the purpose to design a new service to resolve the existing problems, or to redesign the current service with the problems? (Hint: Describe what the (potential) customer needs to be met are and how the current problem service or desired new service aims to meet the needs) •	 The purpose is to redesign the current service. It is still an aim to allow people to participate in water-based activities. However, while doing so, the possible disturbance of the natural surroundings must be minimized. 7.	 What are the known solutions to address the service design problem? Please discuss and list them as much as you can. (Hint: State past and current solutions to the identified problems) •	 Cars are not allowed into the catchment areas. •	 Motorized vehicles are not allowed in the water. •	 No additional facilities are built.
+
+74
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Innovative Service Design Workbook
+
+Appendix F: TRIZ-Service Design Workbook Examples
+
+8.	 What are the advantages and disadvantages of the listed known solutions? •	 These solutions can eliminate the possible pollution of the natural surroundings, but they make it more inconvenient for people to travel to the areas and enjoy the various water activities. These solutions also make it difficult to organize certain activities like wakeboarding, which needs motorized boats. 9.	 To your knowledge, have there been any previous attempts to solve these problems? Please describe them briefly. •	 No. This is the first time that various water sports are being allowed at the country’s catchment areas. 10.	What are the local constraints or limitations to resolve the problem? (Hint: Estimate the permissible expenditure for solving the problem and find out the changes that are allowable and not allowable to the original system) •	 Water activities are presently mainly available in the East. To encourage people to partake in such activities, water sports should be introduced at these relatively more convenient areas. People must be allowed to organize these activities, but the water and the natural surroundings must not be polluted, as the area is one of the country’s main sources of water. 11.	What is the ideal final result to the problem? •	 The ideal final result is to allow water sports at the catchment areas without causing pollution to the surrounding area. Worksheet 2.2: Problem Formulator 1.	 What are the key functional components for the target service, or the operations of the service? •	 Introduction of water sports and other activities at water catchment areas. •	 Long travel time to the East where water activities can be found. •	 More recreational activities for the public at water catchment areas. •	 More places for recreation. •	 More visitors to the area. •	 Pollution of area. 2.	 What is the aim of the target service offering? Based on this purpose, please classify the functions into two groups: useful function (UF) and harmful function (HF). If possible, please also identify the primary useful function (PUF) that achieves the aim and the primary harmful function (PHF) that hinders achievement. •	 The primary aim is to provide the general public with convenient access to water based activities at the water catchment areas. •	 (PUF) – Introduction of water sports and other activities at water catchment areas.
+
+75
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Appendix F: TRIZ-Service Design Workbook Examples
+
+•	 (HF) – Long travel time to the East where water activities can be found. •	 (UF) – More recreational activities for the public at water catchment areas. •	 (UF) – More places for recreation. •	 (UF) – More visitors to the area. •	 (PHF) – Pollution of area. 3.	 Please use cause-and-effect relationship to describe the linkage among the functional components, and draw the functional diagram.
+UF Introduction of water sports and other activities at Water Catchment areas. causes More recreational activities for the public at Water Catchment areas. eliminates HF Long travel time to the East where water activities can be found.
+
+causes More places for recreation. UF
+
+UF
+
+causes UF More visitors to area.
+
+causes Pollution of area. HF
+
+UF: Useful Function HF: Harmful Function
+
+4.	 Please review the functional diagram, add in any other essential function and delete any redundant function if necessary. •	 The present functional diagram is sufficient. No additions or deletions are required. 5.	 On the basis of the functional diagram, please formulate problem statements accordingly. •	 Find an alternative way of (Introduction of water sports.) that provides (More recreational activities.) and (More recreational places.) and prevents [Long travel time to other seaside areas.]. •	 Find a way to enhance (Introduction of water sports.). •	 Find a way to eliminate, reduce or prevent [Long travel time to other seaside areas.] that does not require (Introduction of water sports.). •	 Find a way to benefit from [Long travel time to other seaside areas.].
+
+Functional Diagram of Problems Associated with Functional Diagram of Problems Associated with the Increased Water Activities at Water Catchment Areas and Reservoirs the Increased Water Activities at Water Catchment Areas and Reservoirs
+
+76
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Appendix F: TRIZ-Service Design Workbook Examples
+
+•	 Find an alternative way of (More recreational activities.) that provides (More visitors.) and does not require (Introduction of water sports.). •	 Find a way to enhance (More recreational activities.). •	 Find an alternative way of (More recreational places.) that does not require (Introduction of water sports.). •	 Find a way to enhance (More recreational places.). •	 Find an alternative way of (More visitors.) that prevents [Pollution.] and does not require (More recreational activities.). •	 Find a way to enhance (More visitors.). •	 Find a way to eliminate, reduce or prevent [Pollution.] under condition of (More visitors.). •	 Find a way to benefit from [Pollution.]. 6.	 Please analyze the formulated problem statements one by one, and list any solutions indicated by the statements. •	 Improve transport services to the East, where most water sports activities can be found by introducing more convenient and direct transport services (e.g. buses) from train stations or even from the city center. •	 Introduce other activities (e.g. more picnic grounds) that do not involve the water resources at the catchment areas.
+
+Brain power
+
+By 2020, wind could provide one-tenth of our planet’s electricity needs. Already today, SKF’s innovative knowhow is crucial to running a large proportion of the world’s wind turbines. Up to 25 % of the generating costs relate to maintenance. These can be reduced dramatically thanks to our systems for on-line condition monitoring and automatic lubrication. We help make it more economical to create cleaner, cheaper energy out of thin air. By sharing our experience, expertise, and creativity, industries can boost performance beyond expectations. Therefore we need the best employees who can meet this challenge!
+
+The Power of Knowledge Engineering
+
+Plug into The Power of Knowledge Engineering. Visit us at www.skf.com/knowledge
+
+77
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Innovative Service Design Workbook
+
+Appendix F: TRIZ-Service Design Workbook Examples
+
+•	 Instead of using the catchment areas, other seaside locations (e.g. offshore islands) can be opened up instead for water activities. •	 Alter present activities in the catchment areas so that they do not drastically affect the natural surroundings. •	 Provide more convenient and cheaper public transport services to negate the need for visitors to drive in with their cars. This may reduce the effect of air pollution from private vehicles. 7.	 Please check whether the found solutions are enough for the resolution of problem. •	 Solutions generated can be implemented. However, more innovative solutions are needed.
+
+Example 2 Illustration of Patterns of Evolution Tool
+In some hospitals, nighttime operations have been introduced to reduce the long waiting times encountered by surgical patients. However, what happens when patients refuse or are uncomfortable with such operations? This example illustrates the use of the Patterns of Evolution to solve this service problem. Through this tool, a service’s likely evolution can be seen. By listing out the general patterns, possible solutions to the service problem can be generated. For this hospital problem, the following solutions are generated using the Patterns of Evolution: 1.	 Uneven evolution of parts of the system There is an uneven balance between the demand for surgical services and the capabilities of the hospital. In order to reduce waiting time, one obvious solution is to increase the number of operating theatres and to hire more staff. In addition, the hospital may turn all of its operating theatres into multi-disciplinary ones that can cater to most surgical procedures. Therefore, any theatre would be able to handle a wide variety of surgeries so that more patients can be operated on in a day. 2.	 Transition into the macro level The hospital may be a part of a much bigger cluster of private or public healthcare institutions. In such cases, a hospital may consider tapping into the vast network of such a cluster to reduce its patients’ waiting times. A hospital can tap into any underutilized resources in the cluster. To alleviate further waiting, the hospital may even offer free shuttle services to the other facilities. 3.	 Transition to the micro level By making surgical equipment available to all surgical procedures, we can make sure that surgeries can be performed at most theatres. This can be done by making not only common surgical equipment, but also other specialized ones, mobile. Increasing their mobility will enable surgeons to perform most operations at any theatre.
+
+78
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Appendix F: TRIZ-Service Design Workbook Examples
+
+4.	 Increase in system interactions A review of other component’s interactions with the hospital’s surgical services can be done. A look at the surgery time schedules should be done to make sure that operating theatres are not left idle during the day. In many cases, reasons for delays in the schedules are caused by cancellations of scheduled operations that, in turn, may be due to the unavailability of surgeons or wards. As such, not only a review of surgery time schedules should be done, but also a review of staff time schedules and ward schedules must also be considered.
+
+79
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Appendix G: TRIZ Resource Analysis
+
+Appendix G: TRIZ Resource Analysis
+(Source: Mueller, 2005) This appendix will be completed in due course
+
+Challenge the way we run
+
+EXPERIENCE THE POWER OF FULL ENGAGEMENT… RUN FASTER. RUN LONGER.. RUN EASIER…
+1349906_A6_4+0.indd 1
+
+READ MORE & PRE-ORDER TODAY WWW.GAITEYE.COM
+
+22-08-2014 12:56:57
+
+80
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+
+Innovative Service Design Workbook
+
+Appendix H: Multi-Screen Thinking
+
+Appendix H: Multi-Screen Thinking
+Multi-Screen Thinking is one of the more famous TRIZ tools and can reveal hidden resources. During this procedure, users can review resources not only in the current system level and timeframe but also in other levels and timeframes. The Multi-Screen Thinking Table (see the Figure 1) describes the system levels and timeframe which can explain events in greater detail.
+Time -1 Time 0 Time 1
+
+Super Sytem and Enviroment
+
+System
+
+Object: Tools:
+
+Sub-System
+
+Figure 1. Multi-Screen Thinking Table
+
+Time 0 is the moment that the problem is happening and is called OT (Operation Time) in TRIZ. In other words, the moment Time 0 is the time when the system is doing the action. Time-1 is the moment just before the action and Time 1 Users consider resources not only in the system but also in the sub-system and super system. Sub-systems are basically elements of the target systems.
+
+81
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Appendix I: Su-Field Model and Enhancement
+
+Appendix I: Su-Field Model and Enhancement
+(Source: Cheng, 2010 and Kim, 2012) This appendix will be completed in due course
+
+82
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+Appendix J: Service Capstone Model
+
+Appendix J: Service Capstone Model
+(Source: Kaner et al, 2008) This appendix will be completed in due course
+
+83
+Download free eBooks at bookboon.com
+
+Appendix K: Major Service classes Innovative Service Design Workbook and their significant TRIZ principles
+
+Appendix K: Major Service classes and their significant TRIZ principles
+(Source: Kaner et al, 2008) The below table serve as a guide for implementing a content-based procedure: Which principles are best for finding a component related to a given main class?
+Major Class Customers Goals Inputs Outputs Processes Human enablers Physical enablers Information enablers Environment Non-significant Significant TRIZ principles 1,3,17,23,36 1,3,16,17,28,34,36,37 1,6,11,25,37 1,6,8,18,23,26,27 1,2,3,10,12,15,16,17,20,23,26,39 1,15,17,18,20 7,11,26,32,33,35,40 1,2,6,10,11,16,25,40 2,8,9,10,22,36 4,5,13,14,19,21,24,29,30,31,38
+
+84
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+References
+
+References
+American Association of Retired Persons (1990), Understanding Senior Housing for the 1990s, DC: Washington. Baron-Epel, O., Dushenat, M., & Friedman, N. (2001), Evaluation of the consumer model: relationship between patients› expectations, perceptions and satisfaction with care, International Journal for Quality in Health Care, 13(4), 317–323. Belski, I., Kaplan, L., Shapiro, V., Vaner, L., Wong, P.W. (2003), SARS and 40 Principles for Eliminating Technical Contradictions: Creative Singapore, The TRIZ Journal, June Issue. Birnbaum, H., Burke, R., Swearingen, C., & Dunlop, B. (1984), Implementing community-based longterm care: experience of New York’s long term home health care program, Gerontologist, 24(4), 380–386. Chai, K.H., Zhang, J., & Tan, K.C. (2005), A TRIZ-based method for new service design, Journal of Service Research, 8(1), 48–66. Chapin, R., & Dobbs-Kepper, D. (2001), Aging in place in assisted living: philosophy versus policy, Gerontologist, 41(1), 43–50. Chaplin, E. (2000), Organization Change and Service Redesign, The TRIZ Journal, November Issue Chen, C.K., Shie, A.J., Wang, K.M., & Yu, C.H. (2012), An Ageing-in-Place Service Innovation Model by Using TRIZ Methodology, Human Factors and Ergonomics in Manufacturing & Service Industries. Cohen-Mansfield, J., & Frank, J. (2008), Relationship between perceived needs and assessed needs for services in community-dwelling older persons, Gerontologist, 48(4), 505–516. Citro, J., & Hermanson, S. (1999), Assisted Living in the United States, Washington, DC: American Association of Retired Persons. Cutchin, M.P. (2003), The process of mediated aging-in-place: a theoretically and empirically based model, Social Science and Medicine, 57(6), 1077–1090. Cutler, L.J. (2007), Physical environments of assisted living: research needs and challenges, The Gerontologist, 47 Spec No 3, 68–82.
+
+85
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+References
+
+Fashimpar, G.A. (1983), A management tool for evaluating the adequacy and quality of homemaker home health aide programs, Gerontologist, 23(2), 127–131. Francis, J., & Netten, A. (2004), Raising the quality of home care: a study of service user’s views, Social Policy and Administration, 38(3), 290–305. Gilleard, C., Hyde, M., & Higgs, P. (2007), The impact of age, place, aging in place, and attachment to place on the well-being of the over 50s in England, Research on Aging, 29(6), 590–605. Hawes, C., Phillips, C.D., Rose, M., Holan, S., & Sherman, M. (2003), A national survey of assisted living facilities, Gerontologist, 43(6), 875–882. Jensen, P.M., Saunders, R.L., Thierer, T., & Friedman, B. (2008), Factors associated with oral healthrelated quality of life in community-dwelling elderly persons with disabilities, Journal of the American Geriatrics Society, 56(4), 711–717. Kaner, M. and Karni, R. (2008) “Application of the Theory of Inventive Problem Solving (TRIZ) to Service System Design”, XVIII International RESER Conference, Stuttgart, Germany, 2008 Kim, S.-K. (2012) Conceptual Design based on Substance-Field Model in Theory of Inventive Problem Solving, International Journal of Innovation, Management and Technology 3(4), 306–309 Marek, K.D., & Rantz, M.J. (2000), Aging in place: a new model for long-term care, Nursing Administration Quarterly, 24(3), 1–11. Mueller, S. (2005): The TRIZ Resource Analysis Tool for Solving Management Tasks: Previous Classifications and their Modification, Creativity and Innovation Management, 14 (1), 43–58 Raynes, N., Temple, B., Glenister, C., & Coulthard, L. (2001), Quality at Home for Older People: Involving Service Users in Defining Home Care Specifications, York: Policy Press and Joseph Rowntree Foundation. Rubin, H.R., Pronovost, P.,&Diette, G.B. (2001),The advantages and disadvantages of process-based measures of health care quality, International Journal for Quality in Health Care, 13(6), 469–474. Schade, C.P., & Brehm, J.G. (2010), Improving the home health acute-care hospitalization quality measure, Health Services Research, 45(3), 712–727. Stone, R.I., & Reinhard, S.C. (2007), The place of assisted living in long-term care and related service systems, The Gerontologist, 47 Spec No 3, 23–32.
+
+86
+Download free eBooks at bookboon.com
+
+Innovative Service Design Workbook
+
+References
+
+Wu, S.C., & Chuang, K.Y. (2001), Aging in place: the direction of Taiwan long-term care policy in the 21st century, Taiwan Journal of Public Health, 20(3), 192–201. Yang, H.L., & Hsiao, S.L. (2009), Mechanisms of developing innovative IT-enabled services: A case study of Taiwanese healthcare service, Technovation, 29(5), 327–337. Zhang, J. (2004), Systematic Innovation in Service Design Through TRIZ, Dissertation for the Degree of Masters of Engineering at the Department of Industrial and Systems Engineering, National University of Singapore.
+
+This e-book is made with
+
+SetaPDF
+
+SETASIGN
+
+PDF components for PHP developers
+
+www.setasign.com
+87
+Download free eBooks at bookboon.com
+
+Click on the ad to read more Click on the ad to read more
+

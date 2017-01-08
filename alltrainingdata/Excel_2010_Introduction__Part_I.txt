@@ -1,0 +1,1965 @@
+Excel	2010	Introduction:	Part	I
+Formulas,	Functions	and	Formatting Stephen	Moffat,	The	Mouse	Training	Company
+
+Download	free	books	at
+
+Stephen Moffat, The Mouse Training Company
+
+Excel 2010 Introduction
+Part I
+
+2
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Excel 2010 Introduction: Part I © 2011 Stephen Moffat & bookboon.com ISBN 978-87-7681-804-3
+
+3
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Contents
+
+Contents
+Section 1	 Introduction	 How To Use This Guide Objectives Instructions Appendices 	 	 	 	 7 7 7 7 7 9 	 	 10 17 18 19 20 	 21 23 24 30 	 37 	
+
+Section 2	 The Basics	 Windows Concepts Getting Help 	 Microsoft Excel Help
+
+Section 3	 Move Around and Enter Data	 Moving 	 Useful Keys for Moving Workbook Sheets Data Entry Editing 	 	
+
+Useful Information
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I Section 4	 Formulae and Functions	 Formulae Functions 	 	 	 40 41 48 58 61 62 71 85 85 	 	 	 95 98 112
+
+Contents
+
+Absolute and Relative References Section 5	 File Operations	 Working with Files 	
+
+Section 6	 Moving and Copying Data	 Section 7	 Formatting	 Quick Formats Number Formats Advanced Formats 	
+
+Formatting Columns and Rows
+
+To see Section 8-9 download Excel 2010 Introduction: Part II Section 8	 Names	 Naming Cells and Ranges Name Box 	 	 Part II Part II Part II
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I Section 9	 Working with Sheets	 Multiple Worksheets Activate Group Mode Protect Worksheet Data Section 10	 Printing	 Printing Options Page Setup Page Tab Margins Tab Sheet Tab Print Data 	 	 	 	 	 	 	 	 	 	 	 Part II Part II Part II Part II Part II Part II Part II Part II Part II Part II Part II Part II Part II Part II Part II Part II Part II Part II
+
+Contents
+
+Fill Data Across Worksheets
+
+Header/Footer Tab
+
+Section 11	 Utilising Large Worksheet	 Useful Tools for Large Sheets Navigation 	 	
+
+Section 12	 Customising Excel	 Set Excel Options 	
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+6
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I
+
+Introduction
+
+Section 1	 Introduction
+Excel 2010 is a powerful spreadsheet application that allows users to produce tables containing calculations and graphs. These can range from simple formulae through to complex functions and mathematical models. All graphics related to Microsoft in this book is in compliance with Microsoft guidelines and thus permitted by Microsoft.
+
+How To Use This Guide
+This manual should be used as a point of reference following attendance of the introductory level Excel 2010 training course. It covers all the topics taught and aims to act as a support aid for any tasks carried out by the user after the course. The manual is divided into sections, each section covering an aspect of the introductory course. The table of contents lists the page numbers of each section and the table of figures indicates the pages containing tables and diagrams.
+
+Objectives
+Sections begin with a list of objectives each with its own check box so that you can mark off those topics that you are familiar with following the training.
+
+Instructions
+Those who have already used a spreadsheet before may not need to read explanations on what each command does, but would rather skip straight to the instructions to find out how to do it. Look out for the arrowicon which precedes a list of instructions.
+
+Appendices
+The Appendices list the Ribbons mentioned within the manual with a breakdown of their functions and tables of shortcut keys. Keyboard Keys are referred to throughout the manual in the following way: ENTER– Denotes the return or enter key, DELETE – denotes the Delete key and so on. Where a command requires two keys to be pressed, the manual displays this as follows: CTRL + [P] – this means press the letter “p” while holding down the Control key. Commands When a command is referred to in the manual, the following distinctions have been made: When Ribbon commands are referred to, the manual will refer you to the Ribbon –
+
+7
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I E.G. “Choose home from the Ribbons and then B for bold”. When dialog box options are referred to, the following style has been used for the text – E.G.“In the Page Range section of the Print dialog, click the Current Page option” Dialog box buttons are Emboldened – “Click OK to close the Print dialog and launch the print.” Notes
+
+Introduction
+
+Within each section, any items that need further explanation or Points for extra attention devoted to them are denoted by shading. For example: “Excel will not let you close a file that you have not already saved changes to without prompting you to save.” or •	 “Excel will not let you close a file that you have not already saved changes to without prompting you to save.” Tips At the end of each section there is a page for you to make notes on and a “Useful Information” heading where you will find tips and tricks relating to the topics described within the section.
+
+8
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+The Basics
+
+Section 2	 The Basics
+By the end of this section you will be able to: •	 Understand and use common Windows elements •	 Launch Excel •	 Understand the concept of a spreadsheet •	 Recognise Excel screen elements •	 Work with Toolbars •	 Use Menus •	 Get Help
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+9
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I
+
+The Basics
+
+Windows Concepts
+Excel is an application that runs under the Windows graphical user interface. When launched, Excel sits in its own “window” – the box that surrounds the application elements. The window can be moved, sized, closed, minimised and maximised using the features common to the Windows environment – these are listed below: Window BorderThe box that surrounds the Excel screen when it is not maximised is called the window border. When the mouse is over the border, the pointer changes from a single to a double-headed arrow – clicking and dragging with this shape allows the window to be resized. Title barThe coloured bar that appears at the top of the Excel window. The title bar tells you which application you are using and if the workbook you are in is maximised, it will also contain the name of the workbook. If the Excel window is not maximised, by positioning the mouse over the title bar and clicking and dragging, you can move the Excel window to a new location on the screen.
+
+Maximise buttonWhen working in a workbook, the Excel screen contains two windows, an application window and a workbook window. You can maximise both windows to capitalise on the space you have on-screen. If you would like the window that your Excel application is in to fill up the whole screen, click the outermost maximise button. You may find that the workbook you are in can still be bigger – click the inner maximise button to fill the remaining space within the Excel application window.
+
+Minimise buttonThis button is very useful if you need to temporarily switch from Excel into another application without closing Excel down completely. Click the minimise button to shrink Excel to an icon on the task bar; you will then be able to view other icons and applications you may wish to access. When you are finished and ready to continue, click the Excel icon from the task bar to resume. The innermost minimise button will minimise the current workbook window.
+
+Restore buttonThis button only appears when a window is maximised. A maximised window has no border and you cannot see what is behind it. If you want to put the window back inside its border so that you can move and size it, click the restore button.
+
+10
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+The Basics
+
+Close buttonThis button is used to close a window. If you click the close button for a workbook window you close the document. The last button will close the Excel application.
+
+Dialog Box Launcher this button launches dialog boxes specific to the part of the ribbon you see them the category will be named such as font, clipboardetc.
+
+Menus
+Menu’s are no longer used in Excel they have been replaced by Ribbons and will be referred to as such throughout the manual.
+
+Ribbons
+Ribbons are tabs that show different commands with respect to what you wish to do.
+
+The home ribbon shows basic commands of formatting. The Insert ribbon allows the insertion of any object. Just click on the named ribbon to see list of commands that you can perform by clicking on the appropriate icon. By holding your mouse over an icon, a helpful hint will appear to show you what that command will do. Clicking will apply that command. Any Icon on the ribbon with a down arrow offers other options and sometimes a dialog box such as the down arrow on the table button. Any option within the menu that has a series of dots after it will usually display a dialog box.
+
+11
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+The Basics
+
+Choosing to insert a chart from the insert ribbon’s Chart button will open a dialog box directly and offer a number of varieties of charts to insert.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+12
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I
+
+The Basics
+
+Dialog Box
+Within each tab, the available icons are seperated into diffierent ‘Groups’. The name of the group is shown under the icons, at the bottom of the ribbon e.g. Font, Paragraph etc. To the right of the Group name you may see a small icon with an arrow in it . This is the Dialogue Box launcher and allows you to launch/view the dialogue box associated with that group – simply click on the relevant dialogue box launcher.
+
+When the dialog box is open, make a choice from the various options and click ok at the bottom of the dialog box. If you wish to change your mind and close the dialog box without making a choice then click on cancel. The dialog box will close without any choice being applied. If you would like help while the dialog box is open then click on the “?“in the top right hand corner. This will bring up a help window that will display the relevant topics. Many dialog boxes may be more familiar if you have used EXCEL before.
+
+File Ribbon
+The File Ribbonis the key ribbon within excel and has many important commands and options. Such as excel settings, opening, saving, printing and closing files. This will be looked into much further later in the manual.
+
+Toolbars
+
+13
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+The Basics
+
+Quick Access Toolbar
+By default there are only three buttons on the quick access toolbar but these can be edited and other regularly used buttons can be placed there. Using the drop down menu nest to the quick access toolbar will allow the customisation of this toolbar adding your most often used commands.
+
+Mini Toolbar
+Whenever text is selected within excel a small formatting toolbar will appear above the highlighted text it will disappear if the mouse cursor is moved away from the toolbar and will reappear when the mouse cursor is moved over the highlighted text again.
+
+Name Box
+The name box is the small white box to the left of the formula bar as we will discover later has a number of useful features such as navigation, the creation and selection of named cells and ranges. Entering a cell reference and pressing return will navigate you to the specific cell entered. Using the drop down arrow to the right of it will allow you to select any specified names in the workbook. When creating functions the box will have a different appearance and will allow you to choose the most popular functions used in that workbook.
+
+Formula Bar
+The formula bar is the white bar to the right of the name box and is used for entering and editing data. Creating and editing functions and formulae. The construction of Formulae and functions can be seen in this bar even when the cell containing the formula is showing a calculated value. (Unless cell is formatted to hidden and the sheet protected). The fx button on the left of the bar is a tool to create functions and formulae
+
+14
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+The Basics
+
+Worksheets
+You use worksheets to list and analyse data. You can enter and edit data on several worksheets simultaneously and perform calculations based on data from multiple worksheets. When you create a chart, you can place the chart on the worksheet with its related data or on a separate chart sheet. The names of the worksheets appear on tabs at the bottom of the workbook window. The name of the active sheet is bold.
+
+15
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I
+
+The Basics
+
+Status Bar
+
+The Status bar, across the bottom of the screen, displays different information at different times. To the left is an indicator, which will display Ready, Edit etc. depending on the mode in which the user is currently working. If menus are being accessed, this area will usually give details on the currently highlighted menu option. If you are in the middle of a task – copying data for example – this area will often display messages and prompts instructing you on what to do next.
+
+To the Left on the Status bar, keyboard status indicators reveal whether the Num Lock etc. are switched on.
+
+Task Pane
+
+A task pane is a window that collects commonly used actions in one place. The task pane enables you to quickly create or modify a file, perform a search, or view the clipboard. It is a Web-style area that you can either, dock along the right or left edge of the window or float anywhere on the screen. It displays information, commands and controls for choosing options. Like links on a Web page, the commands on a task pane are highlighted in blue text, they are underlined when you move the mouse pointer over them, and you run them with a single click. A task pane is displayed automatically when you perform certain tasks, for example when you choose Insert, Ribbon and thenclipart to insert a picture
+
+16
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+The Basics
+
+Smart Tags
+Smart Tags, first introduced in Microsoft Office XP, make it easier for you to complete some of the most common tasks and provide you with more control over automatic features.
+
+You do not have to complete any additional steps to make the Smart Tags appear or disappear in Excel. The Paste Options, AutoFill Options, Trace Error and Insert smart tags appear automatically to allow you to quickly choose actions and remain in place until you begin another action. For example, when you complete a paste operation, the Paste Options button remains in place alongside your text until you begin typing new text. This feature alerts you via a smart Tag of a possible error in a cell. You can select a command to resolve the error, ignore it, or access further Error Checking options. The example above right shows the use of a smart tag where a formula has been written into a cell with a possible error i.e. =Sum (A1:A2) may need to read =Sum (A1:A3). If you hover over the tag, the message, the formula in this cell refers to a range that has additional numbers adjacent to it, appears then the options drop down.
+
+Getting Help
+Excel offers several quick ways to get help when performing particular tasks. You can select from a list of topics provided by Help, or you can even type a help request in plain English, and Excel will supply the answer using the Answer Wizard.
+
+17
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+The Basics
+
+Microsoft Excel Help
+To Access Help:
+
+1.	 Click “?” On the title bar OR press f1. The Help window will open: 2.	 This is very similar to a web page 3.	 You may enter search criteria and press ENTER (like a search when on the internet) 4.	 The window will display the topics that match your search. Click on a topic in order for it to be displayed Find A Specific Topic 1.	 The contents page allows you to select from a list of topic headings. Like search results on the internet these are hyperlinks to help files. 2.	 You may need to be online to access some of the help links. The search will be more extensive if you are online as it will search online help files from Microsoft.
+
+18
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Move Around and Enter Data
+
+Section 3	 Move Around and Enter Data
+By the end of this section you will be able to: •	 Navigate between worksheets. •	 Navigate to any point in a worksheet. •	 Enter numerical or textual data. •	 Edit entered data or delete it. •	 Selecting various parts of sheet or workbook simultaneously.
+
+19
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I
+
+Move Around and Enter Data
+
+Moving
+Moving Around Workbook
+With such a large working area available, you need to be aware of some of the techniques used for moving around the workbook. It is possible to move using either the keyboard or the mouse. Mouse 1.	 The mouse is good if you want to move small distances. Click the white plus on any cell that you want to move to. The cell you clicked on becomes the selected cell. •	 Depending on the position of the mouse in relation to the active cell, Excel displays different pointer shapes. The shape that must be displaying when moving to a cell or selecting cells is a white cross. (adjacent) Keyboard 1.	 You can select a cell by moving around with your cursor keys. (Arrow keys on your keyboard). 2.	 Having selected a cell, by double clicking the cell it becomes the active cell with a flashing cursor. You can also make a cell active by clicking in the formula bar or by pressing the f2 key
+
+•	 Please note that while any cell is active various commands will not be available until the cell is no longer active. You may close the cell by pressing return or cancelling whatever was entered by pressing esc.
+
+Scrolling
+
+20
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Move Around and Enter Data
+
+The vertical and horizontal scroll bars do not move the active cell but they do allow you to see areas of the worksheet that are not currently visible. Having scrolled to an area of the worksheet, if you then need to move the active cell into that region, click the mouse onto a cell of your choice. To Use The Scroll Bars: mouse 1.	 Click on the scroll arrows up/down or left/right. 2.	 Drag the scroll box until the relevant cell becomes visible. •	 The size of a scroll box indicates the proportional amount of the used area of the sheet that is visible in the window. The position of a scroll box indicates the relative location of the visible area within the worksheet.
+
+Useful Keys for Moving
+The table below lists some useful tips for scrolling: To scroll One row up or down One column left or right One window up or down One window left or right Do this Click the arrows in the vertical scroll bar. Click the arrows in the horizontal scroll bar. Click above or below the scroll box in the vertical scroll bar. Click to the left or right of the scroll box in the horizontal scroll bar.
+
+•	 When dragging the scroll box a scroll tip will display, showing the row or column you will move to when you release the mouse.
+
+21
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I Keyboard
+
+Move Around and Enter Data
+
+When you need to move further, it is better to use the keyboard. The table below lists useful movement keys. To Move One Cell Up, Down, Left or Right Up One Screen Down One Screen Left One Screen Right One Screen To Edge of Worksheet (or current block of data) To a Particular Cell To column A in the current row To cell A1 [F5] then type the reference for the cell required and press Return [HOME] CTRL+[HOME]
+[ß][à][á][â] [PAGE UP] [PAGE DOWN] ALT[PAGE UP] ALT[PAGE DOWN] Do this
+
+CTRL+[Relevant Arrow Key]
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+22
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I
+
+Move Around and Enter Data
+
+Workbook Sheets
+To Move Between Sheets Each new workbook contains worksheets, named sheets1 to sheet 3. The sheet name appears on a tab at the bottom of the workbook window. Mouse You may click on any sheet tab to go to that sheet Keyboard 1.	 Press CTRL+[PAGE DOWN] to move to the next sheet, or CTRL+[PAGE UP] to move to the previous sheet.
+
+Moving Around Sheet
+To Move To A Specific Cell: Go To You can use [F5] to tell Excel to move to a specific cell. [F5] is the Microsoft Office Go To key. When you press [F5] in Excel a dialog box is displayed where you can type in a cell reference.
+
+23
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I Keyboard
+
+Move Around and Enter Data
+
+1.	 Press [F5] on the keyboard. The following dialog box will appear. 2.	 Type the cell reference that you want to move to in the Reference box and press ENTER. 3.	 You can use [F5] to move to a cell in a different sheet E.g.To go to Sheet7 cell A1 you can press [F5] and then type Sheet7!A1. (The exclamation mark tells excel that the text immediately before it, is a sheet name. The sheet name must exist in the workbook) 4.	 Excel keeps a log of the cells you have visited using the ‘Go to’ key, and lists them in the ‘Go to’ list area of the dialog. You can go back to a previously visited cell by pressing [F5] and double-clicking on the cell reference you want from the list. 5.	 Named ranges are also listed in the Go to list if they have been set up.
+
+Data Entry
+Enter Text And Numbers
+There are various aspects to note and be aware of, both in terms of entering data, and also to do with the nature of the data being entered. You can enter data into a cell by positioning the cursor in the cell and typing the information. The maximum number of characters that a cell can contain is 32,000. Excel recognises text and numeric entries and initially displays them with different alignments – left for text and right for numbers. You can override these with other formats if required.
+
+24
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I To Enter Information: Mouse
+
+Move Around and Enter Data
+
+1.	 Move to the cell where you want the entry and type a word (for example NAME in cell A1). The text will appear in the Formula bar as well as in the current cell. The cursor will be visible as a flashing insertion point in the formula bar.
+
+2.	 Click on the green tick mark on the formula bar to confirm the entry. Or Keyboard 1.	 Press ENTER to confirm the entry. •	 Until you confirm an entry, Excel remains in “Enter” mode, and the cell is active (see Status bar). Excel will return to the “Ready” mode, and the text will appear in the cell. •	 When you press ENTER to confirm an entry, Excel will by default move the selected cell down to the cell below. You can disable this setting or choose to move the selected cell in a different direction using the excel options dialog box (File Ribbon). See the Customisation section for more information.
+
+Cancelling And Editing Data Entries
+You may find that you have typed an entry into the wrong cell. Provided you have not confirmed the entry by pressing ENTER or clicking the green tick from the formula bar, you can abandon it. To Abandon Or Cancel An Entry: Mouse
+
+1.	 Click the red cross from the Formula Bar. OR
+
+25
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I Keyboard 1.	 Press [esc] to cancel entry
+
+Move Around and Enter Data
+
+When you have confirmed an entry, while the cell is still selected, the current cell reference will be displayed in the Name box and the cell contents are displayed in the Formula bar. Text information, as opposed to numeric information, will initially appear left aligned within the cell. If you enter text which is longer than the column width, the display on the worksheet will seem to overlap into the next cell to the right (if that cell is empty). To Edit An Unconfirmed Entry Occasionally, you may make a typing error prior to confirming an entry. You cannot use the arrow keys to move backward you MUST use the formula bar at that point using the arrow keys merely confirms the entry and moves you the focus of the selected cell. To Edit A Confirmed Entry 1.	 Double click on cell containing the data to be edited Or 1.	 Press F2 key
+
+.
+
+26
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I Or 1.	 Edit directly in formula bar
+
+Move Around and Enter Data
+
+Using any of these methods above will allow change the cell to an active cell and allow you to use the cursor keys [SS] [à]to move around the data you wish to edit. Use the BACKSPACE to delete characters behind the cursor or DELETE to delete characters in front of the cursor within the data or you may add information to the entry before confirming it.
+
+Enter Dates
+It is possible to enter dates into Excel and have them accepted and displayed as such provided you use a recognised format. Excel 2003 will allow entry of dates from 1900 onward. Recognised Formats For Dates •	 Use a forward slash (/) as the day/month/year separator:01/01/01 •	 Use a dash (hyphen) as the day-month-year separator:1-1-01 •	 Do not use full stops as a date separator as excel will read this as text and the value will not be entered as a true date Dates entered in excel appear as dates but are actually numbers formatted to appear as dates this allows calculation with them so it is important to enter them correctly. A date once entered correctly will ALWAYS have a four digit year in the formula bar however that date may appear in the cell. Dates start at the number 1 which represents the date 1-1-1900. Dates being numbers align to the right. Any date entered before that date will not be recognised as a true date to excel but will be seen as text and therefore align to the left as with all text. If you omit the year from a date, Excel will assume the current year. You will not see the year in the cell but if you look at the cell contents on the Formula bar, you will see that Excel has added it. With some recognised date styles, Excel will automatically format the date to display in a certain way. You can choose how your dates are displayed by formatting them yourself (see the section on formats for more information). •	 Some entries are recognised by Excel and are formatted automatically. Dates are one such entry (as described above), percentages are another. When you delete data from such cells and replace it with other entries, you may find that you get surprising results. This is because although you cleared the data from the cells, the formats still remain and are causing the new data that you typed to display in a certain way. For more information on clearing cell data, see the clearing cells later in this section.
+
+Autocomplete
+When you type the first few letters of an entry into a cell, Excel can complete the entry automatically using an option known as AutoComplete. It does this by building a list based on the entries already entered in a column. If Excel suggests an inappropriate entry, you can pick a different entry from the list.
+
+27
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I To Use Autocomplete: Keyboard
+
+Move Around and Enter Data
+
+1.	 Position yourself over the next blank cell in a column. 2.	 Begin typing the entry – Excel will try to match what you type with other items already entered in the current column and will automatically complete the entry for you. 3.	 Press ENTER to accept Excel’s proposed entry. Or 1.	 Continue typing to replace Excel’s proposed entry with your own entry. 2.	 Press ENTER to confirm completion.
+
+Pick From List
+You can get AutoComplete to display a list of possible entries built up from previously entered column data and select the one you want without typing anything. To Pick From An Autocomplete List: Mouse
+
+1.	 Click the right mouse button in the required cell. 2.	 Choose,Pick from List. 3.	 Choose the entry required.
+
+28
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I or Keyboard
+
+Move Around and Enter Data
+
+1.	 Use keys to move to required cell then use ALT + [↓] to show list and then cursor keys to move through list pressingENTER confirms selection •	 Excel can only AutoComplete column entries if there are no gaps in your data. If you leave a gap, the next cell that you type in, will not AutoComplete, neither will you be able to pick from a list. You can stop Excel from AutoCompleting column entries by switching the setting off. To Disable Autocomplete mouse 1.	 File ribbon, options, advanced, untick the enable Autocomplete for cell valuescheckbox.
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+29
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I
+
+Move Around and Enter Data
+
+Editing
+There are various ways in which you can change or remove data you have entered in cells on the worksheet.
+
+Typing Replaces Selection
+This option is a feature that is standard throughout the Microsoft Office suite. It ensures that if you type when an item is selected, your typing replaces the selected item. This is extremely useful in a number of instances. When you want to change a short cell entry, it might be quicker to make use of this option to overwrite the entry with the new one. To Overwrite A Cell Entry: Keyboard 1.	 Move to the cell you want to change. 2.	 Type in the new entry (the former one will disappear as soon as you start typing). 3.	 Press ENTER to confirm the changed entry.
+
+Use The Mouse To Edit
+Perhaps one character has been omitted, or two characters have been transposed, and only a slight adjustment needs to be made. If this is the case, you can add or change characters using edit mode. You can edit directly in the cell or on the Formula bar. To Edit In Cell: mouse 1.	 Double-click the cell to change – this will access Edit mode (the prompt on the Status bar will say ‘Edit’). 2.	 Use the arrow keys to move the cursor to the edit position within the entry and the DELETE and BACKSPACE keys to remove characters if necessary. 3.	 Press ENTER to confirm the changes. To Edit In The Formula Bar: mouse 1.	 Move to the cell to change. 2.	 Click in the Formula bar where the cell contents appear. This will drop you straight into Edit Mode (see Status bar) and a cursor appears in the Formula bar. 3.	 Use the arrow keys to move the cursor to the edit position within the entry and the DELETE and BACKSPACE keys to remove characters if necessary. 4.	 Press ENTER to confirm the changes.
+
+30
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Move Around and Enter Data
+
+Using The Keyboard
+You can access edit mode using a function key. To Edit A Cell: keyboard 1.	 Select the cell to be edited. 2.	 Tap the F2 function key. Excel will go into Edit mode. A cursor will appear at the end of the active cell. 3.	 Use the arrow keys to move the cursor to the edit position within the entry and the DELETE and BACKSPACE keys to remove characters if necessary. 4.	 Press ENTERto confirm the changes.
+
+Select Information
+
+When you want to issue a command that will affect several cells, you should select those cells first. When you select a block of cells, Excel shows you which cell is the active cell within that selection by leaving it white, while the rest of the cells are highlighted black. There are a variety of ways you can select different items on the worksheet and these are described below. To Select Cells With The Mouse mouse When you select with the mouse, you need to make sure that the selection pointer is displayed. This is the white plus that appears when the mouse is positioned over the middle of a cell.
+
+31
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Move Around and Enter Data
+
+To select A single cell A range of cells All cells on a worksheet Nonadjacent cells or cell ranges A large range of cells An entire row An entire column Adjacent rows or columns Nonadjacent rows or columns More or fewer cells than the active selection
+
+Do this Click the cell, or press the arrow keys to move to the cell. Click the first cell of the range, and then drag to the last cell. Click the Select All button. Select the first cell or range of cells, and then hold down CTRL and select the other cells or ranges. Click the first cell in the range, and then hold down SHIFT and click the last cell in the range. You can scroll to make the last cell visible. Click the row number. Click the column letter. Drag across the row or column headings. Or select the first row or column; then hold down SHIFT and select the last row or column. Select the first row or column, and then hold down CTRL and select the other rows or columns. Hold down SHIFT and click the last cell you want to include in the new selection
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+32
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I To Select Cells With The Keyboard
+
+Move Around and Enter Data
+
+Sometimes, selecting with the keyboard gives you more control over the amount of data you select. The table below lists the more useful keys for selecting: To select The active cell plus one Cell up, down, left or right To Edge of Worksheet (Or current block of data) The current region Whole Column Whole Worksheet Mouse 1.	 You can cancel a selection by moving somewhere else. Click the white plus on any cell outside the selection. 2.	 By using one of the arrow or cursor keys [SS] or [à] or [á] or [â].
+CTRL+[*] (Use the asterisk from the number pad) CTRL +SPACEBAR CTRL+A SHIFT+CTRL+[Relevant Arrow Key]
+
+Do this
+SHIFT+[ß],SHIFT+[à],SHIFT+[á],SHIFT+[â]
+
+Select Multiple Sheets
+There are some situations where you need to select more than one worksheet. The active sheet in a workbook can be determined by its white tab where its name appears in bold. To Select Adjacent Worksheets: Mouse
+
+1.	 Click the tab of the first worksheet that you want to include in your selection. 2.	 Hold down the SHIFT key and click on the tab of the last worksheet that you want included in your selection. All the sheets between the first and the last will be selected. The selected sheet tabs will turn white and the word ‘Group’ will appear on the title bar.
+
+33
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Move Around and Enter Data
+
+Select Non-Adjacent Sheets
+To Select Non-Adjacent Worksheets: Mouse 1.	 Click the on the first worksheet’s tab that you want to include in your selection. 2.	 Hold down the CTRL key and click each other worksheet’s tab that you want included in your selection. The selected sheet tabs will turn white and the word ‘[group]’ will appear on the title bar. •	 You can cancel sheet selection by clicking on a sheet tab that is not included in the current selection. For more information on working with multiple worksheets, see the relevant section later in this manual.
+
+Clear Contents, Formats And Comments
+If you want to remove an entry completely from a cell, you need to clear the cell. There are a variety of ways you can do this and the method you choose depends on what you want to remove from the cell. You can remove data from cells using the ribbons or the keyboard. This command would only remove cell data (numbers, text, dates, and formulae). If you have formatted the cells, clearing their contents would leave the formats intact so that new data you type in the cleared cells would keep the old data’s formats. To Clear Contents: w
+
+34
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I 1.	 Select the cell or cells you want to clear. 2.	 Right click on the cell/selection. 3.	 Choose Clear contents from the shortcut menu.
+Or
+
+Move Around and Enter Data
+
+Keyboard 1.	 Move to the cell or select the cells whose contents you want to clear. 2.	 Tap the DELETE key. 3.	 If you need to be able to choose what gets removed when you clear a cell, you should use the Clear command under the Edit menu. To Clear Formats Mouse
+
+1.	 Make selection 2.	 Go to the home Ribbon 3.	 Click on the eraser to the right of the ribbon 4.	 Click on clear formats to clear formats OR contents to clear the data in the cell (same as right mouse click) 5.	 All formats will be removed from selection
+
+35
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I To Clear Comments Mouse 1.	 Repeat steps 1-3 as above then Click on clear comments
+
+Move Around and Enter Data
+
+•	 Novice users occasionally imagine that they can clear a cell simply by replacing its contents with a space. This is a dangerous practice and is to be avoided. Although a cell containing nothing but a space may appear to be empty, Excel remembers that a space has been entered there. Such renegade spaces will take up room both in memory and on disk, and can cause real problems with more advanced spreadsheet and database functions. . Avoid them by clearing cells properly.
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+36
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I
+
+Move Around and Enter Data
+
+The Fill Handle
+The fill handle is a very useful tool in Excel. It allows you to copy and clear data but also to fill in series of data (dates, weekdays etc.). Those aspects of the fill handle are dealt with later in this manual. The fill handle appears in the bottom right hand corner of the active cell or selection. When your mouse is over the fill handle, the white plus pointer changes to a black plus.
+
+Fill Handle
+
+Mouse pointer when positioned over fill handle
+
+You can use the fill handle to clear the data from a cell. To Clear Cell Contents With The Fill Handle: Mouse
+
+1.	 Select the cells whose contents you want to clear. 2.	 Position your mouse over the fill handle to display the black plus. 3.	 Drag the fill handle back over the selected cells. Release the mouse when all cells have been included. •	 You can use the fill handle to clear more than just contents. By holding down the CTRL key, the fill handle can be used to clear both contents and formats from cells.
+
+Useful Information
+Scrolling
+To scroll long distances hold down the SHIFT key while dragging the scroll box When you use the scrolling keys (such as [PAGE UP] and [PAGE DOWN]) with SCROLL LOCK turned off, your selection moves the distance you scroll. If you want to preserve your selection while you scroll through the worksheet, turn on SCROLL LOCK first.
+
+37
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Move Around and Enter Data
+
+Data Entry
+You can enter the current date into a cell by pressing CTRL+[;]. If you want to break a line within a cell, press ALT+ENTER.
+
+Select Cells To Limit Data Entry
+When you want to limit the cells that data should be typed in, you can do this by selecting them. When you type in a selection, the entry appears in the active cell (the cell that remains white). You can then move the active cell down or right within the selection to continue. When Excel hits the edge of the selected block, pressing ENTER or TAB would move you to the next column or row within the selection. To Set Limits For Data Entry: (Select A Range) Mouse
+
+1.	 Select the cells where the entries should be made. 2.	 Type the first entry. The entry will appear in the active cell. 3.	 Press ENTER to move the active cell down. Or 4.	 Press TAB to move the active cell right. •	 You can continue using ENTER or TAB to move the active cell to the next cell within the selection where you want data. If you need to go back up or left, use SHIFT+ENTER or SHIFT+TAB. •	 Do not use arrow keys to move within the selection as they will deselect the block.
+
+Select Cells For Multiple Entry
+When the same data needs to be entered into lots of cells, you can do it by selecting them first, typing in the data and then confirming the entry with a special key combination.
+
+38
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I To Make Multiple Entries: Mouse
+
+Move Around and Enter Data
+
+1.	 Select the cells where you want the entries to appear (use the CTRLkey if there are several non-adjacent blocks to fill in). 2.	 Type the entry – it will initially appear in the active cell. 3.	 Press CTRL+ENTER.
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+39
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Excel 2010 Introduction: Part I
+
+Formulae and Functions
+
+Section 4	 Formulae and Functions
+By the end of this section you will be able to: •	 Understand the difference between functions and formulae •	 Enter by typing, simple functions and formulae •	 Understand and use BoDMAS •	 Enter functions and formulae in using mouse, keyboard or ribbon. •	 Use basic conditional functions •	 Use the Fill handle to enter multiple formulae •	 Understand and use Absolute and Relative cell references
+
+40
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formulae and Functions
+
+Formulae
+In a spreadsheet application, at a very basic level, values often need to be added, subtracted, multiplied and divided. To allow for the fact that individual values might change, spreadsheet formulae generally refer, not to actual values, but to the cells where those values are being held. If values have been entered into A1 and A2, then A1+A2 will return an answer which will automatically recalculate if the value of A1 should change. It is this automatic recalculation which makes spreadsheets invaluable. Excel recognises formulae because they are preceded by an equals sign (=). When entering basic formulae, the mathematical operators defining the operation to be carried out are as follows: Addition Subtraction Multiplication Division Exponentiation + * / ^
+
+You will find all of these mathematical operators ranged across the top and down the right hand side of the numeric keypad.
+
+Typing Formulae
+You enter formulae by typing them in the cell where you want the formula’s result to appear. When you confirm entry of a formula, Excel will display the result on the worksheet, but the underlying calculation appears on the Formula bar.
+
+To Enter A Formula: Keyboard 1.	 Move to the cell where you want to enter the formula. 2.	 Type an equals sign (=). 3.	 Type the formula (e.g. d2*e2). 4.	 Press ENTER to confirm the entry.
+
+41
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formulae and Functions
+
+5.	 Excel automatically recalculates formulae. If you change one of the cells referenced in your formula, as soon as you press ENTER to confirm the changed value, your formula result will update.
+
+Entering Formulae By Pointing
+It is possible to enter formulae without actually typing the equals sign (=) or the cell references. Instead, you can make use of a pointing technique to indicate which cells are to be included. As with typing formulae, it is important to start off in the cell where the answer is to be displayed. Pointing can be quicker and more efficient than typing cell references as it reduces the chances of errors. To Enter A Formula Using Keyboard AND Mouse: mouse 1.	 Position the cursor in the cell where you want the formula. 2.	 Type an equals sign (=). 3.	 Click the first cell whose reference should be included in your formula. A moving dotted line, known in Excel as a ‘marquee’, will appear around that cell and the cell reference will appear in the formula bar immediately after the equals sign. Or 1.	 Use an arrow key to move there. A moving dotted line, known in Excel as a ‘marquee’, will appear around that cell and the cell reference will appear in the formula bar immediately after the equals sign. 2.	 Type in the mathematical symbol you want to use in your calculation, then click on (or move to) the next cell to be included in the formula. 3.	 Continue building the formula in this way. 4.	 Press ENTER to complete the formula.
+
+42
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formulae and Functions
+
+Errors In Formulae
+Sometimes you may get surprising results from a formula. This is most often because you have referenced the wrong cell, but it could also be that you have multiplied where you should have added and so on. You can correct formulae using the editing techniques described earlier in this manual. To Edit A Formula: Mouse 1.	 Double-click on the cell containing the formula. The cell will switch from displaying the result of the formula to the formula itself. 2.	 Click the mouse over the part of the formula to change to anchor the cursor there. Type any new characters or use the BACKSPACE and DELETE keys to remove characters. 3.	 Press ENTERto confirm the changes. Or 1.	 Move to the cell containing the erroneous formula. 2.	 Click on the Formula bar which will show you the formula where you want to make the change. 3.	 Type any new characters or use the BACKSPACE and DELETE keys to remove characters. 4.	 Press ENTER to confirm the changes.
+Or
+
+Keyboard 1.	 Press F2 to access edit mode. 2.	 Use the arrow keys to move the cursor to the edit position. Type any new characters or use the BACKSPACE and DELETE keys to remove characters. 3.	 Press ENTER to confirm the changes
+
+Filling Formulae
+Having entered an initial formula in the first cell of a column or row, you often find that you want to generate results for the other cells in that column or row. In the example below, you would probably want your formula to work out totals for all the orders. There are a variety of ways that you can get Excel to copy a formula so that it generates results for other cells in a column or row.
+
+43
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formulae and Functions
+
+The Fill Handle And Formulae
+The fill handle has already been described earlier in this manual. It can be used to clear cells but has other uses as well, one of which is filling formulae.
+
+AXA Global Graduate Program
+Find out more and apply
+
+44
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I To Use The Fill Handle To Copy Formulae: Mouse
+
+Formulae and Functions
+
+1.	 Move to the cell that has the formula that you want to fill. 2.	 Position your mouse pointer over the fill handle. It will change to a black plus. 3.	 Drag the black plus down, up, left or right over the cells where you want your copied formula to generate results. You will see an outline around those cells. 4.	 Release the mouse when the outline includes all the cells where you want results. 5.	 A Smart Tag will be produced. The options it offers are not needed at the moment. or
+
+45
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formulae and Functions
+
+6.	 Instead of using the left mouse button to fill down, try using the right mouse button. When released after dragging a menu will appear offering numerous options as to how the data should be filled
+
+Fill Formulae Using Keystrokes
+
+You can fill a column or a row of formulae using the keyboard. To Fill Using Keystrokes: Keyboard 1.	 Select the cell containing the formula to fill and the cells where you want to copy it. 2.	 Press CTRL+[D] to fill down.
+
+46
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I Or 1.	 Press CTRL+[R] to fill right.
+
+Formulae and Functions
+
+•	 There are no keystrokes to fill up or left. Instead, repeat step1 above and then click the fill command from the editing group on the home ribbon and select the direction for the fill from the resulting sub-menu.
+
+Bodmas With Formulae
+BoDMAS is a mathematical acronym that simply reminds us of the order of operations that mathematics uses to step through more complicated formulae. (Brackets), (Division), (Multiplication), (Addition), (Subtraction). Excel follows these rules to a point please take note of the following table to see the order of preference that excel uses when working out calculations To change the order of evaluation, enclose in brackets the part of the formula to be calculated first.
+1st 2nd 3rd 4th 5th 6th 7th % ^ * and / + and – & = <> <= >= <> – Percent Exponentiation Multiplication and division Addition and subtraction Connects two strings of text (concatenation) Comparison Negation (as in –1)
+
+Using Bodmas E.G. The following formula produces 11 because Excel calculates multiplication before addition. The formula multiplies 2 by 3 and then adds 5 to the result. Type = 5+2*3 press ENTER Result =11 In contrast, if you use parentheses to change the syntax, Excel adds 5 and 2 together and then multiplies the result by 3 to produce 21. Type = (5+2)*3 press ENTER result = 21
+
+47
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formulae and Functions
+
+Functions
+Basic Functions
+Having mastered how to set up your own custom formulae, you will be able to carry out any calculations you wish. However, some calculations are complicated or involve referring to lots of cells making entry tedious and time consuming. For example, you could construct a formula to generate a total at the bottom of a column (or the end of a row), like this: =D2+D3+D4+D5 The above formula would work, but if there were 400 cells to total and not just 4, you would get bored with entering the individual cell references. When formulae become unwieldy or complex, Excel comes to the rescue with its own built-in formulae known as functions.
+
+Functions always follow the same syntax: The name of the selected function tells Excel what you want to do and the arguments generally tell Excel where the data is that you want to calculate. Excel has a huge number of functions, not all of them are relevant to everyone. The functions are categorised according to what they do. In this manual, we outline some of the most basic functions that can be usefully used at a general level.
+
+Sum Function
+As discussed above on how the basic functions aremade up we will create a basic function from scratch the first function being the sum function this will add several figures together
+
+48
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I To Create Sum Function mouse
+
+Formulae and Functions
+
+1.	 Enter or locate several figures you wish to find the total of. 2.	 In an empty cell enter the equals sign. 3.	 Type in the word sum and open a set of brackets. 4.	 Highlight the figures you wish to total so that a cell range appears after the open bracket. 5.	 Close the bracket and press return
+
+49
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I
+
+Formulae and Functions
+
+Average Function
+The next function to try is the Average function this will give the mean average of several figures. To Create Average Function mouse
+
+1.	 Enter or locate several figures you wish to find the average of. 2.	 In an empty cell enter the equals sign. 3.	 Type in the word Average and open a set of brackets. 4.	 Highlight the figures you wish to find the average of so that a cell range appears after the open bracket. 5.	 Close the bracket and press return
+
+Max Function
+The next function to try is the Max function this will give the the highest value in a range of figures
+
+To Create Max Function mouse 1.	 Enter or locate several figures you wish to find the highest value from. 2.	 In an empty cell enter the equals sign. 3.	 Type in the word Max and open a set of brackets.
+
+50
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formulae and Functions
+
+4.	 Highlight the figures you wish to find the Highest value of so that a cell range appears after the open bracket. 5.	 Close the bracket and press return
+
+Min Function
+The next function to try is the Min function this will give the the Lowest value in a range of figures
+
+To Create Min Function mouse 1.	 Enter or locate several figures you wish to find the highest value from. 2.	 In an empty cell enter the equals sign. 3.	 Type in the word Min and open a set of brackets. 4.	 Highlight the figures you wish to find the lowest value of so that a cell range appears after the open bracket. 5.	 Close the bracket and press return.
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+51
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I
+
+Formulae and Functions
+
+Autosum
+Using Autosum Mouse
+
+1.	 Move selected cell to bottom of column or end of row of figures. 2.	 Click on the formulas Ribbon, then click on autosum. From the menu select the sum function 3.	 A ‘marquee’ will appear around the suggested range to sum and a pre-built function will appear in selected cell. 4.	 If suggested range is correct then press ENTER. If not redefine range by selected the figures you wish to include in the function and press ENTER.
+
+Other Common Functions
+The Sum function is very useful, but the AutoSum icon can also be used to for some other common functions: Average (of the selected figures), Count (the number of selected figures), Max (the largest selected figure) and Min (the smallest selected figure).
+
+52
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I To Use Other Common Functions: Mouse
+
+Formulae and Functions
+
+1.	 Select the cell immediately below a column of figures (or to the right of a row of figures) to be totalled. 2.	 Click on the drop-down arrow next to the AutoSum icon and select the function that you want to use from the list. 3.	 The selected function will automatically appear in the Formula bar and Excel will make a guess at which cells you want to use (you will see a marquee around the cells and their references will be the function arguments). 4.	 Press ENTER to accept the cells that Excel proposes.
+
+Function Library
+On the formulas ribbon you will find the function library which is dedicated to functions autosum functions are just a few of the most regularly used functions.
+
+The functions are broken down into categories and grouped accordingly to make it easy to access the specific function you desire to use. In many places you will see the more functions command which allows access to the whole range of functions available to excel. This brings us to the insert function utility.
+
+53
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formulae and Functions
+
+Insert Function
+
+If after looking through all categories you do not find, or find it difficult to locate a specific function then we can use the insert function facility. Which contains all functions available in excel To Insert Function Mouse
+
+1.	 Click in the cell which you want a result 2.	 Go to the formulas ribbon and click on the insert function icon on the far left 3.	 The insert function dialog box appears EITHER 1.	 Type a description of the function you wish to use in the topmost box and click on go OR select a category from the drop down box 2.	 Results will appear in the bottom box then select a specific function with a single click of the mouse
+
+54
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formulae and Functions
+
+3.	 A description will appear underneath the white box and the syntax of how it is constructed 4.	 If further explanation is required on a specific function then click on the blue hyperlink in the bottom left corner to get more information. 5.	 When the function you want is selected (in this case counta) click ok. 6.	 A dialog box appears (below right)with a suggested range for the function. Excel will place the function on the worksheet in the selected cell. You can see the selected function being built on the formula bar. If this is incorrect reselect the range and press ENTER. OR
+
+1.	 Click the Range selector button. This will collapse the dialog box shown above. 2.	 Drag across the cells to replace Excel’s pre selected guess with your own cell references. Click the range selector button again to return to the dialog.
+
+55
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formulae and Functions
+
+Function Box
+There are some functions that are accessed more than others and for that reason Excel gives you a slightly quicker method for entering them than the Paste function dialog. The Function box, groups the most commonly used functions for quick and easy access. To Enter A Function Using The Function Box: Mouse
+
+1.	 Type the equals sign (=) on the formula bar (or directly into your cell). Excel displays the function box to the left of the Formula bar. 2.	 Click the drop-down list arrow to the right of the function box to display a list of function names. 3.	 Select the function you require by clicking its name from the list. Or 4.	 If your function is not listed, click the More Functions... option to access the Paste function dialog (see above for instructions).
+
+Type Functions
+When you get more familiar with functions and start to remember how they are constructed, you can type them rather than selecting them using the previously described methods.
+
+56
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I To Type A Function: Keyboard 1.	 Move to the cell where you want the function.
+
+Formulae and Functions
+
+2.	 Type an equals sign (=) followed immediately by the function name and an open bracket. 3.	 A tool tip appears to indicate the arguments the function needs. 4.	 Select (or type) the cells you want the function to act upon using the mouse or arrow keys. 5.	 Press ENTER to confirm the entry. •	 As long as your formula only contains one function, you do not need to type the closing bracket. Pressing ENTER makes Excel close the bracket automatically.
+
+Function Argument Tool Tips
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+57
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I
+
+Formulae and Functions
+
+Excel 2010 displays information about function arguments as you build a new formula. The tool tips also provide a quick path to Help. You click any function or argument name within the tool tip.
+
+Cell References
+In functions, you often need to refer to a range of cells. The way Excel displays cell references in functions depends on whether the cells you want the function to act upon are together in a block or in several non-adjacent cells or blocks. The table below explains how you can use different operators to reference cells:
+Operator Reference operator: (colon) , (comma) (single space) Description Range operator, which produces one reference to all the cells between two references, including the two references Union operator, which combines multiple references into one reference Intersection operator, which produces one reference to cells common to two references - In this example, cell B7 is common to both ranges Example B5:B15
+
+SUM(B5:B15,D5:D15) SUM(B5:B15 A7:D7)
+
+Absolute and Relative References
+Relative References
+When you fill formulae, you tell Excel to base the formulae it creates on the one you have entered by starting from the cell that contains it.
+
+In the example shown right, the formula being copied says =D2*E2. However, once copied, if you click on any of the copies, Excel will have updated the references to keep the row numbers current (D3*E3, D4*E4 and so on). This is because Excel, by default, uses relative referencing. When you enter a formula, you enter specific cell references. Behind the scenes, Excel ‘translates’ those references into positions relative to the result cell. So, in our example shown left, Excel would take the formula:
+
+58
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I =D2*E2 Translate it as follows: = [two cells to the left]*[one cell to the left].
+
+Formulae and Functions
+
+It therefore does not matter which row you copy the formula into, Excel will always use “[two cells to the left] multiplied by [one cell to the left]” to generate the result. Most of the time, this is what you would want, but there are occasions where you need to stop Excel updating cell references when you copy formulae.
+
+Absolute References
+The example below shows a formula being created to work out the amount of discount each order would receive. The order totals are in column F and the discount rate is in B13. The initial formula has therefore been set up as: =F2*B13 The formula will generate a result for the first order. However, when copied, you will get zeros against the discount amounts for the other orders. This is due to the relative referencing that Excel applies to all formulae by default.
+
+Having copied the above formula, if you clicked on any formula in the Discount amount column below the first one, you would see that Excel has updated the references (=F3*B14, F4*B15). This is where the problem lies – you want Excel to change the first reference as your formula needs to refer to the different order totals, but the discount rate should remain constant. You need to make that reference absolute.
+
+59
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I To Make A Reference Absolute: Keyboard
+
+Formulae and Functions
+
+1.	 Move to the cell where you have typed the formula and press F2to access Edit mode. 2.	 Move the cursor with the arrow keys so that it is next to the reference we want to fix. 3.	 Press [F4]. Dollar signs will appear against the column letter and the row number. 4.	 Press ENTER to confirm the change. 5.	 In our example, amending the formula to read: =F2*$B$13
+
+6.	 This would prevent Excel from changing the B13 reference when the formula is copied.
+
+Fill Handle
+You can get the fill handle to fill formulas down to the same level as the entries in the previous column by double-clicking on it.
+
+Absolute References
+Pressing [F4] repeatedly over a reference allows you to toggle between making both the row and column absolute ($A$1), just the column absolute ($A1), just the row (A$1), or nothing absolute (A1).
+
+60
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+File Operations
+
+Section 5	 File Operations
+By the end of this section you will be able to: •	 Open and close files •	 Create new files •	 Save files •	 Understanding file types and filenames •	 Save files with different names in different locations •	 Save as different types of files
+
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+61
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I
+
+File Operations
+
+Working with Files
+You can save any information entered in Excel so that you may call it back at a later stage either to add, edit or print the contents. It’s a good idea to save work frequently as this will minimise the risk of work being lost in the event of a power cut or system fault.
+
+Saving Files
+Excel gives any new document you create a temporary name – the word ‘Book’ followed by a number. The number increases by one for each new workbook you create in any one work session.
+
+Parts Of The Save As Dialog Box
+
+Previous/next folder- As you move through the folder structure in the Files list, these buttons allow you to go back to a previous folder that you viewed.
+
+62
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+File Operations
+
+Up one level-Click one of these button to look in the folder that is up one level in the current folder structure.
+
+Create new folder- Click this button to create a new folder within the current folder.
+
+Views- Click the arrow next to this button to display file and folder view options.
+
+File name- Type or select a file name for the file that you are saving.
+
+Save as type- In the list, click the file format in which you want to save the file. Most 2010 Microsoft Office system programs can save files in more than one format, so you may need to select the format that you want. favourite Links- Click a shortcut on the favourite links bar on the left to save the file to the location represented by the shortcut. Delete-Right click a file or folder to delete the selected file or folder. Tools Click Tools to display a list of tasks that you can perform. The tools that are available vary depending on the program that you are using.
+
+Save After you determine the location, file name, and format of the file that you are saving, click Save to save the file. Cancel To go back to the file without saving it, click Cancel.
+
+63
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I To Save A File: Mouse
+
+File Operations
+
+1.	 Click the Save button. On the Quick access toolbar.If you have not saved the workbook previously, the Save As dialog box will appear asking you for a document name and location. 2.	 The first list box marked at the top allows you to determine the drive and folder that you want to save the document in. The large area below the list box allows you to see which files are stored in the area currently displayed.
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+64
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I To Change The Location: Mouse
+
+File Operations
+
+1.	 Click the drop-down list arrow to the right of the list box and choose the desired drive or folder.(you may need to use more than one) 2.	 At the bottom of the dialog box are two list boxes, one for the file name and one for the document type. Excel automatically assigns the first few words you typed as the workbook name.
+
+File Types And File Names
+Excel in general has always saved files with three letter filetype’s such as book1.xls or accounts.xlt the last three letters always being the type of file that it is saved as. In 2010, however, this has now changed and the default filetype for all excel files is now book1.xlsx a four character filetype. This is because the nature of the contents of the file has changed radically and is in no way comparable to earlier versions. Naming A File: Mouse 1.	 Click in the File name box and drag your mouse over the current file name – this will highlight it. Then type the new name. 2.	 Choose from the save as type box which version of excel you wish to save this file as. (If somebody using a previous version needs to access this file this is essential) 3.	 Finally, when the location, name and filetype have been entered, save the workbook by clicking the button marked Save. This closes the dialog box. Back in the Excel screen you will notice that the name you allocated to your workbook appears on the title bar at the top of the screen 4.	 If you saved this file as an earlier version you will see compatibility mode next to the filename in the title bar •	 Workbook names can be up to 255 characters. File names cannot include any of the following characters: forward slash (/), backslash (\), greater than sign (>), less than sign (<), asterisk (*), period (.), question mark (?), quotation mark (“), pipe symbol (|), colon (:), or semicolon (;). You do not need to type the document extension (“.xls”) as Excel automatically adds this to all files you save.
+
+65
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+File Operations
+
+Saving Changes To Files
+
+Once you have allocated a name to a file using the Save As dialog, clicking the Save button simply saves any new changes to the name you originally gave. It is worth saving files that you are working on every ten minutes or so. When you click the Save button, the status bar displays a message to say that it is saving and a blue meter which counts up to show how long the save will take. To Save Changes Keyboard 1.	 You can save the current workbook by using the keystroke CTRL+[S]. If the workbook has never been saved before, the Save As dialog will appear, otherwise, CTRL+[S] saves any new changes to the file name that you have already allocated.
+
+Saving As A Different Type Or Different Name
+If a file you work with needs to besaved as something elseor it needs saving under a different name or maybe another version then we cannot use the save button as this would just save the changes to this file we must call up the save as dialog again and save the file as something else. To Save As Different File Mouse
+
+1.	 Click on the File ribbonand move the mouse cursor to save as 2.	 This will bring the save as dialog box to the screen again 3.	 Make the necessary changes and click on save
+
+66
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+File Operations
+
+Close Files
+When you finish working on a file, you can close it down using the following methods: To Close The Current File: Mouse
+
+1.	 Click on the file ribbon and choose close near the bottom of menu. OR 1.	 Click once on the cross (situated on the right-hand side of the screen) •	 You will see two of these buttons on-screen – one will close the current file and the other will close the Excel application. To close the current file, use the innermost close button.
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+67
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I
+
+File Operations
+
+If you have changed a file since the last time you saved it, Excel will not let you close that file without prompting you first to save the changes. A dialog box will appear with the option to save the changes you have made
+
+•	 Merely opening a file could create changes for many reasons even if you personally have not changed anything so think carefully before deciding whether or not to save any changes as you close.
+
+Open Files
+To Open A File: Mouse 1.	 Click on the file ribbonand choose recentall recently used files appear on the right hand side of window.
+
+68
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I OR
+
+File Operations
+
+1.	 Click on file ribbonand choose open. 2.	 The open dialog box will appear 3.	 If the file you want is not listed in the window, click the Look in drop-down list box to change to the location of the desired workbook. 4.	 To open the file either: Click once on the file name to select it and click the Open button.
+OR
+
+1.	 After locating the file Double-click the file name.
+
+Keyboard 1.	 You can also open workbooks using the key combination CTRL+[O]. This will invoke the FileOpendialog – follow the steps outlined above to select and open the file that you want.
+
+69
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+File Operations
+
+New Files
+To Create A New File: Mouse 2.	 Click on the file ribbonand click on newThe following options will appear
+
+3.	 In the main area are categories of templates if you are online there are many more choices available as you will see. 4.	 Choosing a category such as recent or sample Templates will allow you to create a new workbook from any that are featured from the linkwe will create a blank workbook at the moment. 5.	 A preview of any workbook type is shown on the right. 6.	 When you have the correct type of workbook selected even if it is only blank click on create.
+OR
+
+Keyboard 1.	 CTRL+[N] will create a new blank file.
+
+70
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Moving and Copying Data
+
+Section 6	 Moving and Copying Data
+By the end of this section you will be able to: •	 Use cut copy and paste •	 Drag and drop information •	 Transfer data between files
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+71
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I
+
+Moving and Copying Data
+
+Having entered information in a worksheet, you may decide that you need to reposition it or use cell entries in another worksheet or file that you have created. The good thing about Excel is that once you have entered something once, you can move or copy it anywhere – to other Excel files and even to files that belong to other applications. All Microsoft products use the same terminology when describing moving and copying items – cut, copy and paste. These terms stem from the times when typesetters would lay out templates by physically cutting an item from its current location, and gluing or pasting it in to the new location.
+
+Moving Items
+To Move Items: Mouse
+
+1.	 Select the cells that you want to move.
+
+2.	 Click the Cut button on the Home Ribbon. The selected cells will display a marquee around them and Excel will show a prompt on the Status bar to tell you what to do next.
+
+3.	 Move to the cell where you want to place the cells you cut. If you have cut a block of cells, the cell you select before you paste is where you want the top left cell in the cut block to move to. 4.	 Click the Pastebutton from the home ribbon
+
+72
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+OR
+
+Moving and Copying Data
+
+1.	 Press ENTER.
+OR
+
+Keyboard 1.	 Select the cells you want to move. 2.	 Press CTRL+[X] to cut the cells out a marquee will appear around the cells, and you will see a prompt on the status bar. 3.	 Move to the cell where you want the cut cells to jump to. If you have cut a block of cells, the cell you select before you paste is where you want the top left cell in the cut block to move to. 4.	 Press CTRL+[V] to paste the cells into their new location.
+
+Copying Items
+To Copy Items: Mouse
+
+1.	 Select the cells that you want to copy.
+
+2.	 Click the copy button on the Home Ribbon. The selected cells will display a marquee around them and Excel will show a prompt on the Status bar to tell you what to do next.
+
+73
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Moving and Copying Data
+
+3.	 Move to the cell where you want to place the cells you cut. If you have cut a block of cells, the cell you select before you paste is where you want the top left cell in the cut block to be copied to. 4.	 Click the Paste button from the home ribbon the copied cells will appear
+Or
+
+1.	 Press ENTER. The copied cells will appear. OR Keyboard 1.	 Select the cells you want to copy. 2.	 Press CTRL+[C] to make a copy. Excel displays a marquee around the copied cells and a prompt on the Status bar. 3.	 Move to the cell where you want the copy to go. If you have copied a block of cells, the cell you select before you paste is where you want the top left cell in the copied block to be positioned. 4.	 Press CTRL+[V] to paste the copy back in. OR 1.	 Press ENTER.
+
+74
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Moving and Copying Data
+
+Clipboard
+
+The stuff you'll need to make a good living
+
+STUDY. PLAY.
+
+The stuff that makes life worth living
+
+NORWAY. YOUR IDEAL STUDY DESTINATION.
+WWW.STUDYINNORWAY.NO FACEBOOK.COM/STUDYINNORWAY
+
+75
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I
+
+Moving and Copying Data
+
+Clicking on the Dialog box launcher the clipboard will open as a taskpane on the left hand side of the screen The clipboard holds the last 24 items that have been cut or copied from any of the Microsoft applications and allows you to paste the same item many times in many places including other applications. The clipboard is generic to all applications and needs merely to be displayed as it is here. The clipboard can be cleared at any time or single Items deleted
+
+Drag And Drop
+You can move and copy cells by selecting and dragging them with the mouse. When you do this, you must ensure that you have the correct mouse pointer shape displaying before dragging and dropping.
+
+When you select a cell or a group of cells, Excel outlines them with a heavy border. When the mouse is moved slowly over this border, it will display a white arrow which points up and to the left – and a four arrowed cross in black this is your drag and drop pointer and allows you to move and copy cells with the mouse.
+
+To Move:
+
+76
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I Mouse 1.	 Select the cells you want to move or copy. 2.	 Point to the border of the selection.
+
+Moving and Copying Data
+
+3.	 With the drag and drop pointer displaying, drag the selection to the upper-left cell of the paste area. You’ll see a fuzzy box, the same size as the selected block that will follow your mouse – when you release the mouse the selected cells will jump to their new location. •	 When you move cells to an area that already has data, Microsoft Excelwill ask you to confirm that you wish to replace the existing cell contents with the data you are moving. To Copy: Mouse
+
+1.	 If you want to copy the selection, repeat steps one and two above but before clicking on to it hold down the CTRL key on the keyboard, then begin clicking and dragging. You will see a plus sign appear next to the mouse pointer to signal the fact that you are copying rather than moving. 2.	 With the fuzzy box positioned where you want the copy, let go of the mouse first and then release the CTRL key.
+
+Shortcut Menus
+You can use commands from Excel’s shortcut menus to move and copy items. The shortcut menus appear when you click the right mouse button over a cell or selection.
+
+77
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I To Move Cells: Mouse
+
+Moving and Copying Data
+
+1.	 Select the cells you want to move. 2.	 With the mouse positioned anywhere within the highlighted area, click the right mouse button. 3.	 From the resulting shortcut menu, choose Cut. A marquee will appear around the selected cells and the Status bar will display a prompt. 4.	 Click the right mouse button over the cell where you want the cut cells to jump to. If you have cut a block of cells, the cell you click before you paste is where you want the top left cell in the cut block to move to. 5.	 Choose the Pastebutton from the shortcut menu. The cut cells will jump to their new location.
+Or
+
+1.	 Press ENTER. The cut cells will jump to their new location.
+
+78
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I To Copy Cells: Mouse
+
+Moving and Copying Data
+
+I joined MITAS because I wanted real responsibili� I joined MITAS because I wanted real responsibili�
+
+Maersk.com/Mitas www.discovermitas.com
+
+�e Graduate Programme for Engineers and Geoscientists
+
+� for Engin
+
+M
+
+Real work International Internationa al opportunities �ree wo work or placements
+
+Month 16 I was a construction M supervisor ina cons I was the North Sea supe advising and the N he helping foremen advis s solve problems Real work he helping International Internationa al opportunities �ree wo work or placements s solve p
+Click on the ad to read more
+
+79
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I 1.	 Select the cells you want to copy.
+
+Moving and Copying Data
+
+2.	 With the mouse positioned anywhere within the highlighted area, click the right mouse button. 3.	 From the resulting shortcut menu, choose Copy. A marquee will appear around the selected cells and the Status bar will display a prompt. 4.	 Click the right mouse button over the cell where you want the cut cells to jump to. If you have cut a block of cells, the cell you click before you paste is where you want the top left cell in the cut block to move to. 5.	 Choose the Pastebutton from the shortcut menu. The copied cells will appear at their new location you can paste several times if you wish to continually duplicate the copied selection.
+OR
+
+1.	 Press ENTER. The copied cells will appear at their new location but will be removed from the clipboard this is a one-time pasting method. •	 If you want to insert the cut or copied cells between two rows or columns of existing data, you can use the Insert cut/copied cells option that also appears on the shortcut menu.
+
+Moving And Copying Between Files
+You can use any of the methods described above (even drag and drop) to move and copy items from one workbook to another. When doing this, it is useful to be able to arrange the screen so that you can see the source file (the file containing the items that you want to move or copy) and the destination file (the document where you want to put them) at the same time. To View Open Files: Mouse 1.	 Open both workbooks using the techniques described in Section 4, File Operations.
+
+2.	 Click view ribbon, Choose Arrange Allon the ribbon. A dialog box will open to allow you to choose how the files will be arranged. Choose horizontal and the two workbooks will be tiled on screen one above the other, each in its own window. 3.	 Use your preferred technique (as described above) to move or copy items from one file to the other.
+
+80
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Moving and Copying Data
+
+OR 1.	 If you click the switch windows icon, this will list the files that are currently open to allow you to switch from one file to another. Copying from one file and then switching to paste into another file.
+
+Insert Paste
+As already mentioned, Excel will overwrite existing data with cells that you are moving or copying. There are occasions where you want to swap the positions of cells without overwriting what you already have.
+
+In the example above, if you wanted to move the selected cells up two rows so that both “Viking Supplies” orders were next to each other, you would have to use Insert paste to do it, otherwise the existing data (the “Bloggs & Co. order) would be overwritten. To Insert The Cells Between Existing Cells: Mouse 1.	 Select the cells you want to move or copy. 2.	 Point to the border of the selection. 3.	 Hold down SHIFT (if moving) or SHIFT+CTRL(if copying) as you drag. You’ll see a fuzzy line that you can position horizontally (between rows) or vertically (between columns). Release the mouse, then the keyboard. Your cells will jump to their new location.
+
+Moving And Copying Between Worksheets
+When you drag cells to areas not currently visibly, Excel will scroll the display down or across allowing you to move or copy the cells to those areas. Sometimes, you may want to drag an item to a different worksheet within the workbook.
+
+81
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I To Move And Copy To Another Worksheet: Mouse
+
+Moving and Copying Data
+
+1.	 Select the cells to move or copy and position the mouse over the selection border. 2.	 Hold down the ALT key as you drag the cells (ALT+CTRL if you are copying). 3.	 Drag down over the sheet tab that you want to put the cells on and Excel will jump to that sheet. Continue dragging until you are in the location on the selected sheet that you want the cells in. Release the mouse then the keyboard.
+
+Paste Special
+The Paste Special option gives you the ability to choose what should be pasted into the destination cells. For example, you may want to paste data without its formats, or you might want to convert a formula to a static value – Paste special gives you the choice. You can also use Paste Special to add/subtract/divide or multiply the copied cells with the destination cell data.
+
+Need help with your dissertation?
+Get in-depth feedback & advice from experts in your topic area. Find out what you can do to improve the quality of your dissertation!
+
+Get Help Now
+
+Go to www.helpmyassignment.co.uk for more info
+
+82
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I To Use Paste Special: Mouse
+
+Moving and Copying Data
+
+1.	 Select the cells you want to copy.Right click anywhere within the highlighted block and choose Copy from the shortcut menu. 2.	 Click the right mouse button over the cell where you want the copied data to appear. If you have copied a block of cells, the cell you click before you paste is where you want the top left cell in the copied block to move to. 3.	 Choose Paste Special. The following dialog box will appear: 4.	 Select an option in the Paste section of the dialog to choose what will be pasted into the destination cells
+
+83
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Moving and Copying Data
+
+5.	 Select an option from the Operation section of the dialog to choose the mathematical operation you want to perform on the copied data. 6.	 Check the Skip blanks box to suppress empty cells being pasted. 7.	 Check the Transpose box to change the arrangement of the copied cells from column to row and vice versa.Click OK to close the dialog and paste the data. Or 1.	 Follow steps 1 and 2above then when you right click move your mouse to paste options and you will see the quick paste special options related to your copied selection. When you move your mouse over them you will see a preview on your worksheet as to what would happen for each choice. 2.	 Click on a button to apply that choice
+
+84
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I
+
+Formatting
+
+Section 7	 Formatting
+By the end of this section you will be able to: •	 Format cell appearance •	 Format data appearance •	 Format rows and columns •	 Use and understand the format dialog box •	 Merge and unmerge cells •	 Change row and column heights •	 Change orientation of cells and data
+
+Quick Formats
+Having produced a spreadsheet, it may be formatted to achieve a more professional and more easily readable layout of data for both screen display and printout. There are several different ways of formatting data in Excel2010 to produce extremely impressive effects, and many of the tools in the Formattinggroups on the home ribbon are used for the most popular formatting tasks. This section looks at several different approaches to improving the layout of a spreadsheet.
+
+Formatting Groups On Home Ribbon
+The Formatting groups are together on the home ribbon the buttons that create formats most frequently used to enhance worksheet appearance. Not all the formats that you can apply in Excel are contained in the Formatting group icons some can only be accessed via the dialog box which is accessed by the dialog launch button found at the bottom right of a formatting group which is discussed later in this section.
+
+85
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formatting
+
+Font
+
+By default, Excel2010 uses Calibri as its base font and all new worksheets will use this font for data that you enter. However, you can choose different font faces for cells on the worksheet using the Formatting toolbar. To Change The Font: Mouse 1.	 Select the cells where you want to change the font. 2.	 Click the drop-down list arrow to the right of the Font box in the Formatting group on the home ribbon. 3.	 The fonts are listed alphabetically. Use the vertical scroll bar on the right of the list to move the list items up and down. 4.	 Select the desired font by clicking on it. The font face for the selected cells will change to reflect your choice. OR Keyboard 1.	 Select the cells to change. 2.	 Press CTRL+SHIFT+[F] to highlight the current font on the formatting toolbar. 3.	 Use ALT[â] to drop down the list of available fonts, use the up and down arrows to move the highlight bar up and down the list and ENTER to apply the chosen font to the selected cells.
+
+86
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formatting
+
+Point Size
+To Change The Point Size : Mouse
+
+1.	 Select the cells with the data to change. 2.	 Click on the drop-down list arrow to the right of the currently displayed point size. 3.	 Pick a new number from the list – the selected cell data will change size accordingly. OR Keyboard 1.	 Select the text to change. Then Press CTRL+SHIFT+[P] to highlight the current point size on the formatting toolbar. 2.	 Either type the point size that you want to use (your typing will replace the currently selected number) or use ALT+[â] to display the list of point sizes and move the highlight bar to the selected size using the up and down arrow keys. 3.	 Press ENTER to apply the currently highlighted size to the selected cells. OR Mouse
+
+After selecting cells you may use your mouse to increase or decrease the size of your font in the selected cells by clicking on the increase or reduce point size buttons in the font group. This will change the size of your font one point at a time
+
+87
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formatting
+
+•	 Although Excel displays from 8 to 72 points in the list, you can type your own numbers in and press ENTER to apply the format)
+
+Bold, Italic And Underline
+
+Bold, italic and underline can be applied to the selection using buttons on the formatting toolbar or keyboard shortcuts. Apply Bold, Italic Or Underline: Mouse 1.	 Select the cells to change.then Click on either the B, I orU buttons on the toolbar. The button will “switch on” and the selected text will display the applied format.
+
+2.	 Clicking on the underline drop down arrow will give you the option of having double underline instead of the regular single one. You may still toggle this off by clicking the u again Or Keyboard 1.	 Select the cells to change. 2.	 Press CTRL+[B] to apply bold formatting, CTRL+[I] to apply italic formatting or CTRL+[U] to apply single underline formatting to the selected cell data. Remove Bold, Italic And Underline: Mouse 1.	 Select the cells with the format. Then Click the Bold, Italic or underline button to turn the format off. OR
+
+88
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I Keyboard
+
+Formatting
+
+1.	 Select the cells with the format. Then Press CTRL+[B], CTRL+[I] or CTRL+[U] to switch the format off.
+
+Font Colour
+This will change the colour of on-screen information. It will also print the information in the chosen colour if you are connected to a colour printer. To Change Font Colour: Mouse
+
+Brain power
+
+By 2020, wind could provide one-tenth of our planet’s electricity needs. Already today, SKF’s innovative knowhow is crucial to running a large proportion of the world’s wind turbines. Up to 25 % of the generating costs relate to maintenance. These can be reduced dramatically thanks to our systems for on-line condition monitoring and automatic lubrication. We help make it more economical to create cleaner, cheaper energy out of thin air. By sharing our experience, expertise, and creativity, industries can boost performance beyond expectations. Therefore we need the best employees who can meet this challenge!
+
+The Power of Knowledge Engineering
+
+Plug into The Power of Knowledge Engineering. Visit us at www.skf.com/knowledge
+
+89
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I
+
+Formatting
+
+1.	 Select the cells whose font colour you want to change. Then Click the drop-down list arrow displayed on the right-hand side of the button and choose the desired colour. 2.	 Themes (see later) show complimentary colours and shades on the theme that you may have chosen for your worksheet (those in figure are default) 3.	 There are also standard colours to choose from 4.	 If you still cannot find what you want from the default palette there are more colours to choose from. Click more colours to find any colour you desire. To Reset Font Colour: Mouse 1.	 Select the cells you want to reset to the default colour. Then Click the drop-down list arrow displayed on the right-hand side of the Font colour button. 2.	 The Automatic option will reset text back to the default colour (normally black).
+
+Background Fill Colour
+If you want to shade the background of cells, use the Fill colour button.
+
+To Change Fill Colour: Mouse 1.	 Select the cells whose background colour you want to change. 2.	 Click the drop-down list arrow displayed on the right-hand side of the Fill colour button. 3.	 The No Fill option will remove any applied fill colours. 4.	 The fill colour palette has the same range of colours and colour options that in the text colour drop down list
+
+90
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formatting
+
+Borders
+
+When you print a worksheet, Excel allows you to choose whether you want all the cell gridlines to print or not. Often, you want to print some but not all of the lines – this is when you need to apply borders. You can then tell Excel not to print the gridlines but your borders will be printed. To Apply Borders: Mouse 1.	 Select the area you want to border. 2.	 Click the drop-down list arrow to the right of the Borders button on the Formatting toolbar. 3.	 From the palette, click on the required border option.
+
+91
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formatting
+
+If the palette does not have the bordering option that you want to apply, use the Format cells dialog (discussed later in this section) to apply the borders. To Remove Borders: Mouse 1.	 Select the area with the borders you want to remove. 2.	 Click the drop-down list arrow to the right of the Borders button on the Formatting toolbar. 3.	 From the palette, click on the first border option.
+
+Alignment
+You can select from three different cell alignment options in Excel by clicking the relevant button (described below). The buttons determine how data lines up between the left and right edges of the selected cell(s).
+
+Challenge the way we run
+
+EXPERIENCE THE POWER OF FULL ENGAGEMENT… RUN FASTER. RUN LONGER.. RUN EASIER…
+1349906_A6_4+0.indd 1
+
+READ MORE & PRE-ORDER TODAY WWW.GAITEYE.COM
+
+92
+Download free eBooks at bookboon.com
+
+22-08-2014 12:56:57
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I To Change Alignment: Mouse 1.	 Select the cell(s) whose alignment you want to change. 2.	 Click on the button for the alignment you require (see below).
+
+Formatting
+
+Click this button to left-align cell data. Left alignment ensures that the left edge of an entry is flush with the left edge of the cell. Left alignment is the default alignment for text entries in cells.
+
+Click this button to centre cell data. This will make each cell entry in the selection position itself in the middle of the cell.
+
+Click this button to right-align cell data. Right alignment ensures that the right edge an entry is flush with the right edge of the cell. Right alignment is the default for numeric cell entries.
+
+Merge Cells
+If you want to type a heading across the top of a table of data, it can be quite difficult to line it up in the centre. If the columns in your table are different widths, or the title is a certain length, the chances of you getting it exactly central along the top of the table are practically nil. Luckily Excel has a solution. You can merge the cells across which you want the heading, centring it at the same time.
+
+93
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I To Merge Cells: Mouse 1.	 Select the cells you want to merge.
+
+Formatting
+
+2.	 Click the Merge and Centre button from the Formatting toolbar.
+
+To Unmerge Cells Mouse
+
+1.	 Select the cells you want to unmerge 2.	 Click the Merge and Centre button again and this will unmerge the cells selected 3.	 As you can see from the figure right if you click the drop down arrow to the right of the merge cell button you have options to merge cells with different alignments.
+
+Indents
+Indents allow you to control where a cell entry begins inside a cell.
+
+94
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I To Indent Cell Data: Mouse 1.	 Select the cell(s) where you want an indent.
+
+Formatting
+
+2.	 Click the increase indent button to indent the selected cell data by a standard amount from the left. You can click this button again to increase the amount of indent and so on.
+
+3.	 If you need to take the indent back, click the decrease indent button to do this.
+
+Number Formats
+Initially, numbers in Excel use a General format. You may find that the results of formulae run to different numbers of decimal places, or you might want to display numbers as monetary values with a currency symbol and two decimal places. There is no need for you to enter the numbers in the way you want them displayed – it is far better to use Excel’s number formatting buttons.
+
+This e-book is made with
+
+SetaPDF
+
+SETASIGN
+
+PDF components for PHP developers
+
+www.setasign.com
+95
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I
+
+Formatting
+
+Increase And Decrease Decimal Places
+You can add and remove decimal places from numeric data using the Increase Decimal and Decrease Decimal buttons. Where you decrease, Excel will round numbers up or down to the nearest unit. However many places that you may increase or decrease the value to excel will still use the entered value to calculate not the value that appears in the cell as this is only an appearance not a true value (check formula bar) To Increase Decimals: Mouse
+
+1.	 Select the cells with the numbers you want to change. 2.	 Click the Increase Decimal button from the alignment group on the home ribbon 3.	 Keep clicking the Increase Decimal button until your numbers display the correct number of decimal places. To Decrease Decimals: Mouse
+
+1.	 Select the cells with the numbers you want to change.Click the Decrease Decimal button from the alignment group on the home ribbon 2.	 Keep clicking the Decrease Decimal button until your numbers display the correct number of decimal places.
+
+Comma Style
+Comma style sets all the selected numbers to 2 decimal places and puts commas between different thousand multiples. e.g. 100000 would become 100,000.00 when comma style is applied to it.
+
+96
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I To Apply Comma Style: Mouse
+
+Formatting
+
+1.	 Select the cells with the numeric data you want to format.Click the Comma Style button from the Number group on the home ribbon
+
+Currency
+Applying this style will add a £ sign and two decimal places (pence) to the selected numbers. To Apply Currency Style: Mouse
+
+1.	 Select the cells with the numeric data you want to format.Click the Currency button from the Number group on the home ribbon. 2.	 Using the drop down arrow to the right of the currency button gives access to the most likely used currency formats in use you can choose from different currency symbols using the Format Cells dialog discussed later in this section
+
+Percent Style
+Where you have typed decimals on the worksheet, you may want to express those values as percentages. You can do this with the Percent Style format. e.g. 0.5 would become 50% when you apply Percent Style.
+
+97
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I To Apply Percent Style: Mouse
+
+Formatting
+
+1.	 Select the cells with the numeric data you want to format.Click the Percent Style button from the Formatting toolbar. •	 The number formats (apart from Increase and Decrease Decimal) are mutually exclusive. Applying Comma Style to cells that already have Currency formats would lose the currency symbol. If you need to return to the default General style for numbers, you can use the Format Cells dialog discussed later in this section. •	 If you ever see ###### in cells that normally display numbers, it is because the format you have applied is too wide for the column. To show the numbers, either change to a format that fits or widen the column (see later in this section for details on changing column widths).
+
+Advanced Formats
+When you want to apply formats that Excel does not give you buttons for on the Formatting toolbar, you need to use the Format Cells dialog. This dialog contains all the formatting options (including those accessible via the Formatting toolbar) that you can use within the Excel application.
+
+Format Cells Dialog
+The Format Cells dialog is divided into tabs, each tab dealing with a format category.
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+98
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I To Access The Format Cells Dialog: Mouse 1.	 Select the cells whose formats you want to change.
+
+Formatting
+
+2.	 Click the dialog box launcher. From either the font, alignment or number group on the home ribbon OR Keyboard 1.	 Press CTRL+[1] 2.	 The dialog box as seen top of next page will appear. Depending on which dialog box launcher you clicked will depend on which tab will appear first of the six in the dialog box 3.	 Once the dialog is on-screen, you can move between the format categories by clicking on the labelled tabs and change settings on each. Each tab has a Preview window to show you what the effects of your changes will look like should you choose to apply them. When all the formats have been set, click the OK button to close the dialog and apply the new formats.
+
+99
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formatting
+
+Font Tab
+Most of the formats you find on the Font tab of the Format cells dialog can be applied directly from the Formatting Toolbar and need no further discussion. However, there are some extra Effects that can be applied should you need to do so.
+
+To Apply Effects: Mouse 1.	 Select the cells you want to format. 2.	 Click the dialog box launcher. From either the font, alignment or number group on the home ribbon
+
+3.	 Click the Font tab.
+
+4.	 Check the Strikethrough, Superscript or Subscript boxes (the Preview window will show you what the formatting will look like on sample data).
+
+100
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I 5.	 Click OK to close the dialog and apply the changes. •	 The Superscript and Subscript options are mutually exclusive.
+
+Formatting
+
+Alignment Tab
+The settings on this tab give you lots of options for alignments which are not available on the Formatting toolbar.
+
+Horizontal alignment Most of the formats for horizontal alignment are available on the Formatting toolbar, however there are some extras: Justify - where you have several lines of data in a cell, you can ensure that the left and right edges of the data are straight. Fill – use this to repeat the selected cell entries within their cells so that the entire cell from left to right is full. To Change Horizontal Alignment: Mouse 1.	 Select the cells you want to format.
+
+101
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formatting
+
+2.	 Click the dialog box launcher. From either the font, alignment or number group on the home ribbon 3.	 Click the Alignment tab. 4.	 Click the drop-down list arrow to the right of the Horizontal list box. 5.	 Choose the alignment by clicking on the required option from the list. 6.	 Choose OK to close the dialog and apply the changes.
+
+102
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I Vertical alignment Use the options in this list to choose how data lines up between the top and bottom edges of cells. To Change Vertical Alignment: Mouse 1.	 Select the cells you want to format.
+
+Formatting
+
+2.	 Click the dialog box launcher. From either the font, alignment or number group on the home ribbon 3.	 Click the Alignment tab. 4.	 Click the drop-down list arrow to the right of the Vertical list box. 5.	 Choose the alignment by clicking on the required option from the list. 6.	 Choose OK to close the dialog and apply the changes. Text Control The text control options allow you to determine how the size of the data in the selected cells will affect columns and rows. Wrap text - Where you have an entry that is too wide for the column, you can get Excel to wrap within a cell. Where a single line becomes multiple lines, Excel will automatically adjust the row height.
+
+Shrink to fit – Reduces the apparent size of font characters so that all data in a selected cell fits within the column. The character size is adjusted automatically if you change the column width. The applied font size is not changed on printouts.
+
+103
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I Merge cells – Makes the selected cells into one cell.
+
+Formatting
+
+•	 Where there are entries in all the selected cells, when you merge them together, Excel will warn you that it will only keep the entry in the top left cell in your selection. To Change Text Control Settings: Mouse 1.	 Select the cells you want to format.
+
+2.	 Click the dialog box launcher. From either the font, alignment or number group on the home ribbon 3.	 Click the Alignment tab. 4.	 Check the relevant options under the Text Control heading to switch on the effect. 5.	 Click OK to close the dialog and apply the new formats. Orientation You can display and print data in Excel oriented any way you choose.
+
+Shown here are some examples of different orientations.
+
+104
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formatting
+
+To Change Orientation: Mouse 1.	 Select the cells you want to format.
+
+2.	 Click the dialog box launcher. From either the font, alignment or number group on the home ribbon 3.	 Click the Alignment tab. 4.	 In the Orientation section, to keep characters horizontal but arrange them one underneath the other, click the picture that corresponds. Or 1.	 Drag the red dot marker up or down to give a degree value of plus or minus 90° from the base position (horizontal). 2.	 Click OK to apply the new formats and close the dialog.
+
+105
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formatting
+
+Fill Tab
+You can use settings on the Patterns tab to not only add background fill colours to cells, but apply patterns to them as well.
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+106
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I To Apply Patterns To Cells: Mouse 1.	 Select the cells you want to format.
+
+Formatting
+
+2.	 Click the dialog box launcher. From either the font, alignment or number group on the home ribbon 3.	 Click the fill tab. 4.	 Click the drop-down list arrow on the right of the Patterns box to display a palette of colours for the pattern. 5.	 Choose the pattern that you want (i.e. lines, dots etc). If you want to change what colour the lines/dots etc. that make up your pattern will be, access the palette once again and click a colour. 6.	 The colour palette on the left will give the cell a background colour 7.	 Click the fill effects button to choose more advanced patterns and colouring.. The fill effects dialog will be launched (This will be discussed later. It is a dialog box that is used for filling colours and patterns of many types of objects.) 8.	 Choose the more background colours the more colours button a separate dialog box will be launched with an extensive choice of colours 9.	 The Sample pane will display what the chosen formats will look like should you choose to apply them. Choose OK to close the dialog and apply your formats.
+
+Borders Tab
+You can change border line styles, colours and directions using the Borders tab.
+
+107
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formatting
+
+To Apply Custom Borders: Mouse 1.	 Select the cells you want to format.
+
+2.	 Click the dialog box launcher. From either the font, alignment or number group on the home ribbon 3.	 Click the Border tab. 4.	 Choose the line style by clicking on the appropriate line from the Style palette. 5.	 Choose the line colour by clicking on the drop-down arrow to the right of the Colour box to access a colour palette. Click the colour you want your border to be. 6.	 In the Border section, set which edges of your selection need bordering by clicking the button which shows the relevant edge. OR 1.	 If there are multiple edges that need borders, click the preview diagram (where the word “Text” sits) along the edges that you want the borders. Clicking the word “Text” in the preview diagram will give diagonal borders. One click will add a border, another will remove it. OR
+
+108
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I 1.	 Use the preset buttons to apply a borders see the effects in the preview 2.	 Click the OK button to close the dialog and apply your changes.
+
+Formatting
+
+Number Tab
+The Numbers tab gives you the ability to display data that Excel stores numerically in lots of different ways. The Formatting toolbar gives you buttons for applying only very few of the vast selection of number formats that Excel contains. The options that you see on the tab vary depending on which category of format you select. Generally speaking, Excel will display a sample based on the contents of the active cell and the default option within the category you selected. You can then pick from a list of format codes until the sample is displayed the way you want it.
+
+To Apply Number Formats: Mouse 1.	 Select the cells you want to format.
+
+2.	 Click the dialog box launcher. From either the font, alignment or number group on the home ribbon 3.	 Click the Number tab. 4.	 Click the category of formatting your numeric data should use from the Category list.
+
+109
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formatting
+
+5.	 Select the relevant options that appear until the Sample data looks the way you want your numbers to look. 6.	 Click OK to close the dialog and apply the format.
+
+Custom Number Formats
+There are occasions when you want numeric data to display in a way that Excel does not have a format for. When this happens, you can create a custom format. To Create A Custom Number Format: Mouse 1.	 Select the cells you want to format.Click the dialog box launcher. From either the font, alignment or number group on the home ribbon
+
+2.	 Click the Number tab.Then choose the Custom category (the last option on the Category list). The dialog box will change to show you a list of Type format codes. 3.	 Scroll down the Type list until you find a code similar to the one you want to format your data with. 4.	 For example, if you wanted to change a date currently displaying as 01/01/2000 to display as “January”, select the format code “mmmm-yy” to give you a base to alter – it would initially display your date as “Jan-2000”, but you can change it to what you want. 5.	 Click in the Type box and amend the code to give the display you want (watch the sample as you do this). For the example mentioned above, you would type “mmmm”.When you have the correct code, click OK to close the dialog and apply the custom number format.
+
+110
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formatting
+
+•	 Custom formats, once created, only exist in the file that they were set up in. If you want to use them in another workbook, you can copy the format across. You can copy formats only using Paste Special (see Section 5 for more information).
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+111
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I
+
+Formatting
+
+Protection Tab
+You can use the settings on this tab to control which cells are accessible when you protect a worksheet. This topic is dealt with in the section “Working with multiple sheets” later in this manual.
+
+Formatting Columns and Rows
+Excel has some formats that apply themselves to whole columns and rows. Changing widths and heights, hiding, inserting and deleting rows and columns are all operations that you might want to carry out.
+
+Column Width
+You can alter the width of a single column, or by selecting the columns whose width you want to change, you can make all columns in the selection the same width. With a single column, Excel changes the width of the column to the left of your mouse pointer. To Change Column Width: Mouse
+
+1.	 Move the mouse over the intersection between the column letters on the right-hand side of the column you want to change. The mouse pointer will display the shape that you need for changing column width. 2.	 Click and drag to the right or left to widen or narrow the column – a guide will draw itself down into the worksheet to preview where the column edge will jump to, and Excel will display the actual width of the column in points in a tip box that appears. 3.	 Release the mouse when the desired width has been reached. To Change Width Of Multiple Columns: Mouse 1.	 Select the columns whose width you want to change by clicking and dragging over the column letters with the selection pointer (white plus).
+
+112
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formatting
+
+2.	 Position the mouse over one of the intersections between the column letters in your selection. The pointer will display the shape needed for altering column widths. 3.	 Click and drag to the right or left to widen or narrow the column - a guide will draw itself down into the worksheet to preview where the column edge will jump to, and Excel will display the actual width of the column in points in a tip box that appears. 4.	 Release the mouse when the desired width is reached. All the columns in the selection will jump to the same width as the one you changed. AutoFit If you’re not sure what the optimum width for a column would be, you can get Excel to AutoFit it for you. AutoFit looks at all the data in a column and fits the column width around the widest entry – you may find the column gets wider or narrower when you AutoFit. To Autofit A Column: Mouse
+
+1.	 Move the mouse over the intersection between the column letters on the right-hand side of the column you want to change. The mouse pointer will display the shape that you need for changing column width. 2.	 Double-click the intersection. To Autofit Multiple Columns: Mouse 1.	 Select the columns you want to AutoFit by clicking and dragging over the column letters with the selection pointer (white plus). 2.	 Position the mouse over one of the intersections between the column letters in your selection. The pointer will display the shape needed for altering column widths. 3.	 Double-click to AutoFit all selected columns.
+
+113
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I Default width
+
+Formatting
+
+If you need to change Excel’s default width, you can choose an option from the menu to do soand to set a new default for the whole sheet
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+114
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I To Change The Default ColumnWidth: Mouse
+
+Formatting
+
+1.	 Click in any column. 2.	 Choose Format from the cells group on the home ribbon, and click on default Width. 3.	 A dialog box appears. Enter a size and click ok 4.	 All columns on that sheet will change to the new size Any column that has previously had its width changed will be unaffected by this those that have been changed will have to have their width changed manually if you wish all columns to be same width. Because other formats can affect the widths your columns need to be, it is often a good idea to leave changing column widths until last, this will avoid you repeatedly having to change the widths as you apply other formats. If the column of a cell is too narrow to display the numbers, Excel displays the cell with ‘####. If you hover over the cell a tool tip will appear displaying the information within the cell.
+
+Row Height
+Excel automatically changes row height when you alter the font and point size of the cell entries within it. However, you can alter the height of a single row manually, or by selecting the rows whose height you want to change, you can make all rows in the selection the same height. With a single row, Excel changes the height of the row above your mouse pointer.
+
+115
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I To Change Row Height: Mouse
+
+Formatting
+
+1.	 Move the mouse over the intersection between the row numbers below the row you want to change. The mouse pointer will display the shape that you need for changing row height. 2.	 Click and drag up or down to increase or decrease row height – a guide will draw itself across into the worksheet to preview where the row edge will jump to, and Excel will display the actual height of the row in points in a tip box that appears. 3.	 Release the mouse when the desired height has been reached. To Change Height Of Multiple Rows: Mouse
+
+1.	 Select the rows whose height you want to change by clicking and dragging over the row numbers with the selection pointer (white plus). 2.	 Position the mouse over one of the intersections between the row numbers in your selection. The pointer will display the shape needed for altering row heights. 3.	 Click and drag up or down to increase or decrease row height - a guide will draw itself across into the worksheet to preview where the row edge will jump to, and Excel will display the actual height of the rows in points in a tip box that appears. 4.	 Release the mouse when the desired height is reached. All the rows in the selection will jump to the same height as the one you changed.
+
+116
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I AutoFit
+
+Formatting
+
+If you’re not sure what the optimum height for a row would be, you can get Excel to AutoFit it for you. AutoFit looks at all the data in a row and fits the row height around the tallest entry – you may find the row gets taller or shorter when you AutoFit. To Autofit A Row: Mouse 1.	 Move the mouse over the intersection between the row numbers below the row you want to change. The mouse pointer will display the shape that you need for changing column width. 2.	 Double-click the intersection. To Autofit Multiple Rows: Mouse 1.	 Select the rows you want to AutoFit by clicking and dragging over the row numbers with the selection pointer (white plus). 2.	 Position the mouse over one of the intersections between the row numbers in your selection. The pointer will display the shape needed for altering row heights. Then Double-click to AutoFit all selected rows.
+
+117
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formatting
+
+Hide Columns, Rows And Sheets
+You can choose not to display certain rows and columns on your screen. Hiding them also prevents them from printing. To Hide Columns: Mouse 1.	 Select the column you want to hide by clicking on the column letter, or if you want to hide multiple columns, highlight them. 2.	 Click the right mouse button anywhere over th	 Hide columns OR e selection to display the shortcut menu. Then choose
+
+1.	 Click on format command in the cell group on the home ribbon 2.	 Move mouse cursor to hide & UnhideClick on hide columns OR Keyboard 1.	 Repeat step 1 above.Press CTRL+[0]
+
+118
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I To Hide Rows: Mouse
+
+Formatting
+
+1.	 Select the row you want to hide by clicking on the row number, or if you want to hide multiple rows, highlight them. 2.	 Click the right mouse button anywhere over the selection to display the shortcut menu. Then Choose Hide. OR 1.	 Select rows to be hiddenClick on format command in the cell group on the home ribbon 2.	 Move mouse cursor tohide&Unhide 3.	 Click on hide rows OR Keyboard 1.	 Repeat step 1 above. 2.	 Press CTRL+[0] To Hide Sheets Mouse 1.	 Select sheet or sheets to be hidden 2.	 Click on format command in the cell group on the home ribbon 3.	 Move mouse cursor to HIDE& Unhide 4.	 Click on hide sheet or 1.	 Select sheets to be hidden 2.	 Right click on a selected sheet tab 3.	 Click Hide To Unhide Columns And Rows Or Sheets: Mouse
+
+119
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formatting
+
+1.	 Select the columns or rows either side of the hidden ones by dragging over the column letters or row numbers with the selection pointer. 2.	 Position the mouse over the row or column intersection between the selected rows or columns then Doubleclick. Keyboard 1.	 Repeat step 1 above. Then Press CTRL+SHIFT+[+]. OR Mouse 1.	 Click on format command in the cell group on the home ribbon 2.	 Move mouse cursor tohide & Unhide then Click on unhide sheet, column or row
+
+INSERT AND DELETE CELLS, ROWS, COLUMNS OR SHEETS
+You can add new cells into a worksheet if you need to make space to add new entries in. Excel also gives you tools for adding entire rows and columns. If you add cells, Excel will ask you how the existing cells should be rearranged to accommodate the new ones.
+
+120
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I
+
+Formatting
+
+Add Cells
+To Insert A Cell: Mouse
+
+1.	 Select the cell below or to the right of where you want the new one. 2.	 Click the right mouse button to access the shortcut menu. 3.	 Choose Insert. The following dialog box will appear:
+
+4.	 Choose Shift cells right to insert a new cell to the left of the selected one, or Shift cells down to insert a new cell above the selected one. OR Keyboard 5.	 Repeat step 1 above.Press CTRL+SHIFT+[+]
+
+121
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I To Insert Multiple Cells: Mouse Before…
+
+Formatting
+
+1.	 Select the amount of cells corresponding to the number you want to insert below or to the right of where you want the new ones. 2.	 Click the right mouse button to access the shortcut menu. Shift cells right
+
+3.	 Choose Insert to access the dialog. 4.	 Choose Shift cells right to insert new cells to the left of the selected one, or Shift cells down to insert new cells above the selected one. Or Keyboard Down
+
+1.	 Repeat step 1 above.Press CTRL+SHIFT+[+].
+
+122
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I To Insert Entire Rows: Mouse
+
+Formatting
+
+1.	 Select the row below where you want the new one by clicking its row number, or if you are inserting multiple rows, highlight them. 2.	 Click the right mouse button anywhere over the selection to access the shortcut menu. 3.	 Choose Insert. Excel adds the number of selected rows above the first row in your selection.
+
+OR Keyboard 1.	 Repeat step 1 above. Then Press CTRL+SHIFT+[+]. To Insert Entire Columns: Mouse 1.	 Select the column to the right of where you want the new one by clicking its column letter, or if you are inserting multiple columns, highlight them. 2.	 Click the right mouse button anywhere over the selection to access the shortcut menu. 3.	 Choose Insert. Excel adds the number of selected columns to the left of the first column in your selection. OR
+
+123
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I Keyboard 1.	 Repeat step 1 above. 2.	 Press CTRL+SHIFT+[+].
+
+Formatting
+
+Delete Cells
+In Excel 2010 we can delete straight from the home ribbon by clicking on the delete button to show us a menu to delete any part of the workbook, sheet, row, column or cell
+
+124
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2010 Introduction: Part I To Delete Cells: Mouse 1.	 Select the cells you want to delete. 2.	 Click the right mouse button to access the shortcut menu. 3.	 Choose Delete. The following dialog box will appear: 4.	 Choose Shift cells left to close the gap left by the deleted cells with cell entries to the left.
+
+Formatting
+
+OR 1.	 Choose Shift cells up to close the gap left by the deleted cells with cell entries above. OR Keyboard 1.	 Select the cells to delete. 2.	 Press CTRL+[-]. 3.	 Choose Shift cells left to close the gap left by the deleted cells with cell entries to the left. OR 1.	 Choose Shift cells up to close the gap left by the deleted cells with cell entries above. To Delete Entire Rows Or Columns: Mouse 1.	 Select the row or column you want to delete by clicking its row number or column letter or, if you are deleting multiple columns or rows, highlight them. 2.	 Click the right mouse button anywhere over the selection to access the shortcut menu. 3.	 Choose Delete.
+
+125
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I OR Keyboard 1.	 Repeat step 1 above. 2.	 Press CTRzL+SHIFT+[-]
+
+Formatting
+
+Format Painter
+The Format Painter is a tool that you can use to copy all formats from one area of the worksheet to another. This is particularly useful when you have spent time formatting one group of cells and you decide that another group of cells should have the same formats – rather than reapplying the formats again manually, one by one, you can paint them on to the new cells with the Format Painter.
+
+To Paint Formats: Mouse 1.	 Select the cell that has the formatting you want to use.Click the Format Painter button from the Home ribbon in theclipboard group. Your mouse pointer will change to display a paintbrush next to the selection pointer (white plus). 2.	 Select all the cells you want to apply the formats to by dragging over them. As soon as you release the mouse, the formats will appear. •	 If you want to keep cell contents but remove all the formatting from those cells, click on the eraser on the home ribbon and clear formats
+
+126
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+Formatting
+
+Shortcut Keys For Formatting
+Excel uses shortcut keys that you can use for formatting data contained below
+To Display the Cells command (Format menu) Apply the General number format Apply the Currency format with two decimal places (negative numbers appear in parentheses) Apply the Percentage format with no decimal places Apply the Exponential number format with two decimal places Apply the Date format with the day, month, and year Apply the Time format with the hour and minute, and indicate A.M. or P.M. Apply the Number format with two decimal places, 1000 separator, and – for negative values Apply the outline border Remove all borders Apply or remove bold formatting Apply or remove italic formatting Apply or remove an underline Apply or remove strikethrough formatting Hide rows Unhide rows Hide columns Unhide columns Press CTRL+[1] CTRL+SHIFT+[~] CTRL+SHIFT+[$] CTRL+SHIFT+[%] CTRL+SHIFT+[^] CTRL+SHIFT+[#] CTRL+SHIFT+[@] CTRL+SHIFT+[!] CTRL+SHIFT+[&] CTRL+SHIFT+[_] CTRL+[B] CTRL+[I] CTRL+[U] CTRL+[5] CTRL+[9] CTRL+SHIFT+[9] CTRL+[0] CTRL+SHIFT+[+]
+
+127
+Download free eBooks at bookboon.com
+
+Excel 2010 Introduction: Part I
+
+To see Section 8-12 download Excel 2010 Introduction: Part II
+
+128
+Download free eBooks at bookboon.com
+

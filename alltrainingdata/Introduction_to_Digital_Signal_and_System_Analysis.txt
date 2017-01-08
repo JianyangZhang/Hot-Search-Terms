@@ -1,0 +1,4925 @@
+Introduction	to	Digital	Signal	and	System Analysis
+Weiji	Wang
+
+Download	free	books	at
+
+Weiji Wang
+
+Introduction to Digital Signal and System Analysis
+
+2
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis © 2012 Weiji Wang & bookboon.com ISBN 978-87-403-0158-8
+
+3
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Contents
+
+Contents
+Preface		 1	 1.2	 1.3	 1.4	 1.5	 2	 2.1	 2.2	 2.3	 2.4	 2.5	 3	 3.1	 3.2	 3.3	 Digital Signals and Sampling 	 Signal representation and processing	 Analogue-to-digital conversion	 Sampling theorem	 Quantization in an analogue-to-digital converter	 Basic Types of Digital Signals	 Three basic signals	 Other basic signals	 Signal shifting, flipping and scaling	 Periodic signals	 Examples of signal operations	 Time-domain Analysis 	 Linear time-invariant (LTI) systems	 Difference equations	 Block diagram for LTI systems	 7 8 8 8 11 11 13 16 16 18 20 21 21 25 25 26 28
+
+1.1	Introduction	
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis 3.4	 3.6	 4	 4.1	 4.2	 4.3	 4.4	 4.5	 5	 5.1	 5.2	 5.3	 5.4	 5.5	 5.6	 5.7	 5.8	 6	 6.1	 Impulse response 	 Graphically demonstrated convolution	 Frequency Domain Analysis	 Fourier series for periodic digital signals	 Fourier transform for non-periodic signals	 Properties of Fourier transform	 Frequency response 	 Frequency correspondence when sampling rate is given	 Z Domain Analysis 	 z-transform and inverse z-transform 	 Relationship between z-transform and Fourier transform	 Z as time shift operator	 Transfer function	 Z-plane, poles and zeros 	 Stability of a system	 Evaluation of the Fourier transform in the z-plane	 Characteristics of 1st and 2nd order systems	 Discrete Fourier Transform 	 Definition of discrete Fourier transform	 29 33 38 42 42 46 49 50 56 60 60 62 62 63 67 71 75 77 88 88
+
+Contents
+
+3.5	Convolution	
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis 6.2	 6.3	 7	 7.4	 7.5	 7.6	 9.8	 7.6	 Properties of DFT	 The fast Fourier transform (FFT)	 Spectral Analysis by DFT 	 Digital spectral analysis	 Spectra of harmonics	 Spectral leakage	 Performance of windows	 Applications of digital spectral analysis 	 90 93 100 100 100 102 104 104 107 110
+
+Contents
+
+7.4	Windowing	
+
+8	Summary	
+
+Bibliography	111
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+6
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis
+
+Preface
+
+Preface
+Since the 1990s, digital signals have been increasingly used not only in various industries and engineering equipments but also in everybody’s daily necessities. Mobile phones, TV receivers, music CDs, multimedia computing, etc, are the indispensable items in modern life, in which digital formats are taken as a basic form for carrying and storing information. The major reason for the advancement in the use of digital signals is the big leap forward in the popularization of microelectronics and computing technology in the past three decades. Traditional analogue broadcast is being widely upgraded to digital. A general shift from analogue to digital systems has taken place and achieved unequivocal benefits in signal quality, transmission efficiency and storage integrity. In addition, data management advantage in digital systems has provided users with a very friendly interface. A typical example is the popular pull-down manual, easy to find, make choices and more choices are made available. As marching into the digital era, many people in different sectors are quite keen to understand why this has happened and what might be the next in this area. They hope to obtain basic principles about digital signals and associated digital systems. Instead of targeting advanced or expert level, they as beginners often hope to grasp the subject as efficient and effective as possible without undertaking impossible task under usually limited time and effort available. This book is written for those beginners who want to gain an overview of the topic, understand the basic methods and know how to deal with basic digital signals and digital systems. No matter the incentive is from curiosity, interest or urgently acquiring needed knowledge for one’s profession, this book is well suited. The output standards are equivalent to university year two which lays a good foundation for further studies or moving on to specialised topics, such as digital filters, digital communications, discrete time-frequency representation, and time-scale analysis. The required mathematics for the reader is basically at pre-university level, actually only junior high schools maths is mainly involved. The content of materials in this book has been delivered to second year engineering and IT students at university for more than 10 years. A feature in this book is that the digital signal or system is mainly treated as originally existing in digital form rather than always regarded as an approximation version of a corresponding analogue system which gives a wrong impression that digital signal is poor in accuracy, although many digital signals come from taking samples out of analogue signals. The digital signal and system stand as their own and no need to use the analogue counter part to explain how they work. To help understanding and gaining good familiarity to the topic, it will be very helpful to do some exercises attached to each chapter, which are selected from many and rather minimal in term of work load. Weiji Wang University of Sussex Brighton, England January 2012
+
+7
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Digital Signals and Sampling
+
+1	 Digital Signals and Sampling
+1.1	Introduction
+Digital signal processing (DSP) has become a common tool for many disciplines. The topic includes the methods of dealing with digital signals and digital systems. The techniques are useful for all the branches of natural and social sciences which involve data acquisition, analysis and management, such as engineering, physics, chemistry, meteorology, information systems, financial and social services. Before the digital era, signal processing devices were dominated by analogue type. The major reason for DSP advancement and shift from analogue is the extraordinary growth and popularization of digital microelectronics and computing technology. The reason that digital becomes a trend to replace analogue systems, apart from it is a format that microprocessors can be easily used to carry out functions, high quality data storage, transmission and sophisticated data management are the other advantages. In addition, only 0s and 1s are used to represent a digital signal, noise can easily be suppressed or removed. The quality of reproduction is high and independent of the medium used or the number of reproduction. Digital images are two dimensional digital signals, which represent another wide application of digital signals. Digital machine vision, photographing and videoing are already widely used in various areas. In the field of signal processing, a signal is defined as a quantity which carries information. An analogue signal is a signal represented by a continuous varying quantity. A digital signal is a signal represented by a sequence of discrete values of a quantity. The digital signal is the only form for which the modern microprocessor can take and exercise its powerful functions. Examples of digital signals which are in common use include digital sound and imaging, digital television, digital communications, audio and video devices. To process a signal is to make numerical manipulation for signal samples. The objective of processing a signal can be to detect the trend, to extract a wanted signal from a mixture of various signal components including unwanted noise, to look at the patterns present in a signal for understanding underlying physical processes in the real world. To analyse a digital system is to find out the relationship between input and output, or to design a processor with pre-defined functions, such as filtering and amplifying under applied certain frequency range requirements. A digital signal or a digital system can be analysed in time domain, frequency domain or complex domain, etc.
+
+1.2	
+such as:
+
+Signal representation and processing
+
+Representation of digital signals can be specific or generic. A digital signal is refereed to a series of numerical numbers,
+
+…, 2, 4, 6, 8, … where 2, 4, 6 are samples and the whole set of samples is called a signal. In a generic form, a digital signal can be represented as time-equally spaced data
+
+8
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Digital Signals and Sampling
+
+..., x[−1] , x[0] , x[1] , x[2] , ...
+where -1, 0, 1, 2 etc are the sample numbers, x[0], x[1], x[2], etc are samples. The square brackets represent the digital form. The signal can be represented as a compact form
+
+x[n]
+
+−∞ < n < ∞
+
+	
+
+(1.1)
+
+In the signal, x[-1], x[1], x[100], etc, are the samples, defined at the sample number variable
+
+n is the sample number. The values of a digital signal are only being
+
+n , which indicates the occurrence order of samples and may be given a specific
+
+unit of time, such as second, hour, year or even century, in specific applications. We can have many digital signal examples: -- Midday temperature at Brighton city, measured on successive days, -- Daily share price, -- Monthly cost in telephone bills, -- Student number enrolled on a course, -- Numbers of vehicles passing a bridge, etc. Examples of digital signal processing can be given in the following: Example 1.1 To obtain a past 7 day’s average temperature sequence. The averaged temperature sequence for past 7 days is
+
+y[n] =
+
+1 (x[n] + x[n − 1] + x[n − 2]... + x[n − 6]) . 7
+
+For example, if n=0 represents today, the past 7 days average is
+
+y[0] =
+
+1 (x[0] + x[−1] + x[−2]... + x[−6]) 7
+
+where x[0], x[−1], x[−2], ... represent the temperatures of today, yesterday, the day before yesterday, …; y[0] represents the average of past 7 days temperature from today and including today. On the other hand,
+
+y[1] =
+
+1 (x[1] + x[0] + x[−1] + ... + x[−5]) 7
+
+represents the average of past 7 days temperature observed from tomorrow and including tomorrow, and so on. In a shorter form, the new sequence of averaged temperature can be written as
+
+9
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Digital Signals and Sampling
+
+y[n] =
+
+1 7 ∑ x[n − k + 1] 7 k =1
+
+where x[n] is the temperature sequence signal and y[n] is the new averaged temperature sequence. The purpose of average can be used to indicate the trend. The averaging acts as a low-pass filter, in which fast fluctuations have been removed as a result. Therefore, the sequence y[n] will be smoother than x[n]. Example 1.2. To obtain the past M day simple moving averages of share prices, let x[n] denotes the close price, y M [n] the averaged close price over past M days.
+
+y M [ n] =
+or
+
+1 (x[n] + x[n − 1] + x[n − 2]... + x[n − M + 1]) M
+
+y M [ n] =
+
+1 M
+
+∑ x[n − k + 1]
+k =1
+
+M
+
+(1.2)
+
+For example, M=20 day simple moving average is used to indicate 20 day trend of a share price. M=5, 120, 250 (trading days) are usually used for indicating 1 week, half year and one year trends, respectively. Figure 1.1 shows a share’s prices with moving averages of different trading days.
+
+Figure 1.1 S share prices with moving averages
+
+10
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Digital Signals and Sampling
+
+1.3	
+
+Analogue-to-digital conversion
+
+Although some signals are originally digital, such as population data, number of vehicles and share prices, many practical signals start off in analogue form. They are continuous signals, such as human’s blood pressure, temperature and heart pulses. A continuous signal can be first converted to a proportional voltage waveform by a suitable transducer, i.e. the analogue signal is generated. Then, for adapting digital processor, the signal has to be converted into digital form by taking samples. Those samples are usually equally spaced in time for easy processing and interpretation. Figure 1.2 shows a analogue signal and its digital signal by sampling with equal time intervals. The upper is the analogue signal x(t) and the lower is the digital signal sampled at time t = nT, where n is the sample number and T is the sampling interval. Therefore,
+
+x[n] = x(nT )
+
+50
+
+0
+
+-50
+
+0
+
+20
+
+40 t
+
+60
+
+80
+
+100
+
+50
+
+0
+
+-50 0 20 40 t 60 80 100
+
+Figure 1.2 An analogue signal x(t) and digital signal x[n]. The upper is the analogue signal and the lower is the digital signal sampled at t = nT.
+
+1.4	
+
+Sampling theorem
+
+For ease of storage or digital processing, an analogue signal must be sampled into a digital signal. The continuous signal is being taken sample at equal time interval and represented by a set of members. First of all, a major question about it is how often should an analogue signal be sampled, or how frequent the sampling can be enough to represent the details of the original signal. It is obvious that too often will cause redundancy which will reduce the processing efficiency and cause an unnecessarily large size of data storage, but too sparse will cause a loss of signal details.
+
+11
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis -- Shannon’s sampling theorem
+
+Digital Signals and Sampling
+
+Claude E. Shannon 1916-1949) established the sampling theorem that an analogue signal containing components up to maximum frequency 2
+
+fc
+
+fc
+
+Hz may be completely represented by samples, provided that the sampling rate
+
+fs
+
+is at least
+
+(i.e. at least 2 samples are to present per period). That is
+
+fs ≥ 2 fc
+
+
+
+(1.3)
+
+Let the sampling interval T =
+
+T≤
+
+1  2 fc
+
+1 , the sampling requirement is equivalently represented as fs
+(1.4)
+
+Given sampling frequency
+
+f s , the maximum analogue frequency allowed in the signal is
+ (1.5)
+
+fc =
+
+1 1 fs = 2 2T
+
+Under sampling will cause aliasing. That is, details of original signal will be lost and high frequency waveforms may be mistakenly represented as low frequency ones by the sampled digital signal. See Figure 1.3. It is worth noting that use of minimum sampling frequency is not absolutely safe, as those samples may just been placed at all zeros-crossing points of the waveform.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+12
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis Example 1.3 An analogue signal is given as
+
+Digital Signals and Sampling
+
+x (t ) = sin 3000t + 2 cos 350t + sin 200t cos 20t
+where t is the time in seconds, determine the required minimum sampling frequency for the signal and calculate the time interval between any two adjacent samples. Solution: The third term is equivalent to 2 components of frequencies 200+20 hz and 200-20 hz. The highest frequency in the signal therefore is
+
+3000 / 2π = 477.5hz .. Required minimum sampling frequency is 2 × 477.5hz = 955hz ,, or
+
+the sampling interval T is
+
+1 / 955 = 0.001047seconds .
+2
+
+Over sampled
+
+0
+
+-2 0 2 "Just right" 200 400 600 800 1000
+
+0
+
+-2 0 2 Under sampled 200 400 600 800 1000
+
+0
+
+-2 0 200 400 600 800 1000
+
+Figure 1.3 Over sampling and under sampling
+
+1.5	
+
+Quantization in an analogue-to-digital converter
+
+The quality of a digital signal is dependent on the quality of the conversion processes. An analogue signal takes on a continuous range of amplitudes. However, a practical electronic analogue-to-digital converter has limited levels of quantization. An n-bit analogue-to-digital converter has presented in the sampling. -- Quantization error
+
+2n levels, i.e. only as many as 2n different values can be
+
+13
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Digital Signals and Sampling
+
+2n levels. This means a quantization error (or equivalently termed as quantization noise) n has been introduced. In practice, n in the 2 needs to be chosen to be big enough to satisfy the quantization accuracy.
+to be rounded to those limited When n=3,
+
+During an unlimited level of analogue signal being converted into a limited level of digital signal, all possible values have
+
+2n =8 provides 8 quantization levels. Obviously, there exists big quantization errors in representing the original
+
+continuous signal by a small number of levels. But when taking n=12, it gives as many as 4096 quantization levels, which satisfies many industrial applications. The following Figure 1.4 illustrates the quantization process in which the analogue to digital convertor has 8 levels. A continuous signal is sampled to a digital signal as …,1, 6, 6, 5, 5, 4, 4, 4, 4, 6,… which have difference, i.e. the error, at each sampling point between the analogue and digital values.
+
+7 6 5 4 3 2 1 1
+Problems
+Q1.1 Observe the signals in Fig. Q1.1 and answer the following questions: a)	 What is the frequency of the analogue sinusoidal signal (solid line) ? _______. b)	 How many samples have been taken from the analogue signal within one second (the sampling frequency)? ________. c)	 Does the digital signal (the dotted line) represent the original analogue signal correctly? _________ . What has happened? _____________________. d)	 What is the frequency of the digital sinusoidal signal? ______. e)	 What should be a required minimum sampling frequency for the original analogue signal? _________.
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+n
+
+Figure 1.4 Continuous signal is sampled as 8 levels of digital signal.
+
+14
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Digital Signals and Sampling
+
+2 1.5 1 0.5 x 0 -0.5 -1 -1.5 -2
+
+0
+
+0.2
+
+0.4
+
+seconds
+
+0.6
+
+0.8
+
+1
+
+Figure Q1.1 Q1.2 A stock price can be described by a digital series
+
+x[n] , where n indicates the day: -∞<n<∞. The past M day (including
+
+the present day) simple moving average (SMA) series is often used for trend analysis. Write down the M day SMA for series change in the trend.
+
+y M [n] for indicating price trend. Also, when the 5 day SMA is crossing its 50
+
+day SMA, the stock may be taken as changed in a medium term trend. Write down an expression to be used to alert this
+
+15
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Basic Types of Digital Signals
+
+2	 Basic Types of Digital Signals
+2.1	 Three basic signals
+Unit impulse
+
+d [ n] = 
+
+1 n = 0 (2.1) 0 n ≠ 0
+
+i.e. the unit impulse has only one non-zero value 1 at n=0, and all other samples are 0. It is the simplest signal but will be seen later very important. Unit step
+
+1 n ≥ 0 u[n] =  0 n < 0 (2.2)
+where the sample value rises at n=0 from 0 to 1 and keeps it to Ramp
+
+n → ∞.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+16
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis
+
+Basic Types of Digital Signals
+
+n n ≥ 0 r[ n ] =  0 n < 0 (2.3)
+Figure 2.1 illustrates the unit impulse, unit step and ramp signals. Alternatively, the three basic signals can be expressed by a tabular form as below:
+
+n
+d[n]
+
+… … … …
+
+-3 -2 0 0 0 0 0 0
+
+-1 0 0 0 0 1 1 0
+
+1 0 1 1
+
+2 0 1 2
+
+3 0 1 3
+
+… ... … …
+
+u[n] r[n]
+
+The unit impulse, unit step and ramp signals are simple and basic signals. Unit impulse is the basic of basic signals. The unit step can be regarded as a sum of unit impulse on the positive side of n-axis. The ramp signal can be a set of unit impulses shifted to the right axis and scaled by sample number n. Or it can be regarded as the unit step scaled by the corresponding sample number n. Actually, later, we will know all signals can be regarded as a sum of shifted and scaled unit impulses.
+
+17
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Basic Types of Digital Signals
+
+a) Unit impulse
+
+2 1 0 -4 2 1 0 -4 -2 0 2 n 4 6 8 10 -2 0 2 n 4 6 8 10
+
+c) Ramp
+
+b) Unit step
+
+10 5 0 -4 -2 0 2 n 4 6 8 10
+
+Figure 2.1 Unit impulse, unit step and ramp signals
+
+2.2	
+
+Other basic signals
+-- Sinusoidal signals
+
+Sinusoidal signals are referred to the sine and cosine functions. In digital format, they are
+
+x[n ] = A cos(nW) x[n ] = A sin(nW) (2.4)
+where, it is worth noting,
+
+W is the frequency with a unit of radians/sample, n is the sample number. The sinusoidal functions have a period of 2p .
+-- Exponential signal
+
+x[n] = Ae
+or
+
+β n
+
+x[n] = A exp( β n)
+
+(2.5)
+
+18
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis where A, β are constants and n the sample number. -- Complex signals z A digital signal x[n] can be complex, a simple example is
+
+Basic Types of Digital Signals
+
+x[n] = cos(nW) + j sin( nW)
+where
+
+j = − 1 , and the signal has real and imaginary parts. Note that according to Euler formula exp( jnΩ ) = cos(nΩ ) + j sin (nΩ ) , t , there are relationships: 1 cos(nW) = {exp( j n W) + exp( − j n W) } 2 1 sin(nW) = {exp( j n W) − exp( − j n W) } 2j (2.6)
+
+19
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis
+
+Basic Types of Digital Signals
+
+2.3	
+
+Signal shifting, flipping and scaling
+-- Signal shifting
+
+A signal can be shifted to left or right by any number of samples. In Figure 2.2 (a), a unit impulse has been shifted to the right by one sample; and in Figure 2.2 (b), a unit impulse be represented by a signal
+
+d [ n]
+
+has been shifted to the left by one sample. They should (shifted to the left), respectively. For the general case of
+
+d [n − 1]
+
+(shifted to the right) and
+
+d [n + 1]
+
+x[n] , shifting to the right and left by n0 samples generates new signals x[n − n0 ] and x[n + n0 ] . They are a
+
+delayed signal and an advanced signal, respectively.
+
+n 0 1 -1 0
+
+n
+
+(a)
+
+(b)
+
+Figure 2.2 Unit impulse is shifted to left: d[n+1] (a) and Shifted to right: d[n-1] (b)
+
+-- Signal flipping
+
+u[n] flipped about y-axis can generate a new signal u[−n] shown in Figure 2.3(a). It can also be flipped and then shifted to left by one sample as u[ −( n + 1)] or u[ − n − 1] as shown in Figure 2.3(b). In general cases, a flipped
+A unit step signal of
+
+x[n] is x[−n] .
+
+n 0 -1 0
+
+n
+
+(a)
+
+(b)
+
+Figure2.3 Unit step is flipped as u[-n] (a) and shifted to the left: u[-n-1] = u[-(n+1)] (b) -- Signal scaling
+
+20
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Basic Types of Digital Signals
+
+In Figure 2.4, a shifted unit impulse d [ n − 1] is been scaled by -2 to -2 d [ n − 1] . For general cases, a signal by number
+
+x[n] scaled
+
+a is ax[n] .
+
+1 0
+
+n
+
+-2
+
+Figure 2.4 A shifted unit impulse is being scaled by -2.
+
+2.4	
+
+Periodic signals
+
+A periodic signal satisfies the following relationship
+
+x[n ± kN ] = x[n]
+
+(2.7)
+
+where k is an arbitrary integer and N the period. The above relationship indicates that a periodic signal can remain the same shape if it shifts to left or right by any integer number of periods. Typical periodic signals are sine and cosine waves. e.g. For the signal
+
+ np x[n] = sin  1
+
+ , we can find the period by following steps:  
+
+We know that the sine function has a period of 2p . Therefore,
+
+  (n ± 2 )p   np  np  ± 2p  = sin  sin    = sin  1    1 1 
+This means that on the n-axis, a new signal after being shifted to left or right by 22 samples is still identical to the original signal. Therefore, N=22 (samples) is the period.
+
+2.5	
+found as
+
+Examples of signal operations
+
+For 6 signals in Figure 2.5, the expressions using basic signals, including the unit impulse, unit step and ramp, can be
+
+a) x[n]=-2 u[n] c) x[n]= u[n+3] - u[n-5] e) x[n]= d[n-6]-u[-n]
+
+b) x[n]=-5 u[-n-4] d) x[n]= 5 d[n-6] f) x[n]= 2 r[n+6] - 2 r[n+2]
+
+21
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Basic Types of Digital Signals
+
+In b), the signal has been flipped, scaled by -5 and shifted to the left by 4 samples − 5u[ − n − 4] = −5u[ −( n + 4)] . . c) is an rectangular function or a window function. In f) the gradient has been changed by scaling factor 2.
+
+10 2 (a) 0 -2 -5 2 0 5 10 -10 -10 10 -5 0 5 (b) (d) -5 2 0 5 0
+
+(c)
+
+0
+
+0
+
+-2
+
+-10 -5 10
+
+0
+
+5
+
+10
+
+(e)
+
+-2 -5
+
+(f) 0 5 10
+
+0
+
+0
+
+-10 -5 0 5
+
+Figure 2.5 Examples of signal operations
+
+The unit step consists of infinite number of unit impulses on the positive side of axis. The following are the representations between the unit impulse and unit step. The unit step is represented by unit impulses as
+
+22
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis
+
+Basic Types of Digital Signals
+
+u[n] = δ[n] + δ[n −1] + δ[n − 2] + ... = ¦δ[n − k] =
+k =0
+
+∞
+
+m=−∞
+
+¦δ[m]
+
+n
+
+
+
+(2.8)
+
+And, the unit impulse can be represented by the unit steps as
+
+u[n] − u[n −1] = ¦δ[m] −
+m=−∞
+
+n
+
+m=−∞
+
+¦δ[m] =δ[n] + ¦δ[m] − ¦δ[m] = δ[n]
+m=−∞ m=−∞
+
+n−1
+
+n−1
+
+n−1
+
+i.e. the impulse response is the difference of two unit steps.
+
+d [n] = u[n] − u[n − 1] .
+Problems
+Q2.1 	 Sketch and label the following digital signals a)	 b)	 c)	 d)	 e)	
+
+(2.9)
+
+− u[n + 1] u[−n + 1] u[n + 2] + 2d [n − 3] 3u[n + 4] − 3u[n − 5] r[n + 1] − 2r[n − 2]
+
+Q2.2 Sketch and label the digital signal a)	 b)	 where
+
+p n 1 x[n] = u[n] sin n 2
+x[n] = u[n + 2] − u[n − 3] + r[n − 3] − r[n − 6] + 2d [n]
+
+d [n] , u[n] and r[n] are the unit impulse, unit step and ramp functions, respectively.
+
+Q2.3 Let
+
+d [ n] , u[n] and r[n]
+
+be the unit impulse, unit step and ramp functions, respectively. Given
+
+x1[n] = u[n] − u[n − 6] x2 [n] = r[n] + d [n] + d [n − 2] − d [n − 4] − r[n − 5]
+Sketch and label the digital signals
+
+x1[n] + x2 [n]
+
+and
+
+x1[n] ⋅ x2 [n] .
+
+23
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Basic Types of Digital Signals
+
+Q2.4 Let
+
+d [ n] , u[n] and r[n]
+
+be the unit impulse, unit step and ramp functions, respectively. Given
+
+x1[n] = u[n − 2] − u[n − 4] x2 [n] = r[n − 2] − d [n]
+Sketch and label the digital signals
+
+x1[n] + x2 [n]
+
+and
+
+x1[n] ⋅ x2 [n] .
+
+Q2.5 Find the period of the following digital signal:
+
+(a) x[n] = sin
+
+π n
+11
+§π n · § 2π n · ¨ ¸ +π ¸ + − π cos ¸ ¨ 15 ¸ 3 © ¹ © ¹
+
+(b) x[n] = 3 sin ¨ ¨
+
+(c) x[n] = 2 + 3 sin
+
+π n
+3
+
++ 4 sin
+
+π n
+6
+
++ cos
+
+2π n 15
+.
+
+Q2.6 Two pperiodic digital signals are given as
+
+x1[n] = 1 + cos
+Find the period of
+
+π n
+16
+
+,
+
+x2 [n] = sin
+
+2π n 23
+
+x1[n] , x2 [n] and x1[n] − x2 [n] .
+
+24
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Time-domain Analysis
+
+3	 Time-domain Analysis
+3.1	 Linear time-invariant (LTI) systems
+A digital system is also refereed as a digital processor, which is capable of carrying out a DSP function or operation. The digital system takes variety of forms, such as a microprocessor, a programmed general-purpose computer, a part of digital device or a piece of computing software. Among digital systems, linear time-invariant (LTI) systems are basic and common. For those reasons, it will be restricted to address about only the LTI systems in this whole book. The linearity is an important and realistic assumption in dealing with a large number of digital systems, which satisfies the following relationships between input and output described by Figure 3.1. i.e. a single input x1 [n ] produces a single output
+
+y1 [n ] , Applying sum of inputs x1 [n ] + x2 [n ] produces y1 [n ] + y 2 [n ] , and applying input ax1[n ] + bx2 [n ]
+
+generates ay1 [ n ] + by 2 [n ] .
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+25
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis
+
+Time-domain Analysis
+
+Linear System
+
+Input x1 [n ] ax1[n ] x2 [n ] x1[n ] + x2 [n ] ax1[n ] + bx2 [n ]
+
+Output y1 [n ] ay1[n ] y 2 [n ] y1[n ] + y 2 [n ] ay1[n ] + by 2 [n ]
+
+Figure 3.1 Linearity of a system
+
+The linearity can be described as the combination of a scaling rule and a superposition rule. The time-invariance requires the function of the system does not vary with the time. e.g. a cash register at a supermarket adds all costs of purchased items
+
+x[n] , x[n − 1] ,… at check-out during the period of interest, and the total cost y[n] is given by y[n] = x[n] + x[n − 1] + x[n − 2] + ... (3.1)
+
+where
+
+y[n] is the total cost, and if x[0] is an item registered at this moment, x[−1] then is the item at the last moment,
+
+etc. The calculation method as a simple sum of all those item’s costs is assumed to remain invariant at the supermarket, at least, for the period of interest.
+
+3.2	
+
+Difference equations
+
+Like a differential equation is used to describe the relationship between its input and output of a continuous system, a difference equation can be used to characterise the relationship between the input and output of a digital system. Many systems in real life can be described by a continuous form of differential equations. When a differential equation takes a discrete form, it generates a difference equation. For example, a first order differential equation is commonly a mathematical model for describing a heater’s rising temperature, water level drop of a leaking tank, etc:
+
+dy (t ) + ay (t ) = bx(t ) dt (3.2)
+where
+
+x[n] is the input and y[n] is the output. For digital case, the derivative can be described as
+dy (t ) y[n] − y[n − 1] = , dt T (3.3)
+
+i.e. the ratio of the difference between the current sample and one backward sample to the time interval of the two samples. Therefore, the differential equation can be approximately represented by a difference equation:
+
+26
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Time-domain Analysis
+
+y[n] − y[n − 1] + ay[n] = bx[n] T
+or
+
+(1 + Ta ) y[n] = y[n − 1] + Tbx[n]
+yielding a standard form difference equation:
+
+y[n] = a1 y[n − 1] + b1 x[n] (3.4)
+where a1 =
+
+Tb 1 a are constants. and b1 = 1 + Ta 1 + Ta
+
+For input’s derivative, we have similar digital form as
+
+dx(t ) x[n] − x[n − 1] . = dt T .
+Further, the second order derivative in a differential equation contains can be discretised as
+
+d 2 y (t ) = dt 2
+
+y[n] − y[n − 1] y[n − 1] − y[n − 2] − 1 T T = 2 ( y[n] − 2 y[n − 1] + y[n − 2]) . (3.5) T T
+
+When the output can be expressed only by the input and shifted input, the difference equation is called non-recursive equation, such as
+
+y[n ] = b1 x[n ] + b2 x[n − 1] + b3 x[n − 2] (3.6)
+On the other hand, if the output is expressed by the shifted output, the difference equation is a recursive equation, such as
+
+y[n ] = a1 y[n − 1] + a 2 y[n − 2] + a3 y[n − 3] (3.7)
+where the output y[ n] is expressed by it shifted signals represented as
+
+y[n − 1] , y[n − 2] , etc. In general, an LTI processor can be
+
+y[n] = a1 y[n − 1] + a 2 y[n − 2] + ... + b1 x[n − 1] + b2 x[n − 2] + ...
+or a short form
+
+y[n] = ∑ ak y[n − k ] + ∑ bk x[n − k ]
+k =1 k =0
+
+N
+
+M
+
+(3.8)
+
+27
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis or
+
+Time-domain Analysis
+
+∑a
+k =0
+
+N
+
+' k
+
+y[n − k ] =∑ bk x[n − k ]
+k =0
+
+M
+
+(3.9)
+
+A difference equation is not necessarily from the digitization of differential equation. It can originally take digital form, such as the difference equation in Eq.(3.1).
+
+3.3	
+
+Block diagram for LTI systems
+
+Alternatively, equivalent to the difference equation, an LTI system can also be represented by a block diagram, which also characterises the input and output relationship for the system. For example, to draw a block diagram for the digital system described by the difference equation:
+
+y[n] + 0.7 y[n − 1] + 0.8 y[n − 2] = x[n] − 0.5 x[n − 1] − 0.6 x[n − 2]
+The output can be rewrite as
+
+y[n] = −0.7 y[n − 1] − 0.8 y[n − 2] + x[n] − 0.5 x[n − 1] − 0.6 x[n − 2]
+The block diagram for the system is shown in Figure 3.2.
+
+.
+
+28
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis
+
+Time-domain Analysis
+
+In the bock diagram, T is the sampling interval, which acts as a delay or right-shift by one sample in time. For general cases, instead of Eq.(3.9), Eq. (3.8) is used for drawing a block diagram. It can easily begin with the input, output flows and the summation operator, then add input and output branches.
+
+T
+
+T
+
+T
+
+T
+
+-0.6 -0.5 x[n] +
+Figure 3.2 Block diagram of an LTI system
+
+-0.8
+
+-0.7
+
+y[n]
+
+3.4	
+
+Impulse response
+
+Both the difference equation and block diagram can be used to describe a digital system. Furthermore, the impulse response can also be used to represent the relationship between input and output of a digital system. As the terms suggest, impulse response is the response to the simplest input – unit impulse. Figure 3.2 illustrates a digital LTI system, in which the input is the unit impulse and the output is the impulse response.
+
+δ[n] Digital LTI system
+Figure 3.2 Unit impulse and impulse response
+Input d[n] Output h[n]
+
+h[n]
+
+0
+
+n
+
+n
+
+Figure 3.3 Unit impulse and impulse response of a causal system
+
+Once the impulse response of a system is known, it can be expected that the response to other types of input can be derived. An LTI system can be classified as causal or non-causal. A causal system is refereeing to those in which the response is no earlier than input, or h[n] =0 before n=0. This is the case for most of practical systems or the systems in the natural world. However, non-causal system can exist if the response is arranged, such as programmed, to be earlier than the excitation. See the illustration in Figure 3.4 below.
+
+29
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Time-domain Analysis
+
+Input d[n]
+
+Output h[n]
+
+0
+
+n
+
+n
+
+Figure 3.4 Unit impulse and impulse response of a non-causal system
+
+The impulse response of a system can be evaluated from its difference equation. Following are the examples of finding the values of impulse responses from difference equations Example 3.1 Evaluating the impulse response for the following systems a)	 y[n]=3 x[n] + x[n-1] + 4 x[n-2] We know that when the input is the simplest unit impulse d[n], the output response will be the impulse response. Therefore, replacing input x[n] by d[n] and response y[n] by h[n], the equation is still holding and has become special: h[n]=3 d[n] + d[n-1] + 4 d[n-2] It is easy to evaluate the impulse response by letting n=-1, 0,1,2,3,… When n=-1, h[-1]=0 When n=0, h[0]= 3 d[0] +d[-1] + 4 d[-2]=3 When n=1, h[1]= 1, When n=2, h[2]= 4, When n=3, h[3]= 0, … Therefore, the impulse response h[n]=[3, 1, 4, 0, …] ↑ where ↑indicates the position of origin n=0. b)	 Assume the system is causal. With the difference equation y[n]=1.5 y[n-1] -0.85 y[n-2] + x[n] We have h[n]=1.5 h[n-1] -0.85 h[n-2] + δ[n]
+
+30
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis Let n=0, 1, 2, 3,… h[0]=0-0+1=1 h[1]=1.5 ´1-0 -0=1.5 h[2]=1.5´1.5-0.85´1+0=1.4 h[3]=1.5´1.4-0.85´1.5+0 =0.825 ... Therefore, the impulse response h[n]=[1, 1.5, 1.4, 0.825, …]. ↑ Generally for the difference equation:
+
+Time-domain Analysis
+
+y[n] = a1 y[n − 1] + a 2 y[n − 2] + a3 y[n − 3] + ... + b1 x[n − 1] + b2 x[n − 2] + b3 x[n − 3] + ...
+The impulse response can evaluated by the special equation with the simple unit impulse input:
+
+h[n] = a1 h[n − 1] + a 2 h[n − 2] + ... + b1d [n − 1] + b2d [n − 2] + ... (3.10)
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+31
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis
+
+Time-domain Analysis
+
+The step response is also commonly used to characterize the relationship between the input and output of a system. To find the step response using the impulse response, we know that the unit step can be expressed by unit impulses as
+
+u[n ] = d [n ] + d [n − 1] + d [n − 2] + ... (3.11)
+The linear system satisfies the superposition rule. Therefore, the step response is a sum of a series of impulse responses excited by a series of shifted unit impulses. i.e., the step response is a sum of impulse responses
+
+s[n] = h[n] + h[n − 1] + h[n − 2] + ... = ∑ h[n − k ] =
+k =0
+
+∞
+
+m=− ∞
+
+∑ h[m]
+
+n
+
+(3.12)
+
+To better understand Eq. (3.12), we can make use of the linearity of the LTI systems. In Figure 3.5, it has been shown that the input is decomposed in to impulses according to Eq.(3.11), and the output is the responses of all individual impulse responses described in Eq. (3.12).
+
+­ δ [n ] °δ [n − 2] ° u[n ] = ® ° δ [n − 1] ° ¯ ...
+
+→ → LTI → System →
+
+h[n ] ½ h[n − 1] ° ° ¾ = s[n ] → h[n − 2]° → ... ° ¿ → →
+
+Figure 3.5 Multiple unit impulse inputs to an LTI system
+
+Example 3.2: Find the step response s[n] for a system described by y[n]=0.6y[n-1] +x[n]. Solution: From the difference equation, h[n]=0.6h[n-1]+δ[n], the samples of impulse response can be evaluated as h[0]=0+1=1 h[1]=0.6´1+0=0.6 h[2]=0.6´0.6+0=0.6´0.6 h[3]=0.6´0.6´0.6+0=0.6´0.6´0.6 ... The samples of step response are s[0]=h[0]=1 s[1]=h[0]+h[1]=1+0.6 s[2]=h[0]+h[1]+h[2]=1+0.6+0.6´0.6
+
+32
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis s[3]= h[0]+h[1]+h[2]+h[3]=1+0.6+0.6´0.6+0.6´0.6´0.6 s[∞]=1+0.6+0.6´0.6+0.6´0.6´0.6+… =
+
+Time-domain Analysis
+
+1 = 2.5 , 1 − 0.6
+
+where the following series summation formula is applied.
+
+1 + a + a 2 + a 3 + ... =
+
+1 1− a
+
+a <1
+
+(3.13)
+
+3.5	Convolution
+In order to derive the convolution formula based on clear understanding, a signal is expressed by impulse functions as following:
+
+, − ∞ < n < ∞ , using the rules of the signal shifting and scaling described Section 2.3, it is decomposed For a signal x[n]
+into a series of unit impulses scaled by the sample values:
+
+x[n] = ... + x[−2]d [n + 2] + x[−1]d [n + 1] + x[0]d [n] + x[1]d [n − 1] + x[2]d [n − 2] + ...
+or
+
+x[n] =
+
+∞ k =−
+
+∑ x[k ]d [n − k ] (3.14)
+
+∞
+
+The above expression can be illustrated as following. For example, a signal x[n] has 2 non-zero samples, which can be represented as a sum of shifted and scaled unit impulses x[1]d [n − 1] + x[2]d [n − 2] , as illustrated in Figure 3.6.
+
+X[n]
+
+X[1] d[n-1]
+
+X[2] d[n-2]
+
+= 0 1 2 0 1 2
+
++
+
+0
+
+1
+
+2
+
+Figure 3.6 A signal can be decomposed into simple sequences. (Except those non-zero samples, all other samples have zero values.)
+
+In general cases, assuming the system is causal, if the input x[n] is δ[n]: ... 0 0 1 0 0 ... ↑­ and ,the impulse response is
+
+33
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis h[n]: ... 0 0 0 h[0] h[1] h[2] ... ↑­ Then, the output y[n]is h[n]. On the other hand, if the input is x[0]d[n]: ... 0 x[0] 0 0	 Finally, if the input is x[n]: ... x[-1] x[0] x[1] x[2] ... ↑ ... The, the output y[n] is x[0]h[n]
+
+Time-domain Analysis
+
+Using the linearity again, the output y[n] will be a sum of all responses to individual shifted and scaled impulses as in Eq.(3.14), shown in Figure 3.7.
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+34
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis
+
+Time-domain Analysis
+
+­ ... °x[−1]δ[n +1] ° ° ° x[0]δ[n] x[n] = ® ° x[1]δ[n −1] ° x[2]δ[n − 2] ° ° ¯ ...
+i.e. the output of an LTI system will be
+
+→ → LTI System → →
+
+→ → → →
+
+½ x[−1]h[n +1]° ° x[0]h[n] ° ° ¾ = y[n] x[1]h[n −1] ° . ° x[2]h[n − 2] ° ... ° ¿ ...
+
+. Figure 3.7 Decomposed inputs generate decomposed outputs.
+
+y[n] = ... + x[−1]h[n + 1] + x[0]h[n] + x[1]h[n − 1] + x[2]h[n − 2] + ... (3.15)
+or 	
+
+y[n] =
+
+∞ k =−
+
+∑ x[k ] h[n − k ] (3.16)
+
+∞
+
+Eq. (3.15) or (3.16) is called the convolution sum or convolution, which describes how the input and impulse response are engaged to generate the output in an LTI system. For short, the convolution sum is also represented by
+
+y[n] = x[n] * h[n] (3.17)
+where ‘*’ represents the convolution operation. Explicitly, the samples of the response by the convolution are y[0]= ...+ x[-1] h[1]+ x[0] h[0]+ x[1] h[-1] + x[2] h[-2] + ... y[1]= ...+ x[-1] h[2]+ x[0] h[1]+ x[1] h[0] + x[2] h[-1] + ... y[2]= ...+ x[-1] h[3]+ x[0] h[2]+ x[1] h[1] + x[2] h[0] + ... …… Eq. (3.18) describes the way of calculating a convolution. For manually calculating the convolution, put x[n] in normal order and put h[n] in a flipped order. x[n] and h[n] are aligned with their origin. The output sample y[0] can be calculated by a sum of multiplications between corresponding samples. Shifting h’[n] right by one sample, y[1] can also be calculated by a sum of multiplications between new corresponding samples. The following is an example. Example 3.3 Obtain the output of a system using manual convolution: (3.18)
+
+n x[n] h[n]
+
+... ... ...
+
+-1 0 0
+
+0 4 0.5
+
+1 5 0.25
+
+2 6 0.125
+
+3 7 0.0625
+
+4 8 0.03125
+
+... ... …
+
+35
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Time-domain Analysis
+
+k x[n]
+
+-4 0
+
+-3 0
+
+-2 0
+
+-1 0
+
+0 4
+
+1 5
+
+2 6
+
+3 7
+
+4 8
+
+... ...
+
+h’[n] 0.03125
+
+0.0625
+
+0.125
+
+0.25
+
+0.5
+
+0
+
+0
+
+0
+
+0
+
+... y[0]
+
+0.03125
+
+0.0625
+
+0.125
+
+0.25
+
+0.5
+
+0
+
+0
+
+0
+
+…y[1]
+
+0.03125
+
+0.0625
+
+0.125
+
+0.25
+
+0.5
+
+0
+
+0
+
+…y[2]
+
+0.031
+
+0.062
+
+0.125
+
+0.25
+
+0.5
+
+0
+
+... y[3]
+
+°°° The convolution satisfies the exchange rule. From Eq. (3.16), let r=n-k, then k=n-r. When k runs from -∞ to ∞, r runs from ∞ to -∞:
+
+y[n] =
+
+r =− ∞
+
+∑ x[n − r ] h[r ]
+
+∞
+
+or
+
+y[ n ] =
+
+∞ k =−
+
+∑ h[k ]
+
+∞
+
+x[n − k ]
+
+i.e.
+
+y[n ] = h[n ] * x[n ]
+Therefore,
+
+y[n ] = x[n ] * h[n ] = x[n ] * h[n ] (3.19)
+i.e. there is no difference if x[n] and h[n] swap their places. Eq.(3.19) is applicable to any 2 signals
+
+x1 [n] and x 2 [n] :
+
+36
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Time-domain Analysis
+
+x1 [n] * x 2 [n] = x 2 [n] * x1 [n] (3.20)
+Example 3.4: A filter’s difference equation is y[n]-0.5 y[n-1]=0.5 x[n], where x[n]: ...0 0 4 5 6 7 8 9 10 ... ↑ a)	 Find the impulse response of the filter and to calculate samples of response y[0], y[1], ... , y[4]. b)	 Check y[n] can be found by the difference equation. Solution: a)	 From y[n]=0.5 y[n-1] + 0.5 x[n] we know h[n]=0.5 h[n-1]+ 0.5 d[n] Then, the impulse response can be evaluated h[0]= 0.5 ´ 1=0.5 h[1]= 0.5 ´ 0.5 =0.25 h[2]=0.5 ´ 0.25=0.125
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+37
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis Using the manual convolution method, y[0]=4 ×0.5=2 y[1]=4 ×0.25+5 ×0.5=3.5 y[2]=4 ×0.125+5 ×0.25+6 ×0.5=4.75 y[3]=4 ×0.0625+5 ×0.125+6 ×0.25+7 ×0.5=5.875 y[4]=4 ×0.03125+5×0.0625+6 ×0.125+7 ×0.25+7 ×0.5=6.9375 c)	 Direct calculation Causality is assumed in this case …, i.e. x[-2]=0, x[-1]=0. Therefore, it can be determined …, y[-2], y[-1]=0, using y[n]=0.5 y[n-1] + 0.5 x[n] y[-1]=0 y[0]=0.5×0+0.5×4=2 y[1]= 0.5×2+0.5×5=3.5 y[2]=0.5×3.5+0.5×6=4.75 y[3]=0.5×4.75+0.5×7=5.875 y[4]=0.5×5.875+0.5×8=6.9375
+
+Time-domain Analysis
+
+3.6	
+
+Graphically demonstrated convolution
+
+The following Figure 3.8 illustrates how the convolution between the input and impulse response is carried out. a) and b) are the unit impulse and impulse response, respectively. c) is the input 1 : x[-1]d[n+1]. The response is in d) : h[n+1]. e) and f) are the input 2 : x[0] ]d[n] and response 2 :x[0]h[n]. g) and h) are the input 3 : x[1] ]d[n-1] and response 3 : x[1]h[n-1]. i) is the total input x[n]=… x[-1]d[n+1]+ x[0] ]d[n]+ x[1] ]d[n-1]+… j) is the total response y[n]= … x[-1]h[n+1]+ x[0] ]h[n]+ x[1] ]h[n-1]+… i.e.
+
+y[n] =
+
+∞ k =−
+
+∑ x[k ] h[n − k ]
+
+∞
+
+.
+
+38
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Time-domain Analysis
+
+4 2 0 -2
+
+a) Unit impulse
+
+4 2 0 -2
+
+b) Impulse response
+
+0 4 2 0 -2 0 4 2 0 -2 0 4 2 0 -2 0 4 2 0 -2 0 n
+
+5 c) input 1
+
+10 4 2 0 -2
+
+0
+
+5
+
+10
+
+d) response 1
+
+5 e) input 2
+
+10 4 2 0 -2
+
+0
+
+5 f) response 2
+
+10
+
+5 g) input 3
+
+10 4 2 0 -2
+
+0
+
+5
+
+10
+
+h) response 3
+
+5
+
+10 4 2 0 -2
+
+0
+
+5
+
+10
+
+i) total input x[n]
+
+j) total response y[n]
+
+5
+
+10
+
+0
+
+n
+
+5
+
+10
+
+Figure 3.8 Graphic expression for digital convolution
+
+Problems
+Q3.1 Many systems can be described by a continuous form of first order differential equation:
+
+dy (t ) dx (t ) + ay (t ) = b + cx (t ) dt dt
+Derive the corresponding discrete form of difference equation if the sampling interval is T.
+
+39
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis Q3.2 A second order differential equation is:
+
+Time-domain Analysis
+
+dy 2 (t ) dy (t ) dx (t ) +2 + 3 y (t ) = + 4 x (t ) 2 dt dt dt
+Derive the corresponding discrete form of difference equation if the sampling interval is T. Q3.3 Draw a block diagram for the digital system described by the difference equation: a)	 b)	
+
+y[n] = 0.7 y[n − 1] + x[n] − 0.5 x[n − 1]
+y[n] = 0.35 y[n − 1] + 0.65 y[n − 2] + 2 x[n] − 0.55 x[n − 2] .
+
+Q3.4. Evaluate the impulse responses of the following filters upto n=6: a)	 b)	 c)	
+
+y[n] = 3 y[n − 1] + x[n] y[n] = 3 y[n − 1] + 2 x[n − 2] y[n] = 3 y[n − 1] + x[n] − 2 x[n − 1] + 3 x[n − 2]
+
+Q3.5 Assuming that a digital system described by the following difference equation is causal, evaluate the impulse response for the system from
+
+n = −∞
+
+up to
+
+n = 4.
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+40
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Introduction to Digital Signal and System Analysis
+
+Time-domain Analysis
+
+y[n] = 0.5 y[n − 1] + 0.25 y[n − 2] + x[n]
+Q3.6 For LTI digital systems, the output is the convolution between the input and the impulse response. Calculate the output
+
+y[n]
+
+by manual convolution up to n=5 for the given impulse responses and inputs:
+
+a)	 b)	 c)	
+
+h[n] = [2 ↑
+
+1 3 4 ...
+
+]	
+
+x[n] = [1 2 3 ...] x[n] = [2 − 1 0 ...] ↑ ↑
+
+h[n] = [4 3 2 1 0 ...] 	 ↑
+h[n] = (−0.5) n u[n]
+
+x[n] = [10, 10] ↑
+
+41
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Frequency Domain Analysis
+
+4	 Frequency Domain Analysis
+4.1	 Fourier series for periodic digital signals
+Consider a periodic digital signal x[n], n=0,1,2,...,N-1, where N is the number of sample values in each period. From Euler’s complex exponential equation:
+2π kn · § § 2π kn · § 2π kn · ¨− j ¸ = cos¨ ¨ ¸ − j sin¨ ¨ ¸ exp¨ ¸ ¸ ¸ N N © ¹ © ¹ © N ¹
+
+k=0,1,2,...,N-1
+
+
+
+(4.1)
+
+for each frequency k, Eq. (4.1) contains 2 sinusoidal functions in real and imaginary parts, respectively, with p/2 difference in phase. The frequencies of the functions are k=0,1,2,...,N-1. The fundamental sinusoidal function is when the frequency k=1. The other higher sinusoidal functions are called harmonics. The coefficients of Fourier Series for a digital signal can be calculated by
+
+ak =
+where
+
+1 N
+
+¦ x[n ] exp¨ ¨− j
+n =0
+
+N −1
+
+§ ©
+
+2π kn · ¸ N ¸ ¹
+
+k=1,2,…,N-1
+
+
+
+(4.2)
+
+a k is kth spectral coefficient, indicating the strength of the kth harmonic function. The original digital signal x[n]
+N −1 § 2π kn · x[n ] = ¦ a k exp¨ ¸. ¨j N ¸ k =0 ¹ ©
+
+can be represented by its constituent harmonics as the form of discrete Fourier series: (4.3)
+
+The following Figure 4.1 illustrates how many complex multiplications are required in calculating those coefficients and from
+
+ak
+
+a k to obtaining x[n] . It is basically N 2 in each occasion.
+
+42
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Frequency Domain Analysis
+
+Figure 4.1 Number of complex multiplications
+
+Example 4.1 A periodic signal x[ n] = [0 2 4 6] has the period N=4, its coefficients of Fourier series can be calculated by the formula
+
+AXA Global Graduate Program
+Find out more and apply
+
+43
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis
+
+Frequency Domain Analysis
+
+ak =
+
+1 3 2πkn · § 2n exp¨ − j ¸ ¦ 4 n =0 4 ¹ ©
+
+for 0 ≤ k ≤ 3
+
+Therefore,
+
+a0 =
+
+1 [0 + 2 × 1exp(0) + 2 × 2 exp(0) + 2 × 3 exp(0)] = 1 (0 + 2 + 4 + 6) = 3 4 4 ,
+
+a1 =
+
+1 2p  2p 2  2p 3     0 + 2 × 1 exp − j  + 2 × 2 exp − j  + 2 × 3 exp − j   4 4  4  4      1 = (0 + 2(− j ) + 4(−1) + 6( j ) ) 4 = −1 + j 1 2p 2  2p 2 × 2  2p 2 × 3     0 + 2 × 1 exp − j   + 2 × 3 exp − j  + 2 × 2 exp − j  4 4  4  4      1 = (0 + 2(−1) + 4(1) + 6(−1) ) 4 = −1 1 2p 3  2p 3 × 2  2p 3 × 3     0 + 2 × 1 exp − j   + 2 × 3 exp − j  + 2 × 2 exp − j  4 4  4  4     
+
+a2 =
+
+a3 = =
+
+1 (0 + 2( j ) + 4(−1) + 6(− j ) ) 4 = −1 − j
+The spectral coefficients are
+
+a k = [3, − 1 + j , − 1, − 1 − j ] , and the modulus is ak = [3, 1.4142, 1, 1.4142]
+.
+
+Figure 4.2 illustrates one period of the signal and its spectral coefficients.
+
+Example 4.2 A sine wave x[ n] = sin ¨ ¨
+
+§ 2π 4n · . With k=4 and N=64, the sine wave and its Fourier spectrum are shown ¸ ¸. 64 ¹ ©
+
+in the following Figure 4.3. It can be seen that the single sine wave gives a single spectral line at frequencies of 4 hz and 64-4=60 hz, or
+
+p
+8
+
+and 2π −
+
+π
+8
+
+=
+
+15π 8
+
+radians/sample.
+
+44
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Frequency Domain Analysis
+
+x = 2n 6
+
+4
+
+2
+
+0 0 0.5 1 1.5 n 2 2.5 3
+
+3
+
+Fourier Series
+
+2
+
+1
+
+0 0 0.5 1 1.5 k 2 2.5 3
+
+Figure 4.2 Spectral coefficients of Fourier series
+
+.
+x = s in(2*pi*4*n/64) 1.5 1 0.5 0 -0.5 -1 -1.5 0 10 20 30 40 tim e (s am ple) 50 60
+
+1 0.8 Fourier S eries 0.6 0.4 0.2 0 0 10 20 30 frequenc y 40 50 60
+
+Figure 4.3 Sine wave and its spectral coefficients of Fourier series
+
+45
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Frequency Domain Analysis
+
+4.2	
+
+Fourier transform for non-periodic signals
+
+The Fourier series introduced in previous section is only applicable to periodic signals. In general cases, the signal is not periodic, and the Fourier series formula Eq. (4.2) is not applicable. Therefore, a Fourier Transform for non-periodic signals must be introduced.
+
+Let frequency
+
+W=
+
+2p k N
+(rad/sample) changes continuously between 0 and 2p. This can be achieved by assuming N is
+
+big enough and the fundamental frequency
+
+W0 =
+
+2p
+
+N
+
+is very small. Define a Fourier transform as
+
+X (W) =
+where
+
+∞ n=−
+
+∑ x[n] exp(− jWn ) (4.4)
+
+∞
+
+X (W) is the Fourier spectrum, which is a continuous function, therefore, usual round brackets are used. It is also a periodic function with a period of 2p as sinusoidal functions are multiplied in the transform.
+Assuming N is big and using Eq.(4.3), the inverse Fourier transform can be defined:
+
+46
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis
+
+Frequency Domain Analysis
+
+N −1 n   2p k  x[n] = ∑ a k exp j N  k =0   N −1 1  k W 0 n) = ∑  X (kW 0 ) exp(− j  k =0  N N −1 W  k W 0 n) = ∑  0 X (kW 0 ) exp(− j  k = 0  2p
+
+=
+
+1 2p
+
+∑ X (kW
+k =0
+
+N −1
+
+0
+
+) exp(− j k W 0 n )W 0
+
+With N → ∞ ,
+
+W 0 → dW and kW 0 → W , the above inverse Fourier transform can be expressed as 1 2p x[n] = X (W) exp( jWn )dW (4.5) 2p ∫0
+
+Example 4.3 Find the Fourier transform for the unit impulse signal x[ n] = d [ n] . From the definition Eq.(4.4),
+
+X (W) =
+
+∞ n=−
+
+∑ d [n] exp(− jWn ) = 1
+
+∞
+
+If the unit impulse is shifted,
+
+x[n ] = d [n − 1] X (W) =
+n=− ∞
+
+∑ d [n − 1] exp(− jWn ) = exp(− jW )
+∠X (W) = −W
+.
+
+∞
+
+X (W) = 1,
+
+Example 4.4 Find the Fourier transform of the rectangle signal
+
+x[n] =
+
+1 {d [n − 2] + d [n − 1] + d [n] + d [n + 1] + d [n + 2]} 5
+
+X (W) = =
+∞
+
+∞ n=−
+
+∑ x[n] exp(− jWn )
+
+∞
+
+∞ n=−
+
+∑ 0.2{d [n − 2] + d [n − 1] + d [n] + d [n + 1] + d [n + 2]}exp(− jWn )
+
+i.e.
+
+47
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Frequency Domain Analysis
+
+X (W) = 0.2{exp(− j 2W ) + exp(− jW ) + 1 + exp( jW ) + exp( j 2W )} = 0.2{ 1 + 2 cos(2W ) + 2 cos(W )}
+It is a real function.
+
+X (W) = 0.2 1 + 2 cos(2W ) + 2 cos(W ) , ∠X (W) = 0 .
+
+Example 4.5 A signal is described by
+
+x[n] = 0.5d [n] + 0.5 2 d [n − 1] + 0.5 3 d [n] + ...
+Apply the Fourier transform
+
+X (W) =
+
+n=− ∞
+
+∑ x[n] exp(− jWn )
+
+∞
+
+= 0.5 + 0.25 exp(− jΩ ) + 0.125 exp(− j 2Ω ) + ... = 0.5¦ {0.5 exp(− jΩ )} =
+n n =0 ∞
+
+0. 5 1 − 0.5 exp(− jΩ )
+
+It is a complex function. The magnitude is
+
+X ( Ω) = = = =
+
+0.5 1 − 0.5 exp(− jΩ ) 0.5 + (0.5 sin Ω ) 0.5
+2 2 2 1/ 2
+
+{(1 − 0.5 cos Ω)
+
+}
+
+{1 − cos Ω + 0.25(cos Ω)
+0.5 {1.25 − cos Ω}1 / 2
+
++ 0.25(sin Ω )
+
+2 1/ 2
+
+}
+
+The phase:
+
+Φ X (W) = ∠(0.5) − ∠(1 − 0.5 exp(− jW )) = − tan −1 0.5 sin W 1 − 0.5 cos W
+
+48
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Frequency Domain Analysis
+
+4.3	
+
+Properties of Fourier transform
+
+The linearity is held by the Fourier transform, i.e.: If 	
+
+x1 [n ] ↔ X 1 (W ) and x2 [n ] ↔ X 2 (W )
+
+Then Ax1 [n ] + Bx 2 [n ] ↔ AX 1 (Ω ) + BX 2 (Ω ) where
+
+↔ denotes the pair between the Fourier transform and inverse Fourier transform.
+
+The time-shifting property is also held, i.e.: If	 Then	
+
+x [n ] ↔ X (W ) x[n − n0 ] ↔ X (W ) exp(− jWn0 )
+
+The Fourier transform of a convolution in time-domain is a product of Fourier transforms in the frequency domain, i.e.: If 	 Then	
+
+x1 [n ] ↔ X 1 (W ) and 		 x1 [n ] * x2 [n ] ↔ X 1 (W ) X 2 (W ) .
+
+x2 [n ] ↔ X 2 (W ) ,
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+49
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis The Fourier Transform properties and transform pairs are listed in Table 4.1.
+
+Frequency Domain Analysis
+
+4.4	
+
+Frequency response
+
+Consider digital LTI systems, take Fourier transform for the input, impulse response and output:
+
+X (W) =
+
+∞ n=−
+
+∑ x[n] exp(− jWn )
+∞
+
+∞
+
+,
+
+H (W) =
+
+∞ n=−
+
+∑ h[n] exp(− jWn )
+∞
+
+,
+
+Y (W) =
+
+n=− ∞
+
+∑ y[n] exp(− jWn )
+
+,
+
+Digital System Input Time domain x[n]
+↑ ↓ X (Ω )
+
+h[n] ↑ ↓ H (Ω )
+
+Output y[n] = x[n] * h[n]
+↑ ↓ Y (Ω ) = X (Ω )H (Ω )
+
+Frequency domain
+
+Figure 4.4 Input-output relationships in time and frequency domains
+
+where
+
+H (W ) is known as the frequency response, which describes the gain of a system at different frequencies and can
+
+be obtained by taking Fourier transform to the impulse response. The input-output relationship in the time and frequency domains, and the time-frequency relationships of the three quantities are shown in Figure 4.4. Using the convolution property of the Fourier transform, for the input-output relationship , apply the Fourier transform on both sides, it can be obtained
+
+y[ n ] =
+
+∞ k =−
+
+∑ h[k ]
+
+∞
+
+x[n − k ]
+
+Y (W) = H (W) X (W) (4.6)
+The frequency response can be obtained from the transforms of input and output:
+
+H (W) =
+
+Y (W) X (W) (4.7)
+
+50
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+Table 4.1: Fourier Transform Properties and Pairs
+
+Frequency Domain Analysis
+
+Signal x[n]
+ax[n] + by[n] x[n − n0 ] x[n] ∗ y[n] x[n] y[n]
+
+Fourier Transform X (Ω)
+aX (Ω) + bY (Ω) X (Ω) exp(− jΩn0 ) X (Ω)Y (Ω) X (Ω ) * Y (Ω )
+
+Property Linearity Time-shift Convolution Modulation
+
+δ [n] δ [n − n0 ]
+u[n]
+
+1 exp(− jΩn0 )
+∞
+
+(1 − exp(− jΩ) )−1 + ¦ πδ (Ω − 2πk )
+k = −∞
+
+a u[n]
+x[n] = 1 x[n] = 0
+
+n
+
+a <1
+n ≤m n >m
+
+(1 − a exp(− jΩ) )−1 sin{(m + 1 / 2 )Ω} sin (Ω / 2 )
+
+Example 4.6: Find the frequency response from the impulse responses: a)	 h[n]=0.2 {d[n-2]+ d[n-1]+ d[n]+ d[n+1]+ d[n+2]} Taking the Fourier transform, the frequency response is
+
+H (W ) =
+
+∞ n=−
+
+∑ h[n] exp(− jWn)
+
+∞
+
+= 0.2{exp(− j 2W) + exp(− jW) + 1 + exp( jW) + exp( j 2W) } = 0.2{1 + 2 cos W + 2 cos 2W}
+H (W) = 0.2 1 + 2 cos W + 2 cos 2W and the phase Φ H (W ) = 0 .
+
+51
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Frequency Domain Analysis
+
+0.4
+h[n]
+
+0.3 0.2 0.1 0 -6 1.5 1 0.5 0 -4 -2 0 n 2 4 6
+
+|H(W )|
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+2
+-p/2 ≤ Φ ≤ p/2
+
+1 0 -1 -2 0 1 2 3 0 ≤ W ≤ 2p 4 5 6
+
+Figure 4.5 Impulse response and frequency response in Example 4.6 (a)
+
+b)	 h[n]= 0.5d[n]+ 0.25d[n-1]+ 0.125d[n-2]+...
+
+H (Ω) =
+
+n = −∞
+
+¦h[n]exp(− jΩn) = 0.5 + 0.25exp(− jΩ) + 0.125exp(− j2Ω) + ...
+∞ n n =0
+
+∞
+
+= 0.5¦{0.5exp(− jΩ}
+i.e.
+
+H (W) =
+
+0.5 . 1 − 0.5 exp( − jW)
+
+The modulus and phase are shown in Figure 4.6.
+
+52
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Frequency Domain Analysis
+
+0.6 0.4
+
+h[n]
+
+0.2 0 0 2 4 6 8 10 12
+
+n
+
+1
+
+|H(W )|
+
+0.5 0
+
+0
+
+1
+
+2
+
+3 0 ≤ W ≤ 2p
+
+4
+
+5
+
+6
+
+-p/2 ≤ Φ ≤ p/2
+
+1 0 -1 0 1 2 3 0 ≤ W ≤ 2p 4 5 6
+
+Figure 4.6 Impulse response and frequency response in Example 4.6 (b)
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+53
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis In general cases, a system can be described by the difference equation
+
+Frequency Domain Analysis
+
+¦ ak y[n − k ] =¦ bk x[n − k ]
+k =0 k =0
+
+N
+
+M
+
+Take Fourier transform for both sides,
+
+¦ ak exp( − jkΩ)Y (Ω) =¦ bk exp( − jkΩ) X (Ω)
+k =0 k =0
+
+N
+
+M
+
+or
+
+Y (Ω)¦ a k exp(− jkΩ) = X (Ω)¦ bk exp(− jkΩ)
+k =0 k =0
+
+N
+
+M
+
+Therefore, the frequency response can be obtained by
+
+Y (W) H (W) = = X (W)
+
+∑b ∑a
+k =0 k =0 N
+
+M
+
+k
+
+exp( − j k W) exp( − j k W) (4.8)
+
+k
+
+Example 4.7: A digital high-pass filter is described by
+y[n]= - 0.8 y[n-1] + x[n]- x[n-1] Find the frequency response and sketch its magnitude and phase over the range 0<W<p. Solution: Re-arrange the difference equation as y[n] + 0.8 y[n-1] = x[n]- x[n-1] Take Fourier transform for both sides
+
+Y (W) + 0.8 exp(− jW)Y (W) = X (W) − exp(− jW) X (W)
+or
+
+(1 + 0.8 exp(− jW) Y (W) = (1 − exp(− jW) X (W)
+
+54
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis The frequency response is:
+
+Frequency Domain Analysis
+
+H (Ω) =
+
+1 − exp(− jΩ) 1 + 0.8 exp(− jΩ)
+
+or
+
+H (Ω ) =
+
+1 − cos Ω + j sin Ω 1 + 0.8 cos Ω − 0.8 j sin Ω
+
+Its magnitude is
+
+H (Ω ) =
+
+1 − exp(− jΩ ) 1 + 0.8 exp(− jΩ )
+
+=
+
+{(1 + 0.8 cos Ω)
+
+{(1 − cos Ω)
+
+2 2
+
++ (sin Ω )
+
+2 1/ 2 2 1/ 2
+
+}
+
++ (0.8 sin Ω )
+
+}
+
+­ 2 − 2 cos Ω ½ =® ¾ ¯1.64 + 1.6 cos Ω ¿
+
+1/ 2
+
+And the phase
+
+ sin W   − 0.8 sin W  Φ H (W) = arc tan  − arc tan   1 − cos W   1 + 0.8 cos W  . See Figure 4.7.
+
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+55
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis
+
+Frequency Domain Analysis
+
+12 10 8 6 4 2 0 0 0.5 1 1.5 2 2.5 3
+
+|H(W )| Phase
+
+2 1.5 1 0.5 0 0 0.5 1 1.5 0≤W ≤p 2 2.5 3
+
+Figure 4.7 Modulus and phase of frequency response
+
+4.5	
+
+Frequency correspondence when sampling rate is given
+
+Let x[n] be a signal discretized with a sampling rate of harmonic component with frequency transform is given by
+
+fs
+
+Hz, we are about to find the position of peak for a complex
+
+f0
+
+Hz
+
+ 2pf 0 exp j f s 
+
+ n  in the frequency Ω (rad/sample) domain. Its Fourier 
+
+X (W) = =
+i.e.
+
+n=− ∞
+
+∑
+
+∞
+
+ n  exp(− jWn ) n=− ∞    2pf 0      exp j − W n    f     s
+
+∑ exp j
+
+∞
+
+ 2pf 0  fs
+
+§ 2πf 0 X (Ω) = 2πδ ¨ ¨Ω − f s ©
+
+· ¸ ¸ ¹
+
+Therefore, the peak appears at the signal is
+
+W = 2p
+
+f0 . According to the Nyquist sampling theorem, the maximum frequency in fs fs / 2 = p (rad/sample). fs
+
+f 0 = f s / 2 , corresponding to W = 2p
+
+56
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis Note the following properties exist:
+
+Frequency Domain Analysis
+
+X (W + 2p ) =
+
+∞ n=−
+
+∑ x[n] exp(− jWn − j 2pn ) = X (W)
+
+∞
+
+, and
+
+X (p + W) = X (p − W)
+Therefore, with given sampling rate
+
+W = 2p
+or
+
+f fs
+
+f s (Hz), the correspondence between frequency W (rad/sample) and f
+
+(Hz) is
+
+(rad/sample)
+
+f =
+
+W f s (Hz) 2p
+
+Particularly, for one period in the frequency domain:
+
+W 0 →
+
+f 0
+
+p → fs / 2 2p → f s
+When sampling rate is given, the frequency correspondence between frequency 4.8.
+
+W
+
+and
+
+f
+
+domains is depicted in Figure
+
+57
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Frequency Domain Analysis
+
+|X(ȍ)|
+
+0 0
+
+Ω0
+
+ʌ
+
+2ʌ
+
+ȍ
+f
+
+f0
+One period
+
+fs / 2
+
+fs
+
+Figure 4.8 Frequency correspondence between frequencies in different units.
+
+Problems
+Q4.1 Find the frequency response from the impulse response h[n]= δ[n]+ 0.5δ[n-1]+ 0.25δ[n-2]+...
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+58
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis Q4.2 A digital system has the difference equation
+
+Frequency Domain Analysis
+
+y[n] = 0.5 y[n − 1] + y[n − 2] + x[n]
+Find the frequency response. Q4.3 A digital system has the frequency response:
+
+H (W) =
+
+exp( jW) exp( jW) + 0.8
+
+Sketch the magnitude of its frequency response
+
+H (W )
+
+over
+
+0<W<p
+
+.
+
+59
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Z Domain Analysis
+
+5	 Z Domain Analysis
+5.1	 z-transform and inverse z-transform
+In the previous chapters, time domain and frequency domain analysis have been introduced. In each of those domains
+different insights of digital signals are revealed. It is useful to introduce another domain: the z domain. A digital time signal can be transferred into z domain by the z-transform. The z-transform is defined as
+
+X ( z ) = ∑ x[n ]z −n
+n =0
+
+∞
+
+(5.1)
+
+where z is a complex variable. The transform defined by Eq. (5.1) is a unilateral transform as defined on one side of the axis 0 ≤ n < ∞ . In the transform, each sample
+
+x[n] is multiplied by the complex variable z − n , i.e.
+
+x[0] x[1] x[2] x[3] ... z0 ↑
+There is advantage in this unilateral transform definition as it can avoid mathematical inconvenience. One can shift the signal of interest to obtain a required origin in its analysis, thus usually causing no trouble in applications. The inverse z-transform can be found by
+
+z −1
+
+z −2
+
+z −3
+
+...
+
+x[n ] =
+
+1 2π
+
+X ( z) z j³
+
+n −1
+
+dz
+
+
+(5.2)
+
+It involves contour integration, and further discussion is beyond the scope of this basic content. However, an alternative approach is available using partial fractions together with z-transform formulas of basic functions. Table 5.1 lists the basic properties of the z transform and Table 5.2 lists some basic z- transform pairs.
+
+Example 5.1 Find the z transform for a signal and reconstruct a signal from its z-transform.
+a)	 x[n]=[ 1
+
+0.8 0.82
+
+0.83 ... ] is shown in Figure 5.1(a), find the z-transform.
+
+↑ Using the definition Eq.(5.1),
+
+60
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Z Domain Analysis
+
+X ( z ) = ∑ x[n]z − n = 1 + 0.8 z −1 +0.8 2 z − 2 + 0.8 3 z −3 + ...
+n =0
+
+∞
+
+= 1 + 0.8 z −1 + 0.8 z −1 + 0.8 z −1 1 z = = −1 z − 0.8 1 − 0.8 z
+
+(
+
+) (
+2
+
+)
+
+3
+
++ ...
+
+b)	 Reconstruct the signal corresponding to the z-transform: X ( z )
+
+=
+
+1 z + 1.2
+
+X ( z) =
+
+Using the series summation formula in Eq.(3.13) (where 1.2 z
+
+  1 z −1 1 = = z −1  −1 − 1  1 − (1.2 z )   z + 1.2 1 + 1.2 z  
+
+−1
+
+< 1 is required.),
+
+X ( z) = z −1 1+ (−1.2z −1 ) + (−1.2z −1 ) 2 + (−1.2z −1 ) 3 + ... = z −1.2z _ 1.44z −1.728z + ...
+−1 −2 −3 −4
+
+{
+
+}
+
+Therefore, the reconstructed original signal can be obtained as x[n]=[0 1 -1.2 1.44 -1.728 ... ].
+
+↑­
+The signal is shown in Figure 5.1(b).
+(a) 1
+
+x[n]
+
+0.5
+
+0 -2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+n (b)
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+5
+
+x[n]
+
+0 -5 -2 -1 0 1 2 3 4 5 6 7 8 9
+
+n
+
+Figure 5.1 Signals in the examples
+
+61
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Z Domain Analysis
+
+5.2	
+Let
+
+Relationship between z-transform and Fourier transform
+
+z = exp( jW) , i.e. the complex variable z is only allowed on the unit circle, the z-transform becomes a unilateral
+
+Fourier transform
+
+X (W) = ∑ x[n ] exp(− jWn )
+n =0
+
+∞
+
+Obviously, apart from on the unit circle, the complex operator z can be specified into other curves or region, if necessary. Later, it will be shown the unit circle is important boundary on the z-domain.
+
+5.3	
+impulse,
+
+Z as time shift operator
+z −1 , is to cause a time delay. For the unit
+
+Multiplying by z implies a time advance and dividing by z, or multiplying by
+
+X ( z ) = ∑ d [n ]z −n = z −n
+n =0
+
+∞
+
+n =0
+
+=1
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+62
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis For the delayed unit impulse,
+
+Z Domain Analysis
+
+X ( z ) = ∑ d [n − 1]z − n = z − n
+n =0
+
+∞
+
+n =1
+
+= z −1 n0 samples, = z − n0
+
+For more general cases of shifting by
+
+X ( z ) = ∑ d [n − n0 ]z − n = z − n
+n =0
+
+∞
+
+n = n0
+
+For shifted signal x[n], i.e. delayed by
+
+n0 samples, the z-transform
+
+∑ x [n − n
+n =0
+
+∞
+
+0
+
+] u[n − n0 ]z − n = X ( z ) z − n0
+
+5.4	
+
+Transfer function
+
+The transfer function describes the input-output relationship, or the transmissibility between input and output, in the z-domain. Applying the z-transform to the output of a system, the relationship between the z-transforms of input and output can be found:
+
+Y ( z ) = ∑ y[n]z − n = ∑
+n =0 n =0
+
+∞
+
+∞
+
+r =− ∞
+
+∑ x[r ]h[n − r ]z
+
+∞
+
+−n
+
+= =
+
+r =− ∞ ∞
+
+∑ x(r )z ∑
+−r n =0 ∞
+
+∞
+
+∞
+
+h[n − r ]z −( n − r ) h[m]z − m = X ( z ) H ( z )
+
+r =− ∞
+
+∑ x(r )z ∑
+−r
+
+m=− r
+
+Therefore,
+
+H ( z) =
+
+Y ( z) X ( z ) (5.3)
+
+i.e., the transfer function can be obtained from the z-transforms of input and output. Alternatively, the transfer function
+
+H ( z ) can be obtained by applying z-transform directly to the impulse response h[n] X ( z ) ), output ( y[n] and Y ( z ) ) and system function ( h[n] and H ( z ) ) in
+
+. The relationships of input ( x[ n] and
+
+the time and z domains are depicted in Figure 5.2.
+
+63
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Z Domain Analysis
+
+Digital System Input Time domain x[n] ↑ ↓ z-domain X ( z ) Output y[n] = x[n] * h[n] ↑ ↓ Y ( z ) = X ( z )H ( z )
+
+h[n] ↑ ↓ H (z )
+
+Figure 5.2 Input-output relationship in time and z domains Figure 5.2 Input-output relationship in time and z domains
+Instead of using Eq.(5.2), the inverse z-transform can be made through partial fractions. The following are examples. Example 5.2 A signal has a z-transform X ( z ) = z ( z − 1)( 2 z − 1) , , find the corresponding original signal The z-transform can be represented by partial fractions as
+
+1
+
+x[n] .
+
+X ( z) =
+
+1 A B C = + + z ( z − 1)( 2 z − 1) z z − 1 2 z − 1
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+64
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis where A, B, C are constants, which can be determined by the following steps.
+
+Z Domain Analysis
+
+A B C + + z z −1 2z − 1 A( z − 1)(2 z − 1) + Bz (2 z − 1) + Cz ( z − 1) = z ( z − 1)(2 z − 1) X ( z) =
+A(2 z 2 − 3 z + 1) + B (2 z 2 − z ) + C ( z 2 − z ) = z ( z − 1)(2 z − 1) = (2 A + 2 B + C ) z 2 + ( −3 A − B − C ) z + A z ( z − 1)(2 z − 1)
+
+i.e.
+
+1 ( 2 A + 2 B + C ) z 2 + ( −3 A − B − C ) z + A = z ( z − 1)( 2 z − 1) z ( z − 1)( 2 z − 1)
+The numerator of the left hand side is forced to equal to the right hand side, yielding the following simultaneous equations:
+
+2 A + 2 B + C = 0   3A + B + C = 0  A=1 
+Solving the equations, the constants can be found as A=1, B=1, C=-4. Therefore,
+
+X ( z) =
+
+1 1 4 z 2z   + − = z −1 1 + +  z z − 1 2z − 1  z − 1 z − 0.5  .
+
+According to basic z-transform pair formulas in Table 5.2,
+
+1  d [n ]
+
+z 2z z −1 z − 0.5   u[n ] 2(0.5) n u[n ] z −1 , the signal in time domain can be obtained as
+
+Combining the time-shift factor
+
+x[n ] = d [n − 1] + u[n − 1] − 2(0.5) n −1 u[n − 1] .
+
+65
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis At the values of n this is 	… I	 x[0]=0 	x[1]=0 	x[2]=0 	x[3]=0.5 	x[4]=0.75 	x[5]=0.875
+
+Z Domain Analysis
+
+	...
+There is an alternative way of finding the coefficients for the partial fractions. For the above example,
+
+X ( z) =
+
+1 A B C = + + z ( z − 1)(2 z − 1) z z − 1 2 z − 1
+
+A, B and C can be found by the following operations
+
+A= z
+
+1 z ( z − 1)(2 z − 1)
+
+=1
+z =0
+
+B = ( z − 1)
+
+1 z ( z − 1)(2 z − 1)
+
+=1
+z =1
+
+C = (2 z − 1)
+
+1 z ( z − 1)(2 z − 1)
+
+= −4
+z =1 / 2
+
+Therefore,
+
+X ( z) =
+
+1 1 1 4 = + − . z ( z − 1)( 2 z − 1) z z − 1 2 z − 1 .
+
+Thus, the signal can be found in the same way:
+
+x[n ] = d [n − 1] + u[n − 1] − 2(0.5) n −1 u[n − 1]
+Table 5.1 Z-transform definition and properties
+
+66
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Z Domain Analysis
+
+Definition or property z-transform definition Inverse z-transform Linearity Time-shifting property Convolution
+
+Signal x[n]
+
+z-transform X ( z ) = ¦ x[n ]z −n
+n =0 ∞
+
+x[n ] =
+
+2π j ³
+
+1
+
+X ( z ) z n −1dz
+
+X ( z)
+
+ax1[n ] + bx2 [n ]
+x [n − n0 ]u[n − n0 ] x[n] * y[n]
+
+aX 1 ( z ) + bX 2 ( z )
+X ( z ) z − n0
+
+X ( z )Y ( z )
+
+5.5	
+
+Z-plane, poles and zeros
+
+For the z-transform of a digital signal or a transfer function of an LTI system, generally it can be expressed as factorised form for both the numerator and denominator:
+
+X ( z) =
+where
+
+N ( z ) K ( z − z1 )( z − z 2 )( z − z3 )... = D( z ) ( z − p1 )( z − p2 )( z − p3 )... (5.4)
+
+z1 , z 2 , z3 ... are called the zeros as which make X(z) =0; and p1 , p2 , p3 , ... are the poles as which make X(z) ® ¥.
+
+Zeros and poles are either a real number or complex conjugate pairs.
+
+The stuff you'll need to make a good living
+
+STUDY. PLAY.
+
+The stuff that makes life worth living
+
+NORWAY. YOUR IDEAL STUDY DESTINATION.
+WWW.STUDYINNORWAY.NO FACEBOOK.COM/STUDYINNORWAY
+
+67
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis
+
+Z Domain Analysis
+
+The z-plane is a complex plane in which the zeros and poles of a z-transform are plotted, which is used to visualise the properties of a signal or a system. The positions of the poles and zeros on a z-plane determine the frequency properties and degree of stability. On the other hand, in designing a digital system, the poles and zeros can be chosen to put in appropriate locations for achieving certain required performance.
+
+z-plane imaginary
+
+real
+
+Figure 5.3 z-plane
+
+5.3 z-plane Example 5.3: From the z -transform pair table, we Figure know the unit step pair as
+
+u[n ] ↔
+
+z z −1 X ( z ) z =0 = 0 and one pole z =1 as X ( z ) z =1 → ∞ , shown
+
+The z-transform of the unit step has one zero at origin as
+
+in Figure 5.3 in which the pole is represented by a cross and the zero is represented by a circle. Example 5.4: Find zeros and poles for a z-transform
+
+X ( z) =
+
+z 2 ( z − 1.2)( z + 1) . ( z − 0.5 + j 0.7)( z − 0.5 − j 0.7)( z − 0.8)
+
+.
+
+Re-write it as
+
+X ( z) =
+
+( z − 0)( z − 0)( z − 1.2)( z − ( −1)) {z − (0.5 − j0.7)}{z − (0.5 + j0.7)}( z − 0.8)
+
+It can be obtained: 4 zeros: 0,0, 1.2, -1; and 3 poles: (0.5-j0.7), (0.5+j0.7), 0.8.
+
+68
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis They are plotted in Figure 5.4.
+Table 5.2 z-Transform pairs
+
+Z Domain Analysis
+
+Signal x[n]
+
+Z-Transform X ( z ) 1 z z −1 z
+
+δ [ n]
+u[n]
+
+r[ n ] a n u[n]
+
+(z − 1)2
+z z−a z (1 − a ) ( z − a )( z − 1)
+
+(1 − a )u[n]
+n
+
+cos(nΩ 0 )u[n] sin (nΩ 0 )u[n] a n sin (nΩ 0 )u[n]
+
+z ( z − cos Ω 0 ) z − 2 z cos Ω 0 + 1
+2
+
+z sin Ω 0 z − 2 z cos Ω 0 + 1
+2
+
+az sin Ω 0 z − 2az cos Ω 0 + a 2
+2
+
+z-plane 1 0.8 0.6 0.4 0.2 0 -0.2 -0.4 -0.6 -0.8 -1 -1 -0.5 0 0.5 1 1.5
+
+(a)
+
+Figure 5.4 Zeros and poles of the signal
+
+69
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis Example 5.5. Find the zeros and poles for a z-transformX ( z ) Note
+
+Z Domain Analysis
+
+= ( z 5 − 1)( z 2 + 1)
+
+z 5 − 1 = 0 has 5 complex roots.
+
+Since the rule for calculating roots for complex numbers is
+
+(exp( jq ) )1 / n = exp( j q + 2kp
+n
+Therefore, the 5 roots are
+
+)
+
+k = 0,1,..., n − 1
+
+(1)1 / 5 = (exp( j 0) )
+
+1/ 5
+
+= exp( j
+
+2 kp ) 5 1, exp( j
+
+k = 0,1,...,4 2p 4p 6p 8p ) , exp( j ) , exp( j ) , exp( j ) , j,-j 5 5 5 5
+
+In the z-transform, there are 7 zeros:
+
+There is no pole in this case as denominator is 1. See Figure 5.5.
+
+I joined MITAS because I wanted real responsibili� I joined MITAS because I wanted real responsibili�
+
+Maersk.com/Mitas www.discovermitas.com
+
+�e Graduate Programme for Engineers and Geoscientists
+
+� for Engin
+
+M
+
+Real work International Internationa al opportunities �ree wo work or placements
+
+Month 16 I was a construction M supervisor ina cons I was the North Sea supe advising and the N he helping foremen advis s solve problems Real work he helping International Internationa al opportunities �ree wo work or placements s solve p
+Click on the ad to read more
+
+70
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Z Domain Analysis
+
+z-plane 1 0.8 0.6 0.4 0.2 0 -0.2 -0.4 -0.6 -0.8 -1 -1 -0.5 0 (b) 0.5 1
+
+Figure 5.5 Zeros of the z transform
+
+5.6	
+
+Stability of a system
+
+The term stability indicates the self-recovery capability of a system after disturbance is applied. If the impulse response decays with the time, the system has the capability of returning it original calm status. Therefore, the stability can be judged by whether the impulse response of the system decays to zero as location of poles gives information about the stability of a system. Consider a simple transfer function with one pole
+
+n → ∞ . The following will be shown that the
+
+z =α :
+
+H ( z) =
+where
+
+Y ( z) 1 = (5.5) X ( z) z − α
+is a real constant. From the above,
+
+α
+
+zY ( z ) − αY ( z ) = X ( z )
+
+Y ( z ) − αz −1Y ( z ) = z −1 X ( z )
+Apply the inverse z-transform to both sides, yielding the difference equation
+
+y[n ] = αy[n − 1] + x[n − 1] (5.6)
+and by specifying an input as a unit impulse it can be known,
+
+h[n ] = αh[n − 1] + d [n − 1] (5.7)
+The impulse response function can be evaluated as
+
+71
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Z Domain Analysis
+
+h[n ] = 0,1, α , α 2 , α 3 , α 4 ... (5.8)
+If the impulse response decays with time then the system will return to its initial state before disturbance. Therefore the stability requires
+
+α < 1 in Eq.(5.8) as when n → ∞
+
+makes
+
+h[∞] → 0 . i.e. in the z-plane, the real pole z = α must
+
+lie on the real axis and inside the unit circle. Consider a transfer function with conjugate imaginary poles:
+
+H ( z) =
+
+Y ( z) 1 = X ( z ) (z − jα )(z + jα ) (5.9)
+
+Rearranging,
+
+z 2Y ( z ) + α 2Y ( z ) = X ( z )
+Or
+
+Y ( z ) + α 2 z −2Y ( z ) = z −2 X ( z )
+Taking the inverse z-transform of both sides yields the difference equation
+
+y[n] + α 2 y[n − 2] = x[n − 2]
+or
+
+y[n ] = −α 2 y[n − 2] + x[n − 2] (5.10)
+From the above we use
+
+h[n ] = −α 2 h[n − 2] + d [n − 2] to evaluate its impulse response, it can be obtained as
+
+h[n ] = 0,0,1,0,−α 2 ,0, α 4 ,0,−α 6 ,0, α 8 ,... (5.11)
+It is clear that the stability condition also requires
+
+α < 1 , in order to achieve that when n → ∞ , h[∞] → 0 .
+
+In the case of expression in polar co-ordinates, consider a conjugate pole pair,
+
+H ( z) =
+
+Y ( z) 1 1 = = 2 X ( z ) ( z − r exp( jθ ) )( z − r exp(− jθ ) ) z − 2rz cos θ + r 2
+
+(5.12)
+
+where r is the radius, q is the angle on the complex plane. The difference equation can be obtained in the same way as
+
+72
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Z Domain Analysis
+
+y[n] = 2r cos q y[n − 1] − r 2 y[n − 2] + x[n − 2] or h[n] = 2r cos q h[n − 1] − r 2 h[n − 2] + d [n − 2]
+
+.
+
+By evaluating the impulse response, assuming the system is causal, i.e.
+
+h[n] = 0 when n < 0
+
+h[0] = 0, h[1] = 0, h[2] = 1, h[3] = 2r cos q , h[4] = (2r cos q ) − r 2
+2
+
+h[5] = 2r cos q (2r cos q ) − r 2 − r 2 2r cos q = 2r cos q (2r cos q ) − r 2 − r 2 ...
+2 2
+
+(
+
+)
+
+((
+
+)
+
+)
+
+It can be found that the stable condition is he modulus |r|<1, i.e. the poles are required inside the unit circle. Example 5.6: The transfer function of a digital system is given by
+
+Need help with your dissertation?
+Get in-depth feedback & advice from experts in your topic area. Find out what you can do to improve the quality of your dissertation!
+
+Get Help Now
+
+Go to www.helpmyassignment.co.uk for more info
+
+73
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis
+
+Z Domain Analysis
+
+H (z) =
+
+z 2 ( z − 1)( z 2 + 1) , ( z + 0.8)( z 2 − 1.38593z + 0.9604)( z 2 + 1.64545z + 0.9025) , find the zeros and poles.
+
+Re-writing in polar form as:
+
+§ π· § π· z 2 ( z − 1)(z − exp¨ j ¸ j)(z − exp¨ − j ¸) © 2¹ © 2¹ H ( z) = § § π · ·§ § π · ·§ § 5 · ·§ § 5 ·· ( z + 0.8)¨ ¸¨ ¸¨ ¸¨ ¸ ¨ z − 0.98 exp¨ j 4 ¸ ¸ ¨ z − 0.98 exp¨ − j 4 ¸ ¸ ¨ z − 0.95 exp¨ j 6 π ¸ ¸ ¨ z − 0.95 exp¨ − j 6 π ¸ ¸ © ¹ ¹© © ¹ ¹© © ¹ ¹© © ¹¹ ©
+
+The zeros and poles are easily to be found and described as:
+§ π· § 5 · p 5 zeros: 0, 0 ,1, exp  ± j  , and 5 poles: − 0.8, 0.98 exp¨ ± j ¸, 0.95 exp¨ ± j π ¸ . .
+ 2
+
+©
+
+4¹
+
+©
+
+6 ¹
+
+Any zeros or poles at the origin only produce a time advance or delay. A minimum-delay system requires: The number of poles = the number of zeros If zeros are more than poles, a system becomes non-causal. Some poles are needed to be added to change into causal. Example 5.7: If a transfer function H ( z ) = It can be found
+
+1 z −2 = ,, z 2 − 2rz cos θ + r 2 1 − 2rz −1 cos θ + r 2 z − 2
+
+y[n ] = 2r cos q y[n − 1] − r 2 y[n − 2] + x[n − 2] .
+or
+
+h[n] = 2r cos q h[n − 1] − r 2 h[n − 2] + d [n − 2]
+Assuming the system is causal,
+
+h[n] = 0 when n < 0
+
+h[0] = 2r cos q h[−1] − r 2 h[−2] + d [−2] = 0 h[1] = 2r cos q h[0] − r 2 h[−1] + d [−1] = 0.
+i.e., from the impulse response it can be seen that in the system, there is time delay of 2 samples. However, alternatively, if the z-transform is given by
+
+H ( z) =
+
+z2 = z 2 − 2r z cos q + r 2 1 − 2r z
+
+−1
+
+1 cos q + r 2 z − 2 ,
+
+74
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Z Domain Analysis
+
+y[n ] = 2r cos q y[n − 1] − r 2 y[n − 2] + x[n ]
+By evaluating the impulse response, it can be known that when the numbers of poles and zeros are equal, there is no longer a time delay.
+
+5.7	
+
+Evaluation of the Fourier transform in the z-plane
+z = 1 keeps on the unit circle and takes values on the z − 0.8 , z + 0.8
+
+Let z = exp(jW), i.e. as the phase angle W varies, but its modulus
+
+circle. From this viewpoint, the Fourier transform is a special z-transform. Example 5.8 A z-transform function	 Its frequency response is	 is given by
+
+H ( z) =
+
+H (W) =
+
+exp( jW ) − 0.8 exp( jW ) + 0.8
+2 2
+
+The magnitude	 Therefore,
+
+{(cos W − 0.8) H (W) = {(cos W + 0.8)
+
++ (sin W )
+
+} + (sin W ) }
+
+2 1/ 2 2 1/ 2
+
+H (0) = H ( 2p ) =
+
+1 − 0.8 = 0.1.1111 1 + 0.8
+
+and
+
+H (p ) =
+
+− 1 − 0.8 = 9.0 − 1 + 0.8
+
+Graphically, referring to the following Figure 5.6 (b), let
+
+z1 = exp( jW) − 0.8 p1 = exp( jW) + 0.8 H (W 1 ) = z1 reaches the minimum at W1 = 0 , and reaches the maximum at W1 = p p1
+
+it can be seen that the quotient
+
+. This has explained the frequency selective property of a high pass.
+
+75
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Z Domain Analysis
+
+10 9 8 7 6 1.5 1 0.5 0 -0.5 -1 -1.5 -1 0 1 p1 z-plane z=exp(jW ) z1
+
+|H(W )|
+
+5 4 3 2 1 0 0 2 4 0 ≤ W ≤ 2p 6
+
+W =p
+
+W1
+
+W =0
+
+z 2 ( z − 1.2)( z + 1) Example 5.9: For the transfer function H ( z ) = , , let z = exp( jW ) , the ( z − 0.5 + j 0.7)( z − 0.5 − j 0.7)( z − 0.8) frequency response is
+
+Figure 5.6 The modulus of frequency response and the illustration of its
+
+value as a function of frequency Ω.
+
+76
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis
+
+Z Domain Analysis
+
+H ( W) =
+
+(exp( jW) − 0)(exp( jW) − 0)(exp( jW) − 1.2)(exp( jW) − (−1) {exp( jW) − (0.5 − j 0.7)}{exp( jW) − (0.5 + j 0.7)}(exp( jW) − 0.8)
+
+The modulus is
+H ( jW ) = (exp( jW) − 1.2)(exp( jW) − (−1)
+
+{exp( jW) − (0.5 − j 0.7)}{exp( jW) − (0.5 + j 0.7)}(exp( jW) − 0.8)
+
+.
+
+The modulus is shown in Figure 5.8. Poles or zeros at the origin do not affect
+
+the values of modulus.
+
+12
+
+10
+
+8
+
+|H(W )|
+
+6
+
+4
+
+2
+
+0
+
+0
+
+1
+
+2
+
+3 0 ≤ W ≤ 2p
+
+4
+
+5
+
+6
+
+Figure 5.8 Modulus of frequency response
+
+5.8	
+
+Characteristics of 1st and 2nd order systems
+
+Digital systems can be classified into first, second and higher order systems according to the number of poles. The same number of zeros is normally chosen to minimise the system delay. First-order	
+
+H1 ( z) = H 2 ( z) = H ( z) =
+
+z − z1 (5.13) z − p1
+
+Second-order	 Higher-order	
+
+(z − z2 )(z − z3 ) (z − p2 )(z − p3 ) (5.14)
+
+(z − z1 )(z − z2 )(z − z3 )(z − z4 )... (5.15) (z − p1 )(z − p2 )(z − p3 )(z − p4 )...
+
+A higher-order system can be built up by cascading first and second-order subsystems. The frequency selective properties can be controlled by choosing appropriate pole and zero locations.
+
+77
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Z Domain Analysis
+
+For poles, those close to the unit-circle can produce sharp peaks in the frequency response. Therefore, high gain can be achieved by placing the poles close to the unit circle. Equal number of zeros and poles are normally placed to ensure no system delay or causing non-causality, i.e. the impulse response begins at n=0. Consider the first order system with a zero the origin The first-order system	 Its frequency response 	
+
+H1 ( z) =
+
+z z −α exp( jW) H 1 (W) = exp( jW) − α becomes the
+
+To achieve low-pass, adopting 0 < α < 1 , i.e. the pole is on the positive axis. The denominator 1 − α smallest, and the maximum gain value is
+
+Gmax =
+
+exp(0) 1 = exp(0) − α 1 − α
+is
+
+and the minimum gain	
+
+Gmin =
+
+exp( jp ) 1 = exp( jp ) − α 1 + α
+
+To achieve a high-pass, adopting − 1 < α < 0 , i.e. the pole is on negative axis, the denominator 1 + α becomes the biggest, and the maximum gain at peak value is
+
+Gmax =
+
+exp( jp ) 1 = exp( jp ) − α 1 + α ,
+
+and the minimum gain is
+
+Gmin =
+
+exp(0) 1 = exp(0) − α 1 − α
+is close to 1, the peak gain gets high, the bandwidth gets more narrow, and the impulse response decays more
+
+When
+
+α
+
+slowly. The following figures illustrate the above low and high pass filters.
+
+78
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Z Domain Analysis
+
+Low pass 0 < α < 1 1 0 -1 0 n 5 10 1 0 -1
+
+High pass -1 < α < 0
+
+0
+
+n
+
+5
+
+10
+
+|H(W )|
+
+0
+
+|H(W )|
+3
+
+5
+
+5
+
+0
+
+-pi/2 ≤ phase ≤ p/2
+
+1 0 -1 0 2 1 0 ≤ W ≤ 2p 3
+
+-pi/2 ≤ phase ≤ p/2
+
+2 1 0 ≤ W ≤ 2p
+
+0
+
+0
+
+2 1 0 ≤ W ≤ 2p
+
+3
+
+1 0 -1 0 2 1 0 ≤ W ≤ 2p 3
+
+1.5 1 0.5 0 -0.5 -1 -1.5 -1
+
+z-plane
+
+1.5 1 0.5
+
+z-plane
+
+α W =p W =0
+
+0 -0.5 -1
+
+α W =p W =0
+
+0 Low pass
+
+1
+
+-1.5
+
+-1
+
+0 High pass
+
+1
+
+Figure 5.9 The frequency response, poles and zeros of low and high pass filters
+
+For a second-order system, the transfer function in polar form is
+
+H 2 ( z) =
+
+z2 z2 = 2 (z − r exp( jq )(z − r exp(− jq ) ) z − 2r z cos q + r 2
+
+Its frequency response is
+
+79
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Z Domain Analysis
+
+H 2 (W) =
+
+exp( j 2W) 1 = 2 exp( j 2W) − 2r cos q exp( jW) + r 1 − 2r cos q exp(− jW) + r 2 exp(− j 2W)
+
+The gain is
+
+H 2 (W ) =
+
+{(1 − 2r cos q cos W + r
+
+2
+
+cos 2W + 2r cos q sin W − r 2 sin 2W
+
+) (
+2
+
+1
+
+)}
+
+2 1/ 2
+
+The peak gain occurs at W = ±q :
+
+G max = H 2 (q ) =
+
+{(1 − 2r cos q + r
+2
+
+2
+
+cos 2q
+
+) + (2r cos q sin q − r
+2
+
+1
+
+2
+
+sin 2ϑ
+
+)}
+
+2 1/ 2
+
+Brain power
+
+By 2020, wind could provide one-tenth of our planet’s electricity needs. Already today, SKF’s innovative knowhow is crucial to running a large proportion of the world’s wind turbines. Up to 25 % of the generating costs relate to maintenance. These can be reduced dramatically thanks to our systems for on-line condition monitoring and automatic lubrication. We help make it more economical to create cleaner, cheaper energy out of thin air. By sharing our experience, expertise, and creativity, industries can boost performance beyond expectations. Therefore we need the best employees who can meet this challenge!
+
+The Power of Knowledge Engineering
+
+Plug into The Power of Knowledge Engineering. Visit us at www.skf.com/knowledge
+
+80
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis
+
+Z Domain Analysis
+
+exp(jΩ) p1
+
+p2
+
+Figure 5.10 Poles of the 2nd order system
+
+Figure 5.11 Modulus of 2nd order system
+
+An example of a higher order transfer function is
+
+H ( z) =
+
+( z + 1) z 2 − z + 1 . z z 2 + 0.9 z + 0.81
+
+(
+
+(
+
+)
+
+)
+
+.
+
+Let
+
+z = exp( jW) , the frequency rejections are at W = ± , p
+3
+
+p
+
+and frequency passes are at
+
+W=±
+
+and zeros, and the frequency response are shown in Figure 5.12.
+
+2p 3
+
+. The poles
+
+81
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Z Domain Analysis
+
+z-plane 1 0.8 0.6 0.4 0.2 0 -0.2 -0.4 -0.6 -0.8 -1 -1 -0.5 0 zeros and poles 0.5 1
+
+15 10 5 0
+
+|H(W )|
+
+0
+
+1
+
+2
+
+3 0 ≤ W ≤ 2p
+
+4
+
+5
+
+6
+
+2
+
+-p ≤ Φ ≤ p
+
+0 -2 0 1 2 3 0 ≤ W ≤ 2p 4 5 6
+
+Figure 5.12 Zeros, poles, and frequency response
+
+A more general expression for 2nd order systems, in which there are two zeros and two poles, is given by its transfer function
+
+H ( z) =
+
+(z − r1 exp( jq1 )(z − r1 exp(− jq1 ) ) = z 2 − 2r1 z cos q1 + r12 (z − r2 exp( jq 2 )(z − r2 exp(− jq 2 ) ) z 2 − 2r2 z cos q 2 + r2 2
+
+82
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis The frequency response is given by
+
+Z Domain Analysis
+
+H (W) =
+
+exp( j 2W) − 2r1 cos q1 exp( jW) + r1 2 exp( j 2W) − 2r2 cos q 2 exp( jW) + r2
+
+2
+
+where if
+
+r1 = 1 there will be a frequency rejection at W = q1 .
+
+The gain is
+
+{(1 − 2r cosq cos W + r H (W) = {(1 − 2r cosq cos W + r
+1 1 2 2
+
+2 2
+
+1
+
+2
+
+) ( cos 2W ) + (2r cos q
+2 2 2
+
+cos 2W + 2r1 cos q1 sin W − r1 sin 2W
+2 sin W − r2 2
+
+2
+
+)} sin 2W ) }
+
+2 1/ 2 2 1/ 2
+
+A summary if its frequency properties in relation to the zeros and poles is listed in Table 5.3.
+
+Challenge the way we run
+
+EXPERIENCE THE POWER OF FULL ENGAGEMENT… RUN FASTER. RUN LONGER.. RUN EASIER…
+1349906_A6_4+0.indd 1
+
+READ MORE & PRE-ORDER TODAY WWW.GAITEYE.COM
+
+22-08-2014 12:56:57
+
+83
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis
+
+Z Domain Analysis
+
+Table 5.3 Summary of properties of 2nd order systems
+
+System function Transfer function Frequency response H(z)
+
+About Zeros Zeros: When z =Zero, H(z) = 0 When Ω = q 1 |H| = min If r1 =1 and Ω = q , |H|=0 1 (reject frequency)
+
+About Poles Poles: When z =Pole, H(z) = ∞ When Ω = q 2 , |H| = max (peak gain)
+
+|H(Ω)|
+
+Problems
+Q5.1 Find the Z-transform for a digital signal given by
+
+x[n] = [1, 0.35, (0.35) , (0.35) , ...]
+2 3
+
+↑
+and find the Z-transform if the signal has been changed to
+
+x[n] = [1, 0.35, (0.35) , (0.35) , ...]
+2 3
+
+↑
+Q5.2 A digital signal is described as
+
+ 0 x[n] =  n (0.9 )
+∞
+
+for for
+
+n<0 n≥0
+
+Find the sum
+
+∑ x[n] and the Z-transform of the signal.
+n =0
+−1
+
+Q5.3 Expend the following z-transform functions as power series in z at n=1): a)	 b)	 c)	
+
+, and find their first five sample values (starting
+
+1 z − 0.6 z X ( z) = z + 1.2 z +1 X ( z) = z −1 X ( z) =
+
+84
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Z Domain Analysis
+
+d)	 e)	
+
+X ( z) =
+
+0.5 z z − z + 0.5 z − 0.5 X ( z) = z ( z − 0.8)( z − 1)
+2
+
+Q5.4 Find the transfer function H(z) and frequency response H(W) of an LTI system whose impulse response is defined by:
+
+h[n] = 0.9h[n − 1] − 0.81h[n − 2] + δ [n] − δ [n − 1] + δ [n − 2] . .
+Q5.5 Find the zeros and poles of the following transfer functions and identify their stability and causality:
+
+a)	 b)	 c)	
+
+z2 − z − 2 H ( z) = 2 z − 1.3 z + 0.4 z 2 + 1.5 z + 0.9 H ( z) = 2 z − 1.5 z + 1.1 z 2 − z +1 H ( z) = z 2 +1
+z3 − z 2 + z −1 H ( z) = z 2 − 0.25
+
+d)	
+
+e)	
+
+z9 −1 H ( z) = 8 z ( z − 1)
+z5 − 2 H ( z ) = 10 z − 0.8
+
+f)	
+
+Q5.6 Find the transfer function
+
+H ( z ) and frequency response H (W) of a system whose impulse response is defined by:
+
+h[n] = h[n − 1] − 0.9h[n − 2] + d [n] + d [n − 2] .
+Q5.7 A digital system is described as
+
+y[n] − αy[n − 1] + α 2 y[n − 2] = 2 x[n] .
+By considering the pole locations of the associated transfer function, determine the range of the real number, which the system is stable. Q5.8 A digital system is described by:
+
+α , for
+
+y[n] = y[n − 1] − αy[n − 2] + x[n] + β x[n − 2] .
+
+85
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Z Domain Analysis
+
+By considering the pole locations of the associated transfer function, determine the ranges of the real numbers
+
+β
+
+α
+
+and
+
+for which the system can be stable and find the poles and zeros.
+
+Q5.9 A digital filter has the transfer function:
+
+H ( z) =
+
+z z +α
+
+Describe the frequency characteristic with reference to the range of values of Q5.10 A digital system has the transfer function:
+
+α
+
+for which the system is stable.
+
+H ( z) =
+
+z2 z 2 − 0.8
+
+Sketch the magnitude of its frequency response
+
+H (W )
+
+over
+
+0<W<p
+
+.
+
+Q5.11 sketch the magnitude and phase for the frequency responses of filters:
+
+H ( z) =
+a)	
+
+z z − 1.36 z + 0.922
+2
+
+This e-book is made with
+
+SetaPDF
+
+SETASIGN
+
+PDF components for PHP developers
+
+www.setasign.com
+86
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis
+
+Z Domain Analysis
+
+b)	
+
+H ( z) =
+
+z4 ( z 2 − z + 0.8)( z 2 − 1.36 z + 0.922)
+
+Q5.12 Find the pass and reject frequencies for the filter given by the transfer function:
+
+( z − 1) z 2 − z + 1 H ( z) = . z z 2 + 0.9 z + 0.81
+
+(
+
+(
+
+)
+
+)
+
+.
+
+Q5.13 Find the digital signal x[n] and y[n] given by the Z-transforms
+
+X (z) =
+
+z z + 0.75 , and Y ( z ) = . z − 0.25 z − 0.25
+
+Q5.14 Using the smallest possible number of z-plane poles and zeros, design a filter with the following frequency performance:
+
+W=0 Complete rejection at W = p / 3 A pass-band at W = 2p / 3
+Complete rejection at The poles are placed at radius
+
+r = 0.9 in the z-plane and there should be no unnecessary delay in the output signal. Determine the transfer function H ( z ) for the filter. 0<W<p
+.
+
+Q5.15 Find and sketch the poles and zeros of the following transfer functions. Visualize and sketch the magnitude of the system’s frequency response over a)	 b)	
+
+H ( z) =
+
+z − z + 0.8 z − 0.8 z 2 ( z + 0.8)
+
+3
+
+2
+
+H ( z) =
+
+z 3 − 2z 2 + 2z − 1 z z 2 + 0.9 z − 0.81
+
+(
+
+)
+
+87
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Discrete Fourier Transform
+
+6	 Discrete Fourier Transform
+6.1	 Definition of discrete Fourier transform
+x[n] , the discrete Fourier transform (DFT) is defined as
+For a digital signal
+N −1 2πkn · § X [k ] = ¦ x[n ] exp¨ − j ¸ N ¹ (6.1) © n =0
+
+where the DFT
+
+X [k ] is a discrete periodic function of period N. Therefore one period of distinct values are only taken at k = 0,1,2,..., N − 1 .
+
+Note that the DFT Eq.(6.1) only has defined the transform over 0 ≤ n ≤ N − 1 , otherwise not known or not cared. This is different from Fourier series in which the signal is strictly periodic or the discrete version of Fourier transform in which the signal is non-periodic but defined over
+
+− ∞ < n < ∞ . The comparison is made in Table 6.1. The DFT matches most
+
+of the practical cases in which only limited record is available from a certain measurement. The inverse discrete Fourier transform (IDFT) is
+
+1 x[ n ] = N
+
+N −1 k =0
+
+j ¦ X [k ] exp¨ ©
+
+§ 2πkn · ¸ N ¹
+
+n = 0,1,2,..., N − 1 (6.2)
+
+where x[n] is a periodic function of period N. Distinct values can be taken from one period at
+
+n = 0,1,2,..., N − 1
+
+. For this reason, we can assume the original signal x[n] in the above DFT formula has been extended to a signal of periodic of N. i.e., the DFT considers a non-periodic signal x[n] to be periodic only for the purpose of mathematic axis convenience. Otherwise, the summation in the DFT formula is not to run for N samples 0 ≤ n ≤ N − 1 but the whole
+
+− ∞ < n < ∞ and to obtain a continuous spectrum X (W) . Table 6.1 has listed the definitions of Fourier series,
+
+discrete version of Fourier Transform and DFT for comparison.
+Table 6.1 Comparison of 3 different transforms
+
+Signal type Periodic
+
+Transform Fourier Series
+
+Forward
+2π kn · § 1 ¸ a k = ¦ x[n ] exp¨ − j ¨ N n =0 N ¸ © ¹
+N −1
+
+Inverse
+N −1 § 2π kn · x[n ] = ¦ a k exp¨ ¨j N ¸ ¸ k =0 © ¹
+
+Non-periodic
+
+Discrete version of Fourier Transform Discrete Fourier Transform
+
+X (Ω ) =
+
+n = −∞
+
+¦ x[n] exp(− jΩn )
+
+∞
+
+x[n ] =
+
+1 2π
+
+³
+
+2π
+
+0
+
+X (Ω) exp(− jΩn )dΩ
+
+Length N
+
+N −1 2πkn · § X [k ] = ¦ x[n ] exp¨ − j ¸ N ¹ © n =0
+
+x[n ] =
+
+1 N
+
+j ¦ X [k ] exp¨ ©
+n =0
+
+N −1
+
+§ 2πkn · ¸ N ¹
+
+88
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Discrete Fourier Transform
+
+In the following Figure 6.2, the difference between the DFT and discrete version of FT are compared. The upper left is a non-periodic signal with N samples in 0 ≤ n ≤ N − 1 in which zeros are given to all outside the N records. The upper N samples are regarded as one period and the record has been extended to the whole axis Fourier series, its periodic discrete spectrum is shown in the lower right figure.
+FT 1 0.5 0 -0.5 1 -1 -5 0 n 1 0.5 0 -0.5 -1 -5 0 n 5 10 15 one period 1 0 0 5 10 k 15 20 |X[k]| x([n] 3 2 5 4 one period 5 10 15 0 0 5 10 0 ≤ Ω ≤ 6π DFT 15 |X(Ω )| x([n] 3 2 5 4 one period
+
+right is its discrete version of Fourier transform which is a continuous function. The lower left is the signal in which the
+
+− ∞ < n < ∞ . Therefore, like
+
+Figure 6.2 The discrete version of FT for a non-periodic signal and DFT for a periodic signal.
+
+In essence, applying the DFT is to decompose a periodic signal to a series of cosine and sine functions represented by
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+89
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis
+
+Discrete Fourier Transform
+
+2πkn · 2πkn 2πkn § exp¨ − j − j sin ¸ = cos N N ¹ N ©
+where k is the frequency of the sinusoidal function which runs through all possibilities from 0 (direct current) to N-1. The following figure shows the first few sinusoidal components.
+2 k=0 0 0 5 10 15 2 0 -2 0 2 0 0 5 10 15 -2 0 2 0 0 5 10 15 -2 0 2 0 0 5 10 15 -2 0 5 10 15 5 10 15 5 10 15 5 10 15
+
+-2 2 k=1 0
+
+-2 2 k=2 0
+
+-2 2 k=3 0
+
+-2
+
+cos
+
+2πkn N
+
+− sin
+
+2πkn N
+
+Figure 6.3 Decomposition of a periodic digital into cosine and sine waves.
+
+6.2	
+
+Properties of DFT
+1.	 Periodicity
+
+In the time domain,
+
+x[n ± rN ] = x[n ]
+
+(6.3)
+
+and in the frequency domain
+
+X [k ± rN ] = X [k ] (6.4)
+where r is an arbitrary integer and N is the period. This property says that the shape of the signal stays the same when it is shifted to left or right by integer number of N samples.
+
+90
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis 2.	 Linearity If			
+
+Discrete Fourier Transform
+
+x1 [n ] ↔ X 1 [k ] and x 2 [n ] ↔ X 2 [k ]
+
+then
+Ax1 [n ] + Bx 2 [n ] ↔ AX 1 [k ] + BX 2 [k ] (6.5)
+where
+
+↔ represents the pair of DFT and IDFT, and A and B are constants. This property includes an equal magnification
+
+rule, and a superposition rule between the input and output. 3.	 Time-shifting
+
+If 		 then
+
+x[n ] ↔ X [k ]
+
+2πkn0 · § x[n − n0 ] ↔ X [k ] exp¨ − j ¸ (6.6) N ¹ © 2πkn0 · § ¸ = 1 .. The time shifting will cause a change of spectrum in phase, not in the magnitude, because exp¨ − j N ¹ ©
+4.	 Convolution If 		 then
+
+x1 [n ] ↔ X 1 [k ] and x 2 [n ] ↔ X 2 [k ]
+
+m =0
+
+∑ x [n ] x
+1
+
+N −1
+
+2
+
+[m − n ] ↔ X 1 [k ] X 2 [k ]
+
+(6.7)
+
+The relationship of convolution between two signals in time domain can be simplified to a multiplication in the frequency domain. In the formula, the convolution is defined on one period. 5.	 Modulation If 		
+
+then
+
+x1 [n ] ↔ X 1 [k ] and x 2 [n ] ↔ X 2 [k ]
+
+x1 [n ]x2 [n ] ↔ ¦ X 1[m ] X 2[k − m ]
+m =0
+
+N −1
+
+(6.8)
+
+Likewise to the property 4), the relationship of convolution between two spectra in the frequency domain can be simplified to a multiplication in the time domain.
+
+91
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis 6.	 Even and odd signals From the DFT definition
+N −1 2πkn 2πkn · § − j sin X [k ] = ¦ x[n ]¨ cos ¸ N ¹ N © n =0
+
+Discrete Fourier Transform
+
+where cos Let
+
+2πkn 2πkn is an even function, and sin is an odd function. N N
+
+Real( X [k ]) = ¦ x[n] cos
+n =0
+
+N −1
+
+2πkn N 2πkn N
+
+Imag( X [k ]) = ¦ x[n] sin
+n =0
+
+N −1
+
+When x[n] is real signal, a)	 if x[n] is an even function, Im(X[k]) =0 b)	 if x[n] is an even function, Re(X[k]) =0 This property can be used to simplify and save the calculation. 7.	 Conjugation
+n If x[n] is real, X [0] = ∑ x[n ] and X [ N / 2] = ∑ ( −1) x[n ] are real coefficients, and the other N-2 are complex n =0 n =0 N −1 N −1
+
+(6.9)
+
+(6.10)
+
+coefficients.
+
+X [ −k ] = X * [k ] or X [ N − k ] = X * [k ] (6.11) X [ − k ] = X [k ]
+,
+
+X [ N − k ] = X [k ]
+
+(6.12)
+
+Only X[0], X[N/2] and X(k), k=1,2,N/2-1 are needed to represent the whole X[k] (k=0,1,2,…,N-1). i.e. there are a total of 2 real and N/2-1 complex coefficients. It can also be proved
+
+92
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Discrete Fourier Transform
+
+X[
+
+N N − k] = X [ + k] 2 2 (6.13)
+
+The proof is as below:
+
+X[
+
+N −1 N 2p ( N / 2 − k )n   − k ] = ∑ x[n] exp − j  2 N   n =0
+
+N −1 2p ( N / 2 − k − N )n   = ∑ x[n] exp − j  N   n =0 N −1  2p ( N / 2 + k )n  * N = ∑ x[n] exp j  = X [ + k] N 2   n =0
+
+Therefore, line
+
+X[
+
+N N − k ] = X [ + k ] . This property tells that the modules of the DFT is symmetrical about the vertical 2 2
+
+n=
+
+N. 2
+
+8.	 Complex signal x[n] If the signal
+
+x[n] is complex, there is no spectral symmetry, and all N coefficients are distinct in general.
+
+6.3	
+
+The fast Fourier transform (FFT)
+
+James W. Cooley and JohnW. Tukey in 1965 made a revolutionary invention in calculating the DFT (published in J.W.Cooley and J.W. Tukey in Math. Comput., vol. 19, April 1965, pp297-301). In the algorithm known as FFT, redundancy in direct calculating complex DFT due to periodicity in sinusoidal functions has been removed, therefore the computing time has been remarkably reduced. The principle can be explained in the following. For the DFT
+N −1
+
+X[k ] =
+   
+
+ 2p kn  x [ n ] exp − j  , let the complex function ∑ N   n=0
+
+2p  WN = exp − j N 
+then
+
+2π kn · § kn WN = exp¨ ¨− j N ¸ ¸. © ¹
+If separating x[n] to an eve and an odd sequences
+
+93
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Discrete Fourier Transform
+
+X [k ] =
+
+N −1 n =0
+
+¦ x[n ] WNkn =
+rk N /2
+
+N / 2 −1 r =0
+
+¦ x[2r ] W
+N / 2 −1 r =0
+
+2 rk N
+
++
+
+N / 2 −1 r =0
+
+¦ x[2r + 1] W
+
+( 2 r +1) k N
+
+=
+
+N / 2 −1 r =0
+
+¦ x[2r ] W
+
+k + WN
+
+¦ x[2r + 1] W
+
+rk N /2
+
+(6.14)
+
+Eq.(6.14) means a DFT of length N can be equivalent to 2 DFTs of length N/2. As an immediate result, the number
+rk of distinct complex numbers can be reduced from N W N to N/2 W N / 2 in the above DFT summation; thus complex
+
+kn
+
+multiplications can be greatly reduced in computation. The heart of implementing FFT is to make above division further until each DFT has only 2 samples. A requirement is the length of data N is an integer power of 2. Therefore, N is chosen to be an integer power of 2, N/2 is even. 2 N/2-point sequences can be decomposed into 2 shorter N/4-point sequences. This decomposition continues until all sequences are 2-point sub-sequences, each of which requires only a simple 2-point DFT. This procedure produces a radix-2 FFT algorithm. For example: Let N=8, the DFT is
+
+X [k ] = ¦ x[n ] W8kn
+n =0
+
+7
+
+94
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis
+
+Discrete Fourier Transform
+
+2 The number of direct calculation of its DFT will be 8 = 64 , approximately. However, it can be divided into 2 length
+
+N=4 sequences:
+
+X [k ] = ¦ x[2r ] W4rk + W8k ¦ x[2r + 1] W4rk
+r =0 r =0
+
+3
+
+3
+
+Further, they can be divided in to 4 length N=2 sequences:
+
+X [k ] = ¦ x[ 2( 2s)] W2sk + W4k ¦ x[2(2 s + 1)] W2sk
+s =0 r =0 1 · § 1 + W8k ¨ ¦ x[2( 2s) + 1] W2sk + W4k ¦ x[2(2 s + 1) + 1] W2sk ¸ ¸ ¨ s =0 s =0 ¹ ©
+
+1
+
+1
+
+Explicitly, from the above,
+
+X [k ] = x[0] W20 k + x[4] W21k + W4k x[2] W20 k + x[6]W21k
+
++ W8k x[1] W20 k + x[5] W21k + W4k x[3] W20 k + x[7] W21k
+where we know
+
+(
+
+(
+
+(
+
+)
+
+))
+
+W20 = 1, W21 = −1 , therefore,
+
+X [k ] = x[0] + x[4] W21k + W4k x[2] + x[6]W21k + W8k x[1] + x[5] W21k + W4k x[3] + x[7] W21k
+where only W4k and
+
+(
+
+)
+
+(
+
+(
+
+))
+
+W8k are actually complex numbers, there are as many as only 3 + 7 = 12.
+
+2πnk · § kn WN = exp¨ − j ¸ 2 N ¹ (there are some unities when k © In original DFT, there are approximately N multiplications in
+or n=0). However, in the FFT algorithm, redundant computation in multiplying WN are reduced by re-arranging samples
+0 kn kn kn 1 to shorter sequences to enable multiplication by much fewer distinct W N in a butterfly shaped ,W N / 2 , W N / 4 ,...W 2 and W2
+
+kn
+
+flow chart. Figure 6.4 illustrates
+
+N2
+
+multiplications in a length N=8 DFT.
+
+95
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Discrete Fourier Transform
+
+Figure 6.4 Number of complex multiplication in DFT
+
+It can be divided into 2 length N=4 DFTs , i.e.
+
+X [k ] = ¦ x[2r ]W
+r =0
+
+3
+
+rk 4
+
++W
+
+k 8
+
+¦ x[2r + 1]W
+r =0
+
+3
+
+rk 4
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+96
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis where
+
+Discrete Fourier Transform
+
+2p k   W8k = exp − j  8  
+and
+
+2π k · § W8k = exp¨ − j ¸ 8 ¹ ©
+In the following Figure 6.5, two boxes represents 2 length N=4 DFTs. The solid lines represent moves and the doted lines represent complex multiplications.
+
+x[n] 0  1  2  3  4  5  6  7  0  2  4  6  1  3  5 W 7  0  4  2  6  1  5  3  7  ⊕ ⊕ ⊕ ⊕ ⊕ ⊕ ⊕ ⊕ ⊕ ⊕ ⊕
+
+X[k] 0 ⊕ 1 ⊕
+
+W81 2
+⊕
+
+W
+
+2 8
+
+W W
+
+⊕ ⊕ ⊕ ⊕ ⊕
+
+3 ⊕ ⊕
+
+W84
+
+W83 4 W85 5
+
+⊕ 6 ⊕ 7 ⊕
+
+W
+
+6 8
+
+W87
+
+Figure 6.5 1 N=8 point DFT are changed to 2 N=4 point DFTs
+
+In the two boxes, 4 N=2 DFTs can be obtained as:
+
+97
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Discrete Fourier Transform
+
+X [k ] = ¦ x[2( 2 s )]W
+s =0 1 k 8
+
+1
+
+sk 2
+
++W
+
+k 4
+
+¦ x[2(2s + 1)]W
+s =0
+
+1
+
+sk 2
+
+1 ­ ½ sk k + W ®¦ x[2(2 s ) + 1]W2 + W4 ¦ x[2( 2 s + 1) + 1]W2sk ¾ s =0 ¯ s =0 ¿
+
+2π k · 2π k · § § W8k = exp¨ − j ¸ , W4k = exp¨ − j ¸ 8 ¹ 4 ¹ © © 2π sk · § W2sk = exp¨ − j ¸ , W20 = 1, W21 = −1 2 ¹ ©
+Using the following graphical illustration in Figure 6.6, we can see the complex multiplications are only 4+6+7=17 in this case, much fewer than that in the direct calculation of the DFT.
+
+x[n] 0  1  2  3  4  5  6  7 
+
+0  2  4  6  1  3  5  7 
+
+0  4  2  6  1  5  3  7 
+
+⊕ ⊕ ⊕ ⊕ ⊕ ⊕ ⊕ ⊕
+
+⊕ ⊕ ⊕ ⊕ ⊕ ⊕ ⊕ ⊕
+
+X[k] 0 ⊕ 1 ⊕ 2 ⊕ 3 ⊕ 4 ⊕ 5 ⊕ 6 ⊕ 7 ⊕
+
+Figure 6.6 2 N=4 point DFT are changed to 4 N=2 point DFTs
+
+98
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Discrete Fourier Transform
+
+It can be proved that the FFT algorithm has saved huge computing time by reducing from N 2 complex multiplications
+
+, i.e. saved to N log 2 N ,
+
+8 8 N times of computation. For example, if N=8, = = 2.67 ; if N=1024, log 2 8 3 log 2 N
+
+1024 1024 = = 102.4 . i.e. saved 102 times of multiplications. The longer the data length N, the more time can log 2 1024 10
+be saved relative to the direct calculation of the DFT.
+
+Problems
+Q6.1 What are the features of the DFT coefficients X[k] of an N-sample signal which is a)	 Real, b)	 Real and even, c)	 Real and odd, and d)	 Complex? Q6.2 For the digital sequence a)	 x[n] = [1 -1 ], b)	 x[n]= [3 -2], c)	 x[n]=[1 -1 0 0], d)	 x[n] = [1 0 0 1], e)	 x[n]=[1 2 1 3]. Calculate the Discrete Fourier Transform (DFT) . Q6.3 Explain how the Fast Fourier Transform (FFT) algorithm can be faster than direct calculation of the Discrete Fourier Transform (DFT).	 Q6.4 Answer the following questions: -- With reference to the Fast Fourier Transform (FFT), why is the length, N, normally chosen as an integer power of 2? -- In brief, what is the reason that the FFT algorithm can be faster than direct calculation of the Discrete Fourier Transform (DFT)? -- If the length of a sequence is not yet an integer power of 2, how is it possible to take advantage of the FFT algorithm?
+
+99
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Spectral Analysis by DFT
+
+7	 Spectral Analysis by DFT
+7.4	 Digital spectral analysis
+Spectral analysis for digital signals is referred to a decomposition of a digital signal into its continent components in the frequency domain. It is a useful technique in many branches of engineering, natural and social sciences, and information technology. The DFT defined in Eq. 6.1 is used to obtain Fourier spectrum for a signal, and the FFT algorithm is widely accepted as the choice in implementing the algorithm because of its fast speed. The basic assumption behind the digital spectral analysis is that a frequency-domain display is easier to reveal important information which is not apparent in the time domain. Unlike digital filtering, it is primarily investigative, not concerned with changing the original signal. The information obtained through the digital spectral analysis often leads to important insights of associated physical process.
+
+7.5	
+
+Spectra of harmonics
+
+Assume the sampling rate is 1024Hz. The maximum frequency at this sampling rate is 512Hz and the minimum frequency in the DFT frequency domain is also 1Hz. Any integer frequency components ranging from 1 to 512 Hz are called harmonics. A signal
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+100
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis
+
+Spectral Analysis by DFT
+
+n   x[n ] = sin 2p   1024  
+represents a 1Hz sine wave. The 32th harmonics is
+
+(7.1)
+
+n · § x[n] = sin ¨ 2π 32 ¸ 1024 ¹ ©
+
+
+
+(7.2)
+
+which will present a single spectral line in the DFT at k = 32. See Figure 7.1. If more harmonics are present, like
+
+n · n · n · § § § x[n] = sin ¨ 2π 32 ¸ + sin ¨ 2π 137 ¸ + sin ¨ 2π 467 ¸ 1024 ¹ 1024 ¹ 1024 ¹ © © ©
+Three spectral lines will be present, shown in Figure 7.2.
+2 1 x[n] 0 -1 -2 600 400 200 0 0 0.2 0.4 0.6
+
+(7.3)
+
+seconds
+
+0.8
+
+1
+
+|X[k]|
+
+0
+
+100
+
+200
+
+Hz
+
+300
+
+400
+
+500
+
+Figure 7.1 Single sine wave and its single spectral line.
+
+101
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Spectral Analysis by DFT
+
+3 2 x[n] 1 0
+
+-1 -2 -3 0 600 400 |X[k]| 200 0 0.2 0.4 seconds 0.6 0.8 1
+
+0
+
+100
+
+200
+
+Hz
+
+300
+
+400
+
+500
+
+Figure 7.2 3 harmonic waves
+
+7.6	
+
+Spectral leakage
+
+In the DFT, the signal of length N is being treated as an exact one period of a periodic signal. If a component is an integer multiple or harmonic of the basic frequency, the wave will smoothly continue from one period to the next in the time domain. On contrary, if the component is not an integer harmonic, discontinuity will occur from one period to another in the time domain. This is particularly the case in practice in which a signal usually contains many components of different frequencies. Those frequencies can take any fractional numbers and are rarely exact harmonics of the basic frequency. The spectrum will not appear as a single line but a peak with side-lobs on both sides. This can be explained as that the discontinuity between periods causes a disturbance or modulation in the magnitude and phase of the component, generating a set of new harmonics whose frequencies are close to the main harmonic. For example, a signal with three fractional frequencies of 32.5, 137.5 and 467.5 Hz, i.e.
+
+§ 2π 32.5n · § 2π 137.5n · § 2π 467.5n · x[n ] = sin¨ ¸ + sin¨ ¸ + sin¨ ¸ © 1024 ¹ © 1024 ¹ © 1024 ¹
+
+(7.4)
+
+The three components give no longer a single spectral coefficient, but three high coefficients surrounded by side-lobs, which represent the spectral leakage, shown in Figure 7.3. As a result, relative to integer harmonic cases, the leakage reduces the magnitude of the main spectral line, giving an inaccurate indication of the spectral strength. This phenomenon can be improved by windowing, described in the following section.
+
+102
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Spectral Analysis by DFT
+
+3 2 1 x[n] 0 -1 -2 -3 0 0.2 0.4 seconds 600 0.6 0.8 1
+
+400 |X [k]| 200 0 0 100 200 Hz 300 400 500
+
+Figure 7.3 Side lobes around main spectral lines.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+103
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis
+
+Spectral Analysis by DFT
+
+7.4	Windowing
+In the DFT, only a component at an exact harmonic frequency gives rise to a single and well-defined spectral line. In fact, practical digital signals normally contain a majority of fractional frequencies and few of them exact harmonics. This means that the spectral leakage is generally present, and it may lead to inaccuracy in analysis and interpretation. It is therefore common practice to taper two ends of the original signal before applying the DFT, reducing or removing any discontinuities at its two ends. This can be achieved by multiplying the signal with a suitable window function. For a signal x[ n], n = 0,1,2,...N − 1 , applying an equal length window function w[ n], n = 0,1,2,...N − 1 , a windowed signal is given by
+
+x w [n ] = x[n ] w[n ] (7.5)
+-- Rectangular window (No Window)
+
+w[n] = 1
+
+0 ≤ n < N (7.6) present.
+
+The windowed signal x w [ n] is not tapered by this rectangular window. The spectral leakage is fully -Triangular window
+
+	
+
+w[n] = 1 −
+
+| 2n − N + 1 | N
+
+0 ≤ n < N (7.7)
+
+The windowed signal -Hamming window
+
+x w [n] will be tapered by the straight slopes of the triangle.
+
+§ (2n − N + 1)π · w[n] = 0.54 + 0.46 cos¨ ¸ N © ¹
+The windowed signal
+
+0 ≤ n < N (7.8)
+
+x w [n] will be tapered by the cosine function.
+
+9.8	
+
+Performance of windows
+w[n] :
+
+In the time domain, applying a window is to multiply by the window function
+
+x w [n ] = x[n ] w[n ]
+In the frequency domain, according to the DFT modulation property in Eq.(6.8), two spectra are in convolution:
+
+X w [k ] = X [k ] ∗ W [k ] (7.9)
+
+104
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Spectral Analysis by DFT
+
+i.e. a signal multiplied by a window in the time domain is equivalent to a convolution between the spectra of the signal and window in the frequency domain. The shapes of triangular and Hamming windows in the time and frequency domains are shown in Figure 7.4. Therefore, the leakage will be determined by the shape of the window’s Fourier spectrum. The rectangular window (no-window) introduces significant side-lobs, which indicate the leakage seriously exists. The triangular window can reduce side-lobs but broadens spectral lines of integer harmonics. The Hamming window slightly broadens spectral lines of integer harmonics, but leakage can be dramatically reduced. Therefore, the Hamming window is a good choice for reducing leakage. In Figure 7.5, the effects of those three windows are illustrated.
+
+2
+
+w[n] triang win
+
+1.5 1 0.5 0 0 0.5 t (seconds) 1
+
+400
+
+|W[k]|
+
+200
+
+0
+
+0
+
+5
+
+10 k (Hz)
+
+15
+
+2
+
+w[n] Hamming win
+
+1.5 1 0.5 0 0 0.5 t (seconds) 1
+
+400
+
+|W[k]|
+
+200
+
+0
+
+0
+
+5
+
+10 k (Hz)
+
+15
+
+Figure 7.4 The shapes of triangular and Hamming windows in the time and frequency domains
+
+105
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Spectral Analysis by DFT
+
+x[n] rectang win
+
+0 -2 0 0.5 t (seconds) 1
+
+|X[k]| (db)
+
+2
+
+80 60 40 20 0 -20
+
+0
+
+200 k (Hz)
+
+400
+
+0 -2 0 0.5 t (seconds) 1
+
+|X[k]| (db)
+
+2
+
+80 60 40 20 0 -20
+
+x[n] triang win
+
+0
+
+x[n] Hamming win
+
+200 k (Hz)
+
+400
+
+0 -2 0 0.5 t (seconds) 1
+
+|X[k]| (db)
+
+2
+
+80 60 40 20 0 -20
+
+0
+
+200 k (Hz)
+
+400
+
+Figure 7.5 Three windows and their effects on spectral lines.
+
+106
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Digital Signal and System Analysis
+
+Spectral Analysis by DFT
+
+7.6	
+
+Applications of digital spectral analysis
+
+- Detection of harmonics of interest from noisy background A sinusoidal signal may be mixed with strong noise and hard to be observed. It is appropriate to use the Fourier spectrum to detect the sinusoidal signal from the noise. In the frequency domain, a signal may be displayed and extracted easily from noise background. In the following Figure 7.6, the upper one is the signal mixed with noise in the time domain. It is hard to observe what harmonic components are contained inside the signal. The middle curve is the Fourier spectrum where a strong harmonic appears. Therefore, it is easy to remove the recognisable noise by reducing its noise spectrum and to restore the harmonic shown in the lower plot using the inverse DFT. - Fault detection The distribution of spectra often characterises the operating condition of mechanical systems, and sudden rising of some components or any other changes in it may indicate an occurrence of fault. Key machinery or even the whole production lines can be monitored and early faults can be reported to prevent from unscheduled shutdown, which causes losses or even disasters. Vibration or acoustic signals are normally picked up and digital spectra are calculated regularly with an appropriate interval. A computer is programmed to make comparison with the historical data to report any abnormality. - Identification of unknown systems An unknown system is being deliberately excited by a suitable known signal – often an impulse or a step signal – and its response is being measured, then yielding the frequency properties of the system. See Figure 7.7. In the time domain, the input-output relationship of a system is in a form of convolution:
+
+y[n] = ∑ x[k ]h[h − k ]
+k =0
+
+N −1
+
+(7.10)
+
+Note that this is a periodic or circular convolution, different from Eq.(3.16), as the signal the DFT for both sides, using the convolution property of DFT:
+
+x[n] is assumed periodic. Take
+
+Y [k ] = H [k ] X [k ] (7.11)
+Therefore, the frequency response function of the system can be identified by
+
+H [k ] =
+
+Y [k ] X [k ] (7.12)
+
+In practice, due to noise in measurement, the frequency response function must be obtained by averaging of multiple records of the input and output.
+
+107
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Spectral Analysis by DFT
+
+1 0.5 x[n] 0 -0.5 0 100 |X [k]| 50 0 0 1 |X [k]| 0.5 0 -0.5 0 0.2 0.4 seconds
+Figure 7.6 Detection of a sinusoidal signal from noisy background
+
+0.2
+
+0.4 seconds
+
+0.6
+
+0.8
+
+1
+
+100
+
+200 Hz
+
+300
+
+400
+
+500
+
+0.6
+
+0.8
+
+1
+
+Figure 7.7 System identification using input and output spectra
+
+Problems
+Q7.1 Examine sinusoidal components in a signal by spectral analysis
+
+2 n  2p 3  2p 107.5n   2p 422.5n  5 sin x[n ] = 0.1sin  + 0.2 sin  + 0.1   1024   1024   1024 
+The first component gives a single spectral coefficient. The second and the third components display side-lobes around a high coefficient, which represent the spectral leakage. Using the following MATLAB code, plot the signal in the time and frequency domains on the screen and sketch them on a paper.
+
+108
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis %Examine signal components %sampling rate 1024Hz N=1024; dt=1/N; t=0:dt:1-dt; %****define the signal** x=0.1*sin(2*pi*32 .*t ) + ... 0.2*sin(2*pi*107.5 .*t )+ ... 0.15*sin(2*pi* 422.5 .*t ) ; %*********************** subplot(2,1,1); plot(t,x); axis([0 1 -1 1]); xlabel(‚seconds‘); ylabel(‚x[n]‘); X=fft(x); df=1; f=0:df:N-1; subplot(2,1,2); plot(f,abs(X)); axis([0 N/2 0 120]); xlabel(‚Hz‘); ylabel(‚|X[k]|‘);
+
+Spectral Analysis by DFT
+
+Q7.2 Use MATLAB code to apply rectangular, triangular and Hamming windows to the signal
+
+2 n  2p 7  2p 196.5n   2p 408n  x[n] = 0.1sin  5 sin   + 0.2 sin   + 0.1   1024   1024   1024 
+Observe the level of magnitude and the distribution of side-lobs carefully to find any improvement of leakage reduction. Sketch the screen display and make your comments. Make sure the shape of the envelope in the time domain is drawn according to the window function.
+
+109
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Summary
+
+8	Summary
+After digesting the content of this book, I hope beginners may have gained an overview of the topic of digital signal and system analysis, have understood the basic methods and have known how to personally deal with digital signals and digital systems. No matter the incentive is curiosity, interest or acquiring needed knowledge for one’s profession, the content selected in this book should be well suited. The standards of learning outcome are equivalent to university year two which lays a good foundation for higher level studies or moving on to specialised topics, such as digital filters, digital communications, discrete time-frequency and time-scale analysis.
+
+110
+Download free eBooks at bookboon.com
+
+Introduction to Digital Signal and System Analysis
+
+Bibliography
+
+Bibliography
+[1]	 [2]	 [3]	 [4]	 Bracewell, R.N., The Fourier Transform and its Applications, McGraw-Hill Book Company, ISBN 0-07-066454-4 Brigham E O, The Fast Fourier Transform, Prentice Hall, 1974 Chen, C-T, Digital Signal Processing, Oxford University Press 2001, ISBN 0-19-513638-1 Cooley J W & Tukey J W. An algorithm for the machine calculation of complex Fourier series. Math. Comput. 19:297-301, 1965. [5]	 [6]	 Cristi, R, Modern Digital Signal Processing, Thomson Brooks/Cole, ISBN 0-534-40095-7 Denbigh P, System Analysis and Signal Processing, Addision-Wesley, ISBN:0-201-17860-5, Mulgrew B and Grant P, Digital Signal Processing, PALGRAVE, ISBN 0-333-74531-0 [7]	 Ifeachor E C and Jerivs B W, Digital Signal Processing- A Practical Approach, Prentice Hall, ISBN 0-201-59619-9. 2002. [8]	 [9]	 Kuo S M and Gan W-S, Digital Signal Processors, ISBN 0-13-127766-9. 2005. Lynn PA, Fuerst W, Introductory Digital Signal Processing with Computer Applications, John Wiley & Sons, ISBN: 0-471-97631-8 [10]	 Mulgrew B, Grant P and Thompson J, Digital Signal Processing Concepts and Applications, ISBN 0-333-96356-3. 2003. [11]	 Proakis JD and DG Manolakis DG, Digital Signal Processing, Prentice Hall, 4ed, ISBN: 0-13-187374-1. [12]	 Stranneby, D and Walker W, Digital Signal Processing and Applications, Elsevier, ISBN 0-7506-6344-8. 2004.
+
+111
+Download free eBooks at bookboon.com
+

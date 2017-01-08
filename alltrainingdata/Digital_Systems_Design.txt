@@ -1,0 +1,4468 @@
+Digital	Systems	Design
+Ramaswamy	Palaniappan
+
+Download	free	books	at
+
+Ramaswamy Palaniappan
+
+Digital Systems Design
+
+2
+Download free eBooks at bookboon.com
+
+Digital Systems Design © 2011 Ramaswamy Palaniappan & bookboon.com ISBN 978-87-7681-806-7
+
+3
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Contents
+
+Contents
+	 	 1	 1.1	 1.2	 1.3	 1.4	 2	 2.1	 2.2	 2.3	 2.4	 2.5	 2.6	 2.7	 Preface 	 About the author	 Number System Basics	 Decimal Numbers	 Other Number Systems – Binary, Octal and Hexadecimal	 Conversion between different number systems	 Other number codes	 Introduction to Logic Gates	 AND gate	 OR gate	 NOT gate	 AND implementation with OR gate and vice versa	 NAND gate	 NOR gate	 Integrated circuits	 7 8 9 9 10 13 15 19 22 25 27 28 29 31 32
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design 3	 3.1	 3.2	 3.3	 3.4	 3.5	 4	 4.1	 4.2	 Combinatorial Logic Circuits	 Logic circuit simplification	 Boolean algebra	 DeMorgan’s theorem	 More examples	 XOR and XNOR gates	 Karnaugh Maps	 Sum of products	 Product of sums	 33 34 35 38 39 43 47 47 48 51 67 68 75 79 82 84
+
+Contents
+
+4.3	K-maps	 5	 5.1	 5.2	 5.3	 5.4	 5.5	 Bistable Multivibrator Circuits	 S-R flip-flop	 J-K flip-flop	 D flip-flop	 T flip-flop	 Monostable and astable multivibrators	
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design 6	 6.1	 6.2	 6.3	 6.4	 6.5	 7	 Arithmetic Circuits	 Half adder	 Full adder	 Parallel adder	 Parallel addition using integrated circuits	 Parallel subtraction 	 Coders and Multiplexers	 87 87 89 92 93 94 98 99 104 107 111 114 114 117 120 123
+
+Contents
+
+7.1	Encoder	 7.2	Decoder	 7.3	Multiplexer	 7.4	De-multiplexer	 8	Counters	 8.1	 8.2	 8.3	 8.4	 Asynchronous up-counter	 Asynchronous down-counter	 Asynchronous counters with incomplete cycles	 Synchronous counters 	
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+6
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Preface
+
+Preface
+The aim of this book is to provide readers with a fundamental understanding of digital system concepts such as logic gates for combinatorial logic circuit design and higher level logic elements such as counters and multiplexers. First year undergraduates taking a course in computer science or engineering (and related disciplines like information technology) are the main target audience. Foundation year students and those taking pre-university courses (like ‘A’ levels) will also benefit from the text. I have tried to follow a simple approach in writing the text. Mathematics is used only where necessary. There are plenty of illustrations to aid the reader in understanding the concepts. I hope I have done justice in discussing all the necessary fundamentals related to digital systems in this one volume. But by doing so, I had to skip advanced concepts such as computer hardware and programming and the interested reader can refer to advanced texts after mastering the basic concepts presented in this book. For over a decade, I have greatly benefited from discussions with students and fellow colleagues who are too many to name here but have all helped in one way or another towards the contents of this book and I must thank them. I must also thank my wife for helping me prepare some of the contents. Many a time, she and my daughter had to put up with my absence to complete this book, so I dedicate this work to them. I am also indebted to Dr. Cota Navin Gupta for his useful comments in the early parts of the book. Finally, I trust that my proofreading is not perfect and some errors would remain in the text and I welcome any feedback or questions from the reader. Ramaswamy Palaniappan July 2011
+
+7
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+About the author
+
+About the author
+Dr. Ramaswamy Palaniappan BE, MEngSc, PhD, SMIEEE, MIET, MBMES School of Computer Science and Electronic Engineering University of Essex, United Kingdom Ramaswamy Palaniappan (better known as Palani among friends), received his first degree and MEngSc degree in electrical engineering and PhD degree in microelectronics/biomedical engineering in 1997, 1999 and 2002, respectively from University of Malaya, Kuala Lumpur, Malaysia. He is currently an academic with the School of Computer Science and Electronic Engineering, University of Essex, United Kingdom. Prior to this, he was the Associate Dean and Senior Lecturer at Multimedia University, Malaysia and Research Fellow in the Biomedical Engineering Research Centre-University of Washington Alliance, Nanyang Technological University, Singapore. He has been teaching in a number of universities worldwide for the past 15 years in both computer science and engineering fields and has received numerous awards for excellence in teaching. He is an expert reviewer for many funding bodies such as Austria, Canada, EU, Russia and Malaysia. He founded and chaired the Bioinformatics division at the Centre for Bioinformatics and Biometrics in Multimedia University, Malaysia. His current research interests include biological signal processing, brain-computer interfaces, biometrics, artificial neural networks, genetic algorithms, and image processing. To date, he has published over 100 papers in peer-reviewed journals, book chapters, and conference proceedings. Dr. Palaniappan is a senior member of the Institute of Electrical and Electronics Engineers and IEEE Engineering in Medicine and Biology Society, member in Institution of Engineering and Technology, and Biomedical Engineering Society. He also serves as editorial board member for several international journals. His pioneering studies on using brain signals for brain-computer interfaces and biometrics have received international recognition. Ramaswamy Palaniappan July 2011
+
+8
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Number System Basics
+
+1	 Number System Basics
+Digital technology has become widespread and encompasses virtually all aspects of our everyday lives. We could see it being used in computers and related gadgets, entertainment, automation (robotics), medical etc. Though physical quantities measured in the real world are analogue, most of these are processed by digital means. In order to do this, we have to convert the measured analogue quantity into digital, process the digital quantity using digital circuitry and then reconvert to analogue. The contents of this book concentrate on the digital circuit design to enable the processing of the digital quantity. But before we look into the principles of such designs, we need to understand the basics of number systems.
+
+1.1	
+
+Decimal Numbers
+
+Decimal number system is the commonly used number system that has ten digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. It is also known as base (or radix) ten system since it has ten digits that can be used to represent any number. Figure 1.1 shows the positional values or weights of the decimal number system for an integer.
+
+Increasing power of 10 102 101 100
+
+hundreds
+
+tens
+
+units
+
+6
+
+2
+
+3
+
+6 x 102
+
+2 x 101
+
+3 x 100
+
+600
+
++
+
+20
+
++
+
+3
+
+= 62310
+
+Figure 1.1: Decimal number system for integers.
+
+9
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Number System Basics
+
+The digit with least weight (i.e. the one on the foremost right) is known as the least significant digit (LSD) while the highest weight digit is known as the most significant digit (MSD). In the example shown in Figure 1.1, the MSD is digit 6 while the LSD is digit 3. Figure 1.2 shows the case for fractional decimal number.
+
+Increasing power of 10
+
+Decreasing power of 10
+
+102 101 100 10-1 10-2 10-3 Decimal point
+
+7
+
+1
+
+8
+
+2
+
+5
+
+7 x 102
+
+1 x 101
+
+2 x 10-1
+
+5 x 10-2
+
+8 x 100
+
+700
+
++
+
+10 + 8 + 0.2
+
++
+
+0.05
+
+= 718.2510
+
+Figure 1.2: Decimal number system for fractional numbers.
+
+1.2	
+
+Other Number Systems – Binary, Octal and Hexadecimal
+
+While decimal number system is the commonly used number system in everyday lives, digital devices uses only binary number system that consists of 0 and 1. The base is two for this system and Figure 1.3 show an example of binary number for decimal equivalent of 6.2510
+
+Increasing power of 2 22 21 20
+
+Decreasing power of 2 2-1 2-2 2-3
+
+Binary point
+
+10
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Number System Basics
+
+1
+
+1
+
+0
+
+0
+
+1
+
+1 x 22
+
+1 x 21
+
+0 x 2-1
+
+1 x 2-2
+
+0 x 20
+
+4
+
++
+
+2 + 0 + 0
+
++
+
+0.25
+
+= 6.2510
+
+Figure 1.3: Binary number system with an example.
+
+Similarly, octal and hexadecimal (hex in short) number systems have number bases of 8 and 16. For octal number system, the eight digits are 0, 1, 2, 3, 4, 5, 6, and 7 while hexadecimal number system has 16 digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, and F. Figure 1.4 gives examples on these number systems.
+
+5
+
+7
+
+3
+
+4
+
+5 x 82
+
+7 x 81
+
+4 x 8-1
+
+3 x 80
+
+320
+
++
+
+56 + 3 + 0.5
+
+= 379.510
+
+(a)
+
+11
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Number System Basics
+
+A
+
+7
+
+C
+
+10 x 161
+
+7 x 160
+
+12 x 16-1
+
+160
+
++
+
+7
+
++
+
+0. 75
+
+= 167.7510
+
+(b) Figure 1.4: Number system examples (a) octal (b) hex.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+12
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Number System Basics
+
+1.3	
+
+Conversion between different number systems
+
+It is often necessary to convert a number from one base system to another. Converting a number to decimal is rather straightforward as we have seen in the previous examples. The weights or positional values (for the appropriate base) are multiplied with the digit and summed to give the decimal value. In this section, we will look at methods to convert numbers from decimal to binary, octal and hex. Other conversions such as octal to binary (and vice versa), binary to hex, hex to binary, octal to hex and hex to octal are also possible.
+
+1.3.1	
+
+Decimal to binary, octal and hex conversions
+
+There are two methods that can be used to achieve decimal to binary conversion. The first method is by presenting the decimal value in units, tens, hundreds etc. For example:
+
+The problem with this method is that certain positional values (such as 22 and 20 in the example above) can easily be forgotten. There is another method called repeated division that is more frequently employed. Figure 1.5 illustrates this method. It works by repeated division with a value of 2 (until the quotient is 0) and the remainder digits from each step represent the binary number (in reverse order).
+
+34 2 17 2 8 2 4 2 2 2 1 2
+
+remainder = 17 à 0 LSD
+
+=
+
+8
+
+à
+
+1
+
+=
+
+4
+
+à
+
+0
+
+=
+
+2
+
+à
+
+0
+
+=
+
+1
+
+à
+
+0
+
+=
+
+0
+
+à
+
+1
+
+MSD
+
+Figure 1.5: Decimal to binary conversion example, 3410 = 1000102.
+
+13
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Number System Basics
+
+Similarly, we can convert a decimal number to octal and hex. Figures 1.6 and 1.7 illustrate the steps for these conversions. Do remember that the final answer is in the reverse order!
+
+149 8 18 8 2 8
+
+remainder = 18 à 5 LSD
+
+=
+
+2
+
+à
+
+2
+
+=
+
+0
+
+à
+
+2
+
+MSD
+
+Figure 1.6: Decimal to octal conversion example, 14910 = 2258.
+
+564 16 35 16 2 16
+
+remainder = 35 à 4 LSD
+
+=
+
+2
+
+à
+
+3
+
+=
+
+0
+
+à
+
+2
+
+MSD
+
+Figure 1.7: Decimal to hex conversion example, 56410 = 23416.
+
+1.3.2	
+
+Binary to Octal and vice versa
+
+Any binary number can be converted to octal simply by grouping them in groups of three digits. For example, 1001011108 can be converted to 4568 as shown in Figure 1.8 (a). The reverse procedure of converting an octal number to binary can be done by writing three binary digit equivalent for each octal digit. This is shown in Figure 1.8 (b).
+
+14
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Number System Basics
+
+1 0 0
+
+1 0 1
+
+1 1 0
+
+7
+
+5
+
+2
+
+4
+
+5
+
+6
+
+111
+
+101
+
+010
+
+(a)
+
+(b)
+
+Figure 1.8: Octal to binary conversion example and vice versa: (a) 1001011102 = 4568 (b) 7528 = 1111010102.
+
+1.3.3	
+
+Binary to Hex and vice versa
+
+Similar to octal number, binary number can be converted to hex simply by grouping them in groups of four digits. For example, 100101112 can be converted to 9716 as shown in Figure 1.9 (a). A hex number can be converted to binary by writing four binary digit equivalent for each hex digit. This is shown in Figure 1.9 (b).
+
+1 0 0 1 0 1 1 1
+
+8
+
+3
+
+2
+
+9
+
+7
+
+1000
+
+0011
+
+0010
+
+(a)
+
+(b)
+
+Figure 1.9: Hex to binary conversion example and vice versa: (a) 100101112 = 9716 (b) 83216 = 1000001100102.
+
+1.4	
+
+Other number codes
+
+In this section, several other commonly used codes will be discussed.
+
+1.4.1	
+
+ASCII code
+
+ASCII stands for American Standard Code for Information Interchange. Characters such as ‘a’, ‘A’, ‘@’, ‘$’ each have a code that is recognised by the computer. Standard ASCII has 128 characters (represented by 7 binary digits; 27=128), though the first 32 is no longer used. Extended ASCII has another 128 characters, mostly to represent special characters and mathematical symbols such as ‘ÿ’, ‘ė’, ‘Σ’, and ‘σ’. Table 1.1 shows the standard ASCII code.
+
+15
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+Table 1.1: Standard ASCII code
+
+Number System Basics
+
+D’mal 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 D’mal 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95
+
+Hex 20 21 22 23 24 25 26 27 28 29 2A 2B 2C 2D 2E 2F Hex 50 51 52 53 54 55 56 57 58 59 5A 5B 5C 5D 5E 5F
+
+B’ary 0100000 0100001 0100010 0100011 0100100 0100101 0100110 0100111 0101000 0101001 0101010 0101011 0101100 0101101 0101110 0101111 B’ary 1010000 1010001 1010010 1010011 1010100 1010101 1010110 1010111 1011000 1011001 1011010 1011011 1011100 1011101 1011110 1011111
+
+Char space ! “ # $ % & ‘ ( ) * + , . / Char P Q R S T U V W X Y Z [ \ ] ^ _
+
+D’mal 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 D’mal 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111
+
+Hex 30 31 32 33 34 35 36 37 38 39 3A 3B 3C 3D 3E 3F Hex 60 61 62 63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F
+
+B’ary 0110000 0110001 0110010 0110011 0110100 0110101 0110110 0110111 0111000 0111001 0111010 0111011 0111100 0111101 0111110 0111111 B’ary 1100000 1100001 1100010 1100011 1100100 1100101 1100110 1100111 1101000 1101001 1101010 1101011 1101100 1101101 1101110 1101111
+
+Char 0 1 2 3 4 5 6 7 8 9 : ; < = > ? Char ` a b c d e f g h i j k l m n o
+
+D’mal 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 D’mal 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127
+
+Hex 40 41 42 43 44 45 46 47 48 49 4A 4B 4C 4D 4E 4F Hex 70 71 72 73 74 75 76 77 78 79 7A 7B 7C 7D 7E 7F
+
+B’ary 1000000 1000001 1000010 1000011 1000100 1000101 1000110 1000111 1001000 1001001 1001010 1001011 1001100 1001101 1001110 1001111 B’ary 1110000 1110001 1110010 1110011 1110100 1110101 1110110 1110111 1111000 1111001 1111010 1111011 1111100 1111101 1111110 1111111
+
+Char @ A B C D E F G H I J K L M N O Char p q r s t u v w x y z { | } ~ .
+
+16
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Number System Basics
+
+1.4.2	
+
+Binary coded decimal (BCD)
+
+BCD is actually a set of binary numbers where a group of four binary numbers represent a decimal digit. As there are 10 basic digits in the decimal number system, four binary digits (bits) are required1. Figure 1.10 shows an example, while Table 1.2 gives the BCD code.
+
+9
+
+7
+
+3
+
+1 0 0 1
+
+0 1 1 1
+
+0 0 1 1
+
+Figure 1.9: Hex to binary conversion example and vice versa: 97310 = 10010111.0011BCD.
+
+1	
+
+Three bits will only give eight representations, which is not enough for a decimal system.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+17
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Number System Basics
+
+Table 1.2: BCD code
+
+Decimal 0 1 2 3 4
+
+BCD 0000 0001 0010 0011 0100
+
+Decimal 5 6 7 8 9
+
+BCD 0101 0110 0111 1000 1001
+
+1.4.3	
+
+Gray code
+
+Gray code is another commonly encountered code system. The main feature of this code is that only one bit changes between two successive values. This system is less prone to errors and is considered very useful for practical applications such as mechanical switches and error correction in digital communication as compared to the standard binary system. Table 1.3 gives the BCD code with 4 bits (i.e. up to decimal value of 15).
+Table 1.3: Gray code
+
+Decimal 0 1 2 3 4 5 6 7
+
+Gray 0000 0001 0011 0010 0110 0111 0101 0100
+
+Decimal 8 9 10 11 12 13 14 15
+
+Gray 1100 1101 1111 1110 1010 1011 1001 1000
+
+18
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Introduction to Logic Gates
+
+2	 Introduction to Logic Gates
+The basic building blocks for digital circuits are logic gates. Most logic gates are binary logic, i.e. have two states of 0 or 1. The input or output of these logic gates can only exist in one of these states, where a positive logic system treats 0 as FALSE value and 1 as TRUE value and conversely for the negative logic system. Figure 2.1 shows a logic waveform that is logic 1 between time t1 and t2 and is logic 0 at other times. Positive logic will be assumed throughout the book except where denoted otherwise.
+
+Figure 2.1: Positive logic waveform.
+
+Figures 2.2 and 2.3 show the input and output voltage ranges for logic 0 and 1 for a common logic gate2 used in digital devices. Transition region is the range where the voltage is not defined and hence, the input or output voltage from the device should not fall in this region as the logic value can be either 0 or 1. The output ranges are smaller as compared to input ranges, which is useful to reduce noise interference. The difference between the input-output ranges is known as noise margin. While it is usual to have a noise margin that is the same for both logical values, this does not have to be the case all the time. To illustrate the usefulness of this noise margin, consider an example where there is noise interference in between two devices. Suppose the output voltage from the first digital device is 4.6 V (i.e. digital logic 1) and a spike (noise) of -0.5V enters as interference. The value of input voltage to the second device will be 4.1 V and the input digital level will still be 1. Without this noise margin, the digital level input to the second device will be unpredictable as it will fall within the transition region. The difference between input and output ranges for a given logic value is known as guaranteed noise immunity, which is 1 V in this case. It should also be obvious that the transition region for output voltage will be wider than for the input voltage because of this noise margin.
+
+2	 The gate is actually a CMOS type NAND gate. NAND gates will be discussed later in the chapter.
+
+19
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Introduction to Logic Gates
+
+Logic 0 range for input voltage
+
+Logic 1 range for input voltage Voltages (V)
+
+0
+
+1.5 Transition region for input voltages
+
+3.5
+
+5
+
+Figure 2.2: Input logic related to actual voltages.
+
+20
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Introduction to Logic Gates
+
+Logic 0 range for output voltage
+
+Logic 1 range for output voltage Voltages (V)
+
+0
+
+0.5 Transition region for output voltages
+
+4.5
+
+5
+
+Figure 2.3: Output logic related to actual voltages.
+
+Actual pulse waveform does not resemble the form shown in Figure 2.1, but is rather like the one shown in Figure 2.43 where there is a period of time required for the pulse to rise and fall and these are known as rise and fall times, respectively. The time taken for the pulse to rise from 10% to 90% of the amplitude is rise time while the fall time is the time taken for the amplitude value to drop to 10% from 90%. The actual rise and fall times for a digital device depends on its specifications; costly devices have smaller times. The pulse width is measured using 50% of the rise and fall amplitude values as shown in the figure.
+
+Figure 2.4: An example of actual pulse waveform.
+
+3	 Even this figure is simplified for ease of understanding. Actual waveform will have lots of spikes.
+
+21
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Introduction to Logic Gates
+
+2.1	
+
+AND gate
+The traditional symbol shown in Figure 2.5(a) is more commonly employed in text
+
+Basically AND gate is composed of two inputs and a single output as shown in Figure 2.5 with algebraic representation4
+
+F = A ⋅ B or simply .
+
+books. However, the IEEE/ANSI symbol as shown in Figure 2.5(b) is gaining popularity and has the advantage of containing qualifying symbols inside the logic-symbol that describes the operation of the gate. The truth table that gives the output F for inputs A and B is given in Table 2.1. It can be seen that the output is LOW (FALSE) when any one of the inputs is LOW (FALSE) and the output is only HIGH (TRUE) when all the inputs are HIGH (TRUE).
+
+A B
+
+A
+
+&
+
+F
+
+B
+
+F
+
+(a)
+
+(b)
+
+Figure 2.5: AND gate logic symbols (a) traditional (b) IEEE/ANSI standard. Table 2.1: Truth table for two-input AND gate
+
+A 0 0 1 1
+
+B 0 1 0 1
+
+F 0 0 0 1
+
+AND gate inputs do not have to be limited to two; there can be any number of inputs greater than one as shown in Figure 2.6.
+
+4	
+
+Also known as Boolean or logic expression.
+
+22
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Introduction to Logic Gates
+
+A B C
+
+A
+
+F
+
+B C D
+
+F
+
+(a) (b)
+Figure 2.6: Three and four input AND gates: (a)
+
+F = A⋅ B ⋅C
+
+(b)
+
+F = A⋅ B ⋅C ⋅ D .
+
+2.1.1	
+
+Timing diagram
+
+Timing diagram is useful in describing the relationship between the inputs and output of a logic gate. The inputs of a digital logic gate can be shown diagrammatically as a waveform that represents the changing values over time. A waveform corresponding to the changing values of the inputs over time will be generated at the output of the logic gate. Figure 2.7 show examples of timing diagram waveform for equal and unequal mark-space cycles. The mark represents the time for logic level HIGH, while the space represents the time for logic level LOW. Equal mark-space requires periodic clock pulse5. All the discussion in this book will be using equal mark-space timing waveforms only. 5	 Clock pulses will be discussed in later chapters.
+
+23
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Introduction to Logic Gates
+
+Voltage
+
+5 V (HIGH)
+
+0
+
+1
+
+0
+
+0
+
+1
+
+1
+
+0
+
+Logic levels Time
+
+0 V (LOW)
+
+t0
+
+t1
+
+t2
+
+t3
+
+t4
+
+t5
+
+t6
+
+t7
+
+Space
+
+Mark
+
+(a)
+
+Voltage
+
+5 V (HIGH)
+
+0
+
+1
+
+0
+
+0
+
+1 1
+
+0
+
+Logic levels Time
+
+0 V (LOW)
+
+t0
+
+t1 t2
+
+t3
+
+t4 t5 t6
+Mark
+
+t7
+
+Space
+
+(b) Figure 2.7: Example of timing diagram waveforms: (a) equal mark-space (b) unequal mark-space.
+
+2.1.2	
+
+Timing diagram example for AND gate
+
+Figure 2.8 shows an example of a timing diagram for a two-input AND gate. At each time block, the inputs A and B affect the output F. For example, in time block t0 to t1, both inputs are LOW, so the output is also LOW. Similarly, the entire timing waveform for the output can be obtained using AND operation of inputs in each time block.
+
+24
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Introduction to Logic Gates
+
+0 1 0 0 1 0
+
+A B
+
+F
+
+0 1 1 0 1 1
+
+0 1 0 0 1 0
+
+t0 t1 t2 t3 t4 t5 t6
+
+Figure 2.8: Timing diagram waveform for a two-input AND gate.
+
+2.2	
+
+OR gate
+
+OR gate as shown in Figure 2.9 has algebraic representation, F = A + B . The truth table that gives the output F for inputs A and B is given in Table 2.2. It can be seen that the output is HIGH when any one of the inputs is HIGH and the output is only LOW when all the inputs are LOW.
+
+A B
+
+A
+F
+
+≥1
+
+B
+
+F
+
+(a)
+
+(b)
+
+Figure 2.9: OR gate logic symbols: (a) traditional (b) IEEE/ANSI standard.
+
+25
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+Table 2.2: Truth table for two-input OR gate
+
+Introduction to Logic Gates
+
+A 0 0 1 1
+
+B 0 1 0 1
+
+F 0 1 1 1
+
+Similar to AND gate, there can be any number of inputs greater than one as shown in Figure 2.10.
+
+A B C
+
+A
+
+F
+
+B C D
+
+F
+
+Figure 2.10: Three and four input OR gates: (a)
+
+Y = A+ B+C
+
+(b)
+
+Y = A+ B+C + D.
+
+2.2.1	
+
+Timing diagram example for OR gate
+
+Figure 2.11 shows an example of a timing diagram for a two-input OR gate. At each time block, the inputs A and B affect the output F. For example, in time block t5 to t6, one input is HIGH, so the output is HIGH. Similarly, the entire timing waveform for the output can be obtained using OR operation of inputs in each time block.
+
+0 1 0 0 1 0
+
+A B
+
+F
+
+0 1 1 0 1 1
+
+0 1 1 0 1 1
+
+t0 t1 t2 t3 t4 t5 t6
+Figure 2.11: Timing diagram waveform for a two-input OR gate.
+
+26
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Introduction to Logic Gates
+
+2.3	
+
+NOT gate
+F = A or F = A' . The bubble in the symbol denotes
+
+NOT gate is also known as INVERTER as it inverts (complements) the input logic level. It is shown in Figure 2.12 and has only one input and one output with algebraic representation of inversion (without it, the symbol will represent a buffer gate that does not alter the logic level; in IEEE/ANSI standard, the bubble is replaced by a triangle). The truth table for NOT gate is given in Table 2.3.
+
+A
+
+F
+
+A
+
+1
+
+F
+
+(a)
+
+(b)
+
+Figure 2.12: NOT gate logic symbols: (a) traditional (b) IEEE/ANSI standard. Table 2.3: Truth table for NOT gate
+
+A 0 1
+
+F 1 0
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+27
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Introduction to Logic Gates
+
+NOT gate can also be connected in cascade and a few examples are shown in Figure 2.13. It should be obvious that odd number of NOT gate connections give output logic level that is complement to the input logic level and an even number of NOT gates connections give output logic level that is the same as the input logic level.
+
+A
+
+F
+
+A
+
+F
+
+(a)
+Figure 2.13: Cascade connection of NOT gates: (a)
+
+(b)
+
+F=A=A
+
+(b)
+
+F = A = A.
+
+2.4	
+
+AND implementation with OR gate and vice versa
+
+It is useful to know that AND gate logic can be easily implemented using OR gate and vice versa through a simple process using additional NOT gates. For example, an AND gate equivalent can be constructed with an OR gate with both the inputs and outputs inverted through NOT gates. Figure 2.14 shows an example with equivalent truth table in Table 2.4. This is actually DeMorgan’s first theorem, which will be discussed in detail in Chapter Three. It is mentioned here so that the reader is aware that it is possible to implement one gate logic with another gate(s).
+
+A B
+
+F
+
+A B
+
+F
+
+(a)
+Figure 2.14: AND gate implementation with OR gate: (a) (b) .
+
+(b)
+
+Table 2.4: Truth table illustrating AND gate implementation using OR and NOT gates
+
+A
+0 0 1 1
+
+B
+0 1 0 1 0 0 0 1
+
+A
+1 1 0 0
+
+B
+1 0 1 0
+
+F = A+B
+1 1 1 0
+
+F = A+B
+0 0 0 1
+
+28
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Introduction to Logic Gates
+
+2.5	
+
+NAND gate
+
+NAND and NOR gates that will be discussed in the following section are known as universal gates as combinations of these gates are sufficient to obtain equivalent operation of OR, AND or NOT gates. However, this is different to the implementation discussed in Section 2.4 as either NAND or NOR gates on their own will be sufficient to implement logic function of any of the other gates. NAND gate logic symbol is shown in Figure 2.15 (note the addition of a bubble when compared to AND gate) and its truth table is shown in Table 2.5. A NAND gate operation can also be obtained through cascade operation of AND and NOT gates as shown in Figure 2.16. Algebraically, the operation can be defined as.
+
+A B
+
+A
+F
+
+&
+
+B
+
+F
+
+(a)
+
+(b)
+
+Figure 2.15: NAND gate logic symbols: (a) traditional (b) IEEE/ANSI standard. Table 2.5: Truth table for NAND gate
+
+A 0 0 1 1
+
+B 0 1 0 1
+
+AB 0 0 0 1
+
+F 1 1 1 0
+
+A B
+
+AB
+
+AB
+
+F
+
+Figure 2.16: NAND gate logic using AND and NOT gates.
+
+Figure 2.17 shows an example for implementing an AND gate using NAND gates only. The blue shaded tiny bubble represents branch-off of the signal and should not be confused with the empty bubble that is used to represent inversion operation. Similarly, other gates such as OR and NOT can be implemented using NAND gates and these are left as exercises for the reader.
+
+29
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Introduction to Logic Gates
+
+A B Signal branch-off
+
+AB F=AB=AB AB
+
+Figure 2.17: AND gate implementation using two NAND gates.
+
+.
+
+30
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Introduction to Logic Gates
+
+2.6	
+
+NOR gate
+
+NOR gate is basically an OR gate with the output inverted. Figure 2.18 shows the logic symbol with truth table shown in Table 2.6. Algebraically, the operation can be defined as F = A + B . Similar to NAND gate, several NOR gates can be used to implement AND, OR or NOT gates. An example of this is shown in Figure 2.19 and the reader can easily verify through the use of truth tables that .
+
+A B
+
+A
+F
+
+≥1
+
+B
+
+F
+
+(a)
+
+(b)
+
+Figure 2.18: NOR gate logic symbols: (a) traditional (b) IEEE/ANSI standard. Table 2.6: Truth table for NOR gate
+
+A 0 0 1 1
+
+B 0 1 0 1
+
+A+B 0 1 1 1
+
+F 1 0 0 0
+
+A
+
+A
+
+F=A+B=AB B B
+
+Figure 2.19: AND gate logic implementation using NOR gates.
+
+31
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Introduction to Logic Gates
+
+2.7	
+
+Integrated circuits
+
+All the gates that we have discussed in this chapter are manufactured as integrated circuit (IC) with several gates in one IC. For example, 74LS00 is a transistor-transistor logic (TTL) technology based IC that has four (quad) two-input NAND gates. Complementary Metal-Oxide Semiconductor (CMOS) is another technology that is widely used for manufacturing IC but TTL devices are more commonly employed for laboratory experiments as they are more robust to electrostatic noise. Figure 2.20 shows the pin configuration of 74LS00 and Figure 2.21 shows an example of pin configurations to implement NOT operation. Pin 14 is connected to the power supply while pin 7 is the ground pin. It should be obvious that the LED will only light-up (i.e. the output will be HIGH) if switch A is turned OFF (i.e. made to logic level LOW) – similar to the input and output values as in the truth table shown in Table 2.3.
+
+14
+
+13
+
+12
+
+11
+
+10
+
+9
+
+8
+
+VCC
+
+GND
+1 2 3 4 5 6 7
+Figure 2.20: 74LS00 - Quad NAND IC.
+
++5 V
+
+14
+
+13
+
+12
+
+11
+
+10
+
+9
+
+8
+
+VCC
+
+GND
+1 2 3 LED Switch A 4 5 6 7
+
+Figure 2.21: NOT gate implementation example using 74LS00.
+
+32
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Combinatorial Logic Circuits
+
+3	 Combinatorial Logic Circuits
+In the previous chapter, operation and truth tables of single gates were discussed. However, in practise, single gates are seldom useful and combinations of several gates are employed for a particular application. For example, see Figure 3.1 where different gates are used to obtain the output F.
+
+A B
+
+B
+
+AB F = AB(B+C) B+C
+
+C
+
+Figure 3.1: Example of combinatorial logic circuit.
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+33
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Combinatorial Logic Circuits
+
+3.1	
+
+Logic circuit simplification
+
+Very often, there is the need to simplify logic circuits (whenever possible). For example, the circuit shown in Figure 3.1 requires four gates but equivalent logic output can be obtained with just two gates by simplifying the expression as follows:
+
+AB B is zero due to the presence of B B as shown in the truth table given in Table 3.1. The simplified circuit is given in Figure 3.2. Table 3.2 gives the truth table and it can be seen that the outputs given by expressions F = AB ( B + C ) and F = AB C are the same.
+Table 3.1: Truth table for
+
+AB B BB
+0
+0 0 0
+
+A 0
+0 1 1
+
+B 0
+1 0 1
+
+B
+1
+0 1 0
+
+AB B
+0
+0 0 0
+
+A B C
+
+B
+
+F = ABC
+
+Figure 3.2: Simplified logic circuit.
+
+34
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Combinatorial Logic Circuits
+
+Table 3.2: Truth table for
+
+F = AB ( B + C )
+
+and
+
+F = AB C
+F = AB C
+0 0 0 0 0 1 0 0
+
+A
+0 0 0 0 1 1 1 1
+
+B
+0 0 1 1 0 0 1 1
+
+C
+0 1 0 1 0 1 0 1
+
+F = AB ( B + C )
+0 0 0 0 0 1 0 0
+
+The above simplification may not be clear at this stage but that will be the purpose of the following sections to look into Boolean algebra that will be useful to simplify logic circuits. Not only will the simplification result in lower cost, smaller and simpler design (since fewer gates will be used), it will also reduce other complications such as overheating and propagation delay.
+
+3.2	
+
+Boolean algebra
+
+Basic axioms of Boolean algebra are shown in Table 3.3, while Table 3.4 shows the Boolean theorems for operation of a single variable and a constant (either 0 or1). Boolean algebra satisfies commutative and associative laws. Therefore, the order of variables in a product or sum does not matter and the order of evaluating sub-expression in brackets does not matter. For example: Commutative law: A + B = B + A and A ⋅ B = B ⋅ A ; Associative law: A + ( B + C ) = ( A + B ) + C = A + B + C and A ⋅ ( B ⋅ C ) = ( A ⋅ B ) ⋅ C = A ⋅ B ⋅ C . Boolean algebra also satisfies the distributive law where the expression can be expanded by multiplying out the terms. For example: Distributive law: A ⋅ ( B + C ) = A ⋅ B + A ⋅ C . It should be evident by now that when an expression contains AND and OR, AND operator takes precedence over OR operator. For example, 0 ⋅ 1 + 1 ⋅ 1 = 0 + 1 = 1 and not 0 ⋅ 1 + 1 ⋅ 1 = 0 ⋅ 1 ⋅ 1 = 0.
+
+35
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+Table 3.3: Basic axioms of Boolean algebra
+
+Combinatorial Logic Circuits
+
+1=0
+
+1
+
+0
+
+0 =1
+
+0
+
+1
+
+1 ⋅1 = 1
+
+1 1
+
+0⋅0 = 0
+1
+
+0 0
+
+0
+
+0 ⋅1 = 0
+
+0 1
+
+1⋅ 0 = 0
+0
+
+1 0
+
+0
+
+0 +1 = 1
+
+0 1
+
+1+ 0 = 1
+1
+
+1 0
+
+1
+
+1+1 = 1
+
+1 1
+
+0+0 = 0
+1
+
+0 0
+
+0
+
+36
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Combinatorial Logic Circuits
+Table 3.4: Boolean theorems for operation of a single variable and a constant
+
+0⋅ B = 0
+
+0 B
+
+0+ B = B
+0
+
+0 B
+
+B
+
+1⋅ B = B
+
+1 B
+
+1+ B = 1
+
+B
+
+1 B
+
+1
+
+B⋅B = B
+
+B B
+
+B+B= B
+
+B
+
+B B
+
+B
+
+B⋅B = 0
+
+B B
+
+B + B =1
+
+0
+
+B B
+
+1
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+37
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Combinatorial Logic Circuits
+
+3.3	
+
+DeMorgan’s theorem
+
+DeMorgan’s theorem is very useful to simplify expressions when they contain a bar (inversion) over more than a single variable. It states that an inverted expression can be replaced by its individual inverted variables but with AND replaced by OR and vice versa. For example: DeMorgan’s theorem: A ⋅ B = A + B and A + B = A ⋅ B Figure 3.3 shows the circuit equivalence using DeMorgan’s theorem.
+
+A B
+
+AB
+
+A B
+
+A+B
+
+A B
+
+A+B
+
+A B
+
+AB
+
+Figure 3.3: Circuit equivalence using DeMorgan’s theorem.
+
+3.3.1	
+
+Examples illustrating DeMorgan’s theorem
+
+The following examples show the usefulness of using DeMorgan’s theorem. Note that from now on, the use of AND ( ⋅ ) sign in the expression will be dropped for simplicity sake unless noted otherwise, so F = A ⋅ B ⋅ C will be written as .
+
+38
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Combinatorial Logic Circuits
+
+3.4	
+
+More examples
+
+In this section, several examples are given to illustrate simplification using Boolean algebra and DeMorgan’s theorem:
+
+39
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Combinatorial Logic Circuits
+
+6
+
+6	 There is a simpler method to obtain the solution by letting X=AB in the first place but the shown procedure illustrates several useful simplifications.
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+40
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Combinatorial Logic Circuits
+
+As another example, consider the circuit diagram given in Figure 3.4 which can be simplified as
+
+A B C D F
+
+Figure 3.4: Logic circuit example for simplification.
+
+The correctness of the simplified expression can be verified by constructing a truth table and comparing the output from both expressions. The simplified logic circuit diagram is shown in Figure 3.5 where only five gates are required as opposed to six gates in the original circuit. It can be seen that there is no input A as its logic value does not affect the output based on the simplified expression.
+
+41
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Combinatorial Logic Circuits
+
+B C D F
+
+Figure 3.5: Simplified logic circuit of the example shown in Figure 3.4.
+
+While the expression for the logic circuit shown in Figure 3.5 is simplified to single literals, it is interesting to note that another equivalent logic circuit shown in Figure 3.6 only requires four gates as F = B C + D = B + C + D .
+
+B C
+
+F
+
+D
+
+Figure 3.6: Equivalent logic circuit of the example shown in Figures 3.4 and 3.5.
+
+If complement inputs are available, then the simplified circuit shown in Figure 3.5 will only require two gates as shown in Figure 3.7.
+
+B C D F
+
+Figure 3.7: Simplified logic circuit when complement inputs are available.
+
+42
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Combinatorial Logic Circuits
+
+3.5	
+
+XOR and XNOR gates
+
+To conclude the chapter, it is useful to look at two more frequently used gates: Exclusive OR (XOR) and Exclusive NOR (XNOR). These gates would be useful when circuitry such as half adders and full adders are discussed in later chapters. XOR gate as shown in Figure 3.8 has algebraic representation, F
+
+= AB + A B or more commonly written as F = A ⊕ B .
+
+The truth table that gives the output F for inputs A and B is given in Table 3.5. It can be seen that when both inputs have the same logic value, the output is LOW. The output is HIGH when the input logic values are dissimilar, i.e. one LOW and one HIGH.
+
+A B
+
+A
+F
+
+=1
+
+B
+
+F
+
+(a)
+
+(b)
+
+Figure 3.8: NOR gate logic symbols: (a) traditional (b) IEEE/ANSI standard.
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+43
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Digital Systems Design
+Table 3.5: Truth table for two-input XOR gate
+
+Combinatorial Logic Circuits
+
+A 0 0 1 1
+
+B 0 1 0 1
+
+F 0 1 1 0
+
+XNOR gate is simply XOR with an inversion. The gate is shown in Figure 3.9 and has algebraic representation,
+
+The truth table is given in Table 3.6. The output is HIGH when both inputs have the same logic value. The output is LOW when the input logic values are dissimilar, i.e. one LOW and one HIGH.
+
+A B
+
+A
+F
+
+=1
+
+B
+
+F
+
+(a)
+
+(b)
+
+Figure 3.9: XNOR gate logic symbols: (a) traditional (b) IEEE/ANSI standard.
+
+44
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+Table 3.6: Truth table for two-input XNOR gate
+
+Combinatorial Logic Circuits
+
+A 0 0 1 1
+
+B 0 1 0 1
+
+F 1 0 0 1
+
+3.5.1	
+
+Boolean algebra for XOR operation
+
+Table 3.7 shows the Boolean algebra for XOR operation. XOR operation is also both commutative and associative:
+
+A ⊕ B = B ⊕ A and A ⊕ ( B ⊕ C ) = ( A ⊕ B) ⊕ C = A ⊕ B ⊕ C .
+Table 3.7: Boolean algebra for XOR operation
+
+A⊕0 = A
+A ⊕1 = A
+3.5.2	 Parity checker
+
+A⊕ A = 0
+A⊕ A =1
+
+A⊕ B = A⊕ B A ⊕ B = A⊕ B
+
+As mentioned earlier, XOR gates are useful when designing more advanced circuitry such as adders, but these are also used in parity checker devices. Parity checker is used to reduce errors from transmitting a binary code across a communication channel. For example, if the seven bit ASCII code for W, 1010111 (see Table 1.1) is to be transmitted, an eight parity bit is appended at the beginning of the code. This parity bit will either be 0 or 1 depending on whether even or odd parity is required. Assuming that it is even parity checker, then the total number of bits will be even. In this case, the parity bit will be 1 and code to be transmitted will be 11010111. XOR gates can be used as even parity checker. For example, with three inputs, the expression will be when odd number of inputs is HIGH. Figure 3.10 shows the logic circuit using seven two-input XOR gates where the bits representing the code are A0, A1,…., A6 and the parity bit is P. The output F will be HIGH when odd number of inputs is HIGH. So if the code is not transmitted correctly (say resulting in odd number of 1s), then the LED will light-up to show that an error has occured. On the other hand, with correct transmission, the number of 1s will be even and the output will be low (i.e. LED will not light-up).
+
+F = A⊕ B ⊕C
+
+and the output is HIGH if one of the inputs or all three inputs are HIGH. Similarly, for eight inputs, the output is HIGH
+
+45
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Combinatorial Logic Circuits
+
+A0 A1 A2 A3
+
+A0 ⊕ A1
+
+A0 ⊕ A1 ⊕ A2 ⊕ A3
+
+A2 ⊕ A3
+A4 ⊕ A5
+
+F = A0 ⊕ A1 ⊕ A2 ⊕ A3 ⊕ A4 ⊕ A5 ⊕ A6 ⊕ P
+LED
+
+A4 A5 A6 P
+
+A4 ⊕ A5 ⊕ A6 ⊕ P
+A6 ⊕ P
+
+Figure 3.10: XOR gate usage as even parity checker.
+
+It should be obvious that XNOR gates can be used as odd parity checker as the output will be HIGH only when even number of inputs is HIGH.
+
+AXA Global Graduate Program
+Find out more and apply
+
+46
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Karnaugh Maps
+
+4	 Karnaugh Maps
+In the previous chapter, simplification of expressions for combinatorial logic circuits was studied using Boolean algebra and DeMorgan’s theorem. In this chapter, a different graphical based method called Karnaugh maps (or K-maps in short) will be studied to simplify the expressions. But before K-maps can be discussed, the two types of methods for writing logic circuit expressions will be discussed.
+
+4.1	
+
+Sum of products
+
+Sum of products (SOP) is a method to express the terms in a logic expression as a sum of products. For example:
+
+The logic circuit diagrams for these expressions are shown in Figure 4.1. It can be seen that each product term is connected using an OR gate.
+
+A B C
+F = ABC + AB C
+
+A B
+
+F = AB + AB + A B
+
+Figure 4.1: SOP logic circuit examples.
+
+47
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Karnaugh Maps
+
+Tables 4.1 and 4.2 give the truth tables for these expressions. Each product term results in the output F = 1. For example, the expression F = ABC + AB C gives output of 1 when A=1, B=1 and C=1 for F = ABC and similarly for F = AB C , the output is 1 when A=1, B = 1 (i.e. B = 0 ) and C=1.
+Table 4.1: Truth table for F = ABC + AB C
+
+Table 4.2: Truth table for
+
+4.2	
+example:
+
+Product of sums
+
+Products of sums (POS) is another method to express the terms in a logic circuit expression as a product of sums. For
+
+48
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Karnaugh Maps
+
+The logic circuit diagrams for these expressions are shown in Figure 4.2. An AND gate connects each of the sum terms.
+
+A B
+F = ( A + B)( A + B )
+
+49
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Karnaugh Maps
+
+A
+
+B
+
+F = ( A + B + C )( A + C )( B + C )
+
+C
+
+Figure 4.2: POS logic circuit examples.
+
+The truth table for the first POS example,
+
+is given in Table 4.3. To understand the table, consider
+
+and using DeMorgan’s theorem, we can obtain
+
+So, the truth table for POS terms can be easily completed for each term by giving output F=0 with the variables A and B following negative logic (i.e. complemented variable is logic 1 and uncomplemented variable is logic 0).
+Table 4.3: Truth table for
+
+50
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Karnaugh Maps
+
+Table 4.4 gives the truth table for the second POS example, procedure, consider
+
+. Following the similar
+
+F = ( A + B + C) + ( A + C) + (B + C)
+F = ABC + AC + BC
+
+F = A B C + A C ( B + B ) + B C ( A + A ) 	since X + X = 1
+F = A B C + A BC + A B C + AB C + A B C 	 F = A B C + A BC + AB C 			as A B C + A B C + A B C = A B C
+Table 4.4: Truth table for
+
+POS expressions are not frequently employed in digital systems but discussed here for the sake of completeness.
+
+4.3	K-maps
+As mentioned earlier, K-map is a graphical method that is useful to simplify logic expressions. While the algebraic methods discussed in Chapter 3 can equally be used to simplify the expression, it is often easier to simplify an expression using K-maps when the number of variables is higher.
+
+51
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Karnaugh Maps
+
+4.3.1	
+
+Two variable K-map
+
+Consider a truth table as in Table 4.5 with two variables A and B. Its corresponding K-map is drawn in Figure 4.3. The K-map can be completed for variable combinations that give F=1 and F=0 as in the figure but it is common practice not to include F=0 in K-maps, so we shall only include combinations that give F=1 after this example.
+Table 4.5: Truth table for two variable K-map example
+
+A 0 0 1 1
+
+B 0 1 0 1
+
+F 0 1 1 1
+
+A=0
+
+A=1
+
+A
+B=0 B=1
+
+A
+F=1 F=1
+
+B
+B
+
+F=0 F=1
+
+Figure 4.3: K-map example from truth table in Table 4.5.
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+52
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Karnaugh Maps
+
+To simplify the expression, start by creating a loop for This loop is known as pair loop as it involves looping two 1s. Since
+
+(i.e. for adjacent cells) as shown in Figure 4.4(a). the looping
+
+will result in F = A , i.e. the variable in complement and uncomplemented form disappears. The process is repeated until all 1s have been looped (note that loops can overlap). Hence, repeat the looping as shown in Figure 4.4(b) where
+
+. Since all 1s in the K-map have been looped, further simplification is not possible and the simplified expression is a combination of the two looped terms (each loop gives one term): F = A + B .
+
+Figure 4.4: Two variable K-map looping: (a)
+
+F = A , (b) F = B . Simplified expression from both loops is F = A + B .
+
+Consider solving the example algebraically from the truth table with K-map (each term is a variable combination that gives F=1):
+
+The answer is obviously the same.
+
+4.3.2	
+
+Three variable K-map
+
+In addition to pair loops, we can have quad loops (involving four 1s). Consider a three variable logic expression: . A truth table can be completed with each term ABC , AB C , A B C , AB C giving output F=1 as shown in Table 4.6.
+
+53
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Karnaugh Maps
+
+Table 4.6: Truth table for
+
+Figure 4.5 gives the completed three variable K-map. Note in particular on the sequence of variables A and B in the K-map. The sequence (order) follows gray code (00011110 with A B  A B   AB ) where only one bit changes in adjacent cells. Figure 4.6(a) shows the quad loop applied for four adjacent 1s. Variables B and C are in complemented and uncomplemented forms in the quad loop, so these variables will disappear leaving only variable A. For this loop, algebraically,
+
+However, it is not the end of the simplification as there is one more 1 that is not paired (for F = A B C ). Loops in K-maps can wrap around, so create a pair loop as shown in Figure 4.6(b). Variable A is in complemented and uncomplemented forms in the pair loop, so it will disappear leaving only B C . So the resulting simplified expression will be F = A + B C .
+
+54
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Karnaugh Maps
+
+Figure 4.5: Three variable K-map for .
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+55
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Karnaugh Maps
+
+Figure 4.6: Three variable K-map shown in Figure 4.5: (a) quad loop (b) quad with pair loop.
+
+A B has only two variables, it should be expanded to give A B = A B (C + C ) = A B C + A B C . So F = A B C + A B C + AB C + AB C . Now the K-map can be constructed as shown in Figure 4.7 and quad loop applied to give F = B .
+As another example, consider F = A B + AB C + AB C . Since one of the terms,
+
+Figure 4.7: Three variable K-map for
+
+F = A B C + A B C + AB C + AB C .
+
+It can be verified that algebraic simplification also gives the same result:
+
+F = A B + AB C + AB C
+
+F = A B + AB (C + C ) F = A B + AB F = B ( A + A) F=B
+
+56
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Karnaugh Maps
+
+4.3.3	
+
+Four variable K-map
+
+Consider a logic expression with four variables:
+
+Figure 4.8 shows the K-map for this expression. With four variables, octet looping (with eight 1s) is possible. Note that loops should be as big as possible, so if there is a choice of two quad loops and one octet loop, then the octet loop should be created. Only variable C remains from the octet loop as the other variables are in both complement and uncomplemented forms and hence disappear. There are two quad loops that give and A D (wrapped around loop). The final expression is . It should be obvious now that a pair loop removes one variable, a quad loop removes two variables while an octet loop removes three variables. In the example above, octet loop removed variables A , B and D .
+
+Figure 4.8: Four variable K-map.
+
+4.3.4	
+
+Additional examples
+
+Consider the truth table as in Table 4.7. For this example, let us obtain the simplified logic circuit diagram.
+
+57
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+Table 4.7: Truth table for additional example 1
+
+Karnaugh Maps
+
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+58
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Karnaugh Maps
+
+First, the logic expression should be obtained from the truth table and using it, K-map drawn (as shown in Figure 4.9). Next, we can obtain the simplified expression and with it draw the simplified logic circuit diagram as shown in Figure 4.10. Logic expression:
+
+K-map:
+
+Figure 4.9: K-map for additional example 1.
+
+Simplified expression: . Simplified logic circuit diagram:
+
+A B C D
+Figure 4.10: Simplified logic circuit diagram additional example 1.
+
+F = A + BD + CD
+
+59
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Karnaugh Maps
+
+As another example, consider a logic expression, its corresponding K-map as shown Figure 4.11.
+
+and
+
+Figure 4.11: K-map for the additional example 2.
+
+The wrapped around quad loop gives B D while the pair loop gives A B C . There is a single 1 that can’t be looped, so it remains as it is: . So, the simplified expression is .
+
+4.3.5	
+
+Don’t care conditions
+
+In digital logic design, we often encounter don’t care conditions. These conditions are cases that won’t occur in our design and hence the output can be set to any value (either 0 or 1). Don’t care conditions are denoted using X in the truth tables and K-maps. For example, consider a seven segment display device as shown in Figure 4.12 that is commonly used to display hexadecimal characters.
+a f g e d
+Figure 4.12: Seven segment display.
+
+b
+
+c
+
+The device consists of light emitting diodes (LEDs)7 that light up with different patterns to give the hexadecimal output as shown in Figure 4.13. Note that the hex characters A to F are normally displayed in a mixture of upper and lowercase to avoid ambiguity (for example differentiating D with 0, B with 8 etc).
+
+7	
+
+Newer devices operate using liquid crystal technology.
+
+60
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Karnaugh Maps
+
+Figure 4.13: Hex characters displayed by the seven segment display.
+
+Table 4.8 gives the character encodings for the seven LEDs (a, b, .... ,g), where a 1 denotes that the LED will be ON and a 0 denotes that the LED will be OFF. So to display numeral 0, LEDs a, b, c, d, e, and f will be turned on and LED g will be off. Similarly, to display character F, LEDs a, e, f, and g will be on while LEDs b, c, and d will be off.
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+61
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+Table 4.7: Character encodings for seven segment display LEDs
+
+Karnaugh Maps
+
+LED Digit 0 1 2 3 4 5 6 7 8 9 A b C d E F a 1 0 1 1 0 1 1 1 1 1 1 0 1 0 1 1 b 1 1 1 1 1 0 0 1 1 1 1 0 0 1 0 0 c 1 1 0 1 1 1 1 1 1 1 1 1 0 1 0 0 d 1 0 1 1 0 1 1 0 1 1 0 1 1 1 1 0 e 1 0 1 0 0 0 1 0 1 0 1 1 1 1 1 1 f 1 0 0 0 1 1 1 0 1 1 1 1 1 0 1 1 g 0 0 1 1 1 1 1 0 1 1 1 1 0 1 1 1
+
+Now, for the sake of discussing the don’t care conditions, consider that we are going to use the seven segment display only to display the decimal numerals (i.e. 0 to 9). So, while designing the necessary wiring for the device, we can now ignore displays for the rest of the characters A to F. This situation will be denoted with X as in Table 4.8. Let us obtain the logic expression for LED a. To avoid confusion with the hex characters, we’ll denote the variables as P, Q, R, and S instead of A, B, C and D as used earlier. Four variables (i.e. four inputs) are required since we have ten possible combinations.
+
+62
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+Table 4.8: Seven segment display LED encoding for decimals (showing don’t care conditions)
+
+Karnaugh Maps
+
+LED Digit 0 1 2 3 4 5 6 7 8 9 A b C d E F a 1 0 1 1 0 1 1 1 1 1 X X X X X X b 1 1 1 1 1 0 0 1 1 1 X X X X X X c 1 1 0 1 1 1 1 1 1 1 X X X X X X d 1 0 1 1 0 1 1 0 1 1 X X X X X X e 1 0 1 0 0 0 1 0 1 0 X X X X X X f 1 0 0 0 1 1 1 0 1 1 X X X X X X g 0 0 1 1 1 1 1 0 1 1 X X X X X X
+
+Using the truth table, we can now construct the K-map as shown in Figure 4.14 (without considering don’t care conditions) and Figure 4.15 (with don’t care conditions).
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+63
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+Table 4.9: Truth table for LED a
+
+Karnaugh Maps
+
+Digit 0 1 2 3 4 5 6 7 8 9 A b C d E F
+
+P 0
+
+Q 0
+
+R 0
+
+S 0
+
+LED a 1 0 1 1 0 1 1 1 1 1 X X X X X X
+
+0 0 0 0 0 0 0 1 1 1 1 1 1 1 1
+
+0 0 0 1 1 1 1 0 0 0 0 1 1 1 1
+
+0 1 1 0 0 1 1 0 0 1 1 0 0 1 1
+
+1 0
+1 0 1 0
+
+1 0 1 0 1 0 1 0 1
+
+Figure 4.14: K-map for LED a without considering don’t care conditions.
+
+The simplified expression without considering don’t care conditions is Note that the solution is not unique as the wrapped around pair loop could also be formed for giving
+
+PQ S
+
+instead of
+
+Q RS
+
+as shown for .
+
+PQ R S
+
+and
+
+P Q RS
+
+PQ RS
+
+and
+
+P Q RS
+
+.
+
+. With this, the simplified expression will be
+
+64
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Karnaugh Maps
+
+Now consider Figure 4.15 where the don’t care conditions are accounted. Since X is either 0 or 1, we can assume it to be 1 and use in the looping procedures.
+
+Figure 4.15: K-map for LED a (considering don’t care conditions).
+
+The simplified expression is now by considering the don’t care conditions.
+
+and it can be seen that the expression is made simpler
+
+As a final example for the chapter, let us obtain the logic expression for LED b. Table 4.10 gives the truth table and Figure 4.16 shows the K-map with don’t care conditions. The simplified logic expression is . It should not be forgotten that the loops should be as big as possible.
+
+65
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+Table 4.10: Truth table for LED b
+
+Karnaugh Maps
+
+Digit 0 1 2 3 4 5 6 7 8 9 A b C d E F
+
+P 0
+
+Q 0
+
+R 0
+
+S 0
+
+LED b 1 1 1 1 1 0 0 1 1 1 X X X X X X
+
+0 0 0 0 0 0 0 1 1 1 1 1 1 1 1
+
+0 0 0 1 1 1 1 0 0 0 0 1 1 1 1
+
+0 1 1 0 0 1 1 0 0 1 1 0 0 1 1
+
+1 0
+1 0 1 0
+
+1 0 1 0 1 0 1 0 1
+
+Figure 4.16: K-map for LED b with don’t care conditions.
+
+66
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Bistable Multivibrator Circuits
+
+5	 Bistable Multivibrator Circuits
+In this chapter, circuits that have two stable states (i.e. off and on) will be studied. These circuits are also commonly known as flip-flops. As they have two stable states (i.e. logic 0 or 1), they are useful to store one bit of digital data, i.e. as memory elements. Several types of flip-flops will be studied before we look at other multivibrators to generate single and train of pulses. Figure 5.1 shows a general flip-flop symbol. Usually, there are one or two inputs to the flip-flop and the output also has a complement. The inputs are either logic 0 or 1 and commonly known as set (or preset) input when equal to 1 (HIGH state) and reset (or clear) input when equal to 0 (LOW state).
+
+Inputs (normally one or two)
+
+Q
+
+Output Complement output
+
+Q
+
+Figure 5.1: General flip-flop symbol.
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+67
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Bistable Multivibrator Circuits
+
+5.1	
+
+S-R flip-flop
+
+S-R flip-flop (also known as set-reset or latch) can be constructed using NOR or NAND gates. Both types of flip-flops are shown in Figure 5.2. The truth table for the S-R flip-flop is shown in Table 5.1. Q+ here denotes the next state of output Q.
+
+S S-R FF R
+
+Q
+
+Q
+
+(a)
+
+S
+
+Q
+
+R
+
+Q
+
+(b)
+
+S
+
+Q
+
+R
+
+Q
+
+(c) Figure 5.2: S-R flip-flop: (a) general symbol (b) using NAND gates (c) using NOR gates.
+
+68
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+Table 5.1: Truth table for S-R flip-flop
+
+Bistable Multivibrator Circuits
+
+S 0 1 0 1
+
+R 0 0 1 1
+
+Q+ Q 1 0 No change, Q+=Q Set output Q+=1 Clear output Q+=0 Invalid state
+
+It can be seen that for both NAND and NOR types, there is feedback for the output and complemented output to the inputs. When both S and R inputs are LOW (logic 0), the output of the flip-flop will be the same as its previous state, i.e. no change in the Q state. A HIGH (logic 1) S input to the flip-flop will cause the output Q+ to change state to HIGH. Similarly, R=1 input will cause the S-R flip-flop’s output Q+=0. It should be obvious that the S input sets the flip-flop to logic 1 while the R input resets the flip-flop to logic 0. S-R flip-flop output is not defined when both inputs are 1, so this situation should be avoided when using the S-R flip-flop. In the above discussion, state of of Q at all times.
+
+Q will be opposite to the state
+
+5.1.1	
+
+S-R flip-flop with Enable input
+
+An enabling input can be used to control the operation of the flip-flops as shown in Figure 5.3. Here the inputs R and S will only have an effect on the output Q+ if the enable input is 1. When E=1, the NAND gates (in bold) will act as inverters, thereby the circuit behaving exactly like the NAND gate S-R flip-flop in Figure 5.2(b). Table 5.2 gives the truth table values.
+
+S
+
+Q
+
+E Q
+
+R
+
+Figure 5.3: S-R flip-flop with Enable input.
+
+69
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+Table 5.2: Truth table for S-R flip-flop with Enable input
+
+Bistable Multivibrator Circuits
+
+E 0 0 0 0 1 1 1 1
+
+S 0 1 0 1 0 1 0 1
+
+R 0 0 1 1 0 0 1 1
+
+Q+ Q Q Q Q Q 1 0 No change, Q+=Q No change, Q+=Q No change, Q+=Q No change, Q+=Q No change, Q+=Q Set output Q+=1 Clear output Q+=0 Invalid state
+
+The stuff you'll need to make a good living
+
+STUDY. PLAY.
+
+The stuff that makes life worth living
+
+NORWAY. YOUR IDEAL STUDY DESTINATION.
+WWW.STUDYINNORWAY.NO FACEBOOK.COM/STUDYINNORWAY
+
+70
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Bistable Multivibrator Circuits
+
+5.1.2	
+
+Clocked S-R flip-flop
+
+Similar to the enable input, there could be a clock (i.e. pulsed) input to the flip-flop. Clocked S-R flip-flop is shown in Figure 5.4 where the edge of the clock (either positive or negative) triggers the change in the flip-flop state. The negative edge of the clock occurs when the clock pulse drops from logic 1 to 0 and is also known as negative going transition (NGT) while the positive going transition (PGT) occurs when the clock pulse goes from logic 0 to 1. An opposite clock edge will not affect the flip-flop output. For example, a negative edge triggered flip-flop will not change state during the positive edge. Table 5.3 shows the truth table for the NGT clocked flip-flop where it can be seen that the flip-flop changes state during the corresponding negative triggering edge of the clock. The PGT clocked flip-flop behaves similarly except that the change (if any) occurs during the positive edge transition of the clock.
+
+S Clock pulse R PGT triggered S-R FF
+
+Q Clock pulse Q
+
+S S-R FF R NGT triggered
+
+Q
+
+Q
+
+(a)
+
+(b)
+
+Figure 5.4: Clocked S-R flip-flops: (a) PGT (b) NGT, note the bubble for NGT triggered flip-flop. Table 5.3: Truth table for NGT clocked S-R flip-flop
+
+Clock
+
+S 0 1 0 1
+
+R 0 0 1 1
+
+Q+ Q 1 0 No change, Q+=Q Set output Q+=1 Clear output Q+=0 Invalid state
+
+71
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Bistable Multivibrator Circuits
+
+A few examples using timing diagrams follow to illustrate the behaviour of clocked S-R flip-flops. Figure 5.5 shows an example on how the timing diagram changes for NGT clocked S-R flip-flop. Any change in the output Q will only occur during NGT (shown by t1, t2, …, t5): -- At time t1, Q goes to logic 1 as S=1, R=0 -- At time t2, Q remains at logic 1 as S=1, R=0 -- At time t3, Q goes to logic 0 as S=0, R=1 -- At time t4, Q remains at logic 0 as S=0, R=1 -- At time t5, Q goes to logic 1 as S=1, R=0 There won’t be any changes during tPGT for negative edge triggered flip-flop.
+
+Clock
+
+1 0 1 0 1 0 1 0
+
+NGT triggered
+
+S
+
+R
+
+Q
+
+t1 tNGT
+
+t2 tNGT
+
+t3 tNGT
+
+t4 tNGT
+
+t5 tNGT
+
+Figure 5.5: Timing diagram for NGT clocked S-R flip-flop example.
+
+A PGT clocked S-R flip-flop timing diagram example is shown in Figure 5.6. Any change in the output Q will only occur during PGT (shown by t1, t2, …, t5): -- At time t1, Q goes to logic 1 as S=1, R=0 -- At time t2, Q remains at logic 1 as S=0, R=0 -- At time t3, Q goes to logic 0 as S=0, R=1 -- At time t4, Q goes to logic 1 as S=1, R=0 -- At time t5, Q goes to logic 0 as S=0, R=1 There won’t be any changes during tNGT for positive edge triggered flip-flop.
+
+72
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Bistable Multivibrator Circuits
+
+Clock
+
+1 0 1 0 1 0 1 0
+
+PGT triggered
+
+S
+
+R
+
+Q
+
+t1 tPGT
+
+t2 tPGT
+
+t3 tPGT
+
+t4 tPGT
+
+t5 tPGT
+
+Figure 5.6: Timing diagram for PGT clocked S-R flip-flop example.
+
+I joined MITAS because I wanted real responsibili� I joined MITAS because I wanted real responsibili�
+
+Maersk.com/Mitas www.discovermitas.com
+
+�e Graduate Programme for Engineers and Geoscientists
+
+� for Engin
+
+M
+
+Real work International Internationa al opportunities �ree wo work or placements
+
+Month 16 I was a construction M supervisor ina cons I was the North Sea supe advising and the N he helping foremen advis s solve problems Real work he helping International Internationa al opportunities �ree wo work or placements s solve p
+Click on the ad to read more
+
+73
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Bistable Multivibrator Circuits
+
+5.1.3	
+
+Asynchronous flip-flop inputs
+
+The S and R inputs are known as synchronous inputs as their effects are synchronised to the clock input. Flip-flops can also have asynchronous inputs that can affect the output at any time irrespective of the clock pulse. Figure 5.7 shows the NGT S-R flip-flop symbol with two additional pulse inputs: ( PRE ) that sets the output to logic 1 and clear ( CLR ) that sets the output to logic 0. Both these inputs are ACTIVE LOW8 (shown with an overbar, also note the existence of the bubble in the figure), which means that a logic 0 input will affect the flip-flop output rather than logic 1. Asynchronous inputs always take precedence over the S and R inputs.
+PRE
+
+bubble denotes ACTIVE LOW input Q
+
+S S-R FF R
+
+Q
+
+CLR
+
+Figure 5.7: NGT S-R flip-flop symbol with asynchronous inputs.
+
+Figure 5.8 illustrates the effect of these asynchronous inputs using a timing diagram. When PRE and CLR equals logic 1, the flip-flop behaves exactly as an NGT clocked S-R flip-flop. However, when either pulse becomes active (i.e. goes to logic 0), the effect on output Q is immediate (i.e. independent of the clock pulse): -- At time t1, Q goes to logic 1 as S=1, R=0
+
+-- At time t12, Q goes to logic 0 as CLR = 0 -- At time t2, Q goes to logic 1 as S=1, R=0 -- At time t3, Q goes to logic 0 as S=0, R=1 -- At time t4, Q goes to logic 0 as S=0, R=1 -- At time t5, Q goes to logic 1 as S=1, R=0 -- At time t34, Q goes to logic 1 as PRE = 0
+
+8	 S and R inputs that either sets or resets the flip-flop on logic 1 are examples of ACTIVE HIGH inputs.
+
+74
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Bistable Multivibrator Circuits
+
+Clock
+
+1 0 1 0 1 0 1 0 1 0 1 0
+
+S
+
+R
+
+PRE
+
+CLR
+
+Q
+
+t1 t12
+
+t2
+
+t3 t34
+
+t4
+
+t5
+
+Figure 5.8: NGT S-R flip-flop timing diagram example with asynchronous inputs.
+
+5.2	
+
+J-K flip-flop
+
+R-S flip-flop is not very commonly used in digital systems due to the invalid state that can occur when both inputs are logic 1. J-K (named after Jack Kilby) flip-flop overcomes this problem by toggling (i.e. going to opposite state) when inputs J=K=1. Table 5.4 shows the truth table for this flip-flop.
+Table 5.4: Truth table for J-K flip-flop
+
+J 0 1 0 1
+
+K 0 0 1 1
+
+Q+ Q 1 0 No change, Q+=Q Set output Q+=1 Clear output Q+=0 Toggle, Q + = Q
+
+Q
+
+Similar to R-S flip-flop, J-K flip-flop can have enable input, clocked (NGT or PGT) and asynchronous inputs. Figure 5.9 shows the PGT J-K flip-flop symbol.
+
+75
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Bistable Multivibrator Circuits
+
+PRE
+
+J J-K FF K
+
+Q
+
+Q
+
+CLR
+
+Figure 5.9: PGT J-K flip-flop symbol with asynchronous inputs.
+
+Need help with your dissertation?
+Get in-depth feedback & advice from experts in your topic area. Find out what you can do to improve the quality of your dissertation!
+
+Get Help Now
+
+Go to www.helpmyassignment.co.uk for more info
+
+76
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Bistable Multivibrator Circuits
+
+A timing diagram example for J-K flip-flop is given in Figure 5.10. The previous discussions for S-R flip-flop hold for J-K flip-flop except that when J=K=1, the output toggles from its previous state: -- At time t1, Q goes to logic 1 as J=1, K=0 -- At time t2, Q toggles to logic 0 as J=1, K=1 -- At time t3, Q remains at logic 0 as J=0, K=0 -- At time t4, Q toggles to logic 1 as J=1, K=1 -- At time t5, Q goes to logic 0 as J=0, K=1
+1 0 1 0 1 0 1 0
+
+Clock
+
+J
+
+K
+
+Q
+
+t1
+
+t2
+
+t3
+
+t4
+
+t5
+
+Figure 5.10: PGT J-K flip-flop timing diagram example.
+
+Figure 5.11 gives a timing diagram example of NGT J-K flip-flop with asynchronous inputs: -- At time t1, Q toggles to logic 1 as J=1, K=1 -- At time t12, Q goes to logic 0 as CLR = 0 -- At time t2, Q goes to logic 1 as J=1, K=0 -- At time t3, Q goes to logic 0 as J=0, K=1 -- At time t34, Q goes to logic 1 as PRE = 0 -- At time t4, Q remains at logic 1 as J=0, K=0 -- At time t5, Q remains at logic 1 as J=1, K=0
+
+77
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Bistable Multivibrator Circuits
+
+Clock
+
+1 0 1 0 1 0 1 0 1 0 1 0
+
+J
+
+K
+
+PRE
+
+CLR
+
+Q
+
+t1 t12
+
+t2
+
+t3 t34
+
+t4
+
+t5
+
+Figure 5.11: NGT J-K flip-flop timing diagram example with asynchronous inputs.
+
+5.2.1	
+
+Master-slave flip-flop
+
+As we will see in a later chapter, a sequence of flip-flops are usually connected to each other with a single clock and an example is shown in Figure 5.12. Since there could be a delay in the clock pulse to arrive at FF2 as compared to FF1 due to the longer wiring, the output can become unpredictable. To avoid this problem, a master-slave flip-flop can be used where FF1 is the master and FF2 is the slave. The inputs to FF1 are used to determine the output of the master during CLK=HIGH and this output is then transferred to the slave when CLK=LOW. However, master-slave flip-flops have become obsolete with the design of modern edge-triggered flip-flops that responds with sufficient speed and reliability.
+Q FF1 K Q K
+
+Input CLK
+
+J
+
+J FF2
+
+Q
+
+Q
+
+Figure 5.12: Two flip-flops connected with a single clock.
+
+78
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Bistable Multivibrator Circuits
+
+5.3	
+
+D flip-flop
+
+D flip-flop is also known as data flip-flop since it can store a single bit of data. The output of the flip-flop Q follows the single input D at the respective clock pulses. Figure 5.13 shows the D flip-flop symbol.
+PRE
+
+D D FF
+
+Q
+
+Q
+
+CLR
+
+Figure 5.13: PGT D flip-flop general symbol.
+
+79
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Bistable Multivibrator Circuits
+
+Table 5.5 gives the truth table for D flip-flop. The output Q will follow the input D at either NGT or PGT clock depending on whether it is negative or positive edge triggered flip-flop. The D flip-flop can also have asynchronous inputs such as
+
+PRE and CLR that affect the output Q independently of the clock.
+Table 5.5: Truth table for D flip-flop
+
+D 0 1
+
+Q+ 0 1 Q+=D Q+=D
+
+Figure 5.14 gives an example of the D flip-flop timing diagram: -- At time t1, Q goes to logic 1 as D=1 -- At time t2, Q goes to logic 0 as D=0 -- At time t23, Q goes to logic 1 as PRE = 0 -- At time t3, Q remains at logic 1 as D=1 -- At time t4, Q remains at logic 1 as D=1 -- At time t45, Q goes to logic 0 as CLR = 0 -- At time t5, Q remains at logic 0 as D=0
+1 0 1
+
+Clock
+
+D
+
+0 1 0 1 0 1 0
+
+PRE
+
+CLR
+
+Q
+
+t1
+
+t2 t23
+
+t3
+
+t4
+
+t45 t5
+
+Figure 5.14: NGT D flip-flop timing diagram example.
+
+80
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Bistable Multivibrator Circuits
+
+Figure 5.15 shows how a J-K flip-flop can be used to construct a D flip-flop. When D=1, inputs to J-K flip-flop: D = J = 1 and K = D = 0 and hence, Q = 1. Similarly, when D=0, inputs to J-K flip-flop: D = J = 0 and K = D = 1 and hence, Q = 0. So the output Q follows input D as in the D flip-flop.
+
+PRE
+
+D
+
+J J-K FF K
+
+Q
+
+Q
+
+CLR
+
+Figure 5.15: PGT D flip-flop constructed using J-K flip-flop.
+
+Brain power
+
+By 2020, wind could provide one-tenth of our planet’s electricity needs. Already today, SKF’s innovative knowhow is crucial to running a large proportion of the world’s wind turbines. Up to 25 % of the generating costs relate to maintenance. These can be reduced dramatically thanks to our systems for on-line condition monitoring and automatic lubrication. We help make it more economical to create cleaner, cheaper energy out of thin air. By sharing our experience, expertise, and creativity, industries can boost performance beyond expectations. Therefore we need the best employees who can meet this challenge!
+
+The Power of Knowledge Engineering
+
+Plug into The Power of Knowledge Engineering. Visit us at www.skf.com/knowledge
+
+81
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Bistable Multivibrator Circuits
+
+5.4	
+
+T flip-flop
+
+The final flip-flop to be considered in this chapter is T flip-flop. The truth table of the T flip-flop is given in Table 5.6 assuming it is triggered by an NGT clock. The output for T flip-flop toggles at T=1 thereby giving a clock like waveform but with half the frequency as shown by the timing diagram in Figure 5.16. When T=0, the output Q does not change.
+Table 5.6: Truth table for NGT T flip-flop
+
+T 0
+
+Q+ Q
+
+No change,
+
+Q+ = Q Q+ = Q
+
+1
+
+Q
+
+Q+ toggles,
+
+Clock
+
+1 0 1 0 1 0
+
+T
+
+Q
+
+t1
+
+t2
+
+t3
+
+t4
+
+t5
+
+Figure 5.16: NGT T flip-flop where T=1, hence flip-flop operates in toggle mode at each clock trigger.
+
+Figure 5.17 shows the general T flip-flop symbol and also how a J-K flip-flop can be used to construct a T flip-flop by tying J-K inputs together. When J=K=1, the flip-flop output toggles and when J=K=0, the flip-flop output does not change.
+
+82
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Bistable Multivibrator Circuits
+
+PRE
+
+PRE
+
+T T FF
+
+Q
+
+T
+
+J J-K FF
+
+Q
+
+Q
+
+K
+
+Q
+
+CLR
+
+CLR
+
+(a)
+
+(b)
+
+Figure 5.17: NGT T flip-flop: (a) general symbol (b) constructed using J-K flip-flop.
+
+Challenge the way we run
+
+EXPERIENCE THE POWER OF FULL ENGAGEMENT… RUN FASTER. RUN LONGER.. RUN EASIER…
+1349906_A6_4+0.indd 1
+
+READ MORE & PRE-ORDER TODAY WWW.GAITEYE.COM
+
+83
+Download free eBooks at bookboon.com
+
+22-08-2014 12:56:57
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Bistable Multivibrator Circuits
+
+5.5	
+
+Monostable and astable multivibrators
+
+So far, we have considered flip-flops that have two stable states. In this section, we will look at two devices, one that give short trigger pulses and another that gives two states that are free running. Monostable multivibrator is also known as one shot as it has one stable state (normally Q=0) and the other state (normally Q=1) occurs for a specific tp duration when triggered. Astable multivibrator does not have a stable state but switches continuously between two states (i.e. Q=0 and Q=1) which results in a train of square (or rectangular) wave pulses at a frequency determined by values of connected resistors and capacitors. Square wave pulses (i.e. with a 50% duty cycle) could be used as clock input.
+
+5.5..1	
+
+Monostable multivibrator
+
+Monostable multivibrator could be divided into two types: non-retriggerable and retriggerable. Non-retriggerable monostable multivibrator will ignore any trigger request during a tp pulse while the retriggerable one will re-trigger the pulse for another tp duration. The effects of both multivibrators are illustrated in the examples given in Figure 5.18. For non-retriggerable monostable multivibrator, trig2 has no effect since it is within the duration of the tp pulse triggered by trig1. However, for retriggerable monostable multivibrator, trig2 has the effect of extending the one shot pulse by tp duration.
+
+tp
+
+tp
+
+trig1
+
+trig2
+
+trig3
+
+(a)
+
+tp tp
+
+tp
+
+trig1
+
+trig2
+
+trig3
+
+(b) Figure 5.18: Monostable multivibrator: (a) non-retriggerable (b) retriggerable.
+
+84
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Bistable Multivibrator Circuits
+
+5.5.2	
+
+Astable multivibrator
+
+Astable multivibrator designed using 555 timer IC is shown in Figure 5.19. It generates rectangular pulses with duration tA and tB. Duty cycle is defined as tB/(tA + tB). To generate clock pulses, the duty cycle has to be 50%, i.e. tA = tB.
++5 V
+
+R1
+
+1 2
+
+555
+
+8 7 Output 6 5
+
+tB
+
+R2
+
+3 4
+
+tA
+
+C
+
++
+
++
+
+0.01 µF
+
+Figure 5.19: Astable multivibrator using 555 timer IC.
+
+85
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Bistable Multivibrator Circuits
+
+The values of the resistors R1 and R2 and the capacitor C will affect the durations of tA and tB: tA = 0.693 R2C tB = 0.693 (R1+ R2)C The frequency of the pulse is given by, freq=1/(tA + tB). Consider an example where R1=4.7 kΩ, R2 = 10.0 kΩ, and C = 100ųF, we get tA = 0.693 R2C = 0.693 x (10 kΩ) x 100 μF = 0.693 x (10000 Ω) x 0.0001 F = 0.693 s tB = 0.693 (R1 + R2)C = 0.693 x (4700 Ω+10000 Ω) x 100 μF = 1.01871 s Frequency = 1/(tB + tA ) = 0.58421 Hz.
+
+86
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Arithmetic Circuits
+
+6	 Arithmetic Circuits
+In computers, arithmetic computations such as binary addition and subtraction are done in arithmetic logic unit (ALU) that consists of logic gates and flip-flops. Logic gates perform the arithmetic operation while the flip-flops (i.e. register and accumulator) are used as temporary memory storage (something like a scratch pad that we use to perform mathematical computation). We will look at adder and subtractor circuits in this chapter.
+
+6.1	
+
+Half adder
+
+Consider adding two bits, A0 and B0 to give sum Σ0 and carry-out, C1. Table 6.1 shows the possible combinations that can take place.
+Table 6.1: Half adder combination
+
+A0 0 0 1 1
+
+B0 0 1 0 1
+
+C1 0 0 0 1
+
+Σ 0 1 1 0
+
+A0 HA B0
+
+Σ0 C1
+
+Figure 6.1: Half adder (HA) symbol.
+
+Using K-maps as shown in Figure 6.2, we can obtain the logic expressions for Σ0 and C1. It can be seen that for Σ0, it is not possible to simplify the expression as no looping is possible and the expression is
+
+Σ 0 = A0 B0 + A0 B0
+
+.
+
+Since this is XOR expression (see Section 3.5), it can also be expressed as
+
+Σ 0 = A0 ⊕ B0 .
+
+87
+Download free eBooks at bookboon.com
+
+Digital Systems Design Similarly, the expression for C1 is
+
+Arithmetic Circuits
+
+C1 = A0 B0 .
+
+Figure 6.2: Half adder K-maps for (a) Σ0 (b) C1.
+
+This e-book is made with
+
+SetaPDF
+
+SETASIGN
+
+PDF components for PHP developers
+
+www.setasign.com
+88
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design The half-adder logic circuit is shown in Figure 6.3.
+
+Arithmetic Circuits
+
+A0 B0
+
+Σ0
+
+C1
+
+Figure 6.3: Half adder logic circuit.
+
+6.2	
+
+Full adder
+
+Very often when adding two bits, A0 and B0 to give sum Σ0 and carry-out C1, there can be another input, carry-in C0 resulting from addition of previous bits. The possible combinations for a full adder are shown in Table 6.2 where it can be seen that the three binary inputs, A0, B0 and C0 add to give the two binary outputs, Σ0 and C1. Full adder symbol is shown in Figure 6.4.
+Table 6.2: Full adder combinations
+
+A0 B0 C0 FA
+
+Σ0 C1
+
+Figure 6.4: Full adder (FA) symbol.
+
+89
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Arithmetic Circuits
+
+K-maps for the two full adder outputs are shown in Figure 6.5. For Σ0, no looping is possible and the expression is
+
+Σ 0 = A0 B0 C 0 + A0 B0 C 0 + A0 B0 C 0 + A0 B0 C 0 Σ 0 = C 0 ( A0 B0 + A0 B0 ) + C 0 ( A0 B0 + A0 B0 )
+which can also be expressed in simpler form using XOR and XNOR expressions as ( A0 B0 + A0 B0 ) = A0 ⊕ B0 and ( A0 B0 + A0 B0 ) = A0 ⊕ B0 to give
+
+Σ 0 = C o ( A0 ⊕ B0 ) + C 0 ( A0 ⊕ B0 ) .
+We can actually simplify this further by allowing X = A0 ⊕ B0 :
+
+Σ 0 = C0 X + C0 X .
+Further simplification can be made using an XOR expression to give
+
+Σ 0 = X ⊕ C0 Σ 0 = A0 ⊕ B0 ⊕ C 0
+For C1, three pair loops are possible resulting in
+
+C1 = A0 B0 + A0 C 0 + B0 C o .
+
+(a)
+
+90
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Arithmetic Circuits
+
+(b) Figure 6.5: Full adder K-maps for (a) Σ0 (b) C1.
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+91
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design The full adder circuitry is shown in Figure 6.6.
+
+Arithmetic Circuits
+
+Figure 6.6: Full adder logic circuitry.
+
+It should be obvious that a half-adder can be constructed using a full adder by setting C0=0. This is illustrated in Figure 6.7.
+
+A0 B0 C0=0 FA
+
+Σ0 C1
+
+Figure 6.7: Half adder design using full adder.
+
+6.3	
+
+Parallel adder
+
+Usually, addition is done on a number of bits using a parallel adder that consists of several full adders as shown in Figure 6.8 for addition of two 3 bit numbers. 
+
+C2
+FA2 FA1
+
+C1
+FA0
+
+C0=0
+
+A2 B2 C3 Σ2 Σ1
+
+A1 B1 Σ0
+
+A0 B0
+
+Figure 6.8: Parallel adder layout for addition of two 3 bit numbers.
+
+92
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Arithmetic Circuits
+
+As an example, consider adding A = 1 1 1 with B = 1 0 1 as depicted in Figure 6.9 to give sum = 1 0 0 and final carry of 1.
+
+C2=1
+FA2 FA1
+
+C1=1
+FA0
+
+C0=0
+
+A2=1 B2=1 C3=1 Σ2=1 Σ1=0
+
+A1=1 B1=0 Σ0=0
+
+A0=1 B0=1
+
+Figure 6.9: Parallel addition example of two 3 bit numbers.
+
+6.4	
+
+Parallel addition using integrated circuits
+
+Parallel adders in integrated circuits (IC) form are available such as the four bit TTL 74LS283 as shown in Figure 6.10 (with pin configurations). Such adders can be cascaded to add more bits. For example, two 74LS283 ICs can be used to add two 8 bit numbers as illustrated in Figure 6.11 (pin layout has been modified for ease of understanding, the actual layout is as shown in Figure 6.10). The two numbers: A0, A1, A2, A3, A4, A5, A7 and B0, B1, B2, B3, B4, B5, B7 are added together with carry input C0 to give sum S0, S1, S2, S3, S4, S5, S7 and carry out C8. The carry out from the first IC, C4 is passed as the carry input to the second IC.
+
+Vcc 16
+
+B2 15
+
+A2 14
+
+Σ2 13 74LS283
+
+A3 12
+
+B3 11
+
+Σ3 10
+
+C3 9
+
+1 Σ1
+
+2 B1
+
+3 A1
+
+4 Σ0
+
+5 A0
+
+6 B0
+
+7 C0
+
+8 GND
+
+Figure 6.10: Four bit adder IC, 74LS283 showing pin configurations.
+
+93
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Arithmetic Circuits
+
+A7
+
+A6
+
+A5
+
+A4
+
+A3
+
+A2
+
+A1
+
+A0
+
+C8
+
+74LS283
+
+C4
+
+74LS283
+
+C0
+
+Σ7
+
+Σ6
+
+Σ5
+
+Σ4
+
+B7
+
+B6
+
+B5
+
+B4
+
+Σ3
+
+Σ2
+
+Σ1
+
+Σ0
+
+B3
+
+B2
+
+B1
+
+B0
+
+Figure 6.11: Cascading two 74LS283 to add 8 bit numbers.
+
+6.5	
+
+Parallel subtraction
+
+Consider a simple subtraction problem: 6 - 4 = 2. In binary, this will be 0110 – 0100 = 0010. Subtraction in binary can be performed through addition by converting the number to be subtracted (i.e. the subtrahend) to 2’s complement form and adding to the minued9.
+
+9	 In the example, 6 – 2 = 4, 6 is the minued and 2 is the subtrahend.
+
+94
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Arithmetic Circuits
+
+6.5.1	
+
+2’s complement
+
+A binary number can be converted to 2’s complement simply by performing 1’s complement (i.e. inverting) each bit and then adding 1 to the inverted bits. Any carry from this operation should be discarded. For example, 2’s complement of 4 in binary is 	 	 	 4 in binary → 0100 1’s complement of 4 → 1011 2’s complement of 4 → 1100
+
+Now, 6 - 4 can be represented in binary as shown in Figure 6.12. The carry is discarded to give the correct answer of 2.
+
+Figure 6.12: Subtracting two numbers using 2’s complement method for subtrahend.
+
+It should be obvious that an adder can also function as subtractor with additional gates. For example, the full adder shown in Figure 6.4 can be used to design a subtractor by inverting B0 and setting C0=1 (both these actions will result in 2’s complement form for B0) as shown in Figure 6.13. Similar to parallel adders, parallel subtractors can be designed using several full adders as shown in Figure 6.14.
+
+A0 B0 C0=1 FA
+
+Σ0 C1
+
+Figure 6.13: A full adder used as subtractor.
+
+95
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Arithmetic Circuits
+
+C2
+FA2 FA1
+
+C1
+FA0
+
+C0=1
+
+A2 C3 Σ2 B2 Σ1
+
+A1 B1 Σ0
+
+A0 B0
+
+Figure 6.14: Designing a parallel subtractor using several full adders.
+
+Using the example in Figure 6.12, 74LS283 can be modified to act as subtractor as shown in Figure 6.15. The minued is represented by A0, A1, A2, A3 and the inverters convert the subtrahend (B0, B1, B2, B3) to 1’s complement and C0 is set to 1 to convert this 1’s complement number to 2’s complement. The outputs (Σ0, Σ1, Σ2, Σ3) denote the correct answer as 4 and the carry out, C4 = 1 is discarded.
+
+A3 0 1
+
+A2 1
+
+A1 1
+
+A0 0 1
+
+C4 (discarded)
+
+74LS283
+
+C0
+
+1 0 Σ3 0 Σ2 1 Σ1 0 Σ0 0 B3
+
+0 1 B2
+
+1 0 B1
+
+1 0 B0
+
+Figure 6.15: Using 74LS283 as subtractor.
+
+96
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Arithmetic Circuits
+
+6.5.2	
+
+Dual adder/subtractor
+
+Replacing the inverters in Figure 6.15 with XOR gates will result in a dual mode adder/subtractor circuit. This is illustrated in Figure 6.16. When the control input is 1, the circuit acts as a subtractor and when the control input is 0, it acts as an adder. For example, when B0=1 and control input=1 (during subtraction), the output of XOR is 0, i.e. the XOR gate acts as an inverter to give 1’s complement and C0=1 to give 2’s complement. When B0=1 and control input=0 (during addition), C0=0 and the output of XOR is 1, i.e. the XOR gate acts just as a buffer without changing the logic value.
+
+A3
+
+A2
+
+A1
+
+A0
+
+C4
+
+74LS283
+
+C0
+
+Σ3
+
+Σ2
+
+Σ1
+
+Σ0
+
+B3
+
+B2
+
+B1
+
+B0 Control input
+
+Figure 6.16: Using 74LS283 in dual mode: adder/subtractor.
+
+97
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Coders and Multiplexers
+
+7	 Coders and Multiplexers
+In this chapter, we will look two types of operations that are common in digital devices: coding and multiplexing. Coding devices can be categorised as either encoders or decoders and similarly, we have multiplexers and de-multiplexers. Commonly available ICs will be used to illustrate these operations.
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+98
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Coders and Multiplexers
+
+7.1	Encoder
+An encoder is a device that does some form of coding, for example converting an octal number to binary as shown in Figure 7.1. In general, a N bit encoder has 2N input lines and N output lines; in the case of octal to binary encoder, it is 8-to-3, i.e. eight input lines and three output lines. Only one input is active10 at a time.
+Inputs I0 I1 I2 I3 I4 I5 I6 I7 O2 2N to N (8-to-3) encoder O1 Outputs O0
+
+Figure 7.1: A general encoder example: octal to binary.
+
+Table 7.1 gives the truth table for this encoder. It can be seen that only one input line is active. For simplicity of discussion at this stage, we assume that the input and output lines for the decoder are ACTIVE HIGH, though we will see later that most decoders have ACTIVE LOW input and output lines. When one input is activated, the corresponding binary is the output. For example, when I6 = 1, the outputs are O2 = 1, O1 = 1 and O0 = 0, which is binary number for six. Note the ordering of the indexes for the input and output lines in Table 7.1: I7, I6,….,I0 are ordered from left to right while it is O2,O1,O0 for the outputs. This ordering scheme is just chosen to allow easier understanding of the concepts.
+
+10	
+
+Either ACTIVE LOW or ACTIVE HIGH, to be discussed later.
+
+99
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Coders and Multiplexers
+
+Table 7.1: Truth table for a general 8-to-3 encoder
+
+7.1.1	
+
+Priority encoding
+
+Though only one input line is supposed to be active at a given time, it is possible to have multiple lines being active perhaps due to noise or error in the logic design. To avoid unpredictable output in such situations, priority encoding can be utilised. Priority encoders allow the higher indexed input lines to take precedence over the lower indexed pins. Consider a 4-to-2 encoder with the truth table as shown in Table 7.2. Whenever the higher indexed input line is active, the lower indexed lines do not have any effect (irrespective of being active or not). For example, when I3 = 1, the logic values for I0, I1 and I2 do not affect the output (shown by don’t care conditions X) and the output will O1 = 1 and O0 = 1.
+Table 7.2: Truth table for a general 4-to-2 priority encoder (with don’t care conditions)
+
+Inputs I3 0 0 0 1 I2 0 0 1 X I1 0 1 X X I0 1 X X X
+
+Outputs O1 0 0 1 1 O0 0 1 0 1
+
+The K-maps for outputs O0 and O1 are as shown in Figure 7.2. However, the don’t care conditions now appear for the inputs, which is different to the don’t care conditions for the outputs that was studied in Chapter 4. In order to complete the K-maps, we have to expand Table 7.2 to include both the 0 and 1 cases for the don’t care conditions as shown in Table 7.3. From the K-maps, the expressions for the outputs are
+
+O0 = I 2 I 1 + I 3 ,
+
+O1 = I 2 + I 3 .
+
+100
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Coders and Multiplexers
+
+From Table 7.3, we can also note that the outputs will be all logic 0 for two cases: when all inputs are 0 and I0 = 1. This ambiguity can be solved by using a special output pin and will be discussed later.
+Table 7.3: Truth table for a general 4-to-2 priority encoder (showing full don’t care cases)
+
+Inputs I3 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 I2 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 I1 0 0 1 1 0 0 1 1 0 0 1 1 0 0 1 1 I0 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1
+
+Outputs O1 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 O0 0 0 1 1 0 0 0 0 1 1 1 1 1 1 1 1
+
+Figure 7.3 shows the logic circuits for the outputs O0 and O1.
+
+(a)
+
+101
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Coders and Multiplexers
+
+(b)
+Figure 7.2: K-maps for 4-to-2 priority encoder: (a) O0 (b) O1.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+102
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Coders and Multiplexers
+
+I1 I2 I3
+
+O0 O1
+
+Figure 7.3: Logic circuit for 4-to-2 priority encoder.
+
+7.1.2	
+
+Enable inputs
+
+Figure 7.4 shows a 8-to-3 encoder IC, 74xx148 with pin configurations11. Both the inputs and outputs are ACTIVE LOW, i.e. enabled/activated on logic 0. It is also a priority encoder, so the higher indexed inputs take priority.
+
+Vcc 16
+
+E0 15
+
+GS 14
+
+Ι3 13 74xx148
+
+I2 12
+
+I1 11
+
+Ι0 10
+
+O0 9
+
+1 Ι4
+
+2 I5
+
+3 I6
+
+4 Ι7
+
+5 EI
+
+6 O2
+
+7 O1
+
+8 GND
+
+Figure 7.4: 8-to-3 encoder IC, 74xx148 pin configuration.
+
+Table 7.4 shows the truth table and it can be seen that there are additional input and outputs: Enable Input ( Output ( ) and Group Select ( and by the presence of bubbles in Figure 7.4. As shown in Table 7.4, when and affects the outputs. For example, when
+
+), Enable
+
+). All the enable pins are also ACTIVE LOW as shown by the overbars in Table 7.4 enables the device and allows the input values to change the outputs. , the inputs are enabled , the outputs are all inactive (i.e. logic 1). When
+
+I 7 = 0 , the outputs are O2 = O1 = O0 = 0 . Similarly when I 3 = 0 , the O = 1 outputs are 2 and O1 = O0 = 0 (note that the outputs are active low, so it represents 3 in binary).
+11	 xx denotes different types of ICs available such as low power Schottky version, 74LS148 and high speed CMOS version, 74HC148.
+
+103
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Coders and Multiplexers
+
+When all the inputs are inactive,
+
+is disabled
+
+and when any one input is active, then
+
+. Hence
+
+is
+
+useful to indicate whether the condition
+
+O2 = O1 = O0 = 1 is caused by I 0 = 0 or if all inputs are inactive.
+output is
+
+is used when cascading several encoders to form a larger priority encoding system. For this purpose, connected input of the lower priority encoder.
+Table 7.4: Truth table for 74xx148
+
+7.2	Decoder
+Decoder is the opposite of encoder, for example a 3-to-8 decoder that accepts three binary inputs and activates the corresponding single output as shown in Figure 7.5. Figure 7.6 shows a 74xx138 IC, which is binary-to-octal (3-to-8) decoder. The three inputs are active HIGH (note that there is no bubble in the figure) but the eight outputs are all ACTIVE LOW. In addition, three enable inputs: two ACTIVE LOW and one ACTIVE HIGH need to be in the asserted mode to enable the IC (i.e. be in inactive state (i.e. logic 1 since these are ACTIVE LOW pins) irrespective of the inputs as shown by the first three rows in Table 7.5. When
+
+E3 = 1 , E 2 = 0 and E = 0 ). If any of these inputs are in an inactive state, then all the outputs will 1
+
+E3 , E 2 and E1 are enabled, the inputs affect the output. For example when I 2 = I 1 = I 0 = 1 then pin O becomes low and when I 2 = I 1 = 1 and I 0 = 0 then pin O6 becomes low. 7
+
+104
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Coders and Multiplexers
+
+Inputs
+
+Outputs I0 I1 I2
+
+I0
+
+I1
+
+N to 2N (3-to-8) decoder
+
+I3 I4 I5
+
+I2
+
+I6 I7
+
+Figure 7.5: 3-to-8 decoder example.
+
+Vcc 16
+
+O0 15
+
+O1 14
+
+O2 13 74xx138
+
+O3 12
+
+O4 11
+
+O5 10
+
+O6 9
+
+1 Ι0
+
+2 I1
+
+3 I2
+
+4 Ε1
+
+5 E2
+
+6 E3
+
+7 O7
+
+8 GND
+
+Figure 7.6: 3-to-8 encoder IC, 74xx138 pin configuration.
+
+105
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+Table 7.5: Truth table for 74xx138
+
+Coders and Multiplexers
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+106
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Coders and Multiplexers
+
+7.3	Multiplexer
+Multiplexer (also known as data selector) is a digital device that acts like a switch taking several inputs and connecting a selected input to the output at a time. Simple two input and four input multiplexers are shown in Figure 7.7. For the two input multiplexer, there are two inputs: I1 and I0 with one output, O0. The selector input, S0 will decide the route from input to the output. For example, when S0 = 1, I1 is selected and data at I1 is routed to output O0. For the four input multiplexer, there are four inputs: I3, I2, I1 and I0 with one output, O0. The selector inputs, S1 and S0 will decide which connection is made from the input to the output. For example, when O0. Tables 7.6 and 7.7 show the truth table for these multiplexers.
+
+S1 = S 0 = 1 , I 3 is selected and data at I 3 is routed to output
+
+I0 I1
+
+Output O0
+
+S0 Select input
+
+(a)
+
+Inputs I0 I1 I2 I3 Output O0
+
+S0
+
+S1
+
+Select inputs
+
+(b) Figure 7.7: Simple multiplexers (a) two inputs (b) four inputs.
+
+107
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+Table 7.6: Truth table for two input multiplexer
+
+Coders and Multiplexers
+
+Table 7.7: Truth table for four input multiplexer
+
+To obtain the logic circuit diagram for two input multiplexer, truth table as in Table 7.8 should be constructed. With this, K-map for output O0 can be obtained as shown in Figure 7.8. Two pair loops can be drawn to give the output as
+
+O0 = S 0 I 0 + S 0 I 1 .
+The logic circuit diagram is given in Figure 7.9. Similar approach could be utilised to obtain logic circuit diagrams for higher input multiplexers.
+
+108
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+Table 7.8: Full truth table for two input multiplexer
+
+Coders and Multiplexers
+
+S0 0 0 0 0
+
+I0 0 0 1 1
+
+I1 0 1 0 1
+
+O0 0 0 1 1
+
+1 1 1 1
+
+0 0 1 1
+
+0 1 0 1
+
+0 1 0 1
+
+Figure 7.8: K-map for two input multiplexer.
+
+I0 I1 S0
+O0 = S 0 I 0 + S 0 I1
+
+Figure 7.9: Logic circuit diagram for two input multiplexer.
+
+109
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Coders and Multiplexers
+
+7.3.1	
+
+Multiplexer IC example
+
+A quadruple 2-line to 1-line multiplexer (IC 74xx157) is shown in Figure 7.10. The IC contains two sets of four inputs (I0a, I1a, I2a, I3a and I0b, I1b, I2b, I3b) that can be routed to the four outputs (O0, O1, O2, O3) depending on the select input, S0. The enable, E input must asserted, i.e. it must be logic 0 for the IC to be enabled. Table 7.9 gives the truth table for this IC. When S0 = 0, the outputs follow I0a, I1a, I2a, I3a inputs and when S0 = 1, the outputs follow I0b, I1b, I2b, I3b inputs.
+
+Vcc 16
+
+E
+
+I3a 14
+
+I3b 13 74xx157
+
+O3 12
+
+I2a 11
+
+I2b 10
+
+O2 9
+
+15
+
+1 S0
+
+2 I0a
+
+3 I0b
+
+4 Ο0
+
+5 I1a
+
+6 I1b
+
+7 O1
+
+8 GND
+
+Figure 7.10: Quadruple 2-line to 1-line multiplexer IC, 74xx157 pin configuration.
+
+110
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+Table 7.9: Truth table for 74xx157
+
+Coders and Multiplexers
+
+E
+1 0 0
+
+S0 X 0 1
+
+O0 0 I0a I0b
+
+O1 0 I1a I1b
+
+O2 0 I2a I2b
+
+O3 0 I3a I3b
+
+7.4	De-multiplexer
+A de-multiplexer does the opposite of multiplexer in that it takes a single input and distributes it to a selected output. Hence it is also known as data distributor. An example of 1-line to 8-line demultiplexer is shown in Figure 7.11. IC 74xx138, which is a 3-to-8 decoder (that we discussed earlier) can also be used as a 1-line to 8-line demultiplexer by using E1 as data input and the three inputs as selectors. The other two enable pins are asserted to enable the IC by connecting E 2 to ground (i.e. logic 0) and E 3 is connected to Vcc (+5 V) to give logic 1. Using this convention, the pin configuration is as shown in Figure 7.12 and the truth table as in Table 7.10. The select inputs (S0, S1, S2) will select the particular output pin and the input data (I0) will be distributed to this selected output pin. Due to the dual mode nature of such ICs, these are usually known as decoder/demultiplexer ICs.
+
+Outputs O0 Input I0
+
+O7
+
+. . . .
+
+S0
+
+S1
+
+S2
+
+Select inputs
+
+Figure 7.11: 1-line to 8-line demultiplexer.
+
+111
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Coders and Multiplexers
+
+Data outputs Vcc 16 O0 15 O1 14 O2 13 O3 12 O4 11 O5 10 O6 9
+
+74xx138 used as 1-line to 8-line DEMUX 1 Ι0 S0 2 I1 S1 Select inputs 3 I2 S2 4 Ε1 Ι0 Data input Vcc (+5 V) GND 5 E2 6 E3 7 O7 Data output 8 GND
+
+Figure 7.12: 1-line to 8-line demultiplexer using 74xx138 decoder.
+
+112
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Coders and Multiplexers
+
+Table 7.10: Truth table for 1-line to 8-line demultiplexer (using 74xx138 IC)
+
+It should be remembered that 74xx138 IC has outputs that are ACTIVE LOW, hence inactive outputs have logic 1 as shown in Table 7.10.
+
+113
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Counters
+
+8	Counters
+In this chapter, we will look at using flip flops and logic gates to design counters. There are two types of counters: asynchronous and synchronous. Asynchronous counters are also known as ripple counters as the clock pulse ripples from one flip-flop to the next. Incorrect counter output can result if the accumulative ripple delay is longer than the clock pulse. Synchronous counters, on the other hand, have clock pulse input to each flip-flop and hence do not suffer from this ripple effect. However, these counters often require additional circuitry.
+
+8.1	
+
+Asynchronous up-counter
+
+Figure 8.1 shows an example of a two bit asynchronous up-counter. J-K flip flops are used here although any flip-flop could be used. Two flip-flops are required in this instance as it is a two bit counter. Figure 8.2 shows the state diagram and state table, i.e. the sequence of the counter output. As there are two bits, the counter cycles through four states12: 00, 01, 10, 11 and it is known as up-counter since it counts in increasing order. As can be seen from the figure, all J and K inputs are tied to logic level 1. This ensures that all the flip-flops operate in toggle mode only. The output from flip-flop 1, Q1 is the LSB, while the output from flip-flop 2, Q2 is MSB. The output Q1 also acts as the input clock pulse for flip-flop 2.
+Q1=A FF1 K Q1 K
+
++5 V
+
+J
+
+J FF2
+
+Q2=B
+
+Q2
+
+Figure 8.1: Two bit asynchronous up-counter with NGT clock pulse.
+
+Figure 8.2: State diagram and table for two bit asynchronous up-counter.
+
+12	 N flip flop give 2N states, sometimes N number of flip flop counter is known as modulo N counter.
+
+114
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Counters
+
+Clock
+
+1 0 1 0 1 0
+
+NGT triggered, standard clock input for FF1 NGT triggered, Q1 acts as clock input for FF2
+
+Q1=A Counter LSB output Q2=B Counter MSB output
+
+t1 00 01
+
+t2 10
+
+t3 11
+
+t4 00
+
+t5 Counter outputs
+
+Figure 8.3: Timing diagram for two bit asynchronous up-counter with NGT clock pulse.
+
+Analysing the timing diagram shown in Figure 8.3: at time t1, NGT clock pulse triggers Q1 to toggle from logic 0 to logic 1. At time t2, NGT clock pulse causes Q1 to change state to logic 0. As output from flip-flop 1 acts as clock input for flip-flop 2, at time t2, Q2 toggles to logic level 1. At time t3, the NGT clock input toggles Q1 to logic level 1 but there is no change in Q2 since the clock input to flip-flop 2 at this time is PGT and not NGT. At time t4, both Q1 and Q2 toggles to logic 0. It can be seen that the counter cycles through states 00011011 and the cycle is repeated.
+
+8.1.1	
+
+Asynchronous up-counter – PGT clocked flip-flops
+
+Figure 8.4 shows a two bit asynchronous up-counter but with the clock triggering edge to be positive going. The figure is nearly the same as Figure 8.1 except that the clock input for flip-flop 2 comes from Q1 rather than that the flip-flop changes at PGT clock edges.
+Q1=A FF1 K Q1 K
+
+Q1 . The state diagram
+
+and state table will be the same as shown in Figure 8.2. The timing diagram is shown in Figure 8.5 where it can be seen
+
++5 V
+
+J
+
+J FF2
+
+Q2=B
+
+Q2
+
+Figure 8.4: Two bit asynchronous up-counter with PGT clock pulse.
+
+115
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Counters
+
+Clock
+
+1 0 1 0 1 0
+
+PGT triggered, standard clock input for FF1
+
+Q1=A Counter LSB output Q1
+
+PGT triggered, Q1 acts as clock input for FF2
+
+Q2=B Counter MSB output
+
+1 0
+
+t1 00 01
+
+t2 10
+
+t3 11
+
+t4 00
+
+t5 01 Counter outputs
+
+Figure 8.5: Timing diagram for two bit asynchronous up-counter with PGT clock pulse.
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+116
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Counters
+
+The timing diagram in Figure 8.5 can be analysed at follows: at time t1, PGT clock pulse triggers Q1 to toggle from logic 0 to logic 1. There is no change in Q2 and the counter output is 01. At time t2, PGT clock pulse causes Q1 to change state to logic 0. As output from
+
+Q of flip-flop 1 acts as clock input for flip-flop 2, at time t2, Q2 toggles to logic level 1 and the
+
+counter output is now 10. At time t3, the PGT clock input toggles Q1 to logic level 1 but there is no change in Q2 since the clock input to flip-flop 2 at this time is NGT and not PGT giving counter output of 11. At time t4, both Q1 and Q2 toggles to logic 0 giving counter output of 00. At t5, Q1 toggles to logic 1 but there is no change in Q2. It can be seen that the counter cycles through states 00011011 and the cycle is repeated.
+
+8.2	
+
+Asynchronous down-counter
+
+Figure 8.6 shows an example of a two bit asynchronous down-counter using T flip flops triggered with NGT clock pulse. The clock for the second flip-flop comes from Q1 (similar to up-counter using PGT as shown in Figure 8.4). Figure 8.7 shows the state diagram and state table, i.e. the sequence of the counter output. The counter cycles through four states: 11à10à01à00 i.e. in decreasing order as it is a down-counter (as shown in Figure 8.8).
+Q1=A FF1 Q1
+
++5 V
+
+T
+
+T FF2
+
+Q2=B
+
+Q2
+
+Figure 8.6: Two bit asynchronous down-counter with NGT clock pulse using T flip-flop.
+
+Figure 8.7: State diagram and table for two bit asynchronous down-counter.
+
+117
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Counters
+
+Clock
+
+1 0 1 0 1 0
+
+NGT triggered, standard clock input for FF1
+
+Q1=A Counter LSB output Q1
+
+NGT triggered, Q1 acts as clock input for FF2
+
+Q2=B Counter MSB output
+
+1 0
+
+t1 00 11
+
+t2 10
+
+t3 01
+
+t4 00
+
+t5 Counter outputs
+
+Figure 8.8: Timing diagram for two bit asynchronous down-counter with NGT clock pulse.
+
+At t1, the NGT clock pulse toggles the flip-flop to logic level 1. As Q1 is now the clock input for the second flip-flop, at time t1, flip-flop 2 output toggles to logic level 1. The counter output is now 11. At time t2, flip-flop 1 toggles to logic level 0 while there is no change in flip-flop 2 as the clock input for the second flip-flop at this time is PGT. The output is now 10. At time t3, both flip-flop receive NGT clock inputs and toggles to opposing states as previously giving output as 01. At time t4, flip-flop 1 toggles to logic level 0 giving counter output as 00. Hence, the counter cycles through 11100100. Similarly, a counter with higher number of bits can be constructed. For example, a four bit asynchronous down-counter with PGT clock pulse using J-K flip flops is shown in Figure 8.9. The clock inputs (except for the first flip-flop) come from Q output of the previous flip-flop. The counter will cycle through 1111111011011100101110101001 100001110110 01010100 0011001000010000.
+Q1=A FF1 K Q1 K
+
++5 V
+
+J
+
+J FF2 Q2
+
+Q2=B
+
+J FF3 K Q3
+
+Q3=C
+
+J FF3 K
+
+Q4=D
+
+Q4
+
+Figure 8.9: Four bit asynchronous down-counter with PGT clock pulse.
+
+Table 8.1 gives a summary of the clock inputs for the second flip-flop onwards against the up/down counter and trigger edge types.
+
+118
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+Table 8.1: Clock inputs for the second flip-flop onwards against the up/down counter and trigger edge types
+
+Counters
+
+Clock input Up-counter NGT Up-counter PGT Down-counter NGT Down-counter PGT
+
+Q
+
+Q Q
+Q
+
+.
+
+119
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Counters
+
+8.3	
+
+Asynchronous counters with incomplete cycles
+
+So far, we have seen counters that complete the cycle for the specific number of bits, for example a two bit up-counter would have four states: 00011011 and a three bit down counter would have eight states: 111110101100 011010001000. Consider a case where we need a counter only to count from 000110. Two flip-flops will be required but the counter has to reset to 00 after 10 and not after 11. Therefore additional circuitry will be required to reset the counter after 10. The state diagram is shown in Figure 8.10 where the temporary state of 11 will only occur for a very short period of time and hence will not appear in the counter cycle. For this purpose, the clear asynchronous input of the flip-flops together with a NAND gate could be used to reset both flip-flops instantaneously13 . This situation is shown in Figure 8.11. As soon as the state Q2=1 (i.e. B=1) and Q1=1 (i.e. A=1) occur, the clear inputs reset all the flip-flips to 0 and the counter then resumes its cycle. Figure 8.12 shows the timing diagram for this counter.
+
+00
+
+01
+
+11
+Temporary state
+
+10
+
+Figure 8.10: Three state up-counter showing a temporary state.
+
+PRE
+
+PRE Q1=A J FF2 Q1 K CLR
+
++5 V
+
+J FF1 K CLR
+
+Q2=B
+
+Q2
+
+Figure 8.11: Three state asynchronous up-counter with PGT clock pulse (with CLR input).
+
+13	 Clear input does not depend on clock edge and hence the change is immediate.
+
+120
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Counters
+
+At time t1, the PGT edge of the clock toggles the first flip-flop output to 1 (i.e. Q1=1). There is no change in Q2=0. At time t2, Q1 toggles to 0 and Q2 toggles to 1. At time t3, Q2 remains at 1 and Q1 toggles to 1. However, at this time point, the output of the NAND gate is logic level 0 and hence activates the active low level 0. The counter then resumes its count. The effect of
+
+CLR is instantaneous and though the timing diagram shows
+
+CLR inputs, which reset both flip-flops to logic
+
+a glitch during time t3, it occurs only for a very short period of time and does not appear as part of the counter output.
+1 0 1 0 1 0
+
+Clock
+
+Q1=A Counter LSB output Q1
+
+Q2=B Counter MSB output
+
+1 0 1 0
+
+CLR input resets the counter
+
+CLR
+
+t1 00 01
+
+t2 10
+
+t3 00
+
+t4 01
+
+t5 10 Counter outputs
+
+Figure 8.12: Timing diagram for three state asynchronous up-counter with PGT clock pulse.
+
+Let us consider another example: a counter to count 000001010011100 only. In this situation, we will need three flip-flops and the counter has to stop the cycle at 100 (and skip 101, 110 and 111) and return to 000. In other words, the counter has to reset after 100. The state diagram is shown in Figure 8.13. As mentioned earlier, the temporary state of 101 occurs only for a very short period of time and hence will not appear in the counter cycle. The additional circuitry using NAND gate and
+
+CLR inputs reset the counter to 000 when the state 101 occurs. The logic circuit is shown in Figure
+
+8.14. As soon as the state Q3=1 (i.e. C=1) and Q1=1 (i.e. A=1) occur, the clear inputs reset all the flip-flips to 0 and the counter then resumes its cycle.
+
+000
+Temporary state
+
+001 010
+
+101 100 011
+
+Figure 8.13: Five state up-counter showing a temporary state.
+
+121
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Counters
+
+PRE
+
+PRE Q1=A J FF2 Q1 K CLR Q2 K Q2=B J
+
+PRE
+
++5 V
+
+J FF1 K CLR
+
+Q3=C
+
+FF3 Q3 CLR
+
+Figure 8.14: Five state asynchronous up-counter with NGT clock pulse (with CLR input).
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+122
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design
+
+Counters
+
+8.4	
+
+Synchronous counters
+
+Synchronous counters are advantageous over asynchronous counters as they do not suffer from clock ripple effect due to all flip-flops being clocked at the same time. Also, they allow counter design in any arbitrary sequence. However, synchronous counters often require additional circuitry. In this section, several examples will be used to illustrate the synchronous counter design. The basic steps in the design are: 1)	 Obtain the state diagram/table 2)	 Decide the number of flip-flops and type of flip-flop 3)	 Derive the state excitation table 4)	 Obtain the simplified expressions for the flip-flop inputs (for example using K-maps) 5)	 Draw the logic circuit diagram
+
+8.4.1	
+
+Synchronous counter – example 1
+
+Assume that we wish to design a counter that counts 000010011111 and then recycles back to 000. In this counter, there are several unused states: 001, 100, 101 and 110. Though these states should not occur in our design, it is good practice to set the counter to go to 000 if any of these undesired states do occur. Step 1: State diagram is shown in Figure 8.15.
+
+100 101 110
+
+001 000 111 010 011
+
+Figure 8.15: State diagram for synchronous counter in example 1.
+
+Step 2: The number of flip-flops is three and let us assume that J-K flip flops are used.
+
+123
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Counters
+
+Step 3: The excitation table is basically a truth table that gives the necessary J and K inputs to enable a change in the current output Q to next state Q+. Table 8.2 shows the general excitation table for a J-K flip-flop (with don’t care conditions, X).
+Table 8.2: Excitation table for general J-K flip-flop
+
+Current J input K input output, Q
+
+Next output, Q+
+
+0 1 X X
+
+X X 1 0
+
+0 0 1 1
+
+0 1 0 1
+
+The excitation table for the counter to be designed is shown in Table 8.3. Step 4: Using the excitation Table 8.3, we can obtain the K-maps for each input as shown in Figures 8.16-8.18 where present states should be used to draw the K-maps.
+Table 8.3: Excitation table for the counter in example 1
+
+124
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Counters
+
+(a)
+
+(b) Figure 8.16: K-maps for inputs (a) JA and (b) KA.
+
+(a)
+
+125
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Counters
+
+(b)
+
+Figure 8.17: K-maps for inputs (a) JB and (b) KB.
+
+(a)
+
+126
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Counters
+
+(b) Figure 8.18: K-maps for inputs (a) JC and (b) KC.
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+127
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Digital Systems Design From the K-maps, the simplified expressions for the inputs are:
+
+Counters
+
+J A = AC 	 J B = BC 	
+	
+
+KA = C + A
+
+KB = C
+KC = 1
+
+Step 5: The logic circuit diagram is given in Figure 8.19. Notice that all the clock inputs are tied together and hence the flip-flops are clocked simultaneously.
+Q1=A FF1 K Q1 K Q2=B FF2 Q2 K Q3=C FF3 Q3
+
+J
+
+J
+
+J
+
+KB = C
+
+KC = 1 +5 V
+
+J A = AC
+
+J C = AB
+JB = BC
+
+KA = C + A
+
+Figure 8.19: Logic circuit diagram for counter in example 1.
+
+8.4.2	
+
+Synchronous counter – example 2
+
+Now consider another example using T flip-flops and the counter to be designed cycles through 000010100110 and then resets to 000. Step 1: Since the LSB of the counter does not change, we need not be concerned about the design for this bit and can set QA=0. So, the simplified state diagram is as shown in Figure 8.20. Step 2: The number of flip-flops is two only and T flip-flops will be used. Step 3: The general excitation table for T flip-flop is given in Table 8.4, while the excitation table for the counter is given in Table 8.5.
+
+128
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Counters
+
+00
+
+01
+
+11
+
+10
+
+Figure 8.20: Simplified state diagram for example 2. Table 8.4: General excitation table for T flip-flop
+
+Current T input output, Q
+
+Next output, Q+
+
+0 1 1 0
+
+0 0 1 1
+
+0 1 0 1
+
+Table 8.5: Excitation table for the counter in example 2
+
+Current state (C B)
+
+Next State (C+ B+)
+
+Flip-flop C TC
+
+Flip-flop B TB
+
+0 0 1 1
+
+0 1 0 1
+
+0 1 1 0
+
+1 0 1 0
+
+0 1 0 1
+
+1 1 1 1
+
+Step 4: The K-maps are shown in Figure 8.21. The simplified expressions are
+
+TB = 1
+TC = B
+
+129
+Download free eBooks at bookboon.com
+
+Digital Systems Design
+
+Counters
+
+Figure 8.21: K-maps for example 2: (a) TB (b) TC.
+
+Step 5: The logic circuit diagram is shown in Figure 8.22.
+
+Q1=A
+
+Q2=B
+
+Q3=C
+
++5 V
+
+TB = 1
+
+T FFB Q1
+
+TC = B
+
+T FFC Q2
+
+Figure 8.22: Logic circuit diagram for example 2.
+
+130
+Download free eBooks at bookboon.com
+

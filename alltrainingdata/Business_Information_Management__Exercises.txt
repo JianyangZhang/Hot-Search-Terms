@@ -1,0 +1,698 @@
+Business	Information	Management: Exercises
+Solutions	to	Hands	on	Exercises Dr.	Vladlena	Benson;	Kate	Davis
+
+Download	free	books	at
+
+Dr. Vladlena Benson & Kate Davis
+
+Business Information Management
+Exercises
+
+2
+Download free eBooks at bookboon.com
+
+Business Information Management: Exercises 1st edition © 2013 Dr. Vladlena Benson, Kate Davis & bookboon.com ISBN 978-87-7681-414-4
+
+3
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Contents
+
+Contents
+	Preface	 	 Key Features	 6 6 9 9 9 13 14 14 16 18 18 19
+
+1	 Introduction to Information Management	 1.1	Summary	 1.2	 1.3	 2	 2.2	 3	 3.2	 Answers to the Review Questions	 Case Study: Walmart Harnesses RFID Technology to Improve Efficiency	 Relational Data Model and SQL	 Solutions to Exercises 	 Data Definition in SQL	 Solutions to Exercises – DDL and DML activities	
+
+2.1	Summary	
+
+3.1	Summary	
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Business Information Management
+
+Contents
+
+4	 4.2	 5	 5.2	
+
+Advanced Selection Queries	 Solutions to Exercises – Order As and Selection	 Joining Tables	 Solutions to Exercises – Join, Selection and Projection	
+
+22 22 22 26 26 26 30 30 31 33 33 40
+
+4.1	Summary	
+
+5.1	Summary	
+
+6	 Functions, Aggregate and Group-set Functions	 6.1	Summary	 6.2	 Exercises 	
+
+7	 Information Security Management	 7.1	 7.2	 Suggested Discussion Points for Exercises	 External Resources and Links	
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Business Information Management
+
+Preface
+
+Preface
+Information management is vital for today’s businesses. It requires significant investment and supports critical business processes. With the proliferation of the information economy and information systems, effective information management determines success of virtually every business operation. Obtaining business value from vast amount of information collected by businesses is no longer only a technological challenge. The choice of decision making tools and information solutions rests with the business, as well as with IT managers.
+
+Key Features
+Each chapter provides a comprehensive coverage of relevant theory concepts followed by review questions, and/or case studies and worked examples. Many practical examples are included to illustrate the data analysis concepts. These exercises should help students acquire hands on skills, prepare for assessment and solve types of problems encountered in employment. The book is supported by: •	 A downloadable versions of the database files used in this book •	 Solutions for instructors Starting with a general introduction to information management the text takes the reader through the essential concepts of data analysis in Microsoft™ Access 2007. It presents an overview of the relational data model and data management using SQL. The data analysis chapters start with the preliminary concepts of database organisation and a gentle introduction to basic SQL. Further chapters introduce more advanced concepts of built-in functions, joining information from several tables and nested queries. We conclude with an overview of information security issues which represent significant challenges to businesses today. This handbook provides solutions to the following: Chapter 1 Introduction to Information Management: Answers to review questions Suggested Discussion for the case Study: Walmart harnesses rfid technolfgy to imporve efficiency Chapter 2 relational data model and sql: Solutions to exercises Chapter 3 data definition in sQL: Solutions to exercises
+
+6
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Preface
+
+Chapter 4 advanced selection queries: solutions to exercises Chapter 5 joining tables: solutions to exercises- join, selection and projection Chapter 6 functions, aggregate and group-set functions: solutions to exercises Chapter 7 information security management suggested discussion points for exercises external links The hands-on exercises in Chapters 2 through 6 are based on the following scenario: Dream Destinations Ltd is a company that provides a top quality service in bespoke, tailor-made holiday packages. They arrange everything from flights, hotel accommodation and trips to destinations within the Caribbean. At present they only record data from phone calls and e-mails on paper note pads and these are put inside filing cabinets. They have no methods for storing customer, hotel or flight information and have difficulty in keeping track of information. They only advertise by word of mouth, cold calling telesales and advertising through print media such as their own travel brochure which can be found in travel agents. Dream Destinations Ltd have realised that should something happen to the paper files, e.g. an office fire, their data would be lost as they have no way of keeping data. They want to be able to access the required information quickly and efficiently. They also need a means of advertising themselves to increase their customer base. They have asked for us to create a means of storing their client, booking and property information. The exercises in Chapters 2 through 6 require download of the following database file: SQLLabSessions.accdb
+
+7
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Preface
+
+The SQLLabSessions database contains four tables, PROPERTY, OWNER, CLIENT and BOOKING. •	 •	 •	 •	 property is a table containing property to be rented out information such as property number, street, country, rental cost and the yearly income. owner is a table containing the details of the owners of the properties. client contains the details of people who want to rent the properties. booking contains the details of clients who have booked a stay at a property.
+
+The aim of this book is to assist managers in becoming knowledgeable decision makers in the field of information management and analysis. This textbook covers methods of information analysis using relational databases written for current and future managers. The text finishes with an overview of current threats to business information assets and approaches to their mitigation.
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+8
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Business Information Management
+
+Introduction to Information Management
+
+1	 Introduction to Information Management
+1.1	Summary
+Information is the backbone of operations and survival for any modern business. Information is distinguished from data as a result of data processing operations. After data is processed and shaped in a meaningful form useful in business environment, it turns into information. In order to be useful to business and effectively support business processes, data is typically organised using a particular data model. A data model determines how data items are arranged into a hierarchy comprising of data elements and data structures. Data items are characterised by a data type. Standard data types include numbers, text, date and time units, with more complex data types are now available. In order to distinguish various types of information processed and generated in a business organisation it is necessary to distinguish between strategic, management and operational levels in an organisation. Information required by each level differs in its origin (external or internal to organisation), time frame (long, medium or short term), level of detail, etc. How a business aligns its information assets with its business objectives is stated in the information strategy document. Whereas practices on information capture, use, risks and security are typically specified in an information policy. Ever-increasing complexity of modern business has lead to the emergence of a wide range of software designed to help business derive value from their information assets. Such software ranges form spreadsheets to integrated Enterprise Resource Planning Systems (ERP) with more and more emphasis being put onto collaboration and communications features of modern software.
+
+1.2	
+
+Answers to the Review Questions
+1.	 What are the major differences between data and information? Answer: Raw, unprocessed streams of facts are usually referred to as data. Entries of numbers, text, images or other forms of computerized output are considered data. Raw data, however, is a relative term as data processing may have a number of stages, so the output from one processing stage can be considered to be raw data for the next. After, data is processed and shaped in a meaningful form useful to a person or computer, it turns into information.
+
+9
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Introduction to Information Management
+
+2.	 Outline some characteristics of information typically required for strategic decision making. Answer: Senior management will focus on general, or strategic, issues related to overall business development in the long term. At this level decisions tend to relate to issues with long term such as restructuring, major financial investments and other strategic undertakings related to company’s future rather than present. Information necessary for decision making at this level is comprehensively gathered not only from the internal sources of the company itself, but also involves external information, such as data related to economic situation or sectors as a whole. 3.	 Distinguish between the types of information used for operational and management decision making? Answer: At the operational level decisions are made to ensure smooth running of operational processes or day-to-day business. At this level it is necessary to oversee that resources are used efficiently, inventory is up to date, production levels are as planned, etc. Decision making at this level requires information almost entirely internal to the company, although it may be extremely detailed and real-time. Information for decision making at management level has a typical timeframe ranging from weeks to several month or a year. Middle management usually controls medium term scheduling, forecasting and budgeting operations. These rely on internal as well as occasional external information. For instance, setting the quarterly budget requires the knowledge of current expenditure as well as external pricing information. 4.	 Describe the constructs of a data model? What is the purpose of specifying data types? Answer: In order to be useful to business and effectively support business processes, data is typically organised using a particular data model. A data model determines how data items are arranged into a hierarchy comprising of data elements and data structures. Data items are characterised by a data type. Standard data types include numbers, text, date and time units, with more complex data types are now available.
+
+10
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Introduction to Information Management
+
+5.	 Describe how data elements such as letters in English alphabet are represented on computer hardware? Answer: Standard data types, such as text – a series of characters composed of characters from the alphabet and other symbols, numbers – integer, decimal, float and other types of numbers, and time including dates, seconds, minutes and hours, are among most commonly used in business information systems. Computers and other electronic devices store data using strings of characters coded based on a standard character set. Although invisible to an average computer user, encoding character set represents a standardised coding scheme. For instance, text consists of symbols or letters, each letter or punctuation mark has a corresponding sequence of symbols from the encoding set uniquely representing this text element for hardware and software manipulation. ASCII – American Standard Code for Information Interchange – has become a default standard character sets used on most personal computers and workstations. The ASCII coding scheme, based on the English alphabet, provides encoding for 128 symbols. In ASCII the capital A is represented by the binary string or word 10100001.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+11
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Business Information Management
+
+Introduction to Information Management
+
+6.	 What kinds of software applications are used for handling operational data as well as generating strategic information? Answer: Database Management Systems (DBMS) permit to efficiently manage, secure and analyse data, as well as interface to other software applications 7.	 What document specifies how an organisation handles its information? Answer: To provide specific guidelines to their employees, contractors, trading partners and other external stakeholder on the processing, storage and communication of various types of information, business firms usually create an information policy document. This document is extremely important when an organisation handles security sensitive data or is subject to government guidelines related to information processing. It defines sensitivity levels of information and lists who has access to each level. The aim of the information policy is to make sure that information assets of a company are appropriately protected from threats or disclosure. 8.	 What is the purpose of an information strategy document? Answer: An information strategy is developed to support the overall business strategy of an organisation and explains how information should be captured, processed, used and disposed of throughout its lifecycle. Although the structure of an information strategy varies from business to business, there are some common areas included in most information strategy documents such as:
+•	 •	 •	 •	 •	 Overview of Information Resources Information Architecture and IT Structure External Factors Opportunities Risk Analysis Summary of resources, their utilisation by internal staff and external stakeholders, key projects, budgeting, etc. Description of the IT infrastructure, key projects, itemisation of data sources and their purpose. Analysis of the competition, the economy, government policy and technological advances. Analysis of new business opportunities arising from information and technologies. Description of internal and external threats, analysis of compliance with regulations, summary of information usage by competitors. List of milestones and review dates to indicate if the strategy is executed well.
+
+•	
+
+Schedule
+
+12
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Introduction to Information Management
+
+9.	 What problems arise when information becomes decentralised in a business organisation? Answer: Without an organisation-wide plan and data administration procedures in place business may encounter such problems as: •	 Data redundancy – whereas data becomes duplicated and stored at several locations in more than one file. •	 Poor Data Availability – data becomes isolated and available only to the owner of a particular file in a file system. Sharing of data and its visibility to employees becomes reduced. •	 Poor Data Security – data spread across business in various forms and locations reduce the ability of a business to set proper security controls and ensure authorised access to information. •	 Error-Prone Data – when same data exists at multiple locations it become more vulnerable to human errors introduced by different employees and mistakes tend to go unnoticed for longer. 10.	 Give an example of how information systems support major business processes in sales, finance, production or human resources? Answer: The Sales department stores data about customer orders. Finance and Accounting use sales data to generate invoices and process payments. The Marketing department draws on the customer data and sales information for effective marketing campaigns. Human Resources store information about company employees, their skills and professional development needs. The central database facilitates keeping track of stock and production levels for manufacturing and production areas of business. Centralised information helps even a small business run effectively and rely on real-time information.
+
+1.3	
+
+Case Study: Walmart Harnesses RFID Technology to Improve Efficiency
+
+Recommended Sources: [1] http://walmartstores.com/FactsNews/NewsRoom/7894.aspx [2] http://tompiselloroiguy.blogspot.com/2006/11/roi-of-rfid-in-supply-chain.html [3] http://walmartstores.com/FactsNews/NewsRoom/6425.aspx [4] http://www.ft.com/cms/s/0/6a4d57a6-70d5-11da-89d3-0000779e2340.html [5] http://www.computerworld.com/softwaretopics/erp/story/0,10801,82155,00.html
+
+13
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Relational Data Model and SQL
+
+2	 Relational Data Model and SQL
+2.1	Summary
+Relational Database Management Systems (RDBMS) have become the prevalent means of managing data. RDBMS comprises of software facilitating storage, entry and data retrieval. Relational databases are organised in entities, attributes, and tuples. A tuple (or a record) is a set of attributes. An attribute contains a single piece of information, and an entity is a collection of tuples. Relations in a database are represented using entities (or tables), with rows containing unique tuples. A cell must hold one atomic value (e.g. a value that wouldn’t normally be divided into any smaller parts). Values can be Text (e.g. letters or Alphanumeric characters), Numbers (so that associated mathematical operations can be performed) or other types such as Dates, Times or Currency. Standard Query Language (SQL) is the most widely-accepted database language, supported to some extent by every database product on the market today. Data retrieval in a database is performed using queries written in a query language. A Query can be classified as a question that we require the database to provide an answer to. The Select statement is used in SQL to pull out and display information from a table. Its basic structure has this form: 	 	 SELECT select-list FROM table;
+
+In addition to data retrieval, SQL supports other operations for managing data. These include:
+Select Insert Delete Update Create Alter Drop Grant Revoke Validate Used to retrieve data from the database, the most commonly used statement Used to enter (insert), remove (delete) or change (update) rows from a table. Together with Select, collectively known as the DML or Data Manipulation Language Used to set up (create), change (alter) or remove (drop) data structures such as tables, views or indexes. Collectively known as the DDL or Data Definition Language Used to give (grant) or remove (revoke) access rights to data and data structures within an SQL database
+
+14
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Relational Data Model and SQL
+
+Exercises in this chapter are based upon the following scenario: Dream Destinations Ltd is a company that provides a top quality service in bespoke, tailor-made holiday packages. They arrange everything from flights, hotel accommodation and trips to destinations within the Caribbean. At present they only record data from phone calls and e-mails on paper note pads and these are put inside filing cabinets. They have no methods for storing customer, hotel or flight information and have difficulty in keeping track of information. They only advertise by word of mouth, cold calling telesales and advertising through print media such as their own travel brochure which can be found in travel agents. Dream Destinations Ltd have realised that should something happen to the paper files, e.g. an office fire, their data would be lost as they have no way of keeping data. They want to be able to access the required information quickly and efficiently. They also need a means of advertising themselves to increase their customer base. They have asked for us to create a means of storing their client, booking and property information.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+15
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Business Information Management
+
+Relational Data Model and SQL
+
+2.2	
+
+Solutions to Exercises
+
+1. Display all the information in the table called client
+SQL: SELECT * FROM client;
+
+2. Display the propertyno and country for each property
+SQL: SELECT propertyno, country FROM property;
+
+3. Display all the distinct types of property
+SQL: SELECT DISTINCT type FROM property;
+
+4. Display a list of the monthly income of each rental property (calculated from yearly income / 12)
+SQL: SELECT propertyno,ownerno, yearincome/12, FROM property;
+
+16
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Relational Data Model and SQL
+
+5. Display a list of the distinct property locations
+SQL: SELECT DISTINCT country FROM property;
+
+6.  Display the property number, and the new rent figure given a 12% rise in the rent figure. Name the new column increase
+
+SQL: SELECT propertyno, (rent/100*12)+rent AS increase FROM property;
+
+7. Display the first name and last name of each client as a single column separated by a hyphen (name the column clientname), along with new rent figure given a 5% increase in the maximum rent figure (name the new column newmax)
+
+SQL:SELECT fname&”-”&lname AS clientname, (maxrent/100*5)+maxrent AS newmax , FROM client;
+
+17
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Data Definition in SQL
+
+3	 Data Definition in SQL
+3.1	Summary
+The SQL language has facilities to create, manipulate and delete (drop) tables. Often these command line activities are duplicated through a GUI (such as the one in Access), however there are advantages to performing these operations through text. The SQL create table syntax is of the form: CREATE TABLE tablename 	 	 	 (column_name	type [NULL/NOT NULL], column_name	 type [NULL/NOT NULL], column_name	 type [NULL/NOT NULL] ..)
+
+To permanently delete a table (to ‘drop’ a table), use the drop command: DROP table tablename;
+
+18
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Business Information Management
+
+Data Definition in SQL
+
+To change a table structure use the alter table command: ALTER table tablename 	( 	   [MODIFY columnname type | 	   ADD columnname type ] 	);
+
+Most SQL queries allow views on the original data, without manipulating the original data set. Actual changes to rows in a table ( or Data Manipulation) are done through the Insert,Update or Delete statements. The INSERT statement adds records (rows) to a table and has two forms: INSERT into table [(columnname, columnname, …)] values (value, value,…)
+
+This will insert a record using a supplied column list the supplied values. If no column list is supplied the record will be inserted as is, which may generate errors if the columns don’t match up. INSERT into table [(columnname, columnname, …)] 	 select select-list from table(s) … etc.
+
+This form allows an insert to be based on the results of a select query.
+
+3.2	
+
+Solutions to Exercises – DDL and DML activities
+
+Write SQL commands to perform the following activities: 1.	 Create a specialised property table called propertyBarbados, which has the same field names as the property table. SQL: CREATE TABLE propertyBarbados ( propertyno char(15), street char(15), type char(15), rooms number, rent number, country char(15),
+
+yearincome number, ownerno char(15) );
+
+19
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Data Definition in SQL
+
+2.	 Write an appropriate SQL query to insert a new property into propertyBarbados with the following details: propertyno – BD67
+
+street – Sunrise St country – Barbados type – Villa rooms – 7 rent – 600
+
+year income – 14000 ownerno – CO96 SQL: INSERT INTO propertyBarbados (propertyno, street, country, type, rooms, rent, yearincome, ownerno) “CO96”); VALUES (“BD67”, “Sunrise St”, “Barbados”, “Villa”, 7, 600, 14000,
+
+3.	 Write a query that will insert the details of other properties in Barbados into the table SQL: INSERT INTO propertyBarbados (propertyno, street, country, type,
+
+rooms, rent,
+
+yearincome, ownerno) ownerno
+
+SELECT propertyno, street, country, type, rooms, rent, yearincome, FROM property
+
+WHERE country=“Barbados”;
+
+20
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Data Definition in SQL
+
+4.	 Write an SQL statement to drop the propertyBarbados table SQL: DROP TABLE propertyBarbados;
+
+21
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Business Information Management
+
+Advanced Selection Queries
+
+4	 Advanced Selection Queries
+4.1	Summary
+The purpose of the SELECT statement in SQL is to retrieve data from one or more tables and display the result in a required format. It is possible to select specific records from a database according to a particular condition. Also, one may use ORDER BY to sort records after they have been selected. The general form for the complete SELECT statement is given below: SELECT [DISTINCT | ALL] {*| column [AS new_name]] [, …]} FROM TableName [alias] [,…] [WHERE conditional statement] [ORDER BY column_list]
+
+[GROUP BY column_list] [HAVING condition]
+
+ORDER BY determines the order of the data retrieval output. The order of the clauses in a SELECT syntax).
+
+statement cannot be changed, although some of the clauses are optional (enclosed in [] in the above
+
+4.2	
+
+Solutions to Exercises – Order As and Selection
+
+In the following exercises, a query must be specified to produce the suggested result. There are spaces for you to write SQL query statements. Use the AS command to get correct column headings in SQL. 1.	 Display the property number, street and country information ordered by country. SQL: SELECT propertyno, street, country FROM property ORDER BY country asc;
+
+22
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Advanced Selection Queries
+
+2.	 Display the property number, street and country information ordered by country (descending) and property number (ascending). SQL: SELECT propertyno, street, country FROM property ORDER BY country desc, propertyno asc;
+
+3.	 Display the property information for properties that have less than 4 rooms. SQL: SELECT *
+
+FROM property
+
+WHERE rooms<4;
+
+4.	 Display all the properties with 4 rooms and rent of over £540. SQL: SELECT *
+
+FROM property
+
+WHERE rooms=4 AND rent>540;
+
+23
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Advanced Selection Queries
+
+5.	 Display a list of client last names, preference type and the maximum rent figure with a preference of Villas ordered by their maximum rent figure ascending. SQL: SELECT lname, preftype, maxrent FROM client WHERE preftype=“Villa” ORDER BY maxrent asc;
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+24
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Business Information Management
+
+Advanced Selection Queries
+
+6.	 Show a list of clients who have made a comment ordered by property number descending. SQL: SELECT *
+
+FROM booking
+
+WHERE comment is NOT NULL ORDER BY propertyno desc;
+
+7.	 Display the property numbers, type, rent and owner number of those properties who have a yearly income figure more than £11,000 and have 4 rooms, ordered by property number and type ascending. SQL: SELECT propertyno, type, rent FROM property WHERE yearincome>11000 and rooms=4
+
+ORDER BY propertyno asc, type asc;
+
+25
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Joining Tables
+
+5	 Joining Tables
+5.1	Summary
+More often than not SQL queries need to combine information from two or more tables. To join records two or more tables together, SQL implements the equivalent of the mathematical operation Cartesian Product. This is written in SQL by listing the tables to be connected in the FROM clause, separated by commas.
+
+A multi-table FROM statement is of the form:
+FROM tablename [,tablename [,tablename …]]
+
+Recall that the general form for the complete SELECT statement is: SELECT [DISTINCT | ALL] {*| column [AS new_name]] [, …]} FROM Tablename [alias] [, tablename]… [WHERE conditional statement] [ORDER BY column_list]
+
+[GROUP BY column_list] [HAVING condition]
+
+When records are retrieved from more than one table the WHERE clause MUST contain a conditional statement indicating the keys which the tables are joined on. For example; SELECT *
+
+FROM property, owner
+
+WHERE property.ownerno=owner.ownerno;
+
+5.2	
+
+Solutions to Exercises – Join, Selection and Projection
+
+In the following exercises, the query must be specified to produce the suggested result. There are spaces for you to write the SQL query. Use the AS command to get correct column headings in SQL. 1.	 Display the owner first name and country of their properties. SQL: SELECT fname, country FROM owner, property WHERE property.ownerno=owner.ownerno;
+
+26
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Joining Tables
+
+
+
+2.	 Display the owner first and last name for Apartments in Antigua. SQL: SELECT fname, lname
+
+FROM owner, property country=”Antigua”;
+
+WHERE property.ownerno=owner.ownerno AND type=”Apartment” AND
+
+
+3.	 Display the property number and owner number for all Villas. SQL: SELECT propertyno, owner.ownerno, type FROM owner, property WHERE property.ownerno=owner.ownerno AND type=”Villa”;
+
+27
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Joining Tables
+
+4.	 Display the properties and their owner details with a rental income between £460 and £530. SQL: SELECT *
+
+FROM owner, property
+
+WHERE property.ownerno=owner.ownerno AND rent>460 AND rent<530
+
+
+
+.
+
+28
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Business Information Management
+
+Joining Tables
+
+5.	 Display the employee client number, client last name, their booking date, the property number of the booked property, the country that the booked property is in and the clients preference type (Hint – you need to use 3 tables) SQL: SELECT client.clientno, client.lname, booking.bookingdate, booking. propertyno, property.country, client.preftype FROM booking, property, client WHERE booking.clientno=client.clientno
+
+AND property.propertyno=booking.propertyno;
+
+
+
+6.	 Display all the owners first, last names, type and property number whose property type are Villa and Apartments (Hint – you need to use brackets in the WHERE clause after the AND) SQL: SELECT fname, lname, type, property.propertyno FROM owner, property WHERE property.ownerno=owner.ownerno
+
+AND (type=”Villa” OR type=”Apartment”);
+
+
+
+29
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Functions, Aggregate and Group-set Functions
+
+6	 Functions, Aggregate and Group-set Functions
+6.1	Summary
+In this chapter you learnt how to create functions, manipulate and extract certain information from the database using more advanced SQL queries. Generally speaking functions used in SQL fall into four categories: •	 String functions, such as len(..), &, substr(..), mid(…) , etc. •	 Arithmetic functions, such as round(..), sum(..),etc. •	 Date functions, such as + and – operations on dates
+
+•	 Aggregate or group-set functions, such as count(), avg(), etc. The GROUP BY clause divides (sorts) a table into groups of rows with matching values in the same column (or columns).
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+30
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Business Information Management
+
+Functions, Aggregate and Group-set Functions
+
+6.2	Exercises
+1.	 Display the details for the latest booking date SQL: SELECT *
+
+FROM booking
+
+WHERE bookingdate=(select max(bookingdate) from booking);
+
+2.	 Display the lowest yearly income earned by properties in Barbados SQL: SELECT min(yearincome) FROM property WHERE country=”Barbados”;
+
+3.	 Display the property number with the highest year income for a Villa SQL: SELECT propertyno FROM property WHERE yearincome=(select max(yearincome) from property where
+
+type=“Villa”);
+
+31
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Functions, Aggregate and Group-set Functions
+
+4.	 Find the average year income for Villas SQL: SELECT avg(yearincome) FROM property WHERE type=“Villa”;
+
+5.	 List the minimum and maximum year incomes for each property type SQL: SELECT min(yearincome), max(yearincome), type FROM property GROUP BY type;
+
+6.	 Find the average year income (name the new column avgyearincome) and average rent (name the new column avgrent) for each property type, grouped by property type SQL: SELECT avg(yearincome) AS avgyearincome, avg(rent) AS avgrent, type FROM property GROUP BY type;
+
+32
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Information Security Management
+
+7	Information Security Management
+7.1	 Suggested Discussion Points for Exercises
+1. Exercise: At a high level view COBIT, ITIL and ISO27002 have a lot in common. However, each of the security and control frameworks discussed in this unit has its unique characteristics. Identify and discuss similarities existing between these frameworks. Summarise and discuss with your colleagues specific differences between them. The following categories may help in your comparative analysis of the frameworks: technology, implementation, environment, personnel, controls, processes and metrics. Discussion is based upon the section Frameworks for Control and Security: COBIT®, ITIL­­ ®, and ISO 27002: Over the years three rather different, but widely accepted, IT governance frameworks have been developed. They are COBIT®, ITIL­­ ® and ISO 27002. Each of these frameworks was developed in a different country and by a third party, i.e. these frameworks are vendor-independent. Although any of these frameworks may not serve as a silver bullet to resolving information security risks, each has its fortes in IT governance.
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+33
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Business Information Management
+
+Information Security Management
+
+Control Objectives for Information and related Technology, or COBIT® is increasingly popular framework of practices for IT, internal information controls and risks mitigation. COBIT, developed by America’s IT Governance Institute, aims to facilitate implementation of enterprise-wide governance of IT. Its objective is to help enterprises to integrate information technology with business objectives and strategic management, to harvest value of their information assets and capitalise on IT in an increasingly competitive business and stringent regulatory environments. COBIT is a process oriented framework, which provides management guidelines for monitoring and evaluating an enterprise’s IT resources. The framework offers tools responsive to the management needs to control and monitor enterprise’s IT capability for its various business processes. The best practice approach provided by COBIT includes such tools as: •	 Performance drivers for IT •	 Best practices for IT processes and relevant critical success factors •	 Elements for performance outcome measurement •	 Maturity models instrumental for decision making over capability improvements. According to COBIT there are 34 IT processes in an enterprise, every process is assigned a level of maturity on a scale of 0–5 from non-existent to optimised or best practice. The maturity levels are used for benchmarking of IT capabilities. IT processes are grouped into four domains, such as: •	 Plan and Organise; •	 Acquire and Implement •	 Deliver and Support •	 Monitor and Evaluate. For each COBIT process a set of control objectives is assigned. For instance, a process Ensure System Security which belongs to the domain of Delivery and Support will have an objective of Minimise the impact of security vulnerabilities and incidents. This objective can be assessed by the number and severity of projected and actual information security breaches, % of compromised cryptographic keys compromised and revoked, number of access rights authorised, revoked, changed, etc. Table 1 summarises selected processes and general control objectives outlined in the COBIT framework.
+
+34
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Information Security Management
+
+Domain
+Delivery and Support
+
+High Level Control Objectives
+Ensure Continuous Service Ensure System Security Educate and Train Users Manage Service Desk and Incidents Manage Problems
+
+Monitor and Evaluate
+
+Monitor and Evaluate IT Processes Monitor and Evaluate Internal Control Systems Ensure Regulatory Compliance Provide IT Governance
+
+Table 1 Selected Control Objectives in COBIT.
+
+COBIT takes a best-practice approach to assist managers in establishing appropriate internal controls and aligning control needs, business risks and IT capabilities. The framework ensures that internal control systems support the enterprise’s business processes through identification and measurement of individual control activities. These activities comprise of management policies/procedures, business practices and organisational structures. In addition to other risks that an enterprise can face, COBIT deals with IT security. COBIT Security Baseline comprehensively covers risks of IT security and provides key controls for mitigating technical security risks. As discussed earlier in the unit enterprises, especially trading in the US, have to comply with stringent regulations. COBIT has established itself as the most adopted internal control framework to achieve compliance with the Sarbanes-Oxley Act. ISO27002: Code of Practice for Information Security Management. ISO 27002, the updated version of ISO 17799 in 2007, is a Code of practice for information security management. It provides the general principles for planning, implementing and improving information security management for businesses. The standard, released by the International Standards Organisation in Geneva, establishes the guidelines on information security control objectives and focuses on information in its various forms. It is worth mentioning that ISO 27002 addresses security of information in possibly all of its formats including electronic files, paper documents, recordings/media and communications. The standard is comprehensive enough to group information in context of communication into conversations (telephone, mobile, face to face) and messages (email, fax, video and instant messaging).
+
+35
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Information Security Management
+
+ISO 27002 suggests initiating implementation of information security management by gathering company’s information security requirements. This is done through a process consisting of the following steps: 1.	 Perform risk assessment – aimed at identifying vulnerabilities and threats, as well as establishing their likelihood of them causing an information security breach and its consequences to business objectives. 2.	 Study legal requirements – this step includes addressing the legislative and contractual requirements of all business stakeholders including suppliers, partners, etc. and ensuring that the regulatory requirements specific to the business are met. 3.	 Scrutinise requirements internal to business – through examination of information management processes, methods and practices inside the organisation it is possible to identify information security needs and requirements unique to the organisation.
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+36
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Business Information Management
+
+Information Security Management
+
+Having examined the company’s information security needs and requirements, ISO 27002 recommends developing/improving the business’s information security program. This program is built from the best-practices provided by ISO 27002 by selecting practices which meet information security requirements unique to the company. It is recommended to establish core security practices such as: •	 “Allocate responsibility for information security •	 Develop an information security policy document •	 Make sure applications process information correctly •	 Manage information security incidents and improvements •	 Establish a technical vulnerability management process •	 Provide security training and awareness •	 Develop a continuity management process”. The basis of the legal practices in a company’s information security program must include at least: •	 “Respect intellectual property rights •	 Safeguard organisational records •	 Protect privacy of personal information” (ISO 27002: 2005 Introduction) ISO 27002 addresses objectives of information security management and recommends controls which should be used to achieve these objectives. For example, the section concerned with Information Security Incident Management includes an objective, Make sure that information system security incidents are promptly reported. Relevant controls corresponding to this objective will include, Report information security events using the appropriate management reporting channels and Make sure that security events are reported promptly. In addition to the set of objectives and controls ISO27002 provides notes and guidelines on how to implement controls and apply objectives. For the objective discussed above one of the guidance notes is Establish a formal information security event reporting procedure. The set of best practices comprehensively covers a broad range of management areas from Human Resource Security Management to Information Security Incident Management. Any business organisation is not compelled to implement the entire set of best practices provided in ISO 27002 – only specific practices which help address information security risks or meet a compliance requirement relevant to the organisation need to be applied.
+
+37
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Information Security Management
+
+Information Technology Infrastructure Library or ITIL® emerged in recognition to an increasing dependence of enterprises on information and IT in order to meet their business needs. Developed by the UK Office of Government Commerce, ITIL comprises of a comprehensive set of good practice documentation for managing IT infrastructure, development and delivery of quality services. Through the use of best practices ITIL provides a systematic approach to the IT Service Management. ITIL has been highly acclaimed and adopted by such large organisations as Barclays Bank, HSBC, British Airways, MOD, etc. ITIL has focuses on the Service Management and IT support for operational processes and their continual improvement. Over the years since the earlier versions of ITIL it has emerged that Service Management is a wider concept than just supporting the end-product. The later version (version 3) of ITIL now addresses the Service Lifecycle including Strategy, Design, Transition and Operations. ITIL covers Security Management as a process of embedding information security into organisational management. ITIL Security Management is largely based on the ISO 17799/ISO 27002 standard and treats information security as the process of safeguarding information from risks. It addresses the need to minimise information security risks, often concentrating on the physical security of information assets, in order to achieve and improve IT service management. Specifically, information security breaches and attacks can negatively impact service operations and continuity thereby in ITIL context, degrade service value and benefit. Various IT control frameworks have emerged over the past decades, enabling organisations to establish robust internal security controls. Their primary objective is to provide a structured system for any business to establish a system of controls as complete as possible fully addressing corporate business processes and infrastructure. The frameworks described here offer substantially different approaches to control and security. However, they are flexible enough to allow any business, from small companies to global enterprises, to adapt and implement only selected components of the framework to the specific needs of a business. 2. Exercise: Following a number of information security incidents, the UK government conducted a review of its data handling procedures. In a small group, or individually, research some of the news headlines related to data loss incidents. Discuss with your colleagues what security control objectives should be in place to avoid such incidents of data loss in the future. Compare your suggestions to the information security agenda suggested in the following report Cabinet Office (2008) Data Handling Procedures in Government: Final Report http://www.cabinetoffice.gov. uk/~/media/assets/www.cabinetoffice.gov.uk/csia/dhr/dhr080625%20pdf.ashx Finally, what security and control framework(s) are recommended to be implemented by this report?
+
+38
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Information Security Management
+
+Discussion Points: The Cabinet Office Report recommends implementation of the following specific measures: •	 Regular assessments of information and risks associated with it •	 Controlled access to the information infrastructure •	 Access to raw data is kept to a minimum •	 Clarified ownership of data to contractors and third parties. Fostering Organisational Culture: •	 Strong accountability culture •	 Information is seen as a corporate asset •	 Staff awareness and education •	 Clear expectations and understanding of consequences.
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+39
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Business Information Management
+
+Information Security Management
+
+3. Exercise: Research how one of the Fortune 100 companies protects its brand online. Or you may choose one of the following companies: •	 Toyota •	 Lloyds tsb •	 NatWest •	 Sony Identify measures the company of your choice takes to protect and manage its brand online. Collect information about possible threats pertaining to brand that the company experienced in the past. Also, attempt to list possible benefits and savings obtained through online brand protection. Share your findings with your class colleagues or on the discussion forum as directed by your instructor. Discussion Points: You may find it useful to research the cases studies on the Mark Monitors web page. One of the companies mentioned there is Toyota. Brand integrity is of an utmost importance to the company. A proactive approach aimed at preventing, detecting and responding to counterfeit and gray activity on the Internet was taken by Toyota brand management team. As a result Toyota successfully: •	 Increased its online brand protection strategy across several countries and avoided overhead costs •	 Integrated several of its auction sites thereby reducing the administration costs •	 Improved its position in reporting, case history data availability and image protection. Find more detailed information at: http://www.markmonitor.com/cta/cs-toyota/ •	 Provided instant access to better evidence including case history data, documents and images Their online brand protection is implemented as follows:
+
+7.2	
+
+External Resources and Links
+
+Attorney General’s Office State of Connecticut (2006) Pfizer Data Breach Letter. Available at http://www.ct.gov/ag/lib/ag/consumers/pfizerdatabreachletter.pdf Accessed on 10/06/2008 BSI (2006) ISO/IEC 18028-1:2006 Information Technology. Security Techniques. IT Network Security. Network Security Management. London: BSI Publications.
+
+40
+Download free eBooks at bookboon.com
+
+Business Information Management
+
+Information Security Management
+
+Cabinet Office (2008) Data Handling Procedures in Government: Final Report Available from http://www.cabinetoffice.gov.uk/~/media/assets/www.cabinetoffice.gov.uk/csia/dhr/ dhr080625%20pdf.ashx Accessed on 10/06/2008 Calder A. and Watkins S.(2005) IT Governance: a Manager’s Guide to Data Security and BS7799/ ISO17799 – 3rd Edition, Kogan Page. Calder A. (2005) A Business Guide to Information Security. Kogan Page. IT Governance Institute (2008) COBIT 4.1 Executive Summary and Framework. Available from: http://www.isaca.org/AMTemplate.cfm?Section=Downloads&Template=/ContentManagement/ ContentDisplay.cfm&ContentID=34172 Egan M. and Mather T. (2004) Executive Guide to Information Security: The Threats, Challenges, and Solution. Symantec Press. Haag S., Batzan P., Phillips A. (2006) Business Driven Technology. McGraw-Hill. MarkMonitor (2007) Gain Control Over the Vast Unknown: Curtailing Online Distribution of Counterfeit and Gary Market Goods. White Paper. MessageLabs (2008) Message Labs Intelligence: April 2008. Available from: www.messagelabs.com/mlireport/MLI_Report_April_2008.pdf Accessed on 10/06/2008 Schneier B.(2006) Secrets and Lies: Digital Security in a Networked World. Hungry Minds Inc, US. Silay J. and Koronios A. (2006) Information Technology: Security and Risk Management. J Wiley Stationery Office (2007) Personal Internet Security Report. London: The Stationery Office. Available from: http://www.parliament.the-stationery-office.co.uk/pa/ld200607/ldselect/ldsctech/165/165i.pdf Accessed on 10/06/2008 Symantec Corporation (2007) Symantec Internet Security Threat Report: Trends for January–June 2007, Vol. 12 Weber Schandwick (2007) Safeguarding Reputation Survey Results Issue 1: Strategies to Recover Reputation. Available form: http://164.109.94.76/resources/ws/flash/Safe_Rep_Reputation.pdf Accessed on 10/06/2008
+41
+Download free eBooks at bookboon.com
+

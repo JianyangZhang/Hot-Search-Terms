@@ -1,0 +1,2556 @@
+Microsoft	Office	Excel	2007
+Torben	Lage	Frandsen
+
+Download	free	books	at
+
+Torben Lage Frandsen
+
+Excel 2007
+
+2
+Download free eBooks at bookboon.com
+
+Excel 2007 1st edition © 2010 Torben Lage Frandsen & bookboon.com ISBN 978-87-7681-675-9
+
+3
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Contents
+
+Contents
+	Introduction	 	 1	 1.1	 1.2	 1.3	 1.4	 1.5	 1.6	 1.7	 1.8	 1.9	 2	 2.1	 2.2	 A Small Reader’s Guide	 What is New in Excel 2007	 Ribbons and Tabs	 Larger Workspace	 More Colours	 Colour Themes and Styles 	 Improved Pivot Tables	 Improved Conditional Formatting	 More and Better-Looking Charts	 New File Format	 Where can I find the Old Buttons?	 First Look at Excel	 The Screen and its Elements	 Navigating the spreadsheet	 8 9 10 10 10 10 10 10 11 11 11 11 12 12 18
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Contents
+
+2.3	 2.4	 2.5	
+
+Writing in the Cells	 Adaptation of Cell Size	 Selecting Cells	
+
+20 21 21 23 23 24 26 30 30 32 38 43 43 50 52 53
+
+3	Calculations	 3.1	Formulas	 3.2	 Formulas with references	 3.3	Functions	 4	 4.1	 4.3	 Copying cells	 Simple Copying	 Copying Formulas	
+
+4.2	Series	
+
+5	Formatting	 5.1	 5.2	 5.3	 5.4	 Text and colours	 Number Formats	 Date and Time	 Formatting Tables	
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Contents
+
+5.5	 5.6	 6	 6.1	
+
+Conditional Formatting	 Themes and Styles	 Working with Tables	 Create a Table	
+
+56 60 65 65 66 78 80 88 88 97 99 100 103 108 108 115 116
+
+6.2	Filtering	 6.3	Sorting	 6.4	 Pivot Tables	
+
+7	Charts	 7.1	 7.2	 7.3	 7.4	 7.5	 7.6	 7.7	 7.9	 Bar Charts	 Line Charts	 Charts with both Columns and Lines	 Circle Charts	 Scatter Charts	 Chart Sheet	 Viewing and Printing	 Adjust Print Range	
+
+7.8	Viewing	
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+6
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Contents
+
+8	 Working with Multiple Spreadsheets	 8.1	 8.2	 9	 9.1	 9.2	 9.3	 10	 10.1	 10.3	 10.4	 10.5	 10.6	 11	 Working with Sheet Tabs	 Retrieve Data from Other Workbooks	 Macros – Automation	 Recording a Macro	 Play a Macro	 A Button for Your Macro	 Advanced Excel	 Nested Functions	 Mathematical and Statistical Functions	 Logical functions	 Analyse Data with Analysis Toolpak	 Goal Seek	 Concluding Remarks	
+
+121 122 124 126 126 129 129 131 131 131 133 136 137 139 141
+
+10.2	Look-up	
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+7
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Introduction
+
+Introduction
+Nothing is difficult once you have learned it. That applies to Excel as well, and once you have learned it, you will be able to do things you never dreamed of! You will be able, to make calculations more complex than NASA did when they sent the first man to the moon! It may sound like big words, but in the case of Excel – or spreadsheet programs in general – it is quite true. Spreadsheets can process large amounts of data and give you the calculation results in no time. And when the calculations are made, you can have them presented as beautiful tables and graphs. I know of many who are reluctant to engage with Excel because they find it difficult. Granted, Excel is a program that requires some basic skills before embarking on it, and if you have no feeling for or interest in numbers it can appear meaningless. With word-processing programs like Word, you can basically just start typing right away, but with spreadsheets it is a different story. In return, you can achieve some pretty amazing results when you master Excel at a reasonable level. I have made such diverse things as budgets, accounting, production planning, production simulation, energy accounting and quality statistics in Excel, and as long as it involves numbers, the only limit is your imagination. Excel is a program that you never quite finish learning about. I have used Excel for many years and have tried most things, and I still find it challenging. Even if you are familiar with all the basic functions, you will find occasion to continue challenging yourself and find new things you can squeeze out of the program. And when the program cannot perform the tasks you require, it also has an entire programming language, enabling you to make your own small programs inside Excel! I would think Excel is the program in the Office package which over time has had the greatest impact on the business sector. Word may be far more sophisticated than even the most advanced typewriter, but Excel enables you to make calculations in a few hours that previously would have taken several days, weeks or even years to perform. Being a “numbers nerd” I find it hard to hide my enthusiasm for Excel. I hope that, after you have finished reading this book, you will also have discovered how powerful a tool you now have at your disposal.
+
+8
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Introduction
+
+A Small Reader’s Guide
+If you have not worked with Excel before, I would recommend that you read the entire book from one end to another. You can subsequently use it as a reference. I have tried to arrange the book in a logical manner so you can quickly find a chapter that deals with a problem similar to the one you are trying to solve. If you have already worked a lot with Excel, you can probably skip some of the first sections if you want to get to the really “cool” stuff as quickly as possible. The book has a number of progressive exercises that illustrate what Excel can do. Of course you can just read through them, but I would advise you to sit down by a computer and perform them as described. It is simply a much better way to learn, and it allows you to experiment beyond the requirements of the exercises. I have chosen to keep the exercises very simple, using very little data. These exercises can in some cases appear absurd,  but the purpose is for you to understand the various points, so that you can exploit the functionality for more complex tasks. I have therefore taken great pains to avoid involving you in something too difficult. There is nothing worse than having to give up on an exercise because you are stuck. If you get stuck anyway, I recommend that you call a good friend or your clever nephew. There is always someone nearby who has worked with Excel and can help you out. Many exercises require that you type a few things into the spreadsheet first. It is important that you type in these things exactly as described. If I ask you to write something in cell B2, and you type it in cell C2, you will probably have problems with the exercise later. The same goes for spelling. Always spell words in exactly the same way I did when you type them into the sheet. When I ask you to “click” on something, it is a click with the left mouse button. A double click is two fast clicks with the left mouse button. If I want you to click the right mouse button, I call it a “right-click”. Buttons and menus that you can / must click are always written in underlined font. This means that when you see underlined text you should be able to find something similar on the screen that you can click on. If I want you to type something in your spreadsheet, it will appear like this:
+
+Type=sum(a1:b3)
+Now we are ready to start up the program and look at all its wonderful features!
+
+9
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+What is New in Excel 2007
+
+1	 What is New in Excel 2007
+In the last several versions the new features in Excel have mostly been cosmetic in nature, but in version 2007 there are many new things. There have been many improvements in appearance, but Microsoft has in this version also introduced many functional improvements.
+
+1.1	
+
+Ribbons and Tabs
+
+Like the other applications in the Office package, Excel has also gotten a new and smarter look.  The first thing that catches the eye is that the traditional menu bars and toolbars have been replaced by the new “Ribbon”. The Ribbon contains Tabs, and each Tab contains buttons for various functions that were previously located in the menus and toolbars. The Ribbon is far more visual and task-oriented and adapts constantly to the activity you are engaged in. If you have been accustomed to working with menus and toolbars for many years, it takes a while to get used to the Ribbon, but I must admit that after some time I have been really pleased with the new system. It appears more coherent, and it is not as messy as the toolbars sometimes tend to be.
+
+1.2	
+
+Larger Workspace
+
+It has always been possible to make large spreadsheets in Excel.  In previous versions you could have 65,536 rows and 256 columns. This made for pretty large spreadsheets, but you had better sit down for this: In Excel 2007, you have up to 1,048,576 rows and 16,384 columns!
+
+1.3	
+
+More Colours
+
+In previous versions you had only a few colours to choose from when you had to put background colour in the cells. Now you can choose between 16 million different colours. You can also create colour transitions inside the cells. It gives you unprecedented opportunities to create worksheets that look nice and inviting.
+
+1.4	
+
+Colour Themes and Styles
+
+Now you can use predefined colour themes in Excel.  This feature is known from Word and Power Point, where the programs help you format your entire document, so everything appears smooth and harmonious. This is also possible in Excel now. If you make charts, they will automatically be consistent with the colour theme that is selected
+
+1.5	
+
+Improved Pivot Tables
+
+The “Pivot Table” function has been one of the features that have been least accessible. Microsoft has radically changed the way to set up a pivot table so it is easier and more intuitive to use.
+
+10
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+What is New in Excel 2007
+
+1.6	
+
+Improved Conditional Formatting
+
+The “Conditional Formatting” function has been significantly improved. There are more opportunities for highlighting of, for example, “Top 10”, and it is possible to colour the cells according to cell value
+
+1.7	
+
+More and Better-Looking Charts
+
+Excel 2007 has no new basic chart types, but there are now more variations of existing ones. Formatting has been improved, and you can, for example, add soft shadows behind your columns, which gives a nice effect. If you do not choose the colours in a chart yourself, the colours in the spreadsheet colour theme will be automatically applied, so everything appears harmoniously.
+
+1.8	
+
+New File Format
+
+Excel uses a new file format which is not compatible with earlier versions. If you have worked with the program before, you will know that the file name ends in “. Xls”. In Excel 2007 the file name ends with “.Xlsx”. For the technically minded, I can reveal that it is an XML-based format, which gives smaller file sizes and better opportunities for integration with other programs. You can still save your spreadsheets in the old format, but be aware that some functionality may be lost.
+
+1.9	
+
+Where can I find the Old Buttons?
+
+If you are familiar with older versions of Excel, you will probably have trouble finding some of the old features. This is obviously because the menu bar and toolbars have been replaced with the “Ribbon”. It might be a little confusing, but I’ll try to list the main functions, so you can find them quickly. New, Open, Save, Save As and Close are located in the Office Button at the top left. The Save feature is also available as standard in the Quick Access Toolbar, located just to the right of the Office Button. Preview is also available in the Office Button under menu item Print. The Drawing toolbar no longer exists. It has been replaced by the Shapes and SmartArt buttons under the Insert tab in the Ribbon. The Insert symbol is also located in the Ribbon under the Insert tab. This button is simply called Symbol. Normal view and Page Break preview are there as small buttons at the bottom right corner of the screen. The Insert function has been replaced by the Formulas Tab in the Ribbon. This is a clear improvement, but if you prefer the old dialog box, you can get it by clicking on FX on the formula bar.
+
+11
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+First Look at Excel
+
+2	 First Look at Excel
+In this section we will review the basic structure of Excel 2007. You start the program by clicking the Windows Start button at the bottom left, then click Programs. In the programs menu you will find a folder called Microsoft Office, which is where Excel is located.
+
+Figure 1: Excel’s structure. Currently, cell A1 has been selected. I have highlighted column H and row 13. The cell where column H and row 13 meet is called H13.
+
+2.1	
+
+The Screen and its Elements
+
+When you start Excel, you will automatically start in a new, blank workbook. Excel basically looks and works the same way it has in the last 4–5 versions.  If you already know Excel, you can use it exactly as you have always done. Nevertheless, there have been some changes and improvements different places, and they are not just cosmetic.
+
+12
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+First Look at Excel
+
+2.1.1	
+
+Workbooks and Spreadsheets
+
+An ordinary Excel file is called a “Workbook” and can contain different things.  The most important thing is that it can contain worksheets, but it may also contain chart sheets and small programs that you can do yourself. The most important thing is to be aware that an Excel file is not necessarily just a spreadsheet but a workbook that can contain many spreadsheets and charts. 2.1.2	 The Ribbon
+
+The Ribbon with its Tabs and buttons is located at the top. The Ribbon is the most obvious change in Excel compared to previous versions, and it replaces the old menus and toolbars. But the Ribbon does not replace only the menus and toolbars. Many functions which previously required that you filled out various dialog boxes have become more directly accessible in the Ribbon In my case it took some time to get used to the Ribbon because I have been accustomed to the menu bar and toolbars for many years. The Ribbon is far more visual and task-oriented, and it looks very nice. Whether it is an improvement is perhaps a matter of taste. It was difficult for me to get used to it after so many years with the menu bar and toolbars.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+13
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+First Look at Excel
+
+But somehow, I have become quite fond of it. The old toolbar had a tendency to “mess around” at the top of the screen, whereas the Ribbon stays in place, so when you need a button, it will be in the same place as last time you used it. There are also many exciting new features for formatting and graphics, and the old shortcut keys also still work.
+
+Figure 2: A section of the Ribbon.
+
+It is also a great improvement that small “tool tips” pop up when you point to a button that has been upgraded. They have nice graphics and more detailed explanations of what the button does. It is a great help when you want to know the program. 2.1.3	 The Office Button
+
+Figure 3: The Office Button
+
+In the top left corner of the screen you will find the round Office Button. It corresponds by and large to the old “File” menu. If you click on the Office button a menu pops up. This is the menu you must enter when you want to create a new blank spreadsheet, and when you need to save it.
+
+14
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+First Look at Excel
+
+Figure 4: Clicking on the Office Button opens this menu.
+
+It is also via the Office Button that you can find Excel Options, where you can change the settings for how Excel should work. 2.1.4	 Quick Access
+
+The small discrete toolbar “Quick Access”, where with a single click you can save, undo, etc., is located just to the right of the Office Button. “Quick Access” can be customised so that you can choose the features that suit you best. You do this by right-clicking on a button and choosing Customize Quick Access Toolbar. Alternatively you can click the small arrow to the right of the toolbar, which enables you to quickly select and deselect various features. 2.1.5	 The Workspace
+
+The workspace is located underneath the Ribbon, and this is where you have your spreadsheet.  The spreadsheet is a huge table with “columns” and “rows”. The columns are named with letters in the “column headings”, and the rows are labelled with row numbers in the “row headings.“ By clicking on a column heading, you can select the cells in the whole column, and the same is true if you click on a row heading. The “Corner” is located in the top left corner of the worksheet. By clicking on the corner you can select all the cells in the entire worksheet.
+
+15
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+First Look at Excel
+
+The cells are the basic elements of the worksheet; this is where we type in our data and formulas. Wherever a row and a column meet, we have a “cell”. Each cell in the worksheet has a unique name. For example, the cell located where column C and row 4 meet is called “C4”. A cell can contain numbers, words and formulas. Formulas are a kind of commands that you type into a cell, which make the cell display the result of a calculation. You do not have to worry about that yet, I promise we will return to it in more detail. 2.1.6	 Sheet Tabs
+
+The “Sheet Tabs” are located just below the worksheet, on the left side. This is because you can work with multiple worksheets at once. An Excel file is therefore also called a “Workbook”, because it is similar to a folder containing a number of spreadsheets.
+
+Figure 5: The Sheet Tabs.
+
+The Sheet Tabs are by default named “Sheet1”, “Sheet2” etc., but you can give them more meaningful names yourself. You can also delete and add Sheet Tabs, and thus spreadsheets.
+
+16
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+First Look at Excel
+
+If you right-click on one of the Sheet Tabs, a menu pops up giving you the opportunity to do various different things. You can add, delete and copy Sheet Tabs, and thus the spreadsheets they represent. You can also change the order of the Tabs and give each Tab its own colour, which can facilitate the overview. 2.1.7	 Display Buttons
+
+You can use the display buttons to adjust the way you view the spreadsheet.  When you start a new spreadsheet, it is displayed in “Normal View”, but you can also view it as a “Page Impression”, which is somewhat similar to the way it would look if you were to print the sheet. “Show page breaks” is another option, where you can view and adjust the page breaks in the print-out.
+
+Figure 6: The display buttons.
+
+Finally, there is the zoom function, which allows you to enlarge or reduce the view of the sheet. The zoom function does not affect how the spreadsheet appears on a print-out. The zoom function is easy to use, but a better way in my opinion is to hold down the CTRL key on your keyboard while scrolling up and down with the scroll wheel on your mouse. Of course this requires that you have a mouse with a scroll wheel. 2.1.8	 Start a New Spreadsheet
+
+When Excel starts up, the program will display a new, blank workbook.  This is fine, but you do not always have to build everything up from scratch. Alternatively, you can start a new spreadsheet manually, using various templates. 1.	 Click on the Office Button in the top left corner of the screen. 2.	 Click on New. You will now have the opportunity to choose which template you want to use. The templates are organised in categories on the left side, which you can click on. When later in the book you have to perform an exercise, and I ask that you start with a blank worksheet, select the Empty and Latest category, and then the template Blank Spreadsheet. Later, when you get more familiar with it, you can try different templates.
+
+17
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+First Look at Excel
+
+Figure 7: There are many possibilities when you want to start a new spreadsheet.
+
+Templates for invoicing budgeting and even monitoring of blood pressure have already been installed. If you do not think the preinstalled templates are enough, it is possible to download many more via the categories under “Microsoft Office Online”.
+
+2.2	
+
+Navigating the spreadsheet
+
+You can use both mouse and keyboard to navigate the worksheet, but I recommend that you practice using the keyboard. It is a faster and ergonomically better solution. You’ll need to move things around a lot in the spreadsheet, and if you always use the mouse you could easily develop a “mouse-arm”
+
+Figure 8: Here B2 is the active cell.
+
+18
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+First Look at Excel
+
+Using the keyboard to move around has other advantages which I shall return to later. There is always one, and only one, active cell in the spreadsheet. It is identified by a thick black border all around it called the “cell pointer”. You can choose a second active cell using the arrow keys or the mouse. Try pressing lightly on the arrow keys on the keyboard to move the cursor. 2.2.1	 Navigating Large Spreadsheets
+
+When you navigate large spreadsheets, it becomes really difficult to use the mouse. You can move quickly to specific locations in a spreadsheet using the keyboard. If you press down the CTRL key and press the HOME key on the keyboard, the cursor moves to cell A1. If you hold down the CTRL key and use the arrow keys, you can skip to “where something is happening.” It could, for example, be the outer edge of a table. If you have a table with 1000 rows and 50 columns in your spreadsheet, pressing the down arrow while you press down the CTRL key will take you to the last row of the table. Similarly, the up arrow will take you to the top. The principle is the same for moving right and left.
+
+19
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+First Look at Excel
+
+This can also be used for selection of cells. If, in addition to pressing down the CTRL key, press down the Shift key as well, the cells will be selected. 2.2.2	 Cell Pointer and Auto Fill
+
+Figur 9: The cell pointer. Note the littel black box in the bottom right corner.
+
+If you take a close look at the cell pointer, you’ll notice a small black square in the lower right corner of the cursor. This is the location of a feature with the awkward name “Auto Fill”. Auto Fill can be used via the mouse if you need to quickly copy some cells. When you point to the little black square with the mouse the mouse cursor changes to a small black cross. Keep the left mouse button down and move the mouse until you have marked some cells, then release the mouse button again. Several things can happen when you do this. Either a simple copying of content from the active cell will take place or a “series” will be introduced. If, for example, you typed “Monday” in the active cell and used Auto Fill to copy it, the subsequent cells will read “Tuesday”, “Wednesday”, etc. This is one kind of series. Excel has a number of predefined ranges for particular weekdays and months. You can also create your own series, and we will come back to that later in the book.
+
+2.3	
+
+Writing in the Cells
+
+Try typing some numbers and text in different cells.  When you finish typing something into a cell, press the ENTER key on the keyboard. The cell below the cell you just typed in will become the active cell. Note also that if you write text in a cell, the text will be aligned to the left. If you type in numbers, the figure will be adjusted to the right. If you want to change something in a cell, you can double-click on it, which enables you to change the content. If it is the active cell you want to change, you can also press F2 on your keyboard. If you merely wish to add something new you just double-click on the active cell.
+
+20
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+First Look at Excel
+
+Figure 10: The Formula Bar displays the content of the cell.
+
+Also note the “Formula Bar”, as shown in Figure 11. It is currently showing what you type into the cells, and may not seem especially important right now. But later, when you use formulas in some of the cells, the Formula Bar will show what kind of formula that is used in the active cell, while the active cell displays the result.
+
+2.4	
+
+Adaptation of Cell Size
+
+The cells are exactly the same from the start, but this can be changed. You can change the cell size by changing the row height and column width. Try moving your mouse over the column headers (A, B, C, etc.). You will notice that the mouse cursor changes when it approaches a new column. When it does, you can press the left mouse button down while moving the mouse to adjust column width. The same method can be used to change the row height. Instead of clicking and dragging with your mouse, you can double-click it. This will adjust the column width so that it is just wide enough to show the largest cell in the column. You can experiment with this yourself. This method can also be used to adjust the row height.
+
+2.5	
+
+Selecting Cells
+
+To select a single cell, just move the cell pointer to it so that it becomes the active cell. If you want to select multiple cells, there are two ways to do it. 1.	 Point to a cell with the mouse, press the left mouse button down and drag the mouse, by which an area will be selected. Release the left mouse button when you have selected the area you wanted. The cell you clicked on first will be the active cell. 2.	 Move the cursor to the corner of the area you want to select. Hold down the Shift key on your keyboard and press the arrow keys. As long as you hold down the Shift the selection will be adjusted. Release the Shift key when you are done selecting.
+
+21
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+First Look at Excel
+
+2.5.1	
+
+Compound Selection
+
+You can also select multiple independent fields at once.  Here you will have to use both mouse and keyboard simultaneously. You must hold down the CTRL key on your keyboard, then select the desired fields with the mouse. Experiment a little with it yourself. 2.5.2	 Navigating Inside a Selection
+
+If you have selected an area and then press one of the arrow keys on the keyboard, the selection will disappear. That is not always what we want, so instead, use the TAB key and ENTER key on your keyboard to move to the right and downward respectively. You can use the same keys to move left and upwards by pressing down the SHIFT key simultaneously.
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+22
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Calculations
+
+3	Calculations
+The primary objective of Excel is to count, and the program is actually quite good at it! To make a calculation you must write a “formula”. The formula should be written into the cell showing the result. A formula is a structured piece of text that tells Excel what it has to calculate. It is not that hard to learn in small steps, so let us write a simple little formula to calculate the result of 2+3.
+
+3.1	Formulas
+In Excel one always starts a formula by typing an equal sign =. It is a sign that tells Excel that what is in the cell is a formula and not a text or a number. When you are finished typing the formula, Excel will display the result in the cell instead of the formula you have written. 1.	 Place the cursor in a random cell and type = 2+3 (See Figure 12).
+
+Figure 11: Your f﻿irst formula.
+
+2.	 Press the ENTER key on the keyboard. It should now read “5” in the cell in which you wrote the formula. Move the cursor to the cell, and note that the Formula Bar still reads “=2+3”, like shown in Figure 12.
+
+Figure 12: The result of your formula is displayed in the cell, and the formula is displayed in the Formula Bar.
+
+If you want to change the formula, you can click on the Formula Bar to edit it. Alternatively, you can double-click the cell or press the F2 key on your keyboard.
+
+23
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Calculations
+
+3.1.1	Operators You can use the four methods of calculation (plus +, minus -, multiply * and divide /) in this way. You can also use parentheses if necessary. For example, 2 +3 * 4 is not the same as (2 +3) * 4. In this respect Excel follows the general calculation rules. Potency is calculated by using the sign “^”, written by holding down SHIFT on your keyboard and pressing the key between Z and ENTER. For example, 23 is written 2^3. So far, you are probably not all that impressed with Excel’s calculation capacity. Actually, we could make the above calculation much easier by using a simple pocket calculator, and it is only to show what a basic formula is.
+
+3.2	
+
+Formulas with references
+
+To make everything right, we must take advantage of “references” in our formulas. References are made to values in other cells. Delete everything you have written in your spreadsheet so far, and do the following: 1.	 In cell B2, type the number 2. 2.	 In cell B3, type the number 3. Now it should look like Figure 13.
+
+Figure 13: Type the number 2 in cell B2 and the number 3 in cell B3.
+
+Then do the following: 3.	 Start by typing an = sign into cell B4 to show that you are about to write a formula. Do NOT type anything else, and do NOT press the ENTER key. 4.	 Take your mouse, point to cell B2 and click once with the left mouse button. Now the Formula Bar should show “= B2”. 5.	 Press the + key on the keyboard. You are hopefully not surprised that it says “= B2 +” 6.	 Take your mouse again, point to cell B3, and click once with the left mouse button. Now it says “= B2 + B3” in the Formula Bar. 7.	 Press the ENTER key on the keyboard.
+
+24
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Calculations
+
+If the computer did not break down it is now possible to create a formula that adds the values in cell B2 and B3 and displays the result 5 in cell B4. You should actually be able to write exactly the same formula in a different cell in the spreadsheet, so let us try it. 8.	 Choose an empty cell and type the following (without using the mouse): =B2+B3 9.	 And press ENTER. The result is of course the same, but now you have seen that you can freely choose between creating cell references by clicking with the mouse or typing them in directly. Each method has its advantages. When you click the mouse, you do not risk making typos but typing is often faster. The great thing about the formulas is that they keep working. If you change the numbers in cells B2 and B3 the results in the cells with formulas also change. So go ahead and try writing some other numbers in cell B2 and B3. I would suggest that you try writing some small formulas with references to get a little practice before we go any further. We have barely scratched the surface regarding formulas. In the next section, we will try using some of Excel’s built-in “functions” in our formulas.
+
+.
+
+25
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Calculations
+
+3.2.1	
+
+References to Other Spreadsheets
+
+You are not limited to refer to cells in the same spreadsheet. In Excel you can have multiple spreadsheets in the same Excel file, and they are, as mentioned previously, organised in the “Sheet Tabs” at the bottom of the screen. If you refer to a cell in another worksheet, the reference must contain both a sheet reference and a cell reference. If you type a formula in Sheet1, that uses the value from cell B2 in Ark2, the reference must be”SHEET2’!B2”, not just “B2”, which would be a reference to the sheet you are currently working in. You can also refer to cells in other spreadsheet files; we will return to that eventually.
+
+3.3	Functions
+When I talk about “functions”, I mean functions in formulas. These are not functions such as “Print” or “Save”, but calculation functions. In the previous section you learned how to write simple formulas, where you could calculate with a few numbers. Functions enable you to add thousands of numbers together in an instant, calculate averages, make probability calculations and many other things. Functions are used in the formulas, and you can use several functions in the same formula. If we want to be really advanced we can even use functions within other functions, but we will not go that far yet. All functions in Excel are written in a certain way, which can be summed up in this manner Function name(arguments) All functions have a “function name”. For example, the function that adds together numbers is called “SUM”, and the function that calculates averages is called “AVERAGE”. The Function Name is followed by one or more “Arguments”, which are the numbers or cell references that feature must use in the calculation. If there is more than one argument in a function, they are separated by a semicolon “;”. It looks like this: Function name(argument 1;argument 2;argument 3) Let us explore the most common functions, SUM and AVERAGE.
+
+26
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Calculations
+
+3.3.1	 simple.
+
+The SUM Function
+
+Now you will learn how to add together many numbers in an instant, but let us start with something
+
+1.	 Type the number 2 in cell B2 2.	 Type the number 3 in cell B3 3.	 Type the number 4 in cell B4 Now we will type a formula into cell B5 to add together the numbers in cells B2, B3 and B4. 4.	 In cell B5, write enter = SUM (B2: B3: B4). You will see that Excel colours the cell references and frames the corresponding cells in the same colour. It is helpful later when you work with more complicated formulas. 5.	 Press the ENTER key. Cell B5 should now show the result “9”. If it did not work, check that you remembered to write an equal sign at the beginning of the formula.
+
+Figure 14: Writing a formula with the SUM function.
+
+You have written a formula with a SUM function with three arguments: the three cell references are separated by semicolons. Suppose you have to add together 1000 figures using cell references, that formula would be very long. It is, therefore, possible to use a “region reference” as an argument.  A region reference consists of two cell references separated by a colon “:”. Excel will add together the two cells AND all the cells between them. 1.	 Select cell B5 and press the F2 key on the keyboard. 2.	 Rewrite the formula so it reads =SUM(B2:B4 and press the ENTER key. Remember this time there should be a colon “:” in the function, not a semicolon “;”.
+
+27
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Calculations
+
+Figure 15: SUM formula with region reference.
+
+The result is the same as last time, but you have now given one argument instead of three arguments, namely the region reference “B2: B4”. Since cell B3 is between B2 and B4, it is part of the region that defines the calculation. If the list had has 1000 numbers that were to be added together instead of three, the formula would simply be called = SUM (B2: B1001). So now you know how to add together the 1000 numbers in an instant! By the way, the SUM function does not care if there are empty cells in the region specified. Now you have probably made an effort to write the formulas, just like I asked you to. I can tell you, that when you write formulas Excel is completely indifferent to whether you use uppercase or lowercase. So now you do not need to think about that anymore.
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+28
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Calculations
+
+3.3.2	
+
+The AVERAGE Function
+
+The AVERAGE function is used exactly like the SUM function, but  it calculates the average of the arguments instead. The nice thing about the AVERAGE function is that if there are empty cells in your arguments the AVERAGE function will ignore them. Remember in this context that an empty cell is not the same as a cell where there is a 0 value. Now we will write a formula with an AVERAGE function, similar to the SUM function we just had. But this time we will provide the region reference using the mouse in order to get a little practice. 1.	 Activate cell B6 and type =AVERAGE( 2.	 Using the mouse, point to cell B2, press the left mouse button and hold it down. 3.	 Move the mouse down in order to select cell B2, B3 and B4, then release the left mouse button. Now it should say =AVERAGE(B2:B4 4.	 Close the brackets “)” and press ENTER. Cell B6 should now show the result 3. Later in the book we will review the more advanced features, but if you want a complete overview of all Excel’s features, select the Formulas Tab in the Ribbon.  Here you can click on the various buttons. They provide access to a wealth of different functions within arithmetic, mathematics, finance and statistics. There are also other types of functions such as logical functions and text functions, which will also be addressed later in the book.
+
+29
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Copying cells
+
+4	 Copying cells
+As in other Windows programs, you can also use “cut”, “copy” and “paste” in Excel. You can copy a cell and paste the contents into another cell. This includes formulas. But copying and pasting is an art in itself in Excel, which is why this issue has its very own section in the book. It might be a little confusing at first, but once you have learned it, it is a great help that Excel can “think” by itself when you copy, for example, a formula.
+
+4.1	
+
+Simple Copying
+
+With “Simple copying” I mean copying the contents from one cell to one or more other cells when the content is a simple number or a text. You can copy cells with formulas in exactly the same way, but in the following chapter you will see that the consequences are a little different. The first exercise is a simple copying of a cell. 1.	 Start with a blank worksheet. We need something to work with so type “Something” in cell B2 and press ENTER on the keyboard.
+
+Figure 16: Type “Something” in cell B2.
+
+2.	 Move the cursor back to cell B2, then copy the cell to the Windows Clipboard by either clicking the Copy button in the Ribbon or by holding down the CTRL key on your keyboard and pressing the C key. 3.	 Move the cursor back to cell B3. Notice that there is now an animated dotted line around cell B2. Excel always marks the cells that are copied to the clipboard in this way. The highlight will disappear as soon as you copy something else, write something in a cell or press the ESC key on your keyboard. Click the Paste button in the Ribbon or hold down the CTRL key on your keyboard and press the V key. 4.	 Now it should say “Something” in both cell B2 and B3.
+
+30
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Copying cells
+
+This is the simplest form of copying. When you have inserted something, a small “copy button” appears next to the cell. Here you can control various settings for the copy function, but we will not review it here. You can try it yourself once you have mastered the basics. We will try to copy cell B2 once more, but this time it will be copied to a lot of other cells. 1.	 If there is no longer an animated dotted line around cell B2, you must activate the cell and hold down the CTRL key on your keyboard while you press the C key. 2.	 Make cell D2 the active cell. Hold down the Shift key on your keyboard and use the arrow keys to select the region D2: G12. Alternatively you can mark it with the mouse, but I recommend once more that you get used to using the keyboard. 3.	 Hold down the CTRL key on your keyboard and press the V key. 4.	 Now it says “Somethink” in cell region D2: G12 (Figure 17).
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+31
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Copying cells
+
+Figure 17: Now we have made more copies
+
+Do you remember the section on the cell pointer and Auto fill? The Auto fill feature is located in the small black square in the lower right corner of the cell pointer. We will make a simple copy using it. 1.	 Activate cell B3. 2.	 Using your mouse, point to the little black square in the lower right corner of the cell pointer. 3.	 Press the left mouse button and hold it down while moving the mouse down until you have selected 5 cells. 4.	 Release the left mouse button. Now you know the different ways you can perform a simple copying procedure. These methods are also used when copying cells with formulas.
+
+4.2	Series
+A series is a range of values that are linked. One example is the weekdays. After Monday comes Tuesday, and after Tuesday comes Wednesday.  In my experience this never fails, and Excel knows this.  Excel already knows the series for weekdays and months, but you can also define ranges yourself. Let us take a look at how it works. 1.	 Start with a blank spreadsheet and type “Monday” in cell B2. 2.	 Ensure that cell B2 is the active cell. Using your mouse, point to the Auto Fill square in the lower right corner of the cell pointer. 3.	 Hold the left mouse button down and drag the mouse to cell B12, then release the mouse button.
+
+32
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Copying cells
+
+It should now look as shown in Figure 18.
+
+Figure 18: We have inserted a series consisting of weekdays
+
+When there are no more elements in the series, it simply starts over. You can see that in cell 19, where Excel writes “Monday” anew. 4.2.1	 Series with Numbers
+
+If you need to write a long row of numbers, Excel can also help. In this case there is no predefined series, but Excel tries to figure out what should be in subsequent cells from what you have already written. Let us make a five-times table. 1.	 Start with a blank spreadsheet and type “5” in cell B2. 2.	 Type “10” in cell B3. 3.	 Select the cell region B2:B3, using either the keyboard or the mouse. 4.	 Point the mouse to the Auto Fill square. Keep the left mouse button down and drag the selection down to cell B11. Release the mouse button. You have now made a five-times table in no time!
+
+33
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Copying cells
+
+Figure 19: The five-times table.
+
+Excel does not always understand what you have in mind, so sometimes you may not get the result you want. But if you have a regular series of numbers, you can at least try Auto Fill first before you start typing numbers into cells manually. If it works as intended, it is faster and you do not risk typing errors. Try experimenting some more. You are not limited to starting with the values of only two cells. You can also try entering some initial values of three or more cells and see what happens.
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+34
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Copying cells
+
+4.2.2	
+
+Series that you define
+
+You can define your own series. It could be the alphabet or the sequence of the Fibonacci numbers. Let us try something simple. For example, if we write “First course”, we would like Excel to continue with “Main Course”, “Dessert” and “Coffee and brandy”. To define a series, we go into Excel’s Option.  You enter Options by clicking on the big round Office Button in the upper left corner. At the bottom of the box that opens there is a button that says Excel Options. Click on that. In the settings you can change lots of things to make Excel work differently. I would not recommend that you start changing a lot until you are fairly familiar with the program because here it is possible to mess things up pretty badly.
+
+Figure 20: Inside Excel Options.
+
+However, it is not “dangerous” to define your own series. Click Edit Custom Lists to get into the series. Excel uses the terms “series” and “lists” somewhat interchangeably, so do not let that confuse you.
+
+35
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Copying cells
+
+Now you should be inside the same window as in Figure 21. There are two panes; one is an overview of the various lists you can choose, and the second shows the contents of the list you have selected.
+
+Figure 21: The “Lists” box
+
+As mentioned above, Excel already has some pre-defined lists for weekdays and months.  These lists cannot be erased or altered, but the lists you create you can do with what you want. Let us make the list – or series if you prefer. 1.	 In the left pane, click on NEW LIST. 2.	 Click with left mouse button in the right pane. 3.	 Type First Course and press ENTER on the keyboard. 4.	 Type Main Course and press ENTER on the keyboard. 5.	 Type Dessert and press ENTER on the keyboard. 6.	 Type Coffee and Brandy, then press ENTER on the keyboard. 7.	 Click on the Add button, now you can see your list in the left pane. 8.	 Click OK to close the “Lists” window, then OK again to close “Excel Options”. Now your list is hidden discretely in the background until you decide to use it. We want to try it now, so let us start in a blank worksheet and type “First Course” in cell B2.
+
+36
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Copying cells
+
+Figure 22: Our series put to practical use.
+
+Now grip the mouse tightly, click on the AutoFill square and drag the mouse either down or to the right, then release the mouse button. If you dragged the mouse down, it will look like Figure 22.
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+37
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Excel 2007
+
+Copying cells
+
+4.3	
+
+Copying Formulas
+
+You have now learned the basics of how to copy a cell. Copying cells with formulas is done in exactly the same way, but there are some things in the formulas that you must learn to control. Excel will help you when you copy, so you do not need to edit the formulas that follow. Excel also does different things when you copy and when you cut cells with formulas, but we will return to that in due course. Let us first get some material to work with. Let us imagine that we have a very small company who sell miracle cures against dry skin, and we want to calculate the monthly profits. 1.	 Make a spreadsheet exactly identical to what you see in Figure 26.
+
+Figure 23: The starting point of the exercise.
+
+The monthly surplus should appear in cell C5, D5 and E5, so we start by calculating the surplus for the month of January. 2.	 In cell C5, type “=C3-C4” and press ENTER. Cell C5 should now show the result 250. 3.	 Now copy cell C5 to cell D5 and E5 as described in the section Simple Copying. The Result should be identical to the one in Figure 24.
+
+Figure 24: If you have done everything correctly it will look like this.
+
+38
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Copying cells
+
+Note that Excel has calculated the surplus for February and March correctly as well. This is because it has automatically moved the references. If you select cell D5 and look at the formula bar, you can see that the formula is “= D3-D4” and not “= C3-C4”, as you wrote in cell C5. As a starting point, Excel works with something called “relative references”, which means that the cell references are changed accordingly when you copy a cell with a formula to another location. This applies only when you copy the cell. If you instead cut cells and paste them somewhere else, the original cell references will be retained. 4.3.1	 Relative and Absolute References
+
+When you copy formulas, the concepts “relative” and “absolute” references are important to know. Let us continue our little exercise in which we must now calculate with a fixed monthly expense. 1.	 In the spreadsheet, we are already working with, type “rent of storage” in cell G3. 2.	 Type “300” in cell H3. 3.	 Type “rent of storage” in cell B7, and type “Surplus” after “ rent of storage in cell B8. 4.	 Change the text in cell B5 to “Surplus” before “rent of storage”. You will probably have to adjust column width in some places to display it all. You have now prepared a spreadsheet as shown in Figure 28 5.	 In cell C7, type “=H3” and press ENTER. It now says you have $50 for rent in January.
+
+6.	 Now copy cell C7 to cell D7 and E7, using one of the methods we have been practicing. No, you are not doing anything wrong – the cells are supposed to display 0! If you click on cell 7, you can see that in the formula bar it says “J3”. This is a case where relative references cannot be used. Instead we must use an absolute reference. 7.	 In cell C7, type “=$H$3” and press ENTER.
+
+8.	 Copy cell C7 to cell D7 and E7.
+
+Now it says 300 in all three cells.  The dollar sign “locks” a row or column, so that the reference will always be for that row or column, no matter where we copy the cell to.
+
+39
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Copying cells
+
+Try clicking on cell C7, then click the formula in the formula bar so you can edit it. Now try pressing F4 a few times. With F4 you can add and remove dollar signs in the cell reference. Of course you can also just type the dollar signs the usual way. Let us try another exercise, this time with the Multiplication Table. 1.	 Create a new spreadsheet as shown in Figure 25.
+
+Figure 25: Making the Multiplication Table.
+
+The idea of the Multiplication Table is that you can see the result if you multiply a number in the top row with a number in the left column. So let us make some formulas to calculate each cell. 2.	 In cell C3, type “ =C2*B3” and press ENTER. We know from first grade that 1 times1 equals 1, so everything seems fine so far. 3.	 Copy cell C3 to the region C3:L12 and let us see what happens. Be prepared for a less than pretty sight! Once again it is the relative references that are tricking us. Some sums are calculated incorrectly. Some cells even show the value “# NUM!”, Which means that the number is too large for Excel to calculate! Other cells, like cell F6, display cryptic values, such as “1.1E+11”. That is because the number in itself is too large to show in the normal way. In the case of “1.1E+11” it means that you must multiply 1.1 with 1011.
+
+40
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Copying cells
+
+Or to put it differently, you must multiply 1.1 with 100.000.000.000 (11 zeros)
+
+Figure 26: This is what it looks like when you have copied cell C3 to the entire region. There is definitely something wrong!
+
+Take a look at the formulas in the individual cells. Because of the relative references, it is not the numbers in row 2 that are multiplied with the numbers in column B. We need change to change that!
+
+AXA Global Graduate Program
+Find out more and apply
+
+41
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Copying cells
+
+5.	 Copy cell C3 to the entire region C3:L12 once more. Now the table should look like Figure 27
+
+4.	 In cell C3, type “=C$2*$B3” and press ENTER.
+
+Figure 27: The Multiplication Table as it is supposed to look.
+
+This time we have used the dollar signs to lock row 2 and column B respectively, so they now have become absolute references. If this is clear you are now in a good position to move forward. The concepts of relative and absolute references are ones that many people find difficult, so if you have not understood it yet, I recommend you put the book aside for today and sleep on it. Tomorrow you can calmly read this section once more and do the exercises without haste. Trust me, you will get it eventually You are now familiar with the basic concepts of Excel, and you can make spreadsheets. Later in the book we will proceed with more advanced functions and formulas, but it is probably time we learned to make it all look a little more inviting.
+
+42
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Formatting
+
+5	Formatting
+So far we have not worried about getting everything to look neat and attractive, so that is what we are going to do now. Unless you simply want to make a little simple calculation for yourself, you should consider the formatting of the spreadsheet. If you need to make a large, complex spreadsheet that other people are going to use, you should be aware that, while the construction might appear logical to you, it can be difficult for others to understand the logic. Appropriate formatting also indicates quality and credibility. There are a myriad of options for formatting in Excel.  You can change row and column sizes, font types and sizes, colours, number formats, etc. You can even format the cells so that they change colour depending on their value!
+
+5.1	
+
+Text and colours
+
+You are free to format text and numbers in cells and give them colours. You can format multiple cells at once as long as you make sure they are selected first. Many functions in Excel can be found in several ways. The main ways to find a function are by means of the Ribbon, “contextual menus” or shortcut keys. 5.1.1	 Formatting using the Ribbon
+
+Most features for text formatting are located in the “Ribbon”. Let us practice a little. 1.	 Try typing your name in a cell. 2.	 Ensure the cell is active. The Ribbon is organised into different Tabs.  You need the tab labelled “Home”, where you find the formatting functions. Please refer to Figure 28.
+
+Figure 28: Text formatting in the Ribbon.
+
+43
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Formatting
+
+The buttons in the Ribbon are divided into groups. The group where we find the most important buttons is “Font” group. 3.	 Click on the button . The text will likely become red.
+
+Figure 29: There are many colours to choose between.
+
+If you have played around with it previously, the text may get a different color, since there are several possibilities. This button has a little arrow on the right side giving access to more options. 4.	 Try clicking on the small arrow on the button.
+
+44
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Formatting
+
+This gives you the opportunity to choose between several colours. Click on one of the blue hues. Your text is now blue. You can also format multiple cells at once. 5.	 Highlight the cell with your name plus some more cells. 6.	 Click on the button in the Ribbon. Now you have a yellow background. Just as with the text, you could also have chosen a different colour. 7.	 If you are still not satisfied, you can click on More Colours, and choose from up to 16 million different colours. That should be enough for most people! 8.	 Click the little arrow on the right button. This button is what we call the “Font Changer”. Your font changer might display another font than “Calibri”, but you do not risk ruining anything by clicking on it anyway! 9.	 You are about to select another font, so try, for example “Arial Black”. 10.	 To the right of the font changer there is a button where you select the font size. Try for example  24. That will make the text much larger. Try some of the other buttons to discover their effect. 5.1.2	 Formatting using the shortcut menu
+
+Modern Windows programs rely largely on the shortcut menus that pop up when you click on something with your right mouse button. In the shortcut menu you find the most frequently used functions related to what you have just clicked on. 1.	 Type you name in a cell and press ENTER. 2.	 Click on the cell with the right mouse button to display the “shortcut menu”.
+
+Figure 30: A right-click with the mouse makes the shortcut menu appear.
+
+45
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Formatting
+
+At the top of the shortcut menu, you will find buttons that resemble those in the Ribbon; they also work just the same way. But we must try some new features. 3.	 Click on the menu item Format Cells This will give you access to all the options available to format one or more cells. A dialog box opens, and you can choose between different Tabs at the top. 4.	 Select the Font, Tab and the following window appears:
+
+Figure 31: Here you can set the font.
+
+5.	 Select the font size and color that suits you, then click the Fill Tab. You can choose to fill the cell with a fill colour, a pattern or a colour effect.  We have already tried a normal fill colour, so let us try something with effects! 6.	 Click on the Effects button and a new window will open.
+
+46
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Formatting
+
+Figure 32: Effect colour.
+
+In Excel the effect colours consist of two colours which gradually blend into each other. 7.	 Try choosing colours by clicking on Colour 1 and Colour 2. 8.	 Try clicking on the different Shading Types. When you are satisfied, click OK. 9.	 Click OK again.
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+47
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Formatting
+
+My little experiment turned out thus:
+
+Figure 33: My own experiment.
+
+5.1.3	
+
+Borders and Frames
+
+When you look at a blank worksheet, there are some thin lines that indicate where the cells are. Without these lines it would be harder to identify a particular cell in the sheet. But these “grid lines” are only auxiliary lines; they are not written out unless you specifically request it, and if you provide some cells with a fill colour, grid lines will not be displayed in that area. But you can add borders and frames yourself, and you can even choose the colour and how thick they should be. 1.	 Select cell region B2:E5. 2.	 Click with the right mouse button inside the area and select Format Cells. 3.	 Select the Border Tab in the dialog box that appears. Now we need to make some grid lines. We would like to have a thick border around the selected area and some thin grid lines that show the cells inside the area. It is actually very easy to do, but it is quite difficult to explain because you must click in many different places in the correct order. I have therefore made the following illustration that shows what you need to click and in what order.
+
+Figure 34: The approach used to make grid lines and frames in the selected area.
+
+48
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Formatting
+
+The window is divided into three groups of objects you can click on. The first group is “Line” where you choose how your edges should look and what colour they should have. The next group is the “Presets”, where you can choose between None, Contour and Interior. The function None is relevant if you have already made some lines that you want removed. The Contour function makes a frame around the selected cell region with the line you have chosen. The Interior function draws lines inside the selected cell regions, which highlights the individual cell. The final group in the dialog box is “Border”, where you can do exactly the same thing as in the group “Presets”. The difference is that here you can control exactly which lines you want. For example, you can settle for a thick line at the top and bottom of the marked area or you can choose to have only horizontal interior lines. Let us see how it works. We will follow the numbering in Figure 38. 1.	 First, click the thick line. 2.	 Choose a colour. 3.	 Click on Contour. You have now defined the frame around the selected area. 4.	 Click on the thin line. 5.	 Choose a colour as in point 2, but preferably a second colour for illustration 6.	 Click on the button for interior horizontal lines. If you wish, you can choose another line type and colour before you proceed to point 7. 7.	 Click OK. Your result hopefully looks like mine in Figure 35
+
+Figure 35: Frame and gridlines have been added.
+
+49
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Formatting
+
+Now you should have a good insight into the possibilities for colouring your worksheet. Colours can have a large impact. If used right, they can make a complicated spreadsheet much more logical, simple and inviting. I use formatting for larger spreadsheets, although I may be the only one who needs them. For example, I almost always colour cells with formulas, while I keep cells without formulas white. In this way I can quickly see which numbers are the ones being entered and which are the calculated values.
+
+5.2	
+
+Number Formats
+
+We will now leave the department of colours and stripes and return to numbers. Numbers can be displayed in many ways. Which of the following numbers do you think is most readable? 1000000 or 1.000.000 If the figure referred to money, one million could also be written as “kr 1,000,000.00. In other cases you might be interested in controlling how many decimal places to display. This you also control via formatting. 1.	 Type the figure 123456 in cell B2. 2.	 Click with the right mouse button on the cell and choose Format Cells. 3.	 Click on the Number Tab if it has not been selected already.
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+50
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Formatting
+
+Now we can choose between a lot of different number formats. In the pane “Category” you can choose between the basic types, and depending on what you choose, different options will appear. Try clicking on the different types, so you get an idea of the possibilities before we proceed. Do not click OK. Click on the category Number, which will make the dialog box look like Figure 36.
+
+Figure 36: Formatting numbers.
+
+4.	 At Number Of Decimal Places, choose “1”. 5.	 Put a check mark by Use Thousands Separator. This means that periods are inserted in the number, like the example with 1.000.000 instead of 1000000. 6.	 Click OK.
+
+Figure 37: The number has been formatted.
+
+Now your number looks like Figure 37.  The figure remains the same, but it appears in a different way. Please note that, although only one decimal place is displayed, all decimals are still counted. You will see that if you look at the formula bar when the cell is selected. Number formats have no bearing on the cell value.
+
+51
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Formatting
+
+7.	 Type 25% in cell B4 and press ENTER. In this case Excel assists a little with the number format because it actually displays “25%”. What you are not able to see is that the cell’s value is actually 0.25. You can discover that by changing the number format to a number with two decimal places. If you wish, you can try it.
+
+Figure 38: By changing the number format it is shown that 25% is the same as 0.25.
+
+5.3	
+
+Date and Time
+
+You can write the date and/or time in several ways. When you type a date and/or time, Excel automatically formats the cell to an appropriate date or time format. All you have to do is type it in correctly. Dates will be recognised if you write them in one of the following ways: 25-3-2008 or 25/3/2008
+
+Times will be recognised if you write them in one of the following ways: 17:45 (hours:minutes)
+
+17:45:30 (hours:minutes:seconds). Date and time can of course also be combined by putting spaces in between, for example: 25-03-2008 17:45:30
+
+52
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Formatting
+
+You can perform calculations with dates and times. Excel uses a clever numbering system to keep track of dates and times. When there is a date and/or time in a cell, the cell just has a numerical value that is formatted as date/ time. This could lead to headaches if it were to be used in a calculation, but it is pretty simple. Excel’s calendar begins on January 1 1900, 00.00.  This time point has the value “1”.  January 2 1900, 00:00, has the value “2”. In other words, For each day 1 is added. The time is also part of this system, so January 2 1900 at 12.00 noon, has the value “2.5”. One hour thus corresponds to 1/24, or 0.041666667 to be precise. Actually, Excel operates with 10 decimal places, so you can calculate with very accurate time points.
+
+5.4	
+
+Formatting Tables
+
+When working with a spreadsheet, one usually makes tables. Once you have made a table where you have inserted sum formulas, etc., Excel can format the table automatically, so it looks neat and presentable.
+
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+53
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Formatting
+
+Figure 39: Create a table like this.
+
+1.	 Create a table like the one in Figure 39. 2.	 Ensure that one of the cells in the table is the active one. 3.	 In the Ribbon, make sure that the “Home” Tab has been selected. Then Click on the Format As Table button in the Ribbon.
+
+4.	 A menu will pop up and you can choose a table layout 5.	 A small box will appear and ask what region you wish to define as the table. It is usually right on target if you have done as I have shown. 6.	 Finally you must also make sure to put a marker in the My Table Has Headers box, which ensures that the column headers are highlighted. 7.	 Click OK. Now your table should have been formatted with the highlighted title and everything. You can still change the formatting of individual cells if you like. My table came to look like this:
+
+Figure 40: My table looks like this.
+
+But formatting of the table is not the only thing that has happened. In addition to formatting the table, the Ribbon at the top has changed, and you now see a range of functions that relate to the tables. A Tab has been added in the Ribbon, which is available when you activate a cell in the table. That is because the tables in Excel are not only about the formatting. There are some special options when you define specific areas of a worksheet as tables, which we will return to later in the book.
+
+54
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Formatting
+
+Figure 41: The Ribbon changes when you format a table.
+
+But it is not the only thing that has happened; some arrows have appeared beside the column headers. These arrows can be used as “filters”, where you can select specific data that you want to see. It has no relevance to a table like the one we just created, but if you work with a table with many data covering hundreds of lines it can be very practical. If you print the worksheet, the arrows do not show on the printout, but you can also remove the arrows by disabling the filter. To disable the filter, do as follows: 1.	 Select the Data Tab in the Ribbon. 2.	 Click on the Filter button. It is easy to find because at present the filter is active, which means the button is highlighted with a red/orange colour.
+
+Figure 42: Excel is being “creative” by inserting column headers.
+
+Now the arrows have disappeared from the column headers, but there has also been another change in the table. In the upper left corner it suddenly says “column1”. I wondered the first time I saw this in Excel 2007, since I had never seen it before. The explanation is that when you define a field as a table Excel requires that all columns have a header. This is because Excel will use the headlines in connection with the sorting and filtering features that are available for tables. This is also the reason you cannot delete the text. You can write anything you want, but Excel does not allow this cell to be empty. I you want it to be empty anyway, I have a little “trick” for you. 1.	 Activate the cell. 2.	 Press the spacebar on the keyboard. 3.	 Press the ENTER key on your keyboard Now you have typed an empty space in the cell, and spaces are invisible.
+55
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Formatting
+
+5.5	
+
+Conditional Formatting
+
+Excel can change the colour, font, etc. of a cell, depending on what value it has. You can pre-select a number format that shows negative numbers in red, but conditional formatting gives more options. The way it works is that you give a cell the format you would like it to have as a starting point. Then you set up a list of the alternative formats it can have, and what conditions must be met for it to change the format. Imagine an example where you want to build up statistics on absenteeism rates among a group of employees. You make a list of employees and a calculation of absence rates. If the absence rate for the individual employee is less than 5%, the cell should have default formatting. If absence rates are greater than 5% but less than 8%, the cell should be marked with a yellow background colour. If the absenteeism rate is 8% or more, the cell should have white writing on a red background colour. If you have worked with conditional formatting in earlier versions of Excel, this may not be new to you. But Excel 2007 has introduced a new way to define rules. It has now become much easier. In addition, it has become possible to use a value-dependent colour spectrum, which can give quite impressive results.
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+56
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Formatting
+
+Figure 43: Starting point for the exercise with conditioned formatting
+
+Let us try a couple of exercises. 1.	 Create a spreadsheet as in Figure 43. 2.	 Select the cell region B2: E6. The selected cells will be included in the conditional formatting. 3.	 Ensure that the “Home” Tab has been selected in the Ribbon and click the Conditioned Formatting button. 4.	 In the menu that appears, point to “Top/Bottom Rules” to make a submenu appear. 5.	 Click on Top 10%. This means that those 10% of the cells that have the highest values will be highlighted. You will now have the opportunity to fine-tune the formatting. A dialog box will appear where you can change the rate distribution. For example, you might want to highlight the cells with the top 20% values.
+
+You also have the opportunity to choose between several predefined formattings by clicking on the list in the dialog box.  If you select Custom Format on the list, you can fine-tune the format and choose exactly what colours you want. 6.	 Select Light Red Fill With Dark Red Text. 7.	 Click OK.
+
+57
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Formatting
+
+Now the cells with the two highest values should be selected. In my case it looks like this:
+
+Figure 44: Conditioned formatting where the top 20% values have been highlighted
+
+Figure 45: The Formatting changes if you change the values.
+
+8.	 Try typing the number 21 in the cell with the value 7. This will make the highlight disappear from the cell with the value 19, because now the cells with the values 20 and 21 constitute the top 10%. 9.	 Select all the cells again. 10.	 Select the Conditioned Formatting button again. 11.	 Point to Highlight Cell Rules to make a submenu appear. 12.	 Click on Between, which gives us the opportunity to highlight cells with values within a certain range. 13.	 In the dialog box that appears, write 15 in the first field and 20 in the second field. 14.	 Choose the format Yellow Fill With Dark Yellow Text. 15.	 Click OK. If you have followed my instructions to the letter, your spreadsheet now looks like this:
+
+58
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Formatting
+
+Now you have two different conditional formatting that work in the same cells. First, the top 10% of cells are coloured pink, and then the cells with values between 15 and 20 are coloured yellow. The conditions operate in the order you created them. It was the yellow formatting that was created last, therefore the cell with the value 20 is also yellow, although it was previously pink. 16.	 Ensure the cell region we have been working with so far is selected. 17.	 Click on the Conditioned Formatting button again. 18.	 Choose the menu item Administer Rules in the menu that appears.
+
+Figure 46: Rule management for conditioned formatting
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+59
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Formatting
+
+You now have the ability to manage the order of the rules you have set up for conditional formatting. You can also add, delete or modify rules. In this exercise we just need to reverse the order. 19.	Ensure that the rule for Cell Value between 15 and 20 has been chosen. 20.	Click on the Move Down button. It looks like this: 21.	Click OK. Now your spreadsheet looks like this: .
+
+Figure 47: Now the cell med the value “20” has become pink again.
+
+Now the rule is applied to highlight the top 10% values last, so cell E6 has become pink again. There are many other possibilities for conditional formatting. It is, for example, possible to give the cell a hue from pale yellow to deep red, depending on how high the value is. Many of these options arguably belong to the “extra icing on the cake” category, but they can also be used to make the spreadsheet more readable.
+
+5.6	
+
+Themes and Styles
+
+Themes and Styles is a new option in Excel 2007, but you probably recognise Styles from Word and PowerPoint, where they have been used in many earlier versions. Use of Themes and Styles helps you make “nice” worksheets where you can easily create a uniform and neat appearance. As you might have noticed by now, I like to emphasise that the spreadsheet should do more than just calculate correctly. If you are building large and complicated spreadsheets to be used by anyone other than yourself, it is important that it is logical and clearly structured, and preferably nice to look at. When it is neat and easy to understand, there will not be so many mistakes. It will also make it more credible.  If you got good grades for your arithmetic homework in school, you probably know what I mean. If you did not get good grades, it might be a consolation that Excel now can assist you.
+
+60
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Formatting
+
+Themes can be regarded as an overarching set of guidelines for the fonts and colour combinations you can use in your spreadsheet. You can even define your own Themes, but Excel comes with many predefined Themes where the colours already match nicely. A Theme defines for example that all header cells must have green background colour and be written in bold type, while cells with formulas should be bright green. If you change the Theme for the entire worksheet, the changes will be reflected in all the cells to which you have assigned a “Style”. A style is something you assign to each cell.  You can for example define that cell B2, C2 and D2 are headings in a table, while the cells below are general number-cells.  At the bottom you might have calculated a sum, in which case you can give the lower cells the style “Calculation”. Let us see how it works. 1.	 Start with a blank spreadsheet and create a table as shown in Figure 48. The table does not really make sense and is only meant as an example.
+
+Figure 48: The starting point for the exercise.
+
+We start by assigning a “theme” to the spreadsheet. This theme will affect our subsequent formatting of the spreadsheet. 2.	 Choose the Page Layout Tab in the Ribbon and click on the button furthest to the left, called Themes (Figure 49). 3.	 A menu will appear where you can choose between various different themes. Click on the Sequence theme.
+
+61
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Formatting
+
+Figure 49: Choosing theme.
+
+At the moment there are few visible changes in the spreadsheet. Only the font in the cells has changed.
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+62
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Formatting
+
+4.	 Select the cell region C2:E2. 5.	 Choose Home Tab in the Ribbon and click on the Cell Styles button.
+
+Figure 50: Choosing Cell Style.
+
+When you click the Cell Style button, a menu will appear where you can choose from a variety of named Styles. When you point to the individual Styles with your mouse, you can see how it will look in your table. 6.	 Click on the Style Heading 1. 7.	 Select cell region B3:B8. 8.	 Click the Cell Styles button and choose the style Accent1. 9.	 Select cell region C8:E8. 10.	 Click on the Cell Style button and choose the Calculation Style.
+
+63
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Formatting
+
+If you have done as I, your spreadsheet will look like this:
+
+Figure 51: Table with Styles.
+
+)L
+
+ 7 EO
+
+LK6 O
+
+Now we will try some other colours, but we do not want to format the individual cells again so we will choose a different colour theme. Select the Page Layout Tab in the Ribbon, then click the Themes button Search. Click on the theme Sumptuous (anything less will not do!). Now your spreadsheet looks like this:
+
+Figure 52: Spreadsheet wtth the the “Sumptuous”.
+
+Now you have been introduced to Themes and Styles, and you can now experiment with them on your own. If you continue working with Themes and Styles, you may also find that when you insert charts, graphs etc., they will also have colours defined in the colour theme you have chosen, and so it all fits together.
+
+64
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Working with Tables
+
+6	 Working with Tables
+Basically everything in Excel is tables, except the diagrams. A spreadsheet is itself a large table. When I talk about tables, I mean defined regions in the spreadsheet with a group of data. This group of data has some column headers and maybe, but not necessarily, some row headers. We have already worked a little with tables in connection with formatting. If you have read the section on formatting tables, you might remember that several things happened beyond giving the table some nice colours.
+
+6.1	
+
+Create a Table
+
+The starting point for the exercises in this book is a small list of different movies that I have in my DVD collection. The list should perhaps include 150 movies, but I am pretty sure that in that you would not want to do the exercise! We therefore confine ourselves to five films, which should be enough to get an understanding of working with tables. With so few rows, it seems foolish to make grades and filterings, but I will ask you to imagine that we are doing the same with a long list. If you have a collection of movies, music or anything else, you could make a small index of it afterwards to practice what you have learned in this section. 1.	 To get some material to work with in the following exercises you must create a spreadsheet similar to the one shown in Figure 53. You are probably going to have to adjust the width of the columns to be able to view all of it.
+
+Figure 53: Starting point for the exercise.
+
+2.	 Place the cursor, so one of the cells inside the table is the active cell. 3.	 In the Ribbon, ensure the Home Tab is selected, then click the button Format as Table. 4.	 Click on a table colour. You have now created your table.
+
+65
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Working with Tables
+
+Figure 54: Sample table. Note that the Ribbon at the top has changed.
+
+This table is the starting point for several exercises to come.
+
+6.2	Filtering
+Once you have created a table, you have to use filters on it. You use filters to select and show certain data in the table, according to criteria which you have defined.
+
+The stuff you'll need to make a good living
+
+STUDY. PLAY.
+
+The stuff that makes life worth living
+
+NORWAY. YOUR IDEAL STUDY DESTINATION.
+WWW.STUDYINNORWAY.NO FACEBOOK.COM/STUDYINNORWAY
+
+66
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Working with Tables
+
+Excel operates with two different types of filters called “AutoFilter” and “Advanced Filter”.AutoFilter is readily available in the column headings when you have defined a table. Advanced Filter requires a little more work, but it also gives you more options. In practice AutoFilter is by far the easiest to use, and it can deal with most tasks.  Advanced Filter is preferable if you want to filter your table based on values in cells outside of the table you are filtering. 6.2.1	AutoFilter The AutoFilter is located at the top of the table in the headers. As you may have noticed, a button has appeared next to each heading. By clicking the buttons you will have access to AutoFilter. In our exercise, we want the table to show pre-1990 Danish films. The approach is that we look at which columns contain data that we want to find. Then we take one column at a time and define the criteria for it. 1.	 Click on the arrow to the right of the header “Language”. A menu will appear, where you have different options relating to sorting and filtering the column, Do not choose any of the sorting options yet; we will look at that later.
+
+Figure 55: Filtering options.
+
+67
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Working with Tables
+
+In the menu that appeared you can also see a list of all the values you have typed into the ‘Language” column. In our case it is “Danish” “English” and “German”. At the moment there’s a “tick” next to all three values, which means we have not filtered anything out yet. 2.	 Click on the selection by Select All to make the markers disappear. 3.	 Then insert a marker by English. Now it should only be “English”, that is marked, as in Figure 60. 4.	 Click on OK. You have created the first filter, so you are shown only Danish film titles. The other films are still there, but they are hidden at the moment. Notice the spreadsheet row numbers on the left side. Row
+
+Figure 56: Now only Danish film titles from the list are shown.
+
+4, 5 and 7 are not displayed, and the rows that contain filtered data are shown in blue row numbers. When row numbers are blue, it means that a filter is active. It also means that you must think carefully if you want to create two tables with different filters side by side. Excel hides the entire row in the worksheet when a cell value does not satisfy a given criterion. So if you have a second table standing next to the table you are filtering, you may inadvertently hide data in it. The aim of our exercise was to find pre-1990 Danish film titles, so we need to filter by year. To filter by year before 1990, we have to define a “custom filter”. 5.	 Click on the small arrow next to the header “Year” 6.	 In the menu that appears, point to Number Filters. 7.	 A submenu will appear. Click on Less Than to open a dialog box.
+
+68
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Working with Tables
+
+Figure 57: The Filter “Less than”.
+
+In the dialog box you must indicate that you want to see the rows of the table where the year is “less than” 1990. The dialog box allows you to specify two different criteria, but in this exercise we only use one.
+
+I joined MITAS because I wanted real responsibili� I joined MITAS because I wanted real responsibili�
+
+Maersk.com/Mitas www.discovermitas.com
+
+�e Graduate Programme for Engineers and Geoscientists
+
+�e G for Engine
+
+Ma
+
+Real work International Internationa al opportunities �ree wo work or placements
+
+Month 16 I was a construction Mo supervisor ina const I was the North Sea super advising and the No he helping foremen advis s solve problems Real work he helping fo International Internationa al opportunities �ree wo work or placements s solve pr
+Click on the ad to read more
+
+69
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Working with Tables
+
+Figure 58: Custom filter.
+
+8.	 Fill out the dialog box as shown in Figure 58 and click OK. Now we have used filters on the columns, “Language” and “Year”, and the result should look like Figure 59:
+
+Figure 59: The result of our exercise with filters.
+
+After all the hard work creating the filters we must remove them again. Fortunately, it is fairly easy, and it can be done in two ways. The first method is to remove the filters individually from each column. We will try with “Year”. 9.	 Click on the filter button next to the header “Year”. 10.	 In the menu that appears, click on Remove Filter From “Year”
+
+70
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Working with Tables
+
+Figure 60: Remove a filter.
+
+Now the two Danish movies in our collection are shown again. The other way of removing filters is used to remove all filters at once. 11.	 Make one of the cells in the table the active cell. 12.	 In the Ribbon, click the Data Tab. 13.	 Click the Filter button. It is easy to find because it will be yellow/orange at this point.
+
+Figure 61: The filter button is easy to find.
+
+The filters have been removed and all the rows in the table are shown again. 6.2.2	 Advanced Filter
+
+The Advanced Filter works in a completely different way than the AutoFilter. In the Advanced Filter you must create an additional table named “criteria range” with the same column headings as the table that you want to filter. In the extra table you must specify the criteria and tell Excel where to find the criteria. Finally, you must also indicate whether you want the table filtered by hiding rows, or by writing the results elsewhere in the spreadsheet. The latter option means you do not have any hidden rows.
+
+71
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Working with Tables
+
+In this exercise, we continue working with the list of our small film collection. Again, it seems extremely foolish to filter a table with five rows, but it is easier to understand the different concepts when we only have little data to work with. First we must make some space above the table for our Criteria Range. At least three blank rows above the table are required for the criteria range, since there are some rules that must be observed to make it work: -- The Criteria Range should have column headings, and it must be the same as the column headings in the table to be filtered. -- The Criteria Range should have room for at least one row of criteria. -- There must be at least one empty row acting as the space between the criteria range and the table to be filtered. In this exercise, there should be room for three series of criteria, so we must have five blank rows above the table to make room for it all. We can either do this by simply moving the table four rows down, or by inserting four empty rows above it. We choose the latter. 1.	 Click with the right mouse button on the column heading for row “1”. A menu will pop up. 2.	 Click on Insert (Not to be confused with Paste).
+
+Need help with your dissertation?
+Get in-depth feedback & advice from experts in your topic area. Find out what you can do to improve the quality of your dissertation!
+
+Get Help Now
+
+Go to www.helpmyassignment.co.uk for more info
+
+72
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Working with Tables
+
+You have now added an empty row at the top. We need three more, but since I was born lazy and want to teach you some small tweaks, we will not repeat the same procedure again. 3.	 Hold the CTRL key on the keyboard down and press the Y key three times. When you hold down the CTRL key and press the Y key, you use the command “Repeat last action”. It works for many commands, and in all MS-Office programs. It also works in many other programs. Now your spreadsheet looks like this:
+
+Figure 62: Now there is room for the criteria range.
+
+Now we need some column headings for the criteria range, Since they are the same as in the table, we can just copy those. 4.	 Select cell region B6:F6. 5.	 Hold the CTRL key on the keyboard down and press the C key. 6.	 Activate cell B1. 7.	 Hold the CTRL key on the keyboard down and press the V key. Your spreadsheet should now look like Figure 63:
+
+Figure 63: The criteria range with column headings.
+
+73
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Working with Tables
+
+Now we can define some criteria, but I would like to try to explain how the criteria range works, because it is not always easy to grasp. As mentioned, the criteria range is designed as a table with rows and columns. The columns have headings that correspond to those in the table that is to be filtered according to the criteria. There is obviously a reason why you can write multiple rows of criteria, namely that you can put “AND” or “OR” between the criteria. Criteria with “AND” in between are placed in the same row Criteria with “OR” between are placed in separate rows. An example in our table could be that we want to display rows in the table containing films that are Danish AND prior to1990. 8.	 Type the word “Danish” in cell D2. 9.	 Type “<1990” in cell E2 (means “less than 1990”). 10.	 Activate another cell in the table you want to filter, for example C7. 11.	 Choose the Data Tab in the Ribbon. 12.	 Click on the Advanced button in the Ribbon.
+
+Figure 64: The Advanced button.
+
+This opens the Advanced filter dialog box, where you must define what is to be filtered and where the criteria are. 13.	 Make sure that Filter List Locally is selected. This means that the filter, like AutoFilter is hiding the rows that do not meet the criteria. 14.	 The field List Range has probably been inserted automatically. It should say “$B$6:$F$11”, which is the cell region we are going to filter. 15.	 In the field Criteria Range you must delete what you have previously inserted, since it is often wrong. With the mouse, mark cell region B1:F2. It should now say “ ‘SHEET 1’!$B$1:$F$2” in this field. Do not get confused when it says “ ‘Sheet1’!” in front of the cell reference. That is because it is possible to work in multiple sheet tabs in Excel, although we do not for this exercise. 16.	 Click OK.
+74
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Working with Tables
+
+This gives the result “Midt om Natten”, which is the only film title that fulfils both criteria (Figure 65).
+
+Figure 65: Two criteria with AND between.
+
+)L
+
+ 7
+
+LW L
+
+LWK $1' E W
+
+Another example could be that we wish to view the rows in the table containing either Danish films OR pre-1990 film titles. In other words, we want to view all the Danish film titles and all pre-1990 films.
+
+Figure 66: The Clear button.
+
+75
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Working with Tables
+
+17.	 In the Ribbon, click the Clear button, which will cancel the filtration. 18.	 Erase contents in cell E2. 19.	 Type “<1990” in cell E3. 20.	 Select a cell in the table you want to filter and click on the Advanced button in the Ribbon. 21.	 Fill in the dialog box as previously shown, but this time the Criteria Range is “ ‘SHEET1’!$B$1:$F$3”, since we have several criteria . 22.	 Click OK. This gives us three rows, “Midt om Natten” which is Danish, “Blinkende Lygter”, which is also Danish, and “Scarface”, which is not Danish, but which is from before the year 1990 (Figure 67). Each film need only meet one of the listed criteria when it says OR between them.
+
+Figure 67: Two criteria with OR between.
+
+You can also combine. If you want the filtered table to show films that are EITHER Danish AND prior to 1990, OR all films after 1990, it looks like this:
+
+Figure 68: Three criteria with a combination of AND and OR.
+
+When you combine AND and OR it is important to know the math behind. When you type in two rows of criteria, all the criteria in the same row should be considered one large criterion. Thus in our last example we had two criteria of which the first criterion was a combination of two criteria that both had to be fulfilled.
+
+76
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Working with Tables
+
+Figure 69: The year is based on a formula. Note the Formula Bar.
+
+6.2.3	
+
+Advanced Filter with Formulas
+
+When using the advanced filter, you are not limited to manually having to write the criteria every time. You can also write equations where the outcome serves as a criterion in the filter. For example, if you had to extract values from a table with a filter which is based on a calculation either directly in the filter or as a result of a complicated calculation elsewhere in the spreadsheet or workbook. In our previous exercise, you might wish to change to a year in cell H2, which you import to cell E2 using the formula “=H2”. If you run the filter, the movie with the year 1990 will be the only one that meets the criterion. But what if you want to view the list of all movies from before the year 1990? This requires that it says “<1990” in the criterion, but how is that done with a formula? The answer is that you must use what is called a “text string”. As you may be aware, Excel knows the difference between numbers and text. If you want a formula to display text, the text must be surrounded by double quotes. In our formula, we need to show text in the form of “<” and a number based on the content in cell H2. This is done by typing = “<” & H2 in cell E2. In principle the formula should show only two different values, and when you have to do something like that you always have to separate the different values with an & symbol.
+
+Figure 70: The Filter with a slightly more advanced formula. Again, notice the Formula Bar.
+
+77
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Working with Tables
+
+When you write a formula where you use the & symbol to display multiple values in succession, Excel will always consider the result as a piece of text.  One would expect that to cause problems when we want to filter according to numbers, but in this case Excel is clever enough to figure out what you mean.
+
+6.3	Sorting
+Of course you can also sort by the various columns in the table. Like so much else in Excel, there is a simple and a complicated way of doing so. We are working with the same table that we used when we were working with filters. But since we do not need filters anymore, I have deleted the top four rows in order to save a little space. You can do the same if you want, but it is not required. First we will sort the list so the films appear in alphabetical order 1.	 Make one of the cells in the column “Title” the active one. 2.	 Ensure the Data Tab has been selected in the Ribbon 3.	 Click on the Sort A–Z button to sort in ascending order.
+
+Brain power
+
+By 2020, wind could provide one-tenth of our planet’s electricity needs. Already today, SKF’s innovative knowhow is crucial to running a large proportion of the world’s wind turbines. Up to 25 % of the generating costs relate to maintenance. These can be reduced dramatically thanks to our systems for on-line condition monitoring and automatic lubrication. We help make it more economical to create cleaner, cheaper energy out of thin air. By sharing our experience, expertise, and creativity, industries can boost performance beyond expectations. Therefore we need the best employees who can meet this challenge!
+
+The Power of Knowledge Engineering
+
+Plug into The Power of Knowledge Engineering. Visit us at www.skf.com/knowledge
+
+78
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Working with Tables
+
+Figure 71: The Sort A–Z button.
+
+Now the list has been sorted alphabetically.
+
+Figure 72: The table has been sorted according to title.
+
+That was the simplest method for sorting. But you can also sort multiple columns at once, by ranking columns according to what must be sorted first. In the following exercise we want to sort by language first, then by year. 4.	 Activate one of the cells in the table. It does not matter which one you choose. 5.	 Click on the Data Tab in the Ribbon, then click on the Sort button. A dialog box appears, where you must specify which columns you want sorted, and what level each column should be sorted by in relation to each other.
+
+Figure 73: The dialog box “Sort”.
+
+79
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Working with Tables
+
+6.	 In Figure 73 you can see what you must choose. You should sort the column “Language”, according to values in ascending order 7.	 Click on the Add Level button to specify another sorting level.
+
+Figure 74: The second sorting level is being defined.
+
+8.	 Choose as shown in Figure 74 and click OK. The table now looks like this:
+
+Figure 75: The table has been sorted by language and year.
+
+The Films have now been sorted by language and year. You have now learned the basics about filtering and sorting tables. Now we need to try some slightly more advanced features, since it goes without saying that Excel can perform calculations on such a table as well.
+
+6.4	
+
+Pivot Tables
+
+To “Pivot” means something like “turning around a centre.”  In Excel we use pivot tables to do some sophisticated summaries and calculations on an existing table.  You are able to very quickly analyse different things from different perspectives.  That is probably why Microsoft has chosen to call them “pivot tables”.
+
+80
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Working with Tables
+
+We will continue working with our movie file, where we will now make some quick calculations with a pivot table. 1.	 Make one of the cells in the table the active one. Another Tab will appear in the Ribbon called Design. 2.	 Click on the Design Tab in the Ribbon. 3.	 Click on the Summarize With Pivot Table Tab in the Ribbon.
+
+Figure 76: The Summarize with Pivot Table Tab.
+
+4.	 Leave the settings as they are and click OK. Now we have created an empty pivot table and are ready to feed it information. But first, we have to take a look at the pivot table’s work range.
+
+Figure 77: Work area when working with pivot tables.
+
+81
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Working with Tables
+
+The work area consists of three essential elements: •	 The actual pivot table that shows the result of our choices. •	 A field list, where we choose what data to use in the pivot table. When we work with pivot tables a “field” corresponds to a column in the table that we pull data from. The field list contains the equivalent to the columns in our directory. •	 An area for placement of fields from the field list. The pivot table’s look and performance depends on how we place the fields in these four windows. Fields to be placed in the window “Column Labels” will form a number of columns in the pivot table corresponding to different values in the table. The same is the case for the series labels. Fields to be placed in the window “Values” will be the cells used for calculations in the pivot table. Finally, there is the pane “Report Filter”. It can be used for selecting data from the table based on various criteria.
+
+Challenge the way we run
+
+EXPERIENCE THE POWER OF FULL ENGAGEMENT… RUN FASTER. RUN LONGER.. RUN EASIER…
+1349906_A6_4+0.indd 1
+
+READ MORE & PRE-ORDER TODAY WWW.GAITEYE.COM
+
+22-08-2014 12:56:57
+
+82
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Working with Tables
+
+Figure 78: Drag using the mouse.
+
+To make calculations, we must drag some fields from the field list to the area for placement of fields. 5.	 Point to the field Running Time In Minutes in the field list. 6.	 Click with the left mouse button and hold it down while dragging the field down to the Values pane. Now, release the mouse button. Refer to Figure 78. The pivot table now displays the sum of the running times for all movies in the directory. We could also have done that using a simple formula, so let us try something a bit more advanced. 7.	 Drag the Language field into the “Row Labels” pane.
+
+Figure 79: Total running time for each language.
+
+Now you have a sum of running times for each language. Do you see the trick?
+
+83
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Working with Tables
+
+Of course, Excel can do more than calculating sums. You can also get the number of movie titles, or you can calculate averages, running sums, and even standard deviation and variance, if you need it 8.	 Double-click on cell B3, which is the column label “Sum of running time in minutes.”
+
+Figure 80: Settings for the value field.
+
+A dialog box appears (Figure 80), where you can choose what the pivot table should do about the numbers. You can change what should be in the column label, and you can select what should be counted out. There is also the option to change number format by clicking the Number Format button 9.	 Click Number on the list, and then OK. Now the pivot table shows that we have two Danish, two English and a German film in our directory. In this context, it does not matter if we have used the field “Year” or any other field. With the “Number” feature Excel simply notes that there is a value, and counts it as 1. 10.	 Drag the field Year from the field list into the “Column Labels” pane.
+
+Figure 81: Now the years have become column labels.
+
+84
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Working with Tables
+
+You now have an overview of how many movies you have in each language from different years. The pivot table automatically inserts totals to the right and bottom. Maybe that is not the best way to display it, so it is fortunate that we can have multiple row and column headings at the same time. 11.	 Drag the field Year down into the Column “labels” pane. Thus there will be two fields in this pane, and Year will disappear from the “Column Labels” pane. It now looks like this:
+
+Figure 82: Two column labels.
+
+This e-book is made with
+
+SetaPDF
+
+SETASIGN
+
+PDF components for PHP developers
+
+www.setasign.com
+85
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Working with Tables
+
+Be aware that labels are tiered. In the pane “Row Labels” you have language at the top, and so the pivot table will group data by language first, then year.  By default Excel inserts a “Subtotal” of the overall levels. For example, it says “2” next to the “English” label. This is very smart, but it can also be a problem if later you need to work with data elsewhere. You can omit the subtotals by clicking the right mouse button on one of the labels (e.g. cell A7) and click on Subtotal for “Language”.
+
+Figure 83: Pivot table with report filter.
+
+As is the case with row labels, you can also have column labels in several levels. My experience is that it is only something you should do in an emergency, as it tends to get confusing. You can also drag multiple values into the “Values” window, but I believe you would find that quite unmanageable. It is better to make an extra pivot table or to use the kind of filters I will describe for you next Notice that there is a small button in cell A3. By using that you can create a filter exactly like an AutoFilter in a common table. If you want to, you can experiment with it yourself. There is also another filter option for pivot tables. 12.	 Drag the field Protagonist down into the pane “Report Filter”. Now an extra filter is placed on the pivot table. 13.	 Click on the button B1 and choose Al Pacino. This will ensure that only data in which Al Pacino is the protagonist will be displayed. In this case it is only one film.
+
+86
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Working with Tables
+
+6.4.1	
+
+Preserving Results
+
+Once you have set up a pivot table and used some filters, you might want to preserve the calculation that you made, even if you also want to continue working with the pivot table. You can copy the pivot table to another location, so you have two pivot tables to work with. You can also, once you have copied the table to the clipboard, choose to insert the table somewhere else as “values”. This clears it of all pivot functionality, and it can be treated as pure data with no risk of further changes. 6.4.2	 A Couple of Tips on Pivot Tables
+
+Pivot tables are an excellent tool for analysing and summarising large amounts of data, but you can also quickly lose track if you “bury” the table in too many labels on several levels. It is a good idea to take small steps when you build a PivotTable.  Start with the value field and then insert some row labels. Finally insert the column labels. This is the approach that best ensures that you have an overview of the table throughout the construction phase Consider what should be row labels and what should be column labels before you begin. A field with many different values will provide as many labels, while a field that can have only three different values will only create three labels. In my experience it is best to use fields with few values as column labels and let the fields with many values be row labels. If you have many column labels, the table quickly becomes very wide and thus confusing. If you need to do a complex pivot table where you have to have labels at multiple levels, you may wish to consider the use of filters. Otherwise, you can decide whether it is better to make two different pivot tables that are manageable in isolation, instead of one big confusing table.
+
+87
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+7	Charts
+Now we get to something most people find enjoyable. We will create charts. Long data series and tables can be extremely tedious to watch, and you can often make data more readable by visualizing them in a chart instead. Excel offers lots of possibilities to make some really nice graphs that can illustrate many different types of data. In this book, we must first make a bar chart. The bar chart will be the basis for a series of exercises where we work with the various options and other things you can do with a chart. Then the other chart types will be described in outline, so you can experiment with adjusting them. 3D charts will not be reviewed in this book, because it is something you can easily figure out yourself once you have learned the basics of bar, basket and pie charts. 3D charts are beautiful and can really impress, but you should also be aware that they may be harder to read accurately. However, in a sales brochure are they do look good!
+
+7.1	
+
+Bar Charts
+
+To get started with charts, we need some data to work with.  Create a spreadsheet similar to the one shown in Figure 91. We will use this spreadsheet for the next several exercises. The spreadsheet is an energy accounting, which shows a random English family’s consumption of heating oil and electricity over a year. The data are entirely fictional, and the task is not to come to any conclusions about the family’s total CO2 emissions!
+
+Figure 84: The spreadsheet we will use for our chart exercises.
+
+88
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+Let us get started on our first chart! We need to make a bar chart”. 1.	 Make sure one of the cells in the table is the active cell. Alternatively you can select the whole table. 2.	 Choose the Insert Tab in the Ribbon. 3.	 Click on the Bar button. 4.	 Choose chart type top left (see Figure 85).
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+89
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Charts
+
+Figure 85: Choose your first chart.
+
+Within a few seconds the miracle will happen. If you have followed my instructions correctly, you already have a neat chart ready for use. The graph has a horizontal axis with months and a series of bars in two different colours that show the oil and electricity consumption respectively.
+
+Figure 86: Your first bar chart. Notice the Ribbon has changed.
+
+Unless you clicked on an empty cell in the spreadsheet, the chart will now be selected. If not, click one time with the mouse on the chart. When a chart is selected, certain things happen. The table with data will be highlighted, so you can see which data are included in the chart. You can change the data to be included by pulling with the mouse at the corners of the selection.
+
+90
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+7.1.1	
+
+Charting Tools and Language Confusion
+
+When the chart is selected, some Tabs will be added to the band called “Charting Tools”. The Charting Tools contain all the functions you can use on your charts. The tools are organised into three Tabs called Design, Layout and Format. The Ribbon is a brand new way to use charts, and once you get used to it, it is a definite improvement on the endless number of dialog boxes in the older versions. The Design Tab contains the basic functions to adapt the structure of the chart. Think of design as being about the basic structure without the colours, numbers formats, etc. It could be about what type of chart you want to use, the data to be included and how they should be interpreted. It can therefore be a little confusing that in the Design Tab we can select what colour Styles to match with the colour theme you have set for the spreadsheet. The Layout Tab contains functions to manage the various elements of a chart.  A chart can, for example, include a title, an explanation for the different column colours, gridlines, which helps make the chart easier to read, layout, etc. Thus layout is about the placement of the different elements that you can “stick” on a chart. The Format Tab contains functions relating to the aesthetic part of the task, such as colouring, font, number formats etc. 7.1.2	 Terminology – What does it mean?
+
+There is some terminology and words and concepts you should know before you start working with charts. Figure 87 shows the chart from our exercise, with a few extra features added.
+
+Figure 87: The most important elements in a chart.
+
+91
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+“Data Series” is the name for the data displayed in the form of pillars. In this example we have two data series, namely “Oil in litres” and “Electricity consumption in kWh. Everything can be adjusted in the chart. If you right-click an item a menu pops up where you can do different things.  One detail is the data series.  If you just right-click on a pillar in the data series, the changes you make affect the entire data series. However, if you click twice with the left mouse button on a pillar and then right-click, the changes will affect only the column you clicked. 7.1.3	 Change of Scale
+
+By default, Excel will adjust the scale of value axis. But sometimes it can be advantageous to create a fixed scale. This is especially true if you have two charts side by side, which must be comparable. If you make permanent scales on both charts, they are easy to compare. Another example is if you have a percent scale. Excel has a tendency to let it go up to 120%, although you might only want it to go to 100%. 1.	 Click with the right mouse button on one of the figures on the value axis. 2.	 A menu appears, and you must click on Format axis.
+
+92
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Charts
+
+Figure 88: Axis Settings.
+
+The dialog box “Format Axis” will open, and here you can set a lot of different things. You can include adjustable scale, colour and number formats, among other things. In the left side of the box the settings are saved under different categories. 3.	 Ensure the category Axis Settings is chosen. Here you can set the scale on the axis. In this case we will just change how high the scale goes. 4.	 At “Maximum” select Static instead of Automatic. 5.	 You can now type in the field to the right, and there you must type 400. 6.	 Click Close. Your chart has now changed. The scale was smaller, and your columns became taller as a result. Some of them are so tall that they grow out of the chart
+
+93
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+Figure 89: The chart with a different scale.
+
+This is the risk of having a fixed scale, so you should think carefully before you choose this option. 7.	 We will also use the chart in the next exercises. So, right-click the value axis again, click on Format Axis and change the scale to Automatic again. Two Value Axes Each with its Own Scale In some cases it might be a good idea to have two different value axes. In our diagram we show the oil and electricity consumption in the same chart, and both datasets use the same value axis. The figures for oil and electricity are rather close to each other, so in our chart it is not a problem, but one is not always so lucky In many apartments heat consumption is calculated by counters located on the radiators. Many know this system as counting “units”, and you might only use 50 units a month instead of 300 litres of oil. In our chart it would cause problems, since the columns of heat would be very short and difficult to compare month for month. 1.	 For the next exercise, I ask you to change the data form, so it will look like Figure 92. The title “Oil in Litres” must be changed to “Heat Units”, and the figures must also be changed. The chart adapts automatically.
+
+94
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+We need a new axis for the heat units, since the columns are a little too short to look proper. 2.	 Click on one of the value columns. 3.	 In the Ribbon, choose the Layout Tab, then click on the Format Selection button, located to the far left on the Ribbon.
+
+Figure 90: The Format Selection button.
+
+This gives you the option to change all kinds of setting for the “Heat Units” data series.
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+95
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Charts
+
+Figure 91: Series Settings.
+
+You can experiment with fill colour, border colour and shadows when we are done with the exercise. 4.	 Ensure Series Settings is selected in the left side of the box. 5.	 Under “Plot series on”, select Secondary Axis. 6.	 Click on Close.
+
+Figure 92: The chart with a secondary axis.
+
+96
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+Now the chart looks like the chart in Figure 92 There is an additional scale on the right side, but there are also some less fortunate things. The scale of heat units is correct, but Excel has decided that the blue bars now should be located on top of the red bars. This means that there are some red bars that you cannot see because they are shorter than the blue ones! This was not what we asked for. All we wanted was an extra axis. Things like that happen occasionally in even the best programs.  We have actually found an error in Excel! As I prepared this exercise, I tried various tricks to rectify the error, but Excel insists that, when you have two value axes, the columns stand on top of each other. But where there is a will there is a way.  Sometimes you have to be creative and find an alternative solution. We will therefore turn the chart into a “line chart” in the next section!
+
+7.2	
+
+Line Charts
+
+Line charts works exactly like bar charts, but instead of pillars to visualize values Excel creates points connected by lines.  We continue where we left off in the last exercise. The exercise went wrong because we found an error in Excel. Therefore we will begin this section by turning a bar chart into a line chart. 1.	 Click somewhere on the chart. 2.	 Choose the Layout Tab in the Ribbon. 3.	 Furthest to the left in the Ribbon there is a grouping of buttons called “Current Selection”. The top button is actually a “scroll box” where you can choose between different things. You must ensure that it shows “Chart Area”. If it does not, click the small arrow to the right and select Chart Area on the list. This little exercise ensured that you have selected the whole chart and not just a data series, an axis or a single bar. When we change the chart type for the entire chart, the entire chart must be selected. Later, we will try to make a combined chart. 4.	 Choose the Design Tab in the Ribbon. 5.	 Click on the Change Chart Type to the far left in the Ribbon. 6.	 Choose the Line category in the left side of the box that opens up. 7.	 In the right side of the box, click on the first chart in the row beneath the headline “Line” (see Figure 93). 8.	 Click on OK.
+
+97
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+Figure 93: The line charts are located in the Line category.
+
+You have now transformed the entire chart into a line chart. The disadvantage is that the settings are now reset again, so you no longer have a secondary axis. If you like, you can put a secondary axis in again. It should look like this:
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+98
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Charts
+
+Figure 94: line chart with two axes.
+
+7.3	
+
+Charts with both Columns and Lines
+
+You are not limited to either bar charts or line diagrams. In Excel, you can actually both have your cake and eat it! You can select a chart type for each data series. However, that only makes sense when the chart types are compatible. It makes no sense to combine a line chart with a pie chart, as we shall see later. We will now change the line chart back to a column chart. 1.	 Click on a place in the line for electricity consumption. 2.	 In the Ribbon, Click the Design Tab. 3.	 To the left in the ribbon, click the Change Chart Type button. 4.	 In the box that opens, choose Column in the Category list to the left. 5.	 Now click on the first column chart in the right side. When you select a single data series, it will be the only data series that is turned into another chart type.
+
+Figure 95: Combine line and bar chart.
+
+In the next section, we will work with some other chart types. If you like, you can proceed with bar and line charts and find out how to add colour and effects.
+99
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+7.4	
+
+Circle Charts
+
+Circle charts, also called pie charts, are useful to describe the size of different values in relation to each other. Unlike bar and line charts, pie charts are not suitable for describing your electricity consumption over time. To perform the next exercise you must create a spreadsheet in the same way as in Figure 96. The spreadsheet is a simplified monthly budget for a family’s recurrent expenditures.
+
+Figure 96: Starting point of the exercise.
+
+In a pie chart, we can illustrate what the costs are compared to each other. When the spreadsheet is ready, you must activate one of the cells in the table. 1.	 Click on the Insert Tab in the Ribon. 2.	 Click on the Circle Tab in the Ribbon.
+
+Figure 97: The Circle Tab.
+
+3.	 Click on the 2-D circle top left in the menu that appears.
+
+100
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+After a brief moment, you have a circle chart where the various items in the budget have become pieces in a “pie”.
+
+Figure 98: A circle chart.
+
+As you can probably see, it is a good visual way to illustrate where the money goes. What you cannot see is how much money it is. We might also like to add some percentages.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+101
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Charts
+
+Figure 99: The Circle chart with data labels.
+
+4.	 Ensure the chart is selected. 5.	 In the ribbon, choose the Layout Tab. 6.	 On the Tab there is a group of buttons called “Labels”. Click on the Data Labels button. 7.	 A menu appears where you must click on the menu item called Outside. Now the amounts are plotted in the chart, but it will also be very illustrative to put some percentages on them. Some people like pies, while others like numbers better. 8.	 Right-click on one of the data labels, for instance the one that says “Kr. 10.000,00”. 9.	 In the menu that appears, choose Format Data Labels. A box will open where you can set everything concerning the data labels. Like so many other boxes in Excel, the options are organised in categories, which you can choose from in the left side of the box.
+
+Figure 100: Format data labels.
+
+102
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+10.	 Ensure the category Label Settings has been chosen. 11.	 Under the header “Label Contains”, tick Percentage and leave the others as they are. 12.	 Click on Close. Now you have both amounts and percentages in the chart, which gives a lot of inormation about our household budget.
+
+Figure 101: Data labels with percentages.
+
+Now I suggest that you experiment a little with your circle chart. Try changing chart type to a 3D pie chart. 3D circle charts look good, and unlike bar and curve charts the beautiful effect does not affect readability in a circle chart.
+
+7.5	
+
+Scatter Charts
+
+Scatter charts are also called “X-Y” charts. If you are a mathematician, you have probably already figured out what an X-Y chart does; it shows values of Y as a function of X. Or put another way, you can show that some values are dependent on others. To be fair, you can also do that in a bar or line chart, but the scatter chart is different. In the bar and line charts, the horizontal axis is not a scale, but a “category axis”. It represents fixed points present in the data table. Each row of the data table corresponds to a point on the horizontal axis of the chart. In the scatter chart, the axis scales in relation to the values appearing in the data table, and the values in the data table may not even be ordered. On the downside, you cannot use values such as January, February, etc. in a scatter chart. All values must be numbers. If your values on the horizontal axis are in sorted order and have the same interval such as 10, 20, 30, 40, etc. you can use an ordinary line chart. But with the scatter chart, the horizontal axis can also assume negative values.
+
+103
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+The scatter chart is therefore suitable for displaying results of measurements where, for instance, you measure the density of a material in relation to temperature. You may also to some extent use scatter charts to show graphs for mathematical functions. There are features in Excel to show graphs of a mathematical expression, but by creating a table with a lot of values for x, and a lot of values for f(x) you can make such a graph nonetheless. 7.5.1	 Results of Measurements
+
+In this example, I have made some samples of our consumption of fuel oil for heating the house in relation to diurnal temperature outside. The samples are carried out on some random day during the autumn of 2007. I have set a table with my measurements and would like to visualise the results with a scatter chart. I want to show how much oil we use in relation to outside temperature. The horizontal axis should be the temperature, and the vertical axis should be oil consumption in litres.
+
+104
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Charts
+
+1.	 Make a spreadsheet as shown in Figure 102.
+
+Figure 102: The starting point of the exercise.
+
+2.	 Select cell region C3:D12. The dates are not relevant in this chart. 3.	 Click on the Insert Tab in the Ribbon. 4.	 Click on the Scatter Chart button. 5.	 In the menu that appears, choose the chart type top left (see Figure 103).
+
+Figure 103 the Scatter Chart button.
+
+We now have a scatter chart with a temperature scale at the bottom and the corresponding oil consumption plotted into the graph as points. Here you can really see the difference between line charts and section charts, since measurements in the data table have not been arranged according to temperature. Excel has done that for us in the chart.
+
+105
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+7.5.2	
+
+Graphic Representation of Mathematical Expressions
+
+As previously mentioned, you can also use the scatter chart to display graphical representations of mathematical expressions.  Excel is not really designed for this and there are other programs better suited for this task. But for lack of better you can still use Excel. In our example we will try to show a graph of a second quadratic polynomial, which is a nice parabola. The expression we want to display is: f(x) = 3x2 + 2x – 3 We will try to show the graph for x-values between -7 and +7. 1.	 Start by creating a spreadsheet as shown in Figure 104.
+
+Figure 104: The starting point for the exercise.
+
+2.	 In cell C4, write the formula =3*B4^2+2*B4-3, and press ENTER. 3.	 Copy cell C4 to cell region C4:C18. Now we have a table with two columns. One column has the X-values and the other has the function of the X-values. Now we can create a scatter chart, but this time we choose a chart where the points are connected.
+
+106
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+4.	 Activate one of the cells in the table. 5.	 In the ribbon, choose the Insert Tab. 6.	 Click on the Scatter Chart button and choose the chart type top right. Now we have our parabola.
+
+Figure 105: Excel is not able to draw a parabola, but if we use the program creatively it is possible to get around that problem.
+
+107
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Charts
+
+Excel has several types of charts, and there are also three-dimensional versions of the chart types we have worked with here. I encourage you to experiment with the different types of chart. Not all possibilities are examined in this book, but you are now aware of everything you need to continue on your own.
+
+7.6	
+
+Chart Sheet
+
+If you do not want the diagram inside the spreadsheet, you can place it in a separate chart sheet. It will then get its own sheet tab at the bottom of the screen. 1.	 Create a chart in a spreadsheet or use one from a previous exercise. 2.	 Right-click on the chart and click on the menu item Move Chart 3.	 In the window that opens. Select New Sheet and name it. In Figure 106, I call the new sheet “Parabola”. 4.	 Click OK.
+
+Figure 106: Move Chart.
+
+The chart disappears from the original spreadsheet, and a new sheet tab has appeared, which in my case is called “parabola”.
+
+7.7	
+
+Viewing and Printing
+
+Viewing and printing is perhaps not so important compared to learning how to do spreadsheets, but when you start working more seriously with it, you will discover that there are some possibilities that are good to know about. 7.7.1	Printing Of course, you can print your spreadsheets, but often you will find that it requires a little adjustment and alignment before you get a satisfactory result. It is not something that should cost you sleep at night, because when you have learned a few tricks, it is not a problem.
+
+108
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+Figure 107: A large table.
+
+In Figure 1017 there is an example of a table that takes up a lot of space. If you like, you can create a similar table, so you can practice yourself. Content is not so important as long as you have roughly the same number of rows and columns as in the example.
+
+109
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+7.7.2	
+
+Print Preview
+
+I always use the “Print Preview” function before I print. “Print Preview” shows what the printout will look like when it is sent to the printer. 1.	 Click on the Office Button, point to the menu item Print, then click on Print Preview.
+
+Figure 108: The Print Preview function.
+
+Now you will see an image of how the print will look with the current settings. In our example in Figure 109, it is clear that the transcript is not optimal. The table in the spreadsheet has 13 columns, but only seven of them are displayed. If you scroll down with your mouse, you get to page 2 where the rest of the table is displayed.
+
+110
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+Figure 109: The “Print Preview” window, where you can see that the table does not fit on one page. In the bottom left corner you can see that the printout takes up two pages.
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+111
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Charts
+
+7.7.3	
+
+Page Setup
+
+We need to change some settings. Fortunately, you can adjust a lot of different things. For instance, you can scale down. The content of the spreadsheet must be scaled down so that it fits on one page. You can also adjust the margins and add headers and footers, which are text elements that appear at the top and bottom of each page of the transcript. Finally, you can also set the number of rows and columns to be repeated on all pages. It is especially helpful if you need to print a table with many rows, since you can view the column headers on all pages of the transcript. 2.	 In the Ribbon, click on the Page Setup button. The “Page Setup” window opens and from here you can control the various options.
+
+Figure 110: The “Page” Tab.
+
+The window is divided into four different tabs called “Page”, “Margins”, “Header/Footer” and “Sheet”. In the “Page” Tab you can choose the orientation, ie.  choose between portrait and landscape paper format. You can also select the scaling of the content. The default scaling is 100%, but you can adjust it up and down manually until you get an outcome that suits you.
+
+112
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+3.	 In this exercise, let Excel find an appropriate scaling by simply indicating that Excel must adapt the content in width and height to a specified number of pages in landscape format. In our case we will probably get a suitable result by selecting one page wide by one page in height landscape format.
+
+Figure 111: Visual setting of margins.
+
+Figure 112: Our table with settings as shown in Figure 110.
+
+It is not always enough to scale the pages to get an appropriate result. Sometimes you need to precisely define where the page breaks should be. You will learn that in the next section on “viewing”. The “Margins” Tab in the “Page Setup” window is. Of course you can set how big the margins should be in centimetres. This can also be done in another way. If you close the window “Page Setup” and set a marker at the display margins on the tape, you can adjust the margins visually using the mouse. I think this is easier to work with. The “Header/Footer” Tab allows you to display a fixed text at the top and bottom of each page of the transcript. This text could be company name, author, etc. But you can also add some text fields which automatically show the date, page number and filename.
+
+113
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+The “Sheet” Tab is used to set what must be printed. You do not always want to print everything, and it may be necessary to repeat some rows or columns on all pages. Most settings in this Tab are not available if you opened the window “Page Setup” from within “Print Preview”.
+
+Figure 113: The Printout button.
+
+4.	 Therefore, you must close “Print Preview”. 5.	 To get into “Page setup” again, click the Page Layout Tab in the Ribbon, then click the Print Titles button. It is a bit of a long way to go, but Excel can also be like that sometimes. 6.	 You can now choose the Sheet Tab again, if you have not already done so. 7.	 In Figure 114 I have set Excel to repeat number 1 and column A. This of course does not matter if I have already chosen that Excel should adjust everything to one page, but it was only meant as an illustration, and we will need it later for an exercise in the Section “View” below.
+
+.
+
+114
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Charts
+
+Figure 114: Row 1 and column A are repeated on all pages with this setting.
+
+8.	 Click OK.
+
+7.8	Viewing
+So far, our exercises have taken place in “Normal View”. This is the standard way to display spreadsheets, and it is nicer when you work in the spreadsheet. But there are a few other useful views you can use before you print your sheet. If you have a large spreadsheet you need to print, the result may well be somewhat disappointing because spreadsheets tend to spread out over several pages. In the section on printing, you learned that you can scale the printout to fit into a specific number of pages, but you also have the opportunity to control exactly where the page breaks should be. The display buttons are located at the bottom right on the screen. You can get to he same features by clicking on the View Tab in the Ribbon, but the display buttons at the bottom are always visible, allowing you can save a mouse click. The display buttons consist of three buttons and a “zoom slider”. The “zoom slider” works by clicking the mouse and dragging to the right or left to zoom in and out respectively. I prefer instead to hold down the CTRL key on the keyboard while I scroll up or down with the scroll wheel on the mouse. It is a much easier way to zoom in and out, in my opinion, and this method can also be used in many Windows programs.
+
+115
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+Figure 115: The display buttons.
+
+The other three view buttons switch between Normal, Page Layout and Show Page Breaks. We are already familiar with Normal, since it is the view we have been using in all our exercises so far. This is the best view when you just have to work with the spreadsheet without caring about the print layout. Page Layout shows something similar to the result if you print out the spreadsheet. You also get that if you choose Print Preview from the Office Button, but in page layout view, you can still work in the spreadsheet. However, the view is not nearly as accurate as Print Preview. Show Page Breaks are the most useful alternative view, since it also adds an important functionality. Here you can see and adjust what should and should not be printed. You can insert and rearrange page breaks and exclude certain areas from being printed.
+
+7.9	
+
+Adjust Print Range
+
+Figure 116: The view Show Page Break.
+
+1.	 Clik on the Show Page Break button to display the same screen as in Figure 116.
+
+116
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+In the example in Figure 116, I have changed the page setup from the previous exercise, so the scaling is 100% again. Page layout is still landscape format. The repetition of the first row and column has also been disabled.
+
+The table is surrounded by a thick blue border, which defines “printable area”.  Only those cells that are in the frame will be printed. You can, by pointing to the frame with your mouse and holding the left mouse button, move the frame. That way you can also exclude some of the table for printing, if that is what you want.  You can also have several separate areas in the spreadsheet as a part of the print area. To illustrate this, it requires that our example be extended with a couple of extra tables. 2.	 Click on the view button Normal, and add a few tables like the ones shown in Figure 117. Also add some text in some other cells that you do not want printed.
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+117
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Charts
+
+Figure 117: Expansion with a few extra tables and a cell area that we do not want printed.
+
+3.	 Change to Show Page Breaks again. You can still see that the original table is inside the white area, which means that it will be printed. But the new tables are outside the printable area and will therefore not be printed If you have several different areas in the same spreadsheet that you want printed, you can hold down the CTRL key on your keyboard while you select the different areas with the mouse. When you are finished selecting fields, click the right mouse button on one of the areas and select the menu item Set Print Area: 4.	 Hold down the CTRL key while you select all three tables with the mouse. Do not select that which you do not want to print. 5.	 Right-click on any of the highlighted areas and click the menu item Set Print Area. We now have a “composite print area” and the spreadsheet will look like Figure 118. 
+
+118
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+Figure 118: Page Breaks View with the new tables in the grey area.
+
+Composite printing areas are an advantage if you only want certain fields written out, for example some nice tables and charts. You can have some intermediate calculations in the spreadsheet that you do not want in print. 7.9.1	 Managing Page Breaks
+
+In our exercise, there is an automatic page break down through the multiplication table. It is signified by a dotted blue line. Excel decides where the automatic page breaks should be, and your spreadsheet might show something else. It depends on the cell heights and column widths, but it also depends on your printer and its configuration. To gain more control over where the page breaks are, you can insert permanent page breaks. Fixed page breaks will not move, and if you put them in the right places, you can avoid unfortunate automatic page breaks. Insertion of fixed page breaks is always on the left and above the cell which is active. Our multiplication table in the example would obviously spread out over two pages. In my spreadsheet the table was divided by an automatic page break between the columns for October and November. I would like the shift to be between June and July, so I make H1 the active cell.
+
+119
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Charts
+
+1.	 In your spreadsheet, activate the cell, where it says “July”. 2.	 Make sure the Page Layout Tab in the Ribbon is selected, and click on the Shift button. 3.	 In the menu that appears, click on Insert Page Break.
+
+Figure 119: The Shift button.
+
+Now there are no automatic page breaks, and there will not be any unless you make the sheet bigger.
+
+Figure 120: Now the page breaks are fixed.
+
+120
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Working with
+
+Multiple Spreadsheet
+
+8	 Working with Multiple Spreadsheets
+Earlier in the book, I mentioned that you may have multiple spreadsheets in the same workbook, and that you can use data from other spreadsheets in your formulas. The formulas can refer to other sheet tabs by adding the sheet name to the cell reference. With a further addition you may even refer to cells in completely different workbooks! I know a medium sized company, which does its entire budget in spreadsheets. When it is completely finished, it is loaded into their finance system. The advantage is that it is easier to juggle with numbers in spreadsheets than in a large ERP system.  The company believe themselves that they make more precise and thorough budgets in this way. Each department as a starting point make their own budget in a spreadsheet template developed by the Finance Department. Naming and placement of worksheets/ workbooks has been agreed in advance. Once all departments have reported that their respective sub-budgets are finished, the finance department opens a special spreadsheet that pulls data from all sub-budgets and transform them into a format that can be loaded into the finance system.
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+121
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Working with
+
+Multiple Spreadsheet
+
+This is a procedure that works, but it requires great discipline.  All spreadsheet files must be named correctly and placed in the right folder on the corporate network.
+
+8.1	
+
+Working with Sheet Tabs
+
+If you make a large spreadsheet with many contexts, it can be very confusing if you have it all in a single spreadsheet. We therefore use a “workbook” with sheet tabs, each sheet tab being a spreadsheet itself. As we have seen, a sheet tab can also include a sheet where you have a chart instead of a spreadsheet. 1.	 Start a new spreadsheet. 2.	 Right-click on “Sheet1” at the bottom of the screen and click on Rename. 3.	 Type Input and press ENTER.
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+122
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Working with
+
+Multiple Spreadsheet
+
+Figure 121: Rename sheet tabs.
+
+You have now re-named Sheet1, so it reads “Input” instead. It could also have been called “Grandma” if it was what you wanted. 4.	 Type 2 in cell B2. 5.	 Click on the sheet tab Sheet2. 6.	 Type 3 in cell B2. We will now type a simple formula in Sheet2 that adds together the contents of the two cells. 7.	 In cell B3 in Sheet2, type an = sign to start a new formula. Do not press the ENTER key. 8.	 Click on the sheet tab Input. 9.	 Click on cell B2 (the one with the number 2 in it). 10.	 Press the + key on the keyboard. 11.	 Click on the sheet tab Sheet2. 12.	 Click on cell B2 and press the ENTER key. The result of the formula is 5, which you probably had figured out from the start. What is more interesting is the actual formula. If you make cell B3 in Sheet2 the active cell, you can see in the formula bar that the formula is: ”=Input!B2+’Ark2’!B2” So, you put the sheet name first, write an exclamation mark and then the ordinary cell reference. If you look closely at the two references, you may detect a slight difference. “Sheet2” is surrounded by single quotation marks, but “Input” is not. It is because there is a number “2” in the sheet name. If there are numbers or spaces in the sheet name, they should always be surrounded by single quotation marks. The name “Input” has neither and thus gets no quotation marks. You can leave this workbook open because we are going to need it for the next exercise.
+123
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Working with
+
+Multiple Spreadsheet
+
+8.2	
+
+Retrieve Data from Other Workbooks
+
+As mentioned, you can retrieve data from other workbooks (Excel files). It takes only a reference to the file in the cell reference. 1.	 Save the current worksheet in the folder “My Documents”. Call the file “test.xlsx”. 2.	 Start a new spreadsheet, but leave test.xlsx open. Now we will make the same calculation as in the previous exercise, but we make the calculation in the new workbook. It does not matter what sheets you use in the new workbook. In this exercise, the important thing is the references to test.xlsx. 3.	 In cell B2, type an equal sign to start a formula. 4.	 In the Ribbon, select the View Tab and click on the Shift Window button. 5.	 In the menu that appears, choose the menu item test.xlsx. You are now back in the old spreadsheet. 6.	 Click on the sheet tab Input. 7.	 Click on cell B2. 8.	 Press the + key on the keyboard. 9.	 Click on the sheet tab Sheet2. 10.	 Click on cell B2 11.	 Press the ENTER key. Now you are back in the new spreadsheet again, and the formula should give the result 5 again.  But again, you have to look at what is in the formula. It probably says: =[test.xlsx]Input!$B$2+[test.xlsx]Ark2!$B$2 Now the file name has been inserted at the front of the references in square brackets. It is really very simple, but there is a little extra detail. When referring to other workbooks, Excel automatically uses absolute references, as you can see, because dollar signs have been inserted. You have to be aware of that if you need to copy the formulas.
+
+124
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Working with
+
+Multiple Spreadsheet
+
+Another detail is that the references only look like the example when test.xlsx is open. When test.xlsx is closed, the path is also there. 12.	 In the Ribbon, select the View Tab and click on the Change Window button. 13.	 In the menu that appears, choose the menu item test.xlsx. 14.	 Click on the Office Button and choose close. If asked if you want to save, answer Yes. Go back to the formula in the new folder. It is now: =’C:\DOKumenter\[test.xlsx]Input’!$B$2+’C:\DOKumenter\[test.xlsx]Ark2’!$B$2 It is handy that you can link multiple workbooks, but be aware that if you rename or move source files to another folder, the formula that retrieves data from them, should be changed accordingly, otherwise it will not work. Thus it requires a bit of discipline to work in this way.
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+125
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Excel 2007
+
+Macros – Automation
+
+9	 Macros – Automation
+Sometimes you repeat the same actions over and over again in a spreadsheet. You may, for example, have an established procedure for formatting cells. In many cases you can use the automatic formatting of tables, but often you will just highlight some cells using the grid lines and a frame. This means that you must select the cells, add grid lines, insert a frame and maybe a background colour. After some time, when you have formatted many tables in this way, you may want to look for a way to save some time. Then “macros” is the answer.  A macro is a “tape recording” of a series of actions that you are doing and that you later can play again. A macro can record virtually everything you do. If you should later feel confident enough to start learning Visual Basic programming language, you will even be able to customise the macros, or turn them into small programs that can do a lot of things. We will not get that far in this book, but we will attempt to record and play a macro.
+
+9.1	
+
+Recording a Macro
+1.	 Start by creating a spreadsheet like the one in Figure 122.
+
+Figure 122: the starting point for our exercise with macros.
+
+2.	 Highlight the entire table i.e. cell range B2: E5. 3.	 In the Ribbon, select the View Tab and click on the Macros button located to the far right in the Ribbon. 4.	 Click on the menu item Record Macro.
+
+Figure 123: the Macros button.
+
+126
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Macros – Automation
+
+Now opens the window “Record Macro”, where you have various choices. You can write a descriptive name for the macro, and you can assign a hotkey, so you have quick access to the macro. You must also decide where to save the macro. If you choose This Workbook it will be available only as long as you are working in the current workbook. If you instead choose Personal Macro Workbook, the macro will always be available. The “Personal Macro Workbook” is a hidden workbook that is always open when you are working in Excel. Therefore, all macros stored in it will always be available. 5.	 Give the macro the name “Format_Table”. You cannot use spaces in Macro names, so a “_” sign is used instead. 6.	 Write a “t” as a shortcut. This enables you to activate the macro by holding down the CTRL key on your keyboard and press the T key. 7.	 Choose to save the macro in Personal Macro Workbook.
+
+Figure 124: Pre-record settings.
+
+8.	 You can write a short descriptive text about the macro if you want. 9.	 Click OK. Everything you do after this will be recorded in the macro. It is therefore a good idea to plan what the macro should do BEFORE you start recording. In this case, I have planned everything in advance. For example, I have already made a cell inside the table the active cell. Otherwise I would have to do it now by selecting, for example, cell E5, which would be recorded in the macro. That would not be a good idea, since the macro then always would start by making cell E5 the active cell. It would make the macro less useful as cell E5 is not always a part of my tables.
+
+127
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Macros – Automation
+
+10.	 Right-click inside the table and choose Format Cells from the menu that appears. 11.	 In the window that opens, click on the Border Tab. 12.	 Choose the thickest line style and choose a blue colour. 13.	 Then click on Contour. 14.	 Choose one of the thin line styles and choose a green colour. 15.	 Then click on Interior. 16.	 Click OK. Now you have formatted the table and the recording must be stopped. At the bottom left of the screen (next to the text “Clear”) there is a small square. It is a “stop button” which stops the macro recording. 17.	 Click on the Stop button
+
+Figure 125: The Stop button.
+
+Now the macro is has completed recording. There is nothing further to do before we play it.
+
+AXA Global Graduate Program
+Find out more and apply
+
+128
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Macros – Automation
+
+9.2	
+
+Play a Macro
+18.	 Select a random cell region. You decide where and how large the region should be. 19.	 Hold the CTRL key down on the keyboard and press the T key.
+
+Now the macro is being played, and the cell region you selected gets green grid lines with a blue border around it. You can record as many macros as you like. You can view a list of them by clicking the View Tab in the Ribbon, and then click the Macros button. In the menu that appears, click View Macros.
+
+Figure 126: List of your macros.
+
+In the macro window, you can play and delete macros. If you know how to program in Visual Basic, you can also edit your macros. Finally, you can also change the settings to for example assign a different shortcut.
+
+9.3	
+
+A Button for Your Macro
+
+Keyboard shortcuts are good, but you can also add a button into the toolbar, “Quick Access”, which activates the macro.
+
+Figure 127: Quick Access.
+
+20.	 Right-click anywhere on the toolbar “Quick Access”. It could for example be the disk icon. 21.	 Click on customize Quick Access Toolbar. 22.	 In the window that opens, choose the item Customize in the right side. 23.	 Under “Choose commands from”, click Macros.
+
+129
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Macros – Automation
+
+Figure 128: Choose commandos from “Macros”.
+
+ &K
+
+G
+
+I
+
+´0
+
+
+
+24.	 In the list, you can now select your macro, called “PERSONAL.XLSB! Format Tabel”. Click it, then click on the Add>> button. 25.	 Click OK. Now you have an extra button in the Toolbar “Quick Access”. You can go ahead and try it.
+
+Figure 129: A button for your macro.
+
+130
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Advanced Excel
+
+10	 Advanced Excel
+It is not necessary that you read this section in order to use Excel. If you have a good grasp of the issues already described in the book, you can already use Excel with good results.  This section goes a little further and looks at the more advanced types of formulas and functions you can use. In other words, this section will raise your level from skilled user to advanced user. Excel has a myriad of functions that you can use in your formulas, and sometimes the biggest challenge seems to be able to find your way around to get what you need.  I have worked with Excel for many years and I have discovered that, although I have solved many and diverse tasks in Excel, there are some features that I use again and again simply because they are useful in many contexts. It is these features that I will describe in this section. You can then explore the more specialised functions on your own.
+
+10.1	
+
+Nested Functions
+
+When you write a formula, you can use functions as arguments inside other functions. You might want to calculate the square root of a sum of a series of cells. It could look like this: =sqroot(SUM(B2:B20)) Here we have a SUM function as argument in a SQ ROOT function. It is not that hard, but if you start working with many nested functions in a formula, you need to keep your tongue straight in the mouth in order to place start and end brackets in the right places.
+
+10.2	Look-up
+Look-up functions can find values in a table from reference values. Imagine that you have an index of members in an organisation. The index contains a column with membership numbers and then columns of name, address, member type, etc. 10.2.1	 VOOKUP (Vertical Lookup)
+
+VLOOKUP finds values in a table using a search value.  If we have a membership directory with membership number, name, address and telephone number, the function may, for example, look up a certain name using the corresponding membership number, which we have entered into a cell. The syntax is: VLOOKUP lookup_value; table_array; col_index_num;equals)
+
+131
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Advanced Excel
+
+“lookup_value” is what is sought after.  If we want to find a name using a membership number, the lookup value is the membership number “table_array” is the cell range for the entire table. In our example it is the membership directory. “col_index_num” is the number of the column a value will be returned from.  If the table has four columns and the members’ names appear in the second column, we write the number 2 to make the function return the name. “Equals” is an optional argument. It is a so-called “logical” value, which can be either TRUE or FALSE. This is because the function can search in two different ways. Normally we use the value TRUE, which is also the default position if you omit this argument. The value TRUE results in a search for the largest value that is less than or equal to the lookup value. The value FALSE results in a search for a value which is exactly equal to the lookup value.
+
+132
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Advanced Excel
+
+Figure 130: VLOOKUP.
+
+In Figure 130 there is an example of the membership index. To the left is the actual table in the cell range A4: D13 with members listed. To the right of the table, there is something which can look up members using the number typed into cell F4. To be able to look up members’ names, the formula in cell G4 is as follows: =VLOOKUP (F4, A4: D13, 2, FALSE) To look up address and telephone number the col_index_num should be 3 and 4 respectively. The logical value “Equals” is set to FALSE, since TRUE may give false results. Imagine that Jane Jensen was member number 11 instead of 10, and that there was no number 10. If “Equals” was set to TRUE, the formula would return “Niels Nielsen,” because he is member number 9, which is the highest number that is less than or equal to the lookup value which is 10.  When equals is set to FALSE, only the exact value will be sought after, and in the aforementioned case, the formula would show a mistake, because there were no members with the number 10. When the formula cannot find the lookup value, it shows the error code #I/T. 10.2.2	 HLOOKUP (Horizontal Lookup)
+
+HLOOKUP works exactly like VLOOKUP, but instead of searching downwards in the first column, it searches along the first row. Instead of a column number there is also a row number.
+
+10.3	
+
+Mathematical and Statistical Functions
+
+This is an overview of the main mathematical and statistical functions.
+
+133
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Advanced Excel
+
+10.3.1	SUM Calculates the sum of numbers in one or more cell regions. 10.3.2	AVERAGE Calculates the average number in one or more cell regions. Empty cells and cells with text are ignored in the calculation. 10.3.3	 SQROOT (Square Root)
+
+This Function is self-explanatory. It calculates the square root of a number. 10.3.4	 Trigonometric Functions
+
+Excel has the usual trigonometric functions SIN() COS() TAN() and the inverse arcsin(), arccos() and arctan. In addition there are the hyperbolic versions, like SINH(), COSH() and TANH(). Please note that angles are expressed in radians. 10.3.5	PI PI() makes no arguments, but is just the known constant with 14 decimal places. 10.3.6	 ABS (Absolute Value)
+
+Has nothing to do with car brake systems, but returns the absolute value of a number. If the argument is a positive number, only the number is returned. If the argument is a negative number the number is returned as a positive number. 10.3.7	SHORTEN SHORTEN (number, number of decimal places) returns a number with the specified number of decimal places. It is almost like rounding off, but SHORTEN ignores rounded off and simply deletes the excess decimals. If the argument “Decimal Places” is left out, the number is shortened to 0 decimal places, that is an integer. 10.3.8	 ROUND OFF
+
+Works like SHORTEN and uses the same arguments. But here the figure is rounded off normally. The argument “Decimal places” is not optional in the ROUND OFF function
+
+134
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Advanced Excel
+
+10.3.9	
+
+MIN (Minimum Value)
+
+MIN(value1,value2, …) or MIN(cellarea1;cell area2; …) Returns the smallest value of a quantity. The argument is one or more cell areas and/or two or more values. 10.3.10	 MAX (Maximum Value) Is of course the opposite of the MIN function. 10.3.11	 SUMIF (Conditional Sum) Adds numbers in a table together on condition that they, or other values in same row, meet a certain criterion. In the following example we have a small table with two columns. The first column contains some text, and the second some figures. In the example, we put the figures together that are on the same line as the text “blue”: 10.3.12	 RAND (Random Numbers) This function has no arguments but returns a random number between 0 and 1. The value changes over time when making a new calculation in the spreadsheet.
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+135
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Advanced Excel
+
+10.3.13	 COUNT (Number of Cells with Numbers) COUNT(cell area) Counts the number of cells in an area that contains numbers. Empty cells and cells with text are not counted. Cells with formulas that return figures are counted.
+
+10.4	
+
+Logical functions
+
+Logical functions do not return a number, but a response in the form of TRUE, FALSE or an error code. I often use the logical functions to get a formula to choose between different methods depending on some values. 10.4.1	 AND Function
+
+AND(statement1 statement; 2; …) evaluates one or more statements. If all allegations are true, it returns TRUE. If only one statement is false, it returns FALSE. An example might be: =AND(2<3;4=4;5>4) returns TRUE, since all statements are accurate. =AND(2<3;4=4;5=4) returns FALSE, since one of the statements is wrong. In practice we often use cell references or nested functions instead of numbers. 10.4.2	 OR Function
+
+Is used in the same way as the AND function, but here returns TRUE if just one claim is correct. 10.4.3	 NOT Function
+
+NOT(statement) returns FALSE if the allegation is true and TRUE if the allegation is false. You could also say that it lies about the outcome! 10.4.4	 IF Function
+
+IF(statement; TRUE”range”; FALSE”range”) evaluate a statement. If the claim is TRUE, it returns that which is in the true part, otherwise it returns what is in the false part. 10.4.5	 IF.ERROR Function
+
+IF.ERROR(formula; result if error) shows the result of a formula if it can be calculated. If it cannot be calculated, an alternative outcome is shown. It could, for example, be if you try to divide something by 0, which returns an error. = IF.ERROR(2*3;10) returns 6, since the formula 2*3 can be calculated. = IF.ERROR(2/0;10) returns 10, since the formula tries to divide 2 by 0, which returns an error value . Instead it shows the alternative result.
+
+136
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Advanced Excel
+
+10.5	
+
+Analyse Data with Analysis Toolpak
+
+Excel has an add-on called “Analysis ToolPak”, which can perform a statistical analysis of a quantity of data. Analysis ToolPak is an add-on that is not installed initially, so it must be loaded before you can use it. 10.5.1	 Installation of Analysis Toolpak
+
+To install Analysis Toolpak , do the following: 1.	 Click on the Office Button top left on the screen. 2.	 Click on the Excel Option button. 3.	 In the left side of the window that opens, click on Add-Ins. 4.	 Select Analysis Toolpak from the list of add-ins. 5.	 At the bottom of the window, make sure that by “Manage” there is Excel Add-Ins. 6.	 Click on the Finish button. 7.	 In the box that opens, ensure there is a “check” mark next to Analysis Toolpak. 8.	 Click on OK. During this procedure, the program might require the installation of something from the installation disk, which you should just go ahead and do. 10.5.2	 A Quick Analysis with Analysis Toolpak
+
+In Figure 131, there are some numbers which we will use for a small analysis
+
+Figure 131: The starting point of the exercise.
+
+1.	 Make a list like the one in Figure 131. 2.	 Click on the Data Tab in the Ribbon. 3.	 Click on the Data Analysis button, which is located furthest to the right in the Ribbon if you have installed Analysis Toolpak. 4.	 A window opens with a list of tools for analysis. Choose Descriptive Statistics and click OK.
+137
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Advanced Excel
+
+)L
+
+Figure 132: Settings for Descriptive Statistics.
+
+ 6 WWL
+
+I
+
+'
+
+L WL
+
+6W WL WL
+
+5.	 A new window opens, where you must specify a number of settings. Set the settings as shown in Figure 132. 6.	 Click OK. A new Tab is added to the workbook. It is called “Score” and contains the results of the analysis. If you frequently need to perform a statistical analysis on a volume of data, the Analysis ToolPak in many cases can save you a lot of time.
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+138
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Excel 2007
+
+Advanced Excel
+
+Figure 133: Result
+
+10.6	
+
+Goal Seek
+
+Goal Seek is a function to adjust a cell value, so a calculation will have a desired outcome. Let us illustrate this with an example. Accountant Sigvardtsen has prepared a budget for the global firm NAILS & SCREWS Inc. (Figure 134). Sigvardtsen proudly presents it to the boss, who frowns and asks: “How many nuts must we sell to avoid a deficit?
+
+Figure 134: Budget that needs to be balanced.
+
+In his budget, Sigvardtsen projects that he will sell 500,000 nuts at a price of DKK 1.40 each, but the boss is not happy with a deficit of 127,500.00. He needs at a minimum to balance the budget.
+
+139
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Advanced Excel
+
+In this case, it is easy to figure out how many more nuts you have to sell to get rid of the deficit, but some problems might be harder to calculate. Sigvardtsen happens to be an Excel expert, so he uses Goal Seek to solve those cases. 1.	 He clicks on the Data Tab in the Ribbon, then on the What If Analysis button.
+
+Figure 135: The “What-if analysis” button.
+
+Figure 136: Settings for Goal Seek.
+
+2.	 In the menu that appears, he clicks on Goal Seek. 3.	 He indicates that cell E14 should reach the value 0 by changing cell C4. 4.	 When he clicks OK, Excel reports that a solution has been found, and he clicks OK again.
+
+Figure 137: The revised budget.
+
+Sigvardtsen can now tell his boss that they need to sell 591,071 nuts to balance the budget.
+
+140
+Download free eBooks at bookboon.com
+
+Excel 2007
+
+Concluding Remarks
+
+11	 Concluding Remarks
+This book has not addressed all aspects of the program because there are so many things you can adapt and adjust, but if you have read all of it, and if you have a reasonable understanding of the various exercises, you are already a highly competent user of Excel.  You will be well equipped to explore the program options. As I also mentioned in the introduction, it is a program that you never learn fully. I myself have worked with it for many years, but I still encounter new challenges and new ways of tackling them.  It is just something that is part of working with this program. The more you learn, the more opportunities will open up. If you are game and want to do more sophisticated things than what is described in this book, I recommend that you learn a little of the programming language Visual Basic. Excel comes with an entire programming language, and it gives you the ability to create your own functions that you can use in formulas. Macros in Excel are actually stored as Visual Basic programming, so that you can edit macros that you have already recorded and give them even more functionality. I just wish you good luck and lots of fun with Excel!
+
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+141
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+

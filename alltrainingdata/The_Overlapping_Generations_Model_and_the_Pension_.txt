@@ -1,0 +1,331 @@
+The	Overlapping	Generations	Model	and the	Pension
+Koen	Vermeylen
+
+Download	free	books	at
+
+The Overlapping Generations Model and the Pension System
+
+Contents
+
+Contents
+1. 2. 3. 4. 5. 6. Introduction The overlapping generations model The steady state Is the steady state Pareto-optimal? Fully funded versus pay-as-you-go pension systems Shifting from a pay as-you-go to a fully funded system 7. Conclusion 16 17 3 4 7 8 10 13
+
+References
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+2 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+The Overlapping Generations Model and the Pension System
+
+Introduction
+
+1. Introduction
+This note presents the simplest overlapping generations model. The model is due to Diamond (1965), who built on earlier work by Samuelson (1958). Overlapping generations models capture the fact that individuals do not live forever, but die at some point and thus have ﬁnite life-cycles. Overlapping generations models are especially useful for analysing the macro-economic eﬀects of diﬀerent pension systems. The next section sets up the model. Section 3 solves for the steady state. Section 4 explains why the steady state is not necessarily Pareto-eﬃcient. The model is then used in section 5 to analyse fully funded and pay-as-you-go pension systems. Section 6 shows why a shift from a pay-as-you-go to a fully funded system is never a Pareto-improvement. Section 7 concludes.
+
+3 Download free eBooks at bookboon.com
+
+The Overlapping Generations Model and the Pension System
+
+The overlapping generations model
+
+2. The overlapping generations model
+The households Individuals live for two periods. In the beginning of every period, a new generation is born, and at the end of every period, the oldest generation dies. The number of individuals born in period t is Lt . Population grows at rate n such that Lt+1 = Lt (1 + n). The utility of an individual born in period t is: Ut = ln c1,t + 1 ln c2,t+1 1+ρ with ρ > 0 (1)
+
+4 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+The Overlapping Generations Model and the Pension System
+
+The overlapping generations model
+
+c1,t and c2,t+1 are respectively her consumption in period t (when she is in the ﬁrst period of life, and thus young) and her consumption in period t + 1 (when she is in the second period of life, and thus old). ρ is the subjective discount rate. In the ﬁrst period of life, each individual supplies one unit of labor, earns labor income, consumes part of it, and saves the rest to ﬁnance her second-period retirement consumption. In the second period of life, the individual is retired, does not earn any labor income anymore, and consumes her savings. Her intertemporal budget constraint is therefore given by: c1,t + 1 c2,t+1 = wt 1 + rt+1 (2)
+
+where wt is the real wage in period t and rt+1 is the real rate of return on savings in period t + 1. The individual chooses c1,t and c2,t+1 such that her utility (1) is maximized subject to her budget constraint (2). This leads to the following Euler equation: c2,t+1 = 1 + rt+1 c1,t 1+ρ (3)
+
+Substituting in the budget constraint (2) leads then to her consumption levels in the two periods of her life: c1,t = c2,t+1 = 1+ρ wt 2+ρ 1 + rt+1 wt 2+ρ (4) (5)
+
+Now that we have found how much a young person consumes in period t, we can also compute her saving rate s when she is young:1 s = = wt − c1,t wt 1 2+ρ
+
+(6)
+
+The ﬁrms Firms use a Cobb-Douglas production technology:
+α (At Lt )1−α Yt = Kt
+
+with 0 < α < 1
+
+(7)
+
+where Y is aggregate output, K is the aggregate capital stock and L is employment (which is equal to the number of young individuals). A is the technology
+
+5 Download free eBooks at bookboon.com
+
+The Overlapping Generations Model and the Pension System
+
+The overlapping generations model
+
+parameter and grows at the rate of technological progress g. Labor becomes therefore ever more eﬀective. For simplicity, we assume that there is no depreciation of the capital stock. Firms take factor prices as given, and hire labor and capital to maximize their net present value. This leads to the following ﬁrst-order-conditions: (1 − α) Yt Lt Yt α Kt = wt = rt (8) (9)
+
+... such that their value in the beginning of period t is given by: Vt = Kt (1 + rt ) (10)
+
+Every period, the goods market clears, which means that aggregate investment must be equal to aggregate saving. Given that the capital stock does not depreciate, aggregate investment is simply equal to the change in the capital stock. Aggregate saving is the amount saved by the young minus the amount dissaved by the old. Saving by the young in period t is equal to swt Lt . Dissaving by the old in period t is their consumption minus their income. Their consumption is equal to their ﬁnancial wealth, which is equal to the value of the ﬁrms. Their income is the capital income on the shares of the ﬁrms. From equation (10) follows then that dissaving by the old is equal to Kt (1 + rt ) − Kt rt = Kt . Equilibrium in the goods markets implies then that Kt+1 − Kt = swt Lt − Kt Taking into account equation (8) leads then to: Kt+1 = s(1 − α)Yt (12) (11)
+
+It is now useful to divide both sides of equations (7) and (12) by At Lt , and to rewrite them in terms of eﬀective labor units:
+α yt = kt
+
+(13) (14)
+
+kt+1 (1 + g)(1 + n) = s(1 − α)yt
+
+where yt = Yt /(At Lt ) and kt = Kt /(At Lt ). Combining both equations leads then to the law of motion of k:2 kt+1 =
+α s(1 − α)kt (1 + g)(1 + n)
+
+(15)
+
+6 Download free eBooks at bookboon.com
+
+The Overlapping Generations Model and the Pension System
+
+The steady state
+
+3. The steady state
+Steady state occurs when k remains constant over time. Or, given the law of motion (15), when k∗ = s(1 − α)k∗α (1 + g)(1 + n) (16)
+
+where the superscript ∗ denotes that the variable is evaluated in the steady state. We therefore ﬁnd that the steady state value of k is given by: k
+∗
+
+= =
+
+s(1 − α) (1 + g)(1 + n)
+
+1 1−α
+
+1−α (2 + ρ)(1 + g)(1 + n)
+
+1 1−α
+
+(17)
+
+It is then straightforward to derive the steady state values of the other endogenous variables in the model.
+
+7 Download free eBooks at bookboon.com
+
+The Overlapping Generations Model and the Pension System
+
+Is the steady state Pareto-optimal?
+
+4. Is the steady state Pareto-optimal?
+It turns out that the steady state in an overlapping generations model is not necessarily Pareto-optimal: for certain parameter values, it is possible to make all generations better oﬀ by altering the consumption and saving decisions which the individuals make. To show this, we ﬁrst derive the golden rule. The golden rule is deﬁned as the steady state where aggregate consumption is maximized. Because of equilibrium in the goods market, aggregate consumption C must be equal to aggregate production minus aggregate investment:
+∗ ∗ ∗ = Yt∗ − [Kt Ct +1 − Kt ]
+
+(18)
+
+Or in terms of eﬀective labor units: c∗ = y ∗ − [k∗ (1 + g)(1 + n) − k∗ ] The level of k∗ which maximizes c∗ is therefore such that ∂c∗ ∂k∗ =
+GR
+
+(19)
+
+∂y ∗ ∂k∗
+
+GR
+
+− [(1 + g)(1 + n) − 1] = 0
+
+(20)
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+8 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+The Overlapping Generations Model and the Pension System
+
+Is the steady state Pareto-optimal?
+
+where the subscript GR refers to the golden rule.3 For certain parameter values, it turns out that the economy converges to a steady state where the capital stock is larger than in the golden rule. This occurs when the marginal product of capital is lower than in the golden rule, i.e. when ∂y ∗ /∂k∗ < (∂y ∗ /∂k∗ )GR . From equations (13), (17) and (20), it follows that this is the case when α (1 + g)(1 + n)(2 + ρ) < (1 + g)(1 + n) − 1 1−α which is satisﬁed when α is small enough. If the aggregate capital stock in steady state is larger than in the golden rule, aggregate consumption could be increased in every period by lowering the capital stock. The extra consumption could then in principle be divided over the young and the old in such a way that in every period all generations are made better oﬀ. Such economies are referred to as being dynamically ineﬃcient. It may seem puzzling that an economy where all individuals are left free to make their consumption and saving decisions may turn out to be Pareto-ineﬃcient. The intuition for this is as follows. Consider an economy where the interest rate is extremely low. In such a situation, young people have to be very frugal in order to make sure that they have suﬃcient retirement income when they are old. But when they are old, the young people of the next generation will face the same problem: as the interest rate is so low, they will have to be very careful not to consume too much in order to have a decent retirement income later on. In such an economy, where an extremely low rate of return on savings makes it very diﬃcult to amass suﬃcient retirement income, everybody could be made better oﬀ by arranging that the young care for the old, and transfer part of their labor income to the retired generation. The transfers which the young have to pay are then more than oﬀset by the fact that they don’t have to save for their own retirement, as they realize that they in turn will be supported during their retirement by the next generation. (21)
+
+9 Download free eBooks at bookboon.com
+
+The Overlapping Generations Model and the Pension System
+
+Fully funded versus pay-as-you-go pension systems
+
+5. Fully funded versus pay-as-you-go pension systems
+We now examine how pension systems aﬀect the economy. Let us denote the contribution of a young person in period t by dt , and the beneﬁt received by an old person in period t by bt . The intertemporal budget constraint of an individual of generation t then becomes: c1,t + 1 1 c2,t+1 = wt − dt + bt+1 1 + rt+1 1 + rt+1 (22)
+
+A fully funded system In a fully funded pension system, the contributions of the young are invested and returned with interest when they are old: bt+1 = dt (1 + rt+1 ) Substituting in (22) gives then: c1,t + 1 c2,t+1 = wt 1 + rt+1 (24) (23)
+
+which is exactly the same intertemporal budget constraint as in the set-up in section 2 without a pension system. Utility maximization yields then the same consumption decisions as before. Note that the amount which a young person saves in period t is now wt − dt − c1,t . This means that the pension contribution dt is exactly oﬀset by lower private saving. Or in other words: young individuals oﬀset through private savings whatever savings the pension system does on their behalf.
+
+10 Download free eBooks at bookboon.com
+
+The Overlapping Generations Model and the Pension System
+
+Fully funded versus pay-as-you-go pension systems
+
+A pay-as-you-go system In a pay-as-you-go (PAYG) system, the contributions of the young are transfered to the old within the same period. Assume that individual contributions and beneﬁts grow over time at rate g, such that the share of the pension system’s budget in the total economy remains constant. Recall now that there are Lt young individuals in period t, and Lt−1 = Lt /(1 + n) old individuals. As total beneﬁts in period t, bt Lt−1 , must be equal to total contributions in period t, dt Lt , it then follows that: bt = dt (1 + n) (25)
+
+Substituting in (22) and taking into account that dt+1 = dt (1+ g) shows then how the PAYG system aﬀects the intertemporal budget constraint of the individuals: c1,t + 1 (1 + g)(1 + n) c2,t+1 = wt − dt + dt 1 + rt+1 1 + rt+1 (26)
+
+This means that from the point of view of an individual, the rate of return on pension contributions is (1 + g)(1 + n) − 1 (which is approximately equal to g + n). If this is larger than the real interest rate, the PAYG system expands the
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+11 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+The Overlapping Generations Model and the Pension System
+
+Fully funded versus pay-as-you-go pension systems
+
+consumption possibilities set of the individual. This is the case if the economy is dynamically ineﬃcient. It is straightforward to derive how a PAYG system aﬀects the economic equilibrium. Maximizing utility (1) subject to the intertemporal budget constraint (26) gives consumption of young and old invididuals: c1,t = c2,t+1 = 1+ρ (1 + g)(1 + n) wt − dt + dt 2+ρ 1 + rt+1 1 + rt+1 (1 + g)(1 + n) wt − dt + dt 2+ρ 1 + rt+1 (27) (28)
+
+The saving rate is therefore: st = = wt − dt − c1,t wt − dt 1 (1 + ρ)(1 + g)(1 + n) dt 1− 2+ρ 1 + rt+1 wt − dt
+
+(29)
+
+Total savings by the young generation is then given by st (wt − dt )Lt . Note that this is lower than in the benchmark economy of section 2. The ﬁrst reason for this is that the saving rate st is lower: in a PAYG system, individuals expect that the next generation will care for them when they are old, so they face less of an incentive to save for retirement. The second reason is that their disposable income is lower because of the pension contribution dt . We then ﬁnd the aggregate capital stock in a similar way as in section 2: Kt+1 = st [(1 − α)Yt − dt Lt ] = st (1 − α − σ )Yt (30)
+
+where σ = dt Lt /Yt is the share of the pension system’s budget in the total economy. Rewriting in terms of eﬀective labor units and combining with the production function gives then the law of motion of k: kt+1 =
+α st (1 − α − σ )kt (1 + g)(1 + n)
+
+(31)
+
+Comparing with equation (15) shows that for a given value of k, a PAYG system reduces savings, and thus investment, and therefore also the value of k in the next period. As a result, the economy will converge to a steady-state with a lower value of k and y .
+
+12 Download free eBooks at bookboon.com
+
+The Overlapping Generations Model and the Pension System
+
+Shifting from a pay as-you-go to a fully funded system
+
+6. Shifting from a pay as-you-go to a fully funded system
+Suppose that the economy is dynamically eﬃcient, but nevertheless has a PAYG pension system. Even though a fully funded system would be more eﬃcient for this economy, switching from a PAYG pension system to a fully funded system is never a Pareto-improvement. The reason for this is as follows. As the economy is dynamically eﬃcient, the rate of return on pension contributions is higher in a fully funded system than in a PAYG system. Switching from a PAYG system to a fully funded system will therefore make the current (young) generation and all future generations better oﬀ. But the current retirees will be worse oﬀ: when they were young and the economy still had a PAYG system, they expected that they would be supported by the next generation when they eventually retired; but now that they are retired, they discover that the next generation deposits their pension contributions in a fund rather than transfering it to the old. So the current retirees are confronted with a total loss of their pension beneﬁts. The income gain of the current and future generations is thus at the expense of the current retirees. It actually turns out that the present discounted value of the income gain which the current and the future generations enjoy, is precisely equal to the income loss which the current retirees suﬀer. In principle, it is therefore possible to organise an intergenerational redistribution scheme which compensates the old generation for their loss of pension beneﬁts, in such a way that all generations are eventually equally well oﬀ as in the original PAYG system. But it is not possible to do better than that: it is not possible to make some generations better oﬀ without making a generation worse oﬀ. Switching from a PAYG to a fully funded pension system is therefore never Pareto-improving. Formally, the argument runs as follows. Suppose that the economy switches from a PAYG system to a fully funded system in period t. Consider the situation of the young generation in period t and all subsequent generations. Lifetime income of generation s ≥ t in a PAYG system, respectively a fully funded system, is ws − ds + [(1 + g)(1 + n)/(1 + rs+1 )]ds , respectively ws . As the economy is dynamically eﬃcient, switching from a PAYG to a fully funded system implies for generation s a bonus of {1 − [(1 + g)(1 + n)/(1 + rs+1 )]} ds Ls . The old generation in period t, however, loses her pension beneﬁts, which amount to bt Lt−1 . The present discounted value of the extra lifetime income of the current and
+
+13 Download free eBooks at bookboon.com
+
+The Overlapping Generations Model and the Pension System
+
+Shifting from a pay as-you-go to a fully funded system
+
+future generations turns out to be exactly equal to the pension beneﬁts which the current retirees lose: (1 + g)(1 + n) 1 ⎠ ⎝ 1− ds Ls 1 + rs 1 + rs+1 s=t s =t+1 1 ⎠ (1 + g)(1 + n) ⎝ = 1− (1 + g)s−t (1 + n)s−t dt Lt 1 + rs 1 + rs+1 s=t s =t+1 = 1−
+(1+g )(1+n) 1+rt+1 ∞ ∞
+
+⎛
+
+s
+
+⎞
+
+⎛
+
+s
+
+⎞
+
++
+
+(1+g )(1+n) 1+rt+1
+
+−
+
+(1+g )2 (1+n)2 (1+rt+1 )(1+rt+2 )
+
++ · · · dt Lt (32)
+
+= dt Lt = bt Lt−1
+
+Suppose now that the government compensates the current retirees by giving them a lump sum transfer exactly equal to their lost pension beneﬁts, and that the government ﬁnances this lump sum transfer by issuing public debt. Public debt in period t, Bt , is then equal to Bt = bt Lt−1 (33)
+
+The government’s budget constraint implies that the debt issued in period t must be matched by raising taxes T in period t or in subsequent periods:
+∞
+
+⎛ ⎝
+
+Bt =
+s =t
+
+1 ⎠ Ts 1 + rs s =t+1
+
+s
+
+⎞
+
+(34)
+
+From equations (32) and (33) follows that the budget constraint (34) would be satisﬁed if Ts = 1− (1 + g)(1 + n) ds Ls 1 + rs+1 (35)
+
+This ﬁnding can be summarized as follows. Suppose the economy switches from a PAYG pension system to a fully funded pension system, and the current retirees are compensated by lump sum transfers from the government, which are ﬁnanced by extra public debt. Taxing away all the extra income which the current and the future generations enjoy because of the switch to a fully funded pension system, would then be just suﬃcient to service the extra public debt. But in this scheme, all individuals (the current retirees, the current young individuals, and all generations yet to be born) will be ﬁnancially in exactly the same situation as in the initial PAYG system. Of course, it is always possible to make one generation better oﬀ by decreasing their tax payments or, in the case of the current retirees, by increasing the lump sum transfers which they receive. But this would always have to be compensated by higher tax payments by the other generations or
+
+14 Download free eBooks at bookboon.com
+
+The Overlapping Generations Model and the Pension System
+
+Shifting from a pay as-you-go to a fully funded system
+
+lower lump sum transfers for the current retirees. So it is not possible to move the economy to a Pareto-superior situation by switching from a PAYG to a fully funded pension system, even not if the economy is dynamically eﬃcient.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+15 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+The Overlapping Generations Model and the Pension System
+
+Conclusion
+
+7. Conclusion
+This note presented the overlapping generations model, and used the model to analyse fully funded and pay-as-you-go pension systems. Whether a fully funded system is more or less eﬃcient than a PAYG system depends on whether the economy is dynamically eﬃcient or ineﬃcient. However, switching from a PAYG to a fully funded system is never a Pareto-improvement, even not when the economy is dynamically eﬃcient.
+
+1
+
+Note that s is constant over time. This is not a general result, but is a consequence of our choice of a logarithmic utility function. Note the similarity with the law of motion of k in the Solow-model. Note that to a ﬁrst approximation, equation (20) is equivalent to: ∂y ∗ ∂k∗ =
+GR
+
+2 3
+
+g+n
+
+which is the standard condition for the golden rule in the Solow model.
+
+16 Download free eBooks at bookboon.com
+
+The Overlapping Generations Model and the Pension System
+
+References
+
+References
+Diamond, Peter A. (1965), ”National Debt in a Neoclassical Growth Model”, American Economic Review 55, 5(Dec), 1126-1150. Samuelson, Paul A. (1958), ”An Exact Consumption-Loan Model of Interest with or without Social Contrivance of Money”, Journal of Political Economy 66, 6(Dec), 467482.
+
+17 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+

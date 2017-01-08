@@ -1,0 +1,2112 @@
+Financial	Econometrics
+With	Eviews Roman	Kozhan
+
+Download	free	books	at
+
+Roman Kozhan
+
+Financial Econometrics
+
+2 Download free eBooks at bookboon.com
+
+Financial Econometrics – with EViews © 2010 Roman Kozhan & Ventus Publishing ApS ISBN 978-87-7681-427-4
+
+To my wife Nataly
+
+3 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Contents
+
+Contents
+	 1	 1.1 	 1.2 	 1.3 	 1.4 	 2	 2.1 	 2.2 	 2.3 	 3	 3.1 	 3.2 	 3.3 	 Preface Introduction to EViews 6.0 Workfiles in EViews Objects Eviews Functions Programming in Eviews Regression Model Introduction Linear Regression Model Nonlinear Regression Univariate Time Series: Linear Models Introduction Stationarity and Autocorrelations ARMA processes 6 7 8 10 18 22 34 34 34 52 54 54 54 59
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Contents
+
+4	 4.1 	 4.2 	 4.3 	 4.4 	 5	 5.1 	 5.2 	 5.3 	 5.4 	 5.5 	
+
+Stationarity and Unit Roots Tests Introduction Unit Roots tests Stationarity tests Example: Purchasing Power Parity Univariate Time Series: Volatility Models Introduction The ARCH Model The GARCH Model GARCH model estimation GARCH Model Extensions
+
+69 69 69 74 75 80 80 80 83 86 87 95 95 103 117
+
+6	 Multivariate Time Series Analysis 6.1 	 Vector Autoregression Model 6.2 	 Cointegration 	 Bibliography
+
+5 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Preface
+
+Preface
+The aim of this textbook is to provide a step-by-step guide to ﬁnancial econometrics using EViews 6.0 statistical package. It contains brief overviews of econometric concepts, models and data analysis techniques followed by empirical examples of how they can be implemented in EViews. This book is written as a compendium for undergraduate and graduate students in economics and ﬁnance. It also can serve as a guide for researchers and practitioners who desire to use EViews for analysing ﬁnancial data. This book may be used as a textbook companion for graduate level courses in time series analysis, empirical ﬁnance and ﬁnancial econometrics. It is assumed that the reader has a basic background in probability theory and mathematical statistics The material covered in the book includes concepts of linear regression, univariate and multivariate time series modelling and their implementation in EViews. Chapter 1 brieﬂy introduces commands, structure and programming language of the EViews package. Chapter 2 provides an overview of the regression analysis and its inference. Chapters 3 to 5 cover some topics of univariate time series analysis including linear models, GARCH models of volatility, unit root tests. Chapter 6 introduces modelling of multivariate time series.
+
+6
+
+6 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+Chapter 1 Introduction to EViews 6.0
+EViews is a simple, interactive econometrics package which proves many tools used in econometrics. It provides users with several convenient ways of performing analysis including a Windows and a command line interfaces. Many operations that can be implemented using menus may also be entered into the command window, or placed in programs for batch processing. The possibility of using interactive features like windows, buttons and menus makes EViews a user-friendly software. In this chapter we brieﬂy introduce you main features of the language, will show you the use of some important commands which will be used further in this textbook. We will start with the interactive Windows interface and then go into more detailed description about the EViews’ batch processing language and advanced programming features.
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your 7 passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+7 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+1.1
+
+Workﬁles in EViews
+
+EViews’ design allows you to work with various types of data in an intuitive and convenient way. We start with the basic concepts of how to working with datasets using workﬁles, and describing simple methods to get you started on creating and working with workﬁles in EViews. In the majority of cases you start your work in EViews with a workﬁle – a container for EViews objects. Before you perform any tasks with EViews’ objects you ﬁrst have to either create a new workﬁle or to load an existing workﬁle from the disc. In order to create a new workﬁle you need to provide and information about its structure. Select File/New/Workﬁle from the main menu to open the Workﬁle Create dialog. On the left side of the dialog is a combo box for describing the underlying structure of your dataset. You have to choose between three options regarding the structure of your data – the Dated - regular frequency, the Unstructured, and the Balanced Panel settings. Dated - regular frequency is normally used to work with a simple time series data, Balanced Panel is used for a simple panel dataset and Unstructured options is used for all other cases. For the Dated - regular frequency, you may choose among the following options: Annual, Semi-annual, Quarterly, Monthly, Weekly, Daily - 5 day week, Daily - 7 day week and Integer date. EViews will also ask you to enter a Start date and End date for your workﬁle. When you click on OK, EViews will create a regular frequency workﬁle with the speciﬁed number of observations and the associated identiﬁers. The Unstructured data simply uses integer identiﬁers instead of date identiﬁers. You would use this type of workﬁle while performing a crossectional analysis. Under this option you would only need to enter the number of observations. The Balanced Panel entry provides a method of describing a regular frequency panel data structure. Panel data is the term that we use to refer to data containing observations with both a group (cross-section) and time series identiﬁers. This entry may be used when you wish to create a balanced structure in which every crosssection follows the same regular frequency with the same date observations. Under this option you should specify a desired Frequency, a Start and End date, and Number of cross sections. Another method of creating an EViews workﬁle is to open a non-EViews data source and to read the data into an new EViews workﬁle. To open a foreign data source, ﬁrst select File/Open/Foreign Data as Workﬁle. First, EViews will open a series of dialogs asking you to describe and select data to be read. The data will be read into the new workﬁle, which will be resized to ﬁt. If there is a single date series 8
+8 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+in the data, EViews will attempt to restructure the workﬁle using the date series. A typical workﬁle view is given in Figure 1.1.
+Figure 1.1: Workﬁle in EViews
+
+Workﬁles contain the EViews objects and provide you an access to your data and tools for working with this data. Below the titlebar of a workﬁle is a button bar that provides you with easy access to some useful workﬁle operations. These buttons are simply shortcuts to items that may be accessed from the main EViews menu. Below the toolbar are two lines of status information where EViews displays the range of the workﬁle, the current sample (the range of observations that are to be used in calculations), and the display ﬁlter (rule used in choosing a subset of objects to display in the workﬁle window). You may change the range, sample, and ﬁlter by double clicking on these labels and entering the relevant information in the dialog boxes. The contents of your workﬁle page is provided in in the workﬁle directory. You can ﬁnd there all named objects, sorted by name, with an icon showing the object type. Push the Save button on the workﬁle toolbar to save a copy of the workﬁle on disk. You can also save a ﬁle using the File/ Save As or File/Save choices from the main menu. By default, EViews will save your data in the EViews workﬁle format, the extension ".wf1". You may also choose to save the data in your workﬁle in a foreign data format by selecting a diﬀerent format in the combo box. When you click on the Save button, EViews will display a dialog showing the current global default options for saving the data in your workﬁle. You should choose between saving your series data in either Single precision or Double precision. Single precision will create smaller ﬁles on disk, but saves the data with fewer digits of accuracy (7 versus 16). You may also choose to save your data in compressed or non-compressed form. 9
+9 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+1.2
+
+Objects
+
+All information in EViews is stored in objects. Each object consists of a collection of information related to a particular area of analysis. For example, a series object is a collection of information related to a set of observations on a particular variable. An equation object is a collection of information related to the relationship between a collection of variables. Together with the data information, EViews also associates procedures which can be used to process the data. For example, an equation object contains all of the information relevant to an estimated relationship, you can examine results, perform hypothesis and speciﬁcation tests, or generate forecasts at any time. Managing your work is simpliﬁed since only a single object is used to work with an entire collection of data and results. Each object contains various types of information. For example, series, matrix, vector, and scalar objects contain numeric data while equations and systems contain complete information about the speciﬁcation of the equation or system, the estimation results. Graphs and tables contain numeric, text, and formatting information. Since objects contain various kinds of data, you will work with diﬀerent objects in diﬀerent ways.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+10
+10 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+EViews provides you with diﬀerent tools for each object. These tools are views and procedures which often display tables or graphs in the object’s window. Using procedures you can create new objects. For example, equation objects contain procedures for generating new series containing the residuals, ﬁtted values, or forecasts from the estimated equation. You select procedures from the Proc menu and views from the View on the object’s toolbar or from the EViews main menu. There are a number of diﬀerent types of objects, each of which serves a unique function. Most objects are represented by a unique icon which is displayed in the workﬁle window. The basic object icons are:
+Figure 1.2: Object Icons
+
+In order to create an object, create or loaded a workﬁle ﬁrst and then select Object/New Object from the main menu. You will see the New Object dialog box where you can click on the type of object you want to create. For some object types, a second dialog box will open prompting you to describe your object in more detail. For example, if you select Equation, you will see a dialog box prompting you for additional information. Once you have selected your object, you can open it by double clicking anywhere in the highlighted area. If you double click on a single selected object, you will open an object window. If you select multiple graphs or series and double click, a pop-up menu appears, giving you the option of creating and opening new objects (group, equation, VAR, graph) or displaying each of the selected objects in its own window. Note that if you select multiple graphs and double click or select View/Open as One Window, all of the graphs will be merged into a single graph and displayed in a single window. Other multiple item selections are not valid, and will either issue an error or will simply not respond when you double click. When you open an object, EViews will display the view that was displayed the last time the object was opened (if an object has never been opened, EViews will use a default view). The exception to this general rule is for those views that require signiﬁcant computational time. In this latter case, the current view will revert to the default. An alternative method of selecting and opening objects is to "show" the item. Click on the Show button on the toolbar, or select Quick/Show from the menu and 11
+11 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+type in the object name or names. Showing an object works exactly as if you ﬁrst selected the object or objects, and then opened your selection. Object windows are the windows that are displayed when you open an object or object container. An object’s window will contain either a view of the object, or the results of an object procedure. One of the more important features of EViews is that you can display object windows for a number of items at the same time. Let us look again at a typical object window:
+Figure 1.3: Object Window in EViews
+
+Here, we see the series window for RETURNS. At the top of the window there is a toolbar containing a number of buttons that provide easy access to frequently used menu items. These toolbars will vary across objects. There are several buttons that are found on all object toolbars: • View button lets you change the view that is displayed in the object window. The available choices will diﬀer, depending upon the object type. • Proc button provides access to a menu of procedures that are available for the object. • Object button lets you manage your objects. You can store the object on disk, name, delete, copy, or print the object. • Print button lets you print the current view of the object (the window contents). • Name button allows you to name or rename the object. 12
+12 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+• Freeze button creates a new object graph, table, or text object out of the current view. There are two distinct methods of duplicating the information in an object: copying and freezing. If you select Object/Copy from the menu, EViews will create a new untitled object containing an exact copy of the original object. By exact copy, we mean that the new object duplicates all the features of the original (except for the name). It contains all of the views and procedures of the original object and can be used in future analyses just like the original object. You may also copy an object from the workﬁle window. Simply highlight the object and click on Object/Copy Selected or right mouse click and select Object/Copy, then specify the destination name for the object. The second method of copying information from an object is to freeze a view of the object. If you click Object/Freeze Output or press the Freeze button on the object’s toolbar, a table or graph object is created that duplicates the current view of the original object. Freezing the view makes a copy of the view and turns it into an independent object that will remain even if you delete the original object. A frozen view shows a snapshot of the object at the moment you pushed the button. The primary feature of freezing an object is that the tables and graphs created by freezing may be edited for presentations or reports. Frozen views do not change when the workﬁle sample or data change.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+13
+13 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+To delete an object or objects from your workﬁle, select the object or objects in the workﬁle directory and click Delete or Object/Delete Selected on the workﬁle toolbar. Series An series object contains a set of observations on a numeric variable. Associated with each observation in the series is a date or observation label. Note that the series object may only be used to hold numeric data. If you wish to work with alphanumeric data, you should employ alpha series. You can create a numeric series by selecting Object/New Object from the menu, and then to select Series. EViews will open a spreadsheet view of the new series object with all of the observations containing "NA" (the missing value). You may then edit or use expressions to assign values for the series. A second method of creating a series is to generate the series using mathematical expressions. Click on Quick/Generate Series in the main EViews menu, and enter an expression deﬁning the series. Lastly, you may create the series by entering a series command in the command window. Entering an expression of the form: series returns=expression creates a series with the name returns and assigns the expression to each observation. You can edit individual values of the data in a series. First, open the spreadsheet view of the series. Next, make certain that the spreadsheet window is in edit mode (you can use the Edit +/– button on the toolbar to toggle between edit mode and protected mode). To change the value for an observation, select the cell, type in the value, and press ENTER. You can also insert and delete observations in the series. First, click on the cell where you want the new observation to appear. Next, right click and select Insert Obs or Delete Obs from the menu. You will see a dialog asking how many observations you wish to insert or delete at the current position and whether you wish to insert observations in the selected series or in all of the series in the group. If you choose to insert a single observation, EViews will insert a missing value at the appropriate position and push all of the observations down so that the last observation will be lost from the workﬁle. If you wish to preserve this observation, you will have to expand the workﬁle before inserting observations. If you choose to delete an observation, all of the remaining observations will move up, so that you will have a missing value at the end of the workﬁle range. Groups 14
+14 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+A group is a list of series names that provides simultaneous access to all of the elements in the list. With a group, you can refer to sets of variables using a single name. Thus, a set of variables may be analyzed using the group object, rather than each one of the individual series. Once a group is deﬁned, you can use the group name in many places to refer to all of the series contained in the group. You would normally create groups of series when you wish to analyze or examine multiple series at the same time. For example, groups are used in computing correlation matrices, testing for cointegration and estimating a VAR or VEC, and graphing series against one another. There are several ways to create a group. Perhaps the easiest method is to select Object/New Object from the main menu or workﬁle toolbar, click on Group. You should enter the names of the series to be included in the group, separated by spaces, and then click OK. A group window will open showing a spreadsheet view of the group. If you apply an operation to a group, EViews will automatically evaluate the expressions for each observation and display the results as if they were an ordinary series.
+
+15
+15 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+An equivalent method of creating a group is to select Quick/Show, or to click on the Show button on the workﬁle toolbar, and then to enter the list of series, groups and series expressions to be included in the group. You can also create an empty group that may be used for entering new data from the keyboard or pasting data copied from another Windows program. Samples One of the most important concepts in EViews is the sample of observations. The sample is the set of observations in the workﬁle used for performing statistical procedures. Samples may be speciﬁed using ranges of observations and "if conditions" that observations must satisfy to be included. For example, you can tell EViews that you want to work with observations from 1973M1 to 1990M12 and 1995M1 to 20066M12. Or you may want to work with data from 1973M1 to 1978M12 where observations in the Returns series are positive. When you create a workﬁle, the workﬁle sample is set initially to be the entire range of the workﬁle. The workﬁle sample tells EViews what set of observations you wish to use for subsequent operations. You can always determine the current workﬁle sample of observations by looking at the top of your workﬁle window. Here the MYDATA workﬁle consists of 408 observations from January 1973 to December 2006. The current workﬁle sample uses a subset of those 72 observations between 1973M01 and 1978M12 for which the value of the Returns series is positive. There are four ways to set the workﬁle sample: you may click on the Sample button in the workﬁle toolbar, you may double click on the sample string display in the workﬁle window, you can select Proc/Set Sample from the main workﬁle menu, or you may enter a smpl command in the command window. EViews provides special keywords that may make entering sample date pairs easier. First, you can use the keyword @all, to refer to the entire workﬁle range. In the workﬁle above, entering @all in the dialog is equivalent to typing "1973M12006M12". Furthermore, you may use @ﬁrst and @last to refer to the ﬁrst and last observation in the workﬁle. Thus, the three sample speciﬁcations for the above workﬁle: @all @ﬁrst 2006m12 19733m1 @last are identical.
+1
+
+1
+
+You may use the IEEE standard format, “YYYY-MM-DD”, which uses a four-digit year, followed by a dash, a two-digit month, a second dash, and a two-digit day. The presence of a dash in the format means that you must enclose the date in quotes for EViews to accept this format. For example: "1991-01-03" "1995-07-05" will always be interpreted as January 3, 1991 and July
+
+16
+16 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+Sample Commands EViews allows you to add conditions to the sample speciﬁcation. In this case the sample is the intersection of the set of observations deﬁned by the range pairs in the upper window and the set of observations deﬁned by the if conditions. This can be done by typing the expression: smpl 1973m1 1978m12 if returns>0 in the command window. You should see the sample change in the workﬁle window. Sample range elements may contain mathematical expressions to create date oﬀsets. This feature can be particularly useful in setting up a ﬁxed width window of observations. For example, in the regular frequency monthly workﬁle above, the sample string: 1973m1 1973m1+11 deﬁnes a sample that includes the 12 observations in the calendar year beginning in 1973M1. The oﬀsets are perhaps most useful when combined with the special keywords to trim observations from the beginning or end of the sample. For example, to drop the ﬁrst observation in your sample, you may use the sample statement: smpl @ﬁrst+1 @last Accordingly, the following commands generate a cumulative returns series from the price levels one: smpl @ﬁrst @ﬁrst series returns = 0 smpl @ﬁrst+1 @last returns = returns(-1) + log(price) - log(price(-1)) The ﬁrst two commands initialize the cumulative returns series at 0, the last two commands compute them recursively all remaining dates. Later we will see how sample oﬀsets can be used to perform the rolling window estimation. EViews provides you with a method of saving sample information in an object which can then be referred to by name. To create a sample object, select Object/New Object from the main menu or the workﬁle toolbar. When the New Object dialog appears, select Sample and, optionally provide a name. Click on OK and EViews will open the sample object speciﬁcation dialog which you should ﬁll out. The sample object now appears in the workﬁle directory with a double-arrow icon. To declare a sample object using a command, simply issue the sample declaration, followed by the name to be given to the sample object, and then the sample string:
+5, 1995.
+
+17
+17 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+sample mysample 1973m1 1978m12 if returns>0 EViews will create the sample object MYSAMPLE which will use observations between 1973:01 and 1978:12, where the cumulative returns are positive. You may use a previously deﬁned sample object directly to set the workﬁle sample. Simply open a sample object by double clicking on the name or icon. You can set the workﬁle sample using the sample object, by entering the smpl command, followed by the sample object name. For example, the command: smpl mysample will set the workﬁle sample according to the rules contained in the sample object MYSAMPLE.
+
+1.3
+1.3.1
+
+Eviews Functions
+Operators
+
+All of the operators described below may be used in expressions involving series and scalar values. When applied to a series expression, the operation is performed for each observation in the current sample.
+
+18
+
+18 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+Table 1.1: Operators
+Expression + – * /
+∧
+
+Operator Description add, x+y, adds the contents of X and Y subtract, x–y, subtracts the contents of Y from X multiply, x*y, multiplies the contents of X by Y divide, x/y, divides the contents of X by Y raise to the power, x∧ y , raises X to the power of Y greater than, x>y, takes the value 1 if X exceeds Y, and 0 otherwise less than, x<y, takes the value 1 if Y exceeds X, and 0 otherwise equal to, x=y, takes the value 1 if X and Y are equal, and 0 otherwise not equal to, x<>y, takes the value 1 if X and Y are not equal, and 0 if they are equal less than or equal to, x<=y, takes the value 1 if X does not exceed Y, and 0 otherwise greater than or equal to, x>=y, takes the value 1 if Y does not exceed X, and 0 otherwise logical and, x and y, takes the value 1 if both X and Y are nonzero, and 0 otherwise logical or, x or y, takes the value 1 if either X or Y is nonzero, and 0 otherwise
+
+> < = <> <= >= and or
+
+1.3.2
+
+Basic Mathematical Functions
+
+The following functions perform basic mathematical operations. When applied to a series, they return a value for every observation in the current sample. When applied to a matrix object, they return a value for every element of the matrix object.
+Table 1.2: Mathematical Functions
+Function @abs(x) @ceiling(x) @exp(x) @ﬂoor(x) @iﬀ(s,x,y) @inv(x) @log(x) @log10(x) @logx(x,b) @nan(x,y) @round(x) @sqrt(x) absolute value @abs(-3)=3 smallest integer not less than X, @ceiling(2.34)=3 exponential, @exp(1)=2.71813 largest integer not greater than X, @ﬂoor(1.23)=1 returns X if condition S is true; otherwise returns Y reciprocal, @inv(2)=0.5 (For series or scalars only) natural logarithm, @log(2)=0.693... base-10 logarithm base-b logarithm returns X if X<> NA, and Y if X=NA rounds to the nearest integer @round(-97.5)=-98, @round(3.5)=4 square root, @sqrt(9)=3 Function Description
+
+Time Series Functions The following functions facilitate working with time series data.
+
+1.3.3
+
+Statistical functions
+
+These functions compute descriptive statistics for a speciﬁed sample, excluding missing values if necessary. The default sample is the current workﬁle sample. If you are performing these computations on a series and placing the results into a series, 19
+19 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+Table 1.3: Time Series Functions
+Function (-k) (+k) d(x) d(x,n) d(x,n,s) dlog(x) dlog(x,n) dlog(x,n,s) k-lag operator k-lead operator ﬁrst diﬀerence n-th order diﬀerence n-th order diﬀerence with a seasonal diﬀerence at S ﬁrst diﬀerence of the logarithm n-th order diﬀerence of the logarithm n-th order diﬀerence of the logarithm with a seasonal diﬀerence at S Function Description
+
+you can specify a sample as the last argument of the descriptive statistic function, either as a string (in double quotes) or using the name of a sample object.
+Statistical Functions
+Function @cor(x,y[,s]) @cov(x,y[,s]) @inner(x,y[,s]) @obs(x[,s]) @nas(x[,s]) @mean(x[,s]) @median(x[,s]) @min(x[,s]) @max(x[,s]) @quantile(x,q[,s]) @ranks(x[,o,t,s]) @stdev(x[,s]) @var(x[,s]) @skew(x[,s]) @kurt(x[,s]) @sum(x[,s]) @prod(x[,s]) @sumsq(x[,s]) @cumsum(x[,s]) @cumprod(x[,s]) @cummean(x[,s]) @cumstdev(x[,s]) @cumvar(x[,s]) @cumsumsq(x[,s]) @movsum(x,n) @movav(x,n) @movstdev(x,n) @movvar(x,n) @movcov(x,y,n) @movcor(x,y,n) @movsumsq(x,n) correlation between X and Y covariance between X and Y inner product of X and Y number of non-missing observations for X in the current sample number of missing observations for X in the current sample average of the values in X computes the median of the X minimum of the values in X maximum of the values in X q-th quantile of the series X rank the ranking of each observation in X. The order of ranking is set using o: "a" (ascending default) or "d" (descending). Ties are broken according to the setting of t: "i" (ignore), “f” (ﬁrst), "l" (last), "a" (average - default), "r" randomize standard deviation of the values in X variance of the values in X skewness of values in X kurtosis of values in X sum of the values in X product of the values in X sum of the squares of the values in X sum of the values in X from the start of the sample to the current observation product of the values in X from the start of the sample to the current observation mean of the values in X from the start of the sample to the current observation standard deviation of the values in X from the start of the sample to the current observation variance of the values in X from the start of the sample to the current observation sum-of-squares of the values in X from the start of the sample to the current observation n-period backward moving sum of X for the current and previous n-1 observations n-period backward moving average of X for the current and previous n-1 observations n-period backward moving standard deviation of X for the current and previous n-1 observations n-period backward moving variance of X for the current and previous n-1 observations n-period backwards moving covariance between X and Y of the current and previous n-1 observations n-period backwards moving correlation between X and Y of the current and previous n-1 observations n-period backwards sum-of-squares of X for the current and previous observations Function Description
+
+20
+
+20 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+1.3.4
+
+Statistical Distribution Functions
+
+The following set of functions gives you a possibility to compute and use within your analysis values of density functions, cumulative distribution, quantile functions, and random number generators for a variety of statistical distributions.
+Table 1.4: Statistical Distribution Functions
+This tables provides cumulative, density, quantile functions and the random number generator functions respectively for the following distributions
+Distribution Beta β (a, b) Binomial B (n, p) Chi-square χ2 (v ) Exponential E (m) F-distribution F (v 1, v 2) Gamma Γ(b, r) Laplace Log-normal LN (m, s) Negative Binomial N B (n, p) Normal N (0, 1) Poisson P (m) Pareto Student t-distribution t(v ) Uniform U (a, b) Weibull W (m, a) Function Description @cbeta(x,a,b), @dbeta(x,a,b), @qbeta(p,a,b), @rbeta(a,b) @cbinom(x,n,p), @dbinom(x,n,p), @qbinom(s,n,p), @rbinom(n,p) @cchisq(x,v), @dchisq(x,v), @qchisq(p,v), @rchisq(v) @cexp(x,m), @dexp(x,m), @qexp(p,m), @rexp(m) @cfdist(x,v1,v2), @dfdist(x,v1,v2), @qfdist(p,v1,v2), @rfdist(v1,v1) @cgamma(x,b,r), @dgamma(x,b,r), @qgamma(p,b,r), @rgamma(b,r) @claplace(x), @dlaplace(x), @qlaplace(x), @rlaplace @clognorm(x,m,s), @dlognorm(x,m,s), @qlognorm(p,m,s), @rlognorm(m,s) @cnegbin(x,n,p), @dnegbin(x,n,p), @qnegbin(s,n,p), @rnegbin(n,p) @cnorm(x), @dnorm(x), @qnorm(p), @rnorm, nrnd @cpoisson(x,m), @dpoisson(x,m), @qpoisson(p,m), @rpoisson(m) @cpareto(x,k,a), @dpareto(x,k,a), @qpareto(p,k,a), @rpareto(k,a) @ctdist(x,v), @dtdist(x,v), @qtdist(p,v), @rtdist(v) @cunif(x,a,b), @dunif(x,a,b), @qunif(p,a,b), @runif(a,b), rnd @cweib(x,m,a), @dweib(x,m,a), @qweib(p,m,a), @rweib(m,a)
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+21
+21 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+1.4
+
+Programming in Eviews
+
+On addition to the interactive part of the EViews, where you use the menu commands, windows and graphical interface, you can use programming language to perform your analysis. There are two ways of using the EViews batch language – either enter and edit commands in the command window, or create programs. A program is simply a text ﬁle containing EViews commands. Each command in the program will be executed in the order that it appears in the program. Using programs allows you to use looping, conditioning and subroutine processing. In order to create a program ﬁle in EViews, select File/New/Program from the main menu. EViews will open an untitled program window where you can enter your commands. You can save the program by clicking on the Save or Save As button. EViews will add the extension ".PRG" to the name you provide. To load a program previously saved on disk, click on File/Open/Program, navigate to the appropriate directory, and click on the desired name. Alternatively, from the command line, you may type open followed by the full program name, including the ﬁle extension ".prg". If necessary, include the full path to the ﬁle. The entire name should be enclosed in quotations if necessary. A program consists of a one or more lines of text. Since each line of a program corresponds to a single EViews command, simply enter the text for each command and terminate the line by pressing the Enter key. There are several ways to execute a program. The easiest method is to execute your program by pushing the Run button on a program window. The Run dialog opens, where you can enter the program name and supply arguments. You may use the radio buttons to choose between Verbose and Quiet modes. In verbose mode, EViews sends messages to the status line and continuously updates the workﬁle window as objects are created and deleted. Quiet mode suppresses these updates, reducing the time spent writing to the screen. By default, when EViews encounters an error, it will immediately terminate the program and display a message. If you enter a number into the Maximum errors before halting ﬁeld, EViews will continue to execute the program until the maximum number of errors is reached (unless there is a serious error occurred). You may also execute a program by entering the run command, followed by the name of the program ﬁle: run mysp500 or run c:\eviews\myprog Simple Programs The simplest program is just a list of commands. Execution of the program is equivalent to typing the commands one by one into the command window. En22
+22 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+tering commands in the program ﬁle has the advantage that you can save the set of commands for later use, and execute the program repeatedly, making minor modiﬁcations each time. Let us look at a simple example. Create a new program by typing program MYPROG in the command window. In the program window that opens for MYPROG, we are going to enter the commands to create a workﬁle, run a regression, compute residuals and a forecast, make a plot of the forecast, and save the results.
+Figure 1.4: Program Window
+
+1.4.1
+
+Program Variables
+
+Control variables are variables that you can use in place of numerical values in your EViews programs. Once a control variable is assigned a value, you can use it anywhere in a program that you would normally use a number. The name of a control variable starts with an "!" mark. After the "!", the name should be a legal EViews name of 15 characters or fewer. Examples of control variable names are: !q !1 !time You do not need to declare control variables before your refer to them, though you must assign them a value before use. Control variables are assigned in the usual way, with the control variable name on the left of an "=" sign and a numerical value or expression on the right. For example: !x = 7 !time = 12 Once assigned a value, a control variable may appear in an expression. For example: !time = !time + 1 23
+23 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+series returns = log(price) - log(price(-!q)) smpl 1950q1+!i 1960q4+!i Control variables are automatically deleted after a program ﬁnishes. As a result, control variables are not saved when you save the workﬁle. You can save the values of control variables by creating new EViews objects which contain the values of the control variable. For example, the following command: scalar numberx=!q saves the numeric value assigned to the control variables !q into a scalar object numberx. A string variable is a variable whose value is a string of text. A string expression or string is text enclosed in double quotes: "cumulative returns" "3.14159" "ar(1) ar(2) ma(1) ma(2)"
+
+24
+24 Download free eBooks at bookboon.com
+
+.
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+String variables, which only exist during the time that your program is executing, have names that begin with a "%" symbol. The following lines assign values to string variables: %mtvar = "cumulative returns" %armas = "ar(1) ar(2) ma(1) ma(2)" %pi = " 3.14159" You may use strings variables to build up command text, variable names, or other string values. EViews provides a number of operators and functions for manipulating strings. Once assigned a value, a string variable may appear in any expression in place of the underlying string. Here is a quick example where we use string operations to concatenate the contents of three string variables. %str1 = "USD/GBP " %str2 = "cumulative returns" %st3 = %st1 + %st2 In this example %ST 3 is set to the value "USD/GBP cumulative returns". String variables can be assigned to the table object for the output: table1(1,1) = %st3 which is equivalent to entering the command table(1,1) = "USD/GBP cumulative returns" You can use a string variable to refer to a command, or a name, or portion of names indirectly. Suppose, for example, that we assign the string variable %x = "usdgbp" If you enclose a string variable in curly braces ("" and "") EViews will replace the expression with the name or name fragment given by the string value. In this context we refer to the expression "%x" as a replacement variable since the string variable %x is replaced in the command line by the name or names of objects to which the string refers. For example, the program line plot %x would be interpreted by EViews as plot usdgbp Changing the contents of %x to "usdjpy" changes the interpretation of the original line to 25
+25 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+plot usdjpy since the replacement variable uses the name obtained from the new %x. Program arguments are special string variables that are passed to your program when you run the program. Arguments allow you to change the value of string variables every time you run the program. You may use them in any context where a string variable is appropriate. Program arguments will be named %0, %1, %2, and so on. When you run a program that takes arguments, you will also supply the values for the arguments. If you use the Run button or File/Run, you will see a dialog box where you can type in the values of the arguments. If you use the run command, you should list the arguments consecutively after the name of the program. For example, suppose we have a program named RETS containing a command series returns=log(%0)-log(%0(-1)) To run RETS from the command line with %0 = ”U SDGBP ”, enter run rets usdgbp This program creates a time series returns using the usdgbp exchange rate deﬁned or loaded previously in your workﬁle. Alternatively, you can run this program by clicking on the Run button on the program window, or selecting File/Run. In the Run Program dialog box that appears, type the name of the program in the Program name or path ﬁeld and enter the values of the arguments in the Program arguments ﬁeld. Any arguments in your program that are not initialized in the run command or Run Program dialog are treated as blanks. IF Statements There are many situations where you want to execute commands only if some condition is satisﬁed. EViews uses IF and ENDIF, or IF, ELSE, and ENDIF statements to indicate the condition to be met and the commands to be executed. An IF statement starts with the if keyword, followed by an expression for the condition, and then the word then. You may use AND/OR statements in the condition, using parentheses to group parts of the statement as necessary. If the expression is TRUE, all of the commands until the matching endif are executed. If the expression is FALSE, all of these commands are skipped. For example: if !q = 3 then series returns = dlog(USDGBP) endif if !time > 100 and !time < 200 then !age = 1/!time else !age = 0 endif 26
+26 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+The FOR Loop The for loop allows you to repeat a set of commands for diﬀerent values of a control or string variable. The FOR loop begins with a for statement and ends with a next statement. Any number of commands may appear between these two statements. The syntax of the FOR statement diﬀers depending upon whether it uses control variables or string variables. FOR Loops with Control Variables To repeat statements for diﬀerent values of a control variable, the for statement involves setting a control variable equal to an initial value, followed by the word to, and then an ending value. After the ending value you may include the word step followed by a number indicating by how much to change the control variable each time the loop is executed. If you do not include step, the step is assumed to be 1. For example, for !j=1 to 10 vector(10) weights(!j)=returns(!j)/stddev(!j) next The for loop is executed ﬁrst for the initial value, unless that value is already beyond the terminal value. After it is executed for the initial value, the control variable is incremented by step and EViews compares the variable to the limit. If the limit is passed, execution stops.
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+27
+
+27 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+One important use of FOR loops with control variables is to change the sample. If you add a control variable to a date in a smpl command, you will get a new date as many observations forward as the current value of the control variable. Here is a FOR loop that gradually increases the size of the sample and computes an average returns: for !i=1 to 60 smpl 1973m1 1974m1+!i scalar avret!i = @mean(returns) next One other important case where you will use loops with control variables is in accessing elements of a series or matrix objects. For example, !rows=@rows(vec1) vector cumsum1=vec1 for !i=2 to !rows cumsum1(!i)=cumsum1(!i-1)+vec1(!i) next computes the cumulative sum of the elements in the vector vec1 and saves it in the vector cusum1. To access an individual element of a series, you will need to use the @elem function and @otod to get the desired element for !i=2 to !rows cumsum1(!i) = @elem(ser1, @otod(!i)) next The @otod function returns the date associated with the observation index (counting from the beginning of the workﬁle), and the @elem function extracts the series element associated with a given date. You can nest for loops to contain loops within loops. The entire inner for loop is executed for each successive value of the outer for loop. For example: matrix(25,10) xx for !i=1 to 25 for !j=1 to 10 xx(!i,!j)=(!i-1)*10+!j next next FOR Loops with String Variables When you wish to repeat statements for diﬀerent values of a string variable, you can use the FOR loop to let a string variable 28
+28 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+range over a list of string values. Give the name of the string variable followed by the list of values. For example, for %y usdgbp usdjpy series %yrets = dlog(%y) next creates the returns series of two exchange rates series usdgbpret = dlog(usdgbp) series usdjpyret = dlog(usdjpy) You can put multiple string variables in the same for statement – EViews will process the strings in sets. For example: for %y %z usdgbp usdjpy nzdusd audusd equation e%y.ls %y c %z next In this case, the elements of the list are taken in groups of three. The loop is executed two times for the diﬀerent sample pairs: equation eusdgbp.ls usdgbp c usdjpy equation eusdgbp.ls nzdusd c audusd The WHILE Loop In some cases, we wish to repeat a series of commands several times, but only while one or more conditions are satisﬁed. Like the FOR loop, the WHILE loop allows you to repeat commands, but the WHILE loop provides greater ﬂexibility in specifying the required conditions. The WHILE loop begins with a while statement and ends with a wend statement. Any number of commands may appear between the two statements. WHILE loops can be nested. The WHILE statement consists of the while keyword followed by an expression involving a control variable. The expression should have a logical (true or false) value or a numerical value. In the latter case, zero is considered false and any non-zero value is considered true. If the expression is true, the subsequent statements, up to the matching wend, will be executed, and then the procedure is repeated. If the condition is false, EViews will skip the following commands and continue on with the rest of the program following the wend statement. For example: !val = 1 !a = 1 29
+29 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+while !val<10000 and !a<10 smpl 1950q1 1970q1+!a series inc!val = income/!val !val = !val*10 !a = !a+1 wend Unlike a FOR statement, the WHILE statement does not update the control variable used in the test condition. You need to explicitly include a statement inside the loop that changes the control variable, or your loop will never terminate. Use the F1 key to break out of a program which is in an inﬁnite loop. Subroutines A subroutine is a collection of commands that allows you to perform a given task repeatedly, with minor variations, without actually duplicating the commands. You can also use subroutines from one program to perform the same task in other programs. A subroutine starts with the keyword subroutine followed by the name of the routine and any arguments, and ends with the keyword endsub. Any number of commands can appear in between. The simplest type of subroutine has the following form:
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+30
+30 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+subroutine rets series returns = dlog(price) endsub where the keyword subroutine is followed only by the name of the routine. This subroutine has no arguments so that it will behave identically every time it is used. It creates the log-return time series from the existing price levels price. You can use the return command to force EViews to exit from the subroutine at any time. A common use of return is to exit from the subroutine if an unanticipated error is detected. To deﬁne a subroutine with arguments, you start with subroutine, followed by the subroutine name, a left parenthesis, the arguments separated by commas, and ﬁnally a right parenthesis. Each argument is speciﬁed by listing a type of EViews object, followed by the name of the argument. Control variables may be passed by the scalar type and string variables by the string type. For example: subroutine rets1(series r, series p, scalar lg) series r = dlog(p, lg) endsub This subroutine generalizes the example subroutine RETS. Calling RETS1 will ﬁll the series given by the argument R with the log-returns of frequency LG from the series P. So if you set R equal to RETURNS, P equal to PRICES, and LG equal to 1, you will get the equivalent of the subroutine RETS above. Subroutine call Your subroutine deﬁnitions should be placed, in any order, at the beginning of your program. The subroutines are executed by the program using a call statement. For example: subroutine rets series returns = dlog(price) endsub ’ program execution load mywork fetch z call rets Execution of this program begins with the load statement. The subroutine deﬁnition is executed only at the last line when it is "called". Subroutines may call each 31
+31 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+other, or even call themselves. Alternatively, you may wish to place frequently used subroutines in a separate program ﬁle and use an include statement to insert them at the beginning of your program. If, for example, you put the subroutine lines in the ﬁle RETURNS.PRG, then you may put the line: include returns at the top of any other program that needs to call RETS or RETS1. You can use the subroutines in these programs as though they were built-in parts of the EViews programming language. If a subroutine has got arguments, it is executed by using the call keyword call which follows by the name of the subroutine and a list of any argument values you wish to use, enclosed in parentheses and separated by commas. All arguments must be provided in the same order as in the declaration statement. For example: include rets1 load mywork fetch z price series returns call rets1(returns, price, 3) Subroutines work with variables and objects that are either global or local. Global variables refer either to objects which exist in the workﬁle when the subroutine is called, or to the objects that are created in the workﬁle by a subroutine. Global variables remain in the workﬁle when the subroutine ﬁnishes. A local variable is one that has meaning only within the subroutine. Local variables are deleted from the workﬁle once a subroutine ﬁnishes. Global objects may be used and updated directly from within the subroutine. If, however, a global object has the same name as an argument in a subroutine, the variable name will refer to the argument and not to the global variable. Local Subroutines All objects created by a global subroutine will be global and will remain in the workﬁle upon exit from the subroutine. If you include the word local in the deﬁnition of the subroutine, you create a local subroutine. All objects created by a local subroutine will be local and will be removed from the workﬁle upon exit from the subroutine. Local subroutines are most useful when you wish to write a subroutine which creates many temporary objects that you do not want to keep. You may not use or update global objects directly from within the subroutine. The global objects corresponding to arguments may be used and updated by referring to the arguments. All other objects in the subroutine are local 32
+32 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Introduction to EViews 6.0
+
+and will be deleted when the subroutine ﬁnishes. If you want to save results from a local subroutine, you have to explicitly include them in the arguments. Local subroutines can call global subroutines and vice versa. The global subroutine will only have access to the global variables, and the local subroutine will only have access to the local variables, unless information is passed between the routines via arguments.
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering
+
+33
+33
+
+Summer Academy courses
+
+Click on the ad to read more
+
+Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Regression Model
+
+Chapter 2 Regression Model
+2.1 Introduction
+
+This chapter starts with the introduction to a linear regression analysis, estimation and inference methods. Regression analysis is widely used tool in ﬁnancial econometrics. They are used to describe and evaluate the relationship between ﬁnancial variables, perform forecasting tasks. This chapter provides only a short and brief description of main tools used in the regression analysis. More detailed discussion and deeper theoretical background can be found in Greene (2000), Hamilton (1994), Hayashi (2000), Verbeek (2008), Mills (1999), Zivot and Wang (2006).
+
+2.2
+
+Linear Regression Model
+Yi = β1 + β2 X2i + ... + βk Xki + ui = Xi β + ui , i = 1, ..., n, (2.2.1)
+
+Consider the linear regression model
+
+where Xi = [1, X2i , ..., Xki ] is a k × 1 vector of explanatory variables, β = (β1 , ..., βk ) is a k × 1 vector of coeﬃcients, and ui is a random error term. In matrix form the model is expressed as Y = Xβ + u, (2.2.2) where Y and β are n × 1 vectors and X is a n × k matrix. The standard assumptions of the linear regression model are: 1. the linear model (2.2.2) is correctly speciﬁed; 2. the regressors Xi are uncorrelated with the error term u: E [Xi ui ] = 0 for all i = 1, ..., n; 34
+
+34 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Regression Model
+
+3. E [Xi Xi ] = σXX is of full rank k ; 4. ui are independently identically distributed (iid) with mean zero and constant variance σ 2 . Ordinary Least Squares (OLS) estimation is based on minimizing the residual sum of squares RSS . The ﬁtted model is ˆ+u Yi = X i β ˆi , i = 1, ..., n, where ˆ = (X X)−1 X Y β ˆ ˆ i = Yi − X β and u ˆ i = Yi − Y i . An unbiased estimator of the regression variance is ˆ u ˆ u . σ ˆ2 = n −k ˆ are consistent Under the assumptions described above, the OLS estimates β and asymptotically normally distributed. A consistent estimator of the asymptotic variance of the parameters estimator is ˆ =σ var β ˆ 2 (X X) . (2.2.3)
+
+ˆi for individual parameter estimators β ˆi are given Estimated standard errors se β by the square root of the diagonal elements of (2.2.3). , where Goodness of ﬁt is summarized by the R2 of the regression R2 = 1 − RSS T SS
+n
+
+T SS =
+i=1
+
+the dependent variable Y that is explained by the variation of the regressors X. The usual R2 has the undesirable feature of never decreasing as more variables are added to the regression, even if the extra variables are irrelevant. A common way to solve ¯ 2 = 1 − (1 − R2 ) n−1 . the problem is to adjust R2 for degrees of freedom; this gives R n−k ¯ 2 may decrease with the addition of variables with low explanatory The adjusted R power.
+
+¯ Yi − Y
+
+2
+
+. The coeﬃcient R2 measures the percentage of the variation of
+
+2.2.1
+
+Hypothesis testing
+0 H 0 : βj = β j .
+
+Suppose that we need to test the null hypothesis
+
+The OLS test statistic for testing this hypothesis (also called t-statistic) is t= ˆj − β 0 β j ˆj se β 35
+35 Download free eBooks at bookboon.com
+
+,
+
+Financial Econometrics
+
+Regression Model
+
+which is asymptotically distributed N (0, 1) under the null hypothesis. With the ˆj is normally distributed and the additional assumption of iid Gaussian error term, β t-statistic follows Student’s t distribution with n − k degrees of freedom. More general linear restrictions hypotheses of the form H0 : Rβ = r, where R is a ﬁxed m × k matrix of rank m and r is a m × 1 vector, are tested using the Wald statistic ˆ−r ˆ − r R (X X)−1 R Rβ Rβ . F = var [ˆ σ2] Under the null, the Wald statistic is asymptotically distributed χ2 m . Under the Gaussian assumptions of residuals, F/m ∼ Fm,n−k . The statistical signiﬁcance of all of the regressors excluding the intercept is captured by the F-statistic F = R2 /k ESS/(k − 1) , RSS/n − k (1 − R2 )/(n − k )
+
+which is distributed Fk−1,n−k under the null hypothesis that all slope coeﬃcients are zero.
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+36
+36 Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Financial Econometrics
+
+Regression Model
+
+2.2.2
+
+Residual diagnostics
+
+If the classical assumptions of the linear regression model do not hold it may lead to inconsistent, ineﬃcient estimates. There are several residual diagnostic statistics are usually reported along with the regression results to check the validity of the model predictions. Two common problems with the regression assumptions are heteroscedasticity and autocorrelation of the error terms. Heteroscedasticity means that variances of error terms are not constant from observation to observation. Autocorrelation means presence of series correlation between error terms. In both cases, the OLS estimator is unbiased and consistent but not eﬃcient anymore. Moreover, the standard formula for computing the variance of the parameters estimators (2.2.3) is not valid any more which may lead to wrong conclusions. If the variance-covariance matrix of error terms var [u] = σ 2 Ω then ˆ =σ var β ˆ 2 (X X) X ΩX (X X) . One way of obtaining an eﬃcient estimate of the regression parameters is to use ˆGLS = Generalized Least Squares (GLS) method. The GLS estimator is given by β ˆ =σ (X Ω−1 X)−1 X Ω−1 Y with variance var β ˆ 2 (X Ω−1 X). If the matrix Ω is not known, one can use White’s heteroscedasticity consistent estimator of standard errors of the OLS estimators. The matrix
+n
+
+ˆ = var ˆ β
+i=1
+
+−1
+
+n
+
+n
+
+Xi Xi
+i=1
+
+u ˆ2 i Xi Xi
+i=1
+
+−1
+
+Xi Xi
+
+can be used as an estimate of the true variance of the OLS estimator. There are several testing procedures to detect heteroscedasticity. The White test suggest to estimate an auxiliary regression of the squared OLS residuals on a constant and all regressors, their squares and cross products. Under the null hypothesis of homoscedasticity nR2 statistic is asymptotically distributed χ2 (q ), where q is the number of variables in the auxiliary regression minus one. If the value of statistic is large, the null hypothesis of homoscedasticity in residuals is rejected. Another test for heteroscedasticity is Breusch-Godfrey-Pagan test. It suggests u ˆ2 to regress squared residuals from the initial regression scaled by σ ˜2 = i /n on a set of known variables Zt (they also could be regressors but not restricted to). Under 1 ESS from the auxiliary regression follows the null of homoscedasticity, the scaled 2 2 asymptotically χ (p − 1) distribution, where p is a number of auxiliary variables Zt . 37
+37 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Regression Model
+
+The most common diagnostic statistics for presence of autocorrelation based ˆ i is the Durbin-Watson statistic DW . It is deﬁned as on the estimated residuals u
+n
+
+DW =
+
+i=2
+
+(ˆ ui − u ˆi−1 )2
+n i=1
+
+(2.2.4)
+
+u ˆ2 i
+
+For large n the Durbin-Watson statistics can be approximated DW = 2 (1 − ρ ˆ), ˆi−1 . Thus, the range of where ρ ˆ is the estimated correlation between and u ˆi and u values of DW is from 0 to 4. Values of DW around 2 indicate no serial correlation in the error terms, values less than 2 suggest positive serial correlation, and values greater than 2 suggest negative serial correlation. Exact critical values for a general case cannot be tabulated; however, Durbin and Watson (1950) established upper and lower bounds (dU and dL respectively) for the critical values. The testing procedure is as follows: • if DW < dL we reject the null hypothesis of no autocorrelation in favour of positive ﬁrst-order autocorrelation; • if DW > dU we do not reject the null hypothesis The bounds for critical values in the case of negative autocorrelation alternative are 4 − dU and 4 − dL . The values of the bounds can be found in Savin and White (1977); some of the are tabulated in Table 2.1.
+Table 2.1: Lower and Upper bounds for 5% critical values of the Durbin-Watson test
+
+n dL 25 50 75 100 200
+
+k=3
+dU 1.550 1.628 1.680 1.715 1.789 dL 1.206 1.462 1.571 1.634 1.748
+
+Number of regressors k=5 k=7
+dU 1.767 1.721 1.739 1.758 1.810 dL 0.868 1.291 1.458 1.550 1.707 dU 2.012 1.822 1.801 1.803 1.831 dL 1.038 1.378 1.515 1.592 1.728
+
+k=9
+dU 2.280 1.930 1.867 1.850 1.852 0.702 1.201 1.399 1.506 1.686
+
+The Breusch-Godfrey test for autocorrelation considers the regression of the ˆi−1 . This auxiliary regression produces an estimate OLS residuals u ˆi upon its lad u for the ﬁrst-order autocorrelation coeﬃcient ρ ˆ and provides a standard error to this 38
+38 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Regression Model
+
+estimate. In general case the test is easily extended to higher orders of autocorrelation by including additional lags of the residual. Testing the null hypothesis of no autocorrelation is equivalent to testing the signiﬁcance of the auxiliary regression. Another common diagnostic for serial correlation is the Ljung-Box modiﬁed Q statistic. The Q-statistic at lag q is a test statistic for the null hypothesis of no autocorrelation up to order q and is computed as: Q = n(n + 2) ρ ˆ2 j ∼ χ2 q, n − j j =1
+q
+
+where ρ ˆj is the j -th autocorrelation. The most often used diagnostic statistic to test for normality of the residuals is the Jarque-Bera test statistics. It measures the diﬀerence of the skewness and kurtosis of the series with those from the normal distribution. The statistic is computed as: (K − 3)2 n S2 + ∼ χ2 JB = 2, 6 4 where S is the skewness, and K is the kurtosis. We reject the null hypothesis of normality if a Jarque-Bera statistic exceeds the corresponding critical value.
+
+AXA Global Graduate Program
+Find out more and apply
+
+39
+39 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Regression Model
+
+2.2.3
+
+Example: Factor Model
+
+Fama and French (1993) suggested a three-factor model to explain the expected stock return premium required by investors. The three factors are • The excess return of the market portfolio (Rmt ˘rf t ); • The diﬀerence between the expected returns on portfolios of small and large ﬁrms (SM Bt ); the small and large stock portfolios include all stocks with market capitalization in the lower and upper deciles of the sample median; • The diﬀerence between the expected returns on portfolios of stocks with high and low book-to-market ratios (HM Lt ). Thus, the expected excess return of stock i can be represented as Rit − rf t = β0 + β1 (Rit − rf t ) + β2 SM Bt + β3 HM Lt + ut (2.2.5)
+
+As an example we consider monthly returns on IBM stocks for the period January 1990 to September 2007. This data with Fama-French factors is available as IBM1.xls. Variables in the data sets are • ibm – monthly returns on IBM stocks; • M kt – monthly returns on the market index; • rf – monthly rate of the risk-free rate; • SM B and HM L – Fama-French size and book-to-market risk factors, respectively. In order to estimate the relation (2.2.5) we have to construct excess returns on IBM stocks and market portfolio. In EViews they can be created using series ibm_ex=ibm-rf series Mkt_ex=Mkt-rf There are two ways of estimating linear regression in EViews. The ﬁrst one, and more powerful, is through the main menu Quick/Estimate Equation. In the Equation speciﬁcation window type the equation to be estimated. Using arithmetic operation we can specify the equation as ibm_ex=C(1)+C(2)*Mkt_ex+C(3)*SMB+C(4)*HML Note that coeﬃcients of the equation should always be in the form C(1), C(2), etc. However, if the model is linear, it is more common to omit operation and coeﬃcients signs and write 40
+40 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Regression Model
+
+ibm_ex C Mkt_ex SMB HML Note, that in the latter speciﬁcation the dependent variable should be on the ﬁrst place. The term C indicates that we are estimating the model with intercept; if it is omitted, the regression will be estimated without the intercept term.
+
+Figure 2.1: Regression estimation dialog window
+
+In the Estimated setting window make sure LS – Least Squares (NLS and ARMA) is chosen. The Sample window allows to estimate the model for diﬀerent subsamples. This option subsample is speciﬁed in the same way as in the Sample object. Press OK and the regression output appears on the screen. Another way of estimating a linear regression model is through the command line. To create an equation object use the declaration command equation following by a name of the object and the estimation type command (ls in our case stands for least squares) separated by the dot. Finally one should specify the model in the same way as above equation ibmeq.ls ibm_ex C Mkt_ex SMB HML Estimation Output The regression estimation output looks as follows The estimated coeﬃcients of the model are given in the column Coeﬃcients (the coeﬃcient in front of C denote estimate of the intercept term). Slope coeﬃcients denote the sensitivities of the returns on the stock to the three factors and show the impact of systematic factors on returns. In column t-statistic, the value of the test statistic is provided to test that the hypothesis βi = 0. All the coeﬃcients are highly statistically signiﬁcant as indicated by low p-values (column Prob). The 41
+41 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Regression Model
+
+Figure 2.2: Regression estimation output
+
+overall signiﬁcance of the regression is reﬂected in the value of F-statistic which is high enough to reject the null hypothesis of insigniﬁcance of all slope coeﬃcients (p-value is given in Prob (F-statistic).
+
+42
+
+42 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Regression Model
+
+By estimating the regression model, EViews produces an object Equation, which can be saved and used later on (press Name button in the top of the equation window). As each object in EViews, Equation can be represented in diﬀerent views. View/Representation view contains the equation speciﬁcation of the model, View/Estimation Output provides the familiar model output. View/Actual, Fitted, Residuals creates various plots of the estimated residual series, as well as ﬁtted values of the dependent variable. Residual series is automatically stored in the series object resid which created by EViews in each workﬁle. Note, that resid contains residuals of the last estimated model and will be lost once the model is reestimated. Thus, residual series has to be saved for further use, if necessary. This can done by copying the residual series into a new object series resid_ibm=resid Now, the residuals from the CAPM regression for IBM stock returns are stored in the new series object resid_ibm. Besides the standard errors of the coeﬃcient estimators, given in the output window, one can retrieve the whole variance-covariance matrix by clicking on View/Covariance Matrix. Residuals Diagnostic Before drawing any conclusions from the estimated regression, it is necessary to perform residual diagnostic to make sure that the assumptions of the classic linear regression model are satisﬁed. This can be done in the section View/Residual Tests. Correlogram - Q-statistic provides values of the Box-Ljung statistics to test the signiﬁcance of of autocorrelations of residuals. The correlogram of the residuals from the factor model is given in Figure ??. Low p-values indicate absence of serial autocorrelations up to lag 10. Another way to test for series correlation is to perform Breusch-Godfrey Test – in EViews this can be done through Serial Correlation LM Test. In the upper panel of the Breusch-Godfrey test output there are two versions of the test statistic which are asymptotically equivalent. Their p-values both conﬁrm the absence of series autocorrelation up to the second order. The no-autocorrelation null hypothesis is also not rejected by the Durbin-Watson test; test statistic is given in the regression output is equal to 1.959 which is in the acceptance region. The option Histogram - Normality Test builds the histogram of the residuals, their descriptive statistics as well as the value of the Jarque-Bera statistic. 43
+43 Download free eBooks at bookboon.com
+
+The proportion of the variance Rit explained by the variability in the market index is the usual regression R2 statistic and 1−R2 is the proportion of the variability of Rit that is due to ﬁrm speciﬁc factors. The proportion of market speciﬁc risk is R2 = 0.37 and the proportion of ﬁrm speciﬁc risk is 1 − R2 = 0.63.
+
+Financial Econometrics
+
+Regression Model
+
+Figure 2.3: Correlogram of residuals from the factor model for IBM stock returns
+
+Notice that the Jarque-Bera statistic indicates that the residuals from the CAPM regression are not normally distributed. Note that even the residuals are not normally distributed, the inference is still correct asymptotically. EViews also provides a number of test to test the hypothesis of homoscedasticity on the regression. Under the option Heteroscedasticity Tests... one can choose among Breush-Godfrey-Pagan, Harvey, Glejser, ARCH and White tests. Three of them – Breush-Godfrey-Pagan, Glejser and White tests reject the hypothesis of homoscedasticity while Harvey and ARCH test do not reject the null. The reason for using several tests is that there are many diﬀerent possible alternatives for the form of heteroscedasticity. All the tests for autocorrelations and heteroscedasticity can be performed through the command line as well. For the Breusch-Godfrey test for serial correlation we should specify the name of the regression equation we need to test and then the command auto(lags) where lags corresponds to the order of autocorrelation being tested. For example ibm_eq.auto(2) will perform the test for second order autocorrelation in the factor model for IBM stock. To perform heteroscedasticity tests we should specify the equation name followed by the command hettest(options). In the options ﬁeld we can specify the test being performed in the following way: type=keyword, where keyword is either "BPG" 44
+
+44 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Regression Model
+
+(Breusch-Pagan-Godfrey - default), "Harvey", "Glejser", "ARCH", or "White". Inclusion of the command c in the options will lead to inclusion of cross-product terms in the auxiliary regression speciﬁcation. Optionally, a list of variables may follow the command to include them into auxiliary regression as well. For example, ibm_eq.hettest(type="White",c) will perform the WHite’s test for heteroscedasticity for the ibm_eq equation. Since the exact form of heteroscedasticity is not known, it is not clear how to perform GLS estimator is this case. EViews allows to compute heteroskedasticity consistent as well as heteroskedasticity and autocorrelation consistent coeﬃcient covariance matrices. In order to compute them, click on Estimate button in the object menu and choose the Options tab. Tick the box in front of Heteroscedasticity consistent coeﬃcient matrix to activate the option. Click OK to reestimate the model.
+
+Figure 2.4: Regression output with White’s heteroscedasticity adjusted standard errors
+
+All coeﬃcients remain still statistically signiﬁcant using White’s heteroscedasticity consistent standard errors. Stability tests Finally, we can test the model for coeﬃcients stability and structural breaks. In EViews this can be performed under the option Views/Stability tests. With Ramsey RESET test for model misspeciﬁcation we cannot reject the null hypothesis of the correct speciﬁcation (p-value 0.3754). We start stability tests with the recursive residuals tests as they can help 45
+45 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Regression Model
+
+us to detect visually potential breakpoints. Click on Recursive Estimates (OLS only) and choose Recursive residuals. EViews will produce the plot of recursively estimated residuals from the model together with their conﬁdence intervals.
+
+Figure 2.5: Recursively estimated residuals and their conﬁdence bounds
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+46
+46 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Regression Model
+
+Majority of the recursive residuals are within their conﬁdence intervals however there are several outliers spraying out their bounds. These are potential points for the structural breaks in the models. The CUSUM test does not indicate any potential breakpoints, however the CUSUM squared test suggests that there may be some breaks in sixties and at the beginning of 2000.
+
+Figure 2.6: CUSUM squared statistics and its conﬁdence bounds
+
+We can go further and test whether there is a structural break at the speciﬁed dates using the Chow test. The p-value of the F-statistic for the Chow test is 0.3090 at the breakpoint January 1961 indicating no structural break at that date. However, if the breakpoint is speciﬁed at January 2000, we reject the null hypothesis of the parameters constancy at 1% signiﬁcance level. Structural breaks may occur in the model due to some misspeciﬁcations. For example, from January 2000 there is one missing factor in the model which plays important role in explaining stock returns. The breakpoint data also corresponds to the dot.com bubble period where the classic factors model structure may change. In order to verify our hypothesis, we can include dummy variable corresponding to the bubble period to eliminate the eﬀect from the model. To create the dummy which is equal to 1 for the period from January 2000 to December 2001, we write series dummy=0 smpl 2000M01 2001M12 series dummy=1 47
+47 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Regression Model
+
+smpl @all Since structural breaks may occur in all the parameters, we include the dummy variable interacting with all regressors. Thus, in the Estimate equation box we have to specify a new model ibm_ex C Mkt_ex SMB HML dummy*Mkt_ex dummy*SMB dummy*HML As a result, the coeﬃcient for interacting term with market portfolio returns and SMB factor is insigniﬁcant, however the interacting term with HML factor is statically signiﬁcant at 10% level.
+
+Figure 2.7: Output of the regression estimation with dummy variables
+
+Correcting of misspeciﬁcation also helps to improve properties of residuals. After introducing dummy variable all tests for heteroscedasticity indicate either no heteroscedasticity or produce some marginally signiﬁcant p-values. Testing linear restrictions EViews makes it possible to test hypothesis on the coeﬃcient restrictions by means of Wald test. Consider testing the joint null hypothesis β1 = 1 and β2 = β3 . This hypothesis imposes two linear restrictions on the parameter vector. In the View option of the object menu choose Coeﬃcient Tests/Wald – Coeﬃcient Restrictions.... Type the restrictions to be tested in the box. Note that coeﬃcients of the model are denoted by C(1), C(2), etc. In order to ﬁnd out the exact notations of the parameters, go to View/Representation. P-value of the Wald test statistic is higher than any reasonable signiﬁcance levels so we do not reject the null hypothesis of the validity of the restrictions. 48
+48 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Regression Model
+
+The Wald test can also be performed in the command line. One should ﬁrst specify the name of equation being tested followed by dot and command wald. Speciﬁcations of the restrictions follows separated by commas. eq1.wald c(2)=0, c(3)=0 Predictions After having estimated the regression, often our aim is to construct forecast of the dependent variable. EViews’ forecast function can be invoked through Forecast option in the menu of the equation object. In the box Forecast name type the name of the variable where the regression forecasts will be stored. EViews will automatically create a new series object with the speciﬁed name and plot the predicted series with two conﬁdence region bounds. Alternatively, one can view the forecast by double-click on the forecast variable. In the menu option View choose Graph where the required graph type can be generated. In order to generate forecasts through the command line, use the command ﬁt followed by a name of a series variable where the forecast values should be stored ibmeq.ﬁt ibm_exf
+
+If it really matters, make it happen – with a career at Siemens.
+
+49
+49 Download free eBooks at bookboon.com
+
+siemens.com/careers
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Regression Model
+
+EViews also allows to generate standard errors of the forecasts along with the predictions themselves. To do this, simply include a name of another variable at the end of the line. ibmeq.ﬁt ibm_exf ibm_exfstd
+
+2.2.4
+
+Programming Example
+
+Note that the factor sensitivities of stock (portfolio) returns represented by the estimated coeﬃcients vary through time. As the model is estimated for alternative sample periods, the estimated coeﬃcients will change. A useful analogy is the value of a stock’s beta that varies through time based on the sample period data used to estimate the security market line. The estimated factor model (2.2.5) for IBM uses all of the data over the 57 year period from January 1950 to September 2007. It is generally thought that coeﬃcients do not stay constant over such a long time period. To take into account this fact while building returns forecast based on the factor model, we can perform rolling window regression. We start with initializing necessary variables (e.g., number of observation in the workﬁle, length of the window). For this purpose we make sure that the current sample is set to the whole range of the data. Type the following commands in a new program window: smpl @all scalar n=@obs(ibm_ex) scalar window=60 Next, we create new object we will be using in the program – series of the forecasts and an equation object. series ibm_exf equation e In the next lines we specify a loop where we reset the current sample to the estimation window and roll it across the data range. For each of the subsamples we estimate the factor model. for !i=0 to n-window-1 smpl @ﬁrst+!i @ﬁrst+!i+window-1 e.ls ibm_ex c Mkt_ex SMB HML Once the model is estimated we reset the sample to a subsample where we want 50
+50 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Regression Model
+
+to forecast returns. Since we build one-step-ahead forecast, our new subsample will be just one observation ahead the estimation window. smpl @ﬁrst+!i+window @ﬁrst+!i+window We generate the forecast using the estimated model. To access the values of the estimated parameters we use EViews function @coefs. In parentheses we specify the order of the parameter – it corresponds to the order of respective variable in the regression model. Note that @coefs contains the values of the last estimated model. Once the equation is re-estimated, the new values of parameters are stored in @coefs. ibm_exf=@coefs(1)+@coefs(2)*Mkt_ex+@coefs(3)*smb+@coefs(4)*hml next Just to tidy up the workﬁle we delete auxiliary variables window and n. delete window n The series ibm_exf contains the generated forecast from the rolling window model. Similarly to the use of @coefs function, one can access other OLS statistics. The speciﬁcations are given in Table 2.2.
+
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+51
+51 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Regression Model
+
+Table 2.2: Equation Data Members
+Data Member @aic @coefcov(i,j) @coefs(i) @dw @f @hq @logl @meandep @ncoef @r2 @rbar2 @regobs @schwarz @sddep @se @ssr @stderrs(i) @tstats(i) @coefcov @coefs @stderrs @tstats Akaike information criterion covariance of coeﬃcient estimates βi and βj i-th coeﬃcient value Durbin-Watson statistic F-statistic Hannan-Quinn information criterion value of the log likelihood function mean of the dependent variable number of estimated coeﬃcients R-squared statistic adjusted R-squared statistic number of observations in regression Schwarz information criterion standard deviation of the dependent variable standard error of the regression sum of squared residuals standard error for coeﬃcient t-statistic value for coeﬃcient matrix containing the coeﬃcient covariance matrix vector of coeﬃcient values vector of standard errors for the coeﬃcients vector of t-statistic values for coeﬃcients Description
+
+2.3
+
+Nonlinear Regression
+
+In many cases the relation between variables can happen to be nonlinear. If such model cannot be transformed into a linear one, we call such model intrinsically nonlinear regression model. We can represent such model in the following way bf Y = F (X, θ) + u, where F is a non-linear function, where Xi = [1, X2i , ..., Xki ] is a k × 1 vector of explanatory variables, and ui is a random error term. The least squares estimation problem to minimize
+n
+
+S (θ ) =
+i−1
+
+(Yi − F (Xi , θ)2
+
+(2.3.1)
+
+becomes non-linear. The ﬁrst order conditions are given by ∂S (θ) ∂F = −2 (Yi − F (Xi , θ)) . ∂θj ∂θ j i−1 52
+52 Download free eBooks at bookboon.com
+n
+
+Financial Econometrics
+
+Regression Model
+
+This gives a set of non-linear normal equations in θ. The non-linear least squares ˆN LS is deﬁned as the minimizing value of (2.3.1). (NLS) estimator θ In EViews, the Nonlinear Least Squares method has the same implementation as the OLS. The only diﬀerence os that the model in the Equation speciﬁcation box should be entered as a mathematical expression instead of a list of variables. for example, y=@exp(c(1)*x)+(c(2)*z+4)∧ 2 Interpretation of the estimation output, residual diagnostic and inference can be performed in the same way as for the OLS regression.
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+53
+
+53 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Univariate Time Series: Linear Models
+
+Chapter 3 Univariate Time Series: Linear Models
+3.1 Introduction
+
+Time series is a sequence of numerical data in which observations are measured at a particular instant of time. The frequency of observation can, for example, be annual, quarterly, monthly, daily, etc. The main goal of time series analysis is to study the dynamics of the data. In this chapter we introduce basic time series models for estimation and forecasting of ﬁnancial data. Further details about theory of time series analysis cab be found in Hamilton (1994), Greene (2000), Enders (2004), Tsay (2002) and others.
+
+3.2
+3.2.1
+
+Stationarity and Autocorrelations
+Stationarity
+
+A time series {Yt } is said to be strictly stationaryif for all integers i, j and all possible integers k the multivariate distribution function of (Yi , Yi+1 , ..., Yi+k−1 ) is identical to (Yj , Yj +1 , ..., Yj +k−1 ). In practice we are very often interested in consequences of this assumption regarding moments of the distribution. If Yi and Yj have identical distribution this implies that their means are identical, thus E [Yt ] does not depend on time and equal to some constant µ. Also, because the pairs (Yi , Yi+s ) and (Yj , Yj +s ) have identical bivariate distributions it follows that the autocovariances depend only on the time lag s. This implies also that Yt have constant variance λ0 = σ 2 . 54 cov (Yt , Yt+s ) = E [(Yt − µ)(Yt+s − µ)] = λs
+
+54 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Univariate Time Series: Linear Models
+
+A stochastic process whose ﬁrst and second order moments (means, variances, and covariances) do not change with time is said to be second order stationary. More precisely, a time series Yt is called stationary if the following conditions are satisﬁed: E [Yt ] = µ, E [(Yt − µ)2 ] = γ0 , E [(Yt − µ)(Yt−s − µ)] = γs for all t Here µ, γ0 , and γk are ﬁnite-valued numbers that do not depend on time t.
+
+3.2.2
+
+Autocorrelation
+
+γs The autocorrelations of a stationary process are deﬁned by ρs = γ . These corre0 lations describe the short-run dynamic relations within the time series, in contrast with the trend, which corresponds to the long-run behaviour of the time series. The simplest possible autocorrelations occur when a stationary process consists of uncorrelated random variables. In this case ρ0 = 1, ρs = 0 for all s > 0. Such time series is called white noise. It is important when modeling ﬁnancial returns to appreciate that if {Yt } is white noise then Yt and Yt+s are not necessarily independent for s > 0. The partial autocorrelation φs at lag s measures the correlation of Yt values that are s periods apart after removing the correlation from the intervening lags. It equals the regression coeﬃcient on Yt−s when Yt is regressed on a constant, Yt−1 ,..., Yt−s . Time series prediction To describe the correlations, we imagine that our observed time series comes from a stationary process that existed before we started observing it. We denote the past of the stationary process Yt by Yt−1 = {Yt−1 , Yt−1 , ...}, where the "dots" mean that there is no clear-cut beginning of this past. We call it also the information set available at time point t − 1. The least squares predictor of Yt based on the past Yt−1 is the function f (Yt−1 ) that minimizes E [(Yt − f (Yt−1 ))2 ]. This predictor is given by the conditional mean f (Yt−1 ) = E [Yt |Yt−1 ] with corresponding (one-step-ahead) prediction errors et = Yt − f (Yt−1 ) = Yt − E [Yt |Yt−1 ]. The process et is also called the innovation process, as it corresponds to the unpredictable movements in Yt . If the observations are jointly normally distributed, then the conditional mean is a linear function of the past observations
+
+E [Yt |Yt−1 ] = a + p1 Yt−1 + p2 Yt−2 + ... Here a models the mean E [Yt ] = µ of the series. From the above equation we get µ = a + pk µ, so that µ = (1 − pk )−1 . As the process is assumed to be stationary, the coeﬃcients pk do not depend on time and the innovation process et is also stationary. It has the following properties: 55
+55 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Univariate Time Series: Linear Models
+
+• E [et ] = 0 for all t
+2 • E [e2 t ] = σ for all t;
+
+• E [es et ] = 0 for all s = t. Here the variance σ 2 is constant over time.
+
+3.2.3
+
+Example: Variance Ratio Test
+
+Very often a predictability of stock returns is linked to the presence of autocorrelation in the returns series. If stock returns form an iid process, then variances of holding period returns should increase in proportion to the length of the holding period. If the log return is constant, then under the rational expectation hypothesis stock prices follows a random walk
+h
+
+pt+h = µ + pt+h−1 + ut+h = µ + µ + pt+h−2 + ut+h + ut+h−1 = pt + µh +
+
+ut+i .
+i=0
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+56
+56 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Univariate Time Series: Linear Models
+
+Variance of the returns forecasts
+h
+
+var [pt+h − pt ] =
+
+2 E u2 t+i = hσ i=0
+
+due to the independence. Alternatively, if log returns are iid, then var [rt,t+h ] = var [rt,t+1 + rt+1,t+2 + ... + rt+h−1,t+h ] = hvar [rt+1 ] The variance-ratio statistic is deﬁned as 2 1 var [rt,t+k ] V Rh = =1+ (h − j )ρj , h var [rt+1 ] h j =1 which should be unity if returns are iid and less than unity under mean reversion. The variance ratio test is set up as H0 : V Rh = 1 and under the null Zh = 2(2h − 1)(h − 1)/3hT V Rh − 1 ∼ N (0, 1).
+h−1
+
+See Cuthbertson and Nitzsche (2004) for more details about the test. Let us consider as an example how to program the variance ratio test in EViews. In this test uses overlapping h-period returns. As an input to the program, the workﬁle should contain a series of log prices p used to test for predictability. We start the program in a usual way. smpl @all !h=2 The variable !h denotes the horizon of the returns forecast. The next we create one period and h period returns. smpl @ﬁrst+1 @last series r=p-p(-1) In order to build the variance ratio statistics we need to have the actual number of observations (returns), mean and variance of returns series. scalar T=@obs(p) scalar mu=@mean(r) scalar var1=@sumsq(r-mu)/(T-1) smpl @ﬁrst+!h @last series rh=p-p(-!h) 57
+57 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Univariate Time Series: Linear Models
+
+scalar varh=@sumsq(rq-!h*mu)/(T-!h+1) We can now compute the variance ratio statistic scalar VRh=varh/(!h*var1) scalar Zh=(VRh-1)/@sqrt((2*(2*!q-1)*(!q-1))/(3*!q*T)) We need a p-value in order to test the hypothesis. Two-sided signiﬁcance level (p-value) can be calculated as a follows scalar Zh_level=2*(1-@cnorm(@abs(Zh))) Finally, we create a table to report the results. We declare a new table VRTEST object with 2 rows and 5 columns, set the width of each column and write the context of each sell down. table(2,5) VRTEST Setcolwidth(VRTEST,1,15) Setcolwidth(VRTEST,2,15) Setcolwidth(VRTEST,3,10) Setcolwidth(VRTEST,4,10) Setcolwidth(VRTEST,5,13) Setcell(VRTEST,1,1,"Nr of obs") Setcell(VRTEST,1,2,"Horizon h") Setcell(VRTEST,1,3,"VRh") Setcell(VRTEST,1,4,"test stat Zh") Setcell(VRTEST,1,5,"p-value") Setcell(VRTEST,2,1,T,0) Setcell(VRTEST,2,2,!h,0) Setcell(VRTEST,2,3,VRh,4) Setcell(VRTEST,2,4,Zh,4) Setcell(VRTEST,2,5,Zh_level,5) delete r mu rh T var1 varh Zh Zh_level next 58
+58 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Univariate Time Series: Linear Models
+
+3.3
+
+ARMA processes
+
+A zero mean white noise process {εt } can be used to construct new processes. We describe two commonly used examples ﬁrst and afterwards their generalization – autoregressive-moving average (ARMA) model.
+
+3.3.1
+
+Autoregressive process
+
+A simple way to model dependence between consecutive observations is Yt = α0 + α1 Yt−1 + εt , where εt is white noise.Such process is called a ﬁrst-order autoregressive process or AR(1) process. It is stationary if the coeﬃcient |α1 | < 1. Since E [εt ] = 0 it follows that under the stationarity condition the mean of the 2 σε α0 2 and variance var[Yy ] = 1− where σε = var[εt ]. An AR(1) process E [Yt ] = 1− α1 α2 1 s process has autocorrelations ρs = α1 for s > 1. A more general representation of the autoregressive process is Yt = α0 + α1 Yt−1 + ... + αp Yt−p + εt and called an autoregressive process of order p, or in short, AR(p).
+
+59
+59 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Univariate Time Series: Linear Models
+
+3.3.2
+
+Moving average process
+
+Consider the process {Yt } deﬁned by Yt = α0 + εt + β1 εt−1 so Yt is a linear function of the present and immediately preceding innovations. This process is called a moving average process of order 1 and denoted by M A(1). 2 2 ) σε . A M A(1) process is always stationary with mean α0 and variance (1 + β1 β1 Its autocorrelations are ρ1 = 1+β 2 and ρs = 0 for s > 1. 1 Comparing two time series we see that a shock εt in M A(1) process aﬀects Yt in two periods (only two positive autocorrelation coeﬃcients), while a shock in the AR(1) process aﬀects all future observations with a decreasing eﬀect. The M A(1) process may be inverted to give εt as an inﬁnite series in Yt , Yt−1 ,..., namely 2 Yt−2 + ... εt = Yt + β1 Yt−1 + β1 that is
+2 Yt−2 − ... + εt . Yt = −β1 Yt−1 − β1
+
+Thus, M A(1) time series can be represented as AR(∞) process. It is possible to invert M A(1) process into a stationary AR process only if |β1 | < 1. This condition is known as invertibility condition. A more general representation of a moving average process is Yt = α0 + εt + β1 εt−1 + ... + βq εt−q and called a moving average process of order q , or in short, M A(q ).
+
+3.3.3
+
+ARMA process
+
+It is possible to combine the autoregressive and moving average speciﬁcation into ARM A(p, q ) model Yt = α1 Yt−1 + ... + αp Yt−p + εt + β1 εt−1 + ... + βq εt−q . (3.3.1)
+
+An ARM A(p, q ) time series can be represented in a shorter form using the notion of lag operator. The lag operator L, is deﬁned as LYt = Yt−1 , the operator which gives the previous value of the series. This operator can also be used to represent the lags of the second or higher orders in the following way: L2 (Yt ) = L(L(Yt )) = L(Yt−1 ) = Yt−2 . 60
+60 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Univariate Time Series: Linear Models
+
+In general ARM A(p, q ) process is A(L)Yt = B (L)εt , where A(L) = 1 − α1 L − α2 L2 − ... − αp Lp B (L) = 1 − β1 L − β2 L2 − ... − βq Lq Stationarity requires the roots of A(L) to lie outside the unit circle, and invertibility places the same condition on the roots of B (L).
+Table 3.1: Correlation patterns
+
+Time series AR(p) M A(q ) ARM A(p, q )
+
+acf Inﬁnite: decays towards zero Finite: disappears after lag q Inﬁnite: damps out
+
+pacf Finite: disappears after lag p Inﬁnite: decays towards zero Inﬁnite: decays towards zero
+
+3.3.4
+
+Estimation of ARMA processes
+
+ARM A(p, q ) models are generally estimated using the technique of maximum likelihood. An often ignored aspect of the maximum likelihood estimation of ARM A(p, q ) models is the treatment of initial values. These initial values are the ﬁrst p values of Yt and q values of εt in (3.3.1). The exact likelihood utilizes the stationary distribution of the initial values in the construction of the likelihood. The conditional likelihood treats the p initial values of Yt as ﬁxed and often sets the q initial values of εt to zero. The exact maximum likelihood estimates (MLE) maximize the exact loglikelihood, and the conditional MLE maximize the conditional log-likelihood. The exact and conditional MLEs are asymptotically equivalent but can diﬀer substantially in small samples, especially for models that are close to being non-stationary or non-invertible. For pure AR models, the conditional MLEs are equivalent to the least squares estimates Model Selection Criteria Before an ARM A(p, q ) may be estimated for a time series Yt , the AR and M A orders p and q must be determined by visually inspecting the autocorrelation and partial autocorrelation functions for Yt . If the autocorrelation function decays smoothly and the partial autocorrelations are zero after one lag, then a ﬁrst-order autoregressive model is appropriate. Alternatively, 61
+61 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Univariate Time Series: Linear Models
+
+if the autocorrelations were zero after one lag and the partial autocorrelations decay slowly towards zero, a ﬁrst-order moving average process would seem appropriate. Alternatively, statistical model selection criteria may be used. The idea is to ﬁt all ARM A(p, q ) models with orders p and q and choose the values of p and q which minimizes model selection criteria: AIC (p, q ) = ln σ ˜ 2 (p, q ) + BIC (p, q ) = ln σ ˜ 2 (p, q ) + 2 (p + q ) T
+
+ln(T ) (p + q ) T where σ ˜ 2 (p, q ) is the MLE of var[εt ] = σ 2 without a degrees of freedom correction from the ARM A(p, q ) model.
+
+3.3.5
+
+Example: ARMA in EViews
+
+We start our example from the simulation of ARMA process and then we take a look at its estimation. In order to illustrate the statements in Table 3.1, let us simulate AR(3), M A(2) and ARM A(3, 2) processes and compute their autocorrelation and partial autocorrelation functions.
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+62
+62 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Univariate Time Series: Linear Models
+
+In particular, we simulate Yt = 0.8Yt−1 + 0.15Yt−2 − 0.1Yt−3 + ut Yt = ut − 0.95ut−1 + 0.3ut−2 Yt = 0.8Yt−1 + 0.15Yt−2 − 0.1Yt−3 + ut − 0.95ut−1 + 0.3ut−2
+
+(3.3.2)
+
+To start with, we generate a series of uncorrelated normally distributed residuals (remember, command nrnd generates standard normally distributed random number) series u=0.5*nrnd Also, we have to generate initial values for the series. Since the highest order of the series is 3, let us generate ﬁrst three values. This can be done by setting sample to only ﬁst three observations and assign zero values to all of three series. smpl @ﬁrst @ﬁrst+2 series y1=0 series y2=0 series y3=0 Now, we set the sample for the rest of observations and generate series according to formulae (3.3.2) smpl @ﬁrst+3 @last y1=0.8*y1(-1)+0.15*y1(-2)-0.1*y1(-3)+u y2=u-0.95*u(-1)+0.3*u(-2) y3=0.8*y1(-1)+0.15*y1(-2)-0.1*y1(-3)+u-0.95*u(-1)+0.3*u(-2) Now, we are ready to build and inspect their correlograms. Remind, that in order to build a correlogram, one should click on the icon if the time series being investigated and choose View/Correlogram... option. The correlograms of three time series is given on Figures ??-??. As we have expected, the autocorrelation function for the ﬁrst series (AR(3)) damps out slowly towards zero while its partial autocorrelation function has spikes at ﬁrst three lags. The autocorrelation function of the second series (M A(2)) has spikes at two ﬁrst lags and disappears afterwards (becomes insigniﬁcant) while the partial autocorrelation function decays oscillating towards zero. Both autocorrelation and partial autocorrelation functions of the third series (ARM A(3, 2)) decay slowly towards zero without any clear spikes. 63
+63 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Univariate Time Series: Linear Models
+
+Figure 3.1: Correlogram of an AR(3) process
+
+Figure 3.2: Correlogram of a M A(2) process
+
+Estimation An estimation of the ARMA processes is performed in EViews in the same way as OLS estimation of a linear regression. The only diﬀerence is in specifying autoregressive and moving average terms in the model. If the series has got autoregressive components, we should include terms ar(1), ar(2), etc, as regressors up to the required order. For example, to estimate the ﬁrst series, type y1 c ar(1) ar(2) ar(3) in the estimation equation box. EViews produces an output given in Figure ?? All coeﬃcients are signiﬁcant as expected and are very close to the true values. 64
+
+64 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Univariate Time Series: Linear Models
+
+Figure 3.3: Correlogram of an ARM A(3, 2) process
+
+Figure 3.4: Estimation output of ARM A process
+
+Inference and tests can be performed in the same way as it was done for the OLS regression. If one needs to estimate the model containing moving average components, ma(1), mar(2), etc terms should be included into the model speciﬁcation. For example, to estimate the second time series, we write y2 c ma(1) ma(2) Autoregressive and moving average terms can be combined to estimate ARMA 65
+
+65 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Univariate Time Series: Linear Models
+
+model. Thus, speciﬁcation of the third series looks like y3 c ar(1) ar(2) ar(3) ma(1) ma(2) After having estimated an ARMA model, one can check whether the estimated coefﬁcients satisfy the stationarity assumptions. This can be done through View/ARMA structure of the Equation object. For the third series we obtain
+
+Figure 3.5: Table of the roots of the estimated ARM A process
+
+It says that our ARMA series is both stationary and invertible.
+
+3.3.6
+
+Programming example
+
+If we had not known the order of the ARMA series, we would need to apply one of the information criteria to select the most appropriate order of the series. The following program illustrates how this can be done using the Akaike criterion. First we need to deﬁne the maximal orders for autoregressive and moving average parts and store them into variables pmax and qmax. Also we need to declare a matrix object aic where the values of the Akaike statistic will be written for each speciﬁcation of the ARMA process. smpl @all scalar pmax=3 scalar qmax=3 matrix(pmax+1,qmax+1) aic 66
+66 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Univariate Time Series: Linear Models
+
+Next, we deﬁne nested loops which will run through all possible ARMA speciﬁcation with orders within the maximal values. for !p=0 to pmax for !q=0 to qmax As the number of lags included in the model increases we add a new AR term in the model. For this purpose we create a new string variable textsf%order containing the model speciﬁcation. if !p=0 then %order="" else for !i=1 to !p %order=%order+" ar("+@str(!i)+")" next endif
+
+The stuff you'll need to make a good living
+
+STUDY. PLAY.
+
+The stuff that makes life worth living
+
+NORWAY. YOUR IDEAL STUDY DESTINATION.
+WWW.STUDYINNORWAY.NO FACEBOOK.COM/STUDYINNORWAY
+
+67
+67 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Univariate Time Series: Linear Models
+
+We perform the same procedure with the MA term speciﬁcation. if !q=0 then %order=%order+"" else for !i=1 to !q %order=%order+" ma("+@str(!i)+")" next endif Once the model speciﬁcation is determined and written in the variable %order we can use a substitution to estimate the corresponding model. equation e.ls y3 c %order %order="" The last command nullify the variable %order for the use in the next step of the loops. Now we can write the value of the Akaike criterion for the current in the table. aic(!p+1,!q+1)=e.@aic next next delete e After the program run, the values of the Akaike criterion are stored in the table aic. Now we can choose that speciﬁcation of the ARMA model which produces the smallest AIC value.
+
+68
+68 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Stationarity and Unit Roots Tests
+
+Chapter 4 Stationarity and Unit Roots Tests
+4.1 Introduction
+
+Many ﬁnancial time series, like exchange rate levels of stock prices appear to be non-stationary. New statistical issues arises when analyzing non-stationary data. Unit root tests are used to detect the presence and form of non-stationarity. This chapter reviews main concepts of non-stationarity of time series and provides a description of some tests for time series stationarity. More information about such tests can be found in Hamilton (1994), Fuller (1996), Enders (2004), Harris (1995), Verbeek (2008). There are two principal methods of detecting nonstationarity: • Visual inspection of the time series graph and its correlogram; • Formal statistical tests of unit roots. We will start with formal testing procedures ﬁrst. A nonstationaty time series is called integrated if it can be transformed by ﬁrst diﬀerencing once or a very few times into a stationary process. The order of integration is the minimum number of of times the series needs to be ﬁrst diﬀerenced to yield a stationary series. An integrated of order 1 time series is denoted by I (1). A stationary time series is said to be integrated of order zero, I (0).
+
+4.2
+
+Unit Roots tests
+Yt = α + βYt−1 + ut ut = ρut−1 + εt 69
+
+Let us consider a time series Yt in the form
+
+(4.2.1)
+
+69 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Stationarity and Unit Roots Tests
+
+Unit root tests are based on testing the null hypothesis that H0 : ρ = 1 against the alternative H1 : ρ < 1. They are called unit root tests because under the null hypothesis the characteristic polynomial has a root equal to unity. On the other hand, stationarity tests take the null hypothesis that Yt is trend stationary.
+
+4.2.1
+
+Dickey-Fuller test
+
+One commonly used test for unit roots is the Dickey-Fuller test. In its simplest form it considers a AR(1) process Yt = ρYt−1 + ut where ut is an IID sequence of random variables. We want to test H0 : ρ = 1 vs. H1 : ρ < 1. Under the null hypothesis Yt is non-stationary (random walk without drift). Under the alternative hypothesis, Yt is a stationary AR(1) process. Due to non-stationarity of Yt under the null, the standard t-statistic does not follow t distribution, not even asymptotically. To test the null hypothesis, it is possible to use ρ ˆ− 1 . DF = s.e (ˆ ρ) Critical values, however, have to be taken from the appropriate distribution, which is under the null hypothesis of non-stationarity is nonstandard. The asymptotic critical values of DF based on computer simulations are given in Fuller (1996). The above test is based on the assumption that the error terms are iid and there is no drift (intercept term) in the model. The limiting distribution will be wrong if these assumptions are false. More general form of the Dickey-Fuller test employs other variants of the time series process. Consider the following three models for the data generating process of Yt : Yt = ρYt−1 + ut Yt = ρYt−1 + α + ut Yt = ρYt−1 + α + βt + ut (4.2.2) (4.2.3) (4.2.4)
+
+with ut being iid process. Dickey and Fuller (1979) derive a limiting distribution for the least squares t-statistic for the null hypothesis that ρ = 1 and F-statistic (Wald statistic) for the null hypotheses of validity of combinations of linear restrictions ρ = 0, α = 0 and β = 0 where the estimated models are from (4.2.2) to (4.2.4) but in each case that (4.2.2) is the true data generating process. 70
+70 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Stationarity and Unit Roots Tests
+
+4.2.2
+
+Augmented Dickey-Fuller test
+
+Dickey and Fuller (1981) show that the limiting distributions and critical values that they obtain under the assumption of iid ut process are also valid when ut is autoregressive, when augmented Dickey-Fuller (ADF) regression is run. Assume the data are generated according to (4.2.2) with ρ = 1 and that ut = θ1 ut−1 + θ2 ut−2 + ... + θp ut−p + εt where εt are iid. Consider the regression ∆Yt = φYt−1 + α + βt + ut and test H0 : φ = 0 versus H1 : φ < 0. Given the equation for ut in (4.2.5) we can write ∆Yt = φYt−1 + α + βt + θ1 ut−1 + θ2 ut−2 + ... + θp ut−p + εt . Since under ρ = 1 we have ut = Yt − Yt−1 , this equation can be rewritten as ∆Yt = φYt−1 + α + βt + θ1 ∆Yt−1 + θ2 ∆Yt−2 + ... + θp ∆t−p + εt . (4.2.6) (4.2.5)
+
+Said and Dickey (1984) provide a generalization of this result for ARM A(p, q ) error terms.
+
+I joined MITAS because I wanted real responsibili� I joined MITAS because I wanted real responsibili�
+
+Maersk.com/Mitas www.discovermitas.com
+
+�e Graduate Programme for Engineers and Geoscientists
+
+� for Engin
+
+M
+
+Real work International Internationa al opportunities �ree wo work or placements
+
+71
+71
+
+Month 16 I was a construction M supervisor ina cons I was the North Sea supe advising and the N he helping foremen advis s solve problems Real work he helping International Internationa al opportunities �ree wo work or placements s solve p
+Click on the ad to read more
+
+Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Stationarity and Unit Roots Tests
+
+Procedure Before using the ADF test we have to decide how many lags of ∆Y to include in the regression. This can be done by sequentially adding lags and testing for serial correlation using Lagrange multiplier tests to archive a white noise residuals. Use F-test to test the null (β, ρ) = (0, 1) against the alternative (β, ρ) = (0, 1). If the null is rejected we know that either β=0 ρ=1 or β=0 ρ=1 or β=0 ρ=1
+
+and the next step is to test ρ = 1 using the t-statistic obtained from the estimating the augmented version of (4.2.4), with the critical values taken from the standard normal tables. Critical values from the standard normal are appropriate when β is non-zero, so that if the null hypothesis is not rejected we can rule out the second and third cases (if β is zero the critical values are non-standard, but will be smaller than the standard normal ones). Thus, if ρ = 1 is accepted we conclude that β = 0 and ρ = 1, so that series has a unit root and a linear trend. If we reject the null then the ﬁrst alternative can be dismissed. This leaves the following two alternatives either β=0 ρ=1 or β=0 ρ=1
+
+In either case ρ is not 1, there is no unit root and conventional test procedures can be used. Thus we may carry out a t test for the null that β = 0. If we cannot reject (β, ρ) = (0, 1) we know that the series has a unit root with no trend but with possible drift. To support the conclusion that ρ = 1 we may test this, given β is assumed to be zero. If we wish to establish whether the series has non-zero drift, further tests will be required. Note that we know (β, ρ) = (0, 1), and so we might carry out the F test. This tests H0 : (α, β, ρ) = (0, 0, 1) vs. (α, β, ρ) = (0, 0, 1). If we cannot reject the null hypothesis, the series is random walk without drift. If we reject it, the series is a random walk with drift. We may wish to support these ﬁndings on the basis of estimating (4.2.3) by setting β at zero as suggested by the various previous tests. If β is actually zero then tests on α and ρ should have greater power once this this restriction is imposed. 72
+72 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Stationarity and Unit Roots Tests
+
+4.2.3
+
+Phillips and Perron tests
+
+The statistics proposed by Phillips and Perron (1988) (Z statistics) arise from their considerations of the limiting distributions of the various Dickey-Fuller statistics when the assumption that ut is an iid process is relaxed. The test regression in the Phillips-Perron test is ∆Yt = φYt−1 + α + βt + ut where ut is a stationary process (which also may be heteroscedastic). The PP tests correct for any serial correlation and heteroscedasticity in the errors ut of the test regression by directly modifying the test statistics. These modiﬁed statistics, denoted Zt and Zφ , are given by Zt = σ ˆ2 ˆ2 λ
+1 2
+
+tφ=0 − 1 2
+
+1 2
+
+ˆ2 − σ ˆ2 λ ˆ2 λ
+
+T s.e (ˆ ρ) 2 σ ˆ ˆ2 − σ λ ˆ2
+
+Zφ = T φ −
+
+ρ) T 2 s.e (ˆ 2 σ ˆ
+
+ˆ 2 are consistent estimates of the variance parameters The terms σ ˆ 2 and λ
+T
+
+σ ˆ = lim T
+T →∞
+
+2
+
+−1 t=1
+
+E u2 t
+
+T
+
+ˆ 2 = lim λ where ST =
+T t=1
+
+T →∞
+
+2 E T −1 ST t=1
+
+ut .
+
+In the Dickey-Fuller speciﬁcation we can use the critical values given by Dickey and Fuller for the various statistics if ut is an iid and we should use Phillips-Perron’s counterparts if it is not iid. An indication as to whether the Z statistic should be used in addition to (or instead of) the ADF tests might be obtained in the diagnostic statistics from the DF and ADF regressions. If normality, autocorrelation or heterogeneity statistics are signiﬁcant, one might adopt the Phillips-Perron approach. Furthermore, power may be adversely aﬀected by misspecifying the lag length in the augmented Dickey-Fuller regression, although it is unclear how far this problem is mitigated by choosing the number of lags using data-based criteria, and the Z-tests have the advantage that this choice does not have to be made. Against this, one should avoid the use of the Z test if the presence of negative moving average components is somehow suspected in the disturbances. 73
+73 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Stationarity and Unit Roots Tests
+
+Under the null hypothesis that φ = 0, the PP Zt and Zφ statistics have the same asymptotic distributions as the ADF t-statistic and normalized bias statistics. One advantage of the PP tests over the ADF tests is that the PP tests are robust to general forms of heteroskedasticity in the error term ut . Another advantage is that the user does not have to specify a lag length for the test regression.
+
+4.3
+
+Stationarity tests
+
+The ADF and PP unit root tests are for the null hypothesis that a time series Yt is I (1). Stationarity tests, on the other hand, are for the null that Yt is I (0). The most commonly used stationarity test, the KPSS test, is due to Kwiatkowski, Phillips, Schmidt and Shin (1992) (KPSS). They derive their test by starting with the model Yt = α + βt + µt + ut µt = µt−1 + εt ,
+2 εt ∼ W N (0, σε )
+
+where ut is I (0) and may be heteroskedastic. 2 = 0, which implies The null hypothesis that Yt is I (0) is formulated as H0 : σε that µt is a constant. Although not directly apparent, this null hypothesis also implies a unit moving average root in the ARMA representation of ∆Yt .
+
+Need help with your dissertation?
+Get in-depth feedback & advice from experts in your topic area. Find out what you can do to improve the quality of your dissertation!
+
+Get Help Now
+
+Go to www.helpmyassignment.co.uk for more info
+
+74
+
+74 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Stationarity and Unit Roots Tests
+
+The KPSS test statistic is the Lagrange multiplier (LM) or score statistic for 2 2 = 0 against the alternative that σε > 0 and is given by testing σε KP SS =
+t j =1
+
+1 ˆ2 ˆ2 /λ S T 2 t=1 t
+
+T
+
+ˆt = where S
+
+ˆ2. u ˆj , u ˆt is the residual of a regression Yt on t and λ t
+
+Critical values from the asymptotic distributions must be obtained by simulation methods. The stationary test is a one-sided right-tailed test so that one rejects the null of stationarity at the α level if the KPSS test statistic is greater than the 100(1 − α) quantile from the appropriate asymptotic distribution.
+
+4.4
+
+Example: Purchasing Power Parity
+
+It is very easy to perform unit root and stationarity tests in EViews. As an example, consider a Purchasing Power Parity condition between two countries: USA and UK. In eﬃcient frictionless markets with internationally tradeable goods, the law of one price should hold. That is, st = p t − p ∗ t, where st is a natural logarithm of the spot exchange rate (price of a foreign currency in units of a domestic one), pt is a logarithm of the aggregate price index in the domestic country and p∗ t is a log price in the foreign country. This condition is referred to as absolute purchasing power parity condition. This condition is usually veriﬁed by testing for non-stationarity of the real exchange rate qt = st + p∗ t − pt . Before we perform this let us look at properties of the constituent series. We consider monthly data for USA and UK over the period from January 1989 to November 2008. Although plots of both consumer price indices and the exchange rate indicate non-stationarity, we perform formal tests for unit root and stationarity. In the dataset PPP.wf1, there are levels of the exchange rate and consumer price indices are given, so we need to create log series to carry out tests. This is done as usually, series lcpi_uk=log(cpi_uk) series lcpi_uk=log(cpi_uk) series lgbp_usd=log(gbp_usd) 75
+75 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Stationarity and Unit Roots Tests
+
+Let us start with the UK consumer price index. We can ﬁnd the option Unit Root Tests... in the View section of the series object menu (double click on lcpi_uk icon). In the Test Type box there is a number of tests available in EViews. We start with Augmented-Dickey-Fuller test. As we are interested in testing for unit roots in levels of log consumer price index, we choose Test for unit root in levels in the next combo-box, and ﬁnally we select testing with both intercept and trend as it is the most general case.
+
+Figure 4.1: Augmented Dickey-Fuller test dialog window
+
+76
+76 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Stationarity and Unit Roots Tests
+
+EViews will also select the most appropriate number of lags of the residuals to be included in the regression using the selected criteria (it is possible to specify a number of lags manually is necessary by ticking User speciﬁed option). Click OK and EViews produces the following output
+
+Figure 4.2: Output for the Augmented Dickey-Fuller test
+
+The absolute value of the t-statistic does not exceed any of the critical values given below so we cannot reject the null hypothesis of the presence of unit root in the series. Unfortunately, EViews provides only the test of the null hypothesis H0 : φ = 0. One can perform more general test by estimating Dickey-Fuller regression (4.2.6). In the command line type the following speciﬁcation ls d(lcpi_uk) c lcpi_uk(-1) @trend(1989M01) to run the ADF regression with intercept and trend component. As you noted, the function @trend allows to include the time trend component that increases by one for each date in the workﬁle. The optional date argument 1989M01 is provided to indicate the starting date for the trend. We did not include any M A components in 77
+77 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Stationarity and Unit Roots Tests
+
+the regression since based on the previous results (see Figure ??) zero lag is optimal according to the Schwartz selection criterium. The regression output is identical with that produced by the Augmented Dickey-Fuller test
+
+Figure 4.3: Output of the regression-based procedure of the Augmented DickeyFuller test
+
+However, the approach enables us to perform the Wald test of linear restrictions and specify the null hypothesis H0 : (β, φ) = (0, 0) (or more general, H0 : (α, β, φ) = (0, 0, 0)).
+
+Figure 4.4: Wald test results for the Augmented Dickey-Fuller test speciﬁcations
+
+The value of Wald test statistic in the case of the null H0 : (β, φ) = (0, 0) is 1.7648; this has to be compared with the critical values tabulated in MacKinnon (1996). As the test statistic is smaller than all of the critical values, we cannot reject the null hypothesis, which conﬁrms non-stationarity of the log consumer price index series. 78
+78 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Stationarity and Unit Roots Tests
+
+This conclusion is also conﬁrmed by other stationarity tests. For example, in Kwiatkowski-Phillips-Schmidt-Shin test (speciﬁcation with the intercept and trend), the test statistic is 0.4257 which is higher than the critical value at 1% signiﬁcance level (which is 0.216). Thus, we reject the null hypothesis of stationarity of the series. If the Purchasing Power Parity condition holds one would expect the real exchange rate qt = st − pt + p∗ t to be stationary and mean reverting. The presence of unit root in the deviations series would indicate the existence of permanent shocks which do not disappear in a long run. We create a series of deviations d=lgbp_usd-lcpi_uk-lcpi_us Augmented Dickey-Fuller does not reject the null hypothesis of the presence of unit root in the deviations series. Also, the value of Wald test statistic is 1.8844 indicates which conﬁrms nonstationarity of the deviations from the Purchasing Power Parity condition.
+
+Brain power
+
+By 2020, wind could provide one-tenth of our planet’s electricity needs. Already today, SKF’s innovative knowhow is crucial to running a large proportion of the world’s wind turbines. Up to 25 % of the generating costs relate to maintenance. These can be reduced dramatically thanks to our systems for on-line condition monitoring and automatic lubrication. We help make it more economical to create cleaner, cheaper energy out of thin air. By sharing our experience, expertise, and creativity, industries can boost performance beyond expectations. Therefore we need the best employees who can meet this challenge!
+
+The Power of Knowledge Engineering
+
+Plug into The Power of Knowledge Engineering. Visit us at www.skf.com/knowledge
+
+79
+79 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Univariate Time Series: Volatility Models
+
+Chapter 5 Univariate Time Series: Volatility Models
+5.1 Introduction
+
+In Chapter 3 we have considered approaches to modelling conditional mean of a univariate time series. However, many areas of ﬁnancial theory are concerned with the second moment of time series – conditional volatility as a proxy for risk. In this chapter we introduce time series models that represent the dynamics of conditional variances. In particular we consider ARCH, GARCH model as well as their extensions. The reader is also referred to Engle (1982), Bollerslev (1986), Nelson (1991), Hamilton (1994), Enders (2004), Zivot and Wang (2006).
+
+5.2
+
+The ARCH Model
+
+Besides a time varying conditional mean of ﬁnancial time series, most of them also exhibit changes in volatility regimes. This is especially applicable to many high frequency macroeconomic and ﬁnancial time series. While modelling such time series, we cannot use homoscedastic models. The simplest way to allow volatility to vary is to model conditional variance using a simple autoregressive (AR) process. Let Yt denote a stationary time series, then Yt can be expressed as its mean plus a white noise: Yt = c + ut (5.2.1) where c is the mean of Yt , and ut is i.i.d. with mean zero. To allow for conditional 80
+
+80 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Univariate Time Series: Volatility Models
+
+heteroscedasticity, assume that
+2 vart−1 [ut ] = σt .
+
+Here vart−1 denotes the variance conditional on information at time t − 1, and is modelled in the following way:
+2 2 = α 0 + α 1 u2 σt t−1 + ... + αp ut−p .
+
+(5.2.2)
+
+In order to show that this speciﬁcation is equivalent to AR representation of squared 2 residuals, note that vart−1 [ut ] = E u2 t−1 = σt since E [ut ] = 0. Thus, equation (5.2.2) can be rewritten as:
+2 2 u2 t = α0 + α1 ut−1 + ... + αp ut−p + εt ,
+
+(5.2.3)
+
+2 where εt = u2 t − Et−1 [ut ] is a zero mean white noise process. The model in (5.2.1) and (5.2.3) is known as the autoregressive conditional heteroscedasticity (ARCH) model of Engle (1982), which is usually referred to as the ARCH (p) model. More generally, ARCH model can be rewritten as
+
+Y t = c + ut u t = σ t ηt
+2 2 σt = α 0 + α 1 u2 t−1 + ... + αp ut−p ,
+
+where ηt is an iid normal random variable.
+
+5.2.1
+
+Example: Simulating an ARCH (p) model in EViews
+
+It is relatively easy to simulate ARCH process in EViews. Let us consider as example the following ARCH (2) model Y t = σ t ηt
+2 2 σt = 3.5 + 0.5Yt2 −1 + 0.48Yt−2
+
+(5.2.4)
+
+with ηt being independent random variables following N (0, 1)distribution. Similarly to ARMA process we need to generate error term process ηt and ﬁrst two initial values of Yt after which the whole process can be simulated. Create a new workﬁle and in the command line enter smpl @all series eta=nrnd smpl @ﬁrst @ﬁrst+1 81
+81 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Univariate Time Series: Volatility Models
+
+series y=@sqrt(3.5/(0.5+0.48))*eta series y=@sqrt(3.5/(0.5+0.48))*eta smpl @ﬁrst+2 @last smpl @ﬁrst+2 @last ∧ y=@sqrt(3.5+0.5*y(-1) 2+0.48*y(-2)∧ 2)*eta y=@sqrt(3.5+0.5*y(-1)∧ 2+0.48*y(-2)∧ 2)*eta smpl @all smpl @all The last statement is included to ensure that we come back the whole data range. Theplot lastof statement is included ensure that come back the whole data range. The the simulated series to is given in the we following ﬁgure. The plot of the simulated series is given in the following ﬁgure.
+
+Figure 5.1: Plot of simulated ARCH process Figure 5.1: Plot of simulated ARCH process
+
+Challenge the way we run
+
+EXPERIENCE THE POWER OF FULL ENGAGEMENT… RUN FASTER. RUN LONGER.. RUN EASIER…
+1349906_A6_4+0.indd 1
+
+82 82
+
+READ MORE & PRE-ORDER TODAY WWW.GAITEYE.COM
+
+82 Download free eBooks at bookboon.com
+
+22-08-2014 12:56:57
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Univariate Time Series: Volatility Models
+
+Visually, the process looks stationary, mean reverting and with zero mean as expected from the equation (5.2.4). Testing for ARCH Eﬀects In order to test for the presence of ARCH eﬀects in the residuals, we can use AR representation of squared residuals in the following way. Based on equation (5.2.2), construct an auxiliary regression ˆ2 ˆ2 u ˆ2 t = α 0 + α1 u t−1 + ... + αp u t−p + εt , (5.2.5)
+
+. The signiﬁcance of parameters αi would indicate the presence of conditional volatility. Under the null hypothesis that there are no ARCH eﬀects: α1 = α2 = ... = αp = 0,
+2 the test statistic LM = T R2 ∼ χ2 p where T is the sample size and R is computed from the regression (5.2.5). a
+
+5.3
+
+The GARCH Model
+
+More general form of conditional volatility is based on ARMA speciﬁcation as an extension of AR process of squared residuals. Bollerslev (1986) introduces GARCH model (which stands for generalized ARCH) where he replaces the AR model in (5.2.2) by:
+p q 2 σt
+
+= α0 +
+i=1
+
+α i u2 t−i
+
++
+j =1
+
+2 βi σt −j ,
+
+(5.3.1)
+
+where the coeﬃcients αi and βj are positive to ensure that the conditional variance 2 is always positive. In order to emphasize the number of lags used in (5.3.1) we σt denote the model by GARCH (p, q ). When q = 0, the GARCH model reduces to the ARCH model. Under the 2 , depends on the squared GARCH (p, q ) model, the conditional variance of ut , σt residuals in the previous p periods, and the conditional variance in the previous q periods. The most commonly used model is a GARCH (1, 1) model with only three parameters in the conditional variance equation. A GARCH model can be expressed as an ARMA model of squared residuals. For example, for a GARCH (1, 1) model:
+2 2 = α 0 + α 1 u2 σt t−1 + β1 σt−1 . 2 Since Et−1 [u2 t ] = σt , the above equation can be rewritten as: 2 u2 t = α0 + (α1 + β1 )ut−1 + εt − β1 εt−1 ,
+
+(5.3.2)
+
+83
+83 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Univariate Time Series: Volatility Models
+
+2 which is an ARM A(1, 1) model. Here εt = u2 t − Et−1 [ut ] is the white noise error term. Given the ARMA representation of the GARCH model, we conclude that stationarity of the GARCH (1, 1) model requires α1 + β1 < 1. The unconditional variance of ut is given by
+
+var[ut ] = E u2 t = α0 /(1 − α1 − β1 ), Indeed, from (5.3.2)
+2 E u2 t = α0 + (α1 + β1 )E ut−1 2 2 and thus E [u2 t ] = α0 + (α1 + β1 )E [ut ] since ut is stationary. For the general GARCH (p, q ) model (5.3.2), the squared residuals u2 t behave like an ARM A(max(p, q ), q ) process. One can identify the orders of the GARCH model using the correlogram of the squared residuals. They will coincide with ARMA orders of the squared residuals of the time series. GARCH Model and Stylized Facts In practice, researchers have uncovered many so-called stylized facts about the volatility of ﬁnancial time series; Bollerslev, Engle and Nelson (1994) give a complete account of these facts. Using the ARMA representation of GARCH models shows that the GARCH model is capable of explaining many of those stylized facts. This section will focus on three important ones: volatility clustering, fat tails, and volatility mean reversion. Other stylized facts are illustrated and explained in later sections. Volatility Clustering Usually the GARCH coeﬃcient β1 is found to be around 0.9 for many weekly or daily ﬁnancial time series. Given this value of β1 , it 2 2 is obvious that large values of σt −1 will be followed by large values of σt , and small 2 2 values of σt −1 will be followed by small values of σt . The same reasoning can be obtained from the ARMA representation in (5.3.2), where large/small changes in 2 u2 t−1 will be followed by large/small changes in σt . Fat Tails It is well known that the distribution of many high frequency ﬁnancial time series usually have fatter tails than a normal distribution. This means that large changes are more often to occur than under a normal distribution. Thus a GARCH model can replicate the fat tails usually observed in ﬁnancial time series. Volatility Mean Reversion Although ﬁnancial markets may experience excessive volatility from time to time, it appears that volatility will eventually settle down to a long run level. The previous subsection showed that the long run variance of ut for the stationary GARCH (1, 1) model is α0 /(1 − α1 − β1 ). In this case, the volatility is always pulled toward this long run level.
+
+84
+84 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Univariate Time Series: Volatility Models
+
+5.3.1
+
+Example: Simulating an GARCH (p, q ) model in EViews
+
+It is slightly trickier to simulate GARCH process than the ARCH one in EViews. Since it is necessary simultaneously to generate Yt and σt processes, we will need to use loop to accomplish it. Therefore, it is more convenient to use program object rather than doing it in the command line. Consider as an example GARCH (2, 1) series
+
+Yt = σ t η t
+2 2 2 σt = 3.5 + 0.5Yt2 −1 + 0.28Yt−2 + 0.2σt−1
+
+(5.3.3)
+
+We start the program with the same commands as in the ARCH case; the only diﬀerence is that we generate a conditional variance process s. smpl @all series eta=nrnd scalar n=@obs(eta) smpl @ﬁrst @ﬁrst+1 series s=3.5/(0.5+0.28+0.2) series y=@sqrt(s)*eta
+
+This e-book is made with
+
+SetaPDF
+
+SETA SIGN
+
+PDF components for PHP developers
+
+www.setasign.com
+85
+85 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Univariate Time Series: Volatility Models
+
+2 The next part of the program creates the loop where both series Yt and σt are generated observation after observation.
+
+for !i=2 to n-2 smpl @ﬁrst+!i @ﬁrst+!i s=3.5+0.5*y(-1)∧ 2+0.28*y(-2)∧ 2+0.2*s(-1) y=@sqrt(s)*eta next smpl @all The graph of the simulated GARCH process is given on Figure ??.
+
+Figure 5.2: Plot of the simulated GARCH process
+
+We can see on the graph a clear eﬀect of volatility clustering. In most cases volatility stays low but there are several spikes with high volatility which persist for a number of periods. Another stylized fact can be seen from the histogram of the simulated observations (click on View/Descriptive Statistic and Tests/Histogram and Stats). Jarque-Bera test strongly rejects the null hypothesis of normality and the kurtosis is extremely high indicating fat tails of the generated distribution.
+
+5.4
+
+GARCH model estimation
+
+This section illustrates how to estimate a GARCH model. Assuming that ut follows normal or Gaussian distribution conditional on past history, the prediction error 86
+86 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Univariate Time Series: Volatility Models
+
+Figure 5.3: Histogram of the simulated GARCH process
+
+decomposition of the log-likelihood function of the GARCH model conditional on initial values is: 1 1 u2 T t 2 − log σt . log L = − log(2π ) − 2 2 2 i=1 2 i=1 σt The unknown model parameters c, αi (i = 0, ..., p) and βj , (j = 1, ..., q ) can be estimated using conditional maximum likelihood estimation (MLE). Details of the maximization are given in Hamilton (1994). Once the MLE estimates of the parameters are found, estimates of the time varying volatility σ2 (t = 1, ..., T ) are also obtained as a side product.
+T T
+
+5.5
+
+GARCH Model Extensions
+
+In many cases, the basic GARCH model (5.3.2) provides a reasonably good model for analyzing ﬁnancial time series and estimating conditional volatility. However, there are some aspects of the model which can be improved so that it can better capture the characteristics and dynamics of a particular time series. In the basic GARCH model, since only squared residuals u2 t−i enter the equation, the signs of the residuals or shocks have no eﬀects on conditional volatility. However, a stylized fact of ﬁnancial volatility is that bad news (negative shocks) tends to have a larger impact on volatility than good news (positive shocks). 87
+
+87 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Univariate Time Series: Volatility Models
+
+5.5.1 5.5.1
+
+2 where ht = log σt . Note that when ut−i is positive, the total eﬀect of ut−i is (1 + 2 where ht = log σt . Note that when ut−i is positive, the total eﬀect of ut−i is (1 + the total eﬀect of ut−i is (1 − γi )|ut−i |. γi )|ut−i |; in contrast, when ut−i is negative, γi )|ut−i |; in contrast, when ut−i is negative, the total eﬀect of ut−i is (1 − γi )|ut−i |. Bad news can have a larger impact on volatility, and the value of γi would be Bad news can have a larger impact on volatility, and the value of γi would be expected to be negative. expected to be negative.
+
+Nelson (1991) proposed the following exponential Nelson (1991) proposed the following exponential allow for leverage eﬀects: allow for leverage eﬀects: p |ut−i | + γi ut−i ht = α0 + p αi |ut−i | + γi ut−i σt−i ht = α0 + i=1 αi σt−i i=1
+
+EGARCH Model EGARCH Model
+
+GARCH (EGARCH) model to GARCH (EGARCH) model to + +
+q q
+
+i=1 ht−j , i=1
+
+ht−j ,
+
+5.5.2 5.5.2
+
+Another GARCH variant that is capable of modeling leverage eﬀects is the threshold Another GARCH variant that is capable of modeling leverage eﬀects is the threshold GARCH (TGARCH) model, which has the following form: GARCH (TGARCH) model, which has the following form:
+2 σt 2 σt
+
+TGARCH Model TGARCH Model
+
+= α0 + = α0 +
+
+α i u2 t 2−i i=1 αi ut−i i=1 St−i = St−i =
+
+p p
+
++ +
+
+αi St−i u2 t 2−i i=1 αi St−i ut−i i=1 1 1 0 0 ut−i ut−i ut −i ut−i <0 <0 . ≥0 . ≥0
+
+p p
+
++ +
+
+2 βj σt −j , 2 j =1 βj σt−j , j =1
+
+q q
+
+where where
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+88 88
+
+88 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Univariate Time Series: Volatility Models
+
+That is, depending on whether ut−i is above or below the threshold value of 2 zero, u2 t−i has diﬀerent eﬀects on the conditional variance σt : when ut−i is positive, the total eﬀects are given by αi u2 t−i ; when ut−i is negative, the total eﬀects are given 2 by (αi + γi )ut−i . So one would expect γi to be positive for bad news to have larger impacts.
+
+5.5.3
+
+PGARCH Model
+
+The basic GARCH model can be also extended to allow for leverage eﬀects. This is made possible by treating the basic GARCH model as a special case of the power GARCH (PGARCH) model proposed by Ding and (1993) (1993):
+p d σt q
+
+= α0 +
+i=1
+
+αi (|ut−i | + γi ut−i ) +
+
+d
+
+j =1
+
+d βj σt −j ,
+
+(5.5.1)
+
+where d is a positive exponent, and γi denotes the coeﬃcient of leverage eﬀects. Note that when d = 2, (5.5.1) reduces to the basic GARCH model with leverage eﬀects. Two Components Model The GARCH model can be used to model mean reversion in conditional volatility. Recall the mean reverting form of the basic GARCH (1, 1) model: ¯ 2 ) = (α1 + β1 )(u2 ¯ 2 ) + εt − β1 εt−1 , ( u2 t −σ t−1 − σ where σ ¯ 2 = α0 /(1 − α1 − β1 ) is the unconditional long run level of volatility which is constant over time. Engle and Lee (1999) propose a model with time varying long run volatility level. The general form of the two components model is:
+2 = qt + st σt d qt sd t
+
+(5.5.2)
+d
+
+= =
+
+d α1 |ut−1 | + β1 qt −1 d α0 + α2 |ut−1 | + β2 sd t−1 .
+
+(5.5.3) (5.5.4)
+
+The long run component qt follows a highly persistent P GARCH (1, 1) model, and the transitory component st follows another P GARCH (1, 1) model. GARCH-in-the-Mean Model In ﬁnancial investment, high risk is often expected to lead to high returns. Although modern capital asset pricing theory does not imply such a simple relationship, it does suggest there are some interactions between expected returns and risk as measured by volatility. Engle, Lilien and Robins (1987) propose to extend the basic GARCH model so that the conditional volatility can generate a risk premium which is part of the expected returns. This 89
+89 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Univariate Time Series: Volatility Models
+
+extended GARCH model is often referred to as GARCH-in-the-mean (GARCH-M) model. The GARCH-M model extends the conditional mean equation (5.2.1) as follows: Yt = c + αg (σt ) + ut , where g (·) can be an arbitrary function of volatility σt . Exogenous Variables in Conditional Mean So far the conditional mean equation has been restricted to a constant when considering GARCH models, except for the GARCH-M model where volatility was allowed to enter the mean equation as an explanatory variable. It is possible to add ARMA terms as well as exogenous explanatory variables in the conditional mean equation. A more general form for the conditional mean equation is Y t = c + δ X t + ut where Xt is a k × 1 vector of regressors and δ is a vector of coeﬃcients. Also, one can add explanatory variables into the conditional variance formula which may have impacts on conditional volatility. Error Distributions In all the examples illustrated so far, a normal error distribution has been exclusively used. However, given the well known fat tails in ﬁnancial time series, it may be more desirable to use a distribution which has fatter tails than the normal distribution. EViews allows two fat-tailed error distributions for ﬁtting GARCH models: the Student t distribution and the generalized error distribution.
+
+5.5.4
+
+Prediction
+
+GARCH models are frequently used to forecast volatility of return. It is straightforward to forecast the conditional variance from an ARCH model. Assuming that the model parameters are known, the one-period ahead forecast is
+2 2 2 σt +1|t = α0 + α1 ut + ... + αp ut−p+1
+
+Forecasting the conditional volatility for h periods ahead can be done by a recursion
+2 2 2 σt +h|t = α0 + α1 σt+h−1|t + ... + αp σt+h−p , 2 2 where σt +j = ut+j for j ≤ 0. The h-period ahead variance forecast for a GARCH (1, 1) model is 2 σt +1|t h−1 i=0 2 (α1 + β1 )i + (α1 + β1 )h σt .
+
+= α0
+
+90
+90 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Univariate Time Series: Volatility Models
+
+5.5.5
+
+Example: GARCH Estimation
+
+As an example of GARCH model estimation in EViews we consider a series of 2 minutes exchange rates between the Euro and the British Pound for 21 August 2007 between 7:00 and 16:00 GMT. The data is contained in the ﬁle EURGBP.wf1. Plot of the EUR/GBP returns is given in Figure ??.
+
+Figure 5.4: 2 minutes EUR/GBP returns on 21 August 2007
+
+91
+91 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Univariate Time Series: Volatility Models
+
+We can clearly see periods of high and low volatility of the returns, thus an ARCH type model can be appropriate to model volatility. Let us ﬁrst estimate an OLS regression of returns on a constant term. This will give us an opportunity to test for the presence of ARCH eﬀect more formally. Having typed ls r_eurgbp c in the command line and pressed Enter, go to View/Residual Tests/ Heteroscedasticity Tests... in the equation object window and choose ARCH option there. The test result is given in Figure ??
+
+Figure 5.5: ARCH test results
+
+The p-value of the test is very small which rejects the null hypothesis of homoscedasticity of residuals in favor of ARCH alternative. Thus, based on this result we decide to estimate regression with ARCH speciﬁcation. Go to Quick/Estimate Equation option of the main workﬁle menu and specify the model as you were specifying it for the OLS regression. That is, type r_eurusd c in the Equation Speciﬁcation box. Now, in the Method ﬁeld, choose ARCH – Autoregressive Conditional Heteroscedasticity. This will open you more option for ARCH model speciﬁcation. In the ARCH-M we can indicate whether we want to include ARCH -in-mean term in the equation and, if yes, whether variance or standard deviation should enter it. In the Variance and distribution speciﬁcation part we can select between simple ARCH/GARCH/TARCH model, EGARCH, PGARCH 92
+92 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Univariate Time Series: Volatility Models
+
+or two component GARCH model. We will stay with the simplest ﬁrst option. In the Order ﬁeld we should write orders of ARCH and GARCH terms in the variance equation. Let us specify GARCH(3,3) model, so enter 3 and 3 respectively in each of the box. If we do not want to include GARCH terms, simply put 0 in front of the GARCH ﬁeld. Variance regressors box will be useful if we want to include some exogenous variables in the variance equation. Errors distribution box allows us to choose between Gaussian and Student - distributions of the error term. The model estimation output is given in Figure ??.
+
+Figure 5.6: GARCH estimation output
+
+The resid terms of the output correspond to αi coeﬃcients (ARCH terms) and GARCH terms correspond to βi coeﬃcients in (5.3.2). We can see that α3 and β3 coeﬃcients are statistically signiﬁcant and α2 is on a border line of signiﬁcance. In View/Representation section one can ﬁnd the variance speciﬁcation. Also EViews allow to plot both standardized and on-standardized residual plots (in Actual, Fitted, Residuals), test for parameter constancy, linear restriction, build correlogram of residuals and squared residuals in the same way as it is done for the OLS regression. In order to estimate the above model using the command line one should type 93
+93 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Univariate Time Series: Volatility Models
+
+equation e.arch(3,3) r_eurgbp c where the term arch indicates that an ARCH estimation method should be used, order of the ARCH and GARCH terms follow in parentheses. Then you should specify the conditional mean equation as it is done on the least squares model case (the dependent variable should be in the ﬁrst place).
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+94
+94 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Multivariate Time Series Analysis
+
+Chapter 6 Multivariate Time Series Analysis
+6.0.1 Introduction
+
+Multivariate analysis investigates dependence and interactions among a set of variables in multi-values processes. One of the most powerful method of analyzing multivariate time series is the vector autoregression model. It is a natural extension of the univariate autoregressive model to the multivariate case. In this chapter we cover concepts of VAR modelling, non-stationary multivariate time series and cointegration. More detailed discussion can be found in Hamilton (1994), Harris (1995), Enders (2004), Tsay (2002), Zivot and Wang (2006).
+
+6.1
+
+Vector Autoregression Model
+
+Let Yt = (Y1,t , Y2,t , ..., Yn,t ) denote an k × 1 vector of time series variables. The basic vector autoregressive model of order p, V AR(p), is Yt = c + Π1 Yt−1 + Π2 Yt−2 + ... + Πp Yt−p + ut , t = 1, ..., T, (6.1.1)
+
+where Πi are k × k matrices of coeﬃcients, c is a k × 1 vector of constants and ut is an k × 1 unobservable zero mean white noise vector process with covariance matrix Σ. If we consider a special case of two dimensional vector Y, the V AR consists of two equation (also called a bivariate V AR) Yt = + Y1,t Y2,t = c1 c2 + Y1,t−2 Y2,t−2 95
+1 1 π11 π12 1 1 π21 π22
+
+Y1,t−1 Y2,t−1 (6.1.2)
+
+2 2 π11 π12 2 2 π21 π22
+
++
+
+u1,t u2,t
+
+95 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Multivariate Time Series Analysis
+
+with cov (u1,t , u2,s ) = σ12 for t = s. As in the univariate case with AR processes, we can use the lag operator to represent V AR(p) Π(L)Yt = c + ut , where Π(L) = In − Π1 L − ... − Πp Lp . If we impose stationarity on Yt in (6.1.2), the unconditional expected value is given by µ = (In − Π1 − ... − Πp )−1 c. Very often other deterministic terms or stochastic exogenous variables may be included into the VAR speciﬁcation to represent. More general form of the V AR(p) model is Yt = Π1 Yt−1 + Π2 Yt−2 + ... + Πp Yt−p + ΓXt + ut , where Xt represents an m × 1 matrix of exogenous or deterministic variables, and Γ is a matrix of parameters.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+96
+96 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Multivariate Time Series Analysis
+
+6.1.1
+
+Estimation of VARs and Inference on coeﬃcients
+
+Since the V AR(p) may be written as a system of equations with the same sets of explanatory variables, its coeﬃcients can be eﬃciently and consistently estimated by estimating each of the components using the OLS method (see Hamilton (1994)). Under standard assumptions regarding the behavior of stationary and ergodic VAR models (see Hamilton (1994) the estimators of the coeﬃcients are asymptotically normally distributed. ˆ i is asymptotically normally distributed, so asymptotically An element of Π valid t-tests on individual coeﬃcients may be constructed in the usual way (see Chapter 2). More general linear hypotheses can also be tested using the Wald statistic. Lag Length Selection A reasonable strategy how to determine the lag length of the VAR model is to ﬁt V AR(p) models with diﬀerent orders p = 0, ..., pmax and choose the value of p which minimizes some model selection criteria. Model selection criteria for V AR(p) could be based on Akaike (AIC), Schwarz-Bayesian (BIC) and Hannan-Quinn (HQ) information criteria: ¯ p)| + 2 pn2 AIC (p) = ln |Σ( T ln ¯ p)| + T pn2 BIC (p) = ln |Σ( T 2 ln ln T 2 ¯ p)| + pn HQ(p) = ln |Σ( T Forecasting We can use VAR model to forecast times series in a similar way to forecasting from a univariate AR model. The one-period-ahead forecast based on information available at time T is YT +1|T = c + Π1 YT + ... + Πp YT −p+1 while h-step forecast is YT +h|T = c + Π1 YT + ... + Πp YT −p+1 , where YT +j |T = YT +j for j < 0. The h-step forecast errors may be expressed as YT +h − YT +h|T =
+h−1 s=0
+
+Ψs εT +h−s ,
+
+where the matrices Ψs are determined by recursive substitution Ψs =
+p−1 j =1
+
+Ψs−j Πj
+
+(6.1.3)
+
+97
+97 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Multivariate Time Series Analysis
+
+with Ψ0 = In and Πj = 0 for j > p. The forecasts are unbiased since all of the forecast errors have expectation zero and the MSE matrix for Yt+h|T is Σ(h) = M SE YT +h − YT +h|T =
+h−1 s=0
+
+Ψs ΣΨs .
+
+The h-step forecast in the case of estimated parameters is ˆ T +h|T = Π ˆ T +h−1|T + ... + Π ˆ T +h−p|T , ˆ 1Y ˆ pY Y ˆ j are the estimated matrices of parameters. The h-step forecast error is now where Π ˆ T +h|T = YT +h − Y
+h−1 s=0
+
+ˆ T +h|T Ψs εT +h−s + Yt+h − Y
+
+The estimate of the MSE matrix of the h-step forecast is then ˆ h) = Σ(
+s j =1 h−1 s=0
+
+ˆ sΣ ˆΨ ˆs Ψ
+
+with Ψs =
+
+ˆ s−j Π ˆ j. Ψ
+
+6.1.2
+
+Granger Causality
+
+One of the main uses of VAR models is forecasting. The structure of the VAR model provides information about a variable’s or a group of variables’ forecasting ability for other variables. The following intuitive notion of a variable’s forecasting ability is due to Granger (1969). If a variable, or group of variables, Y1 is found to be helpful for predicting another variable, or group of variables, Y2 then Y1 is said to Granger-cause Y2 ; otherwise it is said to fail to Granger-cause Y2 . Formally, Y1 fails to Granger-cause Y2 if for all s > 0 the MSE of a forecast of Y2,t+s based on (Y2,t , Y2,t−1 , ...) is the same as the MSE of a forecast of Y2,t+s based on (Y2,t , Y2,t−1 , ...) and (Y1,t , Y1,t−1 , ...). Note that the notion of Granger causality only implies forecasting ability. In a bivariate V AR(p) model for Yt = (Y1t , Y2t ) , Y2 fails to Granger-cause Y1 if all of the p VAR coeﬃcient matrices Π1 , ..., Πp are lower triangular. That is, all of the coeﬃcients on lagged values of Y2 are zero in the equation for Y1 . The p linear coeﬃcient restrictions implied by Granger non-causality may be tested using the Wald statistic. Notice that if Y2 fails to Granger-cause Y1 and Y1 fails to Grangercause Y2 , then the VAR coeﬃcient matrices Π1 , ..., Πp are diagonal. 98
+
+98 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Multivariate Time Series Analysis
+
+6.1.3
+
+Impulse Response and Variance Decompositions
+
+As in the univariate case, a V AR(p) process can be represented in the form of a vector moving average (VMA) process. Yt = µ + ut + Ψ1 ut−1 + Ψ2 ut−2 + ..., where the k × k moving average matrices Ψs are determined recursively using (6.1.3). The elements of coeﬃcient matrices Ψs mean eﬀects of ut−s shocks on Yt . s , of the matrix Ψs is interpreted as the impulse That is, the (i, j )-th element, ψij response ∂Yi,t+s ∂Yi,t s = = ψij , i, j = 1, ..., T. ∂uj,t ∂uj,t−s
+
+s , i, j = 1, ..., T are called the impulse response Sets of coeﬃcients ψij (s) = ψij functions. It is possible to decompose the h-step-ahead forecast error variance into the proportions due to each shock ujt . The forecast variance decomposition determines the proportion of the variation Yjt due to the shock ujt versus shocks of other variables uit for i = j .
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+99
+99 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Multivariate Time Series Analysis
+
+6.1.4
+
+VAR in EViews
+
+As an example of VAR estimation in EViews, consider two time series of returns of monthly IBM stocks and the market portfolio returns from Fama-French database (data is contained in IBM1.wf1). There are several ways to estimate VAR model in EViews. The ﬁrst one is through the main menu. Clicking on View/Estimate VAR... will open a dialog window for VAR model estimation.
+
+Figure 6.1: VAR model estimation dialog window
+
+We choose Unrestricted VAR and in the Endogenous Variables box we have to specify the list of endogenous time series variables to be included in the VAR model. We consider two excess return series of the IBM stock IBM_ex and the market portfolio Mkt_ex. In the Lag Intervals for Endogenous we have to specify the order of the model, that is interval of lags to be included in the model. If we want to build a model with only two lags, we write 1 2. This means, we include all lags beginning from the ﬁrst one and ending with the lag of order 2. We do not specify any exogenous variables apart from the intercept term c. Another way of calling the VAR estimation dialog window is to select both endogenous variables in the workﬁle and in the context menu (right button click) choose Open/as VAR.... The Endogenous Variables box will be ﬁlled in automatically. Finally, we can estimate VAR model from the command line. There is a separate object, called var, to declare the VAR model. The estimation of the above mentioned example will look like 100
+100 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Multivariate Time Series Analysis
+
+var ibm2.ls 1 2 ibm_ex mkt_ex Here ibm2 is a name of the var-object which will be saved in the workﬁle, ls indicates the estimation method; in this case it is OLS estimation method of the unrestricted VAR model. Then, speciﬁcations of the lags pairs and the list of endogenous variables follow. If one wishes to include exogenous variables besides the intercept, it can be done by typing a symbol @ followed by a list of exogenous variables. For example, var ibm2.ls 1 2 ibm_ex mkt_ex @ exvar1 exvar2 Click OK and EViews produces an estimation output for the speciﬁed VAR model.
+
+Figure 6.2: Output for the VAR model estimation
+
+Two columns correspond to two equation in the VAR model. The only signiﬁcant coeﬃcient besides the intercept one is at the second lag of the market portfolio 101
+101 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Multivariate Time Series Analysis
+
+returns in the IBM equation. As expected, there is a unidirectional dynamic relationship from the market portfolio returns to the IBM returns, Thus, the IBM return is aﬀected by the past movements of the market while past movements of IBM stock returns do not aﬀect the market portfolio returns. The second equation (for market portfolio) is not signiﬁcant as suggested by the F-statistics. This means that the the estimated model cannot explain variation in the market portfolio returns. This can happen because we possibly omitted some important exogenous variables or the order of the model is inappropriately selected. EViews provides a tool to choose the most suitable lag order. In the workﬁle menu choose View/Lag Structure/Lag Length Criteria... to determine the optimal model structure. In the appeared Lag Speciﬁcation window we choose pmax = 8 (maximal lag order). All criteria indicate that the optimal lag order of the model is 0. This means that the VAR model is inappropriate model to explain IBM and market portfolio returns. Indeed, we know from the CAPM that market portfolio returns aﬀect the stock returns contemporaneously and are not in lag relationship. Thus, either additional exogenous factors should be found to include in the model or another structure of the model should be employed in this case.
+
+102
+102 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Multivariate Time Series Analysis
+
+Figure 6.3: Output for the lag length selection procedure
+
+Lag selection can be programmed manually in the same way as it is done for ARMA model (see Chapter 3). There are some command references given below which can be used to assess various statistic values in the VAR analysis in EViews.
+
+6.2
+
+Cointegration
+
+The assumption of stationary of regressors and regressands is crucial for the properties and the OLS estimators discussed in Chapter 2. In this case, the usual statistical results for the linear regression model and consistency of estimators hold. However, when variables are non-stationary then the usual statistical results may not hold.
+
+6.2.1
+
+Spurious Regression
+
+If there are trends in the data (deterministic or stochastic) this can lead to a spurious results when running OLS regression. This is because time trend will dominate other stationary variables and the OLS estimators will pick up covariances generated by time trends only. While the eﬀects of deterministic trends can be removed from the regression by either including time trend regressor or simply de-trending variables, non-stationary variables with stochastic trends may lead to invalid inferences. 103
+
+103 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Multivariate Time Series Analysis
+
+Var Data Members
+Data Member @eqlogl(k) @eqncoef(k) @eqregobs(k) @meandep(k) @r2(k) @rbar2(k) @sddep(k) @se(k) @ssr(k) @aic @detresid @hq @logl @ncoefs @neqn @regobs @sc @svarcvgtype @svaroverid @totalobs @coefmat @coefse @impfact @lrrsp @lrrspse @residcov @svaramat @svarbmat @svarcovab @svarrcov log likelihood for equation k number of estimated coeﬃcients in equation k number of observations in equation k mean of the dependent variable in equation k R-squared statistic for equation k adjusted R-squared statistic for equation k standard deviation of dependent variable in equation k standard error of the regression in equation k sum of squared residuals in equation k Akaike information criterion for the system determinant of the residual covariance matrix Hannan-Quinn information criterion for the system log likelihood for system total number of estimated coeﬃcients in the var number of equations number of observations in the var Schwarz information criterion for the system Returns an integer indicating the convergence type of the structural decomposition estimation: 0 (convergence achieved), 2 (failure to improve), 3 (maximum iterations reached), 4 (no convergence-structural decomposition not estimated) over-identiﬁcation LR statistic from structural factorization sum of "@eqregobs" from each equation ("@regobs*@neqn") coeﬃcient matrix (as displayed in output table) matrix of coeﬃcient standard errors (corresponding to the output table) factorization matrix used in last impulse response view accumulated long-run responses from last impulse response view standard errors of accumulated long-run responses covariance matrix of the residuals estimated A matrix for structural factorization estimated B matrix for structural factorization covariance matrix of stacked A and B matrix for structural factorization restricted residual covariance matrix from structural factorization Description
+
+Consider, for example, Y1,t = Y1,t−1 + u1,t , Y2,t = Y2,t−1 + u2,t , u1,t ∼ IN (0, 1) u2,t ∼ IN (0, 1)
+
+Both of the variables are non-stationary and independent from each other. In the regression Y1,t = β0 + β1 Y2,t + εt , the value of true slope parameter β1 = 0. Thus, ˆ1 should be insigniﬁcant. The actual estimations the value of the OLS estimate β produce high R2 coeﬃcients and highly signiﬁcant β1 . The problem with the spurious regression is that t- and F-statistics do not ˆ1 does not converge in follow standard distributions. As shown in Phillips (1986), β 104
+104 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Multivariate Time Series Analysis
+
+probability to zero, R2 converges to unity as T → ∞ so that the model will appear to ﬁt well even though it is misspeciﬁed. Regression with I (1) data only makes sense when the data are cointegrated.
+
+6.2.2
+
+Cointegration
+
+Let Yt = (Y1t , ..., Ykt ) denote an k × 1 vector of I (1) time series. Yt is cointegrated if there exists an k × 1 vector β = (β1 , ..., βk ) such that Zt = β Yt = β1 Y1t + ... + βk Ykt ∼ I (0). (6.2.1)
+
+The non-stationary time series in Yt are cointegrated if there is a linear combination of them that is stationary. If some elements of β are equal to zero then only the subset of the time series in Yt with non-zero coeﬃcients is cointegrated. There may be diﬀerent vectors β such that Zt = β Yt is stationary. In general, there can be 0 < r < k linearly independent cointegrating vectors. All cointegrating vectors form a cointegrating matrix B. This matrix is again not unique. Some normalization assumption is required to eliminate ambiguity from the deﬁnition.
+
+105
+105 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Multivariate Time Series Analysis
+
+A typical normalization is β = (1, −β2 , ..., −βk ) so that the cointegration relationship may be expressed as Zt = β Yt = Y1t − β2 Y2t − ... − βk Ykt ∼ I (0).
+
+6.2.3
+
+Error Correction Models
+
+Engle and Granger (1987) state that if a bivariate I (1) vector Yt = (Y1t , Y2t ) is cointegrated with cointegrating vector β = (1, −β2 ) then there exists an error correction model (ECM) of the form ∆Y1t = δ1 + φ1 (Y1,t−1 − β1 Y2,t−1 + ∆Y2t = δ2 + φ2 (Y1,t−1 − β2 Y2,t−1 +
+j α11 ∆Y1,t−j + j α21 ∆Y1,t−j j α12 ∆Y2,t−j + ε1t (6.2.2) j α22 ∆Y2,t−j + ε2t (6.2.3)
+
+j =1
+
+s=1
+
++
+s=1
+
+j =1
+
+that describes the long-term relations of Y1t and Y2t . If both time series are I (1) but are cointegrated (have a long-term stationary relationship), there is a force that brings the error term back towards zero. If the cointegrating parameter β1 or β2 is known, the model can be estimated by the OLS method.
+
+6.2.4
+
+Tests for Cointegration: The Engle-Granger Approach
+
+Engle and Granger (1987) show that if there is a cointegrating vector, a simple two-step residual-based testing procedure can be employed to test for cointegration. In this case, a long-run equilibrium relationship between components of Yt can be estimated by running (6.2.4) Y1,t = β Y2,t + ut , where Y2,t = (Y2,t , ..., Yk,t ) is an (k − 1) × 1 vector. To test the null hypothesis that ˆt ∼ I (1) against the Yt is not cointegrated, we should test whether the residuals u alternative u ˆt ∼ I (0). This can be done by any of the tests for unit roots. The most commonly used is the augmented Dickey-Fuller test with the constant term and without the trend term. Critical values for this test is tabulated in Phillips and Ouliaris (1990) or MacKinnon (1996). Potential problems with Engle-Granger approach is that the cointegrating vector will not involve Y1,t component. In this case the cointegrating vector will not be consistently estimated from the OLS regression leading to spurious results. Also, if 106
+106 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Multivariate Time Series Analysis
+
+there are more than one cointegrating relation, the Engle-Granger approach cannot detect all of them. Estimation of the static model (6.2.4) is equivalent to omitting the short-term components from the error-correction model (6.2.3). If this results for autocorrelation in residuals, although the results will still hold asymptotically, it might create a severe bias in ﬁnite samples. Because of this, it makes sense to estimate the full dynamic model. Since all variables in the ECM are I (0), the model can be consistently estimated using the OLS method. This approach leads to a better performance as it does not push the short-term dynamics into residuals.
+
+6.2.5
+
+Example in EViews: Engle-Granger Approach
+
+Consider as an example the Forward Premium Puzzle. Due to rational expectation hypothesis, forward rate should be unbiased predictor of future spot exchange rate. This means that in the regression of levels of spot St+1 on forward rate Ft the intercept coeﬃcient should be equal to zero and the slope coeﬃcient should be equal to unity. Consider monthly data of the USG/GBP spot and forward exchange rate for the period from January 1986 to November 2008 (the data is in FPP.wf1 ﬁle).
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+107
+107 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Multivariate Time Series Analysis
+
+Unit roots are often found in in levels of spot and forward exchange rates. Augmented Dickey-Fuller test statistic values are -2.567 and -2.688 which are high enough to fail rejecting the null hypothesis at 5% signiﬁcance level. Phillips-Perron test produces test statistic which value os on the border of the rejection region. Thus, if two series are not cointegrated, there is a danger to obtain spurious results from the OLS regression. However, if we look at plots of the two series we can see that they co-move together very closely, so we can expect existence of cointegrating relation between them.
+
+Figure 6.4: Plots of forward and future spot USD/GBP exchange rates
+
+St+1
+
+To perform Engle-Granger test for cointegration let us run OLS regression = βFt + ut in EViews and generate residuals from the model. ls f_spt fwd series resid1=resid
+
+The second step is to test the residuals for stationarity. Augmented Dickey-Fuller test strongly rejects the presence of a unit root in the residual series in the favour of stationarity hypothesis. Similar results are generated by other testing procedures. Thus, we conclude that future spot and forward exchange rates are cointegrated. Hence, the OLS results are valid for the regression in levels as well. In this case the slope coeﬃcient is equal to 0.957 which is positive and close to unity. However, we reject the null hypothesis H0 : β1 = 1 with the Wald test. Thus, the forward premium puzzle also exists even for the model in levels for the exchange rates. 108
+108 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Multivariate Time Series Analysis
+
+Figure 6.5: Results of Augmented Dickey-Fuller test for residuals from the longrun equilibrium relationship
+
+Figure 6.6: Wald test results for testing H0 : β1 = 1
+
+Another way of estimating cointegrating equation is to estimate a vector error correction model. To do this, open both forward and spot series as VAR system (select both series and in the context menu choose Open/as VAR...). In the VAR type box select Vector Error Correction and in the Cointegration tab click on Intercept (no trend) in CE - no intercept in VAR. EViews’ output is given in Figure ??. As expected, the output shows that the stationary series is approximately St+1 − Ft with the mean around zero. Deviations from the long-run equilibrium equation have signiﬁcant eﬀect on changes of the spot exchange rate. Another 1 indicates a signiﬁcant impact of ∆St on ∆Ft which highly signiﬁcant coeﬃcient α22 is not surprising. This underlies the relationships between the spot and forward rate through the Covered Interest rate Parity condition (CIP). The following subsection introduces an approach of testing for cointegration 109
+
+109 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Multivariate Time Series Analysis
+
+Figure 6.7: Output of the vector error correction model
+
+when there exists more than one cointegrating relationship.
+
+6.2.6
+
+Tests for Cointegration: The Johansen’s Approach
+
+An alternative approach to test for cointegration was introduced by Johansen (1988). His approach allows to avoid some drawbacks existing in the Engle-Granger’s approach and test the number of cointegrating relations directly. The method is based on the VAR model estimation. Consider the V AR(p) model for the k × 1 vector Yt Yt = Π1 Yt−1 + ... + Πp Yt−p + ut , t = 1, ..., T, (6.2.5)
+
+where ut ∼ IN (0, Σ). Since levels of time series Yt might be non-stationary, it is better to transform Equation (6.2.5) into a dynamic form, calling vector error correction model (VECM) ∆Yt = ΠYt−1 + Γ1 ∆Yt−1 + ... + Γp−1 ∆Yt−p+1 + ut , where Π = Π1 + ... + Πp − In and Γk = −
+p j =k+1
+
+Πj , k = 1, ..., p − 1.
+
+110
+
+110 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Multivariate Time Series Analysis
+
+Let us assume that Yt contains non-stationary I (1) time series components. Then in order to get a stationary error term ut , ΠYt−1 should also be stationary. Therefore, ΠYt−1 must contain r < k cointegrating relations. If the V AR(p) process has unit roots then Π has reduced rank rank(Π) = r < k . Eﬀectively, testing for cointegration is equivalent to checking out the rank of the matrix Π. If Π has a full rank then all time series in Y are stationary, if the rank of Π is zero then there are no cointegrating relationships. If 0 < rank (Π) = r < k . This implies that Yt is I (1) with r linearly independent cointegrating vectors and k − r non-stationary vectors. Since Π has rank r it can be written as the product
+(k×k)
+
+Π = α
+
+(k×r )(r ×k)
+
+β ,
+
+where α and β are k × r matrices with rank(α) = rank(β ) = r. The matrix β is a matrix of long-run coeﬃcients and α represents the speed of adjustment to disequilibrium. The VECM model becomes ∆Yt = αβ Yt−1 + Γ1 Yt−1 + ... + Γp−1 ∆Yt−p+1 + ut , with β Yt−1 ∼ I (0). (6.2.6)
+
+111
+111 Download free eBooks at bookboon.com
+
+.
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Multivariate Time Series Analysis
+
+Johansen’s methodology of obtaining estimates of α and β is given below. Johansen’s Methodology Specify and estimate a V AR(p) model (6.2.5) for Yt . Determine the rank of Π; the maximum likelihood estimate for β equals the matrix of eigenvectors corresponding to the r largest eigenvalues of a k × k residual matrix (see Hamilton (1994), Lutkepohl (1991), Harris (1995) for more detailed description). Construct likelihood ratio statistics for the number of cointegrating relationˆ 2 > ... > λ ˆ k of the matrix Π. ˆ1 > λ ships. Let estimated eigenvalues are λ Johansen’s likelihood ratio statistic tests the nested hypotheses H0 : r ≤ r0 vs. H1 : r > r0 The likelihood ratio statistic, called the trace statistic, is given by
+k
+
+LRtrace (r0 ) = −T
+
+i=r0 +1
+
+ˆi . log 1 − λ
+
+It checks whether the smallest k − r0 eigenvalues are statistically diﬀerent from zero. ˆ r +1 , ..., λ ˆ k should all be close to zero and LRtrace (r0 ) should If rank (Π) = r0 then λ 0 ˆ r +1 , ..., λ ˆ k will be nonzero (but be small. In contrast, if rank (Π) > r0 then some of λ 0 less than 1) and LRtrace (r0 ) should be large. We can also test H0 : r = r0 against H1 : r0 = r0 + 1 using so called the maximum eigenvalue statistic ˆ r +1 . LRmax (r0 ) = −T log 1 − λ 0 Critical values for the asymptotic distribution of LRtrace (r0 ) and LRmax (r0 ) statistics are tabulated in Osterwald-Lenum (1992) for k − r0 = 1, ..., 10. In order to determine the number of cointegrating vectors, ﬁrst test H0 : r0 = 0 against the alternative H1 : r0 > 0. If this null is not rejected then it is concluded that there are no cointegrating vectors among the k variables in Yt . If H0 : r0 = 0 is rejected then there is at least one cointegrating vector. In this case we should test H0 : r0 ≤ 1 against H1 : r0 > 1. If this null is not rejected then we say that there is only one cointegrating vector. If the null is rejected then there are at least two cointegrating vectors. We test H0 : r0 ≤ 2 and so on until the null hypothesis is not rejected. In a small samples tests are biased if asymptotic critical values are used without a correction. Reinsel and Ahn (1992) and Reimars (1992) suggested small samples bias correction by multiplying the test statistics with T − kp instead of T in the construction of the likelihood ratio tests. 112
+112 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Multivariate Time Series Analysis
+
+6.2.7
+
+Example in EViews: Johansen’s Approach
+
+A very good example of a model with several cointegrating equations has been given by Johansen and Juselius (1990) (1992) (see also Harris (1995)). They considered a single equation approach to combine both Purchasing Power Parity and Uncovered Interest rate Parity condition in one model. In this model we expect two cointegrating equations between the UK consumer price index P , the US consumer price index P ∗ , USD/GBP exchange rate S and two interest rates I and I ∗ in the domestic and foreign countries respectively. If we denote their log counterparts by the corresponding small letter, the theory suggest that the following two relationships should hold in eﬃcient markets with rational ∗ investors: pt − p∗ t = st and ∆st+1 = it − it . The data is considered within the range from January 1989 to November 2008 is given in PPPFP1.wf1 ﬁle. We create the log counterparts of the variables in the standard ways, like series lcpi_uk=log(cpi_uk) and so on. In order to check for cointegration we can either estimate VECM (open 5 series as VAR model) or create a Group with the variables. Johansen and Juselius (1990) included into the model seasonal dummy variables as well as crude oil prices. We restrict ourself with only seasonal dummy for simplicity. We can create dummy variables by using a command @expand, which allows to create a group of dummy variables by expanding out one or more series into individual categories. For this purposes we need ﬁrst to create a variable indicating the quarter of the observation. We do it in the following way series quarter=@quarter(cpi_uk) The command @quarter returns the quarter of the year in which the current observation begins. The second step is to create the dummy variables: group dum=@expand(quarter) EViews will create a new group object dum containing four dummy variables for each of the quarter of the observation. In both cases, either with VAR or with group objects, one can perform Johansen’s test procedure by clicking on View/Cointegration Test.... The dialog window will ask oﬀer to specify the form of the VECM and the cointegrating equation (with or without intercept or trend components). We choose the ﬁrst option with no trend and intercept to avoid perfect collinearity since we include four dummy variables as exogenous in the model. In the box Exogenous Variables enter the name of the dummy variables group dum. In the box Lag Intervals for D(Endogenous) we set 1 4 – we include 4 lags 113
+113 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Multivariate Time Series Analysis
+
+Figure 6.8: Johansen’s Cointegration test dialog window
+
+in the model. This is determined by EViews as optimal according to 3 criteria (ﬁrst estimate VAR with any of the lag speciﬁcations, check the optimality of the lag order in View/Lag Structure/Lag Speciﬁcation/Lag Length Criteria and then re-estimate the VECM with the optimal lag order).
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+114
+
+114 Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Financial Econometrics
+
+Multivariate Time Series Analysis
+
+Figure 6.9: Output for Johansen’s Cointegration test
+
+EViews produces results for various hypothesis tested, from no cointegration (r = 0) to to increasing number of cointegrating vectors (see Figure ??). The ˆ is given in the second column. In the third column λtrace eigenvalues of matrix Π statistic is higher than the corresponding critical value at 5% signiﬁcance for the ﬁrst hypothesis. This means that we reject the null hypothesis of no cointegration. 115
+
+115 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Multivariate Time Series Analysis
+
+However, we cannot reject the hypothesis that there is at most one cointegrating equation. On the basis of λmax statistics (the second panel) it is also possible to accept that there is only one cointegrating relationship. The following two panels provide estimates of matrices β and α respectively. Note the warning on the top of the output window that saying that critical values assume no exogenous series. This means that we have to take into account that the critical values we are using might not be fully correct as we included exogenous dummy variables in the model. This may give as an explanation why we detected only one cointegrating equation instead of two which were expected. Another reason may be that the second relation based on the UIP condition involves changes of exchange rate rather than levels considered in the VAR model.
+
+116
+116 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Bibliography
+
+Bibliography
+Bollerslev, T.: 1986, Generilized autoregressive conditional heterpscedasticity, Journal of Econometrics 31, 307–327. Bollerslev, T., Engle, R. and Nelson, D.: 1994, ARCH Models, Vol. IV, Elsvier Science, chapter Handbook in Econometrics, pp. 2961–3038. Cuthbertson, K. and Nitzsche, D.: 2004, Quantitative Financial Economics: Stocks, Bonds and Foreign Exchange, Jahn Wiley and Sons. Dickey, D. and Fuller, W.: 1979, Distribution of the estimators for autoregressive time series with a unit root, Journal of the American Statistical Association 74, 427–431. Dickey, D. and Fuller, W.: 1981, Likelihood ratio statistics for autoregressive time series with a unit root, Econometrica 49, 1057–1072. Ding, Z., C. W. J. G. and (1993), R. F. E.: 1993, A long memory property of stock market returns and a new model, Journal of Empirical Finance 1, 83–106. Durbin, J. and Watson, G.: 1950, Testing for serial correlation in least squares regression – I, Biometrica 37, 409–428. Enders, W.: 2004, Applied Econometric Time Series, John Wiley and Sons. Engle, R.: 1982, Autoregressive conditional heteroscedasticity with estimates of the variance of united kingdom inﬂation, Econometrica 50, 987–1007. Engle, R. and Granger, C.: 1987, Cointegration and error correction: Representation, estimation and testing, Econometrics 55, 251–276. Engle, R. and Lee, G.: 1999, A Long-Run and Short-Run Component Model of Stock Return Volatility, Cointegration, Causality, and Forecasting, Oxford University Press. 117
+
+117 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Bibliography
+
+Engle, R., Lilien, D. and Robins, R.: 1987, Estimating time varying premia in the term structure: The ARCH-M model, Econmetrica 55, 591–407. Fama, E. and French, K.: 1993, Common risk factors in the returns on stocks and bonds, Journal of Financial Economics 33, 3–56. Fuller, W.: 1996, Introduction to Statistical Time Series, John Wiley and Sons, New-York. Granger, C.: 1969, Investigating causal relations by econometric models and cross spectral methods, Econometric 37, 424–438. Greene, W.: 2000, Econometric Analysis, 5th edition edn, Prentice Hall, New Jersey. Hamilton, J.: 1994, Time Series Analysis, Princeton University Press, New Jersey. Harris, R.: 1995, Using Cointegration Analysis in Econometric Modelling, Prentice Hall, London. Hayashi, F.: 2000, Econometrics, Prinseton University Press. Johansen, S. and Juselius, K.: 1990, Maximum likelihood estimation and inference on cointegration with application to the demand for money, Oxford Bulletin of Economics and Statistics 52, 169–209. Kwiatkowski, D., Phillips, P., Schmidt, P. and Shin, Y.: 1992, Testing the null hypothesis of stationarity against the alternative of a unit root, Journal of Econometrics 54, 159–178. Lutkepohl, H.: 1991, Introduction to Multiple Time Series Analysis, Springer, Berlin. MacKinnon, J.: 1996, Numerical distribution functions for unit root and cointegration tests, Journal of Applied Econometrics 11, 601–618. Mills, T.: 1999, The Econometrics Modelling of Financial Time Series, Cambridge University Press, Cambridge. Nelson, D.: 1991, Conditional heteroskedasticity in asset returns: a new approach, Econometrica 59(2), 347–370. Osterwald-Lenum, M.: 1992, A note with quantiles of the asymptotic distribution of the maximum likelihood cointegration rank statistics, Oxford Bulletin of Economics and Statistics 54, 461–472. 118
+118 Download free eBooks at bookboon.com
+
+Financial Econometrics
+
+Bibliography
+
+Phillips, P. and Ouliaris, S.: 1990, Asymptotic properties of residual based tests for cointegration, Econometrica 58, 73–93. Phillips, P. and Perron, P.: 1988, Testing for a unit root in time series regression, Biometrica 75, 335–346. Reimars, H.-E.: 1992, Comparisons of tests formultivariate cointegration, Statistical Papers 33, 335–359. Reinsel, G. and Ahn, S.: 1992, Vector autoregression models with unit roots and reduced rank structure: Estimation, likelihood ratio test, and forecasting, Journal of Time Series Analysis 13, 353–375. Said, S. and Dickey, D.: 1984, Testing for unit roots in autoregressive moving average models of unknown orders, Biometrica 71, 599–607. Savin, N. and White, K.: 1977, The durbin-watson test for serial correlation with extreme sample sizes or many regressors, Econometrica 45, 1989–1996. Tsay, R.: 2002, Analysis of Financial Time Series, John Wiley and Sons. Verbeek, M.: 2008, A Guide to Modern Econometrics, John Wiley and Sons. Zivot, E. and Wang, J.: 2006, Modeling Financial Time Series with S-PLUS, Springer.
+
+119
+
+119 Download free eBooks at bookboon.com
+

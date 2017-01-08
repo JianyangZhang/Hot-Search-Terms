@@ -1,0 +1,471 @@
+Introduction	to	Managerial Accounting
+Managerial	and	Cost	Accounting Larry	M.	Walther;	Christopher	J.	Skousen
+
+Download	free	books	at
+
+Larry M. Walther
+
+Introduction to Managerial Accounting
+Managerial and Cost Accounting
+
+2
+Download free eBooks at bookboon.com
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting 1st edition © 2010 Larry M. Walther, under nonexclusive license to Christopher J. Skousen and bookboon.com. All material in this publication is copyrighted, and the exclusive property of Larry M. Walther or his licensors (all rights reserved). ISBN 978-87-7681-585-1
+
+3
+Download free eBooks at bookboon.com
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Contents
+
+Contents
+	 1	 1.1	 Introduction to Managerial Accounting	 Managerial Accounting	 Professional Certifications in Management Accounting	 6 7 8 9 9 10 10 13 14 15 21
+
+2	 Planning, Directing, and Controlling	 2.1	 Decision Making	 2.2	Planning	 2.3	Strategy	 2.4	Positioning	 2.5	Budgets	 2.6	Directing	 2.7	Controlling	
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Contents
+
+3	 4	 4.1	
+
+Cost Components	 Product Versus Period Costs	 Period Costs	
+
+25 27 27 28 28 30 30 31 31 31 33
+
+5	 Financial Statement Issues that are Unique to Manufacturers 	 5.1	 5.2	 5.3	 5.4	 5.5	 5.6	 5.7	 Schedule of Raw Materials	 Schedule of Work in Process	 Schedule of Cost of Goods Manufactured	 Schedule of Cost of Goods Sold	 The Income Statement	 Reviewing Cost of Flow Concepts for a Manufacturer 	 Critical Thinking About Cost Flow	
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Introduction to Managerial Accounting
+
+Introduction to Managerial Accounting
+Your goals for this “managerial accounting introduction” chapter are to learn about: •	 The distinguishing characteristics of managerial accounting. •	 The role of managerial accounting in support of planning, directing, and controlling. •	 Key production cost components: direct materials, direct labor, and factory overhead. •	 Product costs versus period costs. •	 Categories of inventory for manufacturers and related financial statement implications.
+
+6
+Download free eBooks at bookboon.com
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Managerial Accounting
+
+1	 Managerial Accounting
+Early portions of this textbook dealt mostly with financial accounting. Financial accounting is concerned with reporting to external parties such as owners, analysts, and creditors. These external users rarely have access to the information that is internal to the organization, nor do they specify the exact information that will be presented. Instead, they must rely on the general reports presented by the company. Therefore, the reporting structure is well defined and standardized. The methods of preparation and the reports presented are governed by rules of various standard-setting organizations. Furthermore, the external users generally see only the summarized or aggregated data for an entity. In contrast, managers of a specific business oftentimes need or desire far more detailed information. This information must be tailored to specific decision-making tasks of managers, and its structure becomes more “free formed.” Such managerial accounting information tends to be focused on products, departments, and activities. In this context, the management process is intended to be a broad reference to encompass marketing, finance, and other disciplines. Simply stated: managerial accounting is about providing information in support of the internal management processes. Many organizations refer to their internal accounting units as departments of strategic finance. This title is more reflective of their wide range and scope of duties. Managerial accounting is quite different from financial accounting. External reporting rules are replaced by internal specifications as to how data are to be accumulated and presented. Hopefully, these internal specifications are sufficiently logical that they enable good economic decision making. For example, specific reporting periods may be replaced with access to real-time data that enable quick responses to changing conditions. And, forecasted outcomes become more critical for planning purposes. Likewise, cost information should be disseminated in a way that managers can focus on (and be held accountable for!) those business components (“segments”) under their locus of control. In short, the remainder of this book is about the ideas and methods that can be used to provide accounting information in direct support of the “broadly defined” role of managing a business organization. If you aspire to work in strategic finance, the remainder of this book is your introductory primer. But, for most readers – those who must manage some part of an organization – the remainder of this book is your guide to knowing how and when the management accountant’s tools can be used to help you do your job better!
+
+7
+Download free eBooks at bookboon.com
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Managerial Accounting
+
+1.1	
+
+Professional Certifications in Management Accounting
+
+You are no doubt familiar with the CPA (certified public accountant) designation; it is widely held and recognized. The certification is usually accompanied by a state issued license to practice public accounting. However, there are also CMA (certified management accountant) and CFM (certified financial manager) designations. These are not “licenses,” per se, but do represent significant competency in managerial accounting and financial management skills. These certifications are sponsored by the Institute of Management Accountants.
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+8
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Planning, Directing, and Controlling
+
+2	 Planning, Directing, and Controlling
+I once saw a clever sign hanging on the wall of a business establishment: “Managers are Paid to Manage – If There Were No Problems We Wouldn’t Need Managers.” This suggested that all organizations have problems, and it is management’s responsibility to deal with them. While there is some truth to this characterization, it is perhaps more reflective of a “not so impressive” organization that is moving from one crisis to another. True managerial talent goes beyond just dealing with the problems at hand. What does it mean to manage? Managing requires numerous skill sets. Among those skills are vision, leadership, and the ability to procure and mobilize financial and human resources. All of these tasks must be executed with an understanding of how actions influence human behavior within, and external to, the organization. Furthermore, good managers must have endurance to tolerate challenges and setbacks while trying to forge ahead. To successfully manage an operation also requires follow through and execution. But, each management action is predicated upon some specific decision. Thus, good decision making is crucial to being a successful manager.
+
+2.1	
+
+Decision Making
+
+Some managers seem to have an intuitive sense of good decision making. The reality is that good decision making is rarely done by intuition. Consistently good decisions can only result from diligent accumulation and evaluation of information. This is where managerial accounting comes in – providing the information needed to fuel the decision making process. Managerial decisions can be categorized according to three interrelated business processes: planning, directing, and controlling. Correct execution of each of these activities culminates in the creation of business value. Conversely, failure to plan, direct, or control is a roadmap to business failure.
+
+9
+Download free eBooks at bookboon.com
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Planning, Directing, and Controlling
+
+The central theme to focus on is this: (1) business value results from good management decisions, (2) decisions must occur across a spectrum of activities (planning, directing, and controlling), and (3) quality decision making can only consistently occur by reliance on information. Thus, I implore you to see the relevance of managerial accounting to your success as a business manager. Let’s now take a closer look at the components of planning, directing, and controlling.
+
+2.2	Planning
+
+A business must plan for success. What does it mean to plan? It is about thinking ahead – to decide on a course of action to reach desired outcomes. Planning must occur at all levels. First, it occurs at the high level of setting strategy. It then moves to broad-based thought about how to establish an optimum “position” to maximize the potential for realization of goals. Finally, planning must be undertaken from the perspective of thoughtful consideration of financial realities/constraints and anticipated monetary outcomes (budgets). You have perhaps undergone similar planning endeavors. For example, you decided that you desired more knowledge in business to improve your stake in life, you positioned yourself in a program of study, and you developed a model of costs (and future benefits). So, you are quite familiar with the notion of planning! But, you are an individual; you have easily captured and contained your plan within your own mind. A business organization is made up of many individuals. And, these individuals must be orchestrated to work together in harmony. They must share and understand the organizational plans. In short, “everyone needs to be on the same page.”
+
+2.3	Strategy
+A business typically invests considerable time and money in developing its strategy. Employees, harried with day-to-day tasks, sometimes fail to see the need to take on strategic planning. It is difficult to see the linkage between strategic endeavors and the day-to-day corporate activities associated with delivering goods and services to customers. But, this strategic planning ultimately defines the organization. Specific strategy setting can take many forms, but generally, includes elements pertaining to the definition of core values, mission, and objectives.
+
+10
+Download free eBooks at bookboon.com
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Planning, Directing, and Controlling
+
+Core Values – An entity should clearly consider and define the rules by which it will play. Core values can cover a broad spectrum involving concepts of fair play, human dignity, ethics, employment/promotion/ compensation, quality, customer service, environmental awareness, and so forth. If an organization does not cause its members to understand and focus on these important elements, it will soon find participants becoming solely “profit-centric.” This behavior inevitably leads to a short term focus and potentially illegal practices that provide the seeds of self destruction. Remember that management is to build business value by making the right decisions; and, decisions about core values are essential. Mission – Many companies attempt to prepare a pithy statement about their mission. For example: “At IBM, we strive to lead in the creation, development and manufacture of the industry’s most advanced information technologies, including computer systems, software, networking systems, storage devices and microelectronics. We translate these advanced technologies into value for our customers through our professional solutions and services businesses worldwide.”
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+11
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Planning, Directing, and Controlling
+
+Such mission statements provide a snapshot of the organization and provide a focal point against which to match ideas and actions. They provide an important planning element because they define the organization’s purpose and direction. Interestingly, some organizations have avoided “missioning,” in fear that it will limit opportunity for expansive thinking. For example, General Electric specifically states that it does not have a mission statement, per se. Instead, its operating philosophy and business objectives are clearly articulated each year in the Letter to Shareowners, Employees and Customers. In some sense, though, GE’s logo reflects its mission: “imagination at work”. Perhaps the subliminal mission is to pursue opportunity wherever it can be found. As a result, GE is one of the world’s most diversified entities in terms of the range of products and services it offers. Objectives – An organization must also consider its specific objectives. In the case of GE: “Imagine, solve, build and lead – four bold verbs that express what it is to be part of GE. Their action-oriented nature says something about who we are – and should serve to energize ourselves and our teams around leading change and driving performance.” The objective of a business organization must include delivery of goods or services while providing a return (i.e., driving performance) for its investors. Without this objective, the organization serves no purpose and/or will cease to exist. Overall, then, the strategic structure of an organization is established by how well it defines its values and purpose. But, how does the managerial accountant help in this process? At first glance, these strategic issues seem to be broad and without accounting context. But, information is needed about the “returns” that are being generated for investors; this accounting information is necessary to determine whether the profit objective is being achieved. Actually, though, managerial accounting goes much deeper. For example, how are core values policed? Consider that someone must monitor and provide information on environmental compliance. What is the most effective method for handling and properly disposing of hazardous waste? Are there alternative products that may cost more to acquire but cost less to dispose? What system must be established to record and track such material, etc.? All of these issues require “accountability.” As another example, ethical codes likely deal with bidding procedures to obtain the best prices from capable suppliers. What controls are needed to monitor the purchasing process, provide for the best prices, and audit the quality of procured goods? All of these issues quickly evolve into internal accounting tasks. And, the managerial accountant will be heavily involved in providing input on all phases of corporate strategy.
+
+12
+Download free eBooks at bookboon.com
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Planning, Directing, and Controlling
+
+2.4	Positioning
+An important part of the planning process is positioning the organization to achieve its goals. Positioning is a broad concept and depends on gathering and evaluating accounting information.
+
+Cost/Volume/Profit Analysis and Scalability – In a subsequent chapter, you will learn about cost/ volume/ profit (CVP) analysis. It is imperative for managers to understand the nature of cost behavior and how changes in volume impact profitability. You will learn about calculating break-even points and how to manage to achieve target income levels. You will begin to think about business models and the ability (or inability) to bring them to profitability via increases in scale. Managers call upon their internal accounting staff to pull together information and make appropriate recommendations. Global Trade and Transfer – The management accountant frequently performs significant and complex analysis related to global business activities. This requires in-depth research into laws about tariffs, taxes, and shipping. In addition, global enterprises may transfer inventory and services between affiliated units in alternative countries. These transactions must be fairly and correctly measured to establish reasonable transfer prices (or potentially run afoul of tax and other rules of the various countries involved). Once again, the management accountant is called to the task. Branding/Pricing/Sensitivity/Competition – In positioning a company’s products and services, considerable thought must be given to branding and its impact on the business. To build a brand requires considerable investment with an uncertain payback. Frequently, the same product can be “positioned” as an elite brand via a large investment in up-front advertising, or as a basic consumer product that will depend upon low price to drive sales. What is the correct approach? Information is needed to make the decision, and management will likely enlist the internal accounting staff to prepare prospective information based upon alternative scenarios. Likewise, product pricing decisions must be balanced against costs and competitive market conditions. And, sensitivity analysis is needed to determine how sales and costs will respond to changes in market conditions.
+
+13
+Download free eBooks at bookboon.com
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Planning, Directing, and Controlling
+
+As you can see, decisions about positioning a company’s products and services are quite complex. The prudent manager will need considerable data to make good decisions. Management accountants will be directly involved in providing such data. They will usually work side-by-side with management in helping them correctly interpret and utilize the information. It behooves a good manager to study the basic principles of managerial accounting in order to better understand how information can be effectively utilized in the decision process. With these sorts of topics in play, it is no wonder that the term “strategic finance” is increasingly used to characterize this profession.
+
+2.5	Budgets
+A necessary planning component is budgeting. Budgets outline the financial plans for an organization. There are various types of budgets. Operating Budgets – A plan must provide definition of the anticipated revenues and expenses of an organization and more. These operating budgets can become fairly detailed, to the level of mapping specific inventory purchases, staffing plans, and so forth. The budgets, oftentimes, delineate allowable levels of expenditures for various departments. Capital Budgets – Operating budgets will also reveal the need for capital expenditures relating to new facilities and equipment. These longer term expenditure decisions must be evaluated logically to determine whether an investment can be justified and what rate and duration of payback is likely to occur.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+14
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Planning, Directing, and Controlling
+
+Financial Budgets – A company must assess financing needs, including an evaluation of potential cash shortages. These tools enable companies to meet with lenders and demonstrate why and when additional support may be needed. The budget process is quite important (no matter how painful the process may seem) to the viability of an organization. Several of the subsequent chapters are devoted to helping you better understand the nature and elements of sound budgeting.
+
+2.6	Directing
+There are many good plans that are never realized. To realize a plan requires the initiation and
+
+direction of numerous actions. Often, these actions must be well coordinated and timed. Resources must be ready, and authorizations need to be in place to enable persons to act according to the plan. By analogy, imagine that a composer has written a beautiful score of music – the “plan.” For it to come to life requires all members of the orchestra, and a conductor who can bring the orchestra into synchronization and harmony. Likewise, the managerial accountant has a major role in putting business plans into action. Information systems must be developed to allow management to orchestrate the organization. Management must know that inventory is available when needed, productive resources (man and machine) are scheduled appropriately, transportation systems will be available to deliver output, and on and on. In addition, management must be ready to demonstrate compliance with contracts and regulations. These are complex tasks. They cannot occur without strong information resources. A major element of management accounting is to develop information systems to support the ongoing direction of the business effort. Managerial accounting supports the “directing” function in many ways. Areas of support include costing, production management, and special analysis:
+
+15
+Download free eBooks at bookboon.com
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Planning, Directing, and Controlling
+
+2.6.1	Costing
+
+Cost accounting can be defined as the collection, assignment, and interpretation of cost. In subsequent chapters, you will learn about alternative costing methods. It is important to know what products and services cost to produce. The ideal approach to capturing costs is dependent on what is being produced. Costing Methods – In some settings, costs may be captured by the “job costing method.” For example, a custom home builder would likely capture costs for each house constructed. The actual labor and material that goes into each house would be tracked and assigned to that specific home (along with some matching amount of overhead), and the cost of each home can be expected to vary considerably. Some companies produce homogenous products in continuous processes. For example, consider the costing issues faced by the companies that produce the lumber, paint, bricks or other such homogenous components used in building a home. How much does each piece of lumber, bucket of paint, or stack of bricks cost? These types of items are produced in continuous processes where costs are pooled together during production, and output is measured in aggregate quantities. It is difficult to see specific costs attaching to each unit. Yet, it is important to make a cost assignment. To deal with these types of situations, accountants might utilize “process costing methods.” Now, let’s think about the architectural firms that design homes. Such organizations need to have a sense of their costs for purposes of billing clients, but the firm’s activities are very complex. An architectural firm must engage in many activities that drive costs but do not produce revenues. For example, substantial effort is required to train staff, develop clients, bill and collect, maintain the office, print plans, visit job sites, consult on problems identified during construction, and so forth. The individual architects are probably involved in multiple tasks and projects throughout the day; therefore, it becomes difficult to say exactly how much it costs to develop a set of blueprints for a specific client! The firm might consider tracing costs and assigning them to activities (e.g., training client development, etc.). Then, an allocation model can be used to attribute activities to jobs, enabling a reasonable cost assignment. Such “activitybased costing” (ABC) systems can be used in many settings, but are particularly well suited to situations where overhead is high, and/or a variety of products and services are produced.
+
+16
+Download free eBooks at bookboon.com
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Planning, Directing, and Controlling
+
+Costing Concepts – In addition to alternative methods of costing, a good manager will need to understand different theories or concepts about costing. In a general sense, the approaches can be described as “absorption” and “direct” costing concepts. Under the absorption concept, a product or service would be assigned its full cost, including amounts that are not easily identified with a particular item. Overhead items (sometimes called “burden”) include facilities depreciation, utilities, maintenance, and many other similar shared costs. With absorption costing, this overhead is schematically allocated among all units of output. In other words, output absorbs the full cost of the productive process. Absorption costing is required for external reporting purposes under generally accepted accounting principles. But, some managers are aware that sole reliance on absorption costing numbers can lead to bad decisions. As a result, internal cost accounting processes in some organizations focus on a direct costing approach. With direct costing, a unit of output will be assigned only its direct cost of production (e.g., direct materials, direct labor, and overhead that occurs with each unit produced). You will study the differences between absorption and direct costing, and consider how they influence the management decision process. It is one of the more useful business decision elements to understand – empowering you to make better decisions. Future chapters will build your understanding of these concepts. In review, to properly direct an organization requires a keen sense of the cost of products and services. Costing can occur under various methods and theories, and a manager must understand when and how these methods are best utilized to facilitate the decisions that must be made. Large portions of the following chapters will focus on these cost accounting issues.
+
+17
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Planning, Directing, and Controlling
+
+2.6.2	Production As you would suspect, successfully directing an organization requires prudent management of production. Because this is a hands-on process, and frequently entails dealing with the tangible portions of the business (inventory, fabrication, assembly, etc.), some managers are especially focused on this area of oversight. Managerial accounting provides numerous tools for managers to use in support of production and production logistics (moving goods through the production cycle to a customer). To generalize, production management is about running a “lean” business model. This means that costs must be minimized and efficiency maximized, while seeking to achieve enhanced output and quality standards. In the past few decades, advances in technology have greatly contributed to the ability to run a lean business. Product fabrication and assembly have been improved through virtually error free robotics. Accountability is handled via comprehensive software that tracks an array of data on a real-time basis. These enterprise resource packages (ERP) are extensive in their power to deliver specific query-based information for even the largest organizations. B2B (business to business) systems enable data interchange with sufficient power to enable one company’s information system to automatically initiate a product order on a vendor’s information system. Looking ahead, much is being said about the potential of RFID (radio frequency identification). Tiny micro processors are embedded in inventory and emit radio frequency signals that enable a computer to automatically track the quantity and location of inventory. M2M (machine to machine) enables connected devices to communicate necessary information (e.g., electric meters that no longer need to be read for billing, etc.) without requiring human engagement. These developments are exciting, sometimes frightening, but ultimately enhance organizational efficiency and the living standards of customers who benefit from better and cheaper products. But, despite their robust power, they do not replace human decision making. Managers must pay attention to the information being produced, and be ready to adjust business processes to respond. Production is a complex process requiring constant decision making. It is almost impossible to completely categorize and cover all of the decisions that will be required. But, many organizations will share similar production issues relating to inventory management and responsibility assignment tasks.
+
+18
+Download free eBooks at bookboon.com
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Planning, Directing, and Controlling
+
+Inventory – For a manufacturing company, managing inventory is vital. Inventory may consist of raw materials, work in process, and finished goods. The raw materials are the components and parts that are to be processed into a final product. Work in process consists of goods under production. Finished goods are the completed units awaiting sale to customers. Each category will require special consideration and control. Failure to properly manage any category of inventory can be disastrous to a business. Overstocking raw materials or overproduction of finished goods will increase costs and obsolescence. Conversely, out-of-stock situations for raw materials will silence the production line at potentially great cost. Failure to have finished goods on hand might result in lost sales and customers. Throughout subsequent chapters, you will learn about methods and goals for managing inventory. Some of these techniques carry popular acronyms like JIT (just-in-time inventory management) and EOQ (economic order quantity). It is imperative for a good manager to understand the techniques that are available to properly manage inventory. Responsibility Considerations – Enabling and motivating employees to work at peak performance is an important managerial role. For this to occur, employees must perceive that their productive efficiency and quality of output are fairly measured. A good manager will understand and be able to explain to others how such measures are determined. Your study of managerial accounting will lead you through various related measurement topics. For instance, direct productive processes must be supported by many “service departments” (maintenance, engineering, accounting, cafeterias, etc.). These service departments have nothing to sell to outsiders, but are essential components of operation. The costs of service departments must be recovered for a business to survive. It is easy for a production manager to focus solely on the area under direct control, and ignore the costs of support tasks. Yet, good management decisions require full consideration of the costs of support services. You will learn alternative techniques that managerial accountants use to allocate responsibility for organizational costs. A good manager will understand the need for such allocations, and be able to explain and justify them to employees who may not be fully cognizant of why profitability is more difficult to achieve than it would seem. In addition, techniques must be utilized to capture the cost of quality – or perhaps better said, the cost of a lack of quality. Finished goods that do not function as promised entail substantial warranty costs, including rework, shipping (back and forth!), and scrap. There is also an extreme long-run cost associated with a lack of customer satisfaction. Understanding concepts of responsibility accounting will also require you to think about attaching inputs and outcomes to those responsible for their ultimate disposition. In other words, a manager must be held accountable, but to do this requires the ability to monitor costs incurred and deliverables produced by circumscribed areas of accountability (centers of responsibility). This does not happen by accident and requires extensive systems development work, as well as training and explanation, on the part of management accountants.
+
+19
+Download free eBooks at bookboon.com
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Planning, Directing, and Controlling
+
+2.6.3	Analysis Certain business decisions have recurrent themes: whether to outsource production and/or support functions, what level of production and pricing to establish, whether to accept special orders with private label branding or special pricing, and so forth.
+
+Managerial accounting provides theoretical models of calculations that are needed to support these types of decisions. Although such models are not perfect in every case, they certainly are effective in stimulating correct thought. The seemingly obvious answer may not always yield the truly correct or best decision. Therefore, subsequent chapters will provide insight into the logic and methods that need to be employed to manage these types of business decisions.
+
+20
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Planning, Directing, and Controlling
+
+2.7	Controlling
+Things rarely go exactly as planned, and management must make a concerted effort to monitor and adjust for deviations. The managerial accountant is a major facilitator of this control process, including exploration of alternative corrective strategies to remedy unfavorable situations. In addition, a recent trend (brought about in the USA by financial legislation most commonly known as Sarbanes-Oxley or SOX) is for enhanced internal controls and mandatory certifications by CEOs and CFOs as to the accuracy of financial reports. These certifications carry penalties of perjury, and have gotten the attention of corporate executives – leading to greatly expanded emphasis on controls of the various internal and external reporting mechanisms. Most large organizations have a person designated as “controller” (sometimes termed “comptroller”). The controller is an important and respected position within most larger organizations. The corporate control function is of sufficient complexity that a controller may have hundreds of support personnel to assist with all phases of the management accounting process. As this person’s title suggests, the controller is primarily responsible for the control task; providing leadership for the entire cost and managerial accounting functions. In contrast, the chief financial officer (CFO) is usually responsible for external reporting, the treasury function, and general cash flow and financing management. In some organizations, one person may serve a dual role as both the CFO and controller. Larger organizations may also have a separate internal audit group that reviews the work of the accounting and treasury units. Because internal auditors are reporting on the effectiveness and integrity of other units within a business organization, they usually report directly to the highest levels of corporate leadership. As you can see, “control” has many dimensions and is a large task!
+
+21
+Download free eBooks at bookboon.com
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Planning, Directing, and Controlling
+
+2.7.1	
+
+Monitor
+
+Let’s begin by having you think about controlling your car (aka “driving”)! Your steering, acceleration, and braking are not random; they are careful corrective responses to constant monitoring of many variables – other traffic, road conditions, destination, and so forth. Clearly, each action on your part is in response to you having monitored conditions and adopted an adjusting response. Likewise, business managers must rely on systematic monitoring tools to maintain awareness of where the business is headed. Managerial accounting provides these monitoring tools, and establishes a logical basis for making adjustments to business operations. Standard Costs – To assist in monitoring productive efficiency and cost control, managerial accountants may develop “standards.” These standards represent benchmarks against which actual productive activity is compared. Importantly, standards can be developed for labor costs and efficiency, materials cost and utilization, and more general assessments of the overall deployment of facilities and equipment (the overhead). Variances – Managers will focus on standards, keeping a particularly sharp eye out for significant deviations from the norm. These deviations, or “variances,” may provide warning signs of situations requiring corrective action by managers. Accountants help managers focus on the exceptions by providing the results of variance analysis. This process of focusing on variances is also known as “management by exception.” Flexible tools – Great care must be taken in monitoring variances. For instance, a business may have a large increase in customer demand. To meet demand, a manager may prudently authorize significant overtime. This overtime may result in higher than expected wage rates and hours. As a result, a variance analysis could result in certain unfavorable variances. However, this added cost was incurred because of higher customer demand and was perhaps a good business decision. Therefore, it would be unfortunate to interpret the variances in a negative light. To compensate for this type of potential misinterpretation of data, management accountants have developed various flexible budgeting and analysis tools. These evaluative tools “flex” or compensate for the operating environment in an attempt to sort out confusing signals. As a business manager, you will want to familiarize yourself with these more robust flexible tools, and they are covered in depth in subsequent chapters.
+
+22
+Download free eBooks at bookboon.com
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Planning, Directing, and Controlling
+
+2.7.2	Scorecard The traditional approach to monitoring organizational performance has focused on financial measures and outcomes. Increasingly, companies are realizing that such measures alone are not sufficient. For one thing, such measures report on what has occurred and may not provide timely data to respond aggressively to changing conditions. In addition, lower-level personnel may be too far removed from an organization’s financial outcomes to care. As a result, many companies have developed more involved scoring systems. These scorecards are custom tailored to each position, and draw focus on evaluating elements that are important to the organization and under the control of an employee holding that position. For instance, a fast food restaurant would want to evaluate response time, cleanliness, waste, and similar elements for the front-line employees. These are the elements for which the employee would be responsible; presumably, success on these points translates to eventual profitability.
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+23
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Planning, Directing, and Controlling
+
+Balance – When controlling via a scorecard approach, the process must be carefully balanced. The goal is to identify and focus on components of performance that can be measured and improved. In addition to financial outcomes, these components can be categorized as relating to business processes, customer development, and organizational betterment. Processes relate to items like delivery time, machinery utilization rates, percent of defect free products, and so forth. Customer issues include frequency of repeat customers, results of customer satisfaction surveys, customer referrals, and the like. Betterment pertains to items like employee turnover, hours of advanced training, mentoring, and other similar items. If these balanced scorecards are carefully developed and implemented, they can be useful in furthering the goals of an organization. Conversely, if the elements being evaluated do not lead to enhanced performance, employees will spend time and energy pursuing tasks that have no linkage to creating value for the business. Improvement – TQM is the acronym for total quality management. The goal of TQM is continuous improvement by focusing on customer service and systematic problem solving via teams made up of front-line employees. These teams will benchmark against successful competitors and other businesses. Scientific methodology is used to study what works and does not work, and the best practices are implemented within the organization. Normally, TQM-based improvements represent incremental steps in shaping organizational improvement. More sweeping change can be implemented by a complete process reengineering. Under this approach, an entire process is mapped and studied with the goal of identifying any steps that are unnecessary or that do not add value. In addition, such comprehensive reevaluations will, oftentimes, identify bottlenecks that constrain the whole organization. Under the theory of constraints (TOC), efficiency is improved by seeking out and eliminating constraints within the organization. For example, an airport might find that it has adequate runways, security processing, luggage handling, etc., but it may not have enough gates. The entire airport could function more effectively with the addition of a few more gates. Likewise, most businesses will have one or more activities that can cause a slow down in the entire operation. TOC’s goal is to find and eliminate the specific barriers. So far, this chapter has provided snippets of how managerial accounting supports organizational planning, directing, and controlling. As you can tell, managerial accounting is surprisingly broad in its scope of involvement. Before looking at these topics in more detail in subsequent chapters, become familiar with some key managerial accounting jargon and concepts. The remainder of this chapter is devoted to that task.
+
+24
+Download free eBooks at bookboon.com
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Cost Components
+
+3	 Cost Components
+Companies that manufacture a product face an expanded set of accounting issues. In addition to the usual accounting matters associated with selling and administrative activities, a manufacturer must deal with accounting concerns related to acquiring and processing raw materials into a finished product. Cost accounting for this manufacturing process entails consideration of three key cost components that are necessary to produce finished goods: 1.	 Direct materials include the costs of all materials that are an integral part of a finished product and that have a physical presence that is readily traced to that finished product. Examples for a computer maker include the plastic housing of a computer, the face of the monitor screen, the circuit boards within the machine, and so forth. Minor materials such as solder, tiny strands of wire, and the like, while important to the production process, are not cost effective to trace to individual finished units. The cost of such items is termed “indirect materials.” These indirect materials are included with other components of manufacturing overhead, which is discussed below. 2.	 Direct labor costs consist of gross wages paid to those who physically and directly work on the goods being produced. For example, wages paid to a welder in a bicycle factory who is actually fabricating the frames of bicycles would be included in direct labor. On the other hand, the wages paid to a welder who is building an assembly line that will be used to produce a new line of bicycles is not direct labor. In general, indirect labor pertains to wages of other factory employees (e.g., maintenance personnel, supervisors, guards, etc.) who do not work directly on a product. Indirect labor is rolled into manufacturing overhead. 3.	 Manufacturing overhead includes all costs of manufacturing other than direct materials and direct labor. Examples include indirect materials, indirect labor, and factory related depreciation, repair, insurance, maintenance, utilities, property taxes, and so forth. Factory overhead is also known as indirect manufacturing cost, burden, or other synonymous terms. Factory overhead is difficult to trace to specific finished units, but its cost is important and must be allocated to those units. Normally, this allocation is applied to ongoing production based on estimated allocation rates, with subsequent adjustment processes for over- or under-applied overhead. This is quite important to product costing, and will be covered in depth later. Importantly, nonmanufacturing costs for selling and general/administrative purposes (SG&A) are not part of factory overhead. Selling costs relate to order procurement and fulfillment, and include advertising, commissions, warehousing, and shipping. Administrative costs arise from general management of the business, including items like executive salaries, accounting departments, public and human relations, and the like.
+
+25
+Download free eBooks at bookboon.com
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Cost Components
+
+Accountants sometimes use a bit of jargon to describe certain “combinations” of direct materials, direct labor, and manufacturing overhead: Prime Costs = Direct Labor + Direct Material Conversion Costs = Direct Labor + Manufacturing Overhead Prime costs are the components that are direct in nature. Conversion costs are the components to change raw materials to finished goods.
+
+.
+
+26
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Product Versus Period Costs
+
+4	 Product Versus Period Costs
+Now, another way to look at manufacturing costs is to think of them as attaching to a product. In other words, products result from the manufacturing process and “product costs” are the summation of direct materials, direct labor, and factory overhead. This is perhaps easy enough to understand. But, how are such costs handled in the accounting records? To build your understanding of the answer to this question, think back to your prior studies about how a retailer accounts for its inventory costs. When inventory is purchased, it constitutes an asset on the balance sheet (i.e., “inventory”). This inventory remains as an asset until the goods are sold, at which point the inventory is gone, and the cost of the inventory is transferred to cost of goods sold on the income statement (to be matched with the revenue from the sale). By analogy, a manufacturer pours money into direct materials, direct labor, and manufacturing overhead. Should this spent money be expensed on the income statement immediately? No! This collection of costs constitutes an asset on the balance sheet (“inventory”). This inventory remains as an asset until the goods are sold, at which point the inventory is gone, and the cost of the inventory is transferred to cost of goods sold on the income statement (to be matched with the revenue from the sale). There is little difference between a retailer and a manufacturer in this regard, except that the manufacturer is acquiring its inventory via a series of expenditures (for material, labor, etc.), rather than in one fell swoop. What is important to note about product costs is that they attach to inventory and are thus said to be “inventoriable” costs.
+
+4.1	
+
+Period Costs
+
+Some terms are hard to define. In one school of thought, period costs are any costs that are not product costs. But, such a definition is a stretch, because it fails to consider expenditures that will be of benefit for many years, like the cost of acquiring land, buildings, etc. It is best to relate period costs to presently incurred expenditures that relate to SG&A activities. These costs do not logically attach to inventory, and should be expensed in the period incurred. It is fair to say that product costs are the inventoriable manufacturing costs, and period costs are the nonmanufacturing costs that should be expensed within the period incurred. This distinction is important, as it paves the way for relating to the financial statements of a product producing company. And, the relationship between these costs can vary considerably based upon the product produced. A soft drink manufacturer might spend very little on producing the product, but a lot on selling. Conversely, a steel mill may have high inventory costs, but low selling expenses. Managing a business will require you to be keenly aware of its cost structure.
+
+27
+Download free eBooks at bookboon.com
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Financial Statement Issues that are Unique to Manufacturers
+
+5	 Financial Statement Issues that are Unique to Manufacturers
+Unlike retailers, manufacturers have three unique inventory categories: Raw Materials, Work in Process, and Finished Goods. Below is the inventory section from the balance sheet of an actual company:
+,19(1725,(6 5$:0$7(5,$/ :25.,1352&(66 ),1,6+('*22'6   
+
+For this company, observe that the finished goods is just a small piece of the overall inventory. Finished goods represent the cost of completed products awaiting sale to a customer. But, this company has a more significant amount of raw materials (the components that will be used in manufacturing units that are not yet started) and work in process. Work in process is the account most in need of clarification. This account is for goods that are in production but not yet complete; it contains an accumulation of monies spent on direct material (i.e., the raw materials that have been put into production), direct labor, and applied manufacturing overhead. Your earlier studies should have ingrained these formulations: Beginning Inventory + Purchases = Cost of Goods Available for Sale, and Cost of Goods Available for Sale – Ending Inventory = Cost of Goods Sold. If you need a refresher, look at the Current Assets book. Of course, these relations were necessary to calculate the cost of goods sold for a company with only one category of inventory. For a manufacturer with three inventory categories, these “logical” formulations must take on a repetitive nature for each category of inventory. Typically, this entails a detailed set of calculations/ schedules for each of the respective inventory categories. Don’t be intimidated by the number of schedules, as they are all based on the same concept.
+
+5.1	
+
+Schedule of Raw Materials
+
+Focusing first on raw material, a company must determine how much of the available supply was transferred into production during the period. The schedule below illustrates this process for Katrina’s Trinkets, a fictitious manufacturer of inexpensive jewelry.
+
+28
+Download free eBooks at bookboon.com
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Financial Statement Issues that are Unique to Manufacturers
+
+.$75,1$¶675,1.(76 6FKHGXOHRI5DZ0DWHULDOV )RUWKH<HDU(QGLQJ'HFHPEHU;
+%HJLQQLQJUDZPDWHULDOVLQYHQWRU\-DQ 3OXV1HWSXUFKDVHVRIUDZPDWHULDOV 5DZPDWHULDOVDYDLODEOH /HVV(QGLQJUDZPDWHULDOVLQYHQWRU\'HF 5DZPDWHULDOVWUDQVIHUUHGWRZRUNLQSURFHVVWRVFKHGXOHRIZRUNLQSURFHVV      
+
+The amounts in the schedule are all “made up” to support the example, but in a real world scenario, the beginning and ending inventory amounts would be supported by a physical inventory and the purchases determined from accounting records. Or, Katrina might utilize a sophisticated perpetual system that tracks the raw material as it is placed into production. Either way, the schedule summarizes the activity for the period and concludes with the dollar amount attributed to direct materials that have flowed into the production cycle. This material transferred to production appears in the schedule of work in process that follows.
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+29
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Financial Statement Issues that are Unique to Manufacturers
+
+5.2	
+
+Schedule of Work in Process
+
+The following schedule presents calculations that pertain to work in process. Pay attention to its details, noting that (1) direct materials flow in from the schedule of raw materials, (2) the conversion costs (direct labor and overhead) are added into the mix, and (3) the cost of completed units to be transferred into finished goods is called cost of goods manufactured. The amounts are assumed, but would be derived from accounting records and/or by a physical counting process.
+.$75,1$¶675,1.(76 6FKHGXOHRI:RUNLQ3URFHVV )RUWKH<HDU(QGLQJ'HFHPEHU;
+%HJLQQLQJZRUNLQSURFHVVLQYHQWRU\-DQ 3OXV$GGLWLRQVWRZRUNLQSURFHVV 'LUHFWPDWHULDOVIURPVFKHGXOHRIUDZPDWHULDOV 'LUHFWODERU )DFWRU\RYHUKHDG ,QGLUHFWPDWHULDO ,QGLUHFWODERU )DFWRU\XWLOLWLHV )DFWRU\GHSUHFLDWLRQ )DFWRU\LQVXUDQFHPDLQWHQDQFHDQGWD[HV 7RWDOPDQXIDFWXULQJFRVWV /HVV(QGLQJZRUNLQSURFHVVLQYHQWRU\'HF &RVWRIJRRGVPDQXIDFWXUHGWRVFKHGXOHRIFRVWRIJRRGVVROG                                
+
+5.3	
+
+Schedule of Cost of Goods Manufactured
+
+The schedules of raw materials and work in process are often combined into a single schedule of cost of goods manufactured. This schedule contains no new information from that presented on the prior page; it is just a combination and slight rearrangement of the separate schedules.
+.$75,1$¶675,1.(76 6FKHGXOHRI&RVWRI*RRGV0DQXIDFWXUHG )RUWKH<HDU(QGLQJ'HFHPEHU;
+'LUHFWPDWHULDOV %HJLQQLQJUDZPDWHULDOVLQYHQWRU\-DQ 3OXV1HWSXUFKDVHVRIUDZPDWHULDOV 5DZPDWHULDOVDYDLODEOH /HVV(QGLQJUDZPDWHULDOVLQYHQWRU\'HF 5DZPDWHULDOVWUDQVIHUUHGWRSURGXFWLRQ 'LUHFWODERU )DFWRU\RYHUKHDG ,QGLUHFWPDWHULDOV ,QGLUHFWODERU )DFWRU\XWLOLWLHV )DFWRU\GHSUHFLDWLRQ )DFWRU\LQVXUDQFHPDLQWHQDQFHDQGWD[HV 7RWDOPDQXIDFWXULQJFRVWV %HJLQQLQJZRUNLQSURFHVVLQYHQWRU\-DQ /HVV(QGLQJZRUNLQSURFHVVLQYHQWRU\'HF &RVWRIJRRGVPDQXIDFWXUHG                               
+
+30
+Download free eBooks at bookboon.com
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Financial Statement Issues that are Unique to Manufacturers
+
+5.4	
+
+Schedule of Cost of Goods Sold
+
+The determination of cost of goods sold is made via an examination of changes in finished goods:
+.$75,1$¶675,1.(76 6FKHGXOHRI&RVWRI*RRGV6ROG )RUWKH<HDU(QGLQJ'HFHPEHU;
+%HJLQQLQJILQLVKHGJRRGVLQYHQWRU\-DQ   3OXV&RVWRIJRRGVPDQXIDFWXUHGIURPVFKHGXOHRIZRUNLQSURFHVV *RRGVDYDLODEOHIRUVDOH /HVV)LQLVKHGJRRGVLQYHQWRU\'HF &RVWRIJRRGVVROGWRLQFRPHVWDWHPHQW      
+
+5.5	
+
+The Income Statement
+
+An income statement for a manufacturer will appear quite similar to that of a merchandising company. The cost of goods sold number within the income statement is taken from the preceding schedules, and is found in the income statement below. All of the supporting schedules that were presented leading up to the income statement are ordinarily “internal use only” type documents. The details are rarely needed by external financial statement users who focus on the income statement. In fact, some trade secrets could be lost by publicly revealing the level of detail found in the schedules. For example, a competitor may be curious to know the labor cost incurred in producing a product, or a customer may think that the finished product price is too high relative to the raw material cost (e.g., have you ever wondered how much it really costs to produce a pair of $100+ shoes?). .$75,1$¶675,1.(76 ,QFRPH6WDWHPHQW )RUWKH<HDU(QGLQJ'HFHPEHU;
+6DOHV &RVWRIJRRGVVROG *URVVSURILW 2SHUDWLQJH[SHQVHV  6HOOLQJ *HQHUDO	DGPLQLVWUDWLYH 1HWLQFRPH       
+
+5.6	
+
+Reviewing Cost of Flow Concepts for a Manufacturer
+
+Review the following diagram that summarizes the discussion thus far. Notice that costs are listed on the left – the “product costs” have a blue drop shadow and the “period costs” have a pink drop shadow. Further, the “prime costs” of production have a back slash in the blue shadow, while the “conversion costs” have a forward slash in the blue shadow. Yes, the direct labor shadow has both forward and back slashes; remember that it is considered to be both a prime and a conversion cost!
+
+31
+Download free eBooks at bookboon.com
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Financial Statement Issues that are Unique to Manufacturers
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+32
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Financial Statement Issues that are Unique to Manufacturers
+
+5.7	
+
+Critical Thinking About Cost Flow
+
+It is easy to overlook an important aspect of cost flow within a manufacturing operation. Let’s see if you have taken note of an important concept! Try to answer this seemingly simple question: Is depreciation an expense? You are probably inclined to say yes. But, the fact of the matter is that the answer depends! Let’s think through this with an example. Suppose that Altec Corporation calculated deprecation of $500,000 for 20X1. 60% of this depreciation pertained to the manufacturing plant, and 40% related to the corporate offices. Further, Altec sold 75% of the goods put into production during the year. One third of the remaining goods placed in production were in finished goods awaiting resale, and the other portion was still being processed in the factory. So, what is the accounting implication? How does this all shake out? Let’s reexamine the above diagram – this time with the flow of the $500,000 of depreciation superimposed (for this illustration, we are ignoring all other costs and looking only at the depreciation piece):
+
+33
+Download free eBooks at bookboon.com
+
+Introduction to Managerial Accounting: Managerial and Cost Accounting
+
+Financial Statement Issues that are Unique to Manufacturers
+
+First, notice that the $500,000 of depreciation cost enters the cost pool on the left; $300,000 attributable to manufacturing ($500,000 × 60%) and $200,000 to nonmanufacturing ($500,000 × 40%). The nonmanufacturing depreciation is a period cost and totally makes its way to expense on the right side of the graphic. But, the manufacturing depreciation follows a more protracted journey. It is assigned to work in process, and 75% of the goods put in process end up being completed and sold by the end of the year. Therefore, $225,000 of the $300,000 ($300,000 × 75%) is charged against income as cost of goods sold. The other $75,000 ($300,000 – $225,000 cost of goods sold) remains somewhere in inventory. In our fact situation, 1/3 of the $75,000 ($25,000) is attributable to completed goods and becomes part of finished goods inventory. The other $50,000 ($75,000 × 2/3) stays in work in process inventory since it is attributable to units still in production. Confusing enough? The bottom line here is that only $425,000 of the depreciation was charged against income. The other $75,000 was assigned to work in process and finished goods inventory. In short, $500,000 ($300,000 + $200,000) entered on the left, and $500,000 can be found on the right ($50,000 + $25,000 + $225,000 + $200,000). Returning to the seemingly simple question, we see that a cost is not always an expense in the same period. In a manufacturing business, much of the direct material, direct labor, and factory overhead can end up in inventory – at least until that inventory is disposed. How important are these cost flow concepts? Well, they are important enough that the FASB has specified external reporting rules requiring the allocation of production overhead to inventory. And, for tax purposes, the IRS has specific “uniform capitalization” rules. Under these rules, inventory must absorb direct labor, direct materials, and indirect costs including indirect labor, pensions, employee benefits, indirect materials, purchasing, handling, storage, depreciation, rent, taxes, insurance, utilities, repairs, design cost, tools, and a long list of other factory overhead items. A company’s results of operations are sensitive to proper cost assignment, and management accountants are focused on processes for correctly measuring and capturing this information. Subsequent chapters will better acquaint you with this aspect of accounting.
+
+34
+Download free eBooks at bookboon.com
+

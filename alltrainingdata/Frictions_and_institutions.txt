@@ -1,0 +1,2231 @@
+Frictions	and	institutions
+Gilles	Saint-Paul
+
+Download	free	books	at
+
+Gilles Saint-Paul
+
+Frictions and institutions
+
+2
+Download free eBooks at bookboon.com
+
+Frictions and Institutions 1st edition © 2014 Gilles Saint-Paul & bookboon.com ISBN 978-87-403-0787-0
+
+3
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Contents
+
+Contents
+1	Introduction	 1.1	Foreword	 1.2	Contents	 2	 Labor market transitions	 6 6 6 10 15 15 22 28 38 39 40 42
+
+3	 The standard matching framework	 3.3	 3.4	 3.5	 A simple framework	 Institutions and wage formation	 Endogenous job destruction	
+
+4	 Welfare effects of labor market institutions	 4.6	 4.8	 The matching function is linear in vacancies	 Computing the socially optimal level of G.	 4.7	 The matching function is Cobb-Douglas with an equal exponent on both inputs	
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+Contents
+
+5	
+
+Firing taxes and efficiency wages	
+
+50 68 68 87 87 89 91 97 106 109
+
+6	 The political economy of unemployment benefits	 6.9	 Wage effects of unemployment compensation	
+
+7	 Heterogeneous worker type and active labor market policy	 7.11	 7.13	 7.14	 The basic framework	 Social welfare	 Welfare effects of active labor market policies	 7.12	Equilibrium	
+
+	References	 	Endnotes	
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+Introduction
+
+1	Introduction
+1.1	Foreword
+This book is based on my lectures on labor market institutions at Humboldt University Research Training Group and IMT Lucca in August and September 2013. It is a textbook which also contains some original research; the latter is presented in a “raw form”, which is relatively close to the way the ideas were originally formulated. Hence there is little dressing up and sweeping under the carpet, which I believe has pedagogical advantages for an audience of graduate students expecting to develop a career in research. The goal is to induce the student to work with matching models and to perform the required analysis. This is why many analytical results are presented as exercises for the reader. Also, there is substantial emphasis on proving analytical results as opposed to constructing and calibrating a dynamic stochastic general equilibrium model. Mastering the analytics is important because the economic effects being analyzed are explicitly present in the terms of the analytical equations, and interpreting them correctly is a crucial skill any applied theorist should have.
+
+1.2	Contents
+The book introduces the reader to the now largely standard Mortensen-Pissarides (1994) matching model of the labor market, and then builds a number of applications of this model that allow us to study the distributional effects of various labor market policies and institutions. The motivation is simple: many such institutions are considered as harmful for job creation, yet politically difficult to reform. We want to know why, and the framework developed in this book allows us to find out who gains and who loses from those “rigidities”. The matching framework combines a number of key ingredients: •	 There are frictions because recruitment is costly. These frictions are captured by a “matching function”, which determines the flow of new jobs being created in the economy as a function of the stock of unemployment and vacancies. •	 These recruitment costs create a surplus which can be appropriated ex-post by insiders, i.e. workers who already have a job, as in the older Insider-Outsider literature of Lindbeck and Snower (1989). The standard hold-up problem of Grout (1984) applies. That is, recruitment costs paid by the firm are sunk at the time wage bargaining takes place, implying that part of the benefits associated with ex-ante investment in recruitment activity by firms end up being appropriated by workers. A similar phenomenon takes place regarding the workers’ search effort.
+
+6
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Introduction
+
+•	 Because of that, insiders can get above-market clearing wages, implying the existence of involuntary unemployment. Here involuntary unemployment means that the welfare of the employed is strictly greater than the welfare of the unemployed. The unemployed would strictly prefer to have a job and yet they have to wait to find one. •	 Unemployment is a productive activity because it is an input in the search process, along with vacancies. This has two implications: – Recruiting costs go up with the tightness of the labor market – which is typically measured as the ratio between vacancies and unemployment – because it takes more time for firms to find a worker. – Even if insiders could not extract a share of the surplus created by sunk recruitment costs, there would be a positive level of unemployment, although in such a polar case it would not be involuntary. •	 Search activity takes place in a common pool. As a result, it is subject to congestion externalities. That is, an additional worker seeking a job reduces the other workers’ probability of finding one, and similarly an additional vacancy posted by a firm reduces the other firms’ probability of filling their own vacancies1. This approach was very successful among the economics profession as an analytical tool, because it combines together the insights of the earlier literature on wage rigidity and equilibrium unemployment (Layard and Nickell (1989), Shapiro and Stiglitz (1984)) with neo-Keynesian models of the 1980 vintage that emphasize coordination failures (Diamond (1981,1982), Cooper and John (1989)). Furthermore as shown by Hosios (1989), the welfare analysis of such models can be made transparent so as to highlight the respective role of the hold-up problem and congestion externalities in making the equilibrium deviate from the optimum. In earlier work (Saint-Paul 2000), I have studied how conflicts of interest among workers shape the political support for labor market institutions. These conflicts of interest arise because workers may differ in their characteristics, such as skills, but this work and the present one especially focus on conflicts between workers who are otherwise identical but may be in different current situations in the labor market. The currently unemployed have different preferences from the currently employed, and the latter may also differ by the situation of their firm: Workers in firms that are doing well have different interests from workers in firms that are doing poorly.
+
+7
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Introduction
+
+After having introduced the basics of the matching model, the book considers a number of specific institutions. For each of those institutions, the effect on the welfare of different kinds of workers is computed. The outcome is also compared to the first best, which in most examples coincides with the market outcome if the famous “Hosios conditions” hold. These conditions state that the surplus from a match should be allocated between the two parties in proportion to the relative importance of their search input in generating new jobs, which turns out to be equal to the elasticity of that input in the matching function. That is, the more a given side of the market is important in the job creation process, the greater the share of the surplus that we want to give it. I start with employment protection. An important distinction is made between employment protection as a device that enhances the workers’ bargaining power versus employment protection as a tax on separations. The latter aspect, in particular, is not valued by workers per se as long as wages are set by wage bargaining, because then separations are efficient and there is no value in raising the duration of the match. However, under other forms of wage rigidity such as efficiency wages (a class of models where firms pay above market clearing wages so as to enhance productivity and effort), a firing tax may be valued by some workers and a coalition may emerge in favor of such policies. The key difference between the two cases is that, under Nash bargaining, at the margin of separation, a worker is not earning any rent above his opportunity cost of labor. Therefore, there is no value to him in artificially preventing separation through a firing tax. In equilibrium, the firing tax just reduces productivity and wages. In contrast, when workers are paid efficiency wages, they still earn rents at the margin of separation: In such a world, there is a meaningful distinction between quits and layoffs. Layoffs are decided by the firm despite that they harm workers. A contractual failure prevents firms and workers from reaping the gains from job continuation. Firing taxes will typically be supported by incumbent workers and they may even improve welfare, since wages exceed the opportunity cost of labor. However, incumbent workers will support a larger level of employment protection than the socially efficient one. The effect of firing taxes and severance payments on economic performance has been studied in a number of contexts, from partial equilibrium analysis (Lazear, 1990, Bentolila and Bertola, 1990, Bentolila and Saint-Paul, 1994), to general equilibrium analysis (Hopenhayn and Rogerson, 1993, Bertola, 1994), to frictional models (Alvarez and Veracierto, 2000, 2001). The general equilibrium models, in particular, allow to compute the welfare effects of employment protection, in addition to their effects on employment and output, but those papers generally limit themselves to some aggregate welfare measure, rather than focus on their differential impact across groups, as is the case in Saint-Paul (1997, 2002). The effects analyzed here are also related to that of Boeri et al. (2012), Bruegemann (2007, 2012), and more recently Vindigni et al. (2014), who all pay close attention to conflicts of interest and political status-quo bias in collective decisions about employment protection legislation.
+
+8
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Introduction
+
+I then study the gainers and losers from unemployment compensation. The analysis, by assuming riskneutrality, ignores the insurance dimension of such policies and focuses on its effects on welfare through wage formation and job search. There exists a substantial literature which studies optimal unemployment benefits in matching models2, under risk aversion (see Michaud, 2013 for a recent contribution and literature review). In many of those contributions, though, the effects of unemployment benefits on wages, and from there on job creation and job destruction, tend to dominate their insurance effects, which somewhat validates the analysis pursued here (See Krusell et al. (2010))3. The reason is twofold: First, to the extent that more generous benefits improve the bargaining position of incumbent workers, thus pushing up wages, much of their insurance role is undone by the wage formation process. Second, borrowing and saving allow people to insure to a substantial degree even in the absence of unemployment benefits. Relative to that literature, the analysis presented here insists on the role of conflicts of interest between workers, in particular as a function of their current labor market status. The intuitive results of the earlier literature on conflicts of interest over unemployment benefits (Wright, 1986) – that the unemployed benefit more than the employed and that groups more exposed to unemployment are more in favor of unemployment benefits – are confirmed. Some additional results can be established regarding the effects of matching efficiency as well as the initial level of unemployment (its effect on the the political support for unemployment benefits crucially depends on how an increase in initial unemployment affects various worker categories). Finally, I study the role of one specific active labor market policy – a subsidy to job search – in a model where workers differ by their productivity level4. It is shown that in addition to the usual congestion externality, job search generates a externality on the average quality of the pool of unemployed: When public incentives for job search are put in place, the marginal workers who join the pool of unemployed job seekers are less productive than average, which reduces the average quality of job seekers, in addition to the reduction in their job finding probability. Because of this additional externality, the Hosios condition is no longer sufficient for optimality. At the Hosios condition (i.e. if the congestion externality is fixed), the unemployed search too much and the quality of job applicants is too low. One can show, paradoxically, that the optimal policy involves a negative subsidy on job search, compensated by an increase in the worker’s bargaining power beyond the Hosios level. We can also prove that more productive workers are less in support of active labor market policies: The reduction in the quality of unemployed job seekers reduces the incentives for posting vacancies, which inturn lowers job finding rates. But the more productive workers lose more from that effect, because they earn more while in a job. The next two chapters introduce the technical apparatus of matching models to the reader. The subsequent chapters apply it to the analysis of labor market institutions.
+
+9
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Labor market transitions
+
+2	 Labor market transitions
+Throughout this book time will be continuous. Workers will generally move between two states: employed and unemployed. In some cases, though, employed workers will also move between different states, “characterized by different productivity levels. The transitions between these states are governed by a “continuous time Markov process”, described by the instantaneous transition probabilities between the states. This chapter intends to familiarize the reader with handling those Markov processes. Those familiar with these notions may proceed to the next chapter. The first point to understand about instantaneous transition probabilities is that they are not probabilities; they are probabilities per unit of time. This means the following. Consider a worker who is unemployed and looking for a job. He has a probability p per unit of time of finding a job. This means that during a very small interval dt , his probability of finding a job is equal to pdt . Because dt is arbitrarily small, pdt is always (much) lower than 1. Thus the quantity p itself can be any number and does not have to lie between 0 and 1. This is not surprising because p is a probability per unit of time, not a probability. How do we, then, compute the actual probability of finding a job during any interval Δt? To do so we compute the evolution over time of Pt , the probability of still being unemployed at t. It must satisfy the following equation: Pt +dt = Pt (1− pdt ), which tells us that the probability of being still unemployed at t + dt is equal to the probability of being unemployed at t times the probability of not having found a job during dt . This condition is equivalent to 1 d Pt = − p , Pt dt and therefore Pt = e− pt . It follows that the probability of finding a job during Δt is 1− e− p∆t . We note that it is clearly between 0 and 1, and that for Δt small it is well approximated by pDt . It is also easy to see that 1 – Pt, considered as a function of t, is the cumulative density of the durations of unemployment spells. Indeed, the probability that the unemployment spell is greater than t is identical to the probability that the worker is still unemployed at t. Consequently, the density of spells of duration t is given by f (t ) = pe− pt .
+
+10
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Labor market transitions
+
+This allows us to compute the expected duration of unemployment. It is equal to E(D ) = ∫
++∞ 0
+
+pe− pt tdt
+
+	 	
+
+  e− pt  +∞  +∞ e − pt     = p − t dt +   ∫    0   p p  0   = 1/ p.
+
+Thus the expected duration of unemployment is just equal to the inverse of the instantaneous transition probability. Transition probabilities also affect the computation of present discounted values. Consider a worker who is employed, earns a wage w per unit of time and loses his job with probability s per unit of time. What is the present discounted value of his earnings in his current job? Assume the discount rate is r. We know that the job lasts for t units of time with a probability density equal to se-st . Furthermore, the present discounted value (PDV of wages for a job with duration t is equal to 1− e−rt . r
+
+∫
+
+t 0
+
+we−ru du = w
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+11
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+Labor market transitions
+
+Therefore the expected PDV of wages can be computed as
+
+∫
+
++∞ 0
+
+se−st w
+
+sw  1 1− e−rt 1  w  dt =  . − =  s r +s  r +s r r 
+
+We see that the instantaneous probability that the job is lost enters as an additional discount rate in the denominator. Everything takes place as if the future were discounted at rate r + s rather than r . If the job lasted forever, its PDV would be equal to w / r . There is an alternative way of deriving this formula which is more convenient and can be generalized to more complex cases. Define as Vt the expected PDV at t of earnings. We can write it recursively as a function of itself slightly Vt = w .dt + (1− rdt )(1− sdt )Vt +dt . This formula tells us that the value of the job today is equal to the sum of the wages accruing to the worker during dt and the contribution to today’s welfare of the possibility of still holding the job at t + dt . The latter is the product of three terms. First, the discount factor between t and t + dt , equal to e−rdt ≈ 1− rdt . Second, the probability of still having this job at t + dt , equal to 1- sdt . Third, the continuation value of having the job at t + dt , equal to Vt +dt . We can get rid of second order terms and rewrite this equation as follows: rVt = w − sVt + dVt / dt .(2.1) A very useful analogy between the valuation of a financial asset will henceforth allow us to derive this asset which is “holding this particular job at date t”. By arbitrage, this asset should have a rate of return equal to the market rate r . This is what (2.1) states. The left-hand side (LHS) is the product of the rate of return times the value of the asset: this is the money one would make, per unit of time, if the amount Vt were invested at the market rate. The right-hand side (RHS) is the sum of the dividend per unit of time class of equations (named “Bellman equations”) very easily. Vt is interpreted as the value of a financial
+
+ahead in the future:
+
+w , and the expected capital gains per unit of time, if one invests in that asset. The dividend is the wage and the expected capital gains have two components. First, with probability s per unit of time, the job is lost, with an associated capital loss equal to Vt . Thus the expected capital gain per unit of time associated rate, equal to dVt / dt , this also contributes to the expected capital gains. with the event of job loss is equal to -sVt . Second, if at t the asset has an instantaneous appreciation
+
+12
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Labor market transitions
+
+Almost all solutions to (2.1) are explosive and these solutions should be eliminated. Along an explosive the economy itself is finite the first path is not feasible. Nor is the second path since the asset can always be disposed of (this means quitting the job here), so that its value cannot fall below zero. Therefore the only acceptable solution is the non explosive one, i.e. the one such that V = 0 throughout and Vt = w . r +s path Vt either grows to infinity at a rate equal to r asymptotically, or it becomes negative in finite time. As
+
+We have thus recovered the formula for the PDV of holding the job. In fact this approach can also be used to compute quantities like expected durations. Here the expected duration of a job is the present discounted value, discounted at a rate equal to zero, of a variable equal to 1 as long as one holds the job and zero thereafter. Calling D this expected duration we can write the arbitrage condition as follows: 0.D = 1− sDt + Dt . Again the explosive solutions have to be eliminated and we get D = 1/ s , which is the standard formula. The following Exercise shows how to easily compute present discounted values in a two-state Markov model by simply writing down the Bellman equations. Exercise 1  Assume that workers are in one of two states, employed or unemployed. Assume that the transition probability per unit of time from employed to unemployed is s, while the transition probability per unit of time from unemployed to employed is a. Assume that the employed are paid a wage w while the unemployed are paid an unemployment benefit b. Let Ve the value of being employed and Vu the value of being unemployed. 	 1.	 Show that the Bellman equation for Ve is 	 	 	 	 rVe = w + s(Vu −Ve ) + V e
+.
+
+2.	 Derive the Bellman equation for Vu
+
+3.	 Show that Ve and Vu must be constant over time and compute their values. 4.	 How does an increase in a affect Ve and Vu ? Explain.
+
+13
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Labor market transitions
+
+It is also useful to keep track of the evolution over time of the fraction of the workforce in any given state. Let us continue with the example of the preceding exercise and look at the evolution over time of the unit of time is equal to the difference between the inflow into unemployment, given by s( L -U t ) and the s of them, per unit of time, is losing their jobs, thus creating an inflow of s( L -U t ) newly unemployed people. Conversely, a fraction a of the unemployed per unit of time is finding a job, creating an opposite flow equal to aU t . The difference between the two flows is the net increase in U t per unit of time, that is U t = s( L −U t ) + aU t .(2.2) Thus the steady state unemployment level is U∞ = s . s+a outflow from unemployment, given by aU t . That is, there are L -U t employed workers at t and a fraction number of unemployed workers U t , assuming that the total labor force is L. Then the change in U t per
+
+Exercise 2  Solve for the trajectory over time of U t . Compute the speed of convergence to the steady d(U t −U ∞ )/ dt . How does it depend on a and s ? state v = − U t −U ∞
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+14
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+The standard matching framework
+
+3	 The standard matching framework
+In this chapter I introduce the standard Mortensen-Pissarides matching model. I will do it in a somewhat peculiar way in order to highlight how specific institutions, in particular various forms of employment protection, affect the equilibrium.
+
+3.3	
+
+A simple framework
+
+The basic building block is the matching function, which relates hirings per unit of time to the two key inputs in the search process, unemployment and vacancies: Ht = m(U t , Vt ).(3.1) Here Ht = the gross hiring rate per unit of time, U t = the number of unemployed workers, Vt = the number of vacant jobs.
+
+The matching function is similar to a production function, and we assume it has the same properties. In particular, it is increasing in its arguments and has constant returns to scale. It is concave with respect to each of its arguments. Note that in this framework, unemployment and vacancies are not a waste: they are a productive input in the production of new matches. This defines the process for job creation. To begin with, we assume a simple process of job destruction: a fraction s of all jobs is destroyed per unit of time. Let L = the total labor force, Lt = employment at t . Then we can define the hiring, unemployment, and U t L − Lt = , L L V vt = t , L Ht ht = . L
+
+vacancy rates in relation to the total workforce: ut =
+
+Because of constant returns to scale, we can rewrite (3.1) as ht = m(ut , vt ).
+
+15
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The standard matching framework
+
+The evolution of the unemployment rate is du = −ht + s(1− ut ) dt 	 = −m(ut , vt ) + s(1− ut ).
+
+This defines a du / dt = 0 locus in the (u, v ) plane which is called the “Beveridge curve” (BC). Along this locus, we have 0 = −mu′ du − mv′ dv − sdu 	 ⇒ m′ + s dv =− u < 0. mu ′ du
+
+The Beveridge curve is therefore downward sloping. Furthermore,5   ′′ + muv ′′ dv  ′ − (mu ′ + s )(muv ′ + mvv ′′ dv )  muu mv  2   dv  du  du 		 =− 2 2 m′  du v dv ′′ ′ ′′ ′ ′′ (mu ′ + s − dv mv ′ )), ∝ (−muu mv ) + (mvv ) (mu + s ) + (muv du du and all the terms in parentheses in the last expression are > 0, therefore d 2v > 0. du 2 This proves that the Beveridge curve is convex. The convexity of the Beveridge curve is the result of decreasing marginal returns to each input in the matching function. When I increase vacancies by one unit when vacancies are large, the effect on hirings is small, and only a small reduction in unemployment would maintain a balance between employment outflows and inflows. Given constant returns, it is easier to think in terms of labor market tightness rather than vacancies. By definition, labor market tightness is q = v / u. The probability per unit of time of finding a job is p = h/u = m(u, v ) = m(1, q ) = p(q ), p ′ > 0, p ′′ < 0. u
+
+16
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The standard matching framework
+
+We have used the constant returns to scale property of the matching function in this derivation. The probability per unit of time of filling a vacancy is q= Furthermore, 1 p(q ) = qm( ,1) = qq(q ). q The Beveridge curve can be re-expressed in the w plane: u = s(1− u)− up(q ) 	 = s(1− u)− uqq(q ).(3.2) m(u, v ) 1 = m( ,1) = q(q ), q ′ < 0. v q
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+17
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+The standard matching framework
+
+Along this curve: dq s+ p < 0; =− du up′ dq dq d 2q ∝ −up′ 2 + (s + p )( p′ + p′′u ) > 0. 2 du du du The Beveridge curve delivers one dynamic relationship between u and v (or θ). Above it vacancies are larger than in steady state, so unemployment is falling. Below it, unemployment is rising. Hence the arrows on Figure 1.
+
+Figure 1: The Beveridge curve
+
+To complete the model we need another relationship between u and θ. This will come from labor demand. We assume there is a single homogeneous good. Once a worker finds a job, he produces a constant flow of this good equal to y per unit of time. He is paid a fixed wage w. There is a fixed real interest rate equal to r . Let J t be the value of the firm at t . Since the job is destroyed with flow probability s , the asset valuation equation for J is6
+
+rJ = y − w + J − sJ .(3.3) The only non explosive solution is J= y −w . r +s  (3.4)
+
+To recruit workers, firms must post vacancies. Posting a vacancy costs c per unit of time. Let Vv be the value of a vacancy. Its asset valuation equation is rVv = −c + q(q )( J −Vv ) + Vv . (3.5)
+
+18
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The standard matching framework
+
+Indeed, the dividend flow is given by –c which is the amount to be spent until the vacancy is filled. When this happens, the vacancy becomes a job, and the firm experiences a capital gain equal to J -Vv . This happens with probability q(q ) per unit of time. Therefore, the expected capital gains are equal to the sum of q(q )( J -Vv ) and the deterministic change in the value of the unfilled vacancy, Vv . There is free entry in posting vacancies. Therefore, Vv = 0. Thus we get, from eq. (4.5), J= c (3.6) . q(q )
+
+Note that the expected duration of a vacancy is 1/ q(q ), therefore this tells us that the value of a job is equal to the average recruiting cost per job. If this did not hold, there would be entry or exit of vacancies, and the process would continue until the equality is restored. In equilibrium, the cost of creating a job, given by the RHS of (3.6), must be equal to the benefit to the firm, given by the RHS of (3.4). This determines the equilibrium value of θ, which is constant and equal to  c (r + s )  . q = q−1   y −w    Figure 2 shows the adjustment dynamics.
+
+Figure 2: Adjustment dynamics under fixed wages
+
+19
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The standard matching framework
+
+The comparative statics are as follows: •	 θ goes up, and u falls, if the profitability of a job goes up, i.e. if r goes down, y goes up, w goes down. •	 θ goes up if the cost of a vacancy falls. •	 All these changes do not affect the BC. Thus the economy moves along the BC. (Figure 3) •	 A rise in s shifts both the labor demand curve and the BC through the discounting and mechanical effects of job destruction. (Figure 4) •	 Assume shocks to y alternate: this suggests that business cycles induce counter-clockwise loops around the Beveridge curve. (Figure 5) Why? Because whenever the economy is creating jobs (and therefore moving to the left), it is above the Beveridge curve, whereas it is below the Beveridge curve when destroying jobs (and moving to the right).
+
+20
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+The standard matching framework
+
+Figure 3: Impact of an increase in labor demand
+
+Figure 4: Impact of an increase in the job destruction rate s
+
+21
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The standard matching framework
+
+Figure 5: Business cycle loops
+
+3.4	
+
+Institutions and wage formation
+
+I am now going to make wages endogenous, so as to allow labor market institutions to influence wage formation in a number of ways. In particular, I consider the following institutions: 	 	 	 (i)	 Unemployment benefits, that are financed by a lump-sum tax and pay b per unit of time to the unemployed. (ii)	 A firing tax F, which is to be paid by the employer to the State upon separation. (iii)	 A mandatory severance payment G is paid to the worker.
+
+Wages will be set by a bargaining process between firms and workers. The outcome of this bargaining process will depend, in particular, on what each party could get outside of the match, referred to as their outside option” or threat point”7. A number of papers in the literature (such as Lazear, 1990) have pointed out that mandated transfers from firms to workers have no allocative effects. The idea behind this result is that such transfers can be offset in the bargaining process. In what follows, however, I am going to assume that G has to be paid to the worker if the worker/firm pair splits due to disagreement in bargaining. For this reason, the value of G mechanically raises the worker’s threat point while reducing the firm’s threat point. For this to make sense it must be that workers and firms are constantly renegotiating wages after the worker has been hired. It is this lack of commitment which allows the worker to increase his bargaining position thanks to the severance payment legislation. If one could credibly bargain over wages prior to the hiring decision, the severance payment G would be neutral again.
+
+22
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The standard matching framework
+
+The firing tax F, unlike G, will make it optimal for the firm/worker pair to separate less often. It also tends to increase the worker’s bargaining power, by raising the total surplus of the match relative to the alternative of splitting, in a way that – since the firm has to pay the firing tax – reduces the firm’s, but not the worker’s, outside option. However, as will be clear, I will focus on a special case where F ends up being a pure tax on separations, with no effect on the bargaining process, while G only affects the bargaining process and has no partial equilibrium effect on separations. This will highlight in a contrasting way the key differences between severance payments and firing taxes. Let us now describe the bargaining system in a more precise way. Bargaining is individual between each worker and the firm. It is easiest to assume that 1 firm = 1 job. Let Ve be the value of being employed, Vu be the value of being unemployed. At each date wages are set so as to maximize the joint log Nash product8:
+
+1−j max ln ( J − (Vv − ( F + G ))) (Ve − (Vu + G ))j  .(3.7)  
+
+23
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+The standard matching framework
+
+That is, wages are set so as to maximize a geometric weighted average of the net gains to the firm and to the worker. These net gains are equal to the difference between the present discounted value of having the worker employed by the firm and its counterpart if the match has to separate, after which the position becomes vacant and the worker becomes unemployed. In the case of the firm, the first term is J , the value of a filled position; the second term (the outside option) is the value of a vacancy Vv – which will again turn out to be nil, due to free entry – minus the cost to the firm of separating from the worker. This cost is equal to the sum of the severance payment G and the firing tax F . For the worker, the first term is equal to Ve , the value of being employed, while the outside option is the sum of the value of being unemployed Vu and the severance payment which would be paid to the worker upon separation.
+
+The weights 1-j and j reflect differences in bargaining power between the firm and the worker. The greater j the greater the worker’s bargaining power and the greater the share of the surplus from the match that he can appropriate. In what follows, though, I will use the term “bargaining power” in a more general sense, referring to the worker’s ability to get higher wages, regardless of whether it comes from a high value of j or a high outside option. To derive the implications of this wage-setting process, we need to compute the first-order conditions (FOC) of the maximization problem (3.7). For any increase in wages Dw we have (all else equal) ∆Ve = ∆w and ∆J = −∆w = −∆Ve .9 Therefore the FOC is: 1 −j j = . J −Vv + F + G Ve −Vu − G Since Vv = 0, this is equivalent to Ve = Vu + That is: Value of being employed = Opportunity cost of work+Rent. G j jF J+ + .(3.8) 1 −j 1 −j 1 −j
+
+The rent has two components. First, a surplus sharing part
+
+appropriates a fraction of the surplus created by the sunk hiring costs. Since, from (3.6) J = c , this
+q(q )
+
+j J , which means that the worker 1 -j
+10
+
+term is proportional to the total recruiting cost that has been spent . Second, a fixed part, captured by
+jF G , which implies that even if there is no surplus the worker can threaten to appropriate an + 1 −j 1 −j amount j F + G . We note that both F and G increase the rent: 1 −j 1 −j
+
+Firing costs increase the worker’s bargaining power.
+
+24
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The standard matching framework
+
+Both do so by reducing the firms’ outside option. In addition, firing taxes raise the total private surplus of the match by artificially lowering the value of separation. But G, which is a pure transfer from the firm to the worker, has no direct effect on the total private surplus of the match. In the sequel of this chapter I will assume that j = 0. According to (3.8), only the mandatory severance payment then gives the worker a capacity to extract rents from the employer. This assumption, in addition to its analytical simplicity, allows us to directly relate the worker’s bargaining power to an institution which can be changed by policy. Furthermore, since, as we will see, G has no direct impact on separation decisions, this parameter allows us to insulate the effects of employment protection on wage formation from its effect on separations. At the same time, by setting j equal to zero, we neutralize any effect of F on bargaining power, which allows us to use this parameter to analyze the effects of employment protection as a pure tax on separations, independently of any direct effect on wages. We can then rewrite the above equations as follows. Let the net surplus of the match be defined as the sum of the net gains to each party, i.e. W = ( J − (Vv − ( F + G )))+ (Ve − (Vu + G )) (3.9) 	 = J + Ve −Vu + F . Then, from (3.8), we have that Ve = Vu + G ,(3.10) which in turn implies, from (3.9), J = W − F − G .(3.11) Equation (3.10) tells us that the worker’s rent is simply equal to the mandated severance payment. In Section 3.3, we have derived the equilibrium value of θ from the condition on optimal job creation. We now need to modify this analysis to take the fact that wages are endogenous into account. What we are looking for, technically, is a law of motion for θ as a function of θ and u in order to be able to draw a diagram such as Figure 2 again. To do so, we start from the asset valuation equations for Ve and Vu : rVe = w + s(Vu −Ve + G ) + Ve ;(3.12) rVu = b + qq(q )(Ve −Vu ) + Vu . (3.13)
+
+25
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The standard matching framework
+
+We rewrite the asset valuation equation for J as rJ = y − w + s(−J − F − G ) + J (3.14) Consolidating (3.14), (3.12), and (3.13) we get an asset valuation equation for the net value of the match rW = y + rF −[b + qq(q )G ]− sW + W .(3.15) The term in b + qq(q )G is the opportunity cost to the worker of being employed in this match instead of being unemployed. It consists of two terms: The unemployment benefit level b , and the annuity equivalent of the rents obtained in future jobs. The latter is equal to the product of the job finding probability qq(q ) and the employed workers’ rent, G. The term rF is the implicit interest income earned on the future separation tax. That is, as long as the worker is not laid off, this is as if the match holds a bond of value F , which it can use to pay the separation tax. Last, W can be expressed as a function of θ, since from (3.6) and (3.11), c = J = W − F − G .(3.16) q(q )
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+26
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+The standard matching framework
+
+Eliminating W between (3.15) and (3.16), we get a dynamic equation for θ: (r + s ) c c + (r + s + qq(q ))G + sF = y − b − q ′ (q )q (3.17) q(q ) q(q )2
+
+The following exercise shows that, again, eliminating explosive solutions yields a constant value of θ throughout the adjustment path. (See Figure 6).
+
+Figure 6: Saddle path stability under dynamic wage bargaining
+
+Exercise 3  Show that (3.17) defines a positive relationship between q and θ. Conclude that the only nonexplosive trajectory is such that q jumps to its long-term steady state value from t = 0 on. To understand (3.17), we need to compute wages. The severance payment G pins down the rent paid to the worker, while F + G is the total cost of separations for the firm. Since Ve −Vu = G , in steady state we have, from (3.12) and (3.13), that rVu = b + qq(q )G and rVe = w , so w = b + (r + qq(q ))G .(3.18) Wages are higher •	 The greater the rent, i.e. “bargaining power” of workers, G, •	 The greater the level of unemployment benefits, •	 The greater the job finding rate qq(q ), •	 The greater the interest rate r . (When r is higher, workers get a greater annuity value by forcing separations immediately, cashing in G and putting it in the bank. Wages have to go up to compensate for this).
+
+27
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The standard matching framework
+
+Next, assuming we are in steady state, we can eliminate J between (3.14) and (3.6), and we then get, substituting in the expression for w from (3.18): c y − w − s( F + G ) (3.19) = r +s q(q ) y − b − (r + s + qq(q ))G − sF = .(3.20) r +s    	   In steady state, this is equivalent to (3.17). The left-hand side (LHS) is the total hiring cost to be paid on average in order to create a job. It is equal to the product of the vacancy cost per unit of time c and the average duration of a vacancy 1/ q(q ). The RHS is equal to J, expressed as the PDV of profits discounted at r + s , where, as is clear from (3.19), profits are equal to output minus wage and non wage labor costs. The latter, given by s( F + G ), reflect the fact that the severance payment and the tax have to be paid with frequency s , which reduces J accordingly. We clearly have: ∂q < 0, ∂b ∂q < 0, ∂F ∂q < 0. ∂G F is essentially a tax on labor to be paid upon separation, b increases wages, and G does both.
+
+3.5	
+
+Endogenous job destruction
+
+Another direction in which we may want to enrich the model is by endogenizing job destruction. For  this we assume, following Mortensen and Pissarides (1994), that the firm is subject to idiosyncratic productivity shocks. The stochastic process driving those shocks is the following: productivity at any date is y = σε , where e is distributed over [el , eu ]. When a firm hires a worker the initial value of e is eu . With arrival rate l per unit of time, e is then redrawn with a c.d.f. H (), H ′ = h, over [el , eu ]. We will also frequently use the following function: I (z ) = ∫ u xh( x )dx .(3.21)
+z e
+
+The endogenous job destruction margin is determined by a threshold ed such that the job is destroyed if e < ed . (Note: it may be that ed £ eu in which case the job is never destroyed).
+
+28
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The standard matching framework
+
+Clearly, the job destruction rate is now s = λH (εd ). The negotiated wage now generally depends on the current value of e : w = w (e ). How can we modify the above analysis to take care of this extension of the model? In Section 3.4, Equation (3.17) determined the equilibrium value of θ uniquely. We need to go through the same steps, and instead of (3.17), we will get a relationship between θ and ed which is essentially an equilibrium job creation condition. We then supplement this relationship with another one between the same two variables, which is a job destruction condition. This provides us with a joint determination of θ, the level of labor market tightness, and ed , the job destruction margin. 3.5.1	 The job creation condition
+
+We need to rewrite the asset valuation equation, in steady state, for the value of the firm J: rJ (ε ) = σε − w (ε) + λ ∫ u ( J ( x ) − J (ε ))h( x )dx + λH (εd )(0 − J (ε )− F − G ).(3.22)
+ε d ε
+
+.
+
+29
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+The standard matching framework
+
+The dividend part of the RHS is still equal to y - w , but it now depends on the current state of the firm e. The capital gains part reflects all possible transitions from the current productivity state to another state. If such a transition takes place, one has to distinguish between two cases. If the new value of e , then equal to J ( x )- J (e ). Aggregating over those states and taking into account that productivity shocks arrive with probability l per unit of time, we get that the contribution to expected capital gains of those that x < ed , the match is dissolved and the firm makes a capital gain equal to 0 - J (e )- F - G . This event happens with probability λH (εd ) per unit of time, accounting for the last term in the RHS of (3.22). transitions is given by the term λ ∫ u ( J ( x )− J (ε))h( x )dx in the RHS of (3.22). If on the other hand we have
+ε d ε
+
+x , is such that x > ed , it is profitable for the firm/worker pair to continue to operate. Its capital gain is
+
+Similarly, the value of the worker is given by rVe (ε ) = w (ε ) + λ ∫ u (Ve ( x )−Ve (ε ))h( x )dx + λH (εd )(G + Vu −Ve (ε )).(3.23)
+ε d ε
+
+Finally, the value of being unemployed obeys rVu = b + θq(θ )(Ve (εu )−Vu ).(3.24) The net surplus of the match is now W (e ) = J (e ) + Ve (e )−Vu + F . The Nash bargaining solution with j = 0 implies that (3.10) and (3.11) hold, mutatis mutandis: J (e ) = W (e ) − F − G ;(3.25) Ve (e ) = Vu + G .(3.26) Note: here Ve depends on labor market conditions through Vu , but not on the firms’ current productivity
+
+shock. With j = 0 wages are sticky in response to idiosyncratic productivity shocks, because the worker is not able to appropriate any part of a productivity increase in his match. Using (3.22), (3.23) and (3.24) we get the new version of (3.15): rW (ε ) = σε + rF −[b + θq(θ )G ]+ λ ∫ u (W ( x )−W (ε ))h( x )dx −λH (εd )W (ε ), a (3.27)
+ε d ε
+
+or equivalently (r + λ )W (ε ) = σε + rF −[b + θq(θ )G ]+ λW ,(3.28)
+
+30
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The standard matching framework
+
+where W = ∫ uW ( x )h( x )dx
+e d e
+
+is a constant which is independent of the current value of e. Multiplying both sides of (3.28) by h(e) and integrating between ed and eu , we get (r + λ )W = σ I (εd ) + rF (1− H (εd ))−[b + θq(θ )G ](1− H (εd )) + λW (1− H (εd )). Hence we can solve for W as a function of θ and ed : W= σ I (εd ) + rF (1− H (εd ))−[b + θq(θ )G ](1− H (εd )) .(3.29) r + λH (εd )
+
+The equilibrium condition for job creation is c J (εu ) = , q(θ ) or equivalently, from (3.25): W (εu ) = c + F + G. q(θ )
+
+The RHS is the total opportunity cost of hiring a worker. Substituting into (3.28) and using (3.29) we see that this is equivalent to  λH (εd ) θq(θ )  c   + + F +G 1     + λ ( ε ) q(θ ) r + λH (εd ) r H  d  	  εu  I (εd ) b   − . (3.30) = σ + λ     r ( r )( r H ( )) r + H (εd ) + + + ε λ λ λ λ  d 
+
+This formula defines an equilibrium relationship, which we will call the job creation condition (JC), between θ and ed . It is actually identical to (3.17) in steady state, provided we notice that 	 	 (i)	 The job destruction rate is s = λH (εd ) σ(εu (r + λH (εd )) + λI (εd )) . r +λ
+
+(ii)	 The average discounted productivity of a match is11 y =
+
+The key difference, of course, is that now ed is endogenous, so we need another equilibrium relationship between θ and ed to close the model. This will come from the job destruction condition.
+31
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The standard matching framework
+
+3.5.2	
+
+The job destruction condition
+
+The job destruction condition (JD) is J (ed ) = −F − G , which states that at the margin of job destruction, the continuation value of the firm is equal to the total cost of getting rid of the worker. From (3.25) se see that this is equivalent to W (ed ) = 0.(3.31) This equation tells us that job separations are jointly privately efficient, conditional on the separation tax F . But the match would like to separate whenever J + Ve ≤ Vu , that is at e such that W (e ) = F . Thus the tax tends to make separations inefficiently low from the point of view of the match. Note that G plays no role here. The two conditions coincide if F = 0 and G > 0. A pure severance payment does not distort separation decisions, contrary to the firing tax. But G does distort hiring since it has an impact on wages. For the record, note that by linearity of (3.27) the preceding equation implies that for all ε ∈ [ ed , eu ], e Î W (ε ) = σ (ε − εd ). r +λ
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+32
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+The standard matching framework
+
+Using (3.28), (3.29), and (3.31), we see that the JD condition is equivalent to − r θq(θ ) F +G r + λH (εd ) r + λH (εd )  εd  I (εd ) b   − = σ + .(3.32) λ    (r + λ )(r + λH (εd ))   r +λ  r + λH (εd )
+
+Note that F and G have opposite signs in the LHS of (3.32). While F reduces separations, G raises separations in equilibrium because it raises the rents obtained by workers in alternative jobs, thus pushing up the opportunity cost of labor. Also, keep in mind that this equation holds only if there is an interior solution for ed in (3.31), that is, if W (el ) £ 0. Otherwise, one has ed = el and job separation never takes place. To solve the model, it is convenient to keep the JD condition while replacing the job creation condition (3.30) by the difference between (3.30) and (3.32), which yields σ(εu − εd ) c = + F + G (3.33) r +λ q(θ ) Remarks: -- This clearly defines a negative relationship Δ between θ and ed . The tighter the labor market, the greater the recruitment costs, and the greater the value of an initial match, which in turn reduces the separation point. Separations occur less often when one has invested more in recruitment. -- Both F and G reduce the separation point (given θ) and the effect is the same. Even though F and G have different effects, the difference between the firm’s value at the hiring point and at the separation point only depends on F + G. Yet the channels are quite different. The reason why G acts as a firing cost is that, anticipating to have to pay it to the worker upon separation, firms require higher expected profits in order to be willing to post vacancies. This tends to push up the initial surplus of a match W (eu ), which in turn means that one will separate less often. Thus this is a general equilibrium effect, not a direct effect. Instead, F reduces ed by directly acting upon the separation decision. -- Overall this tells us that the gap between the hiring and separation points, eu - ed , is proportional to the RHS of (3.33), which is the sum of all hiring and separations costs, c which goes up with θ due to congestion in hiring, as captured by the term . q(q )
+
+33
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The standard matching framework
+
+Exercise 4  In this exercise we look for an equilibrium with a corner solution for job destruction, i.e. ed = el . 	 1.	 Show that the equilibrium value of q is then solution to  r εu I (ε )  c (3.34) +λ l  r + G (r + θq(θ )) = σ  − b .    r +λ  	 q(θ ) r +λ  2.	 Show that the condition for ed to be equal to el , W (el ) ³ 0, is equivalent to 	 σ [r εl + λ I (εl )] + r (r + λ)F − (b + θq(θ )G)(r + λ) ≥ 0 	 3.	 By combining these two equations, show that one must have σ c (3.35) (εu − εl ) ≤ F + G + . q(θC ) 	 r +λ 4.	 Conversely, assume (3.35) holds. Show that an equilibrium with ed = el and q = qC exists.
+
+		 Let qC be the solution to this equation. 	
+
+	
+
+Exercise 5  In this exercise we look for an equilibrium with an interior solution for ed . 	 1.	 Show that the equilibrium value of q must satisfy 	 σ c (εu − εl ) > F + G + . q(θ ) r +λ c + G(r + θq(θ )). Show that y ′ > 0. q(θ )
+
+	 	
+
+2.	Let ψ(θ ) = r
+
+3.	 By using (3.34) and (3.30), show that σλ c (3.36) 	 ψ(θ ) − ψ(θC ) = ). (H (εd )εu + I (εd ) − I (εl ))−λH (εd )(F + G + r +λ q(θ ) 4.	 Use (3.33) to prove that the RHS of (3.36) is strictly positive. Conclude that q > qC . 5.	 Show that a necessary condition for an interior equilibrium is that (3.35) is violated.
+
+	 	
+
+As for the job destruction condition (3.32), it can be rearranged as −rF + θq(θ )G = σ (εd (r + λH (εd )) + λI (εd ))−b.(3.37) r +λ
+
+We note that the LHS is increasing in θ while differentiating the RHS with respect to ed yields from term in qq(q )G which tells us that the tighter the labor market, the greater the probability of finding a job and earning the associated rent G. This in turn raises wages and the job destruction margin. Equilibrium is determined by the intersection between Δ and JD (Figure 7).
+σ . Therefore, JD defines a positive relationship between θ and ed . This comes entirely (r + λH (εd )) > 0. r +λ
+
+34
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The standard matching framework
+
+Figure 7: Equilibrium determination in the Mortensen-Pissarides matching model
+
+For the record, wages are determined by w(ε) = w = b + (r + θq(θ ))G.(3.38)
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+35
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+The standard matching framework
+
+Furthermore, the steady state unemployment rate is now given by u∞ = ∞ We see that •	 An increase in b shifts JD up. Labor market tightness goes down, the job loss rate goes up. Unemployment unambiguously goes up. Since ed goes up, (3.37) implies that b + qq(q )G goes up. Therefore, from (3.38) wages go up. An increase in b, here, amounts to a pure wage shock, which makes it less profitable both to hire workers and to keep them at any given value of the productivity shock. Thus both the incidence and duration of unemployment go up, and the steady state unemployment rate goes up. •	 An increase in G shifts Δ down and JD up. Labor market tightness unambiguously falls. Job destruction may either go up or down. This ambiguity comes from the effects of G on Δ and JD discussed above: Greater wage pressure pushes it up, but greater initial surplus pushes it down. •	 An increase in F shifts Δ and JD down. Both ed and θ fall (the latter can be shown algebraically, see Exercise 7). Therefore, both the duration of a job and that of an unemployment spell go up unambiguously. Separations are more costly to the match and posting vacancies is less profitable. From (3.38) we see that wages fall, because the worker’s outside option is lower due to a less tight labor market. From (3.39), we see that unemployment may go up or down; this ambiguity, which is common in the literature, is due to the conflicting effect of incidence (the fall in ed) and duration (the fall in θ). Exercise 6  In this exercise, we show that violation of (3.35) is a sufficient condition for an equilibrium with an interior job destruction margin to exist. Let q0 be the value of θ which satisfies (3.37) when ed is replaced by el . Let q1 be the value of θ which satisfies (3.33) when ed is replaced by el . Let us assume that (3.35) is violated, i.e. that σ (εu − εl ) > F + G + c .
+r +λ q(θC )
+
+λH (εd ) .(3.39) θq(θ ) + λ H (εd )
+
+	 	
+
+1.	 Show that qC < q1 . 2.	 Using (3.34), show that the condition that (3.35) is violated is equivalent to σ 	 −rF + θC q(θC )G > (r εl + λ I (εl ))− b. r +λ 3.	 Conclude that qC > q0 and therefore that q1 > q0 . 4.	 Conclude that there exists a solution to (3.37)-(3.33) such that ed > el .
+
+	 	
+
+36
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The standard matching framework
+
+Exercise 7 	1.	 Differentiate Equations (3.37) and (3.33) with respect to εd , θ , and F . 	 2.	Eliminate ded between these two equations to get 	 	 	   G(θq′ (θ ) + q(θ ))− (r + λH (2εd ))c q′ (θ ) dθ = −λH (εd )dF .   q(θ )  
+
+3.	 What is the sign of the term in brackets in the preceding expression? 4.	 Conclude that dq / dF < 0.
+
+Exercise 8  Assume that F = b = G = 0. Assume that the q() function satisfies q(0) = +∞ and q(+∞) = 0. Show that in equilibrium ed = el . What is the equilibrium unemployment rate in the long run?
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+37
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+Welfare effects of labor market institutions
+
+4	 Welfare effects of labor market institutions
+The model spelled out in the preceding chapter allows to straightforwardly compute the welfare of workers depending on their current labor market status. We can then study how it depends on parameters, in particular on those that capture labor market institutions. This in turn allows us to compute the distribution of gains and losses from those policies, as well as their political support. Finally, we can also characterize a utilitarian first best and compare market outcomes with that first best, as well as the effect of an institution on a specific group’s welfare with its effect on aggregate welfare. The derivations in the preceding chapter imply that the welfare of the unemployed and the employed are given by: rVu = b + qq(q )G, b + (r + qq(q ))G w Ve = Vu + G = = .(4.1) r r Consider first an increase in F. We know that θ falls. Therefore both Ve and Vu fall. In this world all workers oppose a separation tax. This is because at F = 0 separations would be jointly privately efficient. Workers would not derive any additional welfare from extending the duration of the match. They get Vu + G by quitting and Vu + G by remaining in the firm. Remark – If j > 0 employed workers might benefit from an increase in F. But they may achieve the same welfare gains from raising G instead, while the unemployed and existing firms would be better-off, as compared with an equivalent increase in F. Now consider an increase in G. Vu goes up iff qq(q )G goes up, i.e. the LHS of (3.37) goes up. Since the RHS of (3.37) is increasing in ed , we know that an increase in G raises the welfare of the unemployed if and only if job separations go up as a result of it. Of course, since Ve = Vu + G, in such a situation the welfare of the employed raises even more.
+
+38
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Welfare effects of labor market institutions
+
+What is going on here? Quite simply, if, upon an increase in G, the utility of being unemployed falls, so does the opportunity cost of labor, which raises the surplus of the match W (e) for all e, implying that the job separation point falls – matches last longer. That is, the value of G which maximizes Vu also minimizes the value of existing matches. Relative to that point, the employed prefer an even higher value of G. But this higher value of G would reduce job separations because of its negative impact on θ. Intuitively, when G is raised above the unemployed’s preferred level, wages go up but by less than the amount which, given the increase in the cost of separation to the firm, would lead firms to pick the same separation threshold. (Also, we can see from (4.1) that the employed’s preferred value of G is the one that maximizes wages. While an increase in G raises the probability of job loss, this is self-compensating in terms of welfare for the employed, due to the more generous severance payment. For this reason only the effect on wages is relevant to the employed.) Let us consider two special cases.
+
+4.6	
+
+The matching function is linear in vacancies
+
+Assume the matching function is m(u, v ) = mv. Therefore q(q ) = m. Assume F = b = 0. Condition (3.33) boils down to σ(εu − εd ) c = +G r +λ m  r +λ  c  εd = εu − + G .    m   σ 	 This condition defines an interior level of ed provided σ (εu − εl ) r +λ − c > G.(4.3) m
+
+(4.2)
+
+If this condition does not hold, the economy is in a corner equilibrium such that ed = el . In order ∈ [0, Gmax ], where to rule out  this possibility, we assume that society can choose any level of G G ∈
+Gmax ≤ σ (εu − εl ) r +λ − c 12 . m
+
+We then see from (4.2) that ed always falls with G. Therefore, the unemployed prefer G = 0, the no-rent equilibrium. How does G affect the welfare of the employed? To answer that question, we compute the equilibrium value of θ. From (3.37) we get that θ=  1  σ  (εd (r + λH (εd )) + λI (εd )) .  mG  r + λ
+
+ σ  (r + λH (εd )) dε = dG [ r − (r + λH (εd ))] = −λH (εd )dG . Now (4.1) implies that dVe ∝ rdG + md(θG ) = rdG +       r +λ  d
+
+− (r + λH (εd ))] = −λH (εd )dG . Therefore, dVe / dG < 0.
+39
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Welfare effects of labor market institutions
+
+Therefore the employed, too, want the full employment equilibrium. We are in a situation where the Hosios conditions” (see below) imply that G = 0 is the efficient outcome13. Because of the pure congestion externality in the matching function, unemployment plays no useful social role (more unemployment does not improve the job creation flow), so we want to minimize it by having zero bargaining power for the employed, i.e. G = 0.
+
+4.7	 The matching function is Cobb-Douglas with an equal exponent on both inputs
+Now assume that the matching function is m(u, v ) = mu1/2 v1/2 . Again F = b = 0. We have q(q ) = mq −1/2 . From (3.33) we get θ1/2 =  σ(εu − εd ) m  . (4.4) −G      c  r +λ
+
+Substituting into (3.37),  m 2  σ(εu − εd )   σ    G= (4.5) −G (εd (r + λH (εd )) + λI (εd )).          r +λ  c  r +λ 
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+40
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Frictions and institutions
+
+Welfare effects of labor market institutions
+
+Differentiating, we get  σ(εu − εd ) m2  σ m2   )dεd . 2 G dG = ( r + λ H ( ε ) + G −  d    r +λ  c  r +λ c Clearly, ded / dG > 0 iff G< 1 σ(εu − εd ) . 2 r +λ
+
+Therefore, the value of G which maximizes the unemployed’s welfare must be such that G= 1 σ(εu − εd ) . (4.6) 2 r +λ
+
+Substituting into (4.5) we get m2 σ 2 (εu − εd ) = (εd (r + λH (εd )) + λ I (εd )). 4c r + λ Since the LHS is increasing in ed and the RHS falls with ed , this defines a unique ed . Furthermore this optimal value (from the view point of the unemployed) is larger, the greater m and the lower c. This in turn implies that the unemployed’s preferred value of G falls with m and rises with c. The more efficient the matching process, in the sense that the matching function is more productive and/or hiring costs are lower, the lower the unemployed’s preferred level of the severance payment G. Since θ unambiguously falls with G, the unemployed’s welfare can only go up if they expect to earn higher wages. In this world with constant returns in production and free entry, there are no pure profits, so that some costs have to fall to compensate for the higher wages. Such costs can only be vacancy costs: wages can go up only if firms reallocate resources away from recruiting in order to pay workers more. But if c is low and/or m is large, recruiting costs are low in the first place, implying that θ must fall by a large amount in order to finance a given increase in wages. This makes it less interesting for the unemployed to raise G because their probability of finding a job falls by more. This explains why the optimal value of G falls with m and goes up with c. Turning now to the employed, their welfare is proportional to (r + qq(q ))G instead of G. The derivative of that formula with respect to G is (r + qq(q )) + G (q(q ) + qq ′(q ))
+dq . It is equal to r > 0 at the unemployed’s dG dq preferred point, since that point is such that G (q(q ) + qq ′(q )) + qq(q ) = 0. Therefore, dG
+
+The employed’s preferred value of G is larger than that of the unemployed. It is associated with a lower job destruction rate and a lower level of labor market tightness.
+
+41
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Welfare effects of labor market institutions
+
+The employed are less exposed to unemployment. Wages have a bigger weight, and the job finding rate has a lower weight, in their welfare than for the unemployed. Consequently their indifference curve in the (wage, job finding rate) plane is flatter and they pick higher wages and a lower job finding rate than the unemployed. The job destruction rate is lower because their preferred value of G delivers a lower opportunity cost of labor.
+
+4.8	
+
+Computing the socially optimal level of G.
+
+We now compare the conclusions reached in the preceding section to the social optimum. Social welfare is given by the PDV of output net of vacancy costs. In the first best problem, the social planner sets vacancies and decides which jobs are being destroyed. In principle, to solve such a problem we should keep track of the entire distribution of firms’ productivity levels throughout the trajectory. However we can collapse that distribution to one sufficient statistic, the output level yt , if we impose the additional constraint that jobs can be destroyed only upon being hit by an idiosyncratic shock (such a constraint is not binding in steady state). The social planner can only affect the distribution of firms’ productivity level gradually through qt and edt . That is, the social planner sets the vacancy stock at date t , indirectly controlling qt , and the job destruction threshold edt for those firms that are currently being hit by a productivity shock; the social planner cannot destroy any of of the other existing jobs. As is clear below, we can derive an evolution equation for yt which is the only moment of that distribution that matters for welfare. We then have two state variables, the number of jobs nt and total output yt . We know how the latter evolves as a function of qt and edt : & t = −λ yt + λnt σ I (εdt ) + θt q(θt )σεu (1− nt ), (4.7) y where again I (ed ) = ∫ ueh(e )de.
+e d e
+
+This equation is explained as follows. The idiosyncratic shocks hit all firms with equal probability, therefore they “destroy” a flow l yt of output per unit of time. Total output of those firms that are not destroyed immediately after the shock is nt σ I (εdt ) , which generates an inflow of new output given by λnt σ I (εdt ). Furthermore, an inflow qt q(qt )(1- nt ) of new jobs are created and their output is σεu per job. The evolution equation for the number of jobs is given by the usual “Beveridge curve”: & t = −λnt H (εdt ) + θt q(θt )(1− nt ). (4.8) n The first term in the RHS is the negative contribution of job destruction, which depends on the endogenous job destruction margin ed . The second term is the positive contribution of job creation, which is the product of the unemployment rate 1- n and the job finding rate qq(q ).
+
+42
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Welfare effects of labor market institutions
+
+Social welfare is given by SW = ∫
++∞ 0
+
+( yt − cqt (1− nt ))e−rt dt .
+
+This is the PDV of total output yt minus the vacancy cost, equal to cvt = cqt ut = cqt (1− nt ). To compute the optimum, we maximize it under the two constraints (4.7) and (4.8). The state variables are yt and nt , and the control variable is qt . The Hamiltonian is H = ( yt − cqt (1− nt ))e−rt 	 	
+
++(µt e−rt )[−λnt H (εt ) + θt q(θt )(1− nt )] +(ηt e−rt )[−λ yt + λnt σ I (εdt ) + θt q(θt )σεu (1− nt )].
+
+The co-state variable η is interpreted as the marginal social value of one unit of output. The co-state variable μ is the marginal social value of a job.
+
+AXA Global Graduate Program
+Find out more and apply
+
+43
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+Welfare effects of labor market institutions
+
+The FOCs are ∂H = 0 ⇔ −c + (µt + ηt σεu )(θt q′(θt ) + q(θt )) = 0; ∂θ (4.9) ∂H = 0 ⇔ −µt − σεdt ηt = 0; (4.10) ∂εdt ∂H = e−rt (−µt + r µt ) ⇔ (4.11) ∂nt
+
+	 	 	
+
+& t + r µt = cθt − µt θt q(θt ) − µt λ H (εdt ) − ηt θt q(θt )σεu + ηt λσ I (εdt ); −µ 	 ∂H = e−rt (−ht + r ht ) ⇔ (4.12) ∂ yt (4.13)
+
+&t + r ηt . 1− ληt = −η Remarks:
+
+•	 At the optimum one must have h > 0 and µ < 0. Holding output constant, jobs are negatively valued by the social planner, because more employment reduces the flow of job creation, at the initial high productivity level σεu . •	 Substituting (4.10) into (4.9) we see that the cost of a vacancy, c, must equate the marginal value of a vacancy, which is equal to the product of two terms: qt q ′(qt ) + q(qt ), the marginal effect on the job creation flow, and ηt σ(εu - εd ), the marginal value of the output gain generated by those new jobs. This output gain is proportional to the gap eu - ed because, at the optimum, the value of an idle worker equates that of a worker at the margin of being dismissed, as implied by (4.10). To solve these equations, assume we are in steady state. Note that η = 1/ (r + λ) from (4.13), implying
+µ =− σεd from (4.10). Substitute these into (4.9) to get r +λ
+
+c=
+
+σ(εu − εd ) (θq ′(θ ) + q(θ )). (4.14) r +λ
+
+Let us compare this with (3.33), which could be rewritten, given that F = 0,  σ(εu − εd )  c = q(θ ) (4.15) −G      r +λ 
+
+44
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Welfare effects of labor market institutions
+
+We see that •	 The firm values the contribution of a vacancy to the job creation flow at q(q ), the average probability of filling a vacancy. But the social planner takes the congestion externality in search into account and values it at its marginal effect on job creation flows, qq ′(q ) + q(q ).
+r +λ
+
+•	 The firm appropriates σ(εu − εd ) − G of the surplus created by a match, since the worker
+σ(εu − εd ) . r +λ
+
+appropriates a rent G. In contrast, the social planner values each match at its full surplus,
+
+We can also substitute the values of η and μ into (4.12), getting cθ + σεd σε σε σεd λ θq(θ ) + d λ H (εd ) − θq(θ ) u + σ I (εdt ) = −r . r +λ r +λ r +λ r +λ r +λ
+
+This can be rearranged using (4.14): σ σ (εd (r + λH (εd )) + λ I (εd )) = −θ 2q ′(θ) (εu − εd ). (4.16) r +λ r +λ This condition is the social optimality condition for job destruction. It has to be compared to (3.37), which can be rewritten as σ (εd (r + λH (εd )) + λ I (εd )) = θq(θ)G. (4.17) r +λ Remarks: •	 The LHS of both equations is the gain created by a marginal job at productivity ed . •	 The RHS is the opportunity cost of maintaining such a job. For a private match, it is the job finding rate qq(q ) times the future rents the worker would get in alternative jobs, G. For the social planner, it is the marginal effect on job creation flows of an extra job seeker,
+−q 2 q ′(q ), times the total surplus of those future alternative jobs,
+σ (εu − εd ). Note that r +λ
+
+0 < −q 2 q ′(q ) < qq(q ); again the congestion externality is taken into account by the social
+
+planner but not by private agents. The value of G that the social planner would pick is the one (if it exists) such that the market equilibrium would mimic the optimum, i.e., would deliver the required values of θ and ed . For (4.14) and (4.16) to hold at the same values of θ and ed we must have that G =− cqq ′(q ) . (4.18) (qq ′(q ) + q(q ))q(q )
+
+This is an optimality condition for G. We can check that if it holds, then the RHS of (4.16) and (4.17) coincide. Indeed, we then have qq(q)G = −
+  cq 2 q ′(q ) c σ   = −θ 2q′(θ ) = −θ 2q′(θ ) (εu − εd ).    (qq ′(q ) + q(q ))  ′ r +λ  (θq (θ ) + q(θ )) 
+
+45
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Welfare effects of labor market institutions
+
+Thus the equilibrium reproduces the first best provided the adequate rent is transferred to workers in the wage formation process. We have two market failures: •	 Appropriability problems reduce the incentives to post vacancies (the firm appropriates too little) and reduce job destruction (the match underestimates the true social contribution of alternative future jobs, of which the worker only appropriates G), relative to the social optimum. •	 Congestion externalities increase the incentives to post vacancies (the firm overestimates their effect on job creation by just taking into account the average, rather than marginal probability of a match being created) and increase job destruction (the match overestimates the job creation effects of the worker looking for a job elsewhere instead of staying in the firm), relative to the social optimum. By targeting the right level of appropriability through G, we can make these two market failures exactly balance each other. The magic” is that while these market failures distort both the job creation and the job destruction margins, we fix the two simultaneously with only one instrument, G. Remark: from (4.16) and (4.17) we see that the optimal G is such that G =− θq ′(θ ) σ (εu − εd ) = ψW (εu ), q(θ ) r + λ
+
+46
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+Welfare effects of labor market institutions
+
+where
+
+∂m u θq′(θ ) ψ =− = ∂u q(θ ) m
+
+is the unemployment elasticity of the matching function. This is the famous Hosios optimality condition which tells us that the share of the surplus going to the worker must be equal to that elasticity. Here, this only applies to new jobs (i.e. on the job creation margin), since it could not hold for all matches given that that share is not constant across productivity levels, as the rent transferred to the worker is constant and not proportional to the surplus of the match. Remark: Where does this magic come from? The negative congestion externality in vacancies is due to the gap between the average and marginal product of vacancies. Similarly for the negative congestion externality in unemployment. For firms to post the right level of vacancies, they must appropriate a share of the surplus equal to the ratio between the true contribution of a vacancy to job creation and the probability of filling the vacancy, that is vmv′ / m = 1− y. That way, their over-internalization of the contribution of vacancies to the flow of job creation is exactly offset by their under-internalization of the total social surplus of each new job. On the worker’s side, we need to give them a share of the surplus ′ / m = y. It is because of constant returns to scale in the matching function (implying equal to umu ′ / m + vmv′ / m = 1) that solving the congestion externality on one side of the market by giving umu that side an appropriate share of the surplus mechanically solves the congestion externality on the other side of the market. Remark: Unless
+∂m = 0 , G = 0 is not optimal. This would generate too little unemployment. But this ∂u
+
+condition only holds because we are in a context where G is the only source of bargaining power for the workers. If for example we had ϕ = ψ, then the introduction of the severance payment G would further increase the share of the surplus accruing to the worker beyond the Hosios level, thus generating inefficiently high unemployment. Essentially, as pointed out by Mortensen and Pissarides (2003), the socially optimal policy is the one that allows to replicate the Hosios conditions. Remark: The conditions state that the workers should appropriate a given fraction of the surplus created by labor market frictions. This is different from the share of labor income in value added (or GDP), because wages not only reflect the share of the match’s surplus going to the worker; they also reflect the opportunity cost of labor. The lower the frictions, the lower the effect of the worker’s share on the total labor income share. If for example matching frictions are small ( c / q(q ) small), then this surplus W (ed ) is small too and so is the rent transferred to the worker. In such a situation the equilibrium is little different from the Walrasian, full employment one.
+
+47
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Welfare effects of labor market institutions
+
+Exercise 9  Redo the above computations carefully by now assuming that j > 0. What is the optimal G? How does it depend on j and y ? Can we compute the optimal G in special case 2 above, i.e. q(q ) = mq −1/2 ? We then have y = 1 / 2, implying that the optimal G must satisfy G= 1 σ (εu − εd ). 2 r +λ
+
+But this is identical to (4.6). Therefore: The unemployed’s optimal severance payment coincides with the social optimum. The employed’s optimal severance payment is larger than the social optimum. Is this result general or is it an artefact of special case 2? To understand it, we need to recognize that there are three types of agents: 	 	 	 1.	 The employed 2.	 The unemployed 3.	 Existing firms
+
+The key point is to aggregate the employed’s welfare with that of the existing firms. Consider an existing firm with productivity e. If e < ed , this firm closes and the worker becomes unemployed. Therefore, the (dissolving) match’s total contribution to welfare is just equal to Vu . Now if e > ed , the firm’s welfare is W (e) - G and the worker’s welfare is Vu + G. Thus the welfare of the match is W (e) + Vu . We have that W (ε) = σ (ε − εd ). r +λ
+
+Existing firms want the lowest possible value of ed , which is achieved at G = 0. At the same time we have that Vu =  θq(θ )G σ  λ λ  = . εd (1 + H (εd )) + I (εd )     r r +λ  r r
+
+Aggregating the two we have Vu + W (ε) = σ λσ ε+ [ εd H (εd ) + I (εd )]. r +λ r (r + λ)
+
+This is a different formula from Vu but the RHS is increasing in ed since
+
+d [ ed H (ed ) + I (ed )] = H (ed ) > 0. ded Thus the value of G which delivers the maximum level of job destruction simultaneously maximizes the welfare of the unemployed and the joint welfare of the existing employed/firm matches.
+
+48
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Welfare effects of labor market institutions
+
+The unemployed’s preferences are intermediate between the employed who want a larger level of G and the existing firms who prefer the lowest possible value of G. This analysis suggests that the result is relatively robust and does not depend on the specifics of the matching function.
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+49
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+Firing taxes and efficiency wages
+
+5	 Firing taxes and efficiency wages
+Under Nash bargaining, at the margin of separation the worker is indifferent between continuing in his job versus becoming unemployed. This explains why there is no political support for “true” employment protection, i.e. for the mere reduction in separation rates, even though there remains political support for forms of employment protection that raise the workers’ bargaining power, such as G. Let us now look at a different form of wage formation and assume that while employed the worker can earn a fixed rent Q above the value of being unemployed: Ve = Vu + Q.(5.1) While this is formally similar to (3.26), the key difference is that now separation decisions are unilaterally made by the firm. Upon separation the worker’s welfare falls from Vu + Q to Vu , whereas in the preceding model it remained equal to Vu + G because the severance payment had to be paid to the worker. A formula like (5.1) prevails in the “old” efficiency wage model of Shapiro and Stiglitz (1984) where the worker shirks as long as the rent is lower than Q. Note that any worker would be willing to bribe the firm for an amount up to Q in order to be employed, or to avoid losing his job, but we rule that out (such practices are generally illegal). In the preceding model, there was no difference between layoffs and quits. In the current model, workers would prefer to continue to work rather than being laid off. Therefore there is a genuine distinction between layoffs and quits and a genuine reason to support employment protection. We can solve this model in a similar fashion. Let us assume we are in steady state. Using (5.1) and the two following equations: rVu = b + qq(q )Q, rVe = w − λH (εd )Q, we can compute the wage: w = (r + λ H (εd ) + θq(θ ))Q + b. (5.2) The value of a job evolves according to rJ (ε ) = σε − w + λ ∫ u ( J ( x )− J (ε ))h( x )dx + λH (εd )(−F − J (ε )), (5.3)
+ε d ε
+
+50
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Firing taxes and efficiency wages
+
+implying that J ′(ε) =
+
+σ and, since J (ed ) = −F , that r +λ σ J (ε) = −F + (ε − εd ).(5.4) r +λ
+
+Consequently the former “Δ” relationship between θ and ed is replaced with σ c = −F + (εu − εd ). (5.5) r +λ q(θ ) Substituting the condition J (ed ) = −F into (5.3) for e = ed and using (5.4), we get that −rF = σεd − w + λσ [ I (εd ) − εd (1− H (εd ))]. r +λ σ (εd (r + λH (εd )) + λ I (εd )).(5.6) r +λ
+
+Using (5.2) we then get the new JD condition: −rF + b + (r + λ H (εd ) + θq(θ ))Q =
+
+The preceding equations characterize an interior equilibrium, i.e. an equilibrium such that ed > el . Exercise 10  In this exercise we look for an equilibrium with ed = el . This is what we assume in the following questions. 	
+u 1.	Let J = ∫ J ( x )h( x )dx . Let the I () function be defined by (3.21). Show using (5.3) that e d e
+
+	 	
+
+J=
+
+σ I (εl ) − (r + θq(θ ))Q − b . r b + (r + θq(θ ))Q σ λ . ε+ J− r +λ r +λ r +λ
+
+2.	 Show that 	 J (ε) =
+
+	
+
+3.	 Show that for no job destruction to take place it must be that 	 σ(r εl + λ I (εl )) ≥ −r (r + λ)F + (r + λ)(b + (r + θq(θ ))Q).
+
+	
+
+4.	 Show by using the job creation condition that one must have rc σ(r εu + λ I (εl )) = (r + λ)(b + (r + θq(θ ))Q + ). ( θ ) q 	 5.	 Show that one must have σ c > −F + (εu − εl ).(5.7) + q ( θ ) r λ 	 C 6.	 Conversely, show that if (5.7) holds, one can construct an equilibrium with ed = el .
+
+		Let qC be the solution to this equation. 	
+
+	
+
+51
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Firing taxes and efficiency wages
+
+We now assume b = 0 (but Q > 0 ) and examine the effects of F . First we discuss the effect on job creation and job destruction, then we analyze its effect on welfare. Again (5.5) defines a downward sloping relationship between θ and ed . This relationship shifts down with F , meaning firms post fewer vacancy due to the increase in dismissal costs. Let us now turn to JD. We notice that it is no longer necessarily upward sloping. For this to be the case we need that σ (r + λ H (εd )) > λQh(εd ).(5.8) r +λ The problem comes from the fact that wages now go up with job destruction (in order to maintain the worker rent equal to Q ).14 Consequently, an increase in job destruction triggers an increase in wages which in turn fuels the job destruction. For this process to be stable it must be that the preceding inequality holds, which we will henceforth assume. Therefore JD is upward sloping and it shifts down when F goes up.
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+52
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+Firing taxes and efficiency wages
+
+Remark: If this inequality is violated over some range, then JD may have upward sloping portions, which may lead to multiple equilibria. Multiplicity arises from the self-fulfilling nature of expectations about one’s firm job destruction behavior. If I expect high job destruction I ask for high wages, which validate this expectation. If, however, the firm can commit to the worker on ed , it can pick the lowest equilibrium value for it. Therefore an increase in firing costs unambiguously reduces job destruction, for two reasons. First the cost of job destruction is larger (downward shift in JD). Second the profitability of new jobs has to be larger to make up for the higher F (downward shift in Δ). What about the effect of F on θ? Differentiating (5.5)–(5.6) we get dF = − σ c q ′(θ )dθ , dεd + r +λ q(θ )2
+
+	
+
+ σ  −rdF + (θq′(θ ) + q(θ ))Qdθ =  (r + λH (εd ))−λQh(εd ) dεd .  r + λ  Eliminating dF between the two equations we find that     θq′(θ ) + q(θ )− c 2 q′(θ ) dθ = λ  σ H (εd )− Qh(εd ) dεd . (5.9)    r + λ  q(θ )   We know that ded / dF < 0 and that the term in brackets on the LHS is positive. Therefore, dq / dF < 0 iff σ (5.10) H (εd ) > Qh(εd ). r +λ If this is violated, firing costs actually increase labor market tightness! Their moderating effect on wages brings more benefits to firms than their direct negative effect on expected profits. After having studied equilibrium determination and the comparative statics associated with the firing tax, we now compute its effect on the welfare of various groups.
+
+53
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Firing taxes and efficiency wages
+
+5.8.1	
+
+The welfare of the unemployed.
+
+Clearly the unemployed want the highest possible value for θ. To study their welfare, we therefore need to analyze the effect of F on θ. Let us consider the case where h() is uniform over [el = 0, eu ]. Then the RHS of (5.9) is negative and then positive as ed goes up. This means that the unemployed will be in favor of either the lowest or the highest level of employment protection. This “convexity” of their payoff function comes from the fact that at the margin, the adverse effect of firing costs on profitability is larger, the greater the job destruction rate – the greater the job destruction, the more often the firing cost is paid and the greater the implicit tax on profits. If for example society is initially very rigid, an increase in firing costs is heavily discounted by firms as dismissals seldom occur; consequently the positive wage effects of firing costs on profitability dominate and (5.10) is violated. Consequently, as far as the unemployed are concerned, the only two possible optimal choices are either a fully rigid society where F is set at a high enough level so that dismissals never occur, or a fully flexible society such that F = 0. Under what circumstances will the unemployed prefer the rigid vs. the flexible society? For this we have to solve the model in both cases. We will assume for simplicity that h() is uniform over [0, eu ] implying h(e) = 1 / eu . A. The rigid society The minimum level of job destruction is obtained at ed = 0. The corresponding levels of the firing cost and of labor market tightness are the ones that solve σ c = −F + εu ; q(θ ) r +λ ε σ λ u. r +λ 2
+
+	
+
+−rF + (r + θq(θ ))Q =
+
+Remark – This is a static economy where steady state unemployment is equal to zero, and so are vacancies. Employment is an absorbing state as there is no job destruction. The equilibrium value of θ just tells us what the level of vacancies would be if some unemployed people where injected into the workforce by some exogenous influence (such as migration), but that extra unemployment would eventually vanish. Remark – While F is mathematically treated as endogenous, economically it remains exogenous. A policymaker trying to elicit the lowest level of job destruction would have to pick F so that those equations would be satisfied (in fact any F larger than that would also do the trick but we would then have to change the optimality conditions as job destruction would be at a corner solution). Eliminating F between these two equations we get an equation for θ: φ(θ ) = σεu (r + λ / 2) (5.11) , r +λ
+
+54
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Firing taxes and efficiency wages
+
+where the f function is defined by f(x ) = and f ′ > 0. The solution to that equation is denoted by qR , the value of labor market tightness in the rigid economy. B. The flexible economy. In the flexible economy we have F = 0 and ed and θ are jointly determined by (5.5)–(5.6), which in this case delivers σ c = (εu − εd ), q(θ ) r + λ (r + λ (5.12) rc + (r + xq(x ))Q, q( x )
+
+2  εd εu εd σ     r . (5.13) ε λ λ + θq(θ ))Q = + +  d   r +λ  2 2 εu ε  u
+
+Rearranging these two equations we get a relationship between ed and q : φ(θ ) = σεu (r + λ / 2) ε2 ε σ λ d − λ d Q. (5.14) + r +λ r + λ 2εu εu
+
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+55
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+Firing taxes and efficiency wages
+
+This equation determines the job destruction margin ed , provided its solution is such that ed ³ 0. This is not necessarily the case: The flexible economy does not necessarily have a positive level of job destruction. We can construct an equilibrium with ed = 0. In such an equilibrium for (5.12) to hold we must have
+ (r + λ )c    θ = q−1    = θ . This equilibrium arises for the value of Q such that (5.13) also holds, that is   σεu  
+
+εu % = σλ Q =Q . (5.15) %q(θ %)) r + λ 2(r + θ % , the equilibrium has zero job destruction, and zero asymptotic Exercise 11  Show that for any Q < Q unemployment (it may help to use the results of Exercise 10). Compute the equilibrium value of θ in this case. What is the value of θ that prevails if Q = 0? Do the same thing in the case where job destruction is exogenous. In this case, does unemployment vanish if Q = 0? What is the equilibrium level of θ and unemployment if m(u, v ) = mv ? % despite that low productivity firms are making The reason why there is no job destruction for Q £ Q losses and there is no firing cost is that the hiring cost is sunk and would not be recouped should the job be destroyed. There is an option value of maintaining those jobs because they might get back to a profitable situation. We note from (6.15) that for l ® 0, Q ® 0. The option value vanishes if shocks become very infrequent. Similarly, when r → +∞, Q ® 0. Finally, when c ® 0, q → +∞ and Q ® 0. As the sunk hiring cost disappears, so does the option value; I can always dismiss the low productivity worker and hire a high productivity one at zero cost. %. We have just seen that for the flexible economy to have positive job destruction, if must be that Q > Q This is what we shall assume. Denoting by qF and edF the labor market tightness and job destruction margin in the flexible economy, and comparing (6.11) with (6.14), we see that qR > qF – i.e. the unemployed prefer the rigid society – if and only if Q> σ εdF . (5.16) 2(r + λ)
+
+What are the conditions for this inequality to hold? The following exercise shows that it will be the case %. if the rent Q is large enough or close enough to Q
+
+56
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Firing taxes and efficiency wages
+
+Exercise 12  Assume m(u, v ) = mu1/2 v1/2 . Assume ε is uniformly distributed over [0, eu ]. Assume F = 0. 	 % e is solution to 1.	 Show that for Q > Q d 	 	 	 (r + λ εd m 2 σ ε λε 2  σ  (εu − εd ))Q = r εd + λ u + d  . (5.17) + c r +λ r + λ  2 2εu  εu m2 σ λ > . Show analytically that ded / dQ > 0 and d 2 ed / dQ 2 < 0. c r + λ εu
+
+2.	 Now we assume that
+
+3.	 Show, using (5.16) that the flexible society is preferred by the unemployed if and only if Q Q∈ Î (Qmin , Qmax ), where Qmin and Qmax are the roots of σm2 εu λσεu 2m2 2 )Q + = 0. Q + (r − c 2(r + λ) c(r + λ)
+
+	 	
+
+% <Q . 4.	 Check that Q min
+
+Thus, flexibility is preferred by the unemployed provided Q Q ∈Î [ Qmin , Qmax ]. The following Table gives us an idea of how various parameters affect the range where flexibility is preferred by the unemployed. m2 / c
+1 1 1 1 4 r 0.02 0.02 0.02 0.05 0.02 λ 0.1 0.1 0.2 0.1 0.1 σ 1 0.6 1 1 1
+
+Qmin
+0.051 0.09 0.11 0.05 0.0125
+
+Qmax
+4.11 2.4 2.16 3.26 4.15
+
+% Q
+0.049 0.048 0.0995 0.0496 0.0124
+
+Table 1  Effect of various parameters on the range where the unemployed prefer the flexible society.
+
+We find that
+
+•	 A higher σ favors flexibility •	 More frequent shocks (λ) favor rigidity •	 Higher interest rates (r) favor rigidity •	 A more efficient matching process – a greater value of m2 / c – favors flexibility The effect of rigidity on the profitability of job creation is two-fold.
+
+57
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Firing taxes and efficiency wages
+
+First, unprofitable jobs that would be otherwise destroyed are forced to continue (misallocation). This productivity effect reduces profitability and tends to reduce the equilibrium value of θ. It is captured by the term in among firms. If σ is small the jobs that are prevented from being destroyed are only marginally less productive than the profitable jobs. Hence the profit loss from keeping them is small. This effect is also smaller, the greater the interest rate r . This is because it will only be relevant once the first shock strikes the firm, which takes place after the date when the vacancy is filled. These two features explain why flexibility is more favored, the greater σ and the smaller r . Second, greater job security reduces wages, which tends to boost the incentive for posting vacancies. This wage effect is captured by the term in -λ d Q on the RHS of (5.14). It is larger, the larger the rent Q, implying rigidity is preferred for large values of the rent. However, as Q goes % , the flexible society increasingly resembles the rigid one, as job destruction falls to down to Q zero. The preceding formulae imply that the wage gain from greater job security falls more slowly % the rigid than the profit loss from misallocation. For this reason for Q not too large above Q society is also preferred.
+ε εu
+ε2 σ λ d r + λ 2εu
+
+on the RHS of (5.14). It is stronger, the larger σ, that is, the greater the heterogeneity
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+58
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+Firing taxes and efficiency wages
+
+The formulas also show that an increase in λ has a direct proportional effect on both the productivity effect and the wage effect. But since the former is discounted at rate r + l, reflecting the fact that productivity losses from employment protection only come into play after the first shock, overall the effect on wages dominate and there is more support for rigidity when λ goes up, i.e. when workers are exposed to more frequent productivity shocks. Finally a more efficient matching process raises θ (in both economies) and therefore ed (in the flexible economy) . As the gains from lower associated misallocation go up faster than the losses from higher wages, this makes the flexible society more desirable to the unemployed.15 5.8.2	 The welfare of the employed
+
+The welfare of an employed worker depends on the initial status quo and also depends on his initial productivity level. Essentially if a policy change does not trigger job loss, the interests of the worker are aligned with those of the unemployed since Ve = Vu + Q. As noted above, the welfare of the unemployed is typically a U-shaped function of the margin of job destruction ed . We can in fact compute it in the case where m(u, v ) = mu1/2 v1/2 and e is uniformly distributed over [0, su ]. Eliminating F between (5.5) and (5.6) we get   ε rc 1/2 σ  λ 2 2   r . θ + (r + λ d + mθ1/2 )Q = + + ε ε ε  ( ) d u u   m r +λ  2εu εu   It follows that  ε σ  λ 2 2    − rQ −λ d Q εu r + εd + εu  ( )    r +λ  εu 2εu  rVu = mθ1/2Q = mQ . mQ + rc / m
+
+We can figure out the preferences of an employed worker by using this formula to plot Vu and Ve = Vu + Q as a function of ed (Figures 8 and 9). Let us limit ourselves to the case where the flexible economy is preferred by the unemployed. For a given ed , we can read the utility of an initially employed worker in a job of productivity e by using the upper curve (which plots Ve ) if e ³ ed and the lower curve (which plots Vu ) if e < ed , since in this case the worker immediately loses his job when society picks a value of F associated with that value of ed .
+
+59
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Firing taxes and efficiency wages
+
+We have to consider two cases. 	 1.	 (Regime I) On Figure 8, an employed in the rigid economy is better-off than an unemployed in the flexible one. Workers such that e < edF therefore never support flexibility. They would immediately lose their job and become unemployed. Those below a critical level e1 are in favor of rigidity. Those between that level and edF want as much flexibility as possible provided they keep their jobs. Thus they support a level of firing costs which exactly delivers ed = e. Finally workers with e ³ edF all support flexibility. In this configuration, employed workers are more in favor of flexibility, the more productive they are. The most productive employees side with the unemployed in favoring flexibility.
+
+Figure 8: Preferred employment protection level as a function of initial productivity, case 1
+
+	
+
+2.	 (Regime II) On figure 9, an employed in the rigid economy is worse-off than an unemployed in the flexible one. Workers below a critical productivity level e2 are then in favor of full flexibility. Those above that level but below edF want a flexibility level equal to their own current e. Finally workers such that e > ed are again in favor of flexibility. In this configuration, there is a coalition between the most and the least productive workers in favor of full flexibility. Those with intermediate levels of productivity are in favor of greater rigidity (but not full rigidity).
+
+60
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Firing taxes and efficiency wages
+
+Figure 9: Preferred employment protection level as a function of initial productivity, case 2
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+61
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+Firing taxes and efficiency wages
+
+Exercise 13  Show that configuration 1 prevails if and only if
+2 λQεdF σ λ εdF r − . (5.18) (rc / m + mQ) ≥ εu m r + λ 2 εu
+
+For the record, it is easy to check that if the unemployed prefer the rigid society, then so do all the employed since they all keep their jobs and get the highest possible levels of w and θ. If the unemployed favor the rigid society, then there is unanimity among all workers in favor of the rigid society. Thus the analysis is interesting” only in the zone where Qmin < Q < Qmax . According to (5.18), controlling for edF , the first configuration is more likely if the rent Q is larger. The greater the rent, the more incumbent workers who are exposed to job loss if the economy becomes flexible would lose, and the more likely they are to support full rigidity. To check that intuition we need to compute whether (5.18) holds taking into account that edF also depends on Q. This is easy to do numerically, given (5.17). m2 / c
+1 1 1 1 4 r 0.02 0.02 0.02 0.05 0.02 λ 0.1 0.1 0.2 0.1 0.1 σ 1 0.6 1 1 1
+
+Qmin
+0.06 0.09 0.11 0.05 0.01
+
+Qmax
+4.11 2.4 2.16 3.26 4.15
+
+Regime I set
+
+[3.46, 4.11] [2.03, 2.4] [1.95, 2.16] [2.10, 3.26] [3.49, 4.15]
+
+Table 2  Range of values of Q for which Regime I prevails
+
+These results confirm our intuition. In all simulations regime I prevails provided the rent is large enough, while the economy is in regime II for an interval of low enough rents. We denote by Qc the critical level such that regime I prevails if and only if Qc £ Q £ Qmax .
+
+62
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Firing taxes and efficiency wages
+
+5.8.3	
+
+Status quo bias and the coalition in favor of rigidity
+
+The preceding analysis allows us to summarize the coalition of workers in favor of rigidity and flexibility depending on the level of the rent Q. This is summarized below: % , there is no job destruction in the flexible society. People are indifferent between •	 If Q £ Q flexibility and rigidity. % £ Q £ Q , all workers vote in favor of the rigid society. But the flexible society •	 If Q min also has a very low job destruction rate, so that the welfare difference between the two economies is small. If there were a cost in administering a rigid society, flexibility would presumably be preferred. •	 If Qmin < Q < Qc , the unemployed vote in favor of the flexible society, and so do all employed workers, with the exception of the most productive ones who are exposed to job loss, i.e. those such that e2 < e < edF . While those ones also prefer the flexible society to the fully rigid one, they would be even better-off in a world where they would be just above the margin of being laid off. Instead, relative to that, workers who are less productive than the threshold e2 would need too large a wage cut (indirectly elicited through a fall in θ) in order to keep their job, which makes employment protection – even at the lowest level that would preserve their jobs – an inferior option compared to full flexibility for those workers. Finally workers whose productivity level is larger than edF would keep their job under full flexibility, while the greater level of labor market tightness would at the same time allow them to get higher wages. Therefore they favor full flexibility. •	 If Qc < Q < Qmax , flexibility is preferred by workers such that e > ed , for the same reason as above. And again workers such that e1 < e < edF want the highest level of flexibility that allows them to keep their job. But workers such that e < e1 want full rigidity. This is because wages and labor market tightness are higher under full rigidity than under the maximum level of flexibility that would preserve their jobs. They would be even higher under full flexibility but not enough to compensate these workers for the cost of job loss, which is equal to the rent Q. •	 Finally if Q > Qmax , workers are unanimous in supporting the rigid society. Consider the case where Qc < Q < Qmax . The size of the constituency in favor of flexibility or rigidity clearly depends on the initial distribution of employment by productivity levels. But that initial distribution also depends on inherited labor market institutions. For example if the economy is initially flexible all workers are such that e > edF and therefore the support for rigidity is nil. But if the economy is initially rigid there is a mass of workers below edF and these workers all support a more rigid society than the flexible one. If this mass of people is large enough they may vote for the rigid society.
+
+63
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Firing taxes and efficiency wages
+
+Thus there is status quo bias: the rigid society is more likely to be voted for if society is initially rigid than if it is initially flexible. The constituency in favor of rigidity are those workers in relatively unproductive jobs who would lose their jobs under a move to flexibility. But these jobs only survive thanks to firing costs and those jobs (and the attached constituency) would not exist if society were initially flexible. Of course the political equilibrium can shift from one society to the other if parameters change. For example an increase in Q makes rigidity more likely; upon impact, those workers whose productivity level lies between the old and the new critical margins of job destruction support an increase in employment protection that they did not favor prior to the increase in the rent. Other shocks that raise ed similarly create a constituency in favor of rigidity. 5.8.4	 Social welfare
+
+We can ask what the optimal level of employment protection would be in such a world. We continue to assume that b = 0. It is easy to see that there is no value of F that would restore the first best. Let us assume that we manage to elicit the first best values for θ and ed . We know that those values satisfy the optimality conditions (4.14) and (4.16): c= σ(εu − εd ) (θq ′(θ ) + q(θ )), (5.19) r +λ
+
+	
+
+σ σ (εd (r + λH (εd )) + λ I (εd )) = −θ 2q ′(θ) (εu − εd ). (5.20) r +λ r +λ Now the equilibrium conditions are (5.5) and (5.6), which we can rewrite under the assumption that b=0: σ c = −F + (εu − εd ), (5.21) q(θ ) r +λ 	 = −rF + (r + λ H (εd ) + θq(θ ))Q (5.22) σ (εd (r + λH (εd )) + λ I (εd )). r +λ
+
+Remark – Note that the rent G appears in (4.33) but Q is absent from (5.21). This is somewhat an optical illusion: as in the preceding section, the rent does reduce the profitability of vacancies, but mathematically this is through a higher value of ed . Comparing (5.19) and (5.21) we see that for these two equations to coincide we must have F= c c − >0 qq ′(q ) + q(q ) q(q )
+
+64
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Firing taxes and efficiency wages
+
+One has to be careful in interpreting that. If the social planner manages to elicit the correct job destruction margin ed , then the value of a new job, ignoring the firing cost, would coincide with its social value σ (εu − εd ). But then one must impose some tax on job creation to offset the congestion externality r +λ on vacancies. Since the only instrument that we have is the firing cost F , this implies a positive firing cost. But a hiring tax, or a tax on vacancies, could do as well. If we pick that value of F, will optimality condition (5.20) then hold? Substituting the value of F into (5.22) we see that the following condition should hold: − rc rc c + + (r + λ H (εd ) + θq(θ ))Q = −θ 2q ′(θ ) . θq ′(θ ) + q(θ ) q(θ ) θq ′(θ ) + q(θ )
+
+Clearly, this has no reason to be satisfied.
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+65
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+Firing taxes and efficiency wages
+
+We see that in that context, the firing cost F has a very different effect compared to the severance payment G. In the preceding chapter, Nash bargaining ensures that separations are jointly privately efficient. This means that if G is picked to elicit the Hosios conditions, the worker’s opportunity cost of labor will be the correct one from a social point of view (the worker overestimates it by ignoring that the probability of finding a job exceeds the true contribution of job search to the flow of hirings, and underestimates it because he only gets part of the surplus of those future jobs. The two effects exactly cancel out at the Hosios conditions). Consequently, privately efficient separations are also socially efficient. Here, however, separations are no longer privately efficient. There are two important effects to keep in mind: •	 The rent Q creates a positive wedge between the opportunity cost of labor of the worker and the cost of labor paid by the firm. This tends to make separations inefficiently high. •	 The worker anticipates to get a surplus Q from future jobs, instead of G. By assumption, here, Q is not a policy variable. If Q is low then so is the opportunity cost of labor, and this would make separations inefficiently low. Assume we start from a situation where this is indeed the case; this means that there is too little unemployment and vacancies are too high. In the preceding analysis, an increase in G toward the Hosios level would at the same time correct the congestion externality in the job creation condition and raise the opportunity cost of labor in the job destruction condition so as to move the economy closer to the efficient margin of job destruction. Here however, reducing the firm’s surplus in the job creation condition by means of a greater value of F would further reduce the job destruction margin, moving it away from efficiency. Even in the case where the rent is high enough for (5.10) to be violated, in which case greater firing costs tend to bring both equilibrium conditions closer to their first-best counterpart, since they increase labor market tightness and reduce job destruction, the level of F which delivers efficient job destruction will generally differ from that which delivers efficient job creation. To replicate the first best, another policy instrument is needed. For example, let us assume that b ≠ 0 and see which value of b will deliver the correct margin of job destruction. By comparing (5.20) with (5.6) we get b = rF − (r + λ H (εd ) + θq(θ ))Q − θ 2 q ′(θ ) c . θq ′(θ ) + q(θ )
+
+66
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Firing taxes and efficiency wages
+
+To understand this, remember that w = (r + λ H (εd ) + θq(θ ))Q + b. The quantity q 2q ′(q)
+
+c is the qq ′(q ) + q(q ) σ(εu − εd ) times c social opportunity cost of labor, equal to the social surplus of a new match, , = θq ′(θ ) + q(θ ) r +λ the marginal impact of an unemployed worker on job creation flows, −q 2q ′(q). The quantity w - rF is
+
+the private marginal cost of labor on the job destruction margin. The term -rF captures the savings in terms of the firing tax made by refraining from firing one additional worker. Thus this condition sets b at the level which equates the private and public opportunity cost of labor. Note that if the former is larger than the latter at b = 0, then the optimal b is negative, meaning we pay negative unemployment benefits. However b does not fundamentally play the role of an unemployment benefit here: it is merely equivalent to a tax/subsidy on wages meant to bring in line the private cost of labor with its social counterpart. With two instruments, no matter how unrelated they may be to the inefficiencies at hand, one can always generically match the optimality conditions with the equilibrium ones, thus replicating the first best. Exercise 14  Solve for the equilibrium conditions when the two instruments are (i) a tax/subsidy on vacancies and (ii) a tax/subsidy on employment. Compute and discuss the values of those instruments that match the first best.
+
+The stuff you'll need to make a good living
+
+STUDY. PLAY.
+
+The stuff that makes life worth living
+
+NORWAY. YOUR IDEAL STUDY DESTINATION.
+WWW.STUDYINNORWAY.NO FACEBOOK.COM/STUDYINNORWAY
+
+67
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+The political economy of unemployment benefits
+
+6	 The political economy of unemployment benefits
+In this chapter, we compute the effects of unemployment benefits on the welfare of different types of workers. Since the job destruction margin obviously plays a lower role in the analysis than when dealing with employment protection, we now return to the model with exogenous job destruction, although wages remain endogenous. That is, we use the model of Section 3.4. Our objective is to bring together the analysis of Wright (1986), who studies conflicts of interests between workers who differ in their probability of job loss, with that of Saint-Paul (2000), who takes into account the general equilibrium effects of unemployment benefits on wages, in the context of the Mortensen-Pissarides matching model.
+
+6.9	
+
+Wage effects of unemployment compensation
+
+To begin with, let us go back to our model and look at the welfare effects of unemployment benefits. As formalized, we have ignored that unemployment benefits have to be financed, and therefore they appear as manna from heaven. This was not a problem even in the preceding subsection since we were just looking for the Pigovian” level of unemployment benefits, i.e. the one that elicits the correct margin of job destruction, and we could just assume that it is financed by lump-sum taxes. Now, however, we want to know who votes for and against unemployment benefits and we have to explicitly take into account how it is financed. It is convenient to remain in a context where b and θ are constant through time. This means that the tax rate to finance unemployment benefits must be timevarying, since the expenditure at t is equal to but and ut has adjustment dynamics. In turn, for θ to remain constant over time while taxes vary, it must be that these taxes have no distortionary impact on θ. Therefore we are going to assume that unemployment benefits are financed by a lump-sum tax paid by each worker, regardless of his current labor market status (hence if this tax is Tt the net unemployment benefit is in fact b -Tt and is time varying, but the difference in fiscal transfers between unemployed and employed is equal to b and constant through time). We will assume F = 0. We note that if j = 0, then Ve = Vu + G, which implies that a change in b has the same effect on the employed and the unemployed. This is a remarkable result. It tells us that wage formation takes place so as to index the employed’s welfare on the unemployed’s, which would make it impossible for the UB system to achieve insurance: If the employed’s rent is fixed, the unemployed and the employed are unanimous about their preferred level of unemployment benefits. Unemployment benefits do not redistribute welfare from the employed to the unemployed.
+
+68
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The political economy of unemployment benefits
+
+Remark – So far there is no demand for insurance as people are risk neutral. Reducing G provides insurance but that insurance has no value, so there is no reason to set G below the Hosios conditions level. To have a richer analysis we will now focus on the case where G = 0 but j > 0. We now have Ve = Vu + j J = Vu + jW . 1− j
+
+Since J = c / q(q ) and dq / db < 0 , J falls when b goes up. Because the employed share rents with their employer, and because the employer’s surplus falls with b, their welfare goes up by less than that of the unemployed. If j > 0, the unemployed support a greater level of unemployment benefits than the employed. We now derive the equilibrium, compute welfare of the employed and the unemployed, and write down the optimality conditions for their respective preferred values of b. We denote by Tt the lump sum tax at date t . Therefore the evolution equations for the value functions are &, rVe = wt −Tt + s(Vu −Ve ) + V e & , (6.1) rVu = b −Tt + qq(q )(Ve −Vu ) + V u &. rJ = y − wt − sJ + J We solve the model by performing the same steps as in Section 3.4. Since Ve = Vu + jW , we have that &, rW = y − b − θq(θ )ϕW − sW + W
+
+from which, given that W = J / (1− ϕ) = c / ((1− ϕ)q(θ )), we get the new determination of θ: (r + s + ϕθq(θ )) c = (1− ϕ)( y − b). (6.2) q(θ )
+
+This defines a negative relationship between b and θ, along which (r + s)cq ′(θ ) ϕc db =− + < 0. (6.3) 1− ϕ dθ q(θ )2 Two remarks are in order. First, (6.2) can be interpreted as a zero profit condition which equates revenues to the (properly expressed in actuarial terms) total labor costs, that are themselves equal to the sum of wages and hiring costs.
+
+69
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The political economy of unemployment benefits
+
+Exercise 15  Show that wages are equal to w = (1− ϕ)b + ϕ( y + cθ ). Using that result, we can rewrite (6.2) as revenues = wage costs + hiring costs, where revenues = y , wage costs = w = (1− ϕ)b + ϕ( y + cθ ), and hiring costs = (r + s) this flow of profit stops with probability s per unit of time.
+2 Second, we note that db / dq is smaller in absolute value, the smaller the quantity q ¢(q ) / q(q ) . This
+
+the fact that hiring costs are an investment to be paid prior to the flow of profits they generate, and that
+
+c . The discount rate r + s reflects q(q )
+
+means that labor market tightness θ is more reactive to a change in b, the less reactive is the vacancy filling rate q(q ) to θ. Why? Because of free entry and constant returns in production, there are no pure profits in equilibrium. The output of a firm is split between wages and recruitment costs. Therefore, any increase in wages associated with a higher b must be financed” by a reduction in hiring costs, which happens indirectly, in equilibrium, through the fact that the labor market loosens. But, if q(q ) is less reactive to labor market tightness, a larger fall in θ is required to elicit the reduction in hiring costs that is needed to finance the wage increases associated with a given increase in b.
+
+I joined MITAS because I wanted real responsibili� I joined MITAS because I wanted real responsibili�
+
+Maersk.com/Mitas www.discovermitas.com
+
+�e Graduate Programme for Engineers and Geoscientists
+
+�e G for Engine
+
+Ma
+
+Real work International Internationa al opportunities �ree wo work or placements
+
+Month 16 I was a construction Mo supervisor ina const I was the North Sea super advising and the No he helping foremen advis s solve problems Real work he helping fo International Internationa al opportunities �ree wo work or placements s solve pr
+Click on the ad to read more
+
+70
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The political economy of unemployment benefits
+
+To compute the utility of the unemployed, we have to solve for (6.1), which yields:
++∞ 1 θϕc    Vut =  b+ − ∫ Tz e−r ( z −t )dz . (6.4)   t r  1−ϕ  
+
+We need to compute the present discounted value of taxes. It must be that Tt = but . From (3.2), which we can solve, we know that at date z ³ t , uz = (ut − s s )e−( s +qq (q ))( z −t ) + . s + qq(q ) s + qq(q )
+
+This allows to compute the integral
+
+∫
+
++∞ t
+
+Tz e−r ( z−t )dz = b
+
+rut + s . r (r + s + qq(q ))
+
+We can substitute this into (6.4) and differentiate it subject to (6.2), which yields the FOC for the unemployed’s preferred b : dVu db r (1− ut ) + θq(θ ) b(rut + s) ϕc = + + (θq ′(θ) + q(θ)) = 0. (6.5) dθ dθ r + s + θq(θ ) 1− ϕ (r + s + θq(θ ))2
+
+r
+
+As written, the RHS is the marginal benefit from reducing b so as to raise θ by one unit. The first term is negative and is the contribution of foregone unemployment benefits, after deduction of the tax, for a given labor market tightness. The second term captures the fact that the labor market being tighter, people expect to be employed more often throughout their lifetime, and therefore to get their share of the surplus more often. The third term captures the tax savings associated with reduced unemployment, for a given benefit level. Remark – The optimal unemployment benefit depends on the current level of ut , which is a state variable. In other words the optimal benefit b is path-dependent. This is because the tax cost of benefits depend on the initial stock of unemployed people. If people could get benefits for themselves but not others, and finance this in an intertemporally balanced way, then the UB budget constraint would only depend on their own labor market transition rates, qq(q ) and s, and would not depend on aggregate unemployment. Since a higher level of unemployment reduces the first term in absolute value and raises the last term, we get that The unemployed’s preferred level of benefits is smaller, the larger the initial unemployment rate.
+
+71
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The political economy of unemployment benefits
+
+Substituting (6.3) into (6.5), we can rewrite this condition as 0= rut + s r (1− ut ) + θq(θ )  b(rut + s ) (r + s )cq′(θ )  ϕc    + + θq′(θ ) + q(θ )). (6.6)   2 2(   q(θ ) 1−ϕ r + s + θq(θ )  r + s + θq(θ )  (r + s + θq(θ ))
+
+The first term is positive but the second is negative. The last one is proportional to b with a positive coefficient. The unemployed’s preferred value of b will be positive iff the second term dominates the first one. We see that if j is large, this cannot be the case. If j is large labor market tightness is too low and the unemployed prefer to “tax” unemployment in exchange for raising the job finding rate. This is also what the social planner would want to do if j exceeds the Hosios level. A natural benchmark is when the Hosios conditions hold at b = 0. In such a situation, aggregate welfare is maximum and there will always be a conflict of interest in setting the level of unemployment benefits. The Hosios assumptions thus neutralizes the “consensus” component in setting the UB level and allows us to focus on the “conflict” component.
+
+Exercise 16  By solving the planner’s optimal control problem in the case of exogenous job destruction, show that the optimal level of θ satisfies c(r + s − q 2 q ′(q )) = y(qq ′(q ) + q(q )). Conclude that if b = 0 the market equilibrium is efficient if ϕ =− θq ′(θ ) . (6.7) q(θ )
+
+To find out the unemployed’s preferences at the margin of the Hosios condition, we replace j with the RHS of (6.7) in the first two terms of (6.6). If the sum of these two terms is negative it means that for this value of j the unemployed prefer a strictly positive value of b. Indeed, this is what we find after a few rearrangements.
+
+Exercise 17  Show that the sum of the first two terms has the same sign as −r (1− ut )q(q )(qq(q ) + r + s) + (r + s)qq ′(q )(r (1− ut ) + qq(q )) < 0. At the margin of the Hosios conditions, the unemployed prefer a strictly positive level of unemployment benefits.
+
+72
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The political economy of unemployment benefits
+
+An interesting extreme case is the one where q(q ) is a constant. In such a situation hiring costs are fixed; they no longer depend on θ. It is no longer possible to obtain a higher wage by raising unemployment benefits – wages are pinned down by net labor productivity, which is fixed. Instead, to compensate for a higher value of b, θ must fall by enough so that the workers’ outside option in bargaining is unchanged despite the more generous unemployment benefits, which is the only way to deliver the equilibrium wage. In turn this means that in equilibrium the unemployed’s welfare (which is the employed’s outside option in bargaining) cannot go up with b. Therefore the unemployed do not want unemployment benefits even if these were financed by pure manna from heaven, i.e. even ignoring their tax costs.
+
+Exercise 18  Assume q(q ) = m, where m is a constant. Show that the equilibrium value of θ is linear θϕc in b and that the quantity b + does not depend on b. What is the unemployed’s preferred benefit 1− ϕ level in such a situation? Remark – In this example the Hosios condition would have j = 0, meaning there are always too few vacancies and too much unemployment relative to the welfare optimum. Thus it makes sense that the unemployed do not support a positive level of benefits.
+
+Need help with your dissertation?
+Get in-depth feedback & advice from experts in your topic area. Find out what you can do to improve the quality of your dissertation!
+
+Get Help Now
+
+Go to www.helpmyassignment.co.uk for more info
+
+73
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+The political economy of unemployment benefits
+
+Let us now turn to the employed. Their utility differs from that of the unemployed by the rent sharing ϕ c term . Therefore, we have to take into account this component in the RHS of (6.5), and we 1- ϕ q(θ ) get the employed’s FOC:  rut + s r (1− ut ) + θq(θ )  r (r + s )cq′(θ )  ϕc      ′   q ( ) + − θ     2   1−ϕ  q(θ )2  r + s + θq(θ ) q(θ )   r + s + θq(θ )   b(rut + s) (qq ′(q) + q(q)). (6.8) (r + s + qq(q ))2
+ϕc r
+
+0=
+
++ 	
+
+q ′(θ ). This expression is always positive, Relative to (6.6), there is a corrective term given by − 1− ϕ q(θ )2 confirming that the employed support a lower level of unemployment benefit and consequently a greater
+
+θ than the unemployed. We can again look at the employed’s preferences at the margin of the Hosios conditions by substituting j for its “Hosios” level given by the RHS of (6.7). Exercise 19  Show that if (6.7) holds, the first two terms in (6.8) have the same sign as −q(q )r (1− ut )(r + s + qq(q )) − qq ′(q )(−sqq(q ) + r (r + s)ut ). The employed’s preferred UB level may be positive or negative at the margin of the Hosios condition. Raising b raises their outside option in bargaining and allows them to extract more surplus from the firm (in this context they will not lose their job as long as J remains positive). But lowering b reduces taxes and a negative b would amount to a transfer from the unemployed to the employed. We can check that the greater ut , the greater the fiscal costs of UB and the more likely this expression is positive, i.e. the more likely it is that the employed prefer a negative value of b. For ut = 1, the employed want a positive level of unemployment benefit iff sqq(q ) > r (r + s). This is more likely, the greater their job loss rate s, and the smaller the discount rate r . This makes sense as, for the employed, payments of UB will take place in the future and conditional on job loss. Also, the job finding rate qq(q ) reduces the long-term fiscal burden of benefits, for any given initial unemployment rate, which makes it more likely that the employed vote in favor of high benefits.
+
+74
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The political economy of unemployment benefits
+
+6.10	
+
+Heterogeneity in exposure rates to unemployment
+
+Let us now introduce another dimension to the conflicts of interests among workers and assume, following Wright (1986), that workers differ in their exposure to job loss. Specifically, we assume that workers have an observable type s, and that search is directed in that for each worker type there exists a specific labor market with its own labor market tightness q(s). All those submarkets have the same matching function and the same wage formation process. The distribution of worker types is given by a density y(s), with c.d.f. Y(s). On the other hand, unemployment benefits are not type-specific. Everybody pays the same tax Tt and receives the same benefit b when unemployed. The value function equations are now type-specific: & (s); rVu (s) = b −Tt + q(s)q(q(s))(Ve (s) −Vu (s)) + V u & (s); rVe (s) = wt (s) −Tt + s(Vu (s) −Ve (s)) + V e &(s). rJ (s) = y − wt (s) − sJ (s) + J Using the usual manipulation we find that (6.2) again holds for each value of s. Therefore we can rewrite it as (r + s + ϕθ(s)q(θ(s))) c = (1− ϕ)( y − b). (6.9) q(θ(s))
+
+We can check that dq / ds < 0. Markets for more exposed workers have a lower labor market tightness and a greater unemployment duration since the half-life of matches is lower, which, all else equal, reduces the incentives to post vacancies. More exposed worker types have a longer duration of unemployment. Each submarket has its specific unemployment rate ut (s), which evolves according to & t (s) = −q(s)q(q(s))ut (s) + s(1− ut (s)). u The dynamics of the unemployment rate for type s are given by ut (s) = s s + (u0 (s) − )e−(q ( s )q (q ( s ))+s )t (6.10) q(s)q(q(s)) + s q(s)q(q(s)) + s s , q(s)q(q(s)) + s
+
+Submarket s converges to its own long-term unemployment rate, which is given by u u t (s ) = ∞ at speed q(s)q(q(s)) + s.
+
+75
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The political economy of unemployment benefits
+
+c Since Ve (s) = Vu (s) + jW (s), and J (s) = (1− ϕ)W (s) = , the utility at t = 0 of an unemployed q(θ(s)) worker of type s is given by
++∞ 1 ϕc    Vu 0 (s ) =  b + θ( s ) − ∫ Tt e−rt dt . (6.11)   0 r 1−ϕ   
+
+Overall, the expected rents gained by the unemployed in their future jobs are proportional to q(s). These rents are clearly greater for less exposed groups. This comes from two effects. First, these groups find jobs more quickly (an effect proportional to q(s)q(q(s)) ). Second, employers have spent more in recruiting them, which allows them to extract a given share of a greater surplus (an effect proportional to c / q(q(s)) ). It is then straightforward to similarly compute the value function for the employed. We know that Ve 0 (s) = Vu 0 (s) + jW (s) 	 	 ϕ c 1− ϕ q(θ(s)) +∞ ϕc  ϕ 1 c   =  + − ∫ Tt e−rt dt . b + θ( s )   0 r 1−ϕ    1−ϕ q(θ(s )) = Vu 0 (s) +
+
+(6.12)
+
+76
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+The political economy of unemployment benefits
+
+6.10.1	
+
+Gains and losses
+
+We now discuss the costs and benefits of raising unemployment benefits for different categories of workers.
+−rt Let us start with the costs. They are given by the present discounted value of taxes, R = ∫ Tt e dt . We 0 +∞ note that Tt = but and that ut = ∫ ut (s )y(s )ds . We can then substitute (6.10) and compute R. We get 0 +∞
+
+R = b∫
+
++∞ 0
+
+ s ψ(s )  u (s ) +  ds = bH ({u0 ()}, b ).     0  r r + s + θ(s )q(θ(s ))
+
+The tax cost is the product of the unemployment benefit level b and a discounted sum of present and future unemployment levels denoted by H. H goes up with b because in equilibrium a larger value of b reduces the job finding rate q(s)q(q(s)) for all groups of workers. This indirect effect of higher overall unemployment reinforces the direct effect of greater unemployment benefits upon the overall tax costs. Finally, and importantly, by construction this tax cost is the same for all workers. Conflicts of interests only come from the benefits. Let us now discuss the gains, starting with the unemployed. From (6.11), the gain of an increase in unemployment benefits to group s is given by 1 dθ(s ) ϕc    . (6.13) 1+   r db 1−ϕ    This formula tells us that gains differ to the extent that the (negative) effect of greater benefits on labor market tightness differs across groups. A group whose unemployment duration is more sensitive to benefits will prefer a lower level of benefits. Differentiating (6.9) we find that dθ 1− ϕ =− . (6.14) db c(ϕ − (r + s)q ′(θ(s)) / q(θ(s))2 )
+
+We want to know how this varies with s. When s goes up, its impact effect upon the denominator of (6.14) is to make it larger. If the quantity q ¢(q(s)) / q(q(s))2 does not change too much or moves in the right direction, therefore we expect dq / db to fall in absolute value when s is larger. The following exercise gives more precise content to this intuition.
+
+77
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The political economy of unemployment benefits
+
+Exercise 20 – Assume m(u, v ) = (ωuσ + (1− ω )v σ )1/σ , with s £ 1 and 0 £ w £ 1. 	 	 	 	 (i)	Compute q(q ), q ¢(q ), and q ¢¢(q ). (ii)	 show that if s > −1, then q ′′q > 2q ′2 . (iii)	 How does the quantity −q ′(q(s)) / q(q(s))2 vary with s if s > −1? (iv)	 Conclude that if s > −1, then the RHS of (6.14) is larger (smaller in absolute value) for groups with a higher s. We have learned that at least for CES matching functions with not too much complementarity between unemployment and vacancies, groups with greater exposure to job loss favor a higher level of unemployment benefit – since in the RHS of (6.13) the quantity dq / db is less negative for those groups. This is essentially the Wright (1986) result, but in this general equilibrium context we need to work harder to get it and the intuition is somewhat different. In Wright’s simple model, wages were fixed and more exposed groups simply had a greater weight on unemployment benefits in their utility function. As the costs (like here) were mutualized, quite simply they favored a higher level of UB. Here people compute the general equilibrium effects of unemployment benefits on wages and labor market tightness in order to figure out their gains. The effects of exposure highlighted by Wright do not appear in (6.11). And the intuition behind the result that dq / db goes up with s is quite different: labor market tightness is less sensitive to unemployment benefits (i.e. to the opportunity cost of labor) for more exposed groups because, due to the greater job destruction rate, firms, when posting vacancies for those groups, discount future profits at a higher rate. This reduces the response of the net present value of future profits to the opportunity cost of labor and in turn the response of vacancies to b. Yet at the same time we can express the value of being unemployed as a function of wages, unemployment benefits, and the job finding rate. All three components change with b, but the weight of the direct effect of b will always be greater in that expression, the more exposed the group. Hence the effects highlighted by Wright are still there.
+
+78
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The political economy of unemployment benefits
+
+Exercise 21  Let Rt = ∫ 	
+
++∞ t
+
+Tz e−r ( z −t )dz . Let Vu (s) = Vu (s) + Rt and Ve = Ve (s) + Rt .
+
+1.	 Show that the wage for group s is equal to 	 w(s) = (1− ϕ)b + ϕ( y + cθ(s)). (6.15)
+
+		 How does the wage of group s vary with s? 	 2.	 Show that 	 rVu (s) = b (s)b + (1− b (s))w(s), (6.16)
+
+		where 	 	 	 	 β (s ) = r +s r + s + θ(s)q(θ(s))
+
+3.	 How does the weight b (s) vary with exposure s? 4.	Using (6.16), discuss the three main effects of an increase in b on the welfare gains (ignoring tax costs) for group s 5.	 Substitute (6.15) and (6.9) into (6.16) to re-derive (6.11).
+
+Brain power
+
+By 2020, wind could provide one-tenth of our planet’s electricity needs. Already today, SKF’s innovative knowhow is crucial to running a large proportion of the world’s wind turbines. Up to 25 % of the generating costs relate to maintenance. These can be reduced dramatically thanks to our systems for on-line condition monitoring and automatic lubrication. We help make it more economical to create cleaner, cheaper energy out of thin air. By sharing our experience, expertise, and creativity, industries can boost performance beyond expectations. Therefore we need the best employees who can meet this challenge!
+
+The Power of Knowledge Engineering
+
+Plug into The Power of Knowledge Engineering. Visit us at www.skf.com/knowledge
+
+79
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+The political economy of unemployment benefits
+
+If the conditions of Exercise 20 are satisfied, then we have that
+
+∂ 2Vu > 0. ∂ b ∂s
+Let us now turn to the employed’s gains. From (6.12), they are given by the expression ϕc  ϕ 1 c    b + θ( s ) + ,   r 1−ϕ    1−ϕ q(θ(s )) which we can differentiate with respect to b to get 1 dθ(s ) ϕc  c d θ( s ) ϕ    1+ − q′(θ(s )) .   2   r db 1−ϕ  1−ϕ q(θ(s )) db dq (s ) < 0, we see that the last term is negative, implying that the employed prefer db a lower level of unemployment benefits than the unemployed. Furthermore it can again be proved that if Since q ′(q(s)) < 0 and the conditions of Exercise 20 holds, then this expression goes up in algebraic value as s goes up. That is,
+
+∂ 2Ve > 0, ∂ b ∂s
+i.e. more exposed employed workers favor higher levels of unemployment benefits. Exercise 22  Let X (q ) = −q ′(q ) / q(q )2 . Show that as s goes up, the gains to the employed vary in the same direction as the expression − 6.10.2	
+1 + rX (θ(s)) ∂ 2Ve . How does this expression vary with s? Conclude that > 0. ϕ + (r + s) X (θ(s)) ∂b ∂s
+
+Voting on unemployment benefits
+
+The preceding analysis allows us to discuss the outcome when workers vote over the level of unemployment benefits. Despite the above single-crossing properties, it is not obvious that there is a majority winner, so we will just assume that people elect between two alternative levels of unemployment benefits, bL < bH . We then know from the preceding analysis that: There exists a critical level of exposure sU such that the unemployed prefer bH if and only if s > sU and a critical level of exposure s E such that the employed prefer bH if and only if s > s E . Furthermore, s E > sU . The mass of workers favoring the higher level of unemployment benefits is then given by S = ∫ Eu0 (s )y(s )ds + 1−Ψ(s E ).(6.17)
+s U s
+
+If S > 1 / 2 then the high level of benefits is the majority winner.
+
+80
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The political economy of unemployment benefits
+
+To proceed we will focus on the extreme case where q(q ) = m / q. In this situation, the job finding rate does not depend on θ, and nor do the long-term unemployment rates and the speeds of convergence to those levels. Consequently, H=∫
++∞ 0
+
+ s  y(s )  u (s ) +  ds    0  r + s +m r
+
+does not depend on b and the tax costs of unemployment benefits simply are linear in b. Furthermore, from (6.9) we get that θ(s ) = (1− ϕ)( y − b) , ((r + s) / m + ϕ)c
+
+which is also linear and which we can substitute into (6.11) and (6.12) to get rVu = and rVe = (r (1− j) + s)b + j(r + m) y − rbH . r + s + jm (r + s)b + jmy − rbH r + s + jm
+
+r +s − rH , implying that an unemployed worker r + s + jm r +s favors the lowest (resp. highest) level of benefits iff − rH < 0, or equivalently r + s + jm
+
+These formulae are linear in b. We have d(rVu ) / db =
+
+s < sU =
+
+r[(r + jm)H −1] . (6.18) 1− rH
+
+Similarly we get that the critical exposure level beyond which the employed support the higher level of benefits r[(r + jm)H −(1− j)] 1− rH
+
+sE =
+
+> sU . (6.19)
+
+These two formulae allow us to do some comparative statics exercises with respect to the political support level as defined by (6.17). Exercise 23  Show that H < 1/ r , implying that the denominators in (6.18) and (6.19) are positive. % , all workers support the greater level of benefits, and that Conclude that if j is smaller than some j % all unemployed workers, but not all employed workers, support the greater level immediately above j of benefits.
+
+81
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The political economy of unemployment benefits
+
+6.10.3	
+
+Effect of the workers’ bargaining power
+
+We start with an increase in j, the workers’ bargaining power. Here it does not affect H , which is due to our assumption that q(q ) = m / q. The preceding formulae imply that both s E and sU fall, implying that the political support for high benefits among either the employed or the unemployed falls. An increase in workers’ bargaining power reduces the support for unemployment benefits This is because workers extract a greater fraction of the surplus of the match, which is an increasing function of θ. That makes them internalize the fall in the value of the firm associated with a given increase in b more when j is larger, thus reducing their marginal benefits from an increase in benefits. Remark – At the same time, an increase in j raises the gap between the employed’s and the unemployed’s welfare, thus in principle raising the scope for insurance. But here workers are risk neutral and the only reason why this gap falls in equilibrium when b goes up is because firms post fewer vacancies, which as such harms both employed and unemployed workers. Remark 2 – As here the Hosios conditions would have j = 1, an increase in j reduces the gap between the equilibrium and optimum value of θ, making it less socially desirable to raise the cost of labor. Thus it makes sense that both employed and unemployed workers are less likely to support the higher level of benefits.
+
+Challenge the way we run
+
+EXPERIENCE THE POWER OF FULL ENGAGEMENT… RUN FASTER. RUN LONGER.. RUN EASIER…
+1349906_A6_4+0.indd 1
+
+READ MORE & PRE-ORDER TODAY WWW.GAITEYE.COM
+
+82
+Download free eBooks at bookboon.com
+
+22-08-2014 12:56:57
+
+Click on the ad to read more
+
+Frictions and institutions
+
+The political economy of unemployment benefits
+
+6.10.4	
+
+Effect of matching efficiency
+
+Let us now discuss the effect of the parameter m, the efficiency in the matching function. From (6.18) and (6.19) we see that ds E / dm > 0 and dsU / dm > 0. Therefore, ignoring the change in tax costs, a higher m reduces the support for high unemployment benefits. Intuitively, both employed and unemployed workers expect to spend a smaller fraction of their time in unemployment, which reduces their marginal benefit from raising b. However, for exactly the same reason, it is also true that the tax cost of raising unemployment benefits is smaller when m is larger. That is,
++∞ dH s y(s ) u0 (s ) +  ds < 0. = −∫     0   dm r (r + s + m)2
+
+Therefore, the net effect of the efficiency in the matching process on the political support for unemployment benefits seems a priori ambiguous. However, we can “almost” prove that the effect of lower marginal benefits dominates and therefore that a more efficient matching process should reduce the support for unemployment benefits. Exercise 24 	 1.	 Show that the political support for the higher level of unemployment benefits among the unemployed goes down with m , i.e. dsU / dm > 0, if and only if 	 	 − dH (1− rH )H (6.20) < . dm m
+
+2.	 Show that if u0 (s) = 1 for all s , this is equivalent to 	
+
+∫
+
++∞ 0
+
++∞   +∞ (r + s )y(s )  (r + s )y(s )ds  1    y ( ) < s ds ds   .     ∫0 r + s + m   ∫0  (r + s + m)2  r + s +m 
+
+	
+
+3.	 Show that this inequality is equivalent to 	
++∞  +∞ y(s )ds  1   <∫   2 y( s )ds . ∫   0  0 r + s +m ( r + s + m) 2
+
+	 	
+
+4.	 Conclude that it holds, using Jensen’s inequality. 5.	 Now assume u0 (s) = 0 for all s. Show that (6.20) is equivalent to 	
+
+∫
+
++∞ 0
+
++∞  +∞ sy(s )  sy(s )ds r +m  1   y(s )ds  < ds   .   2 ∫ ∫     0 r + s + m   (r + s + m ) m  0 r + s +m
+
+	
+
+6.	 Show that this inequality is equivalent to 	
++∞  +∞ y(s )ds   r + m +∞ sy(s )  r +m     < − 1 ds     2 y( s )ds . ∫ ∫ ∫     0 0  0 (r + s + m)  m r + s +m  ( r + s + m)
+
+83
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The political economy of unemployment benefits
+
+	
+
+7.	 Show that the LHS of this inequality is always smaller than 	  +∞ y(s )ds   (r + m)  .    ∫ 0 (r + s + m )  
+2
+
+	
+
+8.	 Conclude that it holds, using Jensen’s inequality.
+
+Exercise 25 	 1.	 Show that the political support for the higher level of unemployment benefits among the employed goes down with m , i.e. ds E / dm > 0, if and only if 	 	 − dH (1− rH )H < . dm r +m
+
+2.	 Show that this is equivalent to
+
+	
+
+  s   2  +∞ (u0 ( s ) + s / r )   +∞ (u0 (s ) + s / r )y(s )ds    r     < y ( s ) ds .    2 ∫ ∫      0   0  r + s +m + + r s m ( )     	   3.	 Conclude that it holds if initial unemployment is not too large.
+
+This e-book is made with
+
+SetaPDF
+
+SETASIGN
+
+PDF components for PHP developers
+
+www.setasign.com
+84
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+The political economy of unemployment benefits
+
+We see that Jensen’s inequality plays a key role in proving those results. This allows us to provide some intuition for them. First, observe that the marginal benefit of raising b to a worker is his (discounted) fraction of time spent in unemployment. Second, note that the marginal tax cost of raising b is the average across all workers of that discounted time. Consequently, the indifferent voter is the one for which the expected time spent in unemployment is equal to the average. Furthermore, the marginal effect of an increase in m – i.e. a greater job finding rate – on the expected fraction of time spent in unemployment is a negative, convex function of that fraction of time. For example, at one extreme, people such that s = 0 are never unemployed regardless of m, and at the other extreme people such that s = ∞ are always unemployed regardless of m. So the middle” fraction of time spent in unemployment is more sensitive to m than the extreme. Since the indifferent voters are in the middle” while the extremes contribute to the change in the tax cost of benefits, the indifferent voters’ time spend in unemployment is more reactive to a change in m than the tax cost. This explains why the political support for high unemployment benefits falls with m. The next exercise works out a simplified static example of that logic. Exercise 26  Assume benefits are equal to b, the wage is fixed and equal to w , and that the fraction of unemployed workers of type s is given by f (a, s), where a is the job finding rate. Assume f 2¢ > 0. 	 1.	 Show that the expected income of a worker of type s is given by 	 	 U = bf (a, s) + w(1− f (a, s)) − bEf (a, s).
+
+2.	 Assume people vote between two alternative values of b. Denote by E the average over s. Show that if workers vote under a veil of ignorance with respect to whether they are employed ˘ is such that or unemployed, then the indifferent voter’s type s 	 ˘) = Ef (a, s). f (a, s
+
+	
+
+3.	 Show that the political support for the higher level of unemployment benefits falls with a if 	 ˘) < Ef1 ′ (a, s). (6.21) f1′ (a, s s . Show that a+s
+
+	
+
+4.	 Assume that f (a, s) =
+
+	 	
+
+f1’ (a, s) = − f (a, s)(1− f (a, s)) / a
+
+5.	 Show that there exists a convex function g ( X ) and a transformation ss → ® X (s) such that (6.21) is equivalent to 	 g (EX ) < Eg ( X ).
+
+	
+
+6.	 Conclude that (6.21) holds.
+
+To summarize this discussion, we can conclude that A greater matching efficiency typically reduces the support for unemployment benefits.
+85
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+The political economy of unemployment benefits
+
+6.10.5	
+
+Effect of initial unemployment
+
+We now discuss the effects of the initial conditions, i.e. the initial distribution of unemployment rates across exposure groups, as given by the function u0 (s). Let us consider the effect of an increase in initial unemployment rates, denoting the change in that rate for group s by ∆u0 (s) > 0. We already know that the tax costs go up, which induces any given individual to support a lower level of benefits. The change in the marginal tax cost of b is given by dH = ∫ ∆u0 (s ) y(s )ds > 0. r + s +m
+
+Because of that, the support for high benefits falls among both the employed and the unemployed. That is, dsU = ds E = r
+2
+
+(1− rH )
+r +m
+
+dH > 0,
+
+(1− rH )
+
+2
+
+dH > 0.
+
+On the other hand, there also is a composition effect: the unemployed are more numerous than the employed and they favor greater benefits. Differentiating (6.17) we get that dS = −(1− u0 (s E ))y(s E )ds E − u0 (sU )y(sU )dsU + ∫ E∆u0 (s )y(s )ds .
+s U s
+
+The last positive term captures the composition effect. It is equal to the sum of the increment in initial unemployment across all the workers that support low benefits if employed but high benefits if unemployed. The net effect of higher initial unemployment on S clearly depends on how it is distributed by exposure levels. If the bulk of the increase falls upon the switch” workers, society may respond by voting for greater benefits. Otherwise – if for example initial unemployment falls upon disadvantaged” groups with such a high value of s that they support the high benefit level regardless of whether they are employed or unemployed – the tax effect dominates and benefits are reduced. Higher initial unemployment is likely to lead to reduced benefits if it mainly falls upon the least or most exposed groups; it may lead to higher benefits if it mainly falls upon the “switch” workers whose preferred benefit level depends on their current labor market status.
+
+86
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Heterogeneous worker type and active labor market policy
+
+7	 Heterogeneous worker type and active labor market policy
+It is often advocated that active labor market policies, such as training programs and improving job search for the unemployed, are an efficient tool in order to reduce unemployment. In order to assess that claim, we need to understand their effects in general equilibrium, taking into account, in particular, how they affect wage formation. In this chapter we adapt the above framework to study the welfare effects of active labor market policies – understood as a subsidy to job search. A key assumption here is that workers differ in their productivity level and must incur a fixed cost per unit of time in order to search for a job. There is no directed search, workers of all types participate in the same matching progress. In equilibrium workers with a productivity below some threshold do not search – they are de facto out of the labor force but may be interpreted as “long-term unemployed”. We will compare the equilibrium with the social optimum and note that the Hosios conditions are no longer sufficient to elicit efficiency. Then we will study the role of active labor market policies, understood as a subsidy to job search, and how they affect various groups of workers.
+
+7.11	
+
+The basic framework
+
+Workers differ by their productivity y , and the population distribution of y is given by a density y( y ) and c.d.f. Y( y ). At any point in time, unemployed workers may be searching or not searching – in the latter case their utility is equal to zero. We distinguish between ut , the total number of unemployed workers, and ut , those who are actively searching. The matching rate per unit of time is m(ut , vt ) and the labor market tightness parameter θ is now defined as q = v / u . In order to be searching workers must incur a unit cost equal to d per unit of time. The value functions Ve , Vu and J now depend on the worker’s type and we have (assuming steady state) rVu ( y ) = −d + qq(q )(Ve ( y ) −Vu ( y )), rVe ( y ) = w( y ) + s(Vu ( y ) −Ve ( y )), rJ ( y ) = y − w( y ) − sJ ( y ), while the bargaining process is the same as in the preceding chapter, i.e. Ve ( y ) = Vu ( y ) + j J ( y ). 1− j
+
+87
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Heterogeneous worker type and active labor market policy
+
+Eliminating Ve , J , and w from these 4 equations, we can get Vu ( y ) for a given θ and we get −d(r + s) + ϕθq(θ ) y . (7.1) r + s + ϕθq(θ )
+
+rVu ( y ) =
+
+It is then easy to compute the value of being employed for a worker of type y : −d(r (1− ϕ) + s) + ϕ(θq(θ ) + r ) y . (7.2) r + s + ϕθq(θ )
+
+rVe ( y ) =
+
+Finally the wage is w( y ) = ϕ(r + s + θq(θ )) y − (1− ϕ)(r + s)d . r + s + ϕθq(θ )
+
+We note that the search cost d brings wages down, by reducing the opportunity cost of work.
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+88
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+Heterogeneous worker type and active labor market policy
+
+7.12	Equilibrium
+To characterize the equilibrium, we need to derive the job creation condition. We denote by y the average productivity of job applicants. The value of a worker with productivity y to the firm is J ( y) = y − w( y ) (1− ϕ)( y + d ) = . r +s r + s + ϕθq(θ )
+
+Free entry of vacancies implies that EJ ( y ) = c / q(q ), where the expectations are taken with respect to the pool of job applicants. Since J is linear in y , this is equivalent to J ( y ) = c / q(q ), or equivalently y +d = c(r + s) ϕ + cθ. (7.3) (1− ϕ)q(θ ) 1− ϕ
+
+This job creation locus defines an increasing relationship between y and θ. The tighter the labor market, the greater the firms’ search costs and the greater the average productivity of applicants must be to compensate. Next, we need to know which workers search and which workers do not search. A worker of type y searches, in steady state, if and only if Vu ( y ) > 0. Using (8.1), we get that this is equivalent to
+
+−d(r + s) + ϕθq(θ ) y > 0. Therefore, there exists a critical productivity level y * above which workers search, and d(r + s) . (7.4) ϕθq(θ )
+
+y∗ =
+
+In steady state, the average productivity of both job applicants and employed workers is then equal to y = E( y | y > y ) =
+∗
+
+∫
+
++∞ y∗
+
+y y( y )dy
+
+1−Ψ( y ∗ )
+
+.
+
+Clearly, dy / dy ∗ > 0. Therefore, (7.3) alternatively defines a positive relationship between y * and θ. By contrast, (7.4) defines a decreasing relationship between θ and y * . When the labor market is tighter, so is the job finding rate which induces more unemployed workers to search. Accordingly the productivity threshold falls.
+
+89
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Heterogeneous worker type and active labor market policy
+
+Equilibrium is then determined, as on Figure 10, by the intersection between the firms’ job creation condition JC, defined by (7.3), and the worker’s search condition WS, defined by (7.4). This intersection defines the market outcome values of θ and y * , denoted by qM and y * M respectively.
+
+Figure 10: Equilibrium determination
+
+Consider, for example, an increase in the workers’ bargaining power j. It shifts both loci to the left (Figure 11). As a result, θ unambiguously falls but y * may go up or down. Firms post fewer vacancies because they appropriate a smaller fraction of the surplus of the match. Workers search more for any θ because they appropriate a greater fraction of the surplus. But as θ falls, this per se discourages worker search, so that the overall effect on y * is ambiguous.
+
+Figure 11: Impact of an increase in the worker’s bargaining power
+
+90
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Heterogeneous worker type and active labor market policy
+
+We can also note that in steady state, the unemployment rate is given by u∞ = Ψ( y ∗ ) + (1−Ψ( y ∗ )) = 	 s + Ψ( y ∗ )qq(q ) . s + qq(q ) s s + qq(q )
+
+Consequently, if the net effect of an increase in j on y * is negative, it may be that the unemployment rate is lower in the long run. Despite the fall in job finding rates, expectations of appropriating a greater fraction of the surplus brings some of the “long-term unemployed” back into job search.
+
+7.13	
+
+Social welfare
+
+It is interesting to compare the preceding equilibrium with the social optimum. To be able to do this we need to reformulate the social planner’s problem adequately. There are now an infinite number of state variables, given by the unemployment rate of type y at date t , u(t , y ). Total output at t must then be equal to
++∞ 0
+
+yt = ∫
+
+y (1− u(t , y ))y( y )dy .
+
+91
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+Heterogeneous worker type and active labor market policy
+
+At each date the social planner chooses the vacancy rate vt , or equivalently the degree of labor market tightness qt , as well as the minimum productivity level yt* for workers to search. Therefore, the evolution equations of u(t , y ) are given by & (t , y ) = s(1− u(t , y )), y < yt∗ , u & (t , y ) = s(1− u(t , y )) − qt q(qt )u(t , y ), y > yt∗ . u The social planner’s objective function is given by max ∫
++∞ 0
+
+[−(cqt + d )ut + yt ]e−rt dt ,
+
+where ut , the stock of unemployed workers actively searching, is given by ut = ∫
++∞ y∗
+
+u(t , y )y( y )dy .
+
+That is, the social planner maximizes the present discounted value of output net of firms’ ( cv = cqu ) and workers’ (du ) search costs.
+−rt The co-state variable associated with u(t , y ) is denoted by −λ(t , y )e ψ( y ) . The quantity l(t , y ) is interpreted as the marginal social value of an additional employed worker of type y. We can now write
+
+down the Hamiltonian: H = [−(cqt + d )ut + yt ]e−rt  y∗  +∞  −e−rt  .  ∫ λ(t , y )s(1− u(t , y ))ψ( y )dy + ∫ ∗ λ(t , y )(s(1− u(t , y ))− θt q(θt )u(t , y )) ψ( y )dy    y   0 
+
+	
+
+Next, we can write down the FOC:
++∞ ∂H = 0 ⇔ −cut + (q(θt ) + θt q′(θt )) ∫ ∗ λ(t , y )u(t , y )ψ( y )dy = 0, y (7.5) ∂θt
+
+	
+
+∂H = 0 ⇔ cθt + d −λ(t , y ∗ )θt q(θt ) = 0, (7.6) ∂ yt∗
+
+∂  −rt ∂H = λ(t , y )− rλ(t , y ) e ψ( y )      ∂u(t , y ) ∂t 	   ∂  − y + (r + s )λ(t , y ) = λ(t , y ), y < y ∗   ∂t ⇔   ∂  − y −(cθt + d )+ (r + s + θt q(θt ))λ(t , y ) = λ(t , y ), y > y ∗   ∂t               
+
+92
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Heterogeneous worker type and active labor market policy
+
+Let us now focus on the steady state. We note that the marginal value of an employed worker of type y is, in steady state: l(t , y ) = λ(t , y ) = y for y < y ∗ r +s y + cθ + d for y > y ∗ . (7.7) r + s + θq(θ )
+
+Substituting into (7.6) allows to compute y * , and we get
+
+y∗ =
+
+(cq + d )(r + s)
+qq(q )
+
+. (7.8)
+
+This condition defines the socially optimal search threshold for the workers. We can check that λ is continuous at y = y ∗ . Finally in steady state we have u(t , y ) = s / (s + qq(q )) = u for all y > y ∗ . It follows that u = u(1− Ψ( y ∗ )) and, substituting (7.7) into (7.5), we get c(r + s − q 2 q ′(q )) = (E( y | y > y ∗ ) + d )(q(q ) + qq ′(q )). (7.9) This condition defines the socially optimal job creation condition. 7.13.1	 Comparing equilibrium and optimum.
+
+To compare the equilibrium and the optimum, we need to confront (7.8)–(7.9) with (7.4)–(7.3). Comparing the equilibrium and optimum job creation condition, i.e. (7.3) and (7.9), it is straightforward to check that the usual Hosios condition ϕ = −θq ′(θ ) / q(θ ) must hold. However, this condition is no longer sufficient. For the two worker search conditions to match, we would need in addition that ϕ= d , cθ + d
+
+which generally does not hold. The term cq in the denominator of the preceding formula captures the congestion externality exerted by an unemployed worker who decides to search. This decision would reduce θ and to prevent it from falling, vacancies have to rise by an amount θ, implying that an extra vacancy cost cq must be spent. This extra cost is taken into account by the central planner but not by the individual worker. If the worker’s appropriability level is equal to the ratio between his private search cost d and the social one cq + d , then the congestion externality is internalized.
+
+93
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Heterogeneous worker type and active labor market policy
+
+So far there is nothing new in this line of reasoning and it does not highlight why here (contrary to the usual case) the Hosios conditions fail to elicit simultaneous internalization of congestion externalities on the worker side and on the firm side. The reason is that this negative externality is exerted upon an unemployed worker of average productivity, whereas the marginal unemployed worker only takes into account his own productivity level when considering the gains from search. Indeed the following exercise shows that if one ignores such a discrepancy between the productivity of the average and marginal unemployed workers (which would only be justified absent any heterogeneity among workers), then the Hosios condition is enough to restore efficiency.
+* Exercise 27  Let qSP and y SP be the solution to the social * * 16 ′(′θ = θSP )/ (θ ).). n qq E( y | y > y SP ) = y SP . Let ηη = – n θSP (SP θSP )q /q (SP θSP
+
+planner’s problem. Assume that
+
+	
+
+* 1.	 By eliminating y SP between (8.8) and (8.9), show that
+
+	 	
+
+cθSP η = d(1− η ).
+
+2.	 Show that in such a case it must be that d (r + s ) * y SP = . ηθq(θ ) 	
+* * 3.	 Conclude that if ϕ = η , then (qSP , y SP ) are solution to (7.3)–(7.4)
+
+	
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+94
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+Heterogeneous worker type and active labor market policy
+
+We have identified another externality: even at the Hosios conditions, the degree to which the marginal worker internalizes the congestion problem is inadequate, because his productivity differs from the productivity of the workers upon which the externality is exerted (a “quality effect”). Since the marginal worker is less productive than the average, this effect tends to lead to too much worker search. Therefore we expect the critical productivity level to be lower in the market equilibrium than in the centrally planned solution if the Hosios conditions hold – since the usual congestion externalities are internalized at the Hosios conditions, only the quality effect dominates. Labor market tightness and productivity are too low relative to the social optimum if the Hosios conditions hold.
+−α 1na α Suppose for example that m(u, v ) = ua v1– ,, i.e. q(θ ) = θ . If ϕ = α the Hosios conditions hold and the
+
+JC loci (7.9) and (7.3) coincide. Figure 12 draws the social planner’s optimal worker search condition SSP (defined by (7.8)) along with the corresponding market condition WS (expressed by (7.4)). These two conditions intersect at a point q , which furthermore is the minimum point of SSP. It can be proved that the JC condition is below the intersection point, so that it cuts WS before SSP, on the right of this minimum point (Figure 13).
+
+Figure 12: The market’s and social planner’s worker search condition
+
+95
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Heterogeneous worker type and active labor market policy
+
+*
+
+Figure 13: If Hosios holds, too much worker search
+
+Exercise 28  Assume q(θ ) = θ −α and ϕ = α. 	 	 1.	 Derive explicit formulas for WS and SSP 2.	 Show that these two loci intersect only once at d(1− α) 	 θ = θ = cα . 3.	 Compute the derivative dy * / dq along SSP and show that it is equal to zero at q = q . 4.	 Show that the common value of y * at the intersection point between SSP and WS is equal to 	 	 	 y * = (r + s ) c1−a d a . (1− a)1−a aa
+
+	 	
+
+5.	 Derive explicit formulae for the social planner’s and equilibrium job creation conditions. Show that these two formulae coincide, defining a single locus JC. 6.	 Show that along the JC locus, at q = q it is true that 	 E( y | y > y ∗ ) = y ∗ .
+*
+
+	
+
+7.	 Conclude that in the ( q , y ) plane JC is below SSP and WS at their intersection point, and that 	 	
+∗ y∗ M < y SP ,
+
+∗ ∗ qM < qSP .
+
+96
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Heterogeneous worker type and active labor market policy
+
+Remark – The reader familiar with the Chamberlinian theory of monopolistic competition will have recognized the analogy between SSP and an average cost curve, and WS and a marginal cost curve. This analogy is not fortuitous. The LHS of (8.8) and (8.4) is the marginal benefit – expressed in terms of the additional flow of output generated by that worker when eventually employed – of putting an additional unemployed worker into active search. The corresponding RHSs are the social and private marginal costs of doing so, respectively. The social planner considers the congestion cost imposed on the average job seeker, while at the Hosios conditions the marginal job seeker only internalizes the congestion costs imposed on marginal workers.
+
+7.14	
+
+Welfare effects of active labor market policies
+
+Now we assume that the government pursues an active labor market policy, understood as a subsidy to job search which reduces the cost of search from d to d - t. I assume that somehow the government can enforce this policy, i.e. the subsidy t is not paid to the workers who do not search. In that sense, it is different from yet another form of unemployment benefits. Furthermore, all unemployed job seekers are entitled to the subsidy, irrespective of their productivity or employment history. The analysis could deliver different results if, say, the subsidies were targeted to the low productivity workers17.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+97
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+Heterogeneous worker type and active labor market policy
+
+As was the case for unemployment benefits, I assume the subsidy is financed by a lump-sum tax levied on all workers. Therefore it does not introduce distortions in equilibrium determination. As in the preceding chapter, the present discounted value of the tax has to be deducted from the welfare of the employed and the unemployed, as defined in equations (7.1) and (7.2).
+* To compute this tax burden, we note that for a given search threshold y and a given distribution of
+
+unemployment rates by productivity levels u0 ( y ), the initial stock of unemployed workers actually searching is given by u0 = ∫
++∞ y∗
+
+u0 ( y )y( y )dy .
+
+∗ The total number of employed workers of types y > y at date t is given by 1−Ψ( y ∗ )− ut . Consequently,
+
+the law of motion of ut is
+
+d ut = s (1−Ψ( y ∗ )− ut )− qq(q )ut . dt The solution is ut = (u0 − u∞ )e−( s+qq( q ))t + u∞ , where u∞ = s (1−Ψ( y ∗ )) s + qq(q ) .
+
+The tax cost of the subsidy at date t is Tt = tut , therefore the PDV of this tax is
+
+∫
+where
+
++∞ 0
+
+Tt e−rt dt = t H ,
+
+H=
+
+u0 u (s + θq(θ)) + ∞ r + s + θq(θ) r (r + s + θq(θ))
+u0 s(1−Ψ( y * )) + . r + s + qq(q ) r (r + s + qq(q ))
+
+	
+
+=
+
+98
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Heterogeneous worker type and active labor market policy
+
+The utility function of an unemployed worker who is searching and has a productivity y can then be rewritten as Vu ( y ) = (τ − d )(r + s ) + ϕθq(θ ) y −τH. r (r + s + ϕθq(θ ))  (7.10)
+
+Similarly for the employed: (τ − d )(r (1−ϕ ) + s ) + ϕ(θq(θ ) + r ) y − τ H . (7.11) r (r + s + ϕθq(θ ))
+
+Ve ( y ) =
+
+We also need to discuss how t affects the job destruction and worker search conditions. For this it is enough to replace d by d - t in those conditions, and we get y +d −τ = y* = c (r + s ) ϕ + cθ , (1−ϕ )q(θ ) 1−ϕ (7.12)
+
+(d − τ )(r + s ) . (7.13) ϕθq(θ )
+
+* We see that in the (q , y ) plane an increase in t shifts WS down and JC to the left. Labor market
+
+tightness unambiguously falls while the change in the average quality of workers is ambiguous. The subsidy to job search raises the opportunity cost of work for those worker types who actively search. This increases wage pressure thus reducing profitability and the incentives to post vacancies. Therefore θ falls. Furthermore at the extensive margin, given θ, more workers want to search. As such this effect tends to further reduce q because the additional workers are less productive than average, thus reducing again the value of posting vacancies. However the fall in θ per se tends to discourage job search, and if this fall is strong enough worker quality actually goes up, and so does long-term unemployment, despite the subsidy to job search. The effects of t are qualitatively similar to those of j : Both parameters shift the two loci in the same direction. A greater j increases the worker’s power in wage setting through the rent they can extract * from the employer, while t does it through their outside option in bargaining. A greater j reduces y given θ because the prospects of greater rents induce more workers to search, while a greater t does so through direct subsidization of search. We are now in a position to discuss the effects of ALMP on welfare. We first start with social welfare and then proceed to discuss the welfare of different categories of workers.
+
+99
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Heterogeneous worker type and active labor market policy
+
+7.14.1	
+
+Social welfare
+
+While we already know that the Hosios conditions per se are insufficient to restore efficiency, we can analyze which combination of j and t delivers the first best. Admittedly this is a contrived exercise since t presumably is a policy variable while j is not. But we already know from Chapter 4 that j can be targeted indirectly by the policymaker through regulations such as severance payments. We need to match the optimality conditions with the equilibrium ones. The equilibrium job creation * * condition (7.12) must coincide with the optimality condition (7.9) for y = y SP and q = qSP . Let
+
+* η= =– nθSP q ′(θSP ) / q(θSP ). Then eliminating y = E( y | y > y SP ) between these two conditions and dropping
+
+the “ SP ” subscript we get the following: c(r + s + ηθq(θ )) c(r + s + ϕθq(θ )) − . (7.14) q(θ )(1− η ) q(θ )(1−ϕ )
+
+τ=
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+100
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+Heterogeneous worker type and active labor market policy
+
+This defines a decreasing, concave relationship, called OJC, in the (ϕ, τ ) plane which goes through the point (h , 0). This relationship depicts the combinations of j and t that make firms internalize the congestion externality in job search. These are the combinations that deliver the correct social opportunity cost of labor. If for example the fraction of the surplus appropriated by the worker is greater than the Hosios level, then the cost of labor is too high and one has to tax search to reduce the worker’s outside option in bargaining, thus bringing the cost of labor down back to the correct level from the social planner’s perspective. (Figure 14) Similarly, we can match the equilibrium worker search condition (8.13) with the optimality one (8.8) and we get
+
+τ =– nϕcθ + (1−ϕ )d . (7.15)
+
+Figure 14: Determination of the optimal (j, τ)
+
+101
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Heterogeneous worker type and active labor market policy
+
+This defines another decreasing, linear relationship between t and j. These are the combinations of j and t that deliver the socially optimal benefit of search to the unemployed workers, reflecting both the quality and congestion externalities. Since we know that the latter is internalized by workers at ϕ = η , only the (negative) quality externality remains, implying that along this locus t < 0 at ϕ = η : search must be taxed for workers to internalize the negative effect of the marginal job seeker on the average quality of the pool. Indeed this can be checked algebraically.
+
+Exercise 29 	
+* * 1.	 By using the fact that y < E( y | y > y ), show that
+
+	 	
+
+cθSP + d c(r + s + ηθSP q(θSP )) (r + s ) < −d. θSP q(θSP ) q(θSP )(1− η )
+
+2.	 Rearrange and show that this inequality is equivalent to 	 0< η cθ − d . 1− η
+
+	
+
+3.	 Conclude that at ϕ = η the RHS of (7.15) is below that of (7.14)
+
+The joint determination of the optimal j and t is depicted on Figure 14. The OJC locus depicts the relationship (7.14), while OWS represents (7.15). It can be proved that the two loci only cross once for 0 £ j £ 1, and that the crossing point is such that ϕ > η and t < 0. The optimal policy is to raise the worker’s rent beyond the Hosios level while at the same time implementing a negative active labor market policy which taxes job search (we ignore feasibility constraints on such policies). This is just the opposite of what, say, an OECD report would recommend. Exercise 30 	 	 	 	 1.	 Show that along OJC, limϕ→1τ = – − ∞ n 2.	 Conclude that there exists a pair (ϕ, τ ) such that ϕ > η where OJC and OWS coincide. 3.	 Show that OJC and OWS cross at most twice, and that if they cross at a point other than the one in the preceding question, it must be such that ϕ < η. 4.	 Show that for j = 0 the RHS of (8.14) is larger than that of (8.15). Conclude that OJC and OWS only cross once.
+
+102
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Heterogeneous worker type and active labor market policy
+
+One way to interpret this result is as follows: starting from the Hosios condition value of j, search must be taxed because of the quality externality. But taxing search reduces the cost of labor, leading to too high a vacancy level. To compensate for that, one must further raise the worker’s bargaining power, which in turn must lead to a higher tax on job search. Note however that this process converges to a consistent pair (ϕ, τ ) only because (i) OJC becomes steeper relative to OWS as one moves to the right, and (ii) the opposite strategy of reducing j and compensating by a raise in t does not converge because OWS and OJC fail to cross on the left of ϕ = η. These aspects seem more dependent on the specific modelling features of the analysis than on the qualitative effects of j and t on the economy. Thus we do not expect the conclusion that one must have ϕ > η and t < 0 to be very robust. 7.14.2	 Effect on the welfare of different types of workers
+
+I now study which groups gain and lose from ALMPs. In the sequel I will assume that an increase in * * t has a “normal” effect on y , i.e. that y falls18. As a result it must be that dH / dt > 0, both because y * falls (a greater proportion of the population is eligible for the subsidy) and θ falls (people who do search remain unemployed longer, so the subsidy has to be paid to them for a longer period).
+
+103
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+Heterogeneous worker type and active labor market policy
+
+Equations (7.10) and (78.11) imply that we can distinguish three kind of effects of the subsidy on different categories of workers: •	 The negative direct tax effects are given by d (t H ) and are the same for all workers, dt including those who do not search. These ones have a utility equal to – nt H and they
+
+clearly are worse-off, unless the change in the subsidy makes them switch from non-search to search. •	 The direct positive effect of the subsidy on the utility flow while searching. This effect is given by r +s r (r + s + ϕθq(θ ))
+
+	
+
+for the unemployed and by r (1−ϕ ) + s r (r + s + ϕθq(θ ))
+
+	
+
+for the employed. It is therefore stronger for the unemployed than for the employed, as their discounted expected time spent in unemployment is obviously larger. Furthermore this effect does not depend on the worker’s productivity y. •	 The indirect negative effect on utility through the fall in θ. It is equal to dθ ϕ(r + s )( y + d − τ ) (q(θ ) + θq′(θ )) dτ r (r + s + ϕθq(θ ))2
+
+	 for the unemployed and to
+
+	
+
+dθ ϕ(r (1−ϕ ) + s )( y + d − τ ) (q(θ ) + θq′(θ )) dτ r (r + s + ϕθq(θ ))2
+
+for the employed. We notice that this negative effect is also stronger for the unemployed, for whom the job finding rate matters more than for the employed. Also, this effect is stronger for more productive workers, because they appropriate part of the surplus of the match and therefore get higher wages, which makes them lose more from any reduction in job finding rates. Controlling for labor market status, more productive workers are more likely to oppose active labor market policies.
+
+104
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Heterogeneous worker type and active labor market policy
+
+The preceding formulas allow us to find out who gains and who loses from an increase in t among the employed and the unemployed. Consolidating all the terms spelled out above, we see that the marginal gains can be written as (r + s )γ ( y )− d (τ H ) for the unemployed and (r (1−ϕ ) + s )γ ( y )− d (τ H ) for the dτ dτ employed, where γ( y ) = 1 dθ ϕ( y + d − τ ) + (q(θ ) + θq′(θ )) , r (r + s + ϕθq(θ )) d τ r (r + s + ϕθq(θ ))2
+
+and g ′ < 0. Therefore we see that an employed worker opposes the increase in t iff his productivity level is greater than ye = γ −1 ( d 1 (τ H )). r (1−ϕ ) + s d τ
+
+* In particular, if ye < y , all the employed opposed ALMPs.
+
+As for the unemployed, their corresponding critical productivity level is yu = γ −1 ( 1 d (τ H )) > y e . r + s dτ
+
+This inequality means that Unemployed searchers are more in favor of active labor market policies than the employed.
+* However, the long-term unemployed, i.e. those such that y < y , oppose it, except a tiny band of
+
+workers who are just below the critical search threshold and who switch their behavior because of the subsidy (but this band would not be tiny if we were considering a non infinitesimal increment in t ). Thus, somewhat paradoxically, here most of the long-term unemployed oppose ALMPs, however this is because here worker search only operates through the extensive margin. More generally, though, it makes sense to think that the most disenfranchised long-term unemployed do not particularly support active labor market policies as it is unlikely to raise their own job finding rate.
+* If y < ye , then the coalition of workers in favor of ALMPs is made of the least productive employed
+
+workers, the least productive short-term unemployed, and the most productive long-term unemployed. The opponents are the least productive long-term unemployed, and the most productive employed and job-seekers. As the short-term unemployed are more in favor of ALMPs than the employed, the opponents among the former are more productive than the opponents among the latter.
+
+105
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+References
+
+References
+Alvarez, Fernando and M. Veracierto (2000), “Labor Market Policies in an Equilibrium Search Model”, in Ben Bernanke and Ken Rogoff, eds, NBER Macroeconomics Annual 2000. Alvarez, Fernando and M. Veracierto (2001), “Severance Payments in an Economy with Frictions”, Journal of Monetary Economics, 47, 477–498. Bentolila, Samuel, and Giuseppe Bertola, (1990), “Firing Costs and Labour Demand: How Bad is Eurosclerosis?”, Review of Economic Studies, 57(3), 381–402. Bentolila, Samuel, and Gilles Saint-Paul (1994), “A Model of Labor Demand with Linear Adjustment Costs”, Labour Economics 1, 1994. Bertola, Giuseppe. “Flexibility, Investment, and Growth,” Journal of Monetary Economics, 1994, 34(2), pp. 215–238. Blanchard, Olivier and Jean Tirole (2008), “The Joint Design of Unemployment Insurance and Employment Protection: A First Pass”, Journal of the European Economic Association, 6(1), 45–77.
+
+106
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Frictions and institutions
+
+References
+
+Boeri, Tito, Conde-Ruiz, Ignacio J. and Galasso, Vincenzo (2012). “ The Political Economy of Flexicurity,” Journal of the European Economic Association, 10(4), pp. 684–715. Bruegemann, Bjoern (2012). “Does Employment Protection Create Its Own Political Support?” Journal of the European Economic Association, 10(2), pp. 369–416. Bruegemann, Bjoern (2007). “Employment protection: Tough to Scrap or Tough to Get?,” Economic Journal, 117(521), pp. 386–415. Cahuc, Pierre and Etienne Lehmann (2000), “Should Unemployment Benefits Decrease with the Unemployment Spell?”, Journal of Public Economics, 77, 135–153. Cooper, Russell and Andrew John (1988), “Coordinating coordination failures in Keynesian models”, Quarterly Journal of Economics, 103, 3, 441–63. Diamond Peter A. (1982), “Aggregate Demand Management in Search Equilibrium”, Journal of Political Economy, Vol. 90, No. 5, pp. 881–894. Grout Paul A., “Investment and Wages in the Absence of Binding Contracts: A Nash Bargining Approach”, Econometrica, 1984, vol. 52, issue 2, pages 449–60. Hall, Robert E. and Paul Milgrom (2008), “The Limited Influence of Unemployment on the Wage Bargain”, American Economic Review, 98:4, 1653–1674. Hosios, Arthur J., 1990. “On the Efficiency of Matching and Related Models of Search and Unemployment,” Review of Economic Studies, 57(2), pages 279–98, April. Fredriksson, Per and Bertil Holmlund (2001), “Optimal Unemployment Insurance in Search Equilibrium”, Journal of Labor Economics, 19(2), 370–399. Hopenhayn, Hugo and Richard Rogerson (1993), “Job Turnover and Policy Evaluation: A General Equilibrium Analysis” Journal of Political Economy, 101(5), 915–938. Krusell, Per, Mukoyama, T. and A. Sahin (2010), “Labour Market Matching with Precautionary Savings and Aggregate Fluctuations”, Review of Economic Studies, 77, 1477–1507. Lehmann, Etienne and Bruno van der Linden (2007), “On the Optimality of Search Matching Equilibrium When Workers Are Risk Averse”, Journal of Public Economic Theory, 9(5), 867–884. Layard, Richard, Stephen Nickell and Richard Jackman (1989), Unemployment: Macroeconomic Performance and the Labour Market, Oxford University Press.
+107
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+References
+
+Lazear, Edward P. (1990), “Job Security Provisions and Employment,” Quarterly Journal of Economics, 105(3), pages 699–726. Lindbeck, Assar, and Dennis J. Snower (1988), The Insider-Outsider Theory of Employment and Unemployment, MIT Press, Cambridge, Massachusetts. Michaud, Jean–Baptiste (2013), “Optimal Labor Market Policy with Search Frictions and Risk–Averse Workers”, Ecole Polytechnique working paper. Moen, Espen (1995), “Competitive Search Equilibrium”, Journal of Political Economy. Mortensen, Dale and Christopher Pissarides (1994), “Job Creation and Job Destruction in the Theory of Unemployment”, Review of Economic Studies, 61, 3, 397–415. Mortensen, Dale and Christopher Pissarides (2003), “Taxes, Subsidies, and Equilibrium Labor Market Outcomes”, in Designing Inclusion: Tools to Raise Low-End Pay and Employment in Private Enterprise, Edmund Phelps, ed., Cambridge University Press. Rubinstein, Ariel (1982). “Perfect Equilibrium in a Bargaining Model”, Econometrica 50 (1): 97–109. Saint-Paul, Gilles (1995), “Efficiency Wage, Commitment and Hysteresis”, Annales d’Économie et de Statistique, No. 37/38, 39–53. Saint-Paul, Gilles (1997), “The Rise and Persistence of Rigidities”, American Economic Review, May. Saint-Paul, Gilles (1998), “A Framework for Analyzing the Political Support for Active Labor market Policy”, Journal of Public Economics, 67, 151–165. Saint-Paul, Gilles (2000), The Political Economy of Labour Market Institutions, Oxford University Press. Saint-Paul, Gilles (2002), “The Political Economy of Employment Protection”, Journal of Political Economy. Shapiro, C. and Stiglitz, J. (1984), “Equilibrium unemployment as a worker discipline device,” American Economic Review, June. Vindigni, Andrea, Simone Scotti, and Cristina Tealdi (2013), “Uncertainty and the Politics of Employment Protection”, working paper, IMT Lucca. Wright, Randall (1986), “The redistributive roles of unemployment insurance and the dynamics of voting,” Journal of Public Economics, 31(3), pages 377–399.
+
+108
+Download free eBooks at bookboon.com
+
+Frictions and institutions
+
+Endnotes
+
+Endnotes
+1.	 These congestion externalities prevail because labor market participants cannot pre-commit on how the surplus created by a match will be shared, and also because search intermediaries or clubs which could internalize the externalities are ruled out. These clubs could articially replicate the socially optimal level of labor market tightness by picking their members appropriately. They would then credibly commit to matching their participants (rms and workers) according to the socially optimal level of labor market tightness. Workers and rms are willing to pay a strictly positive fee to join such a club rather than search in the common pool. Allowing for these clubs therefore restores the socially e¢ cient level of labor market tightness. See Moen (1995). 2.	 3.	 See Cahuc and Lehmann (2000), Fredriksson and Holmlund (2001) and Lehmann and Van der Linden (2007). This is not the case, though, in Blanchard and Tirole (2008), whose key point is that severance payments should be put in place as a form of “experience rating” (i.e. a system which taxes firms that layoff too frequently to make them internalize the adverse effects of their decisions on the financing of the unemployment benefit system), whenever there is unemployment insurance. But, as pointed out by Michau (2013), their approach is static and does not therefore distinguish between the job creation and job destruction margins, not does it take into account the productive role of search unemployment. 4.	 The analysis differs from that of Saint-Paul (1998), who focuses on the wage moderating effects of active labor market policies; there, they play a similar role as a reduction in unemployment benefits. The quality effects of active labor market policies are novel here. 5.	 6.	 The symbol “µ” means “proportional with the same sign”. For any variable X, the expression X denotes its time derivative, also denoted by dX / dt . matching model. 8.	 The literature has casually ignored the distinction between the threat point (i.e. the payoff while continuing to bargain), which should be deducted from one’s utility in the Nash product, and the outside option (i.e. the payoff outside the match), which only plays a role if it is binding. See Rubinstein (1982). Here the threatpoint which enters the Nash product is in fact the outside option. More recent literature (e.g. Hall and Milgrom (2008)) has been more careful regarding the microfoundations of the bargaining process. 9.	 A technical difficulty arises due to the fact that if wages are continuously renegotiated, any wage settlement at a point in time has a zero impact, mathematically speaking, on the PDVs that enter (3.7). To get around this difficulty we can assume that wages are fixed during a small time interval ∆t, hence ∆ω = ω∆t, then derive the first-order condition for maximization of (3.7) with respect to ∆ω, and finally let the quantity ∆t converge to zero. 10.	 Or, more correctly, the total recruiting cost that one would have to spend to recruit another worker should the incumbent employee leave.
+
+7.	 The two concepts are different but they coincide, by assumption, in the standard Mortensen-Pissarides
+
+109
+Download free eBooks at bookboon.com
+
+Frictions and institutions 11.	Let T be the date when the match is dissolved. Let us define this as 	
+yavg = E ∫ e−rv yv dv
+0 T
+
+Endnotes
+
+E ∫ e−rv dv
+0
+
+T
+
+nrv
+
+.
+-λH ( ε )t
+
+d TThe probability distribution of T is P(TP( ≤ t)t ) =1- e and the corresponding density is − rT   -λH ( ε )t 1− e  1 d  p(t ) = λH (εd )e . The denominator is E    = r + λH (ε ) . Furthermore, at any t the firms   r   d can be in three states: maximum M (y = σεu), active after the first shock A ( Ey = σ I (εd )/ (1− H (εd )),
+
+or dead (y = 0). The probability of being in state M at t is PM (t ) = e−lt . The probability of being in state A satisfies 	
+
+PA (t + dt ) = PM (t )λ(1− H (εd ))dt + PA (t )(1−λH (εd )dt ).
+
+That is, it must satisfy 	
+dPA = λPM (t )(1− H (εd ))−λH (εd )PA (t ). dt
+
+The solution is 	
+
+PA (t ) = e
+
+−λH ( ε )t d
+
+−λt ne –e–λt .
+
+Consequently we have that 	 	
+
+E ∫ e−rv yv dv = ∫ e−rv ( PM (t )σεu + PA (t )σ I (εd )/ (1− H (εd )))
+0 0
+
+T
+
++
+
+ σ I (εd ) 1 = (σεu ) +  r +λ   (1− H (ε
+
+  λ(1− H (εd ))             ε )) ) ( r )( r H λ λ ε + + ( )   d d d 
+
+which then implies that
+
+			 σ(εu (r + λH (εd )) + λI (εd )) 	
+yavg = r +λ .
+c σ (εu − εl ) 12.	 For this to be possible, parameters must be such that m < r + λ 13.	 At this equilibrium we have ed > el . Note that the conditions of Exercise (8) are not satisfied.
+
+14.	 See Saint-Paul (1995) for an analysis. 15.	 We also note that the initial zone where the unemployed prefer the rigid society and the rent is low is very small in most cases. 16.	 This is not actually possible. But pretending so allows us to understand why the Hosios conditions are restored if there is no difference between the marginal and average quality of a job seeker. 17.	 In particular, in Saint-Paul (1998), active labor market policies harm the insiders, because they raise the search effort of outsiders. But here the insiders would benefit from the policy should they lose their job, which raises their bargaining power. Therefore, active policies may have very different effects on the welfare of incumbent workers depending on how they are designed. 18.	 Otherwise introducing a subsidy to job search would hardly qualify as “active” labor market policy.
+
+110
+Download free eBooks at bookboon.com
+

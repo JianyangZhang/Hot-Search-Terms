@@ -1,0 +1,1150 @@
+Strategic	Analysis	of	Supply	Chain Design
+Prof.	Douglas	Kinnis	Macbeth
+
+Download	free	books	at
+
+Prof. Douglas Kinnis Macbeth
+
+Strategic Analysis of Supply Chain Design
+
+2
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design 1st edition © 2015 Prof. Douglas Kinnis Macbeth & bookboon.com ISBN 978-87-403-1178-5 Peer reviewed by Professor Arni Halldorsson, Chalmers University, Sweden
+
+3
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Contents
+
+Contents
+	Introduction	 1	 Financial and Strategic Objectives	 1.1	Introduction	 1.2	 1.3	 Start up	 Existing businesses, growing and ending	 7 10 10 13 15 18 19 19 19 19 22 23 26 26
+
+1.4	Summary	 2	 2.2	 2.3	 2.4	 2.6	 2.7	 Market Imperatives	 Value Proposition	 Value in Use or in Transfer	 Make/Do and/or Buy/Trade?	 Technology Leader or Follower	 Product/service range	
+
+2.1	Introduction	
+
+2.5	Location	
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Contents
+
+2.8	 2.9	 2.10	
+
+Order mix	 Competitive threats	 Substitute products and new technology	
+
+29 32 33 35 36 36 36 37 44 45 45 46 52 54 55 56 58
+
+2.11	Summary	 3	 Order qualifiers and order winners	 3.1	Introduction	 3.2	 3.3	 Order Qualifiers and Order Winners	 Possible Order winners and qualifiers 	
+
+3.4	Summary	 4	 Supply Side Infrastructure – Structural Features	 4.1	 4.2	 4.3	 4.4	 4.5	 4.6	 4.7	 Boundaries of the Firm	 The Contract Lifecycle	 Private and Public Sector differences	 Procurement position	 Goods or services	 Relationship portfolios	 Supplier involvement	
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Contents
+
+4.8	
+
+Peer collaboration	
+
+60 61 62 62 62 63 67 69 72 77 78
+
+4.9	Summary	 5	 Supply Side Infrastructure – Support Systems	 5.1	Introduction	 5.2	 5.3	 5.4	 5.6	 Spend analysis	 Enterprise Resource Planning, e-business and compliance	 Product data management and product lifecycle management	 People skills	
+
+5.5	Logistics	 5.7	Summary	 6	 Conclusions and recommendations	
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+6
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Introduction
+
+Introduction
+World View Business has been using the term supply chain for some decades now but there is still some confusion about what different people mean by the term. Essentially it is about the unit of analysis or focus. Much of management and most of its teaching is focused on sub units of one business or perhaps a single business entity. However, this book takes a more integrated approach in which the interconnected entities transacting business together and forming a supply chain, are the focus. Some writers discuss supply chains as being only the upstream (i.e. back towards the source of materials) and argue that a better term is value chain since if value is not delivered to customers then the chain has failed. For this writer this is a semantic exercise and as long as we understand what we are describing then the terms do not much matter. We need to take a more integrative view of all of the interdependent activities which come together for shorter or longer term interactions to deliver some set of agreed business requirements to satisfy their immediate economic and developmental needs while providing a hopefully high degree of customer satisfaction to all of the customers along the chain of supply and especially to the final consumer who ultimately pays for all of these activities although they are likely to only be in contact with one of them. The supply chain therefore describes the interconnections that businesses form, for some degree of mutual business benefit, for the purpose of delivering satisfaction to the next customer along the line. This can sometimes be controlled by a very powerful company at the head of a chain who is the final contact with an ultimate consumer. We will call this company the brand owner and it could be one like Apple, Toyota, American Airlines or Deutsche Bank as examples. In other situations the chain will be more intermediate and more in the middle of a complicated network of many intertwined supply chains where the relative influence of different customers and suppliers ebbs and flows as market conditions change.
+
+7
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Introduction
+
+The brand owner, as the first and perhaps only point of contact with the ultimate consumer has major reputational issues to manage for if anything fails in the chain, regardless of where the link is that failed, then the customers complain to the brand owner. This reputational risk is huge and demonstrates the trueism that using other companies to supply or deliver some aspect of your customer proposition (outsourcing the activity in the jargon of the chain) places a split responsibility on the brand owner. On the one hand they are no longer responsible for doing the activity but since failure affects their customers’ satisfaction then they have to take responsibility for ensuring that their suppliers have the capability, motivation and control processes in place to deliver on their business promises. Since the customer knows no better, any failure in the chain is seen by them to be a failure of the brand company and so the reputational damage falls on them and not on where the failure actually occurred. Brand companies cannot therefore act as if the problem is elsewhere. They must always recognize that they have a duty to oversee their supply chain in an effective way to avoid these risks. Activities may be outsourced but ultimate responsibility for their impact on customer value delivery is never removed. Focal Areas This book is structured into six sections. We will discuss the Financial and Strategic Objectives in section1, Market Imperatives in section 2 and use the concepts of Order Winners and Qualifiers in section 3 to discuss the options that businesses have to satisfy the market imperatives. Section 4 begins to look at the Supply Side Infrastructure, initially focusing on Structural Features and then in section 5, Supply Side Infrastructure and the Support Systems needed to make it all work properly. Section 6 draws some conclusions and recommendations for managers trying to build the kind of capability described here. Style and Process In management there are no correct or universally applicable solutions since every situation is to some extent unique. Managers need to evaluate their current situation and decide what set of decisions makes ‘best’ sense to them at that point in time and for as far as they can forecast into the future. The world is however always changing around the business and what was fit for purpose at one time will not remain that way forever. This is true of complete business models and whole industries as new technologies or different forms of delivering products or services to satisfy existing or new customer needs evolve and emerge from different points of the supply world. Given the above, this book is not about solutions. It is about presenting the kinds of choices that businesses face and about which approaches seem to have worked for some organizations at a point in their evolution.
+
+8
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Introduction
+
+Management is always a work in progress, that is both its challenge and its excitement. It is about making huge strategic decisions like which product/services, in which markets with which partner companies in the supply chain but it is also about making sure that the tiniest of details is also attended to carefully for it is often those that create disproportionate distress when they go wrong. This cross business focus is becoming much more important as supply chains now cover the globe and some products travel thousand of miles along their supply chains to final consumers. However the story does not end with the end of life of the product with the first customer (services are a bit different since they are often fully consumed by the first customer or user). In the product world we should be talking of ‘end of first life’ since reuse, repurposing and recycling mean that the scarce resources obtained from our limited capacity planet are used as often as we possibly can so that the planet’s finite resources might keep a few more generations supplied with raw materials. Thus the complexity and global impact of the supply chains increases all the time. More products and services get added for customers in the developed world while we still fail to deliver basic needs of water, food and health care to too large a proportion of the world’s population. Emerging nations try to catch up with their developed competitors while the world debates the effect of humankind’s actions in creating some of the climatic problems and what responsibility should be accepted by individuals, and governments, to make changes. The emerging nations might justifiably argue that the polluters of old made decisions without thinking of longer term impacts or consequences yet now expect the new nations to share the clean up costs of the bad decisions without having received any of the benefits, and it does not seem fair. This book is not burdened by referencing but of course all of the topics have been extensive researched and very many articles and books and other media have been published over many years. (In particular see bookboon.com/en/contract-lifecycle-management-ebook and https://www.futurelearn.com/courses/contract-management). Rather than provide the usual academic thought trail, which is the traditional role of referencing, the new approach is to hope that a topic stimulates your interest enough for you to start an online search in which case the extensive literature will be quickly discovered. The aim of this book is to make it relatively easy to obtain a broad overview of the issues covered here and hopefully stimulate you to dig a little deeper into this to inform your own understanding of these issues and to recognise some of the managerial choices which have to be faced and decisions made in a particular context.
+
+9
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Financial and Strategic Objectives
+
+1	Financial and Strategic Objectives
+1.1	Introduction
+In this section we will discuss the basic beliefs and attitudes that organizations want to promote as well as recognizing that there can be different pressures on owners and managers at different stages of a company’s life as it moves from start up, through growth and maybe to some form of end stage. These developments will be driven by the financial aims set by the owners and translated into objectives to be achieved by the selection of the correct strategic objectives which have a chance of being successfully delivered. If immediate pressures or threats are encountered which require urgent evaluation and action then this can reduce the opportunity to focus on the supply chain relationships. A consideration of the possibilities of actively managing and becoming involved in the supply chain is dependent on there being time to think about the medium and long term. All business, governmental and third (charity or voluntary) sector activities have objectives, of which some at least will be about money. It might be about profit maximization or just survival in difficult market places or it might be about delivering social or political value to interested constituents. The common denominator is frequently money as it is a convenient way to keep score. Money can be used as a proxy to demonstrate better customer satisfaction than a competitor or more effective and efficient service delivery, at a less than budgeted level, in a public service context. These are over-riding objectives for if the customers or receivers of the products or services are not satisfied then sooner or later the delivering organization will be remodeled or replaced in some fashion. In the private sector this would be demonstrated by the losing of market share to a competitor with the consequential need to downsize the workforce, abandon market sectors or exit from the business completely. In the public sector it would result in a political reexamination and restructuring or replacement of the delivery people and processes. Thus the financial and strategic objectives are the paramount ones but we do need to recognize that there are different stages in an organization’s life at which the priorities and the solutions might have to change. There is a dynamic in business in which the need for change is greater or smaller and the speed of the required reaction is faster or slower but the need for change is the one constant. Organizations that can recognize the need for change, make the right choices in designing the appropriate responses to the need and can implement the changes successfully, are the ones in which there will be employment opportunities and the potential to build a lasting organization which continues to keep their customers and other stakeholders satisfied.
+
+10
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Financial and Strategic Objectives
+
+The key message from this consideration is that there are never ‘right or universal’ answers to these questions and each organization will, at different times and with different leaders, make different choices. The dynamic of change therefore requires us all to reappraise these strategic choices on a regular basis with the recognition that further changes will be required as the demand and supply environment changes over time. In this book therefore there can be no prescriptions of what is the correct choice seen from a distance. All managers and their teams need to be equipped with the tools of analysis and the knowledge of how to make things happen in this dynamic, complicated and, as we shall see, globally interconnected world. However, above the financial objectives there should lie some basic beliefs or values, which define what the organization is prepared to do and what it certainly will NOT do. These ethical questions are many but will include attitudes to customer satisfaction; corruption wherever it occurs; slavery; environmental impact; fairness and equity in inter organizational and inter personal relationships; employee measurement, reward and involvement; compliance with legislative intent as well as details; and tax evasion and avoidance. The temptations to meet the financial objectives at the expense of the ethical ones are always there in all societies but might be greater in certain places at certain times. In recent years it seems like individuals at all levels in some financial service organizations saw their customers as ignorant and easy to take advantage of, at great advantage to the abusive so called ‘servant’ of the customer. Of course customers are also not always pure in their own ethical behavior. With a world view that believes that the only one that matters is me and I will do everything I can to take advantage of any weakness I can find so that my personal position is strengthened, then we have a very competitive but wasteful situation in which longer term success is more difficult, although the short term benefit for some, can be great. For global supply chains operating in different cultures with many different attitudes and historical approaches and having more or less time to develop what might be called a societal conscience, these are real and difficult questions to answer and to live with the consequences. We must always remember that the so called developed nations have frequently had people in their histories who have behaved as badly as those we vilify in other countries today and yet were regarded as great leaders or business people and duly recognized and rewarded in their own time.
+
+11
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Financial and Strategic Objectives
+
+Two other values related issues should also be considered early in an organization’s life. These are the views about citizenship and political sensitivities. The later might be associated with the corruption issue but might be a recognition that a government (national or local) that was once neutral if not supportive might turn against some activity in some way or see the need for a greater share (up to 100% in a nationalization process). Such considerations might be included as part of the risk profile developed by the managers and should be factored into all risk calculations. Here again, over time, the risk appetite of the key stakeholders in the organization might change making previously agreed decisions no longer appropriate for the now differently perceived risk profiles in the supply, demand and regulatory environments. Citizenship considerations reflect how the organization wants to be regarded in its immediate locality. Does it want to be seen as a good neighbour who does what they can to look after the amenity of the area, pay its suppliers on time and provide employment opportunities for a variety of local people as well as sub-contract business opportunities for local businesses. Such a good citizen can build loyal supporters in the community who can influence the political environment as well. In all of this the mind set is important. Thinking about supply chains rather than simply focusing on the owned organization or the current employer requires that more stakeholder interests are recognized and at least some of them seen as important to the future prosperity of the business.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+12
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Financial and Strategic Objectives
+
+It is of course possible (as it has been throughout history) to see the business opportunities in a much more selfish way and economic success can be built on this worldview. The issue is, are you in it for the short term using quick fixes or are you trying to build something more sustainable and more valuable in the medium to longer term. If the latter, you might be prepared to forego short term profits for longer term growth for example. Management is certainly about making choices! This leads to two areas of mutual interaction, which are the evolutionary stage of the organization and the time horizon over which plans are being considered. The average lifespan of companies in the USA is now around 15 years. Some of them continue inside new companies formed as a result of mergers or acquisitions but their initial fundamental nature has changed. Other organizational types (including governments, military and religious orders) survive much longer than business ones generally speaking but for the moment we will concentrate on the business ones. All business organizations go through the same kinds of phases, all be it at different speeds. There is start up, growth and finally an end game of some kind, be it decline or take over or failure.
+
+1.2	
+
+Start up
+
+In the start up phase we have argued that this is where the big philosophical issues should have been considered and stances taken and embedded in the culture of the business but the reality is often just about survival and paying the immediate bills. More small businesses fail after all because they have not managed the cash flow (balancing income with outgoings) than fail because of lack of customers. Of course we need good customers, especially ones who pay their bills, ideally on time. While customer satisfaction is very important it cannot be at any cost since if the customer is being selfish they can demand service but not pay a fair rate for it. Suppliers recognize that there is a cost to serve particular customers. It is a hard number to define but some customers are just too expensive and do not justify more investment to support their demands when they return so little on the investment. The start up phase is also the stage at which business relationships need to be built quickly yet it can take time to recognize if a customer or a supplier is actually considerate of your position and prepared to allow you to create a successful set of repeat business transactions with them. Choice of business partners at this stage is also a crucial decision to make since the cost of making changes later on can be high.
+
+13
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Financial and Strategic Objectives
+
+The essence of the supply or value chain view of the world is that few if any organizations can afford to own all of the resources they need to transact with their chosen customer groups. They therefore need to gain access to complementary resources provided by other organizations to put a complete product/service package together to fulfill their promises to their customers. The start up company has limited resources, no history and no way to demonstrate their capability or reliability to business partners so it will often revolve around the personalities of key people to persuade others to give them a chance. Thus the risk appetite of the potential partners must also be considered so that some mutual benefits can be articulated and then realized. The entrepreneur who succeeds at the start up stage is not always happy to follow the organization through to later stages so management structures often change and new managers are recruited to take the company forward. Meantime, the entrepreneur often moves on to new opportunities and creates a series of start-ups. A large proportion of start-ups fail in the first three years so beyond that time there is a chance that the supply chains have been established, are functioning at least satisfactorily if not yet optimally and that organization structures, personnel and customer markets are stabilizing. As the company thinks of its future it might have more time to reflect and plan rather than just react to opportunities and stresses. Hopefully the opportunities to build a really effective supply chain have not been damaged in the focus on surviving and establishing the business. Business partners who have been supportive during these challenging years should be considered now to see if they are ready to support the company further into the future. There will now be data on attitudes, performance, innovation potential, ability to share and coordinate which can be built into more robust agreements to build the extended supply chain capability that we will discuss later in this book. However business partners, even if the current relationship is mutually rewarding, still have options and might not choose to follow where a partner is heading. In such situations the relationship process might be somewhat or totally fractured as a new alignment with other partners is sought.
+
+14
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Financial and Strategic Objectives
+
+1.3	
+
+Existing businesses, growing and ending
+
+For the businesses that survives what might be described as the infant mortality stage of its lifecycle, then we have new considerations. There can be a plateauing process for some businesses where the activity level is seen as satisfactory, returns are acceptable and prospects are seen to be satisfactory. When the business is still owned by the founder, and especially if there are other family members employed, the focus is on continuity and the minimization of risk. Such businesses do not seek new challenges if the risks are seen as too high. Instead the owner runs the business almost like a hobby and is happy to generate enough income for all concerned so that the lifestyle that has been created can be maintained. Often such businesses are very caring about their employees and the organization feels like an extended family even if it is one in which the matriarch or patriarch still exerts close control. For such businesses a critical issue can be succession planning since often the inheriting family will, by definition, not have the entrepreneurial drive that the founder displayed. Such family businesses are the foundation of many economies and responsible for high proportions of total employment. There are often highly expert in their chosen fields but in choosing such business to work with, a partner organization must also recognize their self imposed limitations and constraints and limited risk appetite.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+15
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Financial and Strategic Objectives
+
+The growing business has a different driver pushing it ahead. Here the need to grow, generate increased revenue, recruit new skills, attack new markets and develop new goods and services means that the skills needed in the start up are soon left behind but also too is the control of the founder who needs professional help to manage the transition to the bigger organization. In some cases, as already discussed, the founder is not so interested in this stage and will exit the company in some way, by selling shares willingly or as a result of internal challenge and a forced sale. A growing customer or supplier company is attractive for its upside opportunities but always the partner organization needs to monitor how the growth is being managed as well as the business transactions being delivered. As a customer or supplier interacting with this kind of company one needs to be sure that internal growth management issues do not affect external performance and support. A growing company has to generate or access sufficient funds to finance the growth process and this can come from retained profit, refinancing from the initial funders or by inviting new shareholders into the business. This can involve the attraction of Venture Capitalists (VCs) into the company. Such people often bring great business experience and contact details of useful people to the initial company but they come with expectations. These will include expectations about the way the business is run, its financial health and investment approach. They are often only interested for a period of time after which they will try and exit the company at a level of personal profit, which, they would argue, has to be very high to justify their involvement and support. They are sometimes accused of being too interested in getting their investments out again with a sufficient reward at a time of their choosing, which might not be in the immediate interest of the company. They certainly cannot be counted on for long term growth. So again the risk benefit of such an arrangement needs to be carefully considered. Growing businesses are also risky businesses so the VCs argue that their support is significant and they are worth the risk premium they demand. Often their preferred exit is at the Initial Public Offering (IPO) stage when the company goes from being privately owned to being publically owned and traded on some stock exchange. A company with a successful growth performance and a believable strategy for future corporate health and capital and dividend growth which can attract lots of new investors, provides the opportunity for the VCs to exit satisfactorily and rewards the initial shareholders for their hard work and so called ‘sweat equity’. In a different situation the owners of a company might also plan to sell the company as a trading concern so that they can exit to follow other paths or perhaps just to retire on the proceeds of the sale. Here again the need to present the company in the best possible light to potential trade buyers is important and some longer term investment opportunities might be declined to make the business look more profitable to the possible buyer.
+
+16
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Financial and Strategic Objectives
+
+The growing company has to recruit new people to manage the increasingly complex organization and management challenges. Of course once the all-embracing responsibilities and multiple roles of the founder begin to be split up and distributed around new people the problem described as Principal and Agent arises. The founder/owner is the principal and recruits managers as his or her agents. The principal hopes that the agent will act in their role as if they were the principal and do what the principal would do in the given circumstance but of course it does not always work like that. The agent is an employee not the owner and might have a different agenda. For example the agent might be more interested in keeping their job and choose business continuity rather than running risks to maximize profits for example. The concept of principal and agent is true in any situation in which one person or organization contracts with another person or organization to act in their place. Supply chains are in effect a series of links of principals and agents with the same possible problems of different agendas driving choices even when there are some basic contractual obligations agreed upon. The issue arises more often and more severely as more discretionary decision making authority is devolved to the party acting as the agent. A further consideration is if the company is under threat is some way. There are two extremes. The first is when the business is struggling to cope with current business challenges either on the demand side (not enough people buying or sufficient customers but who do not pay reliably) or the cost side where the costs are growing faster and less controllably than the revenue from sales. In both cases action needs to be taken swiftly to rebalance the situation and this can lead to distressed sales of goods or services just to generate income for the cash flow. Alternatively, input side costs can be slashed aggressively without much consideration of any potential long term impact on supplier relationships. In effect the problems are passed back up the chain. It might be enough in the short term to allow the business to survive but any existing relationships will have been severely strained if not broken and will take time to recover. This brings into focus the fact that some aspects of collaborative supply chain operations are dependent on a supportive environment in which medium and long term has some meaning. If the threat to survival is real enough then all thoughts revert to personal or company survival and what will be necessary to make that possible, regardless of the impacts on others. On the other hand, building strong inter organizational relationships and mutual understanding means that in times of serious threat the organization might have more options open to it through the support of the existing network. After all, partners on both the customer and supplier side will also incur costs if one of the network actors fails. There is likely to be some, perhaps severe, disruption to goods and cash flow and if failure of the struggling company still occurs then that resource must be replaced so a search and selection process will be needed, taking time and effort.
+17
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Financial and Strategic Objectives
+
+1.4	Summary
+The owners of a company must set their own targets (influenced by their active stakeholders’ demands or expectations) for financial performance and decide on the strategies which will deliver them. Different challenges at different stages of the company’s evolution and with different owner/manager/ shareholder situations mean that looking to work with any organization in the extended supply chain or system requires the counter party to go through a process of due diligence to really evaluate what the organization’s actual priorities are and how this will impact how they will behave in their interactions with their suppliers and customers. Given that this will change over time, this process needs to be refreshed regularly as well as in response to some event which challenges existing arrangements or presents new opportunities or threats.
+
+18
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Market Imperatives
+
+2	 Market Imperatives
+2.1	Introduction
+This section considers what it is that is needed to successfully deliver customer satisfaction recognizing that many market places and customer groups have their own special challenges. This means again that there is no one solution to all of these and so more evaluation and managerial choice is necessary and this needs to be done regularly.
+
+2.2	
+
+Value Proposition
+
+What makes customers buy? This might be the most important question in business. If we can fully understand the answer to this question then we have a chance to decide if we want to supply it and if we can make a business benefit from doing so. Really understanding the customer need is the core information around which we can try to build a supply system to deliver satisfaction to the customer, which in turn provides for our own survival and prosperity. Of course sometimes customers do not know what they want or cannot express it in terms that we can understand. If they are clear on their requirement then this need can pull a response from the supply side and the probability is that some degree of satisfaction will result on both sides. However sometimes only a supplier can really understand what is possible from a technology and they are then forced to gamble that if this is presented in the market the customers will recognize its value and pay the appropriate price for it. This is inherently a high risk strategy for the supplier as it is often easy to get so far ahead of the customer that they do not recognize the value and do not buy. This uncertainty in the buying decision leads to the use of the phrase a ‘value proposition’ to describe what a supplier brings to the attention of the customer. In other words, the supplier presents a package of goods and/or services as their understanding of what the customer might value and this value proposition is the limit of what suppliers can do. Only when the potential buyer recognizes the value in the proposition and the acceptable price to be paid and acts to buy can we think of customer satisfaction and a successful business transaction. In a public sector or charitable situation there may not be the direct payment of cash to facilitate the delivery of an acceptable service but nevertheless there is still a requirement that the customer (perhaps better described in this context as the client) recognizes that the supplier is delivering something that the client values so that they will interact positively and accept the satisfaction of a successful delivery.
+
+2.3	
+
+Value in Use or in Transfer
+
+We also need to examine in more detail the concept of value and how it is created. Value can come from two distinct processes in which the role of ownership of assets comes into play.
+
+19
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Market Imperatives
+
+Value in transfer describes goods which are owned by the supplier and exchanged for something that the customer has which the supplier wants. In simple terms a supplier exchanges assets (goods) they own for assets (cash) from the customer. Note that money does not need to be exchanged as other assets can be used in a bartering process. This is the fundamental first trading position when a farmer generates some surplus and barters his extra sheep for another farmer’s corn for example. In historical terms money appears rather later to make exchanges simpler (no need to carry sheep around looking for a trade!) This exchange process changes the ownership of the goods and the cash as well as responsibilities for the future use of these assets. However the customer might not necessarily want the goods themselves, rather they might want the value that the goods will allow them to generate. One can buy an electric lawnmower to cut the garden grass. The value that is ultimately being obtained is ‘cut grass or neat garden’. Instead of buying the tool to enable the customer to do the work using the tool, the customer can contract with a service provider (a gardener) to provide the service of cutting the grass. So the value or benefit is obtained by the customer but is achieved without any transfer of ownership of the good, the lawnmower. This is described as value in use. It also describes the situation where the supplier and the customer are in effect co-producers of the value obtained. Service deliveries have this coincident contact between supplier and customer at the core of the transaction whereas the value in transfer allows the good to be produced at a different time (and stored if necessary) before the customer buys it and before they are ready to use it. Transfer allows distance between customer and supplier (which sometimes creates its own problems) whereas service requires close contact and simultaneous provision and use of the service provided. Whether value in transfer or value in use is the best solution for the customer depends on a complex calculation of the total cost of ownership of the assets over an extended timescale against the need to negotiate and contract for the service when it is required. Ownership of the asset allows the customer to decide when they will cut the grass whereas contracting to use the asset (through the gardener’s service) might be subject to other considerations, for example coordinating with the scheduling of the gardener’s other clients’ expectations of service. Value in use seems to be extending in recent years as the problems of having too many expensive but perhaps infrequently used assets are put in the balance with a contract for access and use without the need for ownership.
+
+20
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Market Imperatives
+
+For example, the rise in different versions of City Car Clubs where one contracts to use any car that is available rather than have one always available through ownership. Ownership usually costs a lot more per hour of usage because of the need to pay annual fixed costs of financing and depreciation charges, insurance, tax and parking perhaps regardless of actual usage. The most notable industrial example is the Rolls-Royce aero engine company which trademarked the concept as ‘Power by the Hour’ (since also offered by other suppliers) where the airline no longer buys the engines for their airliners but instead contracts with Rolls-Royce that whenever the airline wants to use one of their aircraft then there will be an engine, fully maintained and certified ready to fly on the wing and ready to go. All of the ownership and maintenance costs are met by Rolls-Royce in exchange for the service contract as described. In this case what the airline is contracting for is the value of having an aircraft ready to fly whenever they want it with fixed costs of utilizing this value in use. The airline is avoiding the large capital costs of purchase and putting it in the balance with the fixed cost access or use contract with no obsolescence risk or risk of incorrect spares inventory holdings. The supplier now has an incentive to design parts which do not fail since these costs are incurred by the supplier and no longer fall to the purchaser.
+
+21
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Market Imperatives
+
+2.4	
+
+Make/Do and/or Buy/Trade?
+
+With a clear focus on the value proposition the next key decision is how many of the activities to source, produce and deliver the goods/service the business wants to do themselves. In the goods world this is the question of how much you want to make yourself and in the service world we change the question to how much do we want to do internally. If the activity is not to be performed inside the company then we must go to the market and buy or trade. Doing everything yourself is the ultimate vertical integration solution but this is increasing difficult to achieve as business gets more and more technically challenging and customers become better informed and more demanding. These expectations increase the number of skill specialities needed and puts stress on to the need to simultaneously innovate in very many directions and technical areas. So the internal solution is often balanced by the need to obtain the skills and asset availability from other companies in the supply chain. This hybrid form therefore integrates the internal with the external assets to form the composite supply chain based value proposition. In industries like electronics the external assets can constitute 70–80% of the total but it can go even higher in some web based goods trading businesses where the brand company acts more as facilitator between a customer and a distributed network of suppliers and sells without ever touching the goods being transferred. Some parts of Amazon’s business follow this path for example. This approach now puts the supply chain in clear focus for without the successful design of the chain or in truth a more complex network of complementary companies, then customers will not be satisfied. Note however that when things go wrong customers only know with whom they have directly transacted and it is to them that they will complain. The final supplier (let us call them the brand company) has complete responsibility for all that happens in their chain of supply towards their customer and, regardless of where a failure occurs and the chain link is broken, the customer still blames and expects restitution from that brand owner. The realization that it all comes back to the brand company to sort out any problems makes it clear that while an activity might be provided by an external supplier, the customer satisfaction creation and reputational risk is still with the brand company.
+
+22
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Market Imperatives
+
+2.5	Location
+The make/do or buy/trade choice is critical in establishing where the organizational and legal boundaries of the business are in business terms but we also need to consider where the customers and the supply activities are to be located in geographical terms. The differences between physical goods (which can be made or obtained in advance of an actual demand); a service which has to be performed when the customer is present at the same time as the supplier (even if not always in the same location, for example think of aspects of distance language learning or radio or internet doctors for remote communities); or are more virtual goods like information, music, eBooks in which all that is required is the electronic or wireless distribution link which for most people is provided by the internet. With good internet communications and efficient logistics systems for any physical movement needed then parts of the customer base and the supply chain can be distributed all over the world. Any activity, which takes place outside the boundaries of the focal organization, is described as outsourced and if it crosses some national border or sea, as offshored. In essence the location does not change anything fundamental in the business-to-business relationship but of course other factors of time zone, language, currency as well as trade, political and legal practice along with aspects of capability and experience, can all vary. As we have discussed, this is often required simply because one business cannot be skilled in every aspect of the value proposition and so they look for complementary skills from their partners in the supply chain. However these suppliers are acting as the agent of the buyer with all of the principal and agent issues. There is also evidence that ambitious suppliers will support a customer with a view to learning as much as they can from the customer about a market or technology so that they can become competitors to them in the fullness of time. Sometimes companies outsource because they believe that the supplier can provide the good or service more cheaply than they can themselves but looking for low cost sourcing suppliers often means sourcing in countries which are less advanced in market and technical/managerial terms. However all countries want to move up the value adding hierarchy so any low cost advantage will have a finite time limit. Thus companies have to be very careful how much of their intellectual property they outsource in case they create their own competitors. For this reason companies need to be careful not to outsource any activity which is at the strategic core of their future business competitiveness.
+
+23
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Market Imperatives
+
+Low cost sourcing is not the only reason to build a physical presence in a new country. An emerging economy starts off being low cost (often in terms of labour cost) but this gap soon begins to close as the economy expands and the local people gain more discretionary income and ambitions. However as the local people become wealthier they also become consumers, often for the products which have been outsourced to them to provide but still have the global brand recognition. So a decision to locate some level of business activity in a foreign country might have something to do with sourcing opportunities but usually the bigger opportunity is to be regarded as a local supplier to the new emerging domestic market. Thus we can see that some of the supply chain decisions have at least as much to do with future marketing as they have with sourcing.
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+24
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Market Imperatives
+
+A factor which often influences these kinds of decisions is the support provided by the local government to make it attractive for Foreign Direct Investment (FDI) businesses to build a local presence. Often this will involve special dispensations to reduce corporate taxes, importing and exporting expenses, while providing support to investment costs and so on. The smarter countries try and gain more longer term advantages however than just the employment opportunities the FDI companies bring. Thus they will often demand that some aspects of the technology or management systems used by the incoming company are transferred to local people in some way. One way this is done is the process of Offset. Here a government placing a large order (often related to defense equipment) will demand that some of the money transferred to pay for the aircraft for example is spent with their own local supply businesses. For the company selling the equipment this is dangerous in potentially allowing the transfer of intellectual property to businesses who are likely to develop into direct competitors. Without accepting this requirement they cannot close the sale and the market opportunity will go to a competitor who does accept the imposed conditions. The trick might then be to still try and limit what intellectual property is transferred. The alternative strategy is to recognize that a large overseas market will produce its own local suppliers over time and recognize this fact and try to align with the new local company as it grows and share the development process with them in a mutually beneficial way. In effect, the trade off is to retain some business in the long term or be totally excluded through still behaving as if the current product champion will remain in that position for ever. Another area where government directives need to be accepted is in procurement processes where in Europe for example the Procurement Directives make it possible to specify, alongside the main contract requirements, the addition of social benefits which all bidders must agree to deliver. These can be infrastructure developments or local training or approval of a given number of apprenticeships for example. In some way this is the same logic as offset where the power of the buyer can force the supplier to return some local benefit in addition to the core contract. This is not against the principle of free and fare opportunities for all bidders so in the EU it does not matter where the company comes from, all are supposed to be treated equally and decisions made impartially and openly as well as being open to challenge on the grounds of a disputed sourcing process. We will return to this later. Other parts of the world have their own expectations. In the USA their approach towards creating equal opportunities means that there are proportions of government procurement that are reserved for various minority groups in their society. Most of the early FDI investments into China had to be set up as joint ventures with local Chinese companies and of course many of them were actually owned or largely controlled by the government so that some people question the levelness of the Chinese playing field.
+
+25
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Market Imperatives
+
+As already discussed, corporation taxes can be waived or reduced to attract FDI but even in normal operations large businesses with many operations in different parts of the world can use different tax regimes to their advantage. They can create an artificial flow of income through their different subsidiaries so that profits are only declared where the tax regime is most favourable, regardless of where in the world the actual sale took place. While still within the letter of the law this is clearly not within the intended spirit of the law and recently attempts have started to try and rationalize the ways in which different legal jurisdictions operate so that this loophole can no longer be exploited. It comes back to our early discussion of ethics. Are you prepared to act in the spirit and not just in the letter of the law? Business people always argue that unless everyone is playing to the same rules then the market is not a fair one. So they can argue that behaving with principles, when others are not, puts them at a competitive disadvantage and their business future in jeopardy.
+
+2.6	
+
+Technology Leader or Follower
+
+Another big dichotomy is the attitude to technology. In some ways this will be a subset of the value proposition in that particular customers might look to the company to be a leader in innovation and new product or service introduction. In such a market newness offers the advantages of being first and perhaps building a lead in the market which cannot subsequently be overtaken. This can be true for the customers as much as the suppliers. Customers can act as early adopters simply because they like the nature of newness as a value on its own without needing the new item or service to provide any further business benefit. One only needs to look at the queues that form outside of the Apple store in advance of the launch of the latest cool gadget to see the early adopter in action. However, newness carries risks. The technology might not be as good as the marketing hype suggested or is not reliable enough to deliver over its expected lifetime. Alternatively, the technology might be so advanced that the customers do not yet recognize its utility to them and so decline to purchase. In some ways a safer option is not to try to be first to market but to observe those who are and then try and copy the concept and bring a similar product/service to market very quickly. As the customers begin to realize that yes they do value what is offered, they now have a choice of who to get it from and other aspects of the value proposition can be added in to the newness feature.
+
+2.7	
+
+Product/service range
+
+The fundamental choice here is the decision to offer one standard and unvarying product or service to all customers or to allow for some individual variations or customization to take place and if the latter, is this to be limited in some way or not.
+
+26
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Market Imperatives
+
+Specialization allows for rigorous training and delivery performance to be developed over time and as long as the customers approve the value proposition then a successful business can result. However in the developed world more and more customers seem to want some degree of choice and variety if not totally bespoke products or services. Note that services always tend to have some degree of customization inherent in them. For example, the hairdresser has a variety of capability and products to offer their clients but they do not really know what the client wants until they begin to interact and in effect co-design the service requirement. In this environment the need is for both parties to fully agree on what the client wants and how they will evaluate what the hairdresser then delivers. This is the case of an individual client interaction but some standard services can be provided to multiple clients at the same time. For example, local refuse and re-cycling collections are designed by the operational system (acting on their understanding of the customer requirement and a society led need to keep the environment fit for others to enjoy). In this case the clients are not directly involved although hopefully there have been some discussions between representatives of the supplier organization and representatives of the possibly different client groups (for example householders and local businesses).
+
+.
+
+27
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Market Imperatives
+
+For physical goods the situations are different since the good can be designed without much customer involvement or with a high level of interaction and customization. In some cases ranges of products are needed to suit a wider demographic (all clothes and footwear for example). Sometimes ranges are designed as a progression so that a customer can trade up to bigger or better products in the range over time. In this way the supplier captures the one-off sale but also builds a customer for life who comes back for the repeat business from other parts of the range. People who like Swatch timepieces often have more than one and might build a collection of the different types. Customer involvement in the design specification also divides this market category since the supplier can offer the range almost as a range of standards whereas true customization needs the customer to be involved from the very beginning and is much more like a service process. So goods can range from make to stock (standardized) to completely bespoke (customized) made to customer order. In the make to stock situation the supplier is forced to forecast what a customer might want to buy in the future and therefore runs the risk that this will not be realized in practice. If this happens, the investment in stock has to be recovered to some extent in a distressed sale, often at the end of a customers’ buying season. Fashion goods are often in this situation. In the make to order situation there is a stronger likelihood that the customer will pay and (s)he may well have had to pay at the very beginning of the process in order for the supplier to order the raw materials needed to start production. There are of course intermediate points in this spectrum of options where some parts of the product are standard while component parts are customized. Standardization is generally an efficient and potentially low cost approach whereas customization requires the management of much more variety and different skills and is likely to be more expensive as a result. So here again knowing precisely what a given set of customers actually values and will pay for is crucial in making an informed set of decisions about how to design the supply system to deliver what is expected.
+
+28
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Market Imperatives
+
+Slightly different from the range of the actual goods are the complementary goods which customers tend to buy when they buy the main good. An example might be the smart phone or tablet where once the customer has chosen from the supplier’s range of product they might also want to buy a case or container or maybe even a keyboard or set of headphones. Often the equipment supplier does not produce these but the customer requirement is to have the product and the accessory so in a sense the phone/tablet producer is only providing part of the expected value proposition for this customer group. If we are interested in providing customer satisfaction to this kind of customer we should consider designing a supply chain that also coordinates the flow of these complementary products to be available for our customer as they are making their buying decision. It might also be possible for the equipment supplier to make a margin from the accessory business where they make nothing at present. If these are impulse buys (in an airport retail mall perhaps) then if the complementary good is not available at the same time the buying of the equipment itself might be delayed until both items can be viewed together. Thus the sale is lost but not because the equipment product is lacking in some way but the understanding of the customer need was not fully realized and a suitable supply system not designed to deliver the satisfaction possible. Even in the service business the need to manage the parallel flow of complementary goods is crucial. For example our hairdresser needs products to perform the service (shampoo and hair colouring perhaps) but they will often also sell hair treatments after the hair styling service is complete. Perhaps the availability of such products is not so critical as in our phone case example but certainly the lost sales opportunity is real.
+
+2.8	
+
+Order mix
+
+When Henry Ford made model T cars in ‘any color as long as it is black’ the operations task was simply to make enough cars quickly enough (at the right quality and price of course). Once a variety of products are on offer the challenges increase very quickly. The issue is not just whether the customer expects variety and we accept it in principle. The supplier still has to decide what range of variety is economically and operationally sensible and possible. Timescale affects this as well since if the customer is prepared to wait (in the make to order market place perhaps) then the supplier has time to plan and react. In a make to stock market then the forecasting of potential demand becomes a big challenge along with the same issues around planning and delivering.
+
+29
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Market Imperatives
+
+There is product/ service variety but there can also be volume variety and both the extremes of very small order sizes and very large order sizes pose problems. The challenge is how to create a balanced flow of work and in some cases how to know how many staff to employ or the number of pieces of equipment which will be needed and how resource intensive it will be to change any of these from one activity to another. Usually these are discrete resources which cannot be infinitely subdivided, if at all, so changes tend to be in steps whereas the demand variations can be effectively continuous. Of itself this statement demonstrates one of the key uses of inventory (where that is possible) since it can effectively allow the rates of change in the demand and supply sides to operate independently with the inventory levels in between flexing upwards and downwards as the rates change. A different set of challenges comes at the distribution stage where the customer might have different locational requirements for different orders or indeed different expectations of the service levels expected. For example, if we are providing a maintenance or fault response capability for a customer of IT equipment then the Service Level Agreements (SLAs) are likely to be different. For mission critical equipment in a bank’s trading floor for example they need the very fastest response time but for other businesses a next day response might be sufficient. So the supplier business model can operate with the same set of products but also operates with variables of response times and prices to serve. The supplier of these services might also need higher levels of skilled personnel to reliably deliver the very fastest problem solving capability.
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+30
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Market Imperatives
+
+The complexities of managing variety are affected from the product definition and design end and from the ordering behavior of the customers. The basic architecture of a product affects the point at which decisions have to be made in terms of requisite variety to produce against forecast customer requirements in make to stock situations. The oil industry for example uses the same raw materials at the input stage (oil) to produce a vast number of oil related and other polymer materials which feed into many other industries and products. However choices have to be made at the beginning of the process about potential market demand many months ahead. Long time scale forecasting is inherently difficult and uncertain so this industry has to factor this risk into their planning and pricing models. In other product industries it is possible to engineer apparent variety at the customer end by designing somewhat standard modules which can then be assembled in different combinations so that the customer’s perception is that they are specifying and receiving their precise choice of automobile for example but it still allows the car assembler to operate relatively efficiently until near the end of the assembly stage. This is effectively what the Toyota Just in Time product design and operational system made possible. From the customer end, the issue is when they are prepared to inform the supplier that they have a demand to be filled. This is referred to as the Order Penetration Point. For the customer who is buying on impulse the supplier can only react and then only if they have stock or the customer is prepared to wait in a ‘make to order’ situation. For other customers who are happy to share some information with chosen and trusted suppliers then there can be variations on the visibility of the demand actually occurring. The Toyota example is really about customers who provide a clear requirement of their required choices in time (10 days) for the company to assemble the car uniquely for that customer. In some cases the customers do not physically order replenishment stocks since there is an intimate connection from the customer’s planning system into its supplier’s equivalent one. The supplier is then able to monitor the customer’s stock levels and manage their own processes to replenish the stock in time. This close interaction can also be built on the basis of the customer’s own production plan or even demand information from his or her own customer. In these latter cases the supplier is in effect looking further into their demand future and can therefore plan more considerately. Of course in the ‘make to order’ situation the customer is contractually committed in some way to buying the product so the supplier is running less risk than in a ‘make to stock’ situation. All of the issues in this section can affect an organization that is in a stable market situation but what happens when the whole current environment is potentially changing? This is the challenge we address in the next discussion.
+
+31
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Market Imperatives
+
+2.9	
+
+Competitive threats
+
+In any open market situation the power of the market place is to make it possible for an organization to succeed by performing the same or very similar set of actions better than a competitor organization so that the customers are more satisfied with one than another. Thus a continual challenge is to know how your competitors are performing and ideally what they also have planned for the future. Without going to the level of industrial espionage there is still much that can be learned through legitimate channels from press releases, user forums, annual reports, cost comparisons, financial analysts’ reports, technical reviews and advertorials and the purchase, strip down and reverse engineering of a competitor’s product. More difficult than evaluating their basic technology will be measuring their softer managerial systems’ performance on issues like quality, delivery, service support and overall customer satisfaction. Sometimes industry sources perform comparison exercises, which can help identify performance gaps, or some market research with user groups might be possible where information might be gleaned from customers who can compare your own offer against the performance of their preferred suppliers. Benchmarking exercises can sometimes suggest improvements but it is often difficult to have direct competitors involved in the same benchmarking study. In any event true benchmarking is often about finding new ways of working from outside the given industry rather than internal industry comparisons. Competitor analysis is an ongoing process and we must also remember that customers tend to remember failure more often and for longer than they do success, so the data needs to be evaluated carefully. Customers can also be swayed by perceived cost differentials without being able to weigh up satisfactorily the other factors on which a company might have built its value proposition. These can include: distribution reliability and perhaps speed; reliability; maintainability and serviceability. Each of these might work out in the medium to longer term to be factors which reduce the total cost of ownership for a product in which the initial unit purchase cost might be a small part of the whole picture. The above situations refer to an essentially status quo competition but there are other possible scenarios.
+
+32
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Market Imperatives
+
+2.10	
+
+Substitute products and new technology
+
+In many market places one of the biggest threats is from the development of new technologies which change the competitive offer and value proposition so dramatically that customers will feel obliged to switch their purchases to the new supplier without much further consideration. New technologies often provide the same functionality to customers but in some improved way. Thus when we consider computers, tablets, smart phones, and now smart watches we may at one level think we are looking at different product marketplaces but at another level it can be seen as a technological evolution where the hardware is getting progressively smaller and lighter while the software is becoming more and more comprehensive. This creates a major difficulty for the product producers since in some ways new product introductions are not creating new customers but instead are providing a greater concentration of capability in fewer items purchased. Of course sometimes new technology has the capability to completely replace a previous value proposition. For example, listening to music on the move has been transformed from dependence on magnetic tape or laserdiscs in electromechanical machines to ones where the equipment is electronic and the communication of the music to the listening machine is via the Internet. Interestingly it was the bundling of hardware devices or products (iPod and then iPhone) and the software delivery system as a service (iTunes) by Apple, which made this technological advance possible and an attractive solution to users.
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+33
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Market Imperatives
+
+Substitute products can also be introduced to marketplaces for more social or political reasons. Consumers can come to realise or be persuaded to recognize that some products are in some senses damaging to society or to the future health and well being of new generations of the population. Changing perceptions of the attractiveness of using animal fur for clothing or furniture can create a demand for alternative materials. Similarly, concerns about pesticide use in farming and increasing interest in more natural or organic farming methods can change production and buying behaviours. Of course this is for consumers who have choices and can afford to exercise these choices. For all too many in the world there are very few if any choices in these areas. For existing producers in these marketplaces there is an ongoing challenge to try and watch their competitors and at the same time try to scan the competitive horizon to see if any of these potential changes are coming close enough to be of imminent concern. However, horizon scanning and technological forecasting requires us to know where to look and history has often shown that major changes and threats come from directions where few people are currently looking. A good example of this problem comes from the introduction of the digital watch. The Swiss watch industry has been world-famous for very many years for their ability to produce very fine mechanical watch movements but they were completely unprepared for the first digital watches. The innovative idea for these came from the electronics industry in the recognition that electronics equipment needs to have a timing process by which a sequence of steps is initiated and controlled. In effect, inside every piece of electronics is a clock mechanism but one driven by electronic switches and software control systems. Apply that thinking in a small and wearable package and you can produce a reliable and much cheaper watch. Of course, once the technology had been demonstrated and any patent issue resolved in some fashion then the Swiss watch industry was able to redesign their production and product systems to compete in both mechanical and electronic marketplaces. It was however, a very major threat to their industry. Even with the benefit of insight it is hard to see how the problem could have been avoided without spending a lot of effort, perhaps much of it wasted, looking for things that might be possible. The issue is that it is difficult to guess how many of these possible future paths an organization or an industry can afford to invest in when the prospects for success are so difficult to evaluate. The digital watch example can be considered a ‘Black Swan’ event in the terms used by Nassim Nicholas Taleb to describe events which have a massive impact but were unforeseeable by any known or currently used approaches. These are the ones whose impact is the most dramatic and life or industry changing but by definition would not be found by scanning or forecasting. The only option for the supply system worried about such things is to build a system capable of recognizing the importance of the event quickly and robust enough to modify itself and respond appropriately in a short timescale and without complete market failure while working its way through the change.
+
+34
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Market Imperatives
+
+2.11	Summary
+In this section we have considered the very many challenges, options, threats and opportunities that are presented in different kinds of market situations. Very few organizations, if any, will be trying to build their business processes across all of these agenda areas but the challenge for their managers and stakeholders is to remain vigilant as the world changes about them and recognize the choices they have to make in response to these changes, ideally before their competitors make their own moves. It is not always possible to keep activities so secret that they cannot be copied but it should be a sensible ambition to move quicker than your competitors in areas where your customer satisfaction capability is under threat.
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+35
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Order qualifiers and order
+
+winner
+
+3	 Order qualifiers and order winners
+3.1	Introduction
+In section 2 we discussed what could look like very many confusing choices to make in finding suitable customer opportunities and framing an effective value proposition to provide the opportunity for customer satisfaction. We need to find a way to simplify these choices and in this section we do this by the use of the concepts of order qualifiers and order winners.
+
+3.2	
+
+Order Qualifiers and Order Winners
+
+Working back from the identified customer groupings and some understanding of what they value gives the possibility to define two sets of criteria. The first is the qualifier. Here the idea is that these are things that must be provided by any supplier to this customer group for them to even consider buying from them. However it is likely that there will be a number of suppliers who meet these requirements for otherwise there is no market but instead a supplier monopoly. These qualifiers are necessary but not sufficient to win the business. It is like athletes trying to get to the Olympic Games. They have to produce the qualifying standards to even be allowed to compete but qualifying gets them into the competition it does not guarantee that they will win any medals. In the business competition the customers consider the offers from all those qualified to be in the competition but only the customers determine which supplier has the correct combination of features which makes them the chosen one for that particular customer. These features become the Order Winners in that marketplace. For those suppliers trying to satisfy groups rather than individual customers the attempt is then made to identify a group of customers with similar perceptions of Order Winners and then design a supply system capable of delivering these reliably. The order qualifiers cannot be ignored however for some of these are also order losing sensitive. This means that any small failure to meet the qualifying standard means that the ‘permission’ from the customers to be in the competition can be removed very quickly. Examples of this would include food or travel safety. This kind of qualifier tends to remain important almost irrespective of what else is happening but others are more dynamic.
+
+36
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Order qualifiers and order
+
+winner
+
+For a supplier there can be the choice of taking the expectations of the customer as a given and responding to them or trying to influence the customer to change the balance of qualifiers and order winners to be more supportive of the supplier’s most economically advantageous approaches. Thus, if most of the competitors are competing with much the same unit price for the product it might be an order winner to offer better delivery service. The service dimension then becomes the new order winner. Of course if customers move in this direction then so can the competitors and a new order qualifier, around the service dimension, is created. Here again the competition dynamics ebb and flow as customers and suppliers try different combinations of product and service features. The further significance of the concepts of qualifiers and winners is as an aid to cross functional coordination, consistent marketing messages and corporate behaviours. The supply side has to support the competitive approach adopted by strategic and marketing choices and has to find ways to effectively deliver on these messages in a cost effective way. Similarly there is no point in a sales person making a promise to a customer to close a sale if it is different from the agreed priorities and current capabilities of the supply system to deliver. A promise made that cannot be delivered is no way to provide customer satisfaction. Promises have to be properly evaluated and capability properly assigned to ensure that they can and are performed but this is a whole company responsibility and any tendency to see sales as unconnected to supply chain capability is the route to difficulties and potential disasters.
+
+3.3	
+3.3.1	
+
+Possible Order winners and qualifiers
+Core Capability
+
+Recognizing that order winners and qualifiers can change as a result of different perceptions of customers or differentiated behaviours from competitors, we can now consider some of the features on which we can choose to compete in a given market place. Above all else there needs to be some core capability or competence which is offered by the supplier to the customer group. This may be an existing product or service capability, which is recognized as being of value to the customer. Of course incremental changes are always possible in these areas so the challenge to the supplier is to make sure that they are at least as capable in these areas as their competitors. After this there are others which can be added into the mix.
+
+37
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Order qualifiers and order
+
+winner
+
+3.3.2	Price The unit price of the product or service will always be an important consideration for customers but it will seldom be the single most important factor. All other things being equal then unit price can be the differentiator or order winner but the challenge for suppliers is often to persuade their customers that the other features should be weighted more strongly so that a higher price is nevertheless seen as contributing value, as part of the overall, more attractive, package. In many situations the unit price to buy the product becomes of reduced significance when the costs of operating, maintaining and updating the product over its extended lifetime are fully recognized and accounted for. This measure of total cost of ownership can change the balance of the economic argument for a customer as we discussed in the market imperatives section so that they move from considering value in transfer to value in use through a leasing contract rather than a purchase one. Price can however also be difficult to fully account for since there are often inbound or purchasing and sourcing costs to allow for. The total cost of purchasing therefore should consider the extended sourcing and logistics costs of extended global supply chains, perhaps with a recognition, and financial accounting calculation, of the risk elements that might be represented by the geographical distance and boundary crossing issues.
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+38
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Strategic Analysis of Supply Chain Design
+
+Order qualifiers and order
+
+winner
+
+All services are more or less designed as a coproduction of value since the supplier is never quite sure what their client might actually want until it is articulated. The process is therefore much more integrated and ideas are offered and acceptances made and modifications all flow backwards and forwards until the customer is prepared to agree with what has been coproduced and pays the acceptable fee. 3.3.3	Design All services need to be designed and the service delivery system is a supply chain design issue however the role of design in products has more possible variations. Of course the service based example above can also apply to a physical product which goes through similar interactive processes to design and manufacture a bespoke dress or suit of clothes. Other possibilities are also feasible where there is no involvement of the customer with the product design at all. In this case they simply decide if they like the finished product and accept the price as offering acceptable value. As we move from the make to stock end of the spectrum to the make to order end then the customer involvement increases. These are examples of design for function but we can also be required to design for other things. For example a similar product might need to operate in extreme conditions or with particular features to allow for easy maintenance or extended reliability. Here the customer requirement will need to be more explicitly stated and understood and these features will suggest that the unit price is likely to increase to cover the extra resources involved in providing the new solution. The capability to be flexible and creative in solving these problems might well be the order winner for this section of the market place. Design processes often embody much of the intellectual property (IP) of a business and so they need to be carefully considered and protected. For this reason great care must be exercised in outsourcing which involves the use of design knowledge to avoid leakage of the IP to another potential competitor. We will discuss this later when we talk about the issue of Offset.
+
+39
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Order qualifiers and order
+
+winner
+
+3.3.4	
+
+Quality and value
+
+Both of these are very important and share the same characteristic which is completely dependent on a perception which is unique to every customer. This perception can be influenced by marketing, personal interactions with supplier personnel and experience in use but they are not controllable. This is very difficult for the supply side. If we are struggling to understand what a customer values and have no independent and standard way to measure what they perceive they have received from a supplier then it is no wonder if there is a mismatch from time to time. The more interaction between the customer and the suppliers to clarify all of this the better the fit and hopefully the higher the level of satisfaction experienced by the customer. Quality is one of the features that a supplier can use as a differentiator until all the competitors are delivering the same perceived quality levels. At that point it is simply a qualifier at that level and the competitive pressure moves to either a higher quality level or to some other factor as discussed above. Quality is more of a process or journey towards perfection rather than a destination. The level is always increasing so the dynamic matching of expectation to capability is key here as well. Product quality can in some cases be easier to measure with more physical measurements possible. For services, where the service delivery person represents all of the supply capability, then measurement can be more difficult and the perception of service recognized by the customer at the crucial moment of truth when they interact with the supply system, is again the critical and uncontrollable factor. There is another potential problem however. If the supplier offers a level much higher than expected or required by a customer they simply might not value it and in fact consider that they might be being charged too much for a level of quality they did not demand. Suppliers therefore cannot afford to be too far ahead of the changing requirements of their customers. Much juggling of requirements and performance is observed in this area. Value is even more difficult to define for the supplier and might only be recognized after the customer has decided to buy the product or the service. Here again the more customer to supplier interaction before, during and after the transfer process, the more likely it is that satisfaction can be achieved. Even in the ‘value in use’ scenario there is a still the requirement for the supplier to understand the customer’s requirement to tailor a solution to satisfy their needs. There may not be a transfer of ownership but still the customer has to use what has been provided and gain their own satisfaction from using a properly defined and delivered product/service package.
+
+40
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Order qualifiers and order
+
+winner
+
+3.3.5	Delivery Delivery against a customer requirement has two dimensions and a preferred sequence. The dimensions are reliability and speed in that order. If we accept the image of chains of interdependent companies all interacting against the ultimate customer’s requirements then we are also describing an interdependent set of delivery promises. Here, the immediate supplier’s promise of a certain delivery date and time allows the subsequent customer (acting as the supplier to the next in line along the chain), to make their plans so that by the time all of the promises have been made and achieved then the final customer gets their order at the time they expected and planned. For this reason reliability of promises made (assuming, as discussed before, they were actually achievable) is the most important performance requirement and indicator of success. In some cases the speed of delivery can also be important and might be an order winner on that occasion but often speed on one order means that another has to be delayed so promises of unusual speed are other examples where these promises should not be made without a clear capability to achieve them. Even here the reliability of the promise is more important because of all of the other plans that will be built on it.
+
+AXA Global Graduate Program
+Find out more and apply
+
+41
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Order qualifiers and order
+
+winner
+
+3.3.6	
+
+Integration across boundaries
+
+When customers require product and or services to operate together but which are sourced from different suppliers they have to perform the integration…or do they? A further opportunity for a supply chain solution is to act as the ‘one-stop shop’ for their customer by sourcing, delivering and installing all of the products and services needs to fulfill the higher order demand from their customers. They become system integrators for their customer. In the manufacturing world this is often the solution provided by the first tier suppliers to companies like Apple for example where Foxconn manages just about everything to do with Apple’s products for them. As consumers we often do not know about these arrangements until something goes wrong in the supply chain and issues become very visible around the world. When this happens there is no point in the brand company (Apple in this case) trying to say it was not their fault and point a finger of blame at their supplier. Consumers buy brands and assume that the brand company will take responsibility for all that happens in their name. In this example, the outsourcing process which is presumably economically advantageous also runs a high reputational risk if the chain is not properly managed or overseen. With complex products, complimentary products and support services all in the customer requirement mix, then the capability to perform the integration and remove that stress from the customer might be the order winner but it can change fundamentally the skill sets and systems that the supplier has to have the capability to support and use effectively. Doing this across global supply chains increases all of these complexities. 3.3.7	 Corporate Social Responsibility (CSR)
+
+A feature which might be regarded as additional to other considerations covered so far, is CSR. This represents what are called the triple bottom line of People, Planet and Profit. The essence of this argument is that the current generation owes a duty of care to later generations to look after the common birthright of our planet and its resources, many of which we seem to be very successfully squandering. If the costs of thinking and behaving in this more considerate way is seen as an extra then this might be a feature that customers do not see as something they demanded or are prepared to pay for. Alternatively, if one believes the core concept of responsibility to future customers then perhaps the Marks and Spencer approach to have a CSR based Plan A, where there is no Plan B, is the only way forward.
+
+42
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Order qualifiers and order
+
+winner
+
+The ultimate ambition must surely be to get to the position where a supply system incorporating the CSR dimensions can produce at apparently equal cost compared to a competitor who focuses only on the more immediate customer requirement. For many organizations this is still a number of innovations away from reality. For the time being the business model of the Fairtrade approach, which tries to put more of the supply chain value back in the hands of the core produce producers for tea, coffee, cocoa etc., is that customers have to buy into the principle economically by paying a higher price at the retail outlet. If the customer market place has groups with different views on this then there might need to be customer segmentation and dedicated supply chains providing different end results. This last realization leads us to the final potential order winner. 3.3.8	 Data and analytics
+
+In all of the discussion so far we have been describing a complex and dynamically fast flowing situation trying to match changing customer requirements to appropriate supply chain capabilities and solutions. As the volume of data increases exponentially there is an increasing demand for people and computer systems that can make sense out of the data noise. This so called big data issue is critical in the global supply chains we have been discussing. Understanding, anticipating, influencing and responding to changing market opportunities needs to be matched with extensive, cross company information on the supply side. Much of this is becoming more and more real time and driven by the internet of things applications where real world items can communicate information which will allow for the closer coordination of the physical distribution of products and people. The ability to recognize and respond quickly, reliably and economically to these changing situations might well be the most important order winner of all. However, many organizations are still struggling with the need to properly manage their current supply chain capabilities so perhaps only the really farsighted and investment driven organizations will be the leaders in these developments. We have however indicated that if this is the order winner for the near future it will become the order qualifier not long after that.
+
+43
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Order qualifiers and order
+
+winner
+
+3.4	Summary
+In this section we have discussed how order qualifiers allow you to compete but only the order winners (as defined by the customers) produce market success. This is highly dynamic and also affected by the behavior of the other players in the market place, which can include regulators and government legislators (perhaps imposing some CSR requirements). Many things can act as qualifiers and order winners and these will change over time so here again highly strategic decisions need to be made. These need to consider not just the capabilities of the focal company but allow for all of the capabilities which can be accessed through effective supply chain relationships with other resource and capability providers. Having now considered the complications on the market side of the business relationship we will now move to consider the supply side choices, which have to be made to allocate the needed capability to the required customer expectation.
+
+44
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Structural Feature
+
+4	 Supply Side Infrastructure – Structural Features
+4.1	 Boundaries of the Firm
+In section 2 we discussed the strategic choices involved in the Make/Do or Buy/ Trade decision and the answers to this will largely determine to where the boundaries of the firm or business extend. Activities performed by third parties in the supply market are definitely supply chain ones with the opportunities and threats that that implies. Choosing the trade rather than do option suggests more flexibility to respond to market changes but the company has to choose its partners carefully since much of the success of the value delivery to ultimate customers is now going to be dependent on these third parties. Ideally we do not want them to think like third parties but to consider themselves as part of our extended capability family. However each of the interacting parties needs to want to think like this for it to happen and there has to be a strong business justification for so doing. Whether an activity is performed by employees or contractors should not make a fundamental difference to the customer experience but there is always the threat that the contractor is maximizing their own situation and possible future opportunities rather than delivering what their client wishes for the client’s own customer. This is the principle and agent problem discussed already and if the agent behaves in ways detrimental to the principal’s best interests then there is a problem to be solved but such behavior may not be apparent or recognized in time to avoid the customer’s experiences being damaged. Trust on both sides of the principal and agent divide needs to be demonstrated in actions and be visible and tangible in coordinated plans. When the actual performance in the presence or awareness of the customer is key to future business opportunities, it may be safer not to entrust such activities to an outsourced supplier and rather to retain that activity in the same way one would choose to retain intellectual property knowledge inhouse rather than outsource its use or manufacture to those less directly motivated or indeed motivated to steal the business away. This is the similar concern to that mentioned in the design section earlier. There we were worried about information leaking back out to suppliers producing to our design specifications whereas here we are worried about information gathered from the customers which we need but which may not be fully communicated to us if at all. Choosing the buy option increases the importance of both the purchasing or procurement activity and the subsequent contract management one.
+
+45
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Structural Feature
+
+4.2	
+
+The Contract Lifecycle
+
+All contracts go through the same kinds of stages, which we can label as follows. 1.	 Specification of the requirement and proposed solution 2.	 Make/Do or Buy/Trade choices and extent 3.	 Source the supplier and evaluate/negotiate the bid and Award the contract 4.	 Implement the contract and make it operational 5.	 Operate and manage the contract 6.	 Consider the choices at the end of the current contract 7.	 Document and discuss the lessons learnt from the current contract to inform the thinking for, and behaviours in, subsequent contracts. We will discuss each of these in turn. 4.2.1	Specification In order to buy from the market we need to be very clear what we as customers want as minimum as well as ideal requirements. Sometimes of course we need guidance from the suppliers (who know what is or could be possible), to inform our requirements but however reached, the definition of the requirement then needs to be translated into detailed specifications. These will then inform the search process in the supply market for existing products or the discussions and sourcing process to have this specified product produced in some way from the selected supplier. The process of defining and subsequently designing the product/service and delivery system is a key stage in any business process for it is here that decisions will be made that will affect the function, appearance, quality and usability over time as well as raw material and other resource usage and subsequent re-cycling. Thinking this through and making cost effective and customer satisfying decisions are critical to any success. If the thinking and the detail are not good enough at this stage then every subsequent stage will always struggle to recover the ground lost here, if indeed it is possible at all to do so. 4.2.2	 Make/Do or Buy/Trade
+
+We have discussed already the importance of the Make/Do or Buy/Trade decisions as these determine what is done in house through ownership and management of dedicated resources and what external resources need to be purchased or otherwise accessed through market driven contracts. Truly these decisions are defining the boundaries of the firm or business.
+
+46
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Structural Feature
+
+Care needs to be taken in these since the costs and time to change them later can be significant and if the wrong choices of supplier partners for example are made it may not be possible to start over again with the same freedom of choice since your competitors may now be working closely with your new preferred supplier. The extent of total outsourcing and the percentage of your spend in any category with one or two suppliers become indicators of the closeness or otherwise of the needed relationships with these key suppliers. The degree of dependence on key customers and suppliers is very variable across industries but these are the important few on whom your future success will be dependent so it needs to be a small enough number so that they can be properly managed and integrated into the thinking and planning process. For many companies this number will be in the range 6–15 but remember that Toyota (who taught us much of this thinking) has 2–300 first tier suppliers who are key in the terms that we have been describing. They of course are a brand company at the top of an extended network and compete with other similar large scale enterprises. For the business more in the middle of the network they cannot exercise the same power and influence and so need to focus their efforts more.
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+47
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Structural Feature
+
+4.2.3	
+
+Source and Award
+
+A business wishing to buy from a market place is faced with a variety of problems from finding a company with the right capability and skills to deliver their requirement, checking on this capability and the financial risk of contracting with them and then judging if they will be able to deliver as they have promised in the discussions or contract acceptance process. For companies in the private sector they can more or less do this in any way that they see fit however the public sector take its accountability to the population at large and their political masters more centrally in their considerations and so must look for and contract with suppliers in more prescribed ways. (We will be discussing some of this later in this section.) Finding potential suppliers can range from talking to incumbent suppliers of other goods and services which are currently subject to existing contracts to advertising in a variety of ways for possible new suppliers. Dealing with known suppliers might provide some comfort through familiarity but does not allow new suppliers to challenge and offer their new processes and commitment. There is therefore a tension between looking for new opportunities and capabilities not offered before and depending on existing connections and understanding built up perhaps over many years of working together. Careful evaluation of the best strategic choices of possible sources for the particular client requirement is needed and as will be discussed later it is likely that a company working with a variety of suppliers will have a variety of relationships with different companies or parts of the same company. To find completely new suppliers electronic buying platforms can be a great help. The difficulty then revolves around how one can evaluate such a new opportunity with no direct experience and with a supplier who operates in a completely different market place and part of the world. With the new opportunity comes the risk of unfamiliarity and potential dishonest representation of their experience, capability and commitment. Often companies will not risk high value purchases to such unknown organizations but might incrementally contract for safer and lower value goods or services so as to build up some understanding and data on performance and wider capability. Over time this can lead to bigger orders being placed as capability is demonstrated. If we accept that much new innovative thinking comes from the supply market then there is a need to access this wherever it occurs but not at the risk of the whole business. There is a need to balance the new potential with the existing risk. Decisions like this are not simple one dimensional issues and should not be made by any one group of people in purchasing or technical for example without thinking through the choices with all the relevant stakeholders and agreeing the sensible balance in the current situation and for the future development of the supply marketplace.
+
+48
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Structural Feature
+
+However the invitation to suppliers to tender for a contract is presented there will come a time when the alternatives need to be evaluated. It can be difficult to be sure that all of the bids are covering the same things and have produced detailed costs of all of the features for which the supplier will invoice. This is why in the European Union Procurement Directives there are major constraints on processes and communications so that all bids can be fairly evaluated and a decision made on objective and transparent decision criteria, which were clearly communicated to all bidders at the start of the whole process. The stakeholder group which was involved in the process of defining the requirement and specifications at the beginning of the contract lifecycle now need to take part in some way in the evaluation process so that they can be comfortable that the best choice representing their interests has been made so that a purchasing decision can be made and communicated to the winning bidder. It is also good practice, and in some cases required by law, to communicate the contract award decision to the failed bidders. In the public sector they are allowed to challenge the process of reaching the award decision and if the process is found by an arbitrator to be flawed, the contract award can be put aside and the sourcing, tendering and awarding process re-run. Failed bidders, even if they accept the final decision, can still learn how they were evaluated and can learn how to do better in a subsequent contracting process. In this way the whole supply market has the chance to learn but of course the ones who failed do not receive any financial return on the costs of their bid, which can be substantial. If no challenge to the award is received within the limited time period allowed for the challenge then the award is confirmed and the contract can be made operational. In the public sector it is not acceptable for the purchaser to go back to the successful supplier at this stage and see if further concessions (on their prices perhaps) can be negotiated but for private companies the law does not constrain this behavior. However, this action is not in the spirit of fair dealings and while it is often possible for companies to ‘get away with’ such sharp practice in the short run they run the risk of getting a reputation as an organization that cannot be fully trusted and this will be factored into the supplier’s future bid processes as a safety factor in their pricing structures perhaps. They would therefore build extra money into their offer prices expecting to have to give some of it away in the subsequent negotiation. In certain situations the buyer is not fully aware of what is possible or even what they actually want in detail so there are times when rather than using a formal bid against clearly specified criteria process a more interactive process is needed. Here there can be more of a debate about what is required and what should be paid. If the buyer is doing this with a number of suppliers then there is a tension for the supplier about how much of their most creative ideas they want to expose to the buyer for the buyer might then take the idea to another supplier and ask for a better price to deliver a similar offer.
+
+49
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Structural Feature
+
+There is much in the sourcing process that has the potential to build long term intercompany relationships for mutual advantage or alternatively create conditions in which conflict and sometimes breach of contract legal court cases can result. Sourcing is therefore an area where high strategic decisions are made but also where very small details can have huge impacts if they are wrong or badly understood. 4.2.4	 Implement the contract
+
+Now that the contract has been approved it is time for both the customer side and the supplier side to put it into action. This means that all of the details of required performance, communication processes as well as the important invoicing and payment systems are set up and all necessary personnel are informed and, if necessary, trained in the new processes. There is also a requirement to securely store all the agreement documents and contract details in a place where they can be accessed for management control purposes. All of the agreed management processes must also be instigated at this time with agreed agendas and meeting schedules established. For certain contracts, security approvals of systems and key individuals will also need to be put into operation.
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+50
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Structural Feature
+
+It is likely that the teams of people involved in sourcing the contract will not all be involved in managing the contract. We also have the users on whose behalf all of this was initiated. They need to be put in contact with their new suppliers and personal introductions and social contacts established to allow for rapid response when necessary to solve operational problems or challenges. Some businesses choose to separate the procurement function from the contract management one. This requires careful handover of all relevant information at the beginning of the contract implementation process but, as we shall see later, after the contract is concluded there may need to be a reverse transfer to allow the sourcing team to take action for the next contract. It is important that someone in the organization takes responsibility to gather and evaluate the performance of the supplier on the current project so that lessons can be learned for use in the future. 4.2.5	Operate Once the initial set up processes have been completed then we can move into the day-to-day operation of the contract. There will have been the setting of agreed performance indicators and the methods of their collection. Details about contact and delivery points and any escalation procedures in the event of a dispute, all need to be agreed and documented and then regular communication and meeting processes are required. Meetings should be for planning and problem solving but sometimes it is good to meet just to build a wider understanding and to begin to explore if there are more things that the parties could collaborate on for mutual benefit. Performance, problems occurring and solved and issues raised from both sides about practice, which is not in the spirit of the agreement, need to be documented and appropriate responses implemented and recorded. This performance history is important as an audit trail for problem solving or, if the worst fears are realized and there is a contract dispute, we might need this data to argue in court about a breach of contract. This data should also be useful to inform lessons learnt investigations later on in the lifecycle. 4.2.6	 End of contract options
+
+A number of options can emerge at the end of a contract, or in reality towards the end of a contract since some forward planning will be required. The requirement from clients or users might be fully satisfied so that the end of the contract finishes the need for the interaction with the supplier. However there might still be contract process lessons to be learnt. What went well and could be used in other contracts, what created difficulty and how were these resolved or not and what new understandings and processes should be considered as appropriate for other circumstances? How did the people cope and how should that be incorporated into promotions and career development training and development?
+
+51
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Structural Feature
+
+If the customer requirement is ongoing then there are two basic options. These are called the straight re-buy or the modified re-buy. The first is to re-run the sourcing exercise if it is a requirement (for example under public sector procurement rules) or if desired to ‘test the market’ and see if there are new suppliers or ideas to deliver a better product or service. The alternative might be to redefine (modify) the requirement and run a whole new sourcing exercise for the next contracting process. In both cases the experiences gained from the first contract should inform the next sourcing exercise. 4.2.7	 Review and learn
+
+It is here that the separation of sourcing and contract management teams can create some issues since the experiences of operating the contract should have been properly analyzed and recorded so that the incumbent supplier’s performance can be considered for a new contract award if such is permitted (it is of restricted use under EU procurement rules) or any performance lessons which might be generic are built into new specifications and management processes.
+
+4.3	
+
+Private and Public Sector differences
+
+We have already mentioned a few times the differences between the private sector and the public sector in the rules and procedure for the procurement processes so let us take some time to explore this in more detail. The essential difference between the private sector and the public sector relates to whom the managers report. The private sector will have owners or shareholders and other kinds of investors who will be interested in the economic and other performance measurements. The public sector act for wider society members to whom they are ultimately responsible but operationally they report to line managers who are part of a political organization structure, which can be subject to major changes when political change occurs. Within the public sector we also have the possibility that a political leader of some sort might use procurement processes for their narrow political ends and allocate taxpayers’ money to reward their friends or relatives or simply to keep their electorate in favour of them staying in power. This form of corruption is seen all over the world and it is a major challenge to reduce its extent or limit its impact. Within the European Union this was recognized as was the version in which local politically motivated purchasers would only award government or other public sector contracts to businesses which were local to the spending authority. The European Union sees this as not in the spirit of a ‘free market’ zone or shared economic community and so they have put in place procurement rules which aim to make it normal to award contracts to the ‘best’ bid regardless of any influence from location or other factor based on prejudice rather than rational economic arguments.
+
+52
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Structural Feature
+
+To make this happen it is mandatory to open up the contract possibilities to all possible bidders; to make sure that the decision criteria for the award are clear and clearly communicated to all and that the final selection is based on objective criteria (again communicated to all bidders in advance) with the whole process capable of being audited and if necessary challenged for an incorrect process in a court. If such a challenge is made, the challenge must be evaluated and in the meantime the contract cannot begin. At the heart of this is the belief that the best results come from competitive tendering processes and that the market should be tested on a frequent basis so that there is always the possibility of a new supplier being selected and the benefits of the taxpayer’s spend is spread around more in the community. For this reason contracts are time limited and even if everything has worked well with an existing arrangement between the purchaser and the supplier there still has to be a new competition and the supplier’s good performance in the old contract is not allowed to influence the decision for the new one. Bad performance on an old contract can be used to disqualify a supplier bidding for a new contract. In the private sector there is no such requirement to re-tender so in theory a supplier can continue to supply a customer as long as they both wish the contract to be in operation. As ever, there are good and bad points about both forms of market interaction.
+
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+53
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Structural Feature
+
+In the private sector, good performance can be rewarded by renewed contracts thus avoiding the need to re-tender and begin a new procurement process. This avoids the search costs for the customer to find other bidders and the costs to evaluate the alternative bids. The suppliers who might have bid but would have been unsuccessful avoid incurring these costs but of course they had no chance to win the business and therefore no opportunity to make a profit on the business and must find another customer to supply. Staying with one supplier might limit the chances of benefitting from new thinking or technology. In the public sector the limitation on the duration of the contracts (four years is a typical upper limit for framework agreements) means that the supplier cannot invest in a long term improvement process since they might not be there after the next tender competition. Also as the end of the contract approaches there is an understandable tendency to begin to look for the replacement business and the concentration on the current contract begins to weaken. The need to provide a minimum number of bidders and the time limited contracts suggests to some public sector buyers that cooperative relationships between customer and supplier do not have any possibility of being used but this is not true. Certain of the procedures allow for a more collaborative approach at the beginning where for example there is a more interactive approach to the specification of the desired product or service. However the requirement to run regular competitions does work against any long term commitment or mutual understanding being a realistic goal. Some see the EU rules as very bureaucratic however it is possible to argue that the need for transparency in decision making, in full and fair communication about requirement and assessment and the capability to provide an objective set of decision criteria and processes capable of being audited and used to argue a case in court, as all being very worthwhile and best practice.
+
+4.4	
+
+Procurement position
+
+It was argued in the discussion of the contract lifecycle that the procurement activity needs to be seen as part of a business wide approach and that it cannot be seen as the only or even main player in the sourcing exercise. However there are also decisions needed about where in the organizational structure the activity should best reside.
+
+54
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Structural Feature
+
+The essential dichotomy is whether procurement should be centralized or de-centralized. This argument applies to other functions as well. Procurement centralization allows for consistency of treatment, training and specialization of staff and visible data collection. It may also be possible to aggregate demand from a variety of parts of the customer’s business and use the demand volume argument to leverage a better unit price from a supplier. The counter argument, especially for large and diverse businesses, is that centralization can create inertia and lack of a speedy response to requests from the dispersed parts of the business. If these sub-divisions are really operating in different customer and supplier markets then this argument suggests that flexibility and rapid response allows customization for local need to be accommodated more effectively. However in this situation, control from the centre can be more difficult and the data gathering and analysis more complicated. We might also be duplicating some staff roles or not be able to provide enough experience for the staff in the subdivisions in all aspects of the main business. There can of course be hybrid forms where much local procurement is performed locally but the centre sets policy and standards, acts as trainer and developer and negotiates and procures the large expense items for example on power or corporate travel and accommodation.
+
+4.5	
+
+Goods or services
+
+There are two basic end points for items which are procured whether these are for goods or services. The key factor is whether the items being purchased are intended to support or be incorporated directly into the goods or services which are then supplied to downstream customers. This represents ‘direct’ procurement. If on the other hand what is being procured is for more general things which are needed to make the business function but are not so directly transferred in some way to the customer, then these are called indirect items. These cover items from office cleaning to financial auditing. Some of these items consume large budgets and much can be done relatively quickly to make savings in these items of expenditure. Interestingly however the attention paid to these spend categories in many businesses is a lot less than for the direct items. The direct items seem to be regarded as contributing to competitive differentiation and order winning while getting the indirect procurement correct might be regarded more as a qualifier. Usually more attention is paid to, and better people allocated to manage the direct spend than the indirect. This segment of the business will also tend to have much closer control than the indirect spend and in many businesses the control processes over the indirect spend will be very lax compared to the direct area. Like any other qualifier, getting it correct is a minimum requirement but some of these areas are also order losing sensitive or perhaps better to say business mission critical. For example a financial audit that misses a major accounting error or misappropriation of funds can put the future of the business at risk.
+
+55
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Structural Feature
+
+Given these considerations it is hard to see why some of these decisions are taken by the internal function heads without the expertise of a trained and professional procurement group, but such is too often the practice. It is like the marketing department deciding on an advertising agency contract award without involving the procurement and contract experts based on the argument that ‘they’ would not understand or be able to evaluate the creative arguments in favour of one advertising agency over another. The counter to this is of course one we have already used which is to make the process of procurement a team one where different expertise can be brought to bear in a coherent and controlled way with mutual respect and responsibility allocated, understood and accepted by all involved. Customer satisfaction might depend mainly on the performance of the supplier on the direct procurement activities but the discussion above suggests that from a customer viewpoint there may be less difference between the two areas than has been assumed so far in some businesses.
+
+4.6	
+
+Relationship portfolios
+
+In the business-to-business supply chain world companies will have multiple customers and multiple suppliers. They will operate through interconnected contracts to form an extended network and in this way resources which are not owned can become available during the time of the contract and will be managed through the contract management mechanisms and through the company to company and person to person interactions and relationships. However not all of these are as important as others and this importance can change with changing market opportunities and demands.
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+56
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Structural Feature
+
+Populations of customers and also of suppliers exhibit the same features of human populations as discovered centuries ago by the Italian economist Pareto. This property is that wealth and importance is not uniformly distributed in a population. Rather they are distributed according to the 80:20 rule where 20% of the number of items in the population accounts for 80% of the wealth or importance of the items in the population. In the relationship portfolio we make use of the same thinking and patterns and recognize that relative few customers and suppliers account for most of our income and expenditure. These important few are the ones we need to get very close to and work collaboratively with since their importance to us, and to our future success, is paramount. This means that suppliers look carefully at prospective customers and ask how attractive are they and what are the prospects of gaining and retaining a good income flow from business contracts with them into the future. The customers look at the suppliers and ask similar questions. How important is the technology or service that they provide to us to meet our customers’ expectations, are they showing signs of being able to work collaboratively with us and share their innovative ideas with us and can we see mutual support and investment opportunities to build a shared capability to the exclusion of our competitors. The ideal situation is when a customer chooses a supplier as their preferred one for the future and the supplier regards that customer as their preferred customer as well. For this relationship the other party always considers the benefits of the other as creating benefits for themselves as well. Often this is spread over a longer time period than if an aggressive deal was done for larger but short term benefits which might have been obtained in the open market. When this alignment occurs then both sides can afford to share and commit to a long term relationship which might be supported by a formal contract but might not need one. It will have mutually agreed investments in building interconnecting communication and management systems and sharing best practice, market information and forward plans. It will support innovation and cost reduction and process improvement and success in this will deliver performance incapable of being matched by the competitors. It does mean that the selection of this kind of supplier and customer is of the utmost importance since getting it wrong will be expensive and time consuming as the relations and systems have to be disconnected and new ones established. For customers and suppliers who do not fall into this mutually attractive and beneficial relationship category we might still trade together but we might see the contract as a limited life, minimal commitment relationship or even outsource that kind of activity to a third party to manage on our behalf.
+
+57
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Structural Feature
+
+Not all suppliers (especially monopoly ones) are interested in forming this kind of relationship with only one or a few customers. Rather they will use their monopoly to their advantage to dictate terms to all customers that they supply. Thus both customer and supplier organizations are managing a variety of close and arms length contracts and relationships and need to make sure that the right people are in touch with their counterparties and understand what roles they are playing in the relationship and what is acceptable behavior in each situation. Getting the important few relationships working well is hugely important to deliver the economic benefits of building and protecting a highly capable supply chain to satisfy the ultimate customer.
+
+4.7	
+
+Supplier involvement
+
+The reason that a company goes to the market to source a capability is that they do not have it themselves. This might because they never had it or they had it but outsourced it. Either way the key issue is that the buying organization has chosen not to be expert or to have competitive advantage in the good or service that they now need to buy. They have avoided investing in this capability in the hope that others would be better able and committed to being the expert in that particular capability. This logic therefore suggests that these suppliers have more expertise than the people who are buying from them and therefore are best placed to innovate and cost reduce in that field. These are the kinds of suppliers who are likely to fall into the important few category and the way to manage them is to recognize their expertise and try and capture it in support of your own business requirements. Thus the buyer should not tell this supplier how to do things. Rather they should discuss with the supplier what the need is to be satisfied and allow the supplier to use their own creativity to suggest solutions. Thus this kind of supplier is responsible for the design to meet a required functionality and appearance in a more interactive and considerate way. In evaluating this supplier’s value proposition the customer is less concerned about the unit price as other features are likely to be relatively more important. Plus the customer wants the supplier to make an acceptable profit margin so that they can survive and thrive together for the longer term.
+
+58
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Structural Feature
+
+Such suppliers are more like business partners or even family members and these social ties also make the relationship stronger and different to purely transactional contract management ones. Such relationships offer support when either party runs into difficulties and the networks created in this way can extend back to the supplier’s supplier and forward to the customer’s customer. They can provide a buffer against the occurrence of a major disruption (a supply failure elsewhere perhaps or a natural disaster impacting the production flow). Activating all of the collaborative wellbeing and mutual interest relationships to problem solve can allow all to cope with and mitigate the impact of traumatic events. Thus such suppliers provide not just the collective capability to provide customer satisfaction but longer term survival capability as well for both their immediate customer and that customer’s customer. The important few really are important and need to be treated that way.
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+59
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Structural Feature
+
+4.8	
+
+Peer collaboration
+
+In discussing the relationships between buying companies and their suppliers we are talking of a vertical relationship but cooperation can also occur horizontally between customer or supplier peers. For example it is quite possible for competitors in a final market place to cooperate with each other on the introduction of new products or standards, usually in the early stages of a new development when the technology for example is just being introduced to the market place. Often a new innovation will have different technical solutions and it is not clear in the early stages of its introduction which version will finally be accepted by the users in the market place. We have seen that repeatedly in new audio recording formats and it is not necessarily the most technically superior product that users decide to adopt. However remember the story of Apple and the IPod, IPhone and ITunes where the hardware and software innovations provided a package which the users liked and bought in great volume. In other situations peer competitors will often collaborate in the early non-competitive stages and then as the new standard becomes accepted in the market place will then revert to their competitive behavior and try to gain market share from each other by operating better to the now common standard. Similarly suppliers can cooperate with each other and this is a feature of the suppliers who are part of the Toyota supply network. In both of these situations however, and indeed in the vertical situations as well, there has to be care taken that cooperation does not degenerate into collusion against the consumers for this is a crime in many legal jurisdictions. Such cartels can operate against the public interest to keep prices higher than they would otherwise be to the benefit of the cartel members. The counter argument from those arguing in favour of the cooperative approaches discussed here is that the cooperation is intended to promote innovation and the reduction of real cost so that the offer to the consumer is enhanced rather than restricted. Of course the cooperating supply chain members are interested in beating the competing supply chain so that someone will lose relatively but that is the way of market competition. Here again it is important to think carefully about which companies to choose to work with and judge that they will enter into a cooperative agreement and behave according to the agreed rules.
+
+60
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Structural Feature
+
+4.9	Summary
+In this section we have discussed the decisions that have to be made on the supply side to match up to the decisions made on the demand side to satisfy the customer requirement. These decisions are sometimes rather fixed (public or private sector) and in others are much more a function of the analysis of the situation by the management teams at that point in time. There are few a priori correct answers but the need to make a decision and try and make the solution work, is an ongoing challenge. In this, some ways of thinking seem to be important. The need to see customers and suppliers as being part of an interconnected and collaborating supply chain raises the consideration set above just the employing company and requires more vision and commitment to a better way of working than has traditionally been the case when all other parties were regarded as enemies to be beaten and taken advantage of. As we shall see in the next section this also means that the people employed need to have new skills to operate complicated systems to make it all work as intended.
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+61
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Support System
+
+5	 Supply Side Infrastructure – Support Systems
+5.1	Introduction
+In this section we will discuss the background systems that can be used to fit the supply capability to the customer requirement before going on to discuss the kinds of skills needed by the people employed in this set of activities.
+
+5.2	
+
+Spend analysis
+
+In the relationship portfolio discussion we highlight the need to select customers and suppliers who contributed most to our income and expenditure and to then consider them for possible preferred status. The generic name for this kind of analysis is spend analysis because it is traditionally used on the incoming side rather than the customer facing side where marketing people would do a similar thing in their approach to market segmentation. We need to understand how we spend the money but goes to suppliers. The total size and spread over points of use and delivery routes needs to be examined. High spend does not necessarily determine that a supplier should be preferred since what is supplied is more important. That is, can it be sourced from others, is it something that is uniquely able to satisfy a particular customer requirement or is that supplier the market leader in this item? Total value is still a useful indicator that these other criteria should also be measured. In some cases the amount of money spent with this supplier will suggest investigating the possibility for preferred status and at the other end lots of very small expenditures with too many suppliers should suggest a need to rationalize and concentrate spend with fewer suppliers or indeed to have one supplier take over responsibility to manage these other suppliers on our behalf. While the concept is easy to understand many organizations find it difficult to implement. This is because their information systems have not been constructed or integrated enough so as to perform the analysis required. A degree of standardization in processes and naming protocols is needed so that any spurious differentiation of items that are in fact similar in their intended function, are avoided. This problem can go all the way back to a product design stage where it is often easier for an engineer to design a completely new part because the system is not good at identifying things which could perform the same function but have been named in a different way by another designer.
+
+62
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Support System
+
+Another issue is that different computer systems are often in place. In many cases this will be because companies grow by mergers and acquisitions and with the new organization comes different computer systems and identification codes and processes. Computer systems provided for one purpose do not often fit other purposes without much modification. For example an employee who occasionally is repaid some expenses by their employer can appear on the suppliers’ register of the employing company. The accountants who specified this system were interested in controlling the flow of funds out of the business and so this allocation made sense to them but not if the company is now looking for strategic partners in their supply chain and trying to do their spend analysis. Spend analysis is not usually difficult to do but does require time and effort and of course some computer systems make this easier than others. It is a very important first stage in the overall process of allocating resources where the impact is going to be greatest.
+
+5.3	
+
+Enterprise Resource Planning, e-business and compliance
+
+The operations and manufacturing world has evolved its planning and control approach from a focus on physical inventory counting and allocating to customers through various software generations of Material Requirements Planning (which essentially automated the physical inventory thinking) through to Enterprise Resource Planning where a suite of software program modules can be used to bring together all of the data needed to run a business internally and in collaboration with customer demand and supplier capability information. At one level it is just a higher level data processor but it can be much more. Capturing all of the data means that the physical world of product manufacturing can be allied with financial information for operating and capital expenses of all of the resources of equipment, systems and people along with customer commitments and supplier purchases. All of this can be put into a timescale so that implications and clashes of decisions can be foreseen and the decisions re-evaluated. All of this can be built into a computer model of the business in its environment and alternative decisions can be simulated in the computer before real time and potentially risky actual decisions are made and acted upon. Enterprise in this usage describes extending across the supply chain since the visibility is out towards the final market place and back upstream towards the suppliers. For the linked preferred customers and suppliers it is also possible to link their ERP systems so that they can to some extent automate decisions. For example, if stocks of product in a customer’s stores are running low the systems can connect and send a replenishment signal to the supplier.
+
+63
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Support System
+
+One of the key modules is called Sales and Operations Planning. This is the interface between demand and supply such that a sales commitment can only be made when the system simulation confirms that the supply side has the required capability to meet the delivery promise to the customer. In this way satisfaction has very high probability (massive disruption of some kind excluded) of being achieved in a planned, organized and routine way. This avoids the overpromising to close a sale that was discussed before when sales and supply do not coordinate. Such systems can be expensive to buy and pay for in operation, complex to set up and run the risk of being more complicated than many people can cope with so that management ‘feel’ is overtaken by a blind belief in what the computer output is indicating. As ever, there is a challenge to ensure that IT systems act to support and inform and do not obscure the ability of managers to create their own insights and systems understanding. Such data driven management approaches seem necessary in most businesses of any complexity and the trend as we have already indicated is for more of these initially individual systems to become more interconnected to mirror the inter-organizational relationship connections discussed.
+
+The stuff you'll need to make a good living
+
+STUDY. PLAY.
+
+The stuff that makes life worth living
+
+NORWAY. YOUR IDEAL STUDY DESTINATION.
+WWW.STUDYINNORWAY.NO FACEBOOK.COM/STUDYINNORWAY
+
+64
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Support System
+
+As the spread of ERP systems increased more attention was brought to bear on the wider possibilities of performing most inter-organizational communications electronically. In EU procurement nearly everything is electronic from the initial announcement that a contract may be offered to the market from a buyer through to all of the tender documents, calls for clarifications from one supplier and the answers (questions and answers shared with all bidders for reasons of equal treatment), through to final contract award and any information about challenges and decisions. Face to face meetings will still have some place in this (especially to make the buyers comfortable that a bid document is supported by real and credible people), but electronic business is just so much quicker and should be subject to fewer human errors in the transcription processes. However the human element should increase in the preparation for the tender process and in the care with which impartial evaluations are used in making an award. Once the contract is in place, invoicing and payment can also be automated permitting more effective use of the planning, checking and rectification resources for invoice errors or badly communicated plans. In all such situations suppliers with multiple customers can run into other problems as they try to align their internal computer systems with their varied customers and their varied systems. There is an inherent waste in such mismatches and this can be an added burden on a small supplier. We are not yet in a world where different computer systems can interface seamlessly. This is further complicated by the inherent complexity in some of the large ERP systems where the internal lack of detailed understanding of assumptions and design rules makes it more problematic for the customer representatives to offer much in the way of support to their supplier colleagues. This might well be one of the hidden costs of the buy option to be put in the overall balance of benefit. Compliance has a number of meanings. In the next section we will discuss a product’s production being in compliance with the designed specifications. In the procurement world compliance is used in a different context.
+
+65
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Support System
+
+When buyers are considering their sourcing strategies and getting ready to either advertise a tender process or begin to enter into discussions with suppliers, one key metric for the supplier will be the volume of demand that is being purchased. Buyers often aggregate the demand over a number of buying units where they can to build up the volume they will negotiate about. For the potential supplier more is frequently better since the benefits of scale can come into play and they can afford to run their production processes for longer before stopping (and losing economic output) to make changes to another product order. In this way the costs of set up are spread over many more parts thus reducing the per unit cost and allowing them to charge a lower unit price to the buyer. It is however very unfair if the negotiations were based on one level of demand when the actual outcome is that demand is always at a lower level. Suppliers are bound to complain about the treatment from the customer organization if this happens. Procurement departments are therefore interested to monitor how accurate their internal clients (the using departments) were in estimating their expected demand on which these contracts were established. In most contracts there will be an agreed obligation to keep a record of the actual orders demanded of the supplier to check up on these details. Procurement departments have other problems however not related to different orders to the agreed supplier. This is where important (perhaps too self important) managers decide that the deal agreed through procurement does not in some way meet their requirements and therefore choose to buy from another supplier who they see as offering something better. This is called ‘Maverick buying’ as it is out of the control of the procurement department and is not in compliance with the agreed supply contract. It reduces the money that the legitimate supplier was expecting and puts at risk their belief in any volume demand numbers supplied in future contract discussions. In this circumstance the procurement group has to act to support their supplier against the actions of the mavericks in their own user group so that it will be possible to build longer term interactions with these important suppliers. E-business processes can aid this greatly for the procurement department. If the ERP systems and the communications processes are managed so that the work flow needed in order to get orders raised on suppliers and payments made to outside people are all controlled by the system then proper oversight of planned actions and decisions are possible. In effect the skill is to design the systems so that it is easier to do what was planned and contracted for and impossible to operate in any other way.
+
+66
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Support System
+
+By these means the mavericks are starved of their freedom and are obliged to follow the corporate path that the rest of the key stakeholder buying group has decided is appropriate. If the deliveries do not in reality suit the users needs then this is serious and corporate processes are needed to redefine or renegotiate contracts but in a controlled and reasoned way in which the interests of the incumbent supplier are also recognized. After all, we might have taken a long time and a lot of effort to get to the point of having this supplier in place and functioning well so we cannot afford for a few mavericks to put this at risk.
+
+5.4	
+
+Product data management and product lifecycle management
+
+We have previously argued that the importance of design is indicated by the fact that all choices of materials, manufacturing methods, initial quality and performance standards and many other factors are determined at this stage and changes made later in the product’s life can be more difficult and expensive to make. If we then decide to outsource the production of these items to our suppliers then we are putting our future literally into their hands. Again electronic systems make sense here to avoid any miscommunication issues.
+
+I joined MITAS because I wanted real responsibili� I joined MITAS because I wanted real responsibili�
+
+Maersk.com/Mitas www.discovermitas.com
+
+�e Graduate Programme for Engineers and Geoscientists
+
+�e G for Engine
+
+Ma
+
+Real work International Internationa al opportunities �ree wo work or placements
+
+Month 16 I was a construction Mo supervisor ina const I was the North Sea super advising and the No he helping foremen advis s solve problems Real work he helping fo International Internationa al opportunities �ree wo work or placements s solve pr
+Click on the ad to read more
+
+67
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Support System
+
+One great feature of electronics processes is the need to describe everything digitally. This starts from the computer design screen which creates the first set of agreed digital specifications. These same digital specifications can be used to purchase materials, processes and allocate equipment. This equipment will use the same digital instructions to drive their production machines and automated quality testing machines (using the same information) can then inspect the goods to ensure compliance to the design specifications. The series of interconnecting loops are all managed and controlled by one set of digital codes. In a world where changing customer requirements and evolving technologies means that making sure everyone in the extended chain is operating with the same set of design revisions becomes crucially important and very expensive to get wrong. A simple demonstration of the problem is the example of Airbus in 2006 when they hit a major problem when they could not fit together parts of the A380 airliner. This had been designed and made in different factories but using different versions of the same design software. It cost millions of dollars and took lots of time to fix. Product data management describes the processes need to specify and control all of this data and avoid the Airbus issues. It can be extended into product lifecycle management since the thinking about how to recover products at the end of their first life in order to repurpose, recycle, recover or reuse the basic materials, can allow the product to take on different functions as part of a second or subsequent life. This is addressing one of the sustainability challenges. In order to facilitate these options it is also necessary to think about the end of life stages when the product is being first designed and make such value recovery from the product as easy as possible for people who perhaps have had no active involvement with the product until then. This can be aided by effective information provision and part identification in the product itself. There might therefore be one supply chain to produce the product the first time and satisfy the first set of customers and users’. Another supply chain might collect these products at the end of their first life and bring them back to another supply chain to do the recovery and recycling process and then another supply chain to take the latest incarnation to a new market. At some stage a new set of digital specifications will be generated to fuel the next turn of the cycle.
+
+68
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Support System
+
+5.5	Logistics
+Customer satisfaction is clearly not easy. We have tried to understand what they want, designed and specified it, sourced it or produced it and now we have to complete the lifecycle, at least for the first life. In order to do this we have to add some further utilities to our value proposition. This is where the logistics function takes over to deliver place, time and security utilities. In other words, the customer requires to have what they asked for in product and/or service delivered to the point where they want it (place) at the time that they want it (time) and in the condition in which it was produced, ready for the customers to take use or ownership of it (security). However, while many of the words of logistics can fit to some degree to less tangible things much of the discussion has grown up around physical product travelling over physical distances from source to use. However the more digital the product or service and the more it can be transmitted wirelessly, then the lower the traditional logistics barriers are, in actual practice. There is in logistics however the concept of the last metre or yard. This relates to the speed at which some of the processes can be accomplished if supported electronically but that it might all depend on whether the customer is at home and able to open the door to receive the order as it physically crosses the last metre across the doorstep. This aspect is still a challenge for home shopping channels and there are all sorts of different order collection solutions being tried in different market places. The logistics processes and planning approaches need to interface with all of the upstream activities from sourcing through manufacturing and out through warehousing and distribution channels to reach the end customer. Physical movement implies some physical constraints however. All of the means of carrying goods and people have limits on their capacities and performance and similarly the routes along which these carriers move are also subject to controls and limitations. Some aspects lend themselves to moving materials in bulk or agglomerated formats and others to moving smaller quantities or even small parcels and letters. There are therefore different modes of transport: road, rail, rivers, canals and oceans with different means and capacity sizes. Generally speaking the largest distances are covered by water in large container or liquid/gas tanker ships. Other bulk items can move effectively on the fixed paths represented by rail systems. Fastest, but in smaller quantities, are by air while the most flexible are based on road vehicles of enormous variety. All such movements are inherently wasteful of the energy resources they use and polluting of the atmosphere so we are keen to reduce this impact where we can.
+
+69
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Support System
+
+Global supply chains increase these concerns especially when climate effects are also brought into consideration. Large distances from source to intermediate or even final customer also increase the opportunities to experience a disruption risk to the supply chain. While natural and man made disasters can have a major and immediate local effect a disrupted supply chain can cause a business great pain or to fail through failure to deliver to key customers at crucial times in the buying cycle. Shipments of smaller electronic goods coming through (or not if there is a problem) one or other of the ship canals around the world can be critical if it happens just ahead of a key holiday gift buying period with no chance to fill the shelves before customers go elsewhere. This happened a few years ago when a container ship full of computer games was stuck for two days in the Suez canal behind another ship that had lost control of its steering and went sideways in the canal. This describes a buy for stock situation that will always happen in such markets, for example new toys or computer games, when it is impossible to fully predict how buyers will react to the new offers and actual demand can fluctuate too widely to be followed by the production process. In these circumstances the suppliers can only guess as best they can and try and build stocks in anticipation. If demand greatly exceeds their plans they often cannot react to the opportunity and lose sales to their competitors.
+
+Need help with your dissertation?
+Get in-depth feedback & advice from experts in your topic area. Find out what you can do to improve the quality of your dissertation!
+
+Get Help Now
+
+Go to www.helpmyassignment.co.uk for more info
+
+70
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Support System
+
+If we imagine all of the physical flows of materials from source through many intermediate steps until in a finished format and then along all of the possible distribution channels to reach a final consumer then we can see a very pressing need to coordinate all of these and see if we can be more efficient. One of the abiding problems in logistics or freight transportation is that it is often relatively easy to fill a vehicle going in one direction but often much more difficult to fill it on the way back and often for much less money. Keeping vehicles full and operating along traffic free and unhindered routes is the goal of logistics managers while keeping their drivers and vehicles from accident and high-jacking is a constant stress for all involved in the logistics system. Technology is also helping here as GPS monitoring and associated scheduling software can produce and update a planned route in real time as changes emerge. It is also possible to track and trace more items as time goes by. Individual assets can be tracked by electronic tags for monitoring at sensing stations and increasingly we are talking about the internet of things (IOT) which will be capable of identifying themselves to other items and to planning and supervisory computer systems so that even more of the assets involved in the complex flows can be usefully coordinated to mutual advantage. This work is similar to the developments in driverless cars and faces the same kinds of issues of requiring collaborative and coordinated action across very many different organizations so that something meaningful can be introduced. A relatively new challenge is the re-cycling one. We have discussed some aspects of thinking through the design so that this is possible but now we have to design a logistics system capable of collecting these end of first life products and bringing them back for evaluation, sorting and re-processing in some way. The challenges involved in designing and operating these supply chains effectively and with economic value are large but are being to be addressed at different rates in different countries. Being able to continue to make new products without a great need to extract more raw materials from our finite planet is the opportunity and the base of the business case to invest in these developments. The further new technology with the potential to disrupt much of this is 3D printing or additive manufacturing. In this, complex shapes are progressively formed in near final dimensions through various processes which involve adding and forming materials into a computer controlled, three dimensional space and thus it produces the complete item with no need to create joins or in some cases hinges. This has the potential not just to reduce material usage and waste but also to change the need for factories and distribution systems. In effect we might in some cases go straight from co-design with a customer to producing their artifact in a mobile unit brought to their place of need. Increased variety can be easily catered for and changes to design are simple to do.
+
+71
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Support System
+
+It might not solve all of the re-cycling problems since there are few parts that can be reused in other products but that concern is still some way ahead in time before it becomes significant. This concludes our look at the systems which the company can use to match the supply capability to the customer requirement. Now we need to look at the kinds of skills that are needed for the people who are going to work in these critical areas of the business.
+
+5.6	
+
+People skills
+
+Historically the procurement role in companies was not regarded as a high status career destination so that many who ended up working there had been other places before and often not too successfully. The work was very transactional involving placing orders that others had decided upon but this book has argued that this is no longer a sensible way to recruit into the procurement function. In somewhat similar ways contracts have been seen in the past as the area where legally trained people (if not necessarily full lawyers) would be employed, again to finalize decisions made by others. Of course a number of years ago no one would have talked of supply chain managers or logistics managers rather there would have been talk of materials managers and freight managers. This book has been arguing overall for a much more integrated and less functionally controlled way of working which extends beyond the boundaries of the focal business to work with customers and suppliers. This requires systems development to span the former large no mans land between functional areas. It crucially depends on people who have or have had developed a set of skills in which the ‘big picture’ is always in focus and in which complimentary and necessary capabilities are actively engaged regardless of where they come from in an organization or indeed which organization they come from as long as it is part of the required supply chain linkages for the customer need which has been identified and for which the supply system is begin aligned. These people skills will also be subject to more modification going forward as increasing levels of data automation and computer assisting decision making or even autonomous machines being to appear in greater quantity.
+
+72
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Support System
+
+Some aspects of the emerging thinking machines or artificial intelligence applications will make some memory and experience based human skills less important as the computer network will be able to provide base information more readily and reliably. Already a number of professional skilled groups are talking about this impact. For example the legal profession is thinking carefully how their world of influence might change if easier access to case law or statute could be provided and the information interpreted independently of the human intermediary. This is no different to what we are all doing in reacting to a medical diagnosis where the first thing we do is check the spelling of what the doctor said so that we can search Google more effectively to see what the symptoms, prognosis and potential treatments and outcomes can be. In this way we hope we can have a more informed discussion about options with the clinicians. So what kinds of skills can we forecast will still be needed for a few years yet?
+
+73
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Support System
+
+5.6.1	
+
+Relationship skills
+
+Relationships are everywhere but in the business sense they have an overarching purpose which should never be overlooked. Relationships are intended to operate so that the desired level of performance can be delivered and maintained. This is not about being nice to each other but certainly we need to consider the other’s point of view and see them as partners in the venture not adversaries. If we can do that in a way that is more nice than nasty, then all to the good. Nasty can sometimes work to shock and change perceptions but it is unlikely to be sustainable over any longer period of time and should surely be reserved for ‘all else has failed’ situations. This of course is with customers and suppliers with whom you want to continue to work for some time. (If it really is only a single opportunity, taking short term advantage is actually the rule of the competitive market place so it still has a place in the playbook but should certainly be used much less frequently than used to be the norm.) This change in attitude can be difficult for long established personnel who have been trained in, and rewarded for their excellent practice in, the old ways. Managers of such people have the challenge of trying to instill new ways of thinking and acting in such people or reallocating them to the ‘nasty’ group and finding new people to develop into the ‘relationship’ group. Of course these relationships can be externally focused towards suppliers and indeed key customers but internal relationships are every bit as important. There is no prospect of succeeding in our aim of supply chain alignment to deliver customer satisfaction if the different factions inside our business are effectively at war with each other or are playing the game of ‘I am more important than you’. There has been too much of this between different professional groupings and their external professional bodies all claiming the complete corporate agenda but driven only by themselves and their limited membership. The only person who should and has the right to drive our business agenda is the customer and as long as their satisfaction is obtained at an economically acceptable value to us then why should it matter that for customer A engineering were very important whereas for customer B it was supply chain delivery. The key mind set is to see the opportunity to bring together multiple skills to meet a customer requirement effectively for all concerned as more important than little arguments about relative status at different points in the chain. 5.6.2	 Contract management related skills
+
+There are ongoing discussions about which is more important or comes first, the relationship or the contract. Too often contracts are definitions of what can go wrong and who pays whom in compensation when it does go wrong. As a form of insurance policy this has some merit and again when all else has failed and the business interaction is going to stop it can be very important to have a means to recover some of the costs involved to date. In business terms of course it is usually too late to do anything other than mitigate the losses since there is unlikely to be any further interactions between such aggrieved parties.
+
+74
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Support System
+
+We know of long term business partners who never have had a formal contract and their business interactions carry on satisfactorily year after year but sometimes it is better to clarify and define how the parties have agreed to behave and how they will arbitrate on any disagreements. Some cultures of course still put enormous burdens of expectations on the promises made between two business representatives so here the formal contract is less important. The social contract is of course hugely important. There is an argument that the interactions and reciprocal obligations of the business relationship need to be fully defined, understood and agreed so that a formal contract can be written simply and quickly to capture this understanding. If this is done the hope is that the formal contract will be locked away never to be referred to again since the behaviours will follow the agreed paths. The insurance policy is still available in this scenario however. As discussed above, contract management and learning the lessons from the contract performance is an important part of the contract lifecycle and skills and commitment area needed to perform as agreed, record and analyze any emergent issue not anticipated, negotiate and agree any required modifications and learn how to define things better in the next contract. The skills and comfort in operating in the twin regions of relationships and contracts are core to all commercial activities. This also suggests that any manager looking to move up the corporate ladder would do well to spend some quality learning and experience time actively involved in these aspects. In this business activity there are so many aspects of the complete business all interacting so that a deep understanding of the possibilities and dangers in the interconnected world becomes evident here very quickly. Any new recruit into business should spend some formative time in this are to obtain a real feel for what the business is all about. When they move to other areas to build their career they will carry this understand of what important contributions can be made from this area that they will themselves be more informed and demanding internal clients looking for better supply solutions. 5.6.3	Selling In the same way as everyone knows something about buying then we all know something about selling. Perhaps we do not talk about it in this way in our part of the business but the more we are involved in trying to influence or persuade someone to agree with our analysis, the more we are engaged in a selling process. Professional sales people go through intensive training, learn how to simulate issues and opportunities and how to play the negotiation game to maximize their perceived benefits from the process. At the very minimum the people on the buying side should be at least as skilled. However, if we can reach the integrated ideal of the aligned supply chain and delivered customer satisfaction we have been discussing, the objective will not be to take unfair advantage of a less skilled negotiator, it will be to ensure that the very best mutually acceptable solution has been reached.
+
+75
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Support System
+
+In order for this to happen we need to make sure that our suggestions are formed in the language of business so that a new idea is justified on the contribution it can make to the objectives of our own business while contributing to our customers’ objectives and those of our supply network partners. Thus selling of our ideas has to be based on the language of business, which is money. There will of course be many other factors to be built in but if at the end of the process there is not a believable financial return on the investment commitment, then no business person, acting rationally, will agree. This is true for all of the key players in the extended network. One of the skills needed therefore is the ability to get close to all of the clients and customers internally and externally as well as with the key suppliers, empathise with their situations and gather and share appropriate information with them so that all angles are considered and try and perform this enormous juggling act we have discussed to an all round satisfactory outcome. The juggling will involve the gathering and analysis of quantities of financial and performance data to be brought together into a coherent plan and then ‘sold’ to all the participants. This skill, almost on its own, is well worth taking time to experience and become proficient in so again the career professional should be looking for these opportunities. Of course teams are fundamental to everything we are describing so the selling is even more important inside the designated team and being an effective team player is built into this profile as well.
+
+Brain power
+
+By 2020, wind could provide one-tenth of our planet’s electricity needs. Already today, SKF’s innovative knowhow is crucial to running a large proportion of the world’s wind turbines. Up to 25 % of the generating costs relate to maintenance. These can be reduced dramatically thanks to our systems for on-line condition monitoring and automatic lubrication. We help make it more economical to create cleaner, cheaper energy out of thin air. By sharing our experience, expertise, and creativity, industries can boost performance beyond expectations. Therefore we need the best employees who can meet this challenge!
+
+The Power of Knowledge Engineering
+
+Plug into The Power of Knowledge Engineering. Visit us at www.skf.com/knowledge
+
+76
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Strategic Analysis of Supply Chain Design
+
+Supply Side Infrastructure  –  Support System
+
+5.6.4	
+
+Continuous Improvement
+
+One of the foundational principles of the quality movement applies here and that is the belief that the journey towards perfection is a valid and sensible one to undertake in every aspect of one’s existence. In business it translates to ‘tomorrow must be better than today’. Of course we will always have a challenge to define better. In the capable supply chain there are so many dimensions and there might need to be some shifting of priorities sometimes but performance on the overall path must improve. At one level this sounds very difficult indeed but it is no more than any athlete, musician, craftsperson or artist does all the time. We need to see our business challenges in the same fashion as do these creative and motivated people and always strive for our own ‘personal best’ performance. Given the increasing level of complexity, the appearance of artificial intelligence and big data and its opportunities to build understanding across an ever wider field of activity, perhaps the ultimate continuous improvement challenge is to embrace these emerging technologies and really look for ways in which they can aid in managing this complex and highly dynamic environment.
+
+5.7	Summary
+We have looked at a variety of the support systems which are available to all businesses if they choose to spend their investment money carefully. This book has argued that these decisions should not be made from a functional efficiency argument inside procurement or contract management rather they need to be made by a global look at the relationships between the customer requirements and how we can satisfy and sometimes delight them while providing a support network extending outside our ownership boundaries which is considerate of each partner’s requirements and capabilities to produce a coherent and reliable plan to deliver these objectives. Systems can change over time but what really makes the difference are the ways in which people think. It is here that the real challenge is located for if we are in an existing business a number of our people will face the need to make real changes in their attitudes and behaviours and we will need to provide training and support (if we have time) to try to bring such people along with the new direction. If this is not possible we have to recruit and train in the new ways of thinking from the beginning but recognize that in such a dynamic world we need to keep checking that we have still analysed the situation appropriately or we need to plan for another set of realignments. We have now reached the end of these sub-sections of our topic so let us now attempt to bring this together into some coherent and implementable messages and general operational principles.
+
+77
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Conclusions and recommendation
+
+6	Conclusions and recommendations
+This book has tried to provide a wide overview of a very complicated and challenging business environment. Many changes of high frequency occur in this environment and the managers of today and tomorrow need to be thinking and acting in new ways to gain satisfaction for their customers and success for their business objectives. With so much variety it is impossible to dictate from outside of a particular context what range of approaches will be suitable and likely to succeed. We know that narrow self interest either of one company or of a manager’s group internal to a company is not conducive to long term success. This means that one of the biggest challenges is to think about the ‘big picture’ and to see all of the players, their agendas and possible actions and to find some way in which these can all be orchestrated so that most of the people are satisfied as far as the economic system will allow. This is non trivial and many currently engaged in these businesses will not have been trained to think or act in this way but that just emphasizes the opportunity that is presented here. A supply chain that can make this work to create multiple reciprocal benefits with its supply chain partners will create a competitive capability to create customer satisfaction which few other chains will be able to live with. Their ultimate customers can be sure of the very best of product and or service delivered in reliably high quality, just as they requested it. Such customers tell their friends and buy again repeatedly. The investments to create this capability in the first case will reap dividends over many iterations in the future. This will never be easy, the need to continuously improve and innovate to keep ahead of the chasing packs of competitors will see to that. Neither will it always be completely comfortable since built into this thinking is the same need to continuously improve in all of the business to business interactions, in the plans and communications and in the right to challenge the other party to live up to their promises but also to explain their thinking and recommendations for actions. This is built on the principles of cooperation rather than conflict, of consideration rather than contempt and of shared destiny and shared effort and reward. Getting to agreement on all of these factors will also not come easily or indeed quickly the first time so success has to be planned for, measured and rewarded and also celebrated.
+
+78
+Download free eBooks at bookboon.com
+
+Strategic Analysis of Supply Chain Design
+
+Conclusions and recommendation
+
+This worldview works when hearts and minds want it to because it is a better way for people to interact and because it makes business sense. It does this because the wastes of getting all of these processes wrong or less than they could have been are wastes to the businesses involved, wastes of the energies of the people trying to do their best in difficult circumstances and wastes to society for resources of all kinds dispersed in the noise and failure which could have been devoted to other meaningful ones. The sentences below are an attempt to highlight some key messages covered in this book. Hopefully it will stimulate you to think seriously about some of these issues and to explore, both in further reading and in practice, what can be made sense of in your own environment and what you are inspired to experiment with to test the bounds of the possible. You might be surprised how many of the people you talk to have been longing for this conversation to take place. 1.	 Financial success needs to be obtained ethically if there is to be a sustainable future 2.	 The unit of analysis and of implementation is across the extended chains back from the final customer through all of the interconnected and interdependent supply chains 3.	 Customers are part of the process to define and coproduce value as seen and paid for by them 4.	 Different customers have different requirements and must have different supply solutions, created from an extensive range of strategic possibilities, to satisfy their needs 5.	 The competitive chain is always a threat and any first mover advantage needs to be used carefully 6.	 Order winners allow customer to choose but qualifiers have to be met and order losing sensitive qualifiers need great care 7.	 All other things being equal, price will still be important but design has the capability to change everything 8.	 Everything structural and physical can change given time, resource and will but the right attitudes will always win The challenges of organizing and working in the ways described are large and you will need supporters to join with you in the adventure but the opportunities for corporate and personal success are many. Good luck in your endeavours.
+
+79
+Download free eBooks at bookboon.com
+

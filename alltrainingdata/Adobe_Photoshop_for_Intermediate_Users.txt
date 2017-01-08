@@ -1,0 +1,1450 @@
+Adobe	Photoshop	for	Intermediate Users
+Steve	Bark
+
+Download	free	books	at
+
+Steve Bark
+
+Adobe Photoshop for Intermediate Users
+
+2
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users © 2012 Steve Bark & bookboon.com ISBN 978-87-403-0089-5
+
+3
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Contents
+
+Contents
+	 About the Author	 6 7 8 18 25 34 38 45 54
+
+	Introduction	 1	 2	 Adobe Bridge and Mini Bridge	 Camera Raw	
+
+3	Transformations	 4	 5	 6	 7	 Smart Objects	 Layer Styles 	 Vector Tools and the Paths Panel	 The Brush Tool & Brush Panel	
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users 8	 9	 10	 11	 12	 13	 Layer Masks and Clipping Masks 	 The Cloning and Healing Tools	 Selections 	 Image & Canvas Resizing 	 The Filter Gallery	 More on Layers 	 60 70 74 80 84 87
+
+Contents
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users
+
+About the Author
+
+About the Author
+After leaving school in Sheffield, UK, Steve worked in the print industry for 10 years before being made redundant. He decided to return to education and completed courses in many subjects including Information Technology, Business and Finance, Sound Engineering and Music Production, Science and a BSc. in Biomedical Science. After graduating, Steve had several jobs in various scientific fields including immunology and developmental genetics, during which time he developed a keen interest in digital imaging which progressed into an interest in creative Photography. After his current contract had expired, he undertook a course in Photoshop Artistry at the University of Sheffield. He soon realised that he had already amassed a great deal of knowledge in this field and knew more about image editing and processing than the lecturer. The lecturer asked if Steve would take over in teaching the course as he was leaving for another position. He contacted the University and was given a position as an associate lecturer teaching Photoshop Artistry, Computer Graphics and Advanced Digital Imaging. Steve taught at the University of Sheffield for three years and then decided to pursue a career in providing bespoke training and consultancy in Photoshop and Digital Photography. He has continued in this role for the past seven years. Steve remains an avid consumer of knowledge and education and has completed over thirty online courses and has become an Adobe Certified Expert in Photoshop and a respected Photographer in his own right.
+
+6
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Introduction
+
+Introduction
+This is the second book in this series, written to help develop essential skills in using Adobe Photoshop. This book is for people who have an understanding of Photoshop’s basic functions and would like to build on that knowledge. We will build on the basic skills covered in the previous book and we will also be taking a look at several new tools, adjustments, editing methodology and workflow options. We will also cover two ancillary programs that ship as part of the Photoshop package – Adobe Bridge and Adobe Camera Raw. Photoshop is a large and complex program, and as such, requires practice and patience to develop the skills required to be an effective user. I encourage you to use these three books as a starting point and go on to develop your own workflows and techniques.
+
+7
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Adobe Bridge and Mini Bridge
+
+1	 Adobe Bridge and Mini Bridge
+Before we get to Photoshop, it is important to take a minute to explore the image editing workflow, fig1.1. When you install Photoshop, a second program called Adobe Bridge is also installed automatically, along with an editing plugin called Adobe Camera Raw (ACR). Adobe Bridge acts as a digital light-table and allows you to organise, categorize, filter and edit all of the media on your computer. From Adobe Bridge it is possible to choose to open a document with any of the Adobe suite of programs that support that file type. If the image is a raw, jpg or tiff (flattened) file, it can also be opened in Adobe Camera Raw.
+
+Fig. 1.1 recommended image editing workflow
+
+In many cases all of the editing for a particular image can be performed in the Camera Raw plugin (see the section on Camera Raw). If further editing is needed, or you wish to print an image, you may then choose to open the image in Photoshop. Adobe Bridge can be opened from the same program folder as Photoshop. If you already have Photoshop open, you can access Bridge or Mini Bridge by clicking on one of the following icons located in the top left corner.
+
+8
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Adobe Bridge and Mini Bridge
+
+Fig. 1.2 a full screen shot of the Adobe Bridge
+
+9
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Adobe Bridge and Mini Bridge
+
+Bridge Panels and Workspaces
+As you can see in fig 1.2, the Adobe Bridge contains many tabbed panels. These panels may be opened or closed from the Window menu. As with Photoshop, you can drag the panel tabs into new locations or groupings and save the new layout as a custom workspace. To save a Workspace, go to the Window menu > Workspace and choose the New Workspace option, fig 1.3.
+
+Fig 1.3 save your Workspace in the Window menu
+
+Adobe Bridge comes with many preset Workspaces, each one designed with a particular operation in mind, as you can see from their names, fig 1.4.
+
+Fig 1.4 you can switch between several preset Workspaces by clicking on its name in the options panel.
+
+10
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users Useful panels include:
+
+Adobe Bridge and Mini Bridge
+
+WĂŶĞůEĂŵĞ &ĂǀŽƌŝƚĞƐ &ŽůĚĞƌƐ &ŝůƚĞƌ  ŽůůĞĐƚŝŽŶƐ
+
+ǆƉŽƌƚ ŽŶƚĞŶƚ WƌĞǀŝĞǁ DĞƚĂĚĂƚĂ <ĞǇǁŽƌĚƐ  
+
+WĂŶĞů&ƵŶĐƚŝŽŶ ^ĂǀĞƚŚĞůŽĐĂƚŝŽŶƐŽĨĂůůǇŽƵƌǁŽƌŬĨŝůĞƐĂƐ&ĂǀŽƌŝƚĞƐĨŽƌ ƋƵŝĐŬĂŶĚĞĂƐǇĂĐĐĞƐƐ͘ dŚŝƐƉĂŶĞůŝƐƵƐĞĚƚŽŶĂǀŝŐĂƚĞĨŽůĚĞƌƐŽŶǇŽƵƌ ĐŽŵƉƵƚĞƌ dŚŝƐŝƐĂǀĞƌǇƉŽǁĞƌĨƵůĨĞĂƚƵƌĞĂŶĚĞŶĂďůĞƐǇŽƵƚŽũƵƐƚ ƐŚŽǁƉĂƌƚŝĐƵůĂƌŝŵĂŐĞƐ͘&ŽƌĞǆĂŵƉůĞǇŽƵŵĂǇǁŝƐŚƚŽ ĨŝůƚĞƌǇŽƵĚŽĐƵŵĞŶƚƐďǇĚĂƚĞ͕ĐĂŵĞƌĂƵƐĞĚ͕ƐŚƵƚƚĞƌ ƐƉĞĞĚ͕ĨŝůĞƚǇƉĞ͕ŽƌŝĞŶƚĂƚŝŽŶĂŶĚŵĂŶǇŽƚŚĞƌĐƌŝƚĞƌŝĂ zŽƵĐĂŶĐƌĞĂƚĞŽůůĞĐƚŝŽŶƐƚŽŐƌŽƵƉĐĞƌƚĂŝŶƚǇƉĞƐŽĨ ĚŽĐƵŵĞŶƚƚŽŐĞƚŚĞƌ͘&ŽƌĞǆĂŵƉůĞ͕ĐĂŵĞƌĂƵƐĞĚ͕ĨŝůĞ ŶĂŵĞ͕ǇĞĂƌƐŚŽƚ͕ǀŝĚĞŽĂŶĚĂŶǇƚŚŝŶŐƚŚĂƚǇŽƵǁŝƐŚ͘ zŽƵĐĂŶĂůƐŽĐƌĞĂƚĞ^ŵĂƌƚŽůůĞĐƚŝŽŶƐ͘ŽĐƵŵĞŶƚƐǁŝůů ďĞĂĚĚĞĚ^ŵĂƌƚŽůůĞĐƚŝŽŶƐďĂƐĞĚŽŶƉƌĞĚĞĨŝŶĞĚ ĐƌŝƚĞƌŝĂ͘ hƐĞĚƚŽƐĂǀĞĂŶĚďĂĐŬƵƉĚŽĐƵŵĞŶƚƐ͘ ŝƐƉůĂǇƚŚĞŽŶƚĞŶƚƐŽĨĂĨŽůĚĞƌ WƌŽǀŝĚĞƐĂWƌĞǀŝĞǁŽĨƚŚĞĚŽĐƵŵĞŶƚ͘ sŝĞǁĂůůŽĨƚŚĞŝŶĨŽƌŵĂƚŝŽŶĂƐƐŽĐŝĂƚĞĚǁŝƚŚĂ ĚŽĐƵŵĞŶƚŝŶƚŚŝƐƉĂŶĞůŝŶĐůƵĚŝŶŐĐĂŵĞƌĂ;ǆŝĨͿĚĂƚĂ͘ ƐƐŝŐŶ<ĞǇǁŽƌĚƐƚŽĚŽĐƵŵĞŶƚƐƚŽŚĞůƉĨŝůƚĞƌĂŶĚ ŽƌŐĂŶŝƐĞƚŚĞŵ͘
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+11
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users
+
+Adobe Bridge and Mini Bridge
+
+Preferences
+The Bridge Preferences can be found in the Edit Menu and are grouped according to function, fig 1.5.
+
+Fig 1.5 the Adobe Bridge Preferences dialogue box.
+
+12
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Adobe Bridge and Mini Bridge
+
+WƌĞĨĞƌĞŶĐĞ'ƌŽƵƉ 'ĞŶĞƌĂů dŚƵŵďŶĂŝůƐ WůĂǇďĂĐŬ DĞƚĂĚĂƚĂ <ĞǇǁŽƌĚƐ >ĂďĞůƐ &ŝůĞdǇƉĞƐƐŽĐŝĂƚŝŽŶƐ ĂĐŚĞ ^ƚĂƌƚƵƉ^ĐƌŝƉƚƐ ĚǀĂŶĐĞĚ KƵƚƉƵƚ
+
+&ƵŶĐƚŝŽŶ hƐĞƌ/ŶƚĞƌĨĂĐĞĂƉƉĞĂƌĂŶĐĞ͕ůŝĐŬĞŚĂǀŝŽƵƌĂŶĚ &ĂǀŽƌŝƚĞƐ ^ĞƚŵĂǆĨŝůĞƐŝǌĞ͘ĞĨŝŶĞŵĞƚĂĚĂƚĂƚŽďĞƐŚŽǁŶǁŝƚŚ ƚŚƵŵďŶĂŝůƐ sŝĚĞŽĂŶĚƵĚŝŽƐĞƚƚŝŶŐƐ ŚŽŽƐĞƚŚĞƚǇƉĞŽĨDĞƚĂĚĂƚĂƚŚĂƚŵĂǇďĞǀŝĞǁĞĚŝŶ ƚŚĞDĞƚĂĚĂƚĂƉĂŶĞů͘ <ĞǇǁŽƌĚŝŶŐŽƉƚŝŽŶƐ͘ ĞĨŝŶĞĐƵƐƚŽŵŶĂŵĞƐĨŽƌĐŽůŽƵƌůĂďĞůƐ͘ ƐƐŝŐŶĚĞĨĂƵůƚƉƌŽŐƌĂŵƐƚŽƐƉĞĐŝĨŝĐĨŝůĞƚǇƉĞƐ dŚĞĂĐŚĞĐŽŶƚĂŝŶƐĚŽĐƵŵĞŶƚƉƌĞǀŝĞǁƐ͘^ĞƚƚŚĞ ĂĐŚĞŽƉƚŝŽŶƐŽƌƉƵƌŐĞƚŚĞĂĐŚĞƚŽĨƌĞĞƵƉŚĂƌĚĚƌŝǀĞ ƐƉĂĐĞ͘ ^Ğƚ^ĐƌŝƉƚƐƚŽƌƵŶĂƵƚŽŵĂƚŝĐĂůůǇǁŚĞŶĐĞƌƚĂŝŶƌĞĂƚŝǀĞ ^ƵŝƚĞƉƌŽĚƵĐƚƐĂƌĞůĂƵŶĐŚĞĚ͘ DŝƐĐĞůůĂŶĞŽƵƐƐĞƚƚŝŶŐƐĂŶĚ>ĂŶŐƵĂŐĞŽƉƚŝŽŶƐ ĚǀĂŶĐĞĚŽƵƚƉƵƚŽƉƚŝŽŶƐ͘
+
+Labelling and Ranking Images
+If you have a folder containing a large number of images, you can go through them and quickly assign a label or star rating (fig 1.6) to the image so that you can use the filtering options to just select certain images. To assign a star rating, click on the dots beneath the image or right click on the image in the Preview panel. You can also assign a star rating by using the keyboard shortcut Cmd/Ctrl (Mac/PC) + 1-5. To assign a coloured label you may either right click on the image in the Preview or Content panels (in the Labels submenu) and select the appropriate label, or use the keyboard shortcut Cmd/Ctrl (Mac/PC) + 6-9. Both ratings and labels may also be assigned from the Label menu.
+
+Fig 1.6 this image has been assigned 5 stars and red label.
+
+13
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Adobe Bridge and Mini Bridge
+
+Keywords and Filtering
+Keywords are added to a document (or multiple documents) in the Keyword panel. You can add new keywords to the list by clicking on the + icon at the bottom of the Keyword panel, fig 1.7. To apply a keyword to a document, select a document or documents and then simply click in the box next to the keyword in the Keyword panel to associate that word with your document, fig 1.7. Keywords are embedded in the documents metadata and show up as tags in many utilities and programs. For example, if you keyword and image and then post it to Flickr, the keywords will appear as tags and are a searchable feature of that image.
+
+Fig 1.7 the Keyword panel
+
+I have mentioned previously that you can use the Filter panel to find specific document based on labels. You can also filter your documents based on Keywords. If you select a group of documents or folders, any keywords assigned to those documents will appear in the Keywords section of the Filter panel, fig 1.8. If you click on a keyword in the Filter panel only the documents that have that keyword will appear in the contents window, all of the other documents will be hidden. To remove the filter, click on the keyword once again in the Filter panel.
+
+Fig 1.8 the Keywords section of the Filter panel
+
+14
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Adobe Bridge and Mini Bridge
+
+The Collections Panel
+Once you have filtered your documents and found the one you want, you may wish to save them as a Collection. A Collection is created in the Collections panel by clicking on the and simply drag the documents into it. At the bottom of the Collections panel there is also an icon that allows you to create a Smart Collection. If you click on the Smart Collection icon a dialogue box will appear that allows you to set certain criteria for documents that are to be included in the Smart Collection, fig 1.9. icon at the bottom of the panel. If you have document selected, you will be asked if you wish to include them in the Collection. You can also create an Empty Collection folder
+
+
+Fig 1.9 the Smart Collection dialogue box.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+15
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users
+
+Adobe Bridge and Mini Bridge
+
+In fig 1.9 you can see that the Criteria for this smart Collection is to included documents that have “Charlotte” in the filename. Once a Smart Collection is set up, any subsequent documents that are added to the Source folder will be automatically added to the Smart Collection. This is an extremely useful function, because you can use Smart Collections for keeping all documents from a certain client together, or documents created with in a specific time period, or any other purpose that you require.
+
+Mini Bridge
+The Mini Bridge is a tabbed panel in Photoshop CS5 and later, fig 1.10. It is a quick file browsing tool that offers some basic features of the full version of Bridge. To browse files in Mini Bridge requires the full version of Bridge to be running in the background. If you do not have Bridge already running the Mini Bridge will launch the program automatically if you choose to “Browse Files”.
+
+
+Fig 1.10 the Mini Bridge panel
+
+16
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Adobe Bridge and Mini Bridge
+
+There are four icons that run across the top left of the Content area. From left to right they are: 1.	 Select – Offers a few selection features 2.	 Filter – Basic filtering functions mostly based on Star Ratings. 3.	 Sort – Sorting options. 4.	 Tools – Allows you to place files in Photoshop or other Adobe products such as InDesign. You can also access useful Photoshop features such as “Merge to HDR” and “Photomerge”.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+17
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users
+
+Camera Raw
+
+2	 Camera Raw
+It may often be the case that you only need to make basic adjustments to your images. If so, you can perform nondestructive edits to your images in Camera Raw without even opening Photoshop. Camera Raw was designed to make initial adjustments to Raw images before taking them into Photoshop, but it has grown into a fairly comprehensive editing solution in its own right. If you are not a Photographer you may not have come across Raw images before. In addition to capturing JPG and TIFF images, many high end compacts and all dSLR’s are able to save images in the Raw format. This means that the image is saved at the maximum bit depth and is not processed. The resulting file contains the maximum amount of information the camera is able to capture. Note: Every camera manufacturer has its own proprietary Raw format. Adobe Camera Raw can read Raw data hundreds of different cameras. However, if you by a brand new camera its Raw format may not be supported by the program until the next update. Check the Adobe website for the latest version of Camera Raw. If there is no update available and you want to use Camera Raw you can download the Adobe DNG Converter from the Adobe website. The utility will convert Raw files into Adobes own format, the Digital Negative (DNG). In the last few versions of Photoshop it has also been possible to open JPG and TIFF formats in Camera Raw. However, in versions prior to CS5 you need to set the behaviours for JPG and TIFF files in the General Preferences if you want them to automatically open in Camera Raw. In Bridge CS5 the Camera Raw preferences are available from the Edit menu, fig 2.1.
+
+Fig 2.1 the Camera Raw Preferences in Bridge CS5.
+
+18
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Camera Raw
+
+Whenever you edit a file in Camera Raw your original image remains unchanged. Instead of saving an altered version of the image, Camera Raw saves a small “sidecar” file which will appear in the same folder as the image and have a XMP file extension. It is important that the XMP file remains with the image, because it records all of the edits that you have made in Camera Raw. If you use the Adobe DNG format, it has the benefit of being able to store the Camera Raw edits in the original file and so a sidecar file will not be created. You can also choose to have the edit data saved to the Camera Raw Database in the Camera Raw Preferences, fig 2.1. If you go down this route, please note that if you transfer the image to another machine, the edit information will not be transferred unless it is in the DNG format.
+
+The Camera Raw Interface
+
+Fig 2.2 the Adobe Camera Raw interface version 6.6
+
+Across the top left of the interface are a series of tools, for editing your image. From left to right, they are: 1.	 The Zoom Tool – Click and drag to magnify part the image. Double click on the icon to go to a 100% view. 2.	 The Hand Tool – Navigate when zoomed into an image by using the hand tool to move the image around. Double click on the hand tool to fit the image to the work area. 3.	 The White Balance Tool – Click on a neutral colour in the image to set the white balance and remove any colour cast.
+
+19
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Camera Raw
+
+4.	 The Colour Sampler Tool – Use this tool to see the RGB values of specific pixel values. The values are given in the RGB section located below the Histogram in the top right. 5.	 The Targeted Adjustment Tool – Select a parameter from the drop down list (fig 2.3) and click and drag in the image to change the values. Dragging to the right increases the value and dragging to the left decreases the value. You can also choose to drag up and down.Fig 2.3 the Targeted Adjustment Tool drop down menu options.
+
+
+6.	 The Crop Tool – Crop your image non-destructively with this tool. Use the drop down menu (fig 2.4) to select a specific aspect ratio or clear a previous crop.
+
+20
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users
+
+Camera Raw
+
+
+Fig 2.4 the Crop Tool drop down menu options.
+
+7.	 The Straighten Tool – Click and drag along an edge in your image that should be vertical or horizontal. When you select another tool the image is automatically straightened and cropped. 8.	 The Spot Removal Tool – Use this tool to remove sensor dust spot from your image. Click and drag over the dust spot and Camera Raw will automatically select a clear area to fill your selection. You can adjust these areas by clicking inside one of the circles and dragging. 9.	 The Redeye Removal Tool – Click and drag over the eye area and the redeye will automatically be fixed. Use the panel on the right to adjust the pupil size and darken values if necessary. 10.	The Adjustment Brush – Apply basic adjustments to localized areas of the image by painting them onto the image using this tool. The adjustments that can be applied with this tool will appear in the panel on the right once the tool has been selected, fig 2.5. The Auto Mask checked box at the bottom of the panel (fig 2.5), restricts the area in which you can paint to a similar range of pixel values. This can be very useful if you need to paint up to an edge but not go over it.
+
+Fig 2.5 the Adjustment Brush panel.
+
+
+
+21
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Camera Raw
+
+11.	The Gradient Filter – This tool works in a similar fashion to the Adjustment Brush, but instead of painting, you click and drag to create a gradient which applies the adjustment values you have chosen. At the start of the gradient the adjustment is applied at 100%, gradually reducing to 0% at the end point of the gradient. 12.	The Open Preferences Dialogue – Opens the same Dialogue box that is available from the Bridge menu, fig 2.1. 13.	Rotate Anti-Clockwise – Rotates the image 90 degrees anti-clockwise 14.	Rotate Clockwise – Rotates the image 90 degrees clockwise
+
+Basic Adjustments
+On the right of the Camera Raw interface are a series of 10 tabbed panels. We are going to take a look at the first of these panels, the Basic panel. It is often the case, that 80-100% of the image adjustments that you need to make can be achieved using only this panel, fig 2.6.
+
+
+Figure 2.6 the Basic Adjustment tabbed panel.
+
+It is recommended that you edit your image in the Basic panel by starting at the top and working your way down to the bottom. White Balance – This consists of a drop down menu and two sliders. The drop down menu contains a number of white balance presets similar to the one found in most cameras, fig 2.7 (left). However, this list is only available when working with Raw file formats.
+
+22
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Camera Raw
+
+
+
+
+
+Fig 2.7 White Balance presets for Raw (left) and JPG/TIFF (right)
+
+You can adjust the White Balance manually using the Temperature and Tint sliders, regardless of which image format you are using. •	 Exposure – Lightens or darkens the entire image in standard f-stop increments. •	 Recovery – Moving this slider to the right will darken the very brightest values in your image to recover detail in the highlights. •	 Fill Light - Moving this slider to the right will lighten the darkest areas of the image in an attempt to recover detail in the shadows. •	 Blacks – Set the black point in the image. Moving the slider to the right will send more pixel values to pure black. •	 Brightness – Makes the light areas lighter whilst leaving the darkest areas alone. •	 Contrast – Increase the contrast of the image by making the dark areas darker and the light areas lighter.
+
+23
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users
+
+Camera Raw
+
+•	 Clarity – Moving this slider to the right makes the image look sharper and clearer by adding micro contrast adjustment to edges. Moving the slider to the left will soften the image which can be nice when used on portraits. •	 Vibrance – Alters the saturation of colours in the image, but has less effect on colours that are already saturated or contain flesh tones. •	 Saturation – Affects the saturation all of the colours in the image equally.
+
+Camera Raw Workflow Options
+An often overlooked setting in Camera Raw is the Workflow Options. These settings are accessed by clicking on the blue hyperlink (fig 2.8) at the bottom of the Camera Raw work area. In the Workflow options dialogue box we have the option to: •	 Set the colour space for the image •	 The Depth option allows you to set the number of bits per RGB channel. •	 Set the image size. You can increase or decrease the image size in set increments. •	 Set the image resolution. •	 Add a preset amount of sharpening. You can choose to add sharpening for the screen or matte/glossy prints. •	 Select to always open the image in Photoshop as a Smart Object (see the section on Smart Objects).
+
+
+Fig 2.8 the Camera Raw Workflow Options, accessed from the hyperlink at the bottom of the work area.
+
+Saving Images from within Camera Raw
+In the bottom left corner of the Camera Raw work area there is an option to “Save” your image. This means that you can edit an image in Camera Raw and save out a finished version as a JPG, TIFF, DNG or PSD without ever opening Photoshop. The Workflow Options can be very helpful at this point because you can change the settings according to suit the purpose of the file. For example, you may wish to create a small, low resolution file to attach to an Email. However, it is important that you change the Workflow Options back to their original settings, otherwise all of your subsequent documents will be formatted as small, low resolution images.
+
+24
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Transformations
+
+3	Transformations
+One of Photoshop most powerful features is the ability to resize, distort and warp an object within an image. For example, in fig 3.1 we have a landscape image that features the moon. If we make a selection of the moon using any of the selection tools, it can then be copied to a new layer by going to the Layer menu and choosing New > Layer via Copy. A copy of the selected area will then appear in a new layer in the Layers panel, fig 3.2.
+
+Fig 3.1 the Moon is selected.
+
+
+Fig 3.2 the Moon in a new layer.
+
+25
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Transformations
+
+Once the Moon is on its own layer we can then apply a Transformation to it. The Transformation options can be found in the Edit menu, fig 3.3.
+
+
+Fig 3.3 the Transformation options, located in the Edit menu.
+
+26
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Transformations
+
+Fig 3.4 the Scale Transformation has been used to increase the size of the Moon.
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+27
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users
+
+Transformations
+
+In fig 3.4 the Scale Transformation has been used to increase the size of the Moon. To use the Scale Transformation to click on the option in the Edit menu (fig 3.3) and with the Shift key held down you simply drag one of the corner points in the box that surrounds the Moon. Holding down the Shift key results in the Transformation occurring, whilst maintaining the original proportions of the object. If you don’t use the Shift key whilst dragging a corner point the object may become deformed because the objects ratios will not be maintained. To reposition the object after a transformation, click inside the bounding box and drag the object. In all cases, once you have completed a transformation you MUST click on the tick icon in the Options panel to accept the changes to the image. You can also cancel a Transformation by clicking on the cross icon in the Options panel. When you are making a transformation you may notice that the object that you are transforming appears blurry or pixelated. This is because Photoshop is only showing you a preview. Once you click on the tick to accept the changes, Photoshop will render the object at the full resolution of the document.
+
+Warp
+Most of the Transformations are self-explanatory in their function. However, the Warp Transformation works in a slightly different manor. When you choose the Warp Transformation a grid appears inside the objects bounding box, fig 3.5.
+
+Fig 3.5 the Warp grid.
+
+Fig 3.6 the points, handles and grid segments can all be manipulated to Warp the object.
+
+28
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users To manipulate the Warp grid (fig 3.6), there are three options available to you: 1.	 Move the corner points. 2.	 Click and drag inside one of the grid segments. 3.	 Move the corner handles
+
+Transformations
+
+Warping Text
+Warping Type layers can be fun and creative. However, you can’t freeform Warp text as seen in in fig 3.6 without knowing a couple of things first. If you select the Warp command and try to Warp a standard Type layer you will be made to choose one of a number of preset warp shapes, fig 3.7, located in the Options panel. You can then edit the Warp, within the confines of the shape, by clicking and dragging inside the bounding box. To freeform Warp the text you must do one of two things. Either Rasterize the Type layer by going to the Layer menu or choosing Rasterize > Type, fig 3.8, or choose Smart Objects > Convert to Smart Object to create a Smart Object from the Type layer, fig 3.9.
+
+Fig 3.7 the Warp Text options
+
+29
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Transformations
+
+Fig 3.8 use the Layer menu to select the Rasterize Type option
+
+.
+
+30
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users
+
+Transformations
+
+Fig 3.9 convert the Type layer to a Smart object in the Layers menu
+
+The Smart Object route is the most flexible as the text may still be edited (see the chapter on Smart Object for more details). Once a Type layer is Rasterized the Type then becomes pixels and cannot be edited as Type.
+
+Free Transform
+Most experienced Photoshop users prefer to use the Free Transform option for all their transformations. The Free Transform bounding box can be used to perform most of the Transformations in two different ways. Firstly, you can Right + Click inside the bounding box to get access to the individual Transformation options. Secondly, you can use modifier keys to change how the bounding box reacts to you manipulation.
+0RGLILHU.H\3& &WUO'UDJ &WUO'UDJ $OW'UDJ $OW'UDJ 6KLIW 6KLIW $OW&OLFN 0RGLILHU.H\0DF &PG'UDJ &PG'UDJ 2SWLRQ'UDJ 2SWLRQ'UDJ 6KLIW 6KLIW 2SWLRQ&OLFN 2SHUDWLRQ 6NHZVWKHERXQGLQJER[ZKHQ\RXGUDJWKHPLGGOHSRLQW 'LVWRUWVWKHERXQGLQJER[ZKHQ\RXGUDJWKHFRUQHUSRLQWV 6FDOHVIURPWKHFHQWHUSRLQWRIWKHERXQGLQJER[ZKHQ\RXGUDJDFRUQHU SRLQW 5HIOHFWVWKHWUDQVIRUPDWLRQWRERWKVLGHVZKHQ\RXGUDJDVLGHSRLQW &RQVWUDLQVWKHSURSRUWLRQVRIWKHERXQGLQJER[DQGFDQEHXVHGLQ FRQMXQFWLRQZLWKRWKHUPRGLILHUNH\V ,I\RXXVHWKH6KLIWNH\ZKLOVW5RWDWLQJDQREMHFWLWZLOOFRQVWUDLQWKHURWDWLRQ WRGHJUHHLQFUHPHQWV 6HWWKHFHQWHUSRLQWZLWKLQWKHERXQGLQJER[
+
+31
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users You can enter the Free Transform mode by using the keyboard shortcut Ctrl/Cmd (PC/Mac) + T.
+
+Transformations
+
+Content Aware Scale
+Transformations can be very useful. However, if you need to transform an image in such a way that the aspect ratio will be changed, the standard transformation functions will distort the image in an unpleasing fashion, fig 3.10.
+
+
+Fig 3.10 the original image on the left and the transformed image on the right
+
+
+
+Content Aware Scale allows us to scale an image disproportionally by protecting key areas, which in this case would be the cricketers. The Content aware function can be found in the Edit menu. Areas can be protected during Content Aware Scaling in two different ways. 1.	 The first method protects images that contain people. To enable this feature, click on the icon in the
+
+Options panel. Photoshop will look for flesh tones and will attempt to protect these areas during the transformation. In the image of the cricketers, there are insufficient flash tones visible for this method to work effectively. In this case we would need to use method two. 2.	 Use the Lasso tool to make a rough selection around the subjects that you wish to remain undistorted, fig 3.11.
+
+Fig 3.11 the cricketers are selected
+
+32
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Transformations
+
+Then go to the Select menu and choose Save Selection. This will create a new Alpha channel which you can name if you wish. Once the selection is saved, go to the Select menu once again and choose Deselect. Choose Content Aware Scale from the Edit menu and in the Protect function located in the Options panel, choose the Alpha channel that you created from the drop down menu, fig 3.12.
+
+Fig 3.12 select the new Alpha channel from the Protect function in the Options panel.
+
+Drag the bounding box in the direction that you wish the transformation to occur and then click on the Tick in the Options panel to accept the change.
+
+Fig 3.13 the Content Aware Scale is completed with any distortion to the subjects
+
+In fig 3.13 we can see the final image transformation and the appearance of the subject’s has been preserved. This technique is extremely useful when you need to make an image fit a specific graphic design or web design layout.
+
+33
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Smart Objects
+
+4	 Smart Objects
+Smart Objects allow editing of a document without altering the original file in any way. You can think of them as a protective container and nothing can damage your file once it’s been placed inside of the Smart Object. Smart Objects are incredibly flexible as they allow Filters to be applied non-destructively and the filter can be re-opened at any time and the settings changed. This is great if you are a designer and a client want you to make certain changes – you can simply re-open the filter that’s attached to the Smart Object and apply the required alterations. If you have a complex design, you can place groups of layers inside a Smart Object and process the independently. It is also possible to place several Smart Objects inside another Smart Object (this is called nested Smart Objects) in order to perform tasks that would be impossible (or very difficult) to do in any other way. For example, applying multiple stroke Layer Styles (see the section on Layer Styles,) to Type layers. To convert a layer to a Smart Object, go to the Layer menu and choose Smart Objects > Convert to Smart Object. Alternatively, you can also convert a layer to a Smart Object from the flyout menu in the top right-hand corner of the Layers panel, fig 4.1.
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+34
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users
+
+Smart Objects
+
+Fig 4.1 the “Convert to Smart Object” function in the Layers panel flyout menu
+
+In fig 4.2 a Type layer has had two Outer Glow Layer Styles applied to it. Without using Smart Objects it would be much trickier to achieve this exact effect and would involve multiple layer and transformations. In this case all that was required was to add a blue Outer Glow Layer Style. Convert the layer to a Smart Object and then apply a red Outer Glow to the new Smart Object.
+
+
+Fig 4.2 a double Layer Style effect. The Smart Object layer is indicated by the small icon in the bottom right of the layer.
+
+
+
+Smart Filters
+If you apply a Filter from the Filter menu to a Smart Object, it will appear in the Layers panel as a Smart Filter. The layer will take on the appearance of the applied Filter but the original file contained with the Smart Object will remain unchanged. In fig 4.3, the Stained Glass filter has been applied to the Type layer Smart Object from the previous example.
+
+35
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Smart Objects
+
+
+
+
+Fig 4.3 the Stained Glass Filter applied as a Smart Filter.
+
+
+
+A very useful feature of Smart Filters is the ability to change the Blending Options of the Filter. By clicking on the icon on the Smart Filter Layer in the Layers panel, you can alter the way in which the Filter interacts and blends with the Smart Object. In fig 4.4, the blend mode for the Stained Glass filter has been changed from Normal to Linear Burn to increase the contrast and colour strength of the filter. If the effect of changing the blending mode is too strong, it can be reduced by changing the opacity setting in the Filters Blending Options.
+
+Fig 4.4 altering the effect of a Smart Filter by changing its Blending Options.
+
+Editing the Contents of a Smart Object
+To edit the content of a Smart Object, double click on its thumbnail image in the Layers panel. The contents will open as a new document. Change the contents of the new document and then SAVE and close it. The Smart Object in your original document we automatically be updated to reflect the changes that you have made, fig 4.5. All Layer Styles and Smart Filters will remain intact.
+
+36
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Smart Objects
+
+Fig 4.5 the contents of the Smart Object have been edited and then saved. An updated version of the Smart Object is automatically displayed.
+
+Transformations
+Every time that you make a transformation (see previous Chapter), the object is re-drawn, and so reduces in quality. If you have designed a logo that you wish to use on several sized documents such as a poster, letterheads and business cards, you will find yourself using the transformation functions to scale the logo to fit the different documents. To avoid degrading the logo as you make the transformations, place the Layers that make up the logo inside a Smart Object. When Smart Objects are transformed the original artwork remains unchanged and safe. The Smart Object merely uses its contents as a reference to produce the scaled version.
+
+37
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Layer Styles
+
+5	 Layer Styles
+Layer Styles are graphic effects that may be applied to an object that’s placed on its own layer, fig 5.1. The effects are applied non-destructively and the can be changed or removed at any time.
+
+
+Fig 5.1 a crown shape with multiple Layer Styles applied.
+
+
+
+Photoshop comes supplied with many complex Layer Style presets, which can be applied by clicking on one of the icons inside the Styles panel, fig 5.2. More Layer Style presets can be appended to the list, by adding them from the flyout menu in the top right-hand corner of the Styles panel. If you don’t have the Styles panel open, it can be accessed from the Window menu.
+
+Fig 5.2 the Styles panel.
+
+38
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Layer Styles
+
+Creating your own Layer Styles
+If you wish to apply individual Layer Styles to an object, click on the fx icon at the bottom of the Layers panel. This will reveal a list of the available Layer Styles, fig 5.3.
+
+
+
+
+
+Fig 5.3 click on the fx icon at the bottom of the Layer panel to reveal the list of Layer Styles.
+
+When you add a Layer Style to an object the Layer Style dialogue box will appear (fig 5.4) giving access to all of the parameters associated with the effect you have chosen. This dialogue box can be a little daunting at first, but if you have the Preview box ticked on the right-hand side of the dialogue box, you can play around with the sliders and watch the effect automatically update in your document.
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+39
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users
+
+Layer Styles
+
+Fig 5.4 the Layer Style dialogue box.
+
+To get the most out of the Layer Styles, it is useful to a good knowledge of what the various blending modes do, as all of the Layer Styles depend on blending modes. Changing the blend mode of a Layer Style can often dramatically change the appearance of the effect.
+
+Blending Modes
+To get the most out of the Layer Styles, it is useful to a good knowledge of what the various blending modes do, as all of the Layer Styles depend on blending modes. Changing the blend mode of a Layer Style can often dramatically change the appearance of the effect. In chapter 5 of the first book in this series, it was mentioned that blending modes are grouped together with respect to their effect.
+
+40
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Layer Styles
+
+%OHQGLQJ0RGHV 1RUPDO 'LVVROYH 'DUNHQ 0XOWLSO\ &RORXU%XUQ /LQHDU%XUQ 'DUNHU&RORXU /LJKWHQ 6FUHHQ &RORU'RGJH /LQHDU'RGJH$GG /LJKWHU&RORXU 2YHUOD\ 6RIW/LJKW +DUGOLJKW 9LYLG/LJKW /LQHDU/LJKW 3LQ/LJKW +DUG0L[ 'LIIHUHQFH ([FOXVLRQ 6XEWUDFW 'LYLGH +XH 6DWXUDWLRQ &RORU /XPLQRVLW\
+
+(IIHFW 7KHQRUPDOEOHQGLQJPRGHVWKHFRORXUVDQGFRQWUDVWDSSHDU DVQRUPDO:LWK'LVVROYHDQ\SL[HOVWKDWDUHOHVVWKDQ RSDTXHZLOODSSHDUJUDLQ\DQGSL[HODWHG 7KHGDUNHQLQJEOHQGLQJPRGHVWKHRYHUDOOHIIHFWZLOOEHD GDUNHQLQJRIWKHSL[HOYDOXHV7KHVHEOHQGPRGHVZLOOQRW EOHQGZKLWHZLWKXQGHUO\LQJFRORXUV &RORXU%XUQDQG/LQHDU%XUQSURGXFHYHU\VWURQJHIIHFWVEXW WKH\FDQEHXVHDEOHDWORZHURSDFLWLHV 7KHOLJKWHQLQJEOHQGLQJPRGHVWKHRYHUDOOHIIHFWZLOOEHD OLJKWHQLQJRIWKHSL[HOYDOXHV7KHVHEOHQGPRGHVZLOOQRW EOHQGEODFNZLWKXQGHUO\LQJFRORXUV &RORXU'RGJHDQG/LQHDU'RGJHSURGXFHYHU\VWURQJHIIHFWV EXWWKH\FDQEHXVHDEOHDWORZHURSDFLWLHV 7KHFRQWUDVWEOHQGLQJPRGHV7KHVHEOHQGLQJPRGHVZLOO ERWKOLJKWHQDQGGDUNHQWKHSL[HOYDOXHVDQGPD\DOVRKDYHD VWURQJHIIHFWRQWKHFRORXU7KHILUVWWKUHHPRGHVDUHWKH PRVWXVHIXOWKHUHPDLQLQJIRXUOHVVVR 7KHVHEOHQGPRGHVZLOOQRWEOHQGJUH\YDOXHVZLWK XQGHUO\LQJOD\HUV 7KHLQYHUVLRQEOHQGLQJPRGHVSL[HOYDOXHVDUHLQYHUWHG UHVXOWLQJLQWKHRSSRVLWHFRORXUZLWKWKHH[FHSWLRQRIWKH 'LYLGHEOHQGPRGH7KH'LYLGHEOHQGPRGHDOZD\VUHVXOWVLQ DOLJKWQLQJHIIHFW 7KHFRPSRQHQWEOHQGLQJPRGHVWKHVHDUHWKHLQGLYLGXDO YDOXHVWKDWFRQWULEXWHWRDSL[HOVRYHUDOODSSHDUDQFH7KHVH EOHQGLQJPRGHVDOORZ\RXWRRQO\LQIOXHQFHRQHDVSHFWRIWKH SL[HOYDOXH7KH&RORUEOHQGPRGHLVDFRPELQDWLRQRIWKH +XHDQG6DWXUDWLRQFRPSRQHQWV
+
+Global Light
+Many of the settings in the Layer Styles dialogue box have a setting called Global Light. Global Light ensures that there is continuity between the various effects with regards to the direction of light. If the design contains an image with an existing light source, your Global Light setting should be altered to match the existing light. When you are using Layer Styles that use Contour settings, in effects such as Bevel and Emboss and Satin, the lighting position can play a massive role in the appearance of the effect, fig 5.5 and 5.6. As you can see, just changing the Altitude value slightly has completely changed the objects appearance with respect to how it is lit.
+
+41
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Layer Styles
+
+
+Fig 5.5 the Bevel and Emboss Layer Style, using an Angle of 124 and an Altitude of 53 in the Shading settings.
+
+
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+42
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users
+
+Layer Styles
+
+Fig 5.6 the Bevel and Emboss Layer Style, using an Angle of 124 and an Altitude of 35 in the Shading settings.
+
+Saving and Copying Layer Styles
+If you’ve applied a number of Layer Styles to an object and you wish to save the settings to use again in the future, with the source layer selected, click on the icon at the bottom of the Styles panel. The Layer Styles associated with the chosen layer will be saved at a new preset in the Styles panel. If you wish to apply the same Layer Style settings from one layer to another layer, there are a number of ways you can achieve it: •	 Click on the source layer. Go to the Layer menu and choose Layer Style > Copy Layer Style. Click in the target layer in the Layers panel and to the Layer menu and choose Layer Style > Paste Layer Style. •	 Right click on the source layer (not the thumbnail) and choose Copy Layer Style. Click in the target layer and choose Paste Layer Style. •	 Hold down the Alt/Option (PC/Mac) key. Click and drag on the word “Effects” from the source layer to the target layer.
+
+Opacity vs Fill Opacity
+There are two different Opacity settings available for every layer; the Opacity and the Fill Opacity. For the most part they appear to perform the same function. However, when you have a Layer Style applied to an object they perform differently with respects to the Layer Style, fig 5.7.
+
+43
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Layer Styles
+
+)LJ1RUPDO 
+
+
+
+
+
+2SDFLW\
+
+
+
+
+
+)LOO2SDFLW\
+
+•	 Opacity – when the Opacity of a layer is reduced, both the object and any associated Layer Styles are reduced in Opacity. •	 Fill Opacity – when the Fill Opacity is reduced only the objects opacity is reduced, the associated Layer Styles remain unaffected.
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+44
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Adobe Photoshop for Intermediate Users
+
+Layer Styles
+
+6	 Vector Tools and the Paths Panel
+To understand the Vector tools in Photoshop, you must first understand what Vectors are and how they differ from Pixels. Pixels are the basic building blocks of images. They are easy to manipulate and we can apply filters and adjustments to them to change their appearance. Vector based objects are drawn by the program using mathematical co-ordinates to create the shape. The outline that determines the Vector shape is known as a Path.
+
+Fig 6.1 the components of a Vector based object
+
+In fig 6.1 the various components that make up a Vector based object (the Path) have been identified: •	 Selected Anchor Points (often referred to as corner points) – these can be manipulated or moved using the Vector tools. •	 Unselected Anchor – will remain static unless selected. •	 Control Handle – the length of the Control Handle determines the radius of the arc drawn from its Anchor Point. •	 Direction Point – determines the direction of the Vector Path and the Length of the Control Handle.
+
+45
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Layer Styles
+
+The Vector Tools
+
+
+
+
+
+
+
+
+
+Fig 6.2 all of the expanded Vector tools available in the Tools panel
+
+The Vector tools (fig 6.2) consist of the Pen Tools, The Type Tools, the Vector Selection Tools and the Shape Tools. For the moment, the Pen Tools will not be discussed as they are one the most difficult things to get to grips with in Photoshop. They will be covered in the third book in this series, which covers some of the more advanced features.
+
+The Type Tools
+•	 The Horizontal Type Tool – Creates normal, left to right type and is automatically placed in its own Type layer. It is used in two different ways. 1.	 Click in the document to place the type curser and start typing from that point. 2.	 Click and drag with the Type tool to create a text box. When you commence typing, the text will be confined to the inside of the box. •	 The Vertical Type Tool – Works in the same way as the Horizontal Type tool but write from top to bottom. This is useful for Asian characters. •	 The Horizontal and Vertical Type Tools – work in the same way as the previous two tools. However, they don’t create Type layers but instead, create Type shaped selections. You may not have realised that Type consists of Vector information because you cannot edit Type anchor points directly. To customise type you must first convert it to a Vector Shape layer (fig 6.3) or Path.
+
+46
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Layer Styles
+
+Fig 6.3 a standard Type layer and one that has been converted to a Shape Layer and edited
+
+In fig 6.3 the letter R has been edited to resemble the type used in a popular movie. The method used for creating this custom text will be covered in the next section on using the Path Selection Tools.
+
+The Path Selection Tools
+There are two path selection tools (fig 6.2) which are used to move and edit points that make up a Vector Shape or Path. The Path Selection Tool (Black Arrow) – is used to select and move a complete Vector Shape or Path. It is used in a similar way to the standard Move tool and gives you access to the same alignment and distribution functions in the Option panel. It can also be used to quickly duplicate a Vector Shape or Path. Hold down the Alt/Option (PC/Mac) key and drag a Vector shape or Path to create a copy. If you then click and drag with Path Selection Tool, you can create a selection box to encompass both objects. Alternatively, you can hold down the Shift key and click on the second Path to select it. When more than one Vector Shape is selected you can use the alignment and distribution functions in the Option panel to position them accurately, fig 6.4.
+
+47
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Layer Styles
+
+Fig 6.4 the Alignment and Distribution functions. They may be used with the Move tool and the Path Selection tool.
+
+The Direct Selection Tool (White Arrow) – use this tool to move and manipulate Shape/Path components.
+
+The Vector Shape Tools
+The Vector shape tools are used for creating simple geometric shapes. However, several shapes may be combined to form more complex designs. The Shape Tools may be used to create three different types of object which are chosen from the Option panel, fig 6.5.
+
+AXA Global Graduate Program
+Find out more and apply
+
+48
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users
+
+Layer Styles
+
+Fig 6.5 from left to right – Shape Layer, Path and Filled Pixel
+
+•	 The Shape Layer – this consists of a solid colour fill and a Vector based mask that defines the shape. They are automatically created in the Layers panel when this option is chosen •	 The Vector Path – Paths by themselves do not create layers, neither can they be printed. They contain no colour fill or stroke to define them. They are mainly used as guides for other functions. For example, Type may be placed on a Path (fig 6.6), or constrained within a path.
+
+Fig 6.6 create Type on a Path. A method commonly employed in logo design.
+
+•	 Filled Pixel Layers – the Vector Shape tools are used to draw with Pixels. A new blank layer must be created as this option does not generate one automatically as with Shape Layers. There are five standard Shape tools, comprising of: •	 The Rectangle Tool - draws a rectangle. If you wish to create a square, hold down the Shift key as you drag out the shape. •	 The Rounded Rectangle Tool – draws rectangles with rounded corners. The radius of the corners can be changed from the Options panel. •	 The Ellipse Tool - draws an ellipse. If you wish to create a circle, hold down the Shift key as you drag out the shape. •	 The Polygon Tool – draws multi-sided shapes. The number of sides for the shape is entered in the Options panel. •	 The Line Tool – draws a straight line. An arrowhead can be added to the one or both ends of the line. The Arrowhead function is available from the drop down box accessed from the Options panel, fig 6.7.
+
+49
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Layer Styles
+
+Fig 6.7 add an Arrowhead to a line from the dropdown box, accessed in the Options panel.
+
+The sixth Shape tool is the Custom Shape tool. The various shapes can be accessed from the drop down box in the Options panel, fig 6.8. More shapes can be added to the list from the flyout menu in the corner of the box, fig 6.8.
+
+Fig 6.8 add more Custom Shapes to the list from the flyout menu in the top right hand corner of the box.
+
+There are a number of different settings available from the Options panel that enable you to create complex shapes, fig 6.9.
+
+Fig 6.9 the Shape drawing settings in the Options panel.
+
+50
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users The settings from left to right are: Create New Shape Layer – draws a shape in a new vector shape layer, added automatically. Add to Shape area – if you have an existing shape, choosing this setting will allow you to add to the shape.
+
+Layer Styles
+
+Subtract from Shape area - if you have an existing shape, choosing this setting will allow you to subtract from the shape. Intersect Shape areas – when two overlapping shapes are drawn, only the area that overlaps will be visible. Exclude overlapping Shape areas - when two overlapping shapes are drawn, the areas that overlaps will not be visible. The colour of drawn Shape layer can be changed in a number of ways: 1.	 Double click on the Solid Color layer thumbnail (not the mask) in the Layers panel to bring up the Color Picker dialogue box, fig 6.10.
+
+Fig 6.10 access the Color Picker by double clicking on the Solid Color layer thumbnail in the Layers panel.
+
+2.	 Click on the Color swatch in the Options panel to bring up the Color Picker dialogue box. 3.	 In the Layer menu, go to Layer Content Options to bring up the Color Picker dialogue box.
+
+Editing Vector Shapes and Text
+In fig 6.11 a basic Circle was drawn using the Elliptical Shape tool and holding down the Shift key to constrain the proportions. The control handles and direction points are aligned on either side of the Anchor points. However, to create a heart shape we need the top and bottom control handles to form a V shape. The easiest way to do this is to hold down the Alt/Option (PC/Mac) key and use the Direct Selection tool to move one of the direction points. You can then move either of the direction points independently.
+
+51
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Layer Styles
+
+Fig 6.11 change a circle into a heart by using the Direct selection tool (white arrow) to manipulate the control handles.
+
+In order to create your own custom Type, it must be converted to a Shape before you can edit it. To do this, go to the Layer menu and choose Type > Convert to Shape. In fig 6.12 you can see a letter P before and after editing. The Anchor points and Direction points were manipulated using the Direct Selection tool and a couple of extra Anchor points were added using the Add Anchor Point tool, fig 6.2. The effect was finished off by adding a few layer styles.
+
+52
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users
+
+Layer Styles
+
+Fig 6.12 create your own stylized type by converting it to a shape and editing the points using the direct selection tool.
+
+53
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Layer Styles
+
+7	 The Brush Tool & Brush Panel
+The Brush Tool
+Having a good understanding of how the Brush tool works in Photoshop is essential. The same basic principles that are employed in the Brush tool work in a similar fashion for several other tools, such as: •	 The Clonestamp tool •	 The Healing Brush. •	 The Spot Healing Brush •	 The Colour Replacement tool •	 The Mixer Brush •	 The History Brush •	 The Art History Brush •	 The Eraser tool •	 The Background Eraser tool •	 The Blur tool •	 The Sharpen tool •	 The Smudge tool •	 The Dodge tool •	 The Burn tool •	 The Sponge tool Each of these tools will have different properties and options, but once you have learned how the brush tool works you will be able to control how these various tools are applied.
+
+Fig 7.1 the Brush tool Options panel and drop down menu
+
+54
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Layer Styles
+
+The key properties to understand about the Brush tool are available from the Options panel (fig 7.1) and include: Size – the brush size is measured in pixels and determines the coverage the brush will have. Be aware that on older machines, using very large brushes can cause lag in the rendering of the brush stroke. There are several different ways to change the Brush size: 1.	 Click on the drop down menu in the Options panel fig 7.1, and then move the Size slider. 2.	 With the Brush tool active, hold down the Alt (PC) key and Right click. A preview of the brush will appear in red. Drag left to make the brush smaller and right to make it larger. 3.	 Pressing the left [ key will decrease the brush size and pressing the right ] key will increase the brush size. This is keyboard shortcut is very useful as you can change the brush size on the fly with you left hand whilst painting with your right (or vice versa). 4.	 You can also change the brush size from the Brush panel, fig 7.2 (more on this panel later).
+
+Fig 7.2 the Brush panel
+
+Hardness – this setting determines the softness of the brushes edges, fig 7.3.
+
+55
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Layer Styles
+
+Fig 7.3 the same Brush size but with varying degrees of hardness
+
+As with the Brush size, the Hardness setting can be changed in a number of different ways: 1.	 Click on the drop down menu in the Options panel fig 7.1, and then move the Hardness slider. 2.	 With the Brush tool active, hold down the Alt (PC) key and Right click. A preview of the brush will appear in red. Drag up to make the brush softer and down to make it harder. 3.	 Holding down the Shift key and pressing the left [ key will soften the brush edge and pressing the right ] key will harden the brush edge. 4.	 You can also change the brush Hardness from the Brush panel, fig 7.2.
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+56
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users Blending Mode – for an overview of the various Blending Modes see Chapter 5.
+
+Layer Styles
+
+Opacity – this setting makes the pixels more or less opaque. Making multiple passes with a brush set to a low opacity will gradually build up the pixels opacity until they are 100% opaque. Flow – at low Flow settings, the opacity of the pixels can be built up in a single pass, fig 7.4.
+
+Fig 7.4 Opacity vs Flow in the Brush tool Options panel
+
+Brush Tip Shape – select the shape of the Brush from the drop down menu in the Option panel, fig 7.1. Alternatively, you can change the Brush Tip Shape from the Brush panel, fig 7.2.
+
+The Brush Panel
+The Brush panel (fig 7.2) can be opened from the Window menu if you do not already have it visible in your workspace. At first inspection, the Brush panel can look a little daunting. However, it is not as scary as it first appears when you know that you are just changing the appearance of the Brush Tip and as you make changes to the settings, the result can be seen in the preview section of the bottom of the panel. There are a lot of various “Jitter” settings in this panel and for the word “Jitter” just read “Randomness”. Adding a degree of randomness to your brush strokes can make them appear more natural and painterly and so there are many settings to help you achieve this. To edit a Brush you must click on the property that you wish to change from the list on the left of the panel. Make sure that the box is ticked and that the property is highlighted, by clicking on its name. This will display the settings for that property in the area on the right. NOTE: just ticking the box will not give you access to the settings, the name of the property must be selected.
+
+57
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Layer Styles
+
+Many of the settings have a drop down menu associated with them, fig 7.5. These choices are to assign that setting to graphics tablets. The fade setting helps none graphics tablet uses, by somewhat simulating the effect of pressure sensitivity. The stroke Fades to produce a tapered effect when used for Size Jitter, fig 7.6.
+
+Fig 7.5 the drop down menu for Size Jitter
+
+Fig 7.6 the result of the Fade option when selected for Size Jitter
+
+%UXVK3DQHO6HWWLQJ %UXVK7LS6KDSH
+
+'HVFULSWLRQ 6HOHFWWKHVW\OHDQGVKDSHRI\RXUEUXVK0DNHEDVLF DGMXVWPHQWVWR\RXUEUXVKLQWKHVHFWLRQDWWKHERWWRPRIWKH SDQHO
+
+6KDSH'\QDPLFV 6FDWWHU
+
+7H[WXUH
+
+ $GGUDQGRPQHVVWRWKHEDVLFVKDSHRIWKHEUXVKWLS $GGLQJVFDWWHUZLOOUDQGRPO\GUDZSRLQWVDZD\IURPWKHSDWK RI\RXUEUXVKVWURNH7KHKLJKHUWKHVFDWWHUQXPEHUWKH IXUWKHUDZD\IURPWKHVWURNHWKHSRLQWZLOOEHGUDZQ8VHWKH FRXQWVHWWLQJVWRDGGPRUHSRLQWV $GGDWH[WXUHWR\RXUEUXVKVWURNH
+
+58
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Layer Styles
+
+'XDO%UXVK &RORU'\QDPLFV
+
+7UDQVIHU 1RLVH :HW(GJHV $LUEUXVK 6PRRWKLQJ 3URWHFW7H[WXUH
+
+6HOHFWDVHFRQG%UXVK7LSWRFRPELQHZLWK\RXULQLWLDO VHOHFWLRQ $GGUDQGRPQHVVEHWZHHQWKHIRUHJURXQGDQGEDFNJURXQG FRORXUVRUDGGUDQGRPQHVVWRWKHLQGLYLGXDOFRORXU FRPSRQHQWV $GGUDQGRPQHVVWRWKH2SDFLW\DQG)ORZYDOXHV $GGJUDLQLQHVVWR\RXUEUXVKVWURNH 'DUNHQVWKHRXWVLGHRIWKHEUXVKVWURNHDQGOLJKWHQVWKH LQVLGHWRSURGXFHDZDWHUFRORXUHIIHFW 7XUQVRQWKH$LUEUXVKHIIHFWWRDOORZWKHEXLOGXSRIFRORXU 6PRRWK¶VRXWWKHEUXVKZKLOVWGUDZLQJFXUYHGVWURNHV 8VHWKLVVHWWLQJWRDFKLHYHFRQVWDQWSDWWHUQVDFURVVPXOWLSOH WH[WXUHEUXVKHV
+
+Saving Custom Brushes
+Once you’ve gone through all of the hard work of creating an interesting custom brush, it makes sense to save the settings, so that you have it available to use in all of your work. To save your brush as a preset, open up the Brush Preset panel and click on the “Create New Brush” icon at the bottom of the panel your brush and assign a default size if you wish, fig 7.7. . A dialogue box will open, allowing you to name
+
+Fig 7.7 save and name a new Brush Preset.
+
+The new Brush Preset will be added to the bottom of the list.
+
+59
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Layer Masks and Clipping Masks
+
+8	 Layer Masks and Clipping Masks
+Layer Masks
+Layer masks are an extremely powerful editing tool. They allow non-destructive editing of layers by hiding part of a layer so that the layer underneath can be seen. This is done by adding a Layer Mask to a layer by clicking on the “Add Layer Mask” icon at the bottom of the Layers panel and then painting on the mask using any of the pixels drawing tools such as the Brush tool or the Gradient tool, with black selected as the foreground colour. Painting with black on a mask creates a “Virtual” hole in the current layer. To remove the effects of the mask, switch the foreground colour to white and paint on the mask to erase the hole.
+
+Fig 8.1 two Adjustment layers have been added which have masks already attached.
+
+In fig 8.1 we have a portrait that has had two Adjustment layers added – one to remove the colour information and one to boost the eye colour. The process for creating this effect is as follows: •	 The first Adjustment layer is a Black and White adjustment and was applied by clicking on the “Create new Fill or Adjustment Layer” icon Adjustments panel, fig 8.2. at the bottom of the Layers panel. The settings were then adjusted in the
+
+60
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Layer Masks and Clipping Masks
+
+Fig 8.2 the Black and White Adjustment layer settings. Use the sliders to change the grey values corresponding to that particular colour.
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+61
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users
+
+Layer Masks and Clipping Masks
+
+•	 The Brush tool was then selected and black chosen as the Foreground colour •	 Click on the mask thumbnail in the Layers panel to make it active and then paint over the eyes. By painting with black on the Mask we are creating an area of transparency which allows us to see the colour layer below. •	 The second Adjustment layer is a Photo filter Adjustment with blue selected to enhance the existing eye colour, fig 8.3. However, in this case, instead of want to create a hole to the layer below, we want the opposite of the previous Adjustment layer. We want to apply the Adjustment to the eyes and have the rest of the layer transparent. The easiest was to achieve this, is to go to the Masks panel and click on the Invert button, fig 8.4. The Layer Mask will now appear solid black. This means that the layer is completely transparent.
+
+Fig 8.3 the Photo filter Adjustment settings in the Adjustments panel.
+
+Fig 8.4 use the Invert button in the Masks panel to reverse the effects of the Layer Mask.
+
+62
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Layer Masks and Clipping Masks
+
+•	 Select the Brush tool once again, but this time set the foreground colour to White. •	 Click on the mask thumbnail in the Layers panel to make it active and then paint over the eyes. By painting with White on the Mask we are making the layer opaque, and as a result, the effect can now be seen. Layer Masks are great when used to limit the effect of an Adjustment layer as in the previous example. But they can also be used for blending two separate images together. In fig 8.5 we have an image of a church, but the sky is plain and boring. We can use a Layer Mask to remove the existing sky and replace it with one from a completely separate image.
+
+
+Fig 8.5 the two images we wish to blend together.
+
+
+
+Here is the process for replacing the Sky: The first step is to have both of the images open in Photoshop. Whilst looking at the Sky image, select the Move tool from the Tools panel then click and drag the image to the tab that contains the Church image. When the Church image appears continue to drag downwards over the image and then release the mouse. You should then have both images in the same document but on different layers, fig 8.6.
+
+
+Fig 8.6 the Sky image has been dragged into the Church image and appears on a separate layer.
+
+63
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Layer Masks and Clipping Masks
+
+Temporarily hide the Sky layer by clicking on the eyeball icon on the left hand side of the layer. Click on the Church layer to make it active and then choose the Magic Wand tool from the Tools panel. Set the Tolerance value in the Options panel so that when you click on the blue sky it is completely selected but none of the Church is selected, fig 8.7. In this case I found that a Tolerance of 70 worked great, but you may have to experiment a bit with your own images.
+
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+64
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users
+
+Layer Masks and Clipping Masks
+
+Fig 8.7 the Magic Wand tool has been use to select the Sky.
+
+Click on the eyeball icon to make the Sky layer visible once again and then click on the layer to make it active. If you click on the Create Layer Mask icon whilst you have an active selection, a Layer Mask will be created that follows the selection outline exactly, fig 8.6. You will notice that there is a linked chain icon between the thumbnail of the image and the Layer Mask in the Layers
+
+panel. This shows that the image location is locked to the mask position. However, if you click on the icon it will disappear allowing you to move the mask and the image independently. With the link removed, click on the image thumbnail then choose the Move tool from the tools panel. You can then click and drag the Sky around to find the best position and the Layer Mask will remain in place.
+
+65
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Layer Masks and Clipping Masks
+
+Fig 8.9 the completed image.
+
+When you are happy with your composite image you can flatten it into a single layer by choosing Flatten Image in the Layers panel flyout menu, fig 8.10
+
+66
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Layer Masks and Clipping Masks
+
+Fig 8.10 you can choose to Flatten all of the layers into a single layer from the Flyout menu in the Layers panel.
+
+Clipping Masks
+Clipping Masks are very different from Layer Masks in that with a Clipping Mask you place the contents on one into the opaque pixels of the layer below. For example, you can create a Type layer, place an image in the layer above the type in the Layers panel and clip the image to the type, fig 8.11. To clip one layer to another, click on the top layer to make it active and then go to the Layer menu and choose Create Clipping Mask, fig 8.12.
+
+67
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Layer Masks and Clipping Masks
+
+Fig 8.11 the Type layer has been used as a Clipping Mask for the Church layer. The Clipping is indicated on the Church layer by the indent sign and the moved thumbnail image.
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+68
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users
+
+Layer Masks and Clipping Masks
+
+Fig 8.12 the Create Clipping Mask option in the Layer Menu.
+
+An alternative way to create a Clipping Mask, is to place your cursor on the border between the two layers and Alt/Option (PC/Mac) + Click.
+
+69
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+The Cloning and Healing Tools
+
+9	 The Cloning and Healing Tools
+The cloning and healing tools in Photoshop are very powerful and have many uses such as: •	 Repairing and restoring old photographs. •	 Removing unwanted or distracting elements from an image. •	 Improving portrait and fashion shots by fixing blemishes and creases. •	 Removing sensor dust spots from images. •	 Recomposing an image by relocating elements. •	 Place elements from one image into another image. These tools have made Photoshop famous (and infamous), particularly in the area of retouching fashion and celebrity images. It’s not my place to preach about the moral and ethical issues involved in retouching images. However, I will say that it’s a good idea to consult with the subject before you start trying to make them look 20 years younger (or older) and respect their wishes.
+
+The Healing Tools
+The healing tools (fig 9.1) consist of: The Spot Healing Brush tool – this is probably the easiest of the healing tool to get to grips with.
+
+Fig 9.1 the Healing tools
+
+Fig 9.2 the Spot Healing Brush Options panel
+
+The Spot Healing Brush options panel (fig 9.2) has a “Sample All Layers” check box. When selected, it allows you to work non-destructively, by creating a blank layer and using it to contain the edits. When you paint on the blank layer with the Spot Healing Brush, Photoshop will look at the layers below and copy those pixels to the new layer, taking in to account the properties of the brush. The physical properties of the Spot Healing Brush may be altered by using the drop down menu in the Options panel, fig 9.3.
+
+70
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+The Cloning and Healing Tools
+
+Fig 9.3 alter the brush properties from the drop down menu in the Options panel.
+
+There are three different types of healing which can be selected from the Options panel: 1.	 Proximity Match - heals the target area with the closely surrounding pixels 2.	 Create Texture – works in a similar way to Proximity Match but will attempt to create a texture to match surrounding patterns/noise etc.
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+71
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users
+
+The Cloning and Healing Tools
+
+3.	 Content Aware – tries to replace the pixels with similar pixels found close by. All of these options will attempt to blend the painted area with its surrounding pixels to create seamless tones. Occasionally, it may take a couple of passes with the brush to get a satisfactory result. The Healing Brush Tool – like the Spot Healing Brush, will also attempt to blend the painted area with the surrounding pixels. How it differs, is that you sample the pixels that you wish to paint with manually. To do this, hold down the Alt/ Option (PC/Mac) and click on a clean area of the image. When you paint, the brush will replace the target pixels with the ones that you’ve sampled and blend them seamlessly, fig 9.4.
+
+
+Fig 9.4 on the left is a prominent sensor dust spot. On the right we have the same area fixed using the Healing Brush.
+
+
+
+An important setting for the Healing Brush tool is the Aligned tick box in the Options panel. When this is ticked, the sample area will move relative to the target area when you paint on a new area. If unchecked the sample area will remain in the same place no matter where you paint in the image. You will usually want to have Aligned ticked to avoid repetitive patterns forming in your image. The Patch Tool – this tool cannot be used in the “Sample all Layers” mode so it will not work in a blank layer. To avoid damaging your original image, select duplicate later from the Layers panel flyout menu, located in the top right hand corner of the panel. The Patch tool is usually used for fixing large areas and has two different modes in the Options panel: 1.	 Source – use the Patch tool to draw a loose selection around the area that you wish to fix. Once you have your completed selection outline, click inside the selected area and drag it to a good part of the image. As you drag the selection you will notice the target area change to reflect the pixels in the area you are currently sampling. When you let go of the mouse button the sample area will be set and the original selected area will be replaced with the sampled area and the surrounding pixels will be blended seamlessly. 2.	 Destination - this mode is the opposite of “Source”. In this instance, you first select a good part of the image and then drag it over the area that you wish to fix.
+
+72
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+The Cloning and Healing Tools
+
+You can also use the patch tool in conjunction with the Selection tools. Make a selection using any of the Selection tools and then switch to the Patch tool to drag the selection to the sample area. The Redeye Tool – this tool fixes the problem of Redeye caused by on camera flashes, where there appears to be a red glow coming from the subject pupils. To use this tool, simply click and drag to draw a box over the eye. In most case the default settings will do a pretty good job, but if you need to change the settings, you can increase or decrease the Pupil Size and Darken Amount from the Options panel.
+
+The Clone Stamp Tool
+The Clone Stamp tool works in a similar fashion to the Healing Brush tool, in that the sample point is set manually by Alt/Option (PC/Mac) clicking. The major difference between these two tools is that Clone Stamp tool does not blend its results with the surrounding pixels. This is invaluable when fixing a portion of an image that contains hard edges. All of the Healing tools would try and blend with the surrounding pixels and blur any edge details in the image, whereas the Clone Stamp tool would allow you to paint right up to those edges without any problem. Another advantage of the Clone Stamp tool over the Healing tools, is that you can assign any brush tip shape. This means that you can use the Brush panel to create textured and randomized brushes to use with the Clone Stamp tool.
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+73
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users
+
+Selections
+
+10	Selections
+In the first book in this series, we looked at a number of the basic selection tools. In this chapter we will expand on that knowledge by looking at alternative ways to make selections and also methods of manipulating and refining selections.
+
+Quick selection tool
+The Quick Selection tool (fig10.1), is like painting a selection onto the image. The tool will attempt to follow edges of high contrast in order to make a selection. There is little in the way of controls for this tool, but there are buttons that allow you to add to and subtract from your current selection, fig 10.2.
+
+Fig 10.1 the Quick Selection Tool is found grouped with the Magic Wand tool in the Tools panel
+
+Fig 10.2 add or subtract selection areas by choosing one of the settings in the Options panel
+
+The Auto Enhance check box in the Options panel adds a slight amount of smoothing to the selection edge, making it less blocky. The accuracy of the Quick Selection tool is largely dependent on the brush size. Typically, the smaller the brush size, the more accurate the selection will be. The Quick Selection tool is often a good place to start when making a selection. However, it will often need to be used in conjunction with other selection tools or the Refine Edge function, to provide an accurate selection.
+
+Refine Edge
+The Refine Edge function can be accessed from the Options panel when you choose any of the selection tools and you have an active selection. It can also be accessed from the Select menu. When Refine Edge is chosen a dialogue box will appear which will allow you to edit the current selection, fig 10.3.
+
+74
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Selections
+
+
+Fig 10.3 the Refine Edge dialogue box
+
+Refine Edge settings:
+
+75
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Selections
+
+Fig 10.4 an example of a selection with hard and soft edges.
+
+The stuff you'll need to make a good living
+
+STUDY. PLAY.
+
+The stuff that makes life worth living
+
+NORWAY. YOUR IDEAL STUDY DESTINATION.
+WWW.STUDYINNORWAY.NO FACEBOOK.COM/STUDYINNORWAY
+
+76
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users
+
+Selections
+
+Fig 10.5 the selection can be Output in a number of different ways.
+
+Fig 10.6 a composite image made possible by the Refine Edge function.
+
+The Refine Edge function has made creating composite images (fig 10.6) easier and much quicker than was previously possible. In fig 10.6, the move tool has been used to drag the selected model into a completely different image.
+
+77
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Selections
+
+Transform Selections
+In chapter 3 of this book we looked at Transformations. It is also possible to Transform selections using the same methods and modifiers. However, to transform a selection you must access the function from the Select menu and not the Edit menu. Another difference is that you don’t have access to the different Transformation types from the Select menu. However, you can still access them by Right clicking inside Transformation bounding box or using the Modifier keys.
+
+Saving and Loading Selections
+Once you’ve gone to the trouble of making a complex selection it’s a good idea to save it in case you wish to return to the document at a later date to re-edit it. The Save and Load selections function can be found in the Select menu. Once you save a selection, a new Channel is created and can be viewed and edited in the Channels panel.
+
+Color Range
+This selection method is available from the Select menu. There is also a Color Range function which can be used to edit Layer Masks and works in the same fashion. It is very useful for selecting areas of strong colour such as skies, fig 10.7.
+
+I joined MITAS because I wanted real responsibili� I joined MITAS because I wanted real responsibili�
+
+Maersk.com/Mitas www.discovermitas.com
+
+�e Graduate Programme for Engineers and Geoscientists
+
+� for Engin
+
+M
+
+Real work International Internationa al opportunities �ree wo work or placements
+
+Month 16 I was a construction M supervisor ina cons I was the North Sea supe advising and the N he helping foremen advis s solve problems Real work he helping International Internationa al opportunities �ree wo work or placements s solve p
+Click on the ad to read more
+
+78
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Selections
+
+Fig 10.7 the Color Range dialogue box.
+
+The Color Range dialogue box is used by choosing the eyedropper tool and either clicking in the image or corresponding selection area in the preview panel of the dialogue box. The original selection can be added to by using the + eyedropper or subtracted from using the – eyedropper. The selection can be adjusted using the Fuzziness slider to add or subtract similar colours. The selection can also be Localized to the original sample point and the surrounding area by using the “Localized Color Clusters” check box in association with the Range slider. The “Select” drop down menu can be useful to target specific colours or Shadow, Midtone and Highlight areas of an image for editing.
+
+79
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Image & Canvas Resizing
+
+11	Image & Canvas Resizing
+Resizing a Document
+The ability to resize a document is extremely important. We often need smaller versions for web pages, layouts and emailing. Resizing is accomplished by choosing “Image Size” in the Image menu.
+
+Fig 11.1 the Image Size dialogue box.
+
+The Image Size dialogue box (fig 11.1) appears straight forward, but is often used incorrectly: •	 Pixel Dimensions – this option will only be available if the Resample Image check box is ticked. Please note that this is a destructive process and you should perform this process on a copy of your original document, so that the original will remain safe. If you increase the Pixel Dimensions, Photoshop will try to invent new image information in a process called interpolation. When the Pixel Dimensions are reduced, information is lost from the document. •	 Document Size – you can change the physical dimensions of a document without using the Resample Image check box. However, it will accomplish this by changing the documents resolution. For example, if I made a document 200% of the original size, the resolution of the document would be reduced to half of the original setting, fig 11.2.
+
+80
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Image & Canvas Resizing
+
+
+Fig 11.2 the relationship between Document Size and Resolution. Note that the Pixel Dimensions remain the same.
+
+
+
+Scale Styles – if this option is ticked, any Layer Styles associated with the documents layers will be scaled appropriately. Constrain Proportions – maintains the aspect ratio of the document during the resizing process.
+
+Need help with your dissertation?
+Get in-depth feedback & advice from experts in your topic area. Find out what you can do to improve the quality of your dissertation!
+
+Get Help Now
+
+Go to www.helpmyassignment.co.uk for more info
+
+81
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users
+
+Image & Canvas Resizing
+
+Resample Image – there are five different algorithms that can be selected if you need to resample the document, fig 11.3. They each have a description in parenthesis as to when they should be chosen, with the exception of Bilinear. Bilinear interpolation works by averaging the colour values surrounding a given pixel and produces medium quality results. The three Bicubic algorithms generally produce the best results.
+
+Fig 11.3 the various interpolation algorithms employed during Resampling.
+
+Adding Canvas Area
+You can add to the canvas area of a document in two different ways. The first method involves choosing the Canvas Size function in the Image menu. The resulting dialogue box is relatively simple to use. Enter the new Width and Height settings and then click in the box containing the arrows to indicate the edges you wish to resizes – clicking in the middle will add canvas to all sides, fig 11.4.
+
+Fig 11.4 the Canvas Size dialogue box.
+
+82
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+Image & Canvas Resizing
+
+Before you click OK, use the drop down menu in the “Canvas extension color” section to choose the colour of the new canvas area.
+
+Fig 11.5 choose the colour of the canvas extension
+
+The second method for altering the canvas area involves the use of the crop tool. However, instead of cropping inwards, you use the tool to drag outwards. The new canvas area will be the colour that you currently have set as the background colour. Once you have set the crop area to the new size, click on the Tick in the Options panel to accept the changes.
+
+83
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users
+
+The Filter Gallery
+
+12	The Filter Gallery
+The Filters are found in the Filters menu and there are generally two uses for Filters in Photoshop. The first is to retouch the image and involves Filters in the Lens Correction, Blur, Sharpen and Noise categories. The second use is to produce special effects. It is often difficult to visualise what these special effects type filter are going to do, so Photoshop provides the Filter Gallery which has small thumbnails next to each effect to give you an idea as to the function of the Filter, fig 12.1.
+
+Fig 12.1 the Filter Gallery
+
+Not all of the Filters available in Photoshop appear in the Filter Gallery. It tends to be the more artistic that are included. Before you apply a Filter it is good practice to convert the Layer for Smart Filters (in the Filters menu). This creates a Smart Object from the current Layer and as such, will apply the Filters non-destructively. This also means that you can re-open the Filter at any time and change the settings. This is achieved by double clicking on the Filter Gallery name in the Layers panel, fig 12.2.
+
+84
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+The Filter Gallery
+
+Fig 12.2 how Smart Filters appear in the Layers panel
+
+Another advantage of using the Filter Gallery is the Ability to stack multiple Filters and preview the results, fig 12.3. To add more Filters, click on the icon on the bottom right of the dialogue box. Initially the current effect will be duplicated, but you can change it by clicking on a different effect in the Filter Gallery. You can change the order in which the effects are applied by dragging them up or down in the list.
+
+Brain power
+
+By 2020, wind could provide one-tenth of our planet’s electricity needs. Already today, SKF’s innovative knowhow is crucial to running a large proportion of the world’s wind turbines. Up to 25 % of the generating costs relate to maintenance. These can be reduced dramatically thanks to our systems for on-line condition monitoring and automatic lubrication. We help make it more economical to create cleaner, cheaper energy out of thin air. By sharing our experience, expertise, and creativity, industries can boost performance beyond expectations. Therefore we need the best employees who can meet this challenge!
+
+The Power of Knowledge Engineering
+
+Plug into The Power of Knowledge Engineering. Visit us at www.skf.com/knowledge
+
+85
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Adobe Photoshop for Intermediate Users
+
+The Filter Gallery
+
+Fig 12.3 stacked Filters in the Filter Gallery.
+
+I encourage you to use the Filter Gallery to experiment with the various Filters in Photoshop and get to know what each of them does.
+
+86
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+More on Layers
+
+13	More on Layers
+Grouping Layers
+The process of making complex edits can generate a large number of layers, fig 13.1. In web and design layouts with lots of graphics and type layers the number of layers can easily top one hundred. It is good practice to keep an orderly Layer panel by naming layers and Grouping similar layers into folders. In fig 13.2 the image edits have been grouped into Tonal and Colour adjustments, which makes for a much tidier Layers panel.
+
+Fig 13.1 an untidy layers panel.
+
+Fig 13.2 the edits have been grouped into Tonal and Colour adjustments
+
+87
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+More on Layers
+
+There are a couple of different ways of grouping layers into folders. My preferred method is to first select multiple layers by clicking on the lowest layer to be placed in a group and then hold down the Shift key and click on the uppermost layer, the selected layers will then appear blue, fig 13.3.
+
+Fig 13.3 multiple selected layers
+
+Once the layers have been selected, go to the flyout menu in the top right hand corner of the Layers panel and choose the “New Group from Layers” option, fig 13.4. A dialogue box will appear (fig 13.5) in which you can name the Group, assign it a colour and also set the Blend mode and Opacity for the Group.
+
+88
+Download free eBooks at bookboon.com
+
+Adobe Photoshop for Intermediate Users
+
+More on Layers
+
+Fig 13.4 the “New Group from Layers” in the Layers panel flyout menu.
+
+Fig 13.5 the “New Group from Layers” dialogue box
+
+89
+Download free eBooks at bookboon.com
+

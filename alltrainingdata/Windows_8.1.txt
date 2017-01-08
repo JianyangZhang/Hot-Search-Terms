@@ -1,0 +1,2602 @@
+Windows	8.1
+Pert	Mason
+
+Download	free	books	at
+
+Pert Mason
+
+Windows 8.1
+
+2
+Download free eBooks at bookboon.com
+
+Windows 8.1 1st edition © 2014 Pert Mason & bookboon.com ISBN 978-87-403-0763-4
+
+3
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Contents
+
+Contents
+	 About the author	 9 10 11 11 13 13 14 14 16 17 18 18
+
+1	Foreword	 2	 2.1	 3	 3.1	 4	 4.1	 4.2	 4.3	 The structure of this book	 The structure of this book	 Operating systems	 What is an operating system?	 Upgrading to Windows 8.1	 Requirements for upgrading to Windows 8.1	 Before starting the installation	 Do it	
+
+5	Navigation	 5.1	 Navigate with a mouse	
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Contents
+
+6	 Graphic user interfaces in Windows 8.1	 6.1	 6.2	 6.3	 6.4	 6.5	 6.6	 6.7	 6.8	 The Start screen	 Elements of the Start screen	 Start screen background	 The Apps view	 Elements in the Apps view	 Show several apps simultaneously.	 The Desktop	 Elements on the Desktop	
+
+21 22 23 28 30 30 34 34 36 39 45 52 61 63 64 65 65 66
+
+6.9	Icons	 6.10	Windows	 6.11	 The Taskbar	
+
+7	Charms	 7.1	 7.2	 7.3	 7.4	 7.5	 The Search Charm	 The Share Charm	 The Start Charm	 The Devices Charm	 The Settings Charm	
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Contents
+
+8	Searching	 8.1	 8.2	 8.3	 9	 9.1	 9.2	 9.4	 9.5	 10	 Search from the start screen	 Search with File Explorer	 Search with Help	 Storage of datafiles	 Storage from Apps	 Storage from Desktop-programs	 Hierarchy of folders	 Types of files	 Computer connections	
+
+92 92 93 95 96 97 97 97 100 102 106 106 107 108 108
+
+9.3	Libraries	
+
+10.1	Networks	 10.2	CD-rom/DVD-drives	 10.3	USB-drives	 10.4	Printers	
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+6
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Contents
+
+11	 11.1	 11.2	 12	 12.2	 12.3	 12.4	
+
+Important programs	 Computer Oriented programs	 User oriented programs	 The Internet	 Security on the Internet	 Cloud computing	 Create a Microsoft-account	
+
+110 110 117 119 119 124 124 125 126 129 130 131 132 133 133 134
+
+12.1	Introduction	
+
+12.5	Outlook	 12.6	OneDrive	 12.7	Skype	 13	 13.1	 13.2	 13.4	 Windows Store	 Download an app from Store	 Automatically update of apps	 Recommended apps from Store	
+
+13.3	Compatibility	
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+7
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Contents
+
+14	
+
+News and tricks for Windows 8.1	
+
+135 135 142 147 149 151
+
+14.1	News	 14.2	Tricks	 15	Help	 16	Index	 17	Glossary	
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+8
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+About the author
+
+About the author
+
+My writer name is Pert Mason, and I was born in Copenhagen, Denmark 1960. During the eighties I made myself a career in a supermarket chain. It was one of the first free retailers in Denmark that implemented Information technology (It) systems in its daily operations, both at the offices and the shops. Due to personal experience with computers, I soon got involved with strategic and practical implementation of It systems everywhere in our business. An education as a “business manager with diploma” combined with courses in Project Management and Strategic Leadership put It at work in a perspective to me. Some years later I graduated as a school teacher, and It quickly became integrated in my teaching. I almost felt it as my mission to teach my pupils how to use It, to reduce the struggle with learning Physics and Mathematics. Some years later my mission turned out to only include adults. From 2010 to 2013 I worked as a teacher in It and Economics at Erhvervsskolerne Aars (Business Schools in Aars) and Aarhus Købmandsskole (Retailers School in Aarhus). Since then I have worked as an independent consultant in It and Economics. I have written books for Erhvervsskolernes Forlag (Business School Publishing) and bookboon.com.
+
+9
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Foreword
+
+1	Foreword
+This book is aimed at new users of the operating system Windows 8.1, installed on stationary computers or laptops. Users of computers with touchscreens, like tablets, may also enjoy the book, even though navigating on touchscreens is only described in chapter 5.1.3 Navigate on a touchscreen If you are not an experienced user of a computer, you will hopefully find answers to many of your questions in this book. If you are comfortable working with Windows 7 you will probably find many things have changed in Windows 8.1. Windows 8 was undoubtly designed for a touchscreen, with big ‘tappable’ tiles in place of small, fiddly buttons to click on. There are two whole new Graphical User Interfaces: the Start screen and the Apps view (read more in chapter 6 Graphic User Interfaces…). That design has been modified in Windows 8.1 to satify the needs of users using mouse and keyboard. If you read this book from the start to the end you will learn a lot about possible uses and the functionalities of Windows 8.1. But this is not the primary purpose with this book. The idea is, that is nice to have the book as a practical, offline Encyclopedia, that quickly can answer common user questions about Windows 8.1. Users may need -- relevant office programs, like word processing, calculation sheets and so on -- a calender for your lectures, homework, meetings and more -- tools of communication, like webmail, Skype, podio, msn and more -- download1 of materials, like free books at bookboon.com -- social media, like facebook, twitter, instagram, snapchat and so on -- news and weather forecasts -- streaming2 of audio og video, like television programs, YouTube, Spotify and so on -- and a lot of other stuff With Windows 8.1 comes a number of programs, that will satisfy some of the above mentioned needs. Furthermore you can download programs/apps from Windows Store (try e.g. the search text “student” and see what happens), and from various websites on the Internet. Your organisation will probably be able to help you with other needs. The author can not be held responsible for any content on any websites, downloads, hyperlinks or any other things mentioned in this book, since it can be subject to change or misuse. Enjoy your reading.
+
+10
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+The structure of this book
+
+2	 The structure of this book
+In this chapter you will learn about ----the structure of the book chapter elements hyperlinks symbolics
+
+2.1	
+2.1.1	
+
+The structure of this book
+The chapters
+
+In the first 6 chapters you will learn about the Graphical User Interfaces in Windows 8.1: content, elements and functionality. In chapter 7 you will learn about Charms – i.e. new shortcut icons for various features. In chapters 8 Searching and 9 Storage of datafiles you will learn how to manipulate various types of data files, and how to search for and store them. In chapter 10 Computer connections you will learn about networks and up- and download of data. In chapter 11 Important programs you will learn about programs that it is useful to know something about. Chapter 12 the Internet is about browsers, security, cloud computing and e-mail. Chapter 13 Windows Store is about download and update of apps from Store. Chapter 14 Tips and tricks for windows 8.1 is describing news and helpful hints. Chapter 15 Help shows you how to get help using Windows 8.1. Chapter 16 Index contains an index of keywords, and chapter 17 Glossary contains examples and explanations of words that is marked with superscript characters in the book (End notes). They might be everyday expressions, but can also be technical terms. 2.1.2	 Chapter elements
+
+Learning goals All chapters begins with description of learning goals.
+
+11
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+The structure of this book
+
+Fact panes
+Fact panes contains descriptions of important concepts.
+
+Sometimes examples of use is explained. End notes End notes is used in the book, marked with superscripted numbers (e.g. computer1) which are explained in chapter 17 Glossary. 2.1.3	Hyperlinks Hyperlinks are underlined, and therefore easily recognizable. Both internal (bookmarks) and external hyperlinks are used. Most external hyperlinks refers to websites in Waybackmachine. Waybackmachine is an archive website, that stores contents of other websites. So even when changes are made, you can still see the original website referred to in this book.
+If you want to visit the original websites, just delete the text before the second time it says http:// in the address bar.
+
+2.1.4	
+
+Used symbolic -- “The mouse pointer” is the mouse representation on screen – by default a white diagonally pointing arrow, a vertical line or a hand. -- Keys on the keyboard is (if possible) written starting with a capital letter, like Enter or C. -- Names of specific places/elements in Windows 8.1 is written with a capital letter, like Desktop, the folder This PC, Control panel etc. -- Names of menu items, commands, buttons and dialog frames is written with italic font, like the command Print. -- tabs are written in squares, like e.g. View. -- When you must press two or more keys at the same time, a plus will be inserted between the keys. For example “press Ctrl+F”. You perform this manoeuvre by holding down the Ctrl-key, press the F-key once, and let go of the Ctrl-key again. -- Several ways to perform a specific action may be described in the book, but not necessarily all existing ways.
+
+12
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Operating systems
+
+3	 Operating systems
+In this chapter you will learn about -- what an operating system is, generally spoken
+
+3.1	
+
+What is an operating system?
+
+An operating system is the basic software on a computer, that makes it possible to run programs, store data and control the vital ressources of a computer. Operating systems control and coordinate the hardware3 and the software4 that is executed on the computer. To use a symphonic orchestra as metaphor for a computer, one could say that the musicians and their instruments symbolizes the computer hardware, the nodeleaflets with music on symbolizes the computer software, and the orchestral conductor symbolizes the computers operating system. This book is describing the operating system Windows 8.1 by the software company Microsoft. There are lots of other operating systems; e.g. Mac OS, Ubuntu, Android, just to mention a few. There are different opinions of how to define an operating system, and how to define separate programs. However, it is not the authors intention to describe various theoretical terms about operating systems. So, if you want to know more about operating systems, you can do so by searching the Internet, or you can click here.
+
+13
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Upgrading to Windows 8.1
+
+4	 Upgrading to Windows 8.1
+In this chapter you learn about -- conditions for upgrading to Windows 8.1 -- security backup before upgrading -- actual steps for upgrading
+
+4.1	
+
+Requirements for upgrading to Windows 8.1
+
+To upgrade to Windows 8.1, certain conditions must be in place.
+Minimum demands for PC’s to run Windows 8.1 -- 1 GHz clock rate or faster -- IA-32 or X64 based architecture -- 1 Gb RAM (IA-32) or 2 Gb RAM (x64) -- DirectX 9-graphics with a WDDM-driver -- 16 Gb Hard Drive space (IA-32) or 20 Gb Hard Drive space (x64) -- 1024 x 768 pixel screen solution Higher values than mentioned above are recommended to run future versions.
+
+14
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Upgrading to Windows 8.1
+
+4.1.1	
+
+Upgrading from Windows-versions earlier than 7
+
+If you want to upgrade to  Windows  8.1  from Windows  Vista or Windows  XP, you must install the program from a Windows 8.1-DVD, and perform the upgrading from scratch. This will cause all your existing files, settings and programs to disappear (be sure to take a backup before installation). However, if you decide to upgrade, you must ensure that your computer meets the demands from Microsoft to run Windows 8.1. 4.1.2	 Upgrading from Windows 7 to Windows 8.1
+
+On a Microsoft website (click here – and read about original websites here) you can download an “Upgrading assistant” for free. It will automatically scan your PC and verify that it meets the producers demands. A product that worked well with Windows 7, will most likely work well with Windows 8.1. The Upgrading assistant will create a compatibility report, and can help you buy, download and install Windows 8.1. Everything can be done online via the Internet. But it is also possible to buy a DVD with the program, if you prefer this. Remember, if you are a student you might get a discount. The actual upgrading procedure is very well described on Microsofts website, and is therefore not covered here. 4.1.3	 Upgrading from Windows 8 to Windows 8.1
+
+In august 2014 Microsoft released Windows 8.1 Update 1 (KB 2919355 = the update name). Microsoft announced that if you didn’t install it, or if you removed it, you would not get future security updates, bug fixes or new functionalitialities. Later Microsoft recommended you to uninstall that update, and replace it with KB 2993651. Later all known problems were solved with a so called update fix. It is confusing, so it is recommended that you read more about known issues with security updates by clicking here.
+Which update version is your operating system? If you want to know which Windows updates you have, you can right click on the Windows-icon in the lower, left side of the screen, choose Programs and Features at the top, and then click on View Installed Updates. Here you get all the information you need about updates of Windows and other programs.
+
+15
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Upgrading to Windows 8.1
+
+Mitigation Find and then uninstall any of the following updates that are currently installed on your system: •	 KB2982791 •	 KB2970228 •	 KB2975719 •	 KB2975331 KB2993651 replaces these security updates, and resolves known issues. (Source: Microsoft website) It is important to ensure, that all relevant updates of Windows 8 are installed. Type the word “update” on the Start screen, and then choose Windows Update. This will give you an overview of your update options. You can read more about searching from start screen in chapter 8 Searching. When you upgrade from Windows 8 to 8.1 your files, apps, user accounts and all other settings are automatically saved.  Windows 8.1 comes with some apps, which updates or replaces earlier installed apps. Existing Windows Store-apps are not included in the update, but when the upgrade is finished, you can reinstall all of them – or just the ones you that want to keep. 
+
+4.2	
+
+Before starting the installation
+
+There are a couple of things that is recommended that you do before you install the update. --  Make a safety backup of your data files. Even though your files will be saved as you install Windows 8.1, it is a good idea to backup your datafiles, by configurering File history. -- Make sure you got enough disc space on your Hard Drive.
+How to ensure you got sufficient disc space -Put the mouse pointer in the lower left corner, and right click the Windows-icon. Choose the item System. In the window that opens you can see if you got a 32-bit or a 64-bit-system. If you run Windows 8, you must have 3.000 MB space available to install the 32-bit version of Windows 8.1 and 3.850 MB space available to install the 64- bit version of Windows 8.1. Put the mouse pointer in the lower right corner, choose the Settings-charm, and choose Change PC-settings. Choose PC and Devices, and choose Disc space. Notice the number of Gb available under Free up space on this PC. Your PC need at least a couple of Gb to run correctly. Are you short of disc space, you can try to remove large files or apps. You can also try using the tool Disc cleanup.
+
+--
+
+--
+
+16
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Upgrading to Windows 8.1
+
+To start upgrading the operating system you must search and find the icon Windows Store on the Start screen or Apps view. The icon looks like this:	 -- Make sure your computers power chord is connected to a power switch. If you run out of power before the installation has finished, the installation might not work properly. -- Make sure you are connected to the internet all the time. If not, you might have to repeat some processes to finish the configuration, and it will take more time. Be aware that if you are using a consumption based plan for the internet connection then this might cost you money. -- Make sure you have the latest Windows updates before you install Windows 8.1. In most cases Windows Update will do this automatically for you. However, if this functionality is not enabled, then you must manually check for updates. To do this write the word “update” in the search field on your Start screen, og choose Windows Update. For more information look under Windows Update: Frequently Asked Questions (FAQ). -- Turn your antivirus program off. Some antivirusprograms might interrupt the installation. When you have installed Windows 8.1 remember to put your antivirus program back on.
+
+4.3	
+
+Do it
+
+Do not wait for any update notifications from Windows Update, when you upgrade to Windows 8.1! Microsoft made it necessary to open the “app” Windows Store, when you upgrade from Windows 8. When Windows Store is open, it should automatically suggest, that you upgrade to Windows 8.1, provided that you have upgraded your Windows 8 to the latest version! Start upgrading to Windows 8.1! If Windows store does not automatically suggest that you upgrade to Windows 8.1 when you open Windows Store, there can be several reasons: -- You got an Enterprise-version -- You got a Pro-version with volume-license -- You try to install a 64-bit version on a PC that is not compatible with 64-bit -- You use a preview-version of Windows 8 (a real version can be downloaded from Windows Store) -- Try to reset Windows Store. Do it by pressing the Windows-key + R, and type in the word “wsreset.exe”. Restart the computer, and reopen Windows Store. The problem is hopefully solved. Troubleshooting problems around installation of Windows 8.1 is not described further in this book. It is not the purpose of the book, and in many cases it will be the readers organisations system administrator that must solve any such problems! There are quite a large number of websites on the internet that describes various procedures for correcting installation errors – free of charge.
+
+17
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Navigation
+
+5	Navigation
+In this chapter you will learn about -various navigation movements, for two types of computers
+
+5.1	
+
+Navigate with a mouse
+Do like this Push left mouse button once Push right mouse button once Push left mouse button twice fast Roll the mouse wheel up or down The representation of the mouse on screen – by default a diagonally pointing arrow Result Activate links, menus, commands Open menus Activate menus or commands Browse pages in websites or documents Shows where on the screen your actions with mouse or keyboard may take place
+
+Movement Click / leftclick Right click Double click Scroll up/down Mouse pointer
+
+18
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Navigation
+
+Hot Corners Pay attention to the corners of the screen. Some call them Hot Corners! If you place the mouse pointer in the upper left corner of the screen, you see a thumbnail picture of an alternative User Interface, e.g. Start screen or Desktop (read more in chapter 6 Graphic User Interfaces…). If you place the mouse pointer in the lower left corner of the screen, you see a Windows-button. Read more about this in chapter 6.1.1 Navigate to the Start screen). If you place the mouse pointer in the upper right corner of the screen, to get access to Charms (read more in chapter 7 Charms). If you place the mouse pointer in the lower right corner of the screen, and hold it there, you will see the Desktop (read more in chapter 6.10.8 Aero functions). 5.1.2	 Navigate with keyboard (chosen shortcuts)
+Get to Help Open Easy Access Center Open Charms Open the Search Charm Open the Search Charm Open the Share Charm Open the Settings Charm Open the Devices Charm Show commands for an app Desktop Start screen Open File Explorer Open Run dialog box Open Quick Link Menu +E +R +X Press keys F1 +U +C +F +S +H +I +K +Z +D Description Windows Help Center Easy-to-use-settings Access computerrelated programs Search your filesystem Search Windows and web Share screen shots Change your computer settings Project options Access action choices for an app Display and hide the Desktop Display or hide the Start screen Display the filesystem on your computer Text commands (advanced) Access to the Windows menu
+
+To see a list of the new keyboard shortcuts for windows 8.1, click here. To see an overview of all keyboard shortcuts click here.
+
+19
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Navigation
+
+5.1.3	
+
+Navigate on a touchscreen (chosen movements)
+Movement Tap Do like this Tap once on an item. Result Opens, selects, or activates whatever item that you tap. Similar to clicking with a mouse. Shows help information about an item or opens a menu specific to what you're doing. Only works for some items. Similar to right-clicking with a mouse. Visually zooms in or out: like with pictures or folders. A good place to explore this is the Start screen.
+
+Press and hold
+
+Press your finger down and hold for about a second.
+
+Pinch or stretch to zoom
+
+Touch the screen or an item with two or more fingers, and then move the fingers toward each other (pinch) or away from each other (stretch). Drag your finger on the screen. Press and drag an item in the direction opposite the way the page scrolls, then move it wherever you want. (For example, if you would scroll left or right, drag the item up or down.) When you've moved the item to the new location, let it go. Swipe an item with a short, quick movement in the direction opposite the way the page scrolls. If the page scrolls up or down, swipe the item left or right to select it. Starting on the edge, either swipe your finger quickly or slide across the screen without lifting your finger. Put two or more fingers on an item and then turn your hand.
+
+Slide to scroll Slide to rearrange
+
+Moves through what’s on the screen. Similar to scrolling with a mouse. Moves an item. Similar to dragging with a mouse.
+
+Swipe to select
+
+Selects an item, and often brings up app commands.
+
+Swipe or slide from the edge
+
+Open the charms (Search, Share, Start, Devices, Settings). Swipe in from the right edge. Other results not mentioned here.
+
+Rotate
+
+Rotates items in the direction you turn your hand. Only some items can be rotated.
+
+For more information about navigation on touch screens click here.
+
+20
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+6	 Graphic user interfaces in Windows 8.1
+In this chapter you learn about
+
+-- characteristics of the graphical user interfaces in Windows 8.1 -- elements and backgrounds -- navigation between user interfaces in Windows 8.1 When you turn on your computer the first thing you see is the Lock screen, that looks something like this:
+
+The Lock screen can be set to display a photo or automatically run a diasshow (read more in chapter 7.5.3 Change PC settings). Touching a random key or the mouse will bring you to the Login screen, where you must enter a username and a password to proceed to a graphic user interface. A graphic user interface is an interface, where a user interacts with a computer. The interface is represented on a screen and shows a combination of text and graphics that the user can manipulate with keyboard, mouse or fingers.
+
+21
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+Windows 8.1 has three different graphic user interfaces, which are: -- The Start screen (or just Start) -- The All apps view (or just Apps view) and -- The Desktop In the following the three user interfaces are described separately.
+
+6.1	The Start screen
+The start screen is where you have fast access to preferred apps, favorite web sites, often used folders, current work files etc. If you use a Microsoft-account to log in, you get access to your own, individually designed Start screen. This screen you will meet, no matter which windows 8.x PC you use – anywhere in the world.
+
+The start screen is easily recognized by the text Start in the top, left corner.
+
+The graphical user interface of the Start screen (originally called Metro), is similar to that on Windows smartphones. For the manufacturer, Microsoft, it is important, that users easily can shift seamlessly from one Microsoft platform5 to another.
+
+22
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+6.1.1	 methods:
+
+Navigate to the Start screen
+
+No matter where you are in Windows 8.1, you can always get to the Start screen by using one of these
+
+-- Put the mouse pointer in the lower, left corner of the screen and click the Start-button (that looks like a window) -- Click the Windows-key on the keyboard (the key with a window on it) -- From the Apps view you can go to the start screen by holding down the Ctrl-key and press the Tab-key one time, and then let go of the Ctrl-key again.
+
+6.2	
+6.2.1	
+
+Elements of the Start screen
+User information
+
+In the upper right corner of the screen the current users name is shown, and a photo of the user, if this has been added. The information shown here corresponds to the data typed in at the log in screen. You can log in locally, or you can use a Microsoft-account (read more in chapter 12.4 Create a Microsoft account). Any PC in the world with Windows 8.1 installed, can give you access to your own individually designed screen. That is, when you use your Microsoft account information to log in.
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+23
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+To change user, either log off and log in as a different user, or restart Windows 8.1 and type in the wanted log in data. When you put the mouse pointer in the lower, left corner of the screen, you can log off by right clicking the window button that appears. Then you choose Shut down or sign out and then Sign out. 6.2.2	 On/Off symbol
+
+On the upper, right on the Start screen – to the right of the account information – is the on/off button. If you click on it, a menu appears, with the choices Sleep, Update and shut down and Update and restart. (Maybe the choice Hibernate too, read more in chapter 7.5.1 System under Power Options). 6.2.3	Search To the right hand side of the on/off button is a looking glass. If you click on it, a search field appears, where you can type in text.
+From the Start screen, start typing text directly. this will activate the search box, and provide you search results instantly! This might save you a lot of time – use this feature in the future!
+
+6.2.4	Scrollbar The start screen probably has more content (icons) than is shown on the computer screen. To see more you can use the scrollbar at the bottom of the screen. Put the mouse pointer at the scrollbar6 in the bottom of the screen, hold down the left mouse button while you draw the scrollbar to the right. In the same way you can scroll back again, by drawing to the left. 6.2.5	Tiles The Start screen contains a number of tiles, in different sizes and shapes. The number and size of tiles may vary depending upon the tiles that each user has inserted or removed from the individual Start screen. Tile may also be resized, and this also affects the layout and number of tiles to be seen. When you activate a tile (by using with mouse, the keyboard or your fingers) an app, a program, a folder or a file opens. 6.2.6	 Apps and programs
+
+In this book programs that are downloaded from Windows Store and gets opened from the Start menu are referred to as apps, and programs that are downloaded from anywhere else and gets opened from the Desktop menu as programs. However, apps can also be opened from the Taskbar, and Desktop programs can also be opened from the Start menu, so this concept might be a little confusing for the reader. Unfortunately the author have not been able to find better definitions. So if a wrong term is used somewhere in the book, please bear with the author, thank you.
+24
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+6.2.7	
+
+Opening and closing apps
+
+An app is opened by clicking on its tile on the Start screen, or its icon on the Desktop. Example You would like to see the weather forecast, so you click on the tile Weather.
+
+Too many open apps might be confusing, so you may want to close some of them.
+
+.
+
+25
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+There are at least 3 ways to close an app: -- When the app is active, click Alt+F4. -- Put the mouse pointer in the upper, right corner of the screen, and click on the cross. -- Put the mouse pointer in the upper left corner of the screen. Find the apps miniature in the panel shown, right click on the miniature and choose Close. 6.2.8	 Dynamic tiles
+
+Some events might be seen on several tiles on your Start screen. These tiles are dynamic. A tile representing a calendar-app can show upcoming events, appointments and so on, an e-mail-app tells when new e-mails arrives, and so on. The dynamic functions can be turned on or off. This is done by right clicking a dynamic tile, that releases a menu, that lets you enable or disable the dynamic dynamic function of the app. 6.2.9	 Pin or unpin apps, folders and files
+
+You can pin an app from the App view to the Start screen by right clicking it and choose Pin to Start. Besides apps, it is also possible to pin contacts, folders, documents, photos, File explorer etc. to the Start screen. Example You would like to pin a tile to the Start screen as a shortcut to the folder Documents. Via File explorer (read more about File explorer in chapter 6.10.2 File Explorer) you find the icon for the folder Documents. You place the tile on the Start screen by right clicking the icon, and choose Pin to Start. You remove a tile from the Start screen, by right clicking it and choose Unpin from Start. 6.2.10	 Add/remove tiles
+
+You add a tile to the Start screen by installing it from the Windows Store (read more about this in chapter 13 Windows store). You remove a tile from the Start screen like this: •	 Right click on the tile you want to remove •	 chose Uninstall. Uninstall will remove the program completely from your computer. If you want to reinstall the program you must find it again in Windows Store.
+
+26
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+6.2.11	
+
+Adjust tile sizes
+
+You can adjust the size of a tile. This is done by right clicking the tile, and choose Resize. Depending on the app, you get a number of choices to choose from. 6.2.12	 Moving tiles
+
+You can move a tile on the Start screen by pointing at it with the mouse pointer, then hold down the left mouse button, and drag the tile to the desired place, and let the mouse button go again. 6.2.13	 Create a group of tiles
+
+It is possible to create groups of tiles on the Start screen. Dividing tiles into groups gives better overview, especially if the Start screen has many tiles. The Start screen can be designed individually, to our different needs. Do like this: -- Put the mouse pointer on the tile that you want to be a part of a new group -- Hold left mouse button down and drag the tile towards the right edge of the screen, until a purple line appears -- Let the tile go on the right side of the purple line. The tile is now the first one, in a new group of tiles 6.2.14	 Move tiles to or from a group
+
+Add tiles to a group by dragging them one by one to the desired group of tiles, and let go. Tiles are removed from a group by dragging them one by one from the group, and let them go on another place on the Start screen. 6.2.15	 Arrange and name groups of tiles
+
+Arrange your most used tiles in the left side of the start screen, since this part of the screen is always visible. Otherwise it is a question of personal taste how your groups are organized where they are placed and what they arenamed. Examples for inspiration -- create a group of tiles you use every day, and place it at the left side of the start screen. -- create a group containing tiles used in a current project -- create a group of tiles for a speciel field of interest -- create a group of tiles for media -- create a group of tiles with tools of different kinds -- create a group of tiles for administration of an education or a company
+
+27
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+Do like this: -- Right click on an empty spot on the start screen -- Choose name groups -- Now you can change titles for a group by clicking on the name field shown above the group
+
+6.2.16	
+
+Move groups of tiles
+
+If you want to change places for your groups of tiles on the Start screen, it is easy in Windows 8.1. This is how to do it: -- Click on the zoom icon in the lower, right corner of the Start screen
+
+-- Click on the group of tiles you want to move, hold down left mouse button and drag the group to the wanted place and let go of the mouse button again. -- Click at a random place on the Start screen to zoom back again, when you are finished.
+
+6.3	
+
+Start screen background
+
+The Start screen of Windows 8.1 comes with a standard background. However, it is possible to change it, according to your own preference. Example When on the Start screen, write: “Change the background and colors on Start” (yes, just write it!), a panel will appear i the right side of the screen, containing icons to click on to choose.
+
+28
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+It is recommended that you experiment with some of the tiles, watching how the computer responds to your choices. there are may other settings for the background than mentioned above (read more in chapter 6.8.1 Background).
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+29
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+6.4	
+
+The Apps view
+
+The Apps view is where you can administer the apps that you have downloaded to your computer. -----You can pin or unpin apps to the Start screen You can pin or unpin apps to the Desktop You can remove apps You can have the tile for the app marked on the Start screen You can activate apps directly from the Apps view
+
+The Apps view is easily recognized by the word Apps in the upper, left corner.
+
+6.4.1	
+
+Navigate to the Apps view -- Go to the Apps view from the Start screen by holding down the Ctrl-key, click the Tab-key once, and let go of the Ctrl-key again. -- Move the mouse pointer towards the lower, left corner of the Start screen until it points on a downpointing arrow in a circle . Click on the arrow to go to the Apps view.
+
+6.5	
+
+Elements in the Apps view
+
+The Apps view gives you an overview over the apps, that are available. The apps are represented by icons. An icon is an illustration, and an app is a program, but in daily life the two words are often used interchangeably. In this book we therefore sometimes use the word app instead of icon. You may not be able to see all available apps – in the right hand side of the screen there might be apps, though they are not visible. Like with the Start screen, you can scroll sideways, to see the rest of the screen. You move the mouse pointer to the bottom of the screen, until the scrollbar is visible. Point at the scrollbar with the mouse pointer, hold down the left mouse button and drag the scrollbar to the right, with the mouse. Moving the scrollbar back and forth you see apps appear and disappear on the screen.
+30
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+Return to the Start screen by clicking on a small upwards pointing arrow in a circle, at the same position as earlier. 6.5.1	 Download apps
+
+You download apps from Windows Store. Read more in chapter 13, Windows store. 6.5.2	 App sorting function
+
+To the right of the title Apps is a sorting function. With the sorting function you can sort the icons in the Apps view after: name, installation date, most used and category. This is very useful, when you are looking for a certain app. Windows 8.1 remembers the last sorting principle that you choose. In order to return to the Start screen click on the little upward pointing arrow in a circle. You will find this icon at the same position on the screen as the downward pointing arrow previously. 6.5.3	 App searching function
+
+In the upper right on the Apps view, is a searching function, with which you can search for particular apps. For example, if you write “Adobe”, all apps from the company Adobe will appear. 6.5.4	 Open an app from Apps view
+
+You can open apps from the Apps view by clicking on the app’s icon. You might want to pin often-used apps to the Start screen as a tile. If you right click on an app in the Apps view, these menu items will appear: -- Pin to Start -- Pin to taskbar -- Uninstall If you choose Pin to Start, the app will appear as a new tile in the far right side of the Start screen.
+
+! You can choose several apps at a time, by right clicking on each one, and finish the procedure
+with a command, for example Pin to Start.
+
+31
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+6.5.5	
+
+Find, unpin or remove an app from the Apps view
+
+By right clicking an app in the Apps view, these menu items will appear: -- Pin to Start -- Pin to taskbar -- Uninstall If you choose the command Uninstall, the app is permanently removed from your computer. If you later want to reinstall the program, you must install it again from Windows Store. 6.5.6	 Commands/menu items inside apps
+
+When you right click on an empty spot inside an app, menu items will appear in panels at the top and/ or at the bottom of the screen.
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+32
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+Example Inside the app Weather you want to change measurement from Celsius to Fahrenheit!
+
+When you right click on an empty spot on the screen, panels at the top and the bottom opens. In the panel at the top these items are shown: Home – Place – Weather folders – Ski resorts – World weather Example If you choose Home, weather is shown for the chosen geographical position. If you choose Places, you can change the settings for Home, like chosing favorit positions. If you choose Weather folders, temperatures, clouds and so on are shown for different hours of the day. It is the same with the menu items Skiresorts and World weather. In the panel at the bottom of the application window are several menu items. To the left is Change Home – with same functionality as Places in the panel at the top. To the right are the menu items:
+
+If Current location is chosen, weather is shown where the computer is located. To change temperature measurement click Change to Fahrenheit.
+33
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+6.6	
+
+Show several apps simultaneously.
+
+When you open an app, it will most likely fill out the screen. In Windows 8.1 it is possible to show several apps at a time. They will be shown next to each other. You can also change size on the shown apps. Depending on the size and resolution of your screen, it is possible to show 3–4 apps on the screen at the same time. In Windows 8 you could only have 2 apps open at the same time. Example We want the apps Weather, Folders and Mail opened, and shown next to each other on the screen. Open the apps one by one. When an app is open, put your mouse pointer in the upper left corner of the screen, until you can see miniatures of the open apps. Click on the first one, hold down the left mouse button, and drag the app into the screen and let go. This may require some practice. Repeat the maneuvre with the other apps. You can have three to four apps next to each other simultaneously.
+
+6.7	
+
+The Desktop
+
+The Desktop is the well-known user interface, known from all earlier Windows-versions. Here you can ----open programs store shortcuts and datafiles search for data administrate available programs, folders and datafiles
+
+34
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+6.7.1	
+
+Navigate to the Desktop
+
+Navigation between user interfaces in Windows 8.1 can be done by a combination of keys, instead of, or with, the mouse: -- From the Start screen you can go to the Desktop by clicking the Desktop tile -- From the Start screen you can go to the Desktop by clicking the Windows-key on the keyboard . -- From the Start screen you can go to the Desktop by holding down the Windows-key, click the D-key once, and let go of the Windows-key again. -- From the Start screen you can go to the Desktop by putting the mouse pointer in the lower left corner of the screen, until a purple windows shows. Click on the window once. -- From the Start screen you can go to the Desktop by putting the mouse pointer in the lower left corner of the screen, until a purple windows shows. Right click on the window once. Click on the item Desktop. -- From the Start screen you can go to the Desktop by putting the mouse pointer in the upper left corner of the screen, until a miniature image is shown. Click on the image once.
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+35
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+Right click
+A right click typically give you a lot of useful choices – in Windows in general, and in other Microsoft-products as well! If you e.g. right click at an empty spot on the Desktop, a menu appears. If you choose New you see this:
+
+You get a lot of useful choices in an easy way!
+
+6.8	
+
+Elements on the Desktop
+
+The Desktop consists of the elements: Background, icons on the Desktop and the Taskbar. These elements are covered one-by-one in the following. 6.8.1	Background On the Desktop there is a Background. It can be a single colour, like black or red, or a photo, a drawing or some other graphics – whatever you like. If you right click at an empty spot on the Desktop, a menu pops up and you choose the item Personalize. Click on Desktop Background, and a window opens where you can choose between various default backgrounds by clicking on an icon, and finish the operation by clicking Save changes.
+
+36
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+Desktop Theme If you right click at an empty spot on the Desktop, a menu pops up and you choose the item Personalize. You see different groups of themes to choose between, fx Windows Default Themes, where you can choose between various themes by clicking on an icon to change theme instantly. It is possible to construct an individual theme for your Desktop background, Taskbar, windows etc. to have. If you right click at an empty spot on the Desktop, a menu pops up and you choose the item Personalize.
+
+When you choose a theme then your Desktop background, sounds, colours and Screen saver are all changed simultaneously. If you make changes in the chosen theme, you can save it as a new theme, giving it a new name. When you have chosen the desired theme, you can click on the item Picture position in the menu Desktop backgrounds. There are 5 different positions to choose from. It is recommended to explore the different possibilities, to get an understanding of what you can do. At the right hand side of the Desktop background you can change colours on window frames, taskbar and sounds. Explore to see it if you have any use of the options.
+
+37
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+Screen saver Windows 8.1 comes with a Screen saver option. A Screen saver is a computer program that blanks the screen or fills it with moving images, patterns or e.g. a logo moving around the screen, when the computer is not in use. It is possible to set the amount of time to pass, before the Screen saver is turned on. The Screen saver was initially designed to prevent screen damage, nowadays it is mostly for entertainment or security, like having to type a password to close the Screen saver. Example You want your Screen saver to automatically turn on after some minutes, with the text ‘Taking a break’ moving around the screen.
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+38
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+Do like this Right click on an empty spot on the Desktop, and choose Personalize. Click on the item Screen saver, to open a dialog box.
+
+In this example 3D Text is chosen. Click Settings to write ‘Taking a break’. It is recommended to eksperiment with other settings too. To test your settings, click the button Preview. When you have finished making your new theme, choose Save theme. You are then asked to give your new theme a name.
+
+6.9	Icons
+Desktop has icons (graphic images) of the programs and/or window it contains – just like tiles on the Start screen. However there are a few differences. You can construct, delete and rename icons. They can also be placed almost anywhere on the Desktop. If you double click on an icon, its file placement will be opened in a window, either by the File explorer or another program. Example You want to empty your Recycle Bin.
+
+39
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+Do like this On the Desktop you find the icon named Recycle Bin. Recycle Bin is opened by double clicking the icon. If there are files in the Recycle Bin, you can choose Empty Recycle Bin. The content is permanently deleted, so be careful when you do this. Read more about the Recycle Bin in chapter 9.5 Types of files. 6.9.1	 Shortcuts
+
+Some of the icons on the Desktop may be shortcuts. Shortcuts represent programs or folders. shortcuts are easily recognized by the upwards pointing arrow on the Desktop icon.
+
+You can construct shortcuts and delete them again. If you delete a shortcut, the Desktop icon is removed, but the program or the folder still remains on the computer. Construct a shortcut Example You want to construct a shortcut for the program Calculator on the Desktop, because you use this program a lot. Do like this There are several methods to do this: -- right click on an empty spot on the Desktop, choose New Shortcut, and follow the instructions from Windows 8.1 -- type ‘calculator’ in a search box or in the charm Search, right click the desired calculatorprogram, and choose Pin to Start or Pin to Taskbar. The last method is probably the easiest one to use.
+Please note that you can create a shortcut to any desired feature in Control Panel, e.g. Devices and Printers, by right clicking the name of the feature and select Create Shortcut.
+
+40
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+6.9.2	 Example
+
+Properties of an icon
+
+You want to know the properties of an icon that represents a folder, containing data files. Do like this Right click on the icon and choose Properties:
+
+AXA Global Graduate Program
+Find out more and apply
+
+41
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+A dialog box opens. Since it is a folder, the dialog box properly look like this:
+
+The dialog box contains 4 tabs. If the tab General is chosen, you can see the location, size and size on disc of the file. You can also choose to write-protect the file. If the tab Sharing is chosen, you can share the file on the network, with users with appropriate passwords to your computer. If the tab Security is chosen, you can change permissions for all users. If the tab Customize is chosen, some features
+
+If the icon represented a program, it would have tabs with General, Compatibility, Digital Signatures, Security and Details. If the icon represented a shortcut, it would have tabs with General, Shortcut, Security and Details. If the tab is chosen, you can change the filepath, icon, shortcut-key and how it is opened. If the icon represented a data file, it would have tabs with with General, Security and Details. 6.9.3	 Place an icon on the Taskbar
+
+You can place an icon on the Taskbar. To open often used programs from the Taskbar, can save the user some vauable time.
+
+42
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+Example Since it is an often used program, you want to have an icon for Calculator on the Taskbar. Do like this Hover the mouse pointer over the icon for Calculator, hold lower left mouse button and drag the icon to the Taskbar and let go. You now have a shortcut for Calculator on the Taskbar. Icons for shortcuts can always be deleted, by clicking on them once to select it, and then choose the Delete-key on the keyboard. Only the shortcut will be deleted, not the program that is represented by the shortcut. 6.9.4	 Open and shut down a program
+
+Many of the icons on the Desktop illustrates programs, like Word og Excel. Programs are opened by double clicking the icon. If it is not on the Desktop, you can serch for the program by using the built-in search functionality: write the name of the program in a search box (e.g. right click the Windows-icon in the lower left corner/Search), and the icon will be shown in a panel that appears. Example You want to open the program Calculator. Do like this Double click on the icon for calculator, and the program opens. When the program is open, you can shut it down in several ways, for example: -- Click Alt+F4. -- Click on the tab Files, and choose Close. -- Click on the X in the upper right corner of the program window. The methods to shut down Microsoft programs described above are general, and will work on most programs from various manufacturers. 6.9.5	 Download, install and remove a program
+
+You sometimes need to download a program to your computer. If it is a program that must be downloaded from a website on the Internet, you are usually given good instructions about details in the process, as you go.
+
+43
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+Example You want to download the antivirus program Avast! Do like this We assume that you are visiting the correct Avast! website on the Internet. You download and install (double click on the installationfile) the desired program version (provided the program is free of malware7).
+
+It is recommended always to scan a program for malware, before it is installed.
+
+44
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+Sometimes you may need to remove a program, due to lack of disc space, you do not trust the installed version, or you do not need it anymore Example You want to remove the antivirus-program again. Do like this Right click on the purple Windows-icon in the lower left corner of the screen, choose Control Panel, and choose the item Uninstall a program. Find the antivirus-program in the overview, and select it by clicking the text. Choose the command Remove. The program is permanently removed from the computer.
+
+6.10	Windows
+If you open File Explorer from the Taskbar, by clicking its icon, you open a window. When you open a program, a file or a folder from the Desktop, a window or a dialog box appears. Dialog boxes are windows where you must give the computer a command, by clicking buttons, typically with the text OK or Cancel. Compared to other types of windows, dialog boxes have limited options. In the following we presume you have opened the File Explorer. 6.10.1	 The main elements of a window:
+Adressbar
+
+Ribbon Back, forrward and up Navigation pane Status bar
+
+Search box File list
+
+Learn more about the different parts of a window, click here. To move Windows and change their sizes You move a window by 1) hovering the mouse pointer at the edge of the window, until the mouse pointer looks like an arrow, pointing oblique left 2) then hold down your left mouse button, while you drag the window around with the mouse.
+
+45
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+If you are dragging in the corner of a window instead, you change its size. Open a shortcut menu for an active window by pressing Alt+Spacebar. 6.10.2	 File Explorer
+
+Improved search functions in Windows 8.1 eliminates some “manual” navigation on the computer, but navigation is still a basic skill that it is vital to master. The File Explorer is the most important tool to use for navigating on networks and drives. A drive is a unit that stores and manipulates data. Your computer has an internal Hard Drive drive (C:) in daily speech ‘the Hard Drive8’, but other types of drives might be connected to your computer: -- External Hard Drives -- USB-drives -- Virtual drives -- CD-rom/DVD-drives -- Network-drives (Hard Drives reachable by your computer via the network) 6.10.3	Ribbon If you right click at the top of the Ribbon, a menu appears. You can choose to show a Quick Access Toolbar above the ribbon, and you can choose to Minimize the Ribbon.
+
+If Quick Access Toolbar is shown you will see some of these symbols:
+
+They are used for showing Properties, Rename a file, send an item and organizing the Quick Access Toolbar.
+
+46
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+The Ribbon has the following tabs File, Home, Share, View as a standard. Depending on which type of file or folder you select, more tabs may appear, like Manage or Play, containing relevant tools for working with the selected datatype. Like Search Tools, Library tools, Music tools or Video tools. The File tab contains items that average users rarely use, because there are alternative ways of doing the same operations; open New Window, open Command Prompt, open Windows Power shell, Delete History, Help and Close Window. The Home tab contains tools to help you manage files and folders.
+
+Select the items that you want to copy or move, click Copy to copy them or Cut to move them. Browse to the place where you want the files or folders to go, and click Paste. The rest of the menu items almost goes without saying.
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+47
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+Next to the Home tab, you find the Share tab.
+
+To launch the Email program via the far left icon, Email, it is provided that Windows has an e-mailprogram, like Windows Live, associated. The next item is Zip that is a function to compress files, in order to decrease their datas ize. This is useful, when only limited data space is available, e.g. when you transfer data over the network, stores files on drives or sends files as attachments to e-mails. When you have selected the chosen items in the File list, you just click on Zip, and a so-called zip-file is created containing the compressed data. The rest of the icons in Share will not be covered here. If you want to share screenshots, the Charm Share is the easiest way to do it (read more in chapter 7 Charms). Nextto Share is the View tab. In its upper left side it is possible to choose between to see a Preview pane or Details pane.
+
+There are eight different views to choose from. It is useful to get acquainted with the various views. Details view stands out from the rest. If this view is chosen, column headings will appear. This makes it possible to sort in your data, in various ways. Next to the views group, there are more tools to sort your data. You can choose to view item check boxes, file name extensions and Hidden items in File Explorer.
+
+In chapter 8, Searching, you can read more about Details view and other sorting features.
+48
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+6.10.4	
+
+Command buttons
+
+In the the upper, right corner of a window you will three command-buttons: -- By clicking the left button, with the lowered line, the window is minimized (hidden) – and an icon for minimized application is placed on the Taskbar. To get the window back open again, you can place the mouse pointer over the corresponding icon on the Taskbar and click on it, or keep the Alt-key down and press the Tab-key, which makes all open windows appear, side by side. -- By clicking the center button, with the square, the window is maximized, meaning it fills the screen. To restore down, click the square again. -- By clicking the red button with the white cross, the window is closed. If the window is a dialog box, then all changes in the dialog box are lost (same as Cancel). 6.10.5	 The Navigation pane
+
+The Navigation pane shows an overview of the computers folders and drives. Favorites and Desktop are always shown. Both can contain a lot of items. If you right click on an empty spot in the Navigation pane, this menu appears:
+
+It is recommended to checkmark the three top items in order to provide you much information as possible in the Navigation pane. Here are two ways of showing/hiding content of items: 	 -Click on the white triangle, which 1) turns black and “points” obliquely down and 2) have its content shown under the item. Click on the black triangle, and it turns white again, and the content is not shown anymore. -- Right click on the icon next to the text This PC. The top item is Expand/Collapse. Choose this to repeat the actions above. -- The File Explorer-window is opened by clicking the folder-icon on the Taskbar what you have selected.
+49
+Download free eBooks at bookboon.com
+
+.
+
+The window can appear in different ways, depending on the contents of the computer, and
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+Here “Libraries” are selected in the Navigation pane:
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+50
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+-- Favorites
+Favorites is a shortcuts archive for the user (do not confuse it with Libraries), and can contain of Desktop, OneDrive, Downloads-folder, external Hard Drives etc. You choose all the elements yourself. It is easy to make a shortcut in Favorites: you drag the wanted icon to the Favorites-section, and choose Create link in Favorites.
+
+-- If you right click on an empty spot in the Navigation pane, you will see checkmarks at the items we chose before! So there are several ways to perform the same action. Very typical for Windows. -- Microsoft has chosen to show certain elements in the Navigation pane, e.g. OneDrive and This PC. Notice the white triangle that points at the icon, at the left of the text. The white triangle is a common used symbol in Windows File Explorer, that indicates that the element itself contains two or more elements. 6.10.6	The File list To the right of the Navigation pane is the File list. Here you can see the content of the chosen item in the Navigation pane. If chosen, a Preview pane or Details pane is shown to the right of the File list. 6.10.7	 The Status bar
+
+The Status Bar at the bottom of a window shows how many items are selected in the Navigation pane and the File list. 6.10.8	 Aero functions
+
+In Windows 8.1 there are some features called Aerointended for improving the Desktop user experience. Aero Snap: You drag a window to one side of the screen, and holds it there until it changes size and fills half of the screen. Drag another window to the opposite side of the screen, and together the two windows will cover the whole screen.
+
+51
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+Aero Peek: With the Aero Peek-feature you get “x-ray” view, and you get to see the Desktop instantly. Point to the right end of the Taskbar with the mouse pointer, and you can see all icons at the Desktop. Settings of the Peek-feature is described later, in this chapter. Aero Shake: With the Aero Shake-feature you can hide all other open windows, except one. Grab that window you want to be shown with the mouse pointer and shake it a little, and all other open windows are hidden. If you repeat the above procedure, all other open windowrs will be shown again.
+
+6.11	The Taskbar
+The Taskbar is usually found in the bottom of the screen – but this is configurable. The Taskbar may also be hidden, and only appear when the mouse pointer hovers in the bottom of the screen. You can choose the Taskbar to be shown at all times, if you want.
+
+52
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+6.11.1	
+
+Icons on the Taskbars left side
+
+All open apps, and apps pinned on the Taskbar, are shown on the left side of the Taskbar.
+
+Whenever you use a mouse, you can see the Taskbar from every User Interface (screen). The left side of the Taskbar contains icons, starting with a Windows-icon to the far left. If you click on the Windows-icon to the far left, you get to Start. Click once more to return to the Desktop. The Windows-icon If you right click on the Windows-icon to the far left on the Taskbar, a menu appears:
+
+Most of the items above are similar to items mentioned in the chapter 7.5 Settings Charms. A few of them will be mentioned here, though: --  Shut down or sign out. This is new a new feature compared to Windows 8. Keep the mouse pointer over the text for one second, and the items Sign, Sleep, Shut Down and Restart are shown. Every time you Shut Down/ Restart the computer, various processes are started in the computer. If you need to get to the computers present state in a hurry, you should leave it in Sleep-mode. When you activate the computer again, it will appear just as you left it. Read more about Power options in chapter 7.5.1 System. -- Run, opens a dialog box for “DOS-commands” when you click on it. Try writing “winver” in the writing field. The keyboard shortcut for Run is Window-key+r. -- Control Panel, can also be opened from the Charm Settings (read more in chapter 7 Charms). -- Task Manager, is identical to the shortcutmenu Task Manager: press Ctrl+Alt+Del to get an overview over the computers processes.
+53
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+Task Manager Task Manager contains the tabs Processes, Performance, App History, Startup, Users, Details og Services. If you are not an advanced user, the tab Startup is the most important for you.
+The tab Startup gives the user an possibility to activate and deactivate programs to be launced automatically whenever the computer is started (or restarted). In the column Startup Impact you can see the amount of ressources used by the program!
+
+The rest of the icons in the left side of the Taskbar opens the files, the folders or the programs they represent, by clicking on them. Whenever you want to know what an icon on the Taskbar represents, hover the mouse pointer over the icon, and after a few seconds an explaining text will automatically appear! Except from the Windows-icon to the far left, it is possible to choose which icons you want to show on the left side if the Taskbar, by pinning og unpinning icons. Pin/Unpin an icon on the Taskbar You pin a program-icon, or its shortcut, to the Taskbar, by dragging its icon from the Desktop or from File Explorer to the Taskbar, and let it go when the text Pin to Taskbar is shown. You unpin an icon from the Taskbar by right clicking the icon and choose Unpin this program from Taskbar.
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+54
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+The sequence of the icons You can change the sequence of the icons on the Taskbar by placing the mouse pointer on the icon that must be moved, holding down lower left mouse button and dragging the icon to the wanted position. Jumplists A jumplist is a list of the latest used funktioner for any given program, reprented by an icon on the Taskbar. Jumplists are useful when you quickly want to get back to to a previously used place or task. You open a jumplist by right clicking an icon on the Taskbar.
+
+In the lower section you can see that it is File Explorer that is selected. In the higher section of the jumplist you can see, that in this case the folders bookboon, Acer C 4 Job, Desktop, Private and Acer 7 Fritid has been visited latest. Click on one of these shortcuts, and File Explorer will open the location. Read more about this topic by clicking here. 6.11.2	 Icons on the Taskbars right side
+
+It is possible to choose which icons and messages you see on the Taskbars right side. If you click on the up-pointing triangle on the Taskbar a menu with icons appears.
+
+Click on Customize… Here it is possible to choose to show or hide any icon or message. The most important system-icons are described next.
+
+55
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+Watch If you click on the Time & Date in the far right side of the Taskbar, a windows opens, looking approximately like this:
+
+The time and date are shown. You can change settings for time and date by clicking Change date and time settings… It is possible to automatically adjust time to Daylight Saving Time. The watch can be synchronized following a plan, i.e. from time.windows.com, found in the tab Internet Time, but other choices can be made. Keyboard / language Click on the text ENG to change keyboard to another language. If the desired lanuage is not shown, you can open Control Panel (just write Control Panel on the Start screen) and choose Clock, Language and Region.
+
+If the desired language is not on the list, press Add a language, and choose one. Action Center The icon of the Action Center is a flag: The Action Center help you optimize the computer, in respect to Security, Maintenance, Trouble Shooting and Recovery. The Action Center shows messages as it goes along, for instance when problems occure. The Action Center provides solutions to most problems that occurs.
+56
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+Speakers If you click on the small loudspeaker-icon on the Taskbar, a windows opens with a control, to turn the volume up or down. If you click on Mixer, you can adjust the computers units and programs. Network The Network-icon consists of five pillars: 	 If you click on it, a panel opens with an overview of -- if Airplane mode is enabled or disabled -- computer connect ions -- if Wi-Fi is enabled or disabled -- available Wi-Fi networks You connect to a network by clicking on the name, and choose Connect. If you put a checkmark in the Connect automatically-box, the computer remembers the network-credentials.
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+57
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+Power If you right click on the power-icon, a window like this opens:
+
+The item More power options offers various options, e.g. for planning how long the computer is running, before going automatically into Sleep-mode. Read more about Power options in chapter 7.5.1 System. Other icons File Explorer should have an icon on the right side on the Taskbar. It is useful when external drives must be removed from the computer, and you want to reduce the risk of losing any data. In the right side of the Taskbar there might be other icons, e.g. Virus protection, OneDrive, GoogleDrive and more. In the same way as the system-icons, you can choose if they are shown or hidden. Right clicking one of these icons, will open a menu. 6.11.3	 Properties of the Taskbar
+
+If you right click on an empty spot on the Taskbar, and choose Properties, a window with four tabs opens:
+
+58
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+The Taskbar tab In the first tab, Taskbar, you can checkmark the boxes Lock the Taskbar, Auto-hide the Taskbar and Use small taskbar buttons. It is recommended to checkmark Lock the Taskbar, as you otherwise accidently might move it around, and, without you noticing it, storing it in a new place. If Auto-hide Taskbar is chosen, the Taskbar stays hidden, until you place the mouse pointer in the bottom of the screen (assuming that you have placed the taskbar here), then it pops up. This feature is useful when you need to have as much screenspace available as possible. Preview the Desktop It is recommended to checkmark Use Peek… end of the taskbar. It means you get to see the Desktop when you place the mouse pointer at the right end of the Taskbar, no matter how many windows that are open. If you hover the mouse pointer in the down, right corner, without clicking anywhere, the Desktop and its icons appears, and all open windows get transparent. When you move the mouse pointer away from the corner, the Desktop is not seen anymore, and everything is back to the way it was. If you click in the lower right corner of the Taskbar, the Desktop is shown permanently, until you click again! This is the easiest way to get to the Desktop and back. The Navigation tab
+
+The tab Navigation contains settings for the Charms pane, the apps pane, the Command Prompt and the Start screen.
+59
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Graphic user interfaces in Windows 8.1
+
+Corner navigation Unless you always use shortcuts, it is recommended to checkmark the first two items. It makes navigation to Charms and apps easy. Start screen If you checkmark the first item, Desktop will appear, instead of the Start screen, when the computer is powered up. If you checkmark the second item, the Desktop-background is also used for the Start screen. Some like this, others don’t. It is recommended to checkmark Show Start on the display… If you want to see all apps instead of the Start screen, you should checkmark Show the Apps view automatically… And finally, if you want your Desktop apps listed first in the apps view, you should checkmark the last item List desktop apps first… Jump lists tab Here you can adjust how many items to be displayed in Jump lists.
+
+If you want to keep your privacy, you must not checkmark the items under Privacy. Toolbars tab Checkmark any of the toolbars you want to appear on the Taskbar: Address, Links, Touch keyboard and Desktop.
+
+60
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Charms
+
+7	Charms
+In this chapter you learn about --showing the five Charms using the five Charms
+
+Windows 8 and 8.1 introduces the concept of Charms.
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+61
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Charms
+
+Charms are shortcuts that are activated by clicking on them. They provide quick access to functions often used, such as searching (on the computer, on drives, on the Internet), printing, sending pictures and links via e-mail, changing settings on the computer and so on. The Charms are named Search, Share, Start, Devices and Settings. They are easily accessable on the right side of the screen, no matter where you are in Windows 8.1. Charm shortcuts Here are the most important keyboard-shortcuts to the Charms:
+Open Charms pane Search Charm Search Charm – search files Search Charm – search apps Search Charm – search Settings Share Charm Start Devices Charm Settings Charm and K and I and C and S and F and Q and W and H
+
+Make the Charms pane appear There are several ways to make the Charms pane appear from all of Windows 8.1’s user interfaces. -- Place your mouse pointer in the upper right corner of the screen, and a panel with the Charms are shown in the right side of the screen (unless this function is unchosen, read about Corner Navigation in section 6.11.3 Properties of the Taskbar). -- Place your mouse pointer in the lower right corner of the screen, and a panel with the Charms are shown in the right side of the screen. When you move the mouse pointer away, the Charms panel disappears. -- Hold the Windows-key down, and press the C-key once to show the Charms.
+
+62
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Charms
+
+7.1	
+
+The Search Charm
+
+At the top of the Charms pane there is a looking glass symbolizing the Charm Search. Click on it, and a text field appears in a pane in the right side of the screen, with the command Everywhere over it. If you click on the text Everywhere, you can narrow your search, by chosing between the options Settings, Files, Web images and Web videos.
+
+In the text field you can write a short text, to search for documents, photos, programs, apps, well, anything on the computer, and all drives connected to it. If you e.g. write “calculator” in the text field, search results will appear in the pane. It might show calculator programs or -apps, documents or other stuff. In the search results a Calculator-program and a Calculator-app with a green background should appear. If you click on the Calculator-program, a windows opens. If you click on the Calculator-app, the app opens and fill the screen! Searching has become a vital, intuitive functionality in Windows 8.1, as efficient searching saves the users lots of time. Searching can be done from everywhere in Windows 8.1, and there are several other ways of performing exactly the same operations as with the Search Charm. Read more about Searching in chapter 8.
+You can close the Search Charm pane again, by pressing the Esc-key. The Esc-key is generally used to close windows and dialog boxes, as it works exactly the same way as clicking the cross in a windows upper, right corner.
+
+63
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Charms
+
+7.2	
+
+The Share Charm
+
+By using the Share Charm it is easy to share what you are working with on your computer with others. Depending on your setup, you can share via Mail, Facebook, Twitter, OneDrive and so on.
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+64
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Charms
+
+7.2.1	
+
+Share a screenshot with the Share Charm
+
+You want to share information on your screen with other people. Example You want to share the screen from your Weather-app with a friend. Do like this When your Weather-app shows what you want to share, click on the Share Charm (or press fill in the desired e-mailadress. and H) and choose the way you want to share it. If you e.g. click on Mail, the Mail-app will open, and you can
+
+! If the receivers computer runs Windows 8.X, it is possible to get the weather information
+by clicking the link.
+
+7.3	
+
+The Start Charm
+and the window-icon in the bottom, left
+
+The Start Charm works the same way as the window-button
+
+corner of the screen: it switches between the Start screen and the Desktop.
+
+7.4	
+
+The Devices Charm
+
+Clicking on the Devices Charm (or pressing the Windows-key+k) makes the Devices pane appear:
+
+The Play and the Print items are reserved for apps only. The Project item lets you choose between the screens used.
+
+65
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Charms
+
+If the item Choose screen appears in the top of the list, your computer is capable of using Miracast (read more about this in chapter 14.1.22 Miracast). Duplicate is normally used, when you connect a projector to your computer. The item Extend lets you connect two screens to your computer that are co-working, so it seems you have two Desktops. If you choose Second screen only it will turn off the computers screen.
+
+7.5	
+
+The Settings Charm
+
+If you click on the SettingsCharm, a pane opens in the right side of the screen:
+
+66
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Charms
+
+7.5.1	 versions:
+
+Control Panel
+
+Second from the top of the pane you find the command Control Panel, well-known from earlier Windows-
+
+The Control Panel contains mostly computer oriented functions, i.e. small programs that adjust the computer settings in different ways.
+
+The stuff you'll need to make a good living
+
+STUDY. PLAY.
+
+The stuff that makes life worth living
+
+NORWAY. YOUR IDEAL STUDY DESTINATION.
+WWW.STUDYINNORWAY.NO FACEBOOK.COM/STUDYINNORWAY
+
+67
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Charms
+
+System and security If you click on the item System and security a window is opened with the items: -- The Action Center -- Windows Firewall -- System -- Windows Update -- Power options -- File History -- Storage spaces -- Work folders -- Add features to Windows 8.1 -- Administrative tools The Action Center In the Action Center you get an overview over issues, if there are any, which functions that are turned enabled or disabled. Security If you click on the item Security, you get an overview over your security-settings. For novices it is strongly recommended that all items are On.
+
+68
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Charms
+
+Some items let you know more about your setup. The topmost item Network Firewall, lets you know which firewall the computer is protected by, if any. Just click on View installed firewall apps. You can set the items User Account Control and Windows Smart Screen to give you notifications if and when unrecognized apps try to make changes on your computer. To prevent potentially bad things from happening!
+
+In Maintenance it is recommended that the item Check for solutions to problem reports in On. It is recommended to use automatic maintenance. If you click on Change maintenance settings, you can set the time for maintenance. Remember to place your computer in a room where nobody is sleeping! Read about Disable automatic maintenance by clicking here. Read more about PC maintenance in chapter 11.1.2 PC maintenance. HomeGroup is a network of computers used in your home. Read more about this in chapter 7.5.1 Network and Internet. File History saves copies of your files on another drive, so you can get them back if your computer doesn’t work properly. Read more about this in chapter 7.5.3 Update and Recovery The Troubleshooting item at the bottom is an improved feature, that helps you to maintain your computer, by fixing errors. Recovery is a feature you can read more about in chapter 7.5.3 Update and Recovery.
+69
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Charms
+
+System T﻿he shortcut + Break-key will open the System menu.
+
+In the item System you can view basic information about your computer, e.g. processor type and processor speed (GHz), amount of installed memory (Gb RAM), 32 or 64-bit operating system. At the left side of the window there are 4 items; Device manager, Remote settings, System protection and Advanced system settings.
+
+If you open the item System Protection, the following window opens:
+
+70
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Charms
+
+The tab System Protection contains very useful features: System Restore, Configure restore settings and Create a restore point. You can read more about the first item, System Restore, in chapter 7.5.3 Update and Recovery. If you press the button Configure, this dialog box opens:
+
+I joined MITAS because I wanted real responsibili� I joined MITAS because I wanted real responsibili�
+
+Maersk.com/Mitas www.discovermitas.com
+
+�e Graduate Programme for Engineers and Geoscientists
+
+�e G for Engine
+
+Ma
+
+Real work International Internationa al opportunities �ree wo work or placements
+
+Month 16 I was a construction Mo supervisor ina const I was the North Sea super advising and the No he helping foremen advis s solve problems Real work he helping fo International Internationa al opportunities �ree wo work or placements s solve pr
+Click on the ad to read more
+
+71
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Charms
+
+It is highly recommended to turn on system protection for the computer. When you click on the Create-button, this dialog box opens:
+
+Does your computer seem to work smooth and fast, and does not suffer from problems of any kind? Then create a restore point! This means that your computer can be reset to work like now at a later date. When you name the restore point, remember that Date and time are added automatically. You could e.g. name it “Pre install of X program” or “Pre Windows Update 8.1.2”. Windows Update In Windows Update you can adjust how updates in Windows works, and take action on available updates (read more in chapter 11.1.2 PC maintenance)
+
+72
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Charms
+
+Power Options Microsoft recommends that you use the Balanced setting as a power plan. If you are not an advanced user, you should probably do that.
+
+If you click on the menu items Require a password on wakeup, Choose what the power buttons do or Choose what closing the lid does, you can adjust the settings for power button, the sleep button and closing the lid. Here you can also include or exclude e.g. the Hibernate feature. The item Create a power plan is for advanced users. The item Choose when to turn off the display contains settings for controlling the energy use, whether the computer runs on batteries or it is plugged in. Filehistory Filehistory saves copies of your files, so you can get them back if they are lost. You choose a drive, and choose which files you want to backup. If you want to restore data, you can do this in Filehistory. Storage spaces Storage spaces lets you save files to a storage pool with several drives, to help you protect from drive failure. This feature is for advanced users. Read more about this by clicking here. Work folders Make your work files available on all devices you use, even when you are offline. A work e-mailaddress is needed to use this feature.
+
+73
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Charms
+
+Add features to Windows 8.1 You can upgrade your existing operating system to e.g. the Pro-version. Administrative tools These are features for advanced users, which will not be described further in this book. Network and Internet This feature gives you an overview over connected network. It makes it possible to connect to broadband, dial-up, VPN-connections, or set up a router or access point. The troubleshooting feature at the bottom is a very effective tool, if you got network problems. If you want to know more about wired and wireless network problems, you can click here.
+
+Need help with your dissertation?
+Get in-depth feedback & advice from experts in your topic area. Find out what you can do to improve the quality of your dissertation!
+
+Get Help Now
+
+Go to www.helpmyassignment.co.uk for more info
+
+74
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Charms
+
+Home group If you want to share some content on your computer and/or connected printers, with other members of the household, you should use the feature HomeGroup. You can protect your homegroup with a password, that can be changed at need. You can share libraries, folders and files with others. Other people can not change your files, unless you give them permission to do so. You can also prevent certain folders or files from being shared. Read more about HomeGroups by clicking here. Internet options These options are for internet browsers, which are described in chapter 12 The Internet. Hardware and sound Devices and printers are for installation and maintenance of printers and other devices. Some of the other items are described In chapter 7.5.3. Change PC settings, the rest are for advanced users. Programs To get to the item Programs and features, right click on the windows-icon at the left on the Taskbar, and choose the item at the top, Programs and features. This is useful when you want to remove or change programs on your computer. If you are in doubt, do not remove a program, as it might be important for the functionality of your Windows program. User accounts and Family safety The item User accounts and Family safety is user oriented, and might be relevant to use if young people (children) also use the computer. From the sub-item Change account type you can add new users, remove users, and change user settings – e.g. you can change an account type from Standard user to Administrator. From the sub-item Manage Family safety online you can manage childrens accounts. By activating Family Safety, you can monitor and restrict use of the computer for children. You can limit the web-options, use of apps, time spent online and so on. Read more by clicking here.
+
+75
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Charms
+
+Personalization
+
+Personalization and Display are described in chapter 6.8 Elements on the Desktop. Taskbar and Navigation are reviewed in chapter 6.11 The Taskbar. Ease of Access Center is reviewed in chapter 7.5.3 Change PC settings. and Folder options are reviewed in chapter 6.8 Elements on the Desktop. Fonts You can adjust ClearType-text, which is a Microsoft-developed technology, which makes it easier to read fonts on the screen. Clock, Language and Region These items are explained in chapter 7.5.3 Change PC settings. Ease of Access Ease of Access is described in chapter 7.5.3 Change PC settings.
+
+76
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Charms
+
+7.5.2	
+
+Quick Access panel
+
+When you activate the Settings Charm, you will see following items in the bottom of the panel that opens:
+
+The name of the connected Wi-Fi network and its signal strength is seen on the upper left icon. If you click on the icon, the networks panel opens. The Airplane mode must be Off, unless you are in airplane, of course. In the item Connections you might see a LAN-connection or VPN-connection. In the item Wi-Fi you can see all available Wi-Fi connections, and you can choose one by clicking on it. Next to the Connections icon you see a Loudspeaker icon, that can give you access to controlling the volume by clicking on it. Maximum system volume is 100.
+
+77
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Charms
+
+To the right of this you see an icon, that controls the brigtness of the screen. Notifications is an item to set messages on pause from 1 to 8 hours. This is useful when you do not want to be disturbed by messages, e.g. while you work. Power offers you the choices: Sleep, Shut Down Or Restart. Read more about Power options in chapter 7.5.1 System. If you click on ENG/Keyboard in the lower right corner, you can switch between different keyboards, e.g. Spanish, German and so on. 7.5.3	 Change PC-settings
+
+In the bottom of the panel is the item Change PC-settings. If you click on this, a window opens :
+
+PC and devices If you open PC and devices, you get access to the following items Lock Screen, Display, Bluetooth, Devices, Mouse and touchpad, Typing, Corners and edges, Power and sleep, Autoplay, Disc space and PC-information. Lock screen You can select a photo to be displayed on the Lock screen, or you can play a slide show with pictures/ photos on the lock screen. You choose apps to run in the background and show quick status and notifications, even when your screen is locked.
+
+78
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Charms
+
+Example You want a picture of your family to be displayed on the Lock screen.. Do like this Open the Settings Charm. Choose Change PC-settings. Choose PC and devices. Choose Lock screen. Click on the Browse-button to select a picture. Under the Browse-button you can turn on a slideshow. If slideshow is on, pictures from your Photolibraries are displayed on the Lock screen. Lock screen sign-in You can use your Lock screen to log in. It is fast and easy to remember. Example You want a photo of your own choice to sign in on your Lock screen. Do like this Choose the Settings Charm. Choose Change PC-settings. Choose Accounts. Choose Sign-in-options. Click on the button Change beneath Picture password and select a photo. Follow the instructions regarding movement directions. Read more in chapter 7.5.3 Change PC settings.
+
+Display Here you can identify and detect screens, and set resolutions. 1920×1080 = Full HD is recommended.
+
+79
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Charms
+
+Bluetooth Bluetooth is a wireless connection technology, that can be activated from this item, to connect to other devices that supports Bluetooth. Bluetooth is marked with the Bluetooth icon Devices You can add new devices, and see those you already have installed, like printers.
+Download over metered connections can be activated/deactivated here, which might help the user to save money.
+
+At the bottom the item Default save locations can be used for saving pictures, videos and music to selected removable devices. Mouse and touchpad Under this item you can change the primary mouse button from left to right, which is nice if you are lefthanded. You can also select whether the mouse wheel shall scroll multiple lines at at ime, or a screen at a time. Here you can also adjust the delay of the touchpad, if you have one.
+
+Brain power
+
+By 2020, wind could provide one-tenth of our planet’s electricity needs. Already today, SKF’s innovative knowhow is crucial to running a large proportion of the world’s wind turbines. Up to 25 % of the generating costs relate to maintenance. These can be reduced dramatically thanks to our systems for on-line condition monitoring and automatic lubrication. We help make it more economical to create cleaner, cheaper energy out of thin air. By sharing our experience, expertise, and creativity, industries can boost performance beyond expectations. Therefore we need the best employees who can meet this challenge!
+
+The Power of Knowledge Engineering
+
+Plug into The Power of Knowledge Engineering. Visit us at www.skf.com/knowledge
+
+80
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Charms
+
+Typing Here you can choose to highligt misspelled words, and to autocorrect them or not.
+
+Corners and edges Personalization of app switching and corner navigation. It is recommended to have all items switched on.
+
+81
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Charms
+
+Power and sleep It is important to the condition of the battery, that the computer goes into Sleep-mode after some time, when it is not in use. You can adjust this here.
+
+Read more about Power options in chapter 7.5.1 System. Autoplay This item offers quick access to autoplay-settings, but I recommend that you use Autoplay in Control panel, Hardware and sound instead, as you are offered more choices.
+
+Disc space Here you can review disc space on your local Hard Drive. Space used for various data types. Here you also can remove apps from Windows Store, to free up disc space.
+
+82
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Charms
+
+PC-info
+
+PC-info is similar to the item System in Control Panel ( Accounts
+
++ Break-key).
+
+Here you find local settings and online settings for your Microsoft-account(s); name, photo, sign-inoptions, birthday, sex, country, e-mailadress, password and a lot more.
+It is possible to create a personal Picture password, which is a drawn figure, at your choice. A picture password is often easier to remember and use than a traditional pincode.
+
+Challenge the way we run
+
+EXPERIENCE THE POWER OF FULL ENGAGEMENT… RUN FASTER. RUN LONGER.. RUN EASIER…
+1349906_A6_4+0.indd 1
+
+READ MORE & PRE-ORDER TODAY WWW.GAITEYE.COM
+
+22-08-2014 12:56:57
+
+83
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Charms
+
+OneDrive Microsoft-users are offered space storage in the cloud, on a drive named OneDrive. The first couple of Gb (due to competition the size offered increases all the time) are free of charge. If you need more storage space, you can buy more (read more in the next item File storage). You can access OneDrive from all devices as long as you log in, so it is independent from any computer. File storage If you have internet access you can add more storage space to your OneDrive, and you can choose to automatically save your documents here, as a standard.
+
+The item Camera roll is used for automatically uploading pictures and video to your OneDrive. It is very useful that your Windows 8.1-settings always are the same, no matter which computer you use. This is what the item Sync settings is used for. Metered connections can cause additional payment for user, when you download or stream data, for example. Adjustment of these settings can be made in Metered connections. Search and apps In the Search item you can clear you File history, manage Microsoft advertising and personalization, select or deselect Bing web search engine (Bing is provided by Microsoft) to search online for you, you can filter search results of pictures and video for adults (Safe Search), share your experiences with Microsoft (give them access to information) and adjust settings for Metered Connections when you search online.
+
+84
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Charms
+
+Sharing options offers you possibilities to protect yourself from unwanted sharing from apps. You might have an app with content that you do not want to share with others.
+
+Notifications offers you settings for app notifications: select sounds, to turn on your screen when you get a call, and more.
+
+When you need to know sizes of your apps, e.g. when you want to remove some to free disc space, App sizes is the place to go. In Default apps you can choose the apps you want to automatically open, when you open a link, e-mail or datafile. Privacy The item General you can control if apps may access to your name, picture and lots of other informations. In the item Location you decide which apps shall have access to information about your location. In the item Webcam you decide which apps shall have access to the webcamera that is connected to your computer.
+85
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Charms
+
+In the app Microphone you decide which apps shall have access to the microphone that is connected to your computer. In Change Privacy Options you can change settings for the installed apps. If you use your computer for business, you might like to change some settings to Off.
+
+This e-book is made with
+
+SetaPDF
+
+SETASIGN
+
+PDF components for PHP developers
+
+www.setasign.com
+86
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Charms
+
+Connections In the item Connections you can manage Wi-Fi, Ethernet (LAN) and VPN connections.
+
+In Airplane mode you can turn off all wireless communication. Normally you want Wi-Fi to be turned On, and Bluetooth Off.
+
+It is recommended that Automatic Proxy Setup is On. It is recommended that all settings in the item HomeGroup is On. The item Workplace is not described here – ask the system administrator at your work. Time and language Time and language settings are similar to Watch and Keyboard/Language on the Taskbars right side (read more in chapter 6.11.2 Icons on the Taskbars right side). Ease of Access Ease of Access contains helpful features for disabled people. Narrator is the screen reader that reads all the texts on the screen. In the item Narrator you can manage all settings for screen reading. The item Magnifier contains all settings for magnifying elements on the screen. You can increase the contrast on the screen with the item High Contrast.
+
+87
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Charms
+
+It is possible to get an on-screen keyboard in the item Keyboard, and in the item Mouse you can manage various mouse features. Finally the item Other options contains various visual options. If you shut some of them down, it may release some RAM9 memory on your computer, for other uses.
+
+Update and recovery Update and recovery is almost similar to the item System and security in Control panel (read more in chapter 7.5.1 Control Panel). The Windows Update item is important in order to maintain the health of your computer, so it is strongly recommended that you explore this item thoroughly yourself.
+
+88
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Charms
+
+In the item File history you can back up copies of your files to another drive.
+
+Recovery is an item that helps you refreshing your computer. There are three features; Refresh your PC without affecting your files, Remove everything and reinstall Windows and Advanced startup. The first feature is recommended to use every six months or so to maintain your computer. If your computer for some reason is running very slow or has malfunctions, you can use the second feature. Advanced startup can be used, when you cannot start your PC from your Hard Drive. Of course, this requires a boot device, like e.g. USB-stick or another external drive.
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+89
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Charms
+
+It is important to keep an image of your system as a copy, to use if your computer should fail to startup from the Hard Drive. To make an image back up, you must open Control panel/System and security/File history. In the bottom of the screen you see the item System Image Back up. If you click on that button, the process will start automatically.
+
+Read more about this in chapter 7.5.1. The Action Center.
+
+When you need to restore your PC to an earlier state where it worked really well, you can use the shortcut + R to open a dialog box, and then type in “rstrui.exe”.
+
+90
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Charms
+
+When you click the OK-button, you start the recovery process.
+
+Windows 8.1 has a feature that makes it possible to see which programs are affected of this process. A window will open, containing the button Scan for affected programs. It will supply you with a review of programs that will be removed, and which you might like to install again later. Read more about this in chapter 7.5.1 Update and Recovery.
+
+Using this feature has major consequences: Every single operation that your computer ever made after the selected restore point are canceled, including important updates, installed programs, folders and files and everything else.
+
+91
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Searching
+
+8	Searching
+In this chapter you learn about -searching programs, program items, folders and datafiles
+
+Your computer contains a lot of programs, apps, folders and data. We all have experienced, that finding a specific item can be difficult or even impossible. Your data is stored either on the Hard Drive on the computer, a USB-drive, somewhere on your network or in “the cloud”. If you are storing a lot of data and you do not have an effective filing system, the overview can easily be lost. Efficient search tools are therefore needed when looking for specific textfiles, photos, music, videos.
+
+8.1	
+
+Search from the start screen
+
+From the Start screen you have access to strong search tools the following ways: -- Click on the looking glass in the upper right corner, and type a search text in the search field. Windows search tools will automatically look for all titles with related content, and present results almost immediately. -- The Search Charm has the same functionality as above (read more in chapter 7.1 The Search Charm). -- In the upper right corner of the Start screen is a search icon.
+The far easiest way to search for something in Windows 8.1 is simply to write a short text directly on the Start screen. Search results will appear in a panel in the right side of the screen. When you are at the Desktop, the F3-key is a shortcut to open a filesearch box in a panel in the right side of the screen.
+
+To see all of the results for your search term, including all the web results from Bing, tap or click the Search button  8.1.1	  to go to the search results page!
+
+The search results page
+
+Your results are grouped by category and by where they are from. For example, the videos on your PC will be grouped together, and so will the videos from the web. The results from your personal files on your PC and OneDrive will be listed first, and then results from apps and the web. To see all the search results for a specific category, click the See all link for that category.
+
+92
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Searching
+
+8.1.2	
+
+To go back to the search results page
+
+If you open a search result and find it’s not what you‘re looking for, you can go back to the search results page without having to search all over again. Just move your pointer into the upper-left corner of your screen and click. 8.1.3	 Search settings
+
+If you open the Settings Charm, and choose Change PC-settings, the Search and apps item appears. If you click on the item it opens. Read more about search settings in chapter 7.5.3 Change PC settings.
+
+8.2	
+
+Search with File Explorer
+
+Tthe intentions behind Desktops File Explorer is to navigate on local and connected drives, either when you need to organize folders and files, or if you are searching for something specific. You can open File Explorer from Desktops Taskbar, by clicking on the icon: File Explorer implies a wide range of possibilities of showing and sorting search results. Example You search for a specific data file on your computers Hard Drive with File Explorer.
+
+93
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Searching
+
+Do like this When File Explorer is open, you write a (part of) the name of the file or item in the search box (Search Libraries) at the upper right on the window, and finish by pressing Enter.
+
+Windows 8.1 will display search results that contains the text, if it is a program, a folder, a filename or in the content of one of these. If you make too general searching, you get too many results. The more specific and precise the search terms are, the better results you get.
+
+When you may select one result and choose Details on the Ribbon in the View tab, you get to see details like e.g. filename, author, filesize and more. Notice the eight different Layouts on the Ribbon. They all show the same content, but presented in very different views. It is useful to know these ways. As a standard content is shown in alfabetical order, but there are many other possibilities. In the layout Details you can right-click on the column Name, for example, and choose the criteria Authors, Folder path and Size, one by one. If you want a different order, you simply drag a column to its new place. If you click on the criteria Size, the View changes to descending order of file sizes. If you click once more, it is ascending order. This functionality is the same for all columns in Details.
+
+94
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Searching
+
+You can use the feature Sort by to sort the results after criterias, similar to the feature mentioned before.
+
+The Search tab (Search Tools) is shown when the pointer is in the search box, and This PC is marked in the Navigation pane.
+
+It is possible to combine various search criterias, such as Date modified, Kind, Size and Other properties (Type, Name, Folder path and Tags). These tools are very useful if an initial search result is very large.
+
+8.3	
+
+Search with Help
+
+The above mentioned search methods aside, you can also use the Help feature. Help is opened by pressing the F1-key, when at the Desktop. Are you on the Start screen, just write ‘help’ and you get several options: Help and Support og Help and Tips are the primary features to use. You can read more about searching with Help, by opening the app Help and Support, and then choose the tile Get started and finally on the link How to search in Windows (read more in chapter 15 Help).
+
+95
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Storage of datafiles
+
+9	 Storage of datafiles
+In this chapter you learn about ---storage of datafiles libraries folders
+
+Your computer contains programs and apps that handles data. Data can be stored on the different drives on the computer. A drive is always assigned a letterfollowed by a colon. The computers Hard Drive is usually named (C:). The letters of the other drives may vary. Others drives may be USB-drives, network drives or drives in the “cloud”. The drives you can access from your computer, can be seen in the Navigation pane in File Explorer. If you connect a USB-drive to your computer, for example, a dialog box will open with various options to access or manipulate the USB-drive. The USB-drive will appear in File Explorers Navigation pane assigned a letter: “M:”, for example.
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+96
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Storage of datafiles
+
+9.1	
+
+Storage from Apps
+
+Apps like e.g. Microsoft Office (Word, Excel, Power point, Publisher, OneNote og Access) and other programs, like photo editing apps, do all create data files that can be stored. It is typically done by clicking the tab Files, and choosing the item Save as and then choose a storage place. If you choose to store locally on the computer, a dialog box is opened, and you can save your data anywhere on the computers drives. Do you use a Microsoft-account, you can save the data on your OneDrive, your personal drive in the sky. Read more about this in chapter 12.6 OneDrive.
+
+9.2	
+
+Storage from Desktop-programs
+
+Programs that are opened from the Desktop, and that creates datafiles to be stored, can also use OneDrive. There are advantages by using OneDrive: -- Data are accessable from all computers with internet connection. -- Data does not take space on local drives. -- Data are easy to share with others. There are also disadvantages by using OneDrive: -- Storage time is depending on the internet connection speed. -- Data is not accessable without an internet connection. Storage from Desktop programs are similar to storage from apps.
+
+9.3	
+
+Libraries
+
+If you store many data files, finding data files again becomes more difficult – especially if they are not well organized on the computers drives. You save time by keeping your data files well organized. There is no fixed rule for organizing data files, but using Libraries is very common. A library is a collection of items, files and folders. The items may be located on your computer, on an external drive or even on an external computer. When you include a folder in a library, its files are shown in the library, but everything is still stored on the original location. You never store datafiles directly in a library, but on any given drive, that is included in a library. The library contains shortcuts to the physical location where the actual data (and program) files are saved. Windows has some standard libraries: dokuments, pictures, music, programs and videos. It is possible to change these names, and it is also possible to create your own libraries and remove them. Please notice that when you select libraries like Pictures, Music and Video, then the respective tool tabs will automatically appear on the ribbon.
+
+97
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Storage of datafiles
+
+Example You want to create a library called Games. The purpose of the library is to give you a good overview over your games. You want the library to have special properties and an icon that symbolizes games. Do like this You open File Explorer, and right click on Libraries in the Navigation pane. Choose New click on Library. Name the library Games. Right click on the library Games and choose Properties.
+
+When you click on Add, you can choose the folders to be shown in this library. To change icon, click on Change library icon. Select a icon with a suitable symbol, a spade, a jigsaw piece or a chesspiece by clicking on it, and finish with OK. In the Navigation pane you now see the library Games, with the icon of your choice.
+
+98
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Storage of datafiles
+
+9.3.1	 stored. Example
+
+Manage libraries
+
+It is useful to be able to see the locations of the folders in the libraries, and to change the way data are
+
+You want your documents to be stored in the folder Documents in the library Documents. The library Documents content must be checked. Do like this Find the library Documents in File Explorer and click on it, and notice that a Library Tools tab appears. Click on the tab Manage, and a ribbon like this will appear:
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+99
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Storage of datafiles
+
+If you click on the icon Manage library, you can see the locations of the folders in the library. You can add or remove folders from your library here.
+
+The next icon on the ribbon is Set save location. Here you can choose in which folder in the library Documents you want your documents to be stored, as a standard. Word-documents are often stored in the local folder Documents, Shared documents or on OneDrive, in the folder Documents. 9.3.2	 Optimizing libraries
+
+The feature Optimize library for optimizes e.g. a Document Library for documents. You select the library Documents in File Explorer, click on the icon Optimize library for on the ribbon Manage, and choose the item Documents.
+
+9.4	
+
+Hierarchy of folders
+
+Even when libraries are properly used, it is still useful to organize your files in a hierarchy of folders. 9.4.1	 Create a new folder
+
+You can organize your files by storing them in relevant folders. You can e.g. create a new folder on your Desktop. This is easily done by right clicking on an empty space on the Desktop, and choose the item New and choose Folder. 9.4.2	 Organizing files in folders
+
+To make it easier to store and search files, a logical archiving system is handy.
+
+100
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Storage of datafiles
+
+Example You want to store all Word-documents in the local folder Documents, in a subdirectory called Word. Do like this Open File Explorer, select the folder Documents in the Navigation pane, and click on New folder in the tab Home on the ribbon. Then you write the text Word. Notice the adress bar, right under the ribbon (marked with a red arrow). It will always tell you where on the computer content shown in the File List is located.
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+101
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Storage of datafiles
+
+Example You want to organize your Excel spreadsheets covering british sales from 2010 to 2013 in folders, sorted geographically. Do like this Create a folder called Excel in the local folder Documents. In the Excel-folder you create four new sub folders; 2010, 2011, 2012 and 2013. In all folders you create these four folders: England, Wales, Scotland and Miscellaneous. The hierarchy looks like this: Documents Excel 2010 England Wales Scotland Misc. 2011 England Wales Scotland Misc. 2012 England Wales Scotland Misc. 2013 England Wales Scotland Misc.
+
+This is one example on a hierarchy of folders you can make on your computer.
+
+9.5	
+
+Types of files
+
+In File Explorer choosing the Layout Details you see the column Type, which means type of file. A file’s extention reveals its type. The extention is the three or four characters after the dot in the filename. A program file has the surname ‘.exe’. If you create a textfile in WordPad, the extention is often ‘.rtf ’. If you work with the word processing program Word, the files extention will be ‘.docx’. There are lots of others types of files, some unusual. It is also possible to reveal the type of file, by looking at its icon.
+
+102
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Storage of datafiles
+
+Here are examples of different types of files and their icons in File Explorer, with extentions:
+Program Surname Icon Microsoft Word .docx Paint .jpg WordPad .rtf
+
+Program extention Icon
+
+Microsoft Excel .xlsx
+
+Calculator program .exe
+
+Videoclip .avi
+
+To find a files extention, you can either 1) right click on its icon and choose Properties (almost at the top it says ‘Type of File’), or you can 2) use the File Explorer Details view. Click on a column and choose File Extension (you may find it under More…). If a file is attached to a program that created the file, it is a so called file association. It means that if the file is attached to a program then the associated program will automatically be launched to open the data file, when you Double click on the files icon or text. If a file is not attached to a program, and you try to open it by Double clicking on it, you will be asked to tell which program you want to use to open the file. 9.5.1	 Moving files
+
+Moving files from one folder to another is possible with File Explorer. Example You want to move a document from the Desktop to the Word-folder in Documents. Do like this There are several ways of doing this, here are three of them: -- Select the wanted document in File Explorer (click on it once), right click and choose Cut. Then click on the Word-folder, and in the File List you right click and choose Paste. -- Select the wanted document in File Explorer, press Ctrl+X (shortcut to Cut), Double click on the Word-folder, and in the File List press Ctrl+V (shortcut to Paste). -- Select the wanted document in File Explorer, choose the item Move to on the Home ribbon, and choose a new location.
+
+103
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Storage of datafiles
+
+9.5.2	
+
+Restore a deleted file
+
+It is possible to restore a deleted file, as long as you have not emptied the Recycle Bin. Example You want to restore a document that was deleted by a mistake. Do like this Open the Recycle Bin by double clicking on its icon on the Desktop. Then select the document to be restored, and choose Restore the selected item from the Manage tab on the ribbon. The document is now back to the same location from where it was deleted.
+
+104
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Storage of datafiles
+
+9.5.3	
+
+Delete a file
+
+In File Explorer you can delete files. If you are not sure of what you are doing – don’t! Example You want to delete a document. There are several ways to do this: -- Select the document in File Explorer, and press the Del-key. -- Select the document in File Explorer, right click on it and choose Delete. -- Select the document in File Explorer, keep the mouse button down, and drag the file icon to the Recycle Bin on the Desktop, and let go. The deleted document is now in the Recycle Bin, ready to be permanently deleted or restored. 9.5.4	 Copy a file
+
+You may want to copy a file and/or move elements between folders. You use the features ‘Move’ and ‘Copy’, that appears when you right click on the file! Whenever you move or copy, you use a temporary storage space called ‘Clipboard10’. It is not visible, but it exists in the computer memory. For example, when you copy something from a document, Windows 8.1 will automatically insert it to the ‘invisible’ Clipboard, where it stays until you insert something else there.
+Instead of using right click items Copy and Paste, the shortcuts Ctrl+C og Ctrl+V works exactly the same way in most programs.
+
+105
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Computer connections
+
+10	 Computer connections
+In this chapter you learn about ----computer security network types external drives printers
+
+To perform various actions with your folders and/or datafiles, it is necessary to know about different types of connections to your computer. The most important connections, besides mouse and keyboard, are: networks, printers and USB-drives. CD-rom/DVD-drives have almost become obsolete technology for computers, and if you buy yourself a new computer, it will probably not have such a drive.
+
+10.1	Networks
+Your computer is probably connected to at least one network. A network is a number of computers connected to each other, so exchange of data is possible. In the following the network types LAN, WLAN og WAN are described. A so called LAN (Local Area Network) is a wired network at home or at work. Only those directly connected to the network by cables, have access. This type of network is very secure. If the network is wireless, it is called a WLAN (Wireless Local Area Network). If it complies to international standards, it is also called a Wi-Fi. If you know the access code to a Wi-Fi-network, you can get access. WLAN is therefore less secure than a LAN, but easier and cheaper to set up. The use of wireless networks are common to laptops and smartphones. An intranet is a local network for invited users. It is common in public institutions, but also a lot of companies use it. As a invited user you can get connected to the intranet, by using a unique username, and a password. An extranet is a network used by companies and other organizations to communicate with their businesspartners, and works exactly like an intranet. When you order products from a company, it is typically through the companys extranet. Finally there is a WAN (Wide Area Network) which is a network between cities or contries. The Internet – or just “the net” – is the largest WAN we have. Read more about the Internet in chapter 12 The Internet.
+106
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Computer connections
+
+10.2	CD-rom/DVD-drives
+
+CD-rom/DVD-drive have been standard equipment for computers for a long time. They are no longer installed on new computers, as they are being replaced by other, newer technologies, like streaming, USB-drives and others. It is (still) possible to buy and connect an external DVD-drive to a new computer, so you can watch your DVD-movies, show/save data and so on. To watch DVD-movies you need an app, like Windows Media Center, that can be downloaded from Windows Store (read more about this in chapter 13 Windows store). CD-rom and DVD-drives will not be described further.
+
+107
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Computer connections
+
+10.3	
+
+USB-drives
+
+Universal Serial Bus (USB) is a so called data communication bus, that transports data from one place to another.
+
+All contemporary computer have one or more USB-ports, so USB-drives can be connected to all new computers. A USB-drive can contain from a few Gigabyte (Gb11) data up to 64 Gb or more – the amount is increasing all the time. Compared to a DVD (that typically contains 4,7 Gb) an USB-drive of 500 GB can store the equivalent of more than 100 DVDs. Furthermore much longer to copy 500 GB of data to DVD than to USB-drives The faster and more practical USB-drives are far more efficient.
+USB comes in various speed variants, the high speed drives are compatible with low speed drives. It is important to notice which kind of USB ports that your computer have, and which kind of USB-drive you insert: ----USB 3.0 high-speed 4.86 Gbps (SuperSpeed USB) USB 2.0 high-speed 480 Mbit/s USB 1.0/1.1 full-speed 12 Mbit/s USB 1.0/1.1 low-speed 1,5 Mbit/s (mostly used for mouse, keyboard and modem)
+
+USB 3.0 ports can also handle USB 2.0 Drives – but at the slower pace.
+
+10.4	Printers
+A printer can be connected directly to a computer e.g. via a USB-plug, or be connected to a network.
+
+All computers that are connected to a network, can print on a network-printer that is connected to the same network.
+108
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Computer connections
+
+10.4.1	
+
+Add a printer
+
+Usually, an installation CD will – still – be delivered with the printer. The CD will automatically begin the installation when inserted in the CD-drive, and when you follow the instructions, it is easy. If your computer does not your computer have a CD-drive, the installation program must be downloaded from the Internet. Installation of network printers are more difficult than USB-printers, as it sometimes may be necessary to know how to use codes and IP-adresses12. However, if it is a wireless network printer, and you have a WPS-button (Wi-Fi Protected Setup button) on your Router or Access Point, it is very easy. Depending of the equipment there are several variations of connecting the printer, so you need to look at the printer manual. 10.4.2	Print The keyboard shortcut for Print is Ctrl+P in all Microsoft-programs. This command will also work in most other programs. Alternatively you must find a Print command in the Files –tab to print.
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+109
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Important programs
+
+11	 Important programs
+In this chapter you learn about important --computer oriented programs user oriented programs
+
+In general software programs can be split into the following two types: -- Computer oriented programs. -- User oriented programs.
+
+11.1	
+
+Computer Oriented programs
+
+Security programs, maintenance programs and service programs are computer oriented programs that are crucial to the functionality of the computer. Ideally, you would like these programs to work automatically and stay in the background, minding their own business (and the sanity of your computer). Some day it will perhaps be like that, but that day has yet to come. 11.1.1	 PC security
+
+Drives that are connected to the computer, like Wi-Fi, Bluetooth and so on, are called external drives. When your computer are connected to external drives, it is possible for malware to find a way into your computer. Malware is a common name for malicious programs, such as vira, trojan horses, worms, adware,spyware and many more. Malware can transmit information about you or the computer to a third party, making the computer go slower or, in the worst case damage the files on your computer so much that is becomes in-operable. To protect your computer, it is absolutely recommended at least to install: -- an active firewall. -- an efficient antivirus program. Firewall Example You want an active firewall on your computer, to protect it from unwanted intrusion. Do like this When you are on the Start screen, just write “firewall” with your keyboard. Windows will automatically find relevant results of this search. Click on the suggestion “Windows Firewall”. Windows Firewall is sufficient protection for most users, when activated. Read more about this in chapter 7.5.1 System.
+
+110
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Important programs
+
+Antivirus program Many antivirus programs can be downloaded from the Internet. Some are free, others cost money. No matter what you choose, it is recommended that you make a comparison of tests of the programs. Remember that test results changes every year. These tests are quickly found by searching the Internet. If you e.g. search for “antivirus” you will get several useful results in your webbrowser. Microsoft recommend the program MS Defender, which can be downloaded for free from Microsofts website (http://microsoft.com). 11.1.2	 PC maintenance
+
+Some maintenance programs must be mentioned here: -- Updating progams (ensures important program updates are performed). -- Cleanup programs (removes unnecessary files from the computer). -- Optimizing programs (optimizes the computers data storage). Updates Windows 8.1 can be set to automatically update Windows and other Microsoft-programs. There exist several (free) programs that will alert you when non-Microsoft-programs needs to be updated, e.g. Heimdal and Secunia PSI, to mention two well-known programs that easily can be found on the Internet. Example You want your computer to automatically update Windows and other Microsoft programs. Do like this Activate the Settings Charm, and choose Change PC-settings. Choose Opdate and Recovery. Choose Windows Update. Now you can see whether your updates are automatically downloaded and installed, or not. If they are not, choose Choose how updates get installed, and choose Install updates automatically (recommended). Notice that you also can set other Microsoft-products to be automatically updated, when you update Windows!
+
+111
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Important programs
+
+Fix problems with Windows Update Example You want to examine your computer and fix any problems with Windows updates. Do like this Open Control Panel (e.g. right click on the Window-logo in the left side of the Taskbar, and choose Control Panel), choose System and Security, and choose Find and fix problems.
+
+A windows opens describing Troubleshooting computer problems. Choose the item Fix problems with Windows Update.
+
+.
+
+112
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Important programs
+
+Windows will run some test procedures, ending up with giving you a status, e.g. like this:
+
+The item next to Fix problems with Windows update is Run maintenance tasks. It is recommended to try this feature once in a while too. Cleanup Windows 8.1 contains a Disc Cleanup feature. The purpose of this program, is to remove unnecessary and temporary files. This will free disc space and make your computer go faster. There are several other (free) programs that cleans up your computer, like CCleaner, that has been downloaded about 1 billion times via the Internet. Example You want to cleanup your computer. This includes system files and other files, that has become obsolete. Do like this Open the Control Panel (e.g. right click on the Window-logo in the left side of the Taskbar, and choose Control Panel), choose System and Security and choose Administrative Tools. Double click on Disc Cleanup.
+
+113
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Important programs
+
+Notice that it is possible to cleanup System files, by clicking the button Clean up system files. Select the files you want to delete (notice the size of the files, big files are to prefer), and click on OK. Remember that your Recycle Bin might contain large amounts of data that needs to be deleted. Optimize When you store a file on your Hard Drive, it will be placed in the first available space. When you delete and store new files to the Hard Drive, there will become holes in the row of files. If a new file cannot be in a hole, it might be scattered all over the Hard Drive. This is called Hard Drive fragmentation. Fragmentation causes the computer to use more time to read the file. With the feature Defragment all relevant files on your Hard Drive gets sorted and placed together in sequences on the Hard Drive. Windows 8.1 has an optimizing feature, that used to be called Defragment, but is now called Defragment and optimize drives. The purpose of this feature is to organize the computers file systems in a better and more efficient way, to make the computer go faster and use less resources. As a standard Windows 8.1 optimizes the computer automatically every week, but you can do it manually too. Example You want to optimize you computer manually. Do like this From the Start screen you write the text “optimize”, and then choose the search result: Defragment and optimize drives. You can Select several drives (press down Ctrl and click on the wanted drives), and you may start analyzing, before you optimize any drives.
+114
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Important programs
+
+11.1.3	
+
+Service programs
+
+Beside the above mentioned, other service programs are vital to ensure the computer functions correctly. The most important ones are described in the following. Java Java and Javascript are programming languages. Lots of apps and websites will not function correctly without them. Java is e.g. used for the danish Nem Id, used by netbanking, public management and so on. The problem with using Java instead of Javascript, is that the program needs updating all the time, while Javascript doesn’t, so the Java-browserplugin will be replaced in the future. Until then we must use it and update it. Example You have received information that it is necessary to have the latest version of Java installed. You want to check which version you have, and perhaps update to the latest one. Do like this Open Control panel (e.g. right click on the Window-logo in the left side of the Taskbar, and choose Control Panel). Write “Java” in the search box. Click on the search result Java, and a dialog box will open. In the tab General you can click on the About-button to see information about your Java-version.
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+115
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Important programs
+
+Notice that in the Update-tab you can update your Java. If you have problems with the installation this website might come in handy: Java SE Runtime Environment DirectX Many games and media programs require DirectX to function correctly. DirectX comes with Windows 8.1 and cannot be uninstalled. If you have problems with a game or perhaps a multimedia program, the diagnostic tool for DirectX might help you identifying the problem. Example You want to find out which version of DirectX you have installed. Do like this -- Open the Search Charm. -- Write ’dxdiag’ in the search box, and click on the search result dxdiag. Choose the tab  System, and check your DirectX-version under  Systeminfo (near the bottom). Other problems might be solved with information from this website: DirectX End-User Runtime Web Installer Adobe Reader If you want to open and read documents in PDF-format, it is necessary to have Adobe Reader installed. Example You want to install Adobe Reader. Do like this Visit the website http://adobe.com. Somewhere on the website you can download the program Adobe Reader for free. Since websites constantly changes, no further instructions are given here. Microsoft Silverlight Silverlight is a free tool for improved interactive experiences on the Internet. Silverlight is compatible with most browsers.
+
+116
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Important programs
+
+Example You want to install Microsoft Silverlight. Do like this Visit the website http://www.microsoft.com/silverlight/. Somewhere on the website you can download the program for free. The program will be automatically updated in the future.
+
+11.2	
+
+User oriented programs
+
+User oriented programs are unimportant for the functionality of your computer. From a users point of view though, user oriented programs are the reason why you bought a computer in the first place! It would be unwise to recommend some programs instead of others, since users think differently. And in the world of computers almost everything changes very rapidly. The most widespread user directed programs as this is written are the following: 11.2.3	 Office programs
+
+Word processing programs, Spreadsheet programs, Presentation programs and Photo Editing programs, or combinations of these, are called Office Programs. Microsoft Office (Word, Excel, Power Point, Access osv.) is the most popular – in business as well as private. There are many others, some of these can be downloaded free, e.g.; OpenOffice, LibreOffice, StarOffice, Flowgram, Gubb and more.
+
+117
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Important programs
+
+11.2.2	
+
+Network managing programs
+
+It is useful to have a couple of programs to manage your network environment. InSSIDer InSSIDer is a Metageek program for managing your Wi-Fi networks. It makes it possible to check the users of the various network channels, and the strength of the signals. InSSIDer can be downloaded from this website.
+
+Speedtest programs It is very useful to know if your internet provider lives up to what is promised regarding speed. There are many websites that can test your internet speed, e.g. the Ookla speedtest website. 11.2.3	 Various other programs
+
+Search for desired programs in Windows Store. You will be surprised of what you can get here – and very often for free! Read more about this in chapter 13 Windows store. 11.2.4	 Internet based programs
+
+Internet based programs are described in chapter 12 The Internet.
+
+118
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+The Internet
+
+12	 The Internet
+In this chapter you learn about -----the Internet and its history web browsers security on the Internet user accounts on the Internet Software and Service Providers on the Internet
+
+Basic skills in using a computer includes access to and knowledge about the Internet, as the world wide network of computers, the World Wide Web are called, in daily speech.
+
+12.1	Introduction
+It is necessary to have basic knowledge about the Internet, to gain full use of your computer. If you do not possess such knowledge, Internet courses are recommended. In this book we offer a brief introduction. 12.1.1	 History of the Internet
+
+The foundation of the Internet were made in the 1960s where the US Depeatment of Defense established a nation-wide computer network as an alternative to the existing communication systems. For the fear of an enemy nuclear attack that might disrupt communications.
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+119
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+The Internet
+
+In 1989 Sir Tim Berners-Lee created the so called “World Wide Web” – what we in daily speech call the Internet. The Internet does not have a central “government”, as all the Internets servers are spread across the planet. There are a few institutions, though, that manages domains, decides how upgrading of the Internet is carried out, and so on. 12.1.2	 Internet browsers
+
+An Internet browser is a software application used for browsing, receiving and displaying information from the World Wide Web. Presently the most widespread browsers are Internet Explorer, Google Chrome, Safari and Firefox. Browsers are basically alike, but in this book descriptions is be based on the browser Internet Explorer 11 (IE), as it is one of the worlds most used browsers. You can download the app from Windows Store, or you can download the Desktop program by clicking here. 12.1.3	 IE updates automatically
+
+Internet Explorer can be set to update automatically. Example You want the Internet Explorer to be updated automatically. Do like this Open Internet Explorer. Click on the item Help. Click on About Internet Explorer. Checkmark Install new versions automatically. 12.1.4	 Internet services
+
+A great number of applications on the Internet, are called Internet services. Search engines Search engines are probably the most used services on the Internet. In Denmark Google and Bing (Bing also searches via Yahoo and MSN) are the most popular ones. There are many others, you can see a list of search engines by clicking here. Web storage Web storage are increasingly used to store all kinds of data, to be accessable from any computer in the world (you need a username and password to do this, of course). The most popular are iCloud (Mac-users), Dropbox, OneDrive, Google Drive, Sugarsync and more. Googles Picasa is web storage for photos, with strong photo editing features.
+120
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+The Internet
+
+Webmail Webmail is increasingly used, as you do not need to install a mail program on your computer. The most popular are Outlook and Gmail. Calendars You can use calendars from Microsoft, Google and others, for free. Social media Social media are services like Facebook, Twitter, Instagram, LinkedIn and so on. Skype is a service from Microsoft, where text-, audio- and video communication is offered for free. Skype can be used by multiple persons simultanously, when you have Windows 8.1 installed. There are more descriptions of Skype later in chapter 12.7 Skype. Go to the Skype website by clicking here. 12.1.5	 Media players
+
+Mediaplayers for playing audio- or videofiles must be mentioned: Spotify, WiMP, iTunes and Deezer services popular at the moment. VLC, Windows Media Player, iTunes og KMPlayer are other popular mediaplayers. 12.1.6	 Photo editing programs
+
+Many Photo editing programs can be downloaded from the Internet for free: Adobe Photoshop CS2, IrfanView, Photofiltre and Pixlr. It is often required that you create a user account. There are many more, but the ones mentioned above are the most popular ones. 12.1.7	 Internet Explorer
+
+Internet Explorer has improved website updating, side-by-side browsing, and syncronising of Favorits, tabs and settings on all your Windows 8.1 computers. Download IE from Microsofts website by clicking here. When installed Internet Explorer can be opened by clicking on this icon
+
+121
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+The Internet
+
+InPrivate Browsing InPrivate-browsing prevents Internet Explorer to save data about your webbrowser session. This includes cookies, temporary internetfiles, review and other data. Tools and plugins are deactivated as a standard. This feature in Internet Explorer is opened by clicking on Security in the upper right corner, and then choose InPrivate Browsing. 12.1.8	 Internet Explorers user interface
+
+Forward and back At the upper left on the screen there are forward and back-arrows, to browse the latest opened website. Address bar To the right of the arrows is the Address bar, that shows you the address of the website. An internet address will typically begin with “http://”, which is an abbreviation of “hypertext transfer protocol”, which is the protocol that is used on the World Wide Web.
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+122
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+The Internet
+
+After http:// is usually the letters “www”, an abbreviation of World Wide Web. It is no longer necessary to write the three letters anymore, for most websites. After www comes a dot, the name of the websitet (fx microsoft), another dot, finishing with the postfix. (fx dk = Denmark).
+
+In the upper right corner are the buttons Minimize, Restore up/down og Close. Below these are the icons for Home, Favorites og Tools. Menu bar Below the Address bar is the Menu bar. If you right click on an empty space on the Menu bar, a menu appears that looks more or less like this:
+
+It is recommended that there are checkmarks for Menu bar, Favorites bar, Command bar and Status bar. Click on the text to add checkmarks. The Favorites bar contains often used hyperlinks, after your own choice. In the left side if the Favorites bar there is a star symbol. If you click on it, you add the present website to the Favorites bar. This makes it easy and fast to find it again. Webcontent The content of the website is shown under the tool bars.
+
+123
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+The Internet
+
+Hyperlinks A hyperlink (or just link) is a shortcut to a website. They are sometimes called bookmarks too. Hyperlinks can be inserted in documents, in presentations, on websites and many other places, and is usually easily recognized because they are underlined. When you click on a hyperlink, the corresponding website will open in a webbrowser.
+
+12.2	
+
+Security on the Internet
+
+The Internet is open for all – criminals too. Therefore you must behave sensible when you are “surfing the internet” – especially when you visit websites you do not know. Be sure you know the basics about security on the Internet – you can read more by clicking here.
+
+12.3	
+
+Cloud computing
+
+Cloud computing is a concept covering software delivery and other services via the Internet. It is called respectively SaaS (Software as a Service), PaaS (Platform as a Service) and IaaS (Infrastructure as a Service).
+Windows 8,1 is cloud-based, which means, that the computer set-up (apps, browser-settings and so on.) is administered and stored on (large) servers somewhere in the world.
+
+When using Windows 8.1 you will experience, that no matter to which computer you log in, the user interface will look and behave as you are used to, because the personalized settings are centrally stored and accessable online. Notice that the username is always shown in the upper right side of the Start screen. The Lock screen, the Start screen, Apps view and Desktop (and links to websites, if you use Internet Explorer 11) can be personalized, which offers some advantages, compared to earlier versions. You have to create a free user account with Microsoft, to make full use all of the features offered by Windows 8.1 Besides the personalized set-up for the Start screen described above, you can also get a free e-mailaccount, calendar and free online storage space on your personal OneDrive. OneDrive offers storage of documents, photos and other datafiles on the Internet. This is also called cloud storage. Upload is a word used for data storage on a network, while Download is the opposite, namely when you get data from a network to your computer. Read more about OneDrive in chapter 12.6 OneDrive.
+
+124
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+The Internet
+
+12.4	
+
+Create a Microsoft-account
+
+There are a number of providers of cloud services, where applications and data are stored in the cloud, instead of on your local Hard Drive: Google, Facebook, Adobe, Dropbox og SugarSync must be mentioned. Only Microsoft is described here. Open up your webbrowser, and visit the website https://signup.live.com. Choose Create a user account, and fill out the form on the webpage. It is important that you can remember the username and password you choose, so write it down and store it somewhere safe. It is also important, that you select a password that is not decrypted easily. A good password meets the following requirements: •	 contain between 8 and 40 characters •	 contain both numbers and letters •	 contain allowed special characters •	 never contain the same character 4 times in a row •	 does not start or end with a blank •	 never contains a social security number Allowed special characters are: { } ! # “ $ ‘ % ^ &, * ( ) _ + – = : ; ? . og @. 
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+125
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Windows 8.1
+
+The Internet
+
+It is a good idea to mix lower- and uppercase letters, even though not all websites distinguish between them. The more complex your password is, the safer you are. You can make your password more complex by: •	 choosing a password with 8 characters or more •	 making sure that your password not relates to anything about yourself, e.g. your familys or your pets names or birthdays. You must of course remember your password, so the efficiency shall be compared to the possible harmful effect a loss of the password could have. Notice the existence of password management providers on the Internet, that generates very efficient passwords for all your accounts, and you only have to remember one master password. E.g. agilebits. com and lastpass.com – many more could be mentioned.
+
+12.5	Outlook
+12.5.1	 The Webmail and the app If you have a Microsoft-account and want to use the Outlook webmail system, you can visit the website login.live.com and log in. You can install the app Outlook from Store (read more in chapter 13 Windows store). With Windows 8.1 you can use the app or the webmail. They do not look alike, but the app does actually offer exactly the same functionality as the webmail! 12.5.2	 mail-app. Example You want to add the mail account yourname@gmail.com to your mail-app. Do like this First open the mail-app by clicking on its tile on the Start screen. Configure your accounts in the mail-app
+
+If you use more than one mail account(e.g. a business mail), you can add these mail accounts to your
+
+126
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+The Internet
+
+Then open the Settings Charm, and the panel to the right should look something like this:
+
+Choose the item Accounts, then Add an account. Let us say it is a Google account. The Mail program will connect to the account, and then you must write your mailadress and password. The accoun will be shown at the bottom of the open e-mail app. 12.5.3	 Example You want to send an e-mail from the Mail app. Do like this Open the app, and create a new e-mail by clicking on a blue plus in a blue circle. You need an e-mailadress to send your e-mail to – otherwise skip this procedure  Write a short text in the topic-field, and then write a message, e.g. you ask the receiver to confirm he reception of your e-mail, and then click on the Send-symbol (a moving envelope). Send an e-mail from the app
+
+127
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+The Internet
+
+12.5.4	
+
+Attach files to e-mails
+
+Outlook Web App has the feature “Share with OneDrive”. You can automatically upload a file from yor computers Hard Drive to OneDrive, when attached to an e-mail. This way the receiver of the e-maile will get a link to the file on your OneDrive, instead of the file it self.  Tthere are almost no limits to the file sizes you share this way, and other people get access to editing a file directly on your OneDrive.
+
+AXA Global Graduate Program
+Find out more and apply
+
+128
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+The Internet
+
+12.6	
+
+OneDrive
+
+Your computer settings are automatically saved on your OneDrive. Choose the Settings Charm, choose Change PC-settings and then choose the item OneDrive.
+
+It is recommended that all Sync settings are on – to fully use these features. OneDrive saves all of your settings data in the cloud. If you want a local backup, just right click on the OneDrive icon in File Explorers Navigation pane, and then choose ‘Available offline’. You can right click on any folder or file and choose online-only or available offline, if you want. 12.6.1	 Autosave on OneDrive
+
+You can set your computer to automatically save selected files on your OneDrive. Example You want your documents to be automatically saved on your OneDrive. Do like this Choose the Settings Charm, choose Change PC-settings, and choose OneDrive. Click on File storage and activate the item Save documents to OneDrive by default.
+
+129
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+The Internet
+
+Example You want your photos to be automatically saved on OneDrive. Do like this Under the item File storage is the item Camera roll:
+
+Choose Upload photos at good quality. And if you want your video recordings uploaded too, set the item Automatically upload videos to OneDrive to On.
+
+12.7	
+
+Skype
+
+Skype is a free webservice that allows telephone- and videocalls plus filesharing via the Internet. You need an Internet connection, optionally a webcamera to see other persons, and of course a headset to speak and listen. It is required to have an account to use the service. Skype is owned by Microsoft, so you can use your Microsoft account to log in. Visit http://skype.com to read more about Skype.
+
+130
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Windows Store
+
+13	 Windows Store
+In this chapter you learn
+-how to use Windows Store
+
+With Windows 8.1 it is easy to find apps for your computer, and to install them. In Windows Store, or justStore, you can download new apps for your Windows-computer, with your Microsoft account. You have access to all apps in Windows Store, on any computer you log into using your Microsoft account. Visit Store by clicking on the tile Store on the Start screen. If the tile is not there, you just add it from the Apps view. When you have opened Store, you see a ribbon in the top of the screen:
+
+131
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Windows Store
+
+The first item, Home, is the starting page, this item is only reachable from other menu items. The next items, Top charts, Categories and Collections are for searching apps in Store. If you click on Account, two items are shown: My apps and My account.
+You can install your apps on up to 81 computers!
+
+If you click on My apps, you can choose to see -- all the apps you have -- the apps you have installed -- the apps you have not installed If you click on My Account, your account information is shown.
+
+13.1	
+
+Download an app from Store
+
+All apps are downloaded from Store. You search for apps by reviewing categories, or by using the search box in the upper right on Stores Home page. Example You want a free game for your Windows 8.1 computer. Do like this For example, Click on the item Top charts. If you then choose the category Top free games, you get to choose between 1000 games of different kinds. Some are labeled ‘X-box’ – these are of course for the X-box console. Choose a game by clicking on its icon, and click on the Install-button. The app you just downloaded now appears in Store under My apps! To install an app on your computer, you must click on the app’s icon and then click on Install. Now is the app shown in the Apps view.
+
+132
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Windows Store
+
+13.2	
+
+Automatically update of apps
+
+You want apps from Store to be updated automatically. Example Open Windows Store. Open the Settings Charm, and click on the item App Updates.
+
+Choose Automatically update my apps.
+
+13.3	
+
+Compatibility
+
+If you want to install an old game on your computer, it is important to know whether it is compatible with Windows 8.1 or not, i.e. the program can be run without errors. For this Microsoft has developed a Program Compatibilty Assistant, that can be downloaded by clicking here. You may also find a solution by clicking here.
+
+133
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Windows Store
+
+13.4	
+
+Recommended apps from Store
+
+An Office programs is indespensible. You can download a number of such programs from Store. A good Note tool is also useful; Evernote and OneNote are recommended. If an ordinary Calculator is not enough for you, look at Calculator X8. It probably does the trick for you – and goes beyond. Dropbox is a free alternative to OneDrive or Google Drive. PicasaHD is an allround online photoediting- and storage-program. Lot and lots of other programs could be mentioned here – but it is recommended you explore Store yourself.
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+134
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+News and tricks for Windows 8.1
+
+14	 News and tricks for Windows 8.1
+In this chapter you learn about ---news in Windows 8.1 chosen advanced settings and features inspirational suggestions for use of apps or functions
+
+14.1	News
+The purpose of this section, is to give an overview of the news in Windows 8.1.1. Some of the following descriptions are repetitions, others are not. 14.1.1	 Start button
+
+Microsoft has removed the Start button (ORB) from Windows 8 Taskbar, and has replaced it with a new Start Screen thumbnail which appears when you move your mouse cursor to bottom-left corner of screen. The shortcut to its menu is clicking here. 14.1.2	 Power options and Search function on the Start screen +X. It is possible to add, remove or rename the items. Read more by
+
+These buttons are shown in the upper right side of the Start screen, next to the User account. It is easy and quick to turn off the computer or to search from the Start screen.
+
+135
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+News and tricks for Windows 8.1
+
+14.1.3	
+
+Built-in apps
+
+Windows comes with more built-in apps, such as: Alarm, Calculator, Weather, Reading List, Food and Drink, Health and Fitness and more. 14.1.4	 Multiple apps on one screen
+
+It is possible to arrange up to four apps side-by-side, in sizes after your choice. Read more by clicking here. 14.1.5	 All apps
+
+Installed apps can all be found in the Apps view. Choose which apps to pin to Start, and keep your Start screen organized. Read more by clicking here. 14.1.6	 Right click on a tile to change settings 
+
+When you right click on a tile on the Start screen, then a menu with various choices will appear. Read more by clicking here. 14.1.7	 Discover apps in new ways
+
+Windows Store is attached to the Start screen and the Taskbar as a standard, so it is easy to find new apps. If you e.g. use the Search Charm, the Bing search engine includes apps in its search results. Read more by clicking here. 14.1.8	 Remembers recently installed apps 
+
+When you have installed new apps, a message is shown in the lower left corner of the Start screen, directing you to the Apps view, to see recently installed apps. Read more by clicking here. 14.1.9	 Windows Store
+
+Store has a new layout with larger images and more information for each app. Read more by clicking here. 14.1.10	 Autosave screenshots If you press “Win+PrntScr” keys together, Windows 8.1 will automatically save the screenshot in your “Pictures” library folder. The screenshot is saved with the name “Screenshot.png”. If you take more screenshots, they are saved with an added number such as “Screenshot (2).png”, “Screenshot (3).png” and so on. 14.1.11	Personalization More tile sizes, more colour options and animated backgrounds for Start. Read more by clicking here.
+
+136
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+News and tricks for Windows 8.1
+
+14.1.12	 Quiet hours If messages from your apps or alarms disturbs you, the feature Quiet hours may be something for you. Choose the Settings Charm, choose Change PC-settings, choose Search and apps and choose Notifications.
+
+Here you can set the hours when you do not want to receive notifications.
+
+If it really matters, make it happen – with a career at Siemens.
+
+siemens.com/careers
+
+137
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+News and tricks for Windows 8.1
+
+14.1.13	 Desktop features Start button has returned to the Taskbar – just not in the same way as in earlier versions. You can go straight to Desktop instead of Start when you sign in. You can use the same background for Desktop and Start. Read more by clicking here. 14.1.14	 All open and pinned apps are shown on the Taskbar  If you use your Desktop a lot, you can have all apps from Windows Store shown on the Taskbar, when they are opened. You can also pin apps to the Taskbar, so it is easy for you to open apps from the Desktop. Read more by clicking here. 14.1.15	 Access to the Taskbar from everywhere  With a mouse you can get acces the Taskbar from anywhere, including the Start screen or a Windows Store-app. If you cannot see the Taskbar, move your mouse pointer to the bottom of the screen and it will appear, and then click on an app to open or shift to it.
+
+14.1.16	 Start on the Desktop instead of the Start screen If you spend the most of your time using the Desktop, you can bootstart directly on the Desktop instead of the Start screen. If you want to log in to the Start screen instead, you can change the settings to this anytime. Read more in chapter 6.11.3 Properties of the Taskbar.
+
+138
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+News and tricks for Windows 8.1
+
+14.1.17	 Minimize, Shut down and the Taskbar are more accessable  In Windows 8.1 mouse and keyboard are more useful than in earlier versions. Move the mouse pointer to the top of the screen to show the Close and Minimize-buttons in any app. Move the mouse pointer to the bottom of the screen to see the Taskbar everywhere in Windows 8.1. 14.1.18	 Access to Camera from Lock screen You just need to swipe down (on touch enabled devices) or click and drag the Lock Screen background image to bottom (on laptops and Desktops) to launch Camera app. If you want to enable access to Camera app on Windows 8.1 Lock Screen, check out following simple steps: -- Move your mouse cursor to top-right or bottom-right corner of screen to access Charms Bar and click on Settings option. -- Now click on Change PC settings option given at the bottom. -- Choose PC and devices, and click on Lock Screen. -- Now scroll down to bottom and you’ll see Camera section containing following:
+
+-- If you want to enable use of Camera on Lock Screen, set the option to “On”. -- Now whenever you are on Lock Screen, swipe down or click and drag the Lock Screen background to bottom and you’ll be able to use Camera app. 14.1.19	 Lock Screen apps It is possible to answer Skype calls, check Facebook and mail and more without having to log into your user account. Use the same steps as shown above in 14.5Access to Camera from Lock screen. In the middle of the screen you see thiese options:
+
+When you click on the wanted item, you can choose it from a new menu.
+
+139
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+News and tricks for Windows 8.1
+
+14.1.20	 OneDrive When you choose the program command Save as, you can choose to store your file in the cloud for free with OneDrive, a feature that comes with your Microsoft account. Read more by clicking here. 14.1.21	 More disc space Windows 8.1 uses between 8 and 15% less disc space than Windows 8, according to Microsoft. 14.1.22	 Miracast Windows 8.1 fully supports the new Miracast-standard, which can be compared to Apples AirPlaytechnology.  You can wirelessly project your computers screen to another screen, e.g. a TV-screen, using Miracasttechnology. The Miracast-standard is very new, so your devices may not support this technology, unless they are very new. Microsofts Xbox One fully supports Miracast, which enhances the synergy between Windows 8.1 and Xbox. Read more about Miracast by clicking here. Find out if your computer supports Miracast Choose the Devices Charm, and then choose Project. If there is an item called Add wireless screen, your computer supports Miracast and Windows 8.1 will find any Miracast compatible screens nearby (in the room) automatically.
+www.sylvania.com
+
+We do not reinvent the wheel we reinvent light.
+Fascinating lighting offers an infinite spectrum of possibilities: Innovative technologies and new markets provide both opportunities and challenges. An environment in which your expertise is in high demand. Enjoy the supportive working atmosphere within our global group and benefit from international career paths. Implement sustainable ideas in close cooperation with other specialists and contribute to influencing our future. Come and join us in reinventing light every day.
+
+Light is OSRAM
+
+140
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+News and tricks for Windows 8.1
+
+14.1.23	 Improved printer connections Windows 8.1 supports printer connections with Near Field Communication (NFC). If both your computer and your printer contain a NFC-chip, you can connect them, just by placing them near each other.  14.1.24	 Improve computer speed Does your computer seem slow? You can try various actions to improve your computers performance. Some of these are described in chapter 11.1.2 PC maintenance. In Windows 8.1 there is a “hidden” menu with System properties. You open a “Run” dialog box by pressing +R, and here you write “sysdm.cpl”, and click on the OK-button. Choose the Advanced tab.
+
+Improve the computers performance by uncheckmark features within graphics and animations13 -- these might use a lot of your computers memory.
+
+Which are the optimal settings is mostly a question of personal taste.
+
+141
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+News and tricks for Windows 8.1
+
+14.2	Tricks
+14.2.1	 God Mode Advanced users can get access to useful stuff, by creating a God Mode shortcut: -- Copy the entire line after the colon: GodMode.{ED7BA470-8E54-465E-825C99712043E01C} -- The line above is now copied to your Clipboard. -- Right click on an empty spot on the Desktop. -- Choose New, then Folder. It is not necessary to name your new folder, so leave it. -- Now right click on the new folder, and choose Rename. -- Paste the line from your Clipboard and hit Enter. The author can not be held responsible for use of God Mode.	
+
+At Navigant, there is no limit to the impact you can have. As you envision your future and all the wonderful rewards your exceptional talents will bring, we offer this simple guiding principle: It’s not what we do. It’s how we do it.
+
+Impact matters.
+navigant.com
+
+©2013 Navigant Consulting, Inc. All rights reserved. Navigant Consulting is not a certified public accounting firm and does not provide audit, attest, or public accounting services. See navigant.com/licensing for a complete listing of private investigator licenses.
+
+142
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+News and tricks for Windows 8.1
+
+14.2.2	
+
+Exit Windows Explorer
+
+This hidden option is for advanced users. It might come in use when you want to just end task of Explorer to apply registry changes or software settings.  -- Press and hold Ctrl+Shift keys and right-click on the Taskbar. -- You‘ll get a new option Exit Explorer in the bottom of the Taskbar context menu:
+
+-- You can select this new option to immediately end task of Windows Explorer. Please keep in mind, you‘ll have no access to Taskbar, Start Screen, once you select this option. To get everything back, press Ctrl+Shift+Esc keys together to launch Task Manager. If it opens in mini mode, click on More details button and then click on File -> Run new task option. Type “explorer”. 14.2.3	 Get the Start button back
+
+Do you miss the Start button from Windows 7 and want it back, it is possible, to some degree. Several free programs does the trick, like e.g. ViStart. It is not an app from Store, but you can search for it on the Internet, e.g. at softpedia.com. To install the program is free, but be careful – unless you want to install other programs, e.g. Registry Cleaner, remember to uncheckmark it during installation. You can read about alternative options by clicking here. 14.2.4	 Different types of screenshots
+
+-- Press PrtSc (PrintScreen) and the screenshot is copied to the Clipboard, ready to paste. -- Hold the Windows-key down and press PrtSc (PrintScreen). The screenshot is stored in the folder Screenshots in the folder Pictures. -- If you press Alt+PrtSc the active window, and not the whole screen, is copied to the Clipboard, ready to paste.
+
+143
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+News and tricks for Windows 8.1
+
+14.2.5	
+
+Encryption with BitLocker
+
+If you have either Windows 8.1 Pro or Windows 8.1 Enterprise installed, you can use a special encryption feature. BitLocker is from Microsoft, that encrypts your drive and prevents unauthorized changes of your system. Computer must contain a chip called Trusted Platform Module (TPM) – BitLocker will check for this automatically. Read more by clicking here. 14.2.6	 Boot a different operating system on your computer
+
+Besides Windows 8.1 you might have Windows 7 installed on your computer, and want to use this sometimes. You do like this: -- Open the Settings Charm, and choose PC settings. -- Now choose Update and Recovery. Choose the item Recovery. -- Click on Advanced Startup. -- Click on Use another operating system. Your computer will now restart and upon reboot it’ll directly boot into other OS instead of booting into Windows 8.1. Read more about alternative ways to boot another operating system by clicking here.
+
+Do you have to be a banker to work in investment banking?
+Agile minds value ideas as well as experience Global Graduate Programs
+Ours is a complex, fast-moving, global business. There’s no time for traditional thinking, and no space for complacency. Instead, we believe that success comes from many perspectives — and that an inclusive workforce goes hand in hand with delivering innovative solutions for our clients. It’s why we employ 135 different nationalities. It’s why we’ve taken proactive steps to increase female representation at the highest levels. And it’s just one of the reasons why you’ll find the working culture here so refreshing. Discover something different at db.com/careers
+
+Deutsche Bank db.com/careers
+
+144
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+News and tricks for Windows 8.1
+
+14.2.7	
+
+Disable automatic maintenance
+
+The goal of Automatic Maintenance is to combine all background maintenance activity in Windows and help third-party developers add their maintenance activity to Windows, without negatively impacting performance and energy efficiency. Additionally, Automatic Maintenance enables users as well as enterprises to be in control of maintenance activity scheduling and configuration. However, some users experience that Automatic Maintenance takes too long time, and causes very high CPU usage, so they prefer to do it manually. If you want to disable automatic maintenance, do like this: -- Press Windows-key+r to open the Run dialog box. -- Type taskschd.msc and click on OK. -- In the left pane of Task Scheduler, click on to expand Task Scheduler, go to Library, Microsoft, Windows, and finally TaskScheduler. -- In the middle pane of TaskScheduler, either right click on or select the Regular Maintenance task (see also screenshot below). -- Click on Disable, and close Task scheduler.
+
+145
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+News and tricks for Windows 8.1
+
+14.2.8	
+
+Shut down a computer in “coma”
+
+Sometimes a computer can go into “coma”, which means it does not response to any action you take. If your computer is a notebook, it is not enough to remove a power chord, since the built-in battery will have the computer turned on for hours. Using an alternative method can be necessary. Press down the button with the symbol , and keep it down, untill the computer is shut down. It is not the entirely correct way to shut it down, since it skips important processes, but it can be necessary and does not harm your computer in any way.
+
+Real drive. Unreal destination.
+
+As an intern, you’re eager to put what you’ve learned to the test. At Ernst & Young, you’ll have the perfect testing ground. There are plenty of real work challenges. Along with real-time feedback from mentors and leaders. You’ll also get to test what you learn. Even better, you’ll get experience to learn where your career may lead. Visit ey.com/internships. See More | Opportunities
+
+© 2012 Ernst & Young LLP. All Rights Reserved.
+
+146
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Windows 8.1
+
+Help
+
+15	Help
+In this chapter you learn about --help features in Windows 8.1 online help via the Internet
+
+Windows 8.1 has very good help features, and it is recommended that you familiarize yourself with them. This chapter is placed in the end of this book, because it was the authors estimation, that it was necessary for the reader to know generally used terms (e.g. the Start screen, apps, tiles, Apps view, Charms and so on) and possessed certain skills (e.g. using the mouse, open apps and windows, use Charms, navigate with File Explorer etc.), to fully enjoy the help features. Find the orange tile Help and tips on the Start screen (or click on it in the Apps view):
+
+If you click on the tile, the app Help and tips opens:
+
+The tiles contains various exercises, which are highly recommended for new users of Windows 8.1. Videos are started by clicking on the symbol “triangle in circle”.
+
+147
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Help
+
+It only takes about 15–20 minutes to view all the items. You may also skip a topic you know already. Find the tile Help and support on the Start screen (or click on it in the Apps view):
+
+If you click on the tile, the app Help and support, you see this screen view:
+
+It is the same features that opens from the Desktop by pressing the F1-key, or by choosing the Settings Charm and choose the item Help. You can get a feeling of this feature by looking through the first item Get started. It is recommended you use at least 10 minutter on this.
+
+148
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Index
+
+16	Index
+A Adobe Reader 116 adress bar 101 Aero 51, 52 app 17, 19, 24, 25, 26, 27, 30, 31, 32, 33, 34, 63, 65, 81, 85, 86, 95, 107, 120, 126, 127, 132, 136, 138, 139, 143, 147, 148 apps 11, 16, 22, 24, 25, 26, 30, 31, 32, 34, 53, 59, 60, 62, 63, 65, 69, 75, 78, 82, 84, 85, 86, 92, 93, 96, 97, 115, 124, 131, 132, 133, 134, 135, 136, 137, 138, 139, 147 apps view 22, 60 B background 28, 29, 37, 60, 63, 78, 110, 138, 139, 145 BitLocker 144 Bluetooth 78, 80, 87, 110 C Cd-rom 106, 107 Clipboard 105, 142, 143, 152 cloud-based 124 cloud computing 11 compatible 17, 108, 116, 133, 140 configurering File history 16 D Defragment 114 Del-key 105 dialog box 19, 39, 42, 45, 49, 53, 71, 72, 90, 96, 97, 115, 141, 145 DirectX 14, 116 download 10, 11, 15, 31, 43, 44, 84, 116, 117, 120, 131, 134, 151 drive 46, 69, 73, 84, 89, 92, 96, 97, 106, 107, 108, 109, 144, 152 DVD 15, 46, 106, 107, 108 dynamic 26 F Family safety 75 File explorer 26, 39 File Explorer 99, 101 File list 48, 51 firewall 69, 110 Firewall 68, 69, 110 G Gb 14, 16, 70, 84, 108, 152 Gigabyte 108 H harddrive 96 Hard Drive 14, 16, 46, 82, 89, 90, 92, 93, 96, 114, 125, 128, 151 hyperlink 124 hyperlinks 10, 11, 12, 123 hypertext transfer protocol 122 I icons 11, 24, 28, 30, 31, 36, 39, 40, 43, 48, 52, 53, 54, 55, 58, 59, 103, 123 InPrivate 122 Internet browser 120 intranet 106 J Java 115, 116 L LAN 77, 87, 106, 152 libraries 97 Libraries 50, 51, 94, 97, 98 link 51, 65, 85, 92, 95, 124, 128 Lock screen 21, 78, 79, 124, 139 log off 24
+
+149
+Download free eBooks at bookboon.com
+
+Windows 8.1 M malware 44, 110 Menu bar 123 Microsoft account 23, 130, 131, 140 Microsoft-account 22, 23, 83, 97, 125, 126 Microsoft Silverlight 116, 117 Miracast 66, 140 mouse pointer 12, 16, 19, 23, 24, 26, 27, 30, 34, 35, 43, 45, 49, 52, 53, 54, 55, 59, 62, 138, 139 N network 96 Network 46, 57, 69, 74, 106, 118 NFC 141 O OneDrive 51, 58, 64, 84, 92, 97, 100, 120, 124, 128, 129, 130, 134, 140 Optimize 100, 114 P password 21, 38, 73, 75, 79, 83, 106, 120, 125, 126, 127 Q Quiet hours 137 R Recycle Bin 39, 40, 104, 105, 114 S Screen saver 37, 38, 39 Scroll 18 shortcut 11, 26, 40, 42, 43, 46, 51, 53, 54, 70, 90, 92, 103, 109, 124, 135, 142 Shortcuts 40 Skype 10, 121, 130, 139 Snap 51 software 13, 110, 120, 124, 143, 151, 152 Start menu 24
+
+Index
+
+Start screen 10, 16, 17, 19, 22, 23, 24, 25, 26, 27, 28, 30, 31, 35, 39, 56, 59, 60, 65, 92, 95, 110, 114, 124, 126, 131, 135, 136, 138, 147, 148 Store 10, 11, 16, 17, 24, 26, 31, 32, 82, 107, 118, 120, 126, 131, 132, 133, 134, 136, 138, 143 streaming 107 system-icons 55, 58 T Taskbar 24, 36, 37, 40, 42, 43, 45, 49, 52, 53, 54, 55, 56, 57, 58, 59, 60, 75, 76, 93, 112, 113, 115, 135, 136, 138, 139, 143 The Internet 106, 119, 120, 124 type of file 47, 102 U Upgrading assistant 15 Upload 124, 130 USB 46, 89, 92, 96, 106, 107, 108, 109 USB-drive 92, 96, 108 user directed programs 117 W WAN 106, 152 Wi-Fi 57, 77, 87, 106, 109, 110, 118 window 16, 23, 24, 33, 35, 36, 37, 39, 43, 45, 46, 49, 51, 52, 58, 65, 68, 70, 78, 91, 94, 143 Window 47, 53, 112, 113, 115 Windows Store 10, 11, 16, 17, 24, 26, 31, 32, 82, 107, 118, 120, 131, 133, 136, 138 WLAN 106
+
+150
+Download free eBooks at bookboon.com
+
+Windows 8.1
+
+Glossary
+
+17	Glossary
+In this chapter you learn about -the meaning of marked words in the text.
+
+1.	To download is getting some data from a network, fx the Internet. Whenever you visit a website, you are actually already downloading data. Downloading is the opposite of uploading data, like inserting a picture on Facebook. 2.	 To streame is to download audio or video from an external source (like netradio or net-tv) via a network in a continous proces. 3.	 All physical elements of a computer, such as keyboard, mouse, screen, Hard Drive, printer, USBconnectors and so on. 4.	 Software are programs or applications. An operating system is also software. group of machines. Linux installed on Alpha-processors. 6.	 A scrollbar is an object in a graphic user interface, with which you can browse through content, that does not fit into the screen shown. Scrollbars can be either horizontal or vertical, and, when pulled to the side og up or down, hidden data is shown. 7.	 Malware is a contraction of the english words malicious software. It is a general expression for categories of computerprograms, that does unwanted or harmful things to computer. 8.	The physical “drive” on the computer where you store datafiles locally. There exists many different Hard Drives. 9.	 10.	 RAM = Random Access Memory. Working memory for a computer, a kind of data storage. Clipboard is a temporary stirage space for imformation you have copied or moved from one  place and want to use in another place. You can markup text or graphicsand use the command Cut or Copy to move the markup to Clipboard, where it is stored, until you use the command Paste to insert it. You can e.g. copy a text from a website and paste the same text in an e-mail. Clipboard is available in most Windows programs. 11.	Unit for an amount of data. One GigaByte (Gb) is 1000 Megabyte (Mb). 1 Mb = 1000.000 databits. 12.	 Any device on a network has an IP-adress assigned, which makes it possible to administrate communication between the devices. An IP-adress can e.g. be 192.168.1.1 on a local network (LAN) and e.g. 79.146.155.22 on the Internet (WAN). 13.	 Live images. It may be text or drawings that moves, or cartoons, photos, videos and more. 5.	 A platform is in computerterminology an operating system on a certain type of machine, or a
+
+151
+Download free eBooks at bookboon.com
+

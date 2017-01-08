@@ -1,0 +1,388 @@
+Berliner	Balanced	Scorecard:	Customer Perspective
+Prof.	Dr.	Wilhelm	Schmeisser;	Lydia	Clausen;	Martina Lukowsky
+
+Download	free	books	at
+
+Prof. Dr. Wilhelm Schmeisser, Lydia Clausen and Martina Lukowsky
+
+Berliner Balanced Scorecard:
+The Customer Perspective
+
+2
+Download free eBooks at bookboon.com
+
+Berliner Balanced Scorecard: The Customer Perspective 1st edition © 2008 Prof. Dr. Wilhelm Schmeisser, Lydia Clausen and Martina Lukowsky & bookboon.com ISBN 978-87-7681-233-2
+
+3
+Download free eBooks at bookboon.com
+
+Berliner Balanced Scorecard: The Customer Perspective
+
+Contents
+
+Contents
+1	 From product-to customer profit contribution 	 1.1	 1.2	 Product- versus customer-based calculation	 Activity-based costing	 5 5 6 13 15 16 16 17 18 19 20 21
+
+2	 From customer profit contribution to customer cash flow	 3	 Calculated investment summary of the customer value	 3.1	 3.2	 Determining the adequate target rate 	 Field of application for the customer value and interpretation of the results	
+
+4	 The index hierarchy of the customer perspective	 5	 Combining the shareholder value and the balanced scorecard 	 6	 	 Conclusion and outlook 	 List of Sources:	
+
+	Endnotes	
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Berliner Balanced Scorecard: The Customer Perspective
+
+From product-to customer profit contributio
+
+Companies are increasingly attempting to replace or expound product-orientated strategies by customerorientated strategies. For this reason, the quantification of customer relations within the scope of the balanced scorecard is increasingly achieving significance as an implementation instrument for strategies and as a supplement to classic product profitability analysis.
+
+1	 From product-to customer profit contribution
+The customer profit contribution accounting enables a more precise assignment of direct costs as well as indirect costs (distribution, marketing and order processing), which were -up to now- only broken down into percentages by the help of activity based costing, to the cost unit “customer” by means of additional allocation bases. By using th`is method, it is possible to evaluate the profitability of the customer. The knowledge of the profitability of individual customers offers both starting points for cost cutting measures, and an opportunity to conduct an improved customer and yield management, and so ultimately enhance the profitability of the entire company. In the following, instead of the product profit contribution, the customer profit contribution is taken as a starting point and ultimately conveyed in a customer cash flow. The investment calculation of the customer value shall also be explored as well as its role in enhancing the company and/or the market value within the scope of the quantification of the balanced scorecard.1
+
+1.1	
+
+Product- versus customer-based calculation
+
+A company management will not be able to forgo a product-based calculation, as the processes of planning, managing and controlling are initially fixed to the product or service to be performed. For company internal processes, the product costs are most relevant as long as no customer-specific order requests are taken into account, which are directly assigned to the product concerned. The following diagram is intended to provide a rough schematic overview of the process for determining the customer profit contribution amount, in which an initial product-based calculation is performed and through which the characteristics of the customer-based product calculation are revealed.
+
+5
+Download free eBooks at bookboon.com
+
+Berliner Balanced Scorecard: The Customer Perspective
+
+From product-to customer profit contributio
+
+Product costing Sales = Sales deductions Variable costs Product profit contribution I
+
+Customer costing
+
+Product profit contribution I = Direct customer costs Customer profit contribution I Indirect customer costs (as far as variable in relation to number of customers) = Customer profit contribution II
+
+Diagram 1: Product versus customer costing (accruals accounting) Source: Comp. Schirmeister, R./ Kreuz, C. (2003), p. 338.
+
+The “indirect customer costs“ are broken down differentiated via activity-based costing and thus assigned cost reflectively. In this way, it is possible to substantially increase the significance of the customer profit contribution.
+
+1.2	
+
+Activity-based costing
+
+Activity-based costing provides a formula, which usage enables a better planning and managing of costs in indirect company sectors or allocating them to products or services. The transacted functions in the enterprise’s cost centers are broken down into process-based activities. The costs, subjective to so-called cost drivers are assigned to these activities and activity cost rates are thus calculated.2
+
+Process cost rate
+
+process costs process quantity
+
+cost per process factor
+
+Example3: process “material purchase and storage” Process costs = 7 605 000 € Process factor = outlay process Process quantity = 650 000 € If one places this data into the formula above, the following result is obtained:
+
+Process cost rate =
+
+7605000 = 11.70 per outlay process 650000
+
+6
+Download free eBooks at bookboon.com
+
+Berliner Balanced Scorecard: The Customer Perspective
+
+From product-to customer profit contributio
+
+Activity-based costing reflects the utilization of corporate resources and thus offers the possibility to allocate costs more cost-reflectively than absorption costing in which indirect costs are only allocated as a function of the amount on an excess value basis by proportional percentage charges. The central problem when calculating activity-based costing data is that the processes hereby observed are generally inter-divisional and thus encompassing several cost centers. Therefore, the traditional cost accounting based on cost centers cannot directly produce this data. Usually, the process related allocation is effected in two stages. The superior aspect encompasses the main processes. In the activity-based costing they are understood as a chain of homogeneous activities that are subject to identical cost factors for process costs. The main processes are in general inter-divisional activities.4 The subordinate level is composed of activities performed in a cost centre, which possibly have their own cost drivers. Initially, a job analysis will be performed at the individual cost centers, in which the separate activities are analyzed and their costs are calculated. Through it all costs are distinguished into activity quantity induced (aqi) costs or activity quantity neutral (aqn) costs. Activity quantity induced costs are in regard to the observed cost drivers, variable, activity quantity neutral costs are in regard to the cost driver, fixed costs. The activity quantity neutral costs are assigned via key factors to the activity quantity induced costs. The following allocation ratio is applied to break down these costs:5
+
+Allocation ratio =
+
+process costs (aqi) × 100 = X % process costs (aqn)
+
+Then the costs calculated for the individual activities are consolidated with the main process costs. It is generally implied that there exist constant, proportional relationships between the main process cost drivers and the individual activity cost drivers. If the number of transactions forms the cost driver, this signifies that for each main process transaction the same number of transactions for individual activities is required.6 The costs for individual activities determined via activity-based costing can be utilized in the context of the process design to evaluate the structural variations for the (main) process. The data of the activity-based costing can however also be applied to monitor the efficiency of ongoing processes. The incurred costs are assigned to the number of cost driver units, correspondent to the capacity of the applicable division. Should the actual utilization be lower than the capacity, only a portion of the costs will be assigned to the actual activities of the division. The remaining costs represent costs for capacity, which is available, but unused. As it is usually easier to build up rather than to reduce capacity, a high cost proportion for unused capacity should provide a motive to consider how this unused capacity could be used more productively. In the second approach, the total costs are assigned to the actual number of times the process is carried out (or the actual cost driver value).7 As these costs represent the input factor and the process quantity represents the output factor, the cost rate calculated in that way (or more specifically the reciprocal value thereof) is also considered a measure for the productivity of the activity and may be calculated using the following formula:
+
+Process cost rate
+
+process costs process quantity
+
+input output
+7
+
+1 productivity
+
+Download free eBooks at bookboon.com
+
+Berliner Balanced Scorecard: The Customer Perspective
+
+From product-to customer profit contributio
+
+Strategic informational advantages of the effects of activity-based costing: Within the activity- based costing the following effects8 are observed: -- allocation effect, -- complexity effect and -- degression effect. The allocation effect describes the precise attribution of indirect costs of indirect service types according to the utilization of company resources to the product/service units. The complexity effect characterizes consideration of the complexity of the production process and the multitude of variants of individual products as influence factor within the scope of the calculation. The degression effect in activity-based costing illustrates that fixed indirect costs per unit sink when the number of units is increased, contrary to the traditional procedure of absorption costing and product costing with activity units. 1.2.1	 Hierarchy levels of revenue and costing positions
+
+In this section, the various hierarchy levels shall be illustrated on which the cost and revenue relevant positions should be recorded, e.g. products, orders, customers, market segments and companies. The costs are recorded on each level, whereby these should be differentiated regarding their reduction ability within the reference time period in order to supply decision-relevant costing information. The following diagram illustrates the process in detail:
+
+8
+Download free eBooks at bookboon.com
+
+Berliner Balanced Scorecard: The Customer Perspective
+
+From product-to customer profit contributio
+
+Reference Object
+
+Company
+
+Organisational Willingness To Perform
+
+Market Segment
+
+Market Segment
+
+Market Segment
+
+Customer
+
+Customer A
+
+Customer B
+
+Order
+
+Order 1
+
+Order 2
+
+Order 3
+
+Product
+
+Product X
+
+Product Y
+
+Product Z
+
+Diagram 2: Costing hierarchy
+
+9
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Berliner Balanced Scorecard: The Customer Perspective
+
+From product-to customer profit contributio
+
+The product level costs are existent in the majority of enterprises (break-even analysis) and cause no additional expense. Order based costing is mainly determined through the number of orders processed, order value, shipping costs and the number of tenders necessary for the order. At the customer level, costs incur, which are determined by customer specific product adjustment, performance of customer specific services, discount agreements and delivery conditions. Costs furthermore arise for acquisition (e.g. introductory offers, free gifts, visiting customers), customer care, (e.g. data administration, dunning, credit assessment, customer service) and maintaining customer relations. Within the field of market segments costs may incure, which are not cost reflectively assigned to individual customers but to a market segment, such as advertising expenditure of certain market segments. On the highest level of the hierarchy costs that are recorded until now could not be cost reflectively assigned. These mainly concern stand-by costs such as personnel and controlling divisions, management as well as rent and depreciation of the company building. 1.2.2	 Calculating a differentiated customer profit contribution via activity- based costing
+
+After the calculation of relevant costs at the individual levels of the hierarchy, the customer profit contribution may be determined for a period defined in advance. First, the sales realized from a customer within the reference period are recorded. Next, sales deductions (e.g. discounts, cash discounts) are deducted to obtain the net revenue. In the next step, the various cost positions are successively subtracted from the net revenue. The following diagram explains the procedure more in detail:
+Customer costing through activity- based costing = Customer sales Customer sales deductions Customer net revenues = =
+Diagram 3: Calculating the customer profit contribution
+
+Customer net revenues Direct product costs Direct order costs Direct customer costs Customer profit contribution I Product processing costs Order processing costs Customer processing costs Customer profit contribution II
+
+10
+Download free eBooks at bookboon.com
+
+Berliner Balanced Scorecard: The Customer Perspective
+
+From product-to customer profit contributio
+
+For calculating the customer profit contribution I, the direct customer-specific costs of the reference factors product (standard production costs and if applicable, costs for customer-specific product adjustments), order and customer are deducted from the net customer revenue. In doing so both the variable and fixed (direct) costs realized through the customer relationship are taken into account. In order to calculate the customer profit contribution II, the process costs of the product, order and customer hierarchy levels are subtracted from the customer profit contribution I. At this point “costs for nonrequired capacities” are deducted. These result from the fact that the process cost rate for the reference object is calculated based on the maximum process available quantity, and not on the budgeted or actually completed process quantity. These costs should however, only be calculated if a causative correlation between “costs for non-required capacity” and the reference object (product, customer, order, market segment) is apparent. Costs for non-required capacity are described as being all costs arising through resources that are only running at partial capacity and may be calculated by using the following formula: Costs for non-required capacity = process cost rate * (maximum possible process quantity – actual conducted process quantity)
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+11
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Berliner Balanced Scorecard: The Customer Perspective
+
+From product-to customer profit contributio
+
+1.2.3	
+
+Interpretation of customer profit contributions
+
+As only cost positions that are recorded as direct costs flow into the customer profit contribution I, this contribution margin directly illustrates the proportion of the result achieved in the reference period that would not have been realized without the existence of this customer relationship. Due to the missing allocation of indirect costs according to the distribution ratio, the customer profit contribution I reflects the customer profitability and thus provides a solid aid for the decision-making regarding the composition of a profitable customer base. It should however be taken into account that the individual cost positions could in some circumstances include fixed (direct) costs (e.g. the key account manager’s salary, who looks after the key accounts), which cannot be reduced during the observed period. The customer profit contribution II results after the deduction of the indirect costs assigned to the customer through activity-based costing. A portion of these indirect costs e.g. salaries in indirect sectors (billing, dunning, customer service, order processing etc.), can even after the dissolution of the customer relationship, not be reduced. Therefore, the customer profit contribution II should mainly be interpreted as an indicator for the customer-specific demands on the enterprise resources. The customer profit contribution II enables a recognition of which customer or customer groups require more of the company resources than it is justified based on the realized turnover volume. This means the customer profit contribution II can be used to aid the strategic planning, as it aids the recognition of starting points for increasing the profitability. The customer profitability changes through the entire cycle of the customer relationship. At the beginning of a business relationship, e.g. because of high acquisition costs, expenses may exceed the realized revenue. In later phases of the business relationship, this will ideal typically be reversed and generally a profit is realized.9 If in interpreting customer profit contributions the phase (of life) in which the customer relationship finds itself is not taken into consideration, it can lead to erroneous decisions being made, such as the premature ending of a customer relationship on the basis of negative contributions. When interpreting customer profit contributions, it should be considered whether the data is calculated using historical cost and revenue positions or using forecasted data. Past data allow in principle no extrapolation to the future viability of the customer, as both the demand behavior of the individual customer and the demands on company resources, the competition environment and the production program of the company may change over time. Therefore, market research data and analyses such as future demand behavior, general economic development and customer-specific demand for products coming new onto the market should additionally be incorporated when interpreting customer profit contributions.
+
+12
+Download free eBooks at bookboon.com
+
+Berliner Balanced Scorecard: The Customer Perspective
+
+From customer profit contribution to customer cash flow
+
+2	 From customer profit contribution to customer cash flow
+The calculation of the customer profit contribution is based on past-orientated accounting but does not take into account all liquidity relevant aspects. The economic aspects included in categories such as expenses and income, and costs and result however are of interest. Therefore, it is logical to derive the required planning data from internal accounting performance indicators, by referring to the customer profit contribution assessment formula and focusing on its liquidity relevant components are focused on. Revenue (minus sales deductions) is payment effective anyway. This does not unrestrictedly apply to cost. Therefore, cost components which have a pure value basis, such as depreciation, must be referred back to their original payment (e.g. acquisition expenses). For a specified planning horizon (e.g. year, month), significant differences between value-based and payment-effective costing may arise.10 In the following table, the detailed assessment of the customer cash flow is clearly illustrated and subsequently elucidated.
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+13
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Berliner Balanced Scorecard: The Customer Perspective
+
+From customer profit contribution to customer cash flow
+
+Customer cash flow calculation   =                                       Customer sales Customer sales deductions Customer net revenue
+
+        + = + = + = =
+
+      Customer net revenue Material costs Variable production costs Variable distribution costs Payment ineffective variable costs Payment effective product profit contribution Depreciation on tangible assets Ongoing marketing costs Payment ineffective direct customer costs Payment effective customer profit contribution I Indirect material costs Indirect production costs Indirect personnel costs Indirect administration and distribution costs Product advertising Payment ineffective indirect customer costs Payment effective customer profit contribution II Investment-based payments Customer cash flow
+
+Diagram 4: From customer profit contribution to customer cash flow Source: Following Schirmeister, R / Kreuz, C., (2003), p. 345.
+
+To obtain the customer cash flow, firstly all fixed and variable costs are subtracted from the net revenue and, similarly any payment ineffective costs, already deducted within the applicable cost type, are eliminated per addition. In this way the fixed direct customer costs include for example depreciations on fixed assets, which are negated in the line “Payment ineffective direct customer costs” if they do not effect an out-payment in the corresponding period. Payment ineffective indirect customer costs are for example imputed equity interest. Finally, the investment-related payments are deducted, if the original payment falls into the time period of the business relationship under consideration.11 It should furthermore be observed that when calculating the customer cash flow, no chronological divergences in payments and output occur, as it is the case for credit sales or customer prepayments. In the case of credit sales, the revenue surplus is lower than the cash flow; if the customer has made prepayments this relationship is reversed. The divergence of outpayments and expenses, for example in the case of credit purchases, prepayments made to suppliers etc., must be taken into account, too. For prepayments to suppliers, the revenue surplus is lower than the cash flow.12
+
+14
+Download free eBooks at bookboon.com
+
+Berliner Balanced Scorecard: The Customer Perspective
+
+Calculated investment summary of the customer value
+
+3	 Calculated investment summary of the customer value
+The reference period-related customer cash flows form the series for the investment calculation. To determine the value of a customer relationship, a dynamic investment calculation procedure, the net present value method, is applied. The net present value method calculates the cash value, here the projected customer cash flows or the deviation between the future in and out payments, with an adequate target rate is discounted to present day value.13 This method is mainly suitable for the application in businessto-business areas, i.e. if a long-term business relationship exists and the enterprise can accurately forecast the in- and out payments. Furthermore this process suits to almost definite values, i.e. that the business relationship has been established contractually, for example in the case of insurance or newspaper publishing companies. The formula for calculating the customer value (cv) may be defined as follows: CV = e0-a0 + (e1 – a1 )* (1+ i )-1 + (e2 – a2 ) * (1+i)-2 + ….+ (en – an) * (1 + i)–n A further method of calculation is presented by the “payment effective customer contribution” (PECC) in diagram 4: CV = -I0 + PECC0 + PECC1 * (1 + i )–1 + PECC2 * (1 + i )–2 + …. + PECCn * (1 + i)–n with: et: projected customer-specific inpayments in period t at: projected customer-specific outpayments in period t i: adequate target rate t: period (t = 0,1,2,…,n) n: duration of the business relationship In the following, the determination of the adequate target rate is explained in greater detail.
+
+15
+Download free eBooks at bookboon.com
+
+Berliner Balanced Scorecard: The Customer Perspective
+
+Calculated investment summary of the customer value
+
+3.1	
+
+Determining the adequate target rate
+
+To calculate the capital value of a business relationship, the projected cash flow is discounted at an appropriate adequate target rate. As the customer value represents a portion of a company’s capital value, it is possible to refer to the procedure of company evaluation and the evaluation of investment projects. In order to meet the requirements of the investors, the minimum interest calculation of the total cost of capital (WACC) can be employed. The cost of equity rate may be determined based on the capital asset pricing model (CAPM), which has the target to calculate for each capital investment a risk adjusted return requirement.14 The cost of equity is composed as follows: Cost of equity = Risk free interest rate + equity risk premium Risk free rate = “Real” interest rate + expected inflation rate Risk premium = Beta * (expected market return – risk-free interest rate) The market risk premium represents the additional payments, demanded by investors for investing in the enterprise rather than making a “safe” investment.15 To determine the outside capital rate, the average of the total outside capital caused costs during the planning period by customer relationships, is referred to.
+
+3.2	
+
+Field of application for the customer value and interpretation of the results
+
+Depending how high the anticipated customer cash flows are, an aggregated customer value represents a significant portion of the company value. Provided that the management has set a target to enhance the value of the company, the use of the prospective customer value is a measure for defining performance targets and for controlling the target’s achievement. Particularly in marketing, the use of the prospective customer value can effectively support strategic decisions in a way that the possible effects can be controlled regarding their positive influence on the customer value in order to utilize the company resources in a way that enhances its value. Analogue fields of application are offered for the selection of new target groups, the handling of existing customers, the development of new products and the implementation of new marketing strategies. Through the direct link between company and customer value, the advantageousness of strategic decisions can be directly controlled from the perspective of the investor. Provided that the customer value is determined by means of activity-based costing, on the basis of existing data a customer evaluation may be performed based on the costs he has caused. In that way the foundation for optimizing the entire customer base can be created. Furthermore, information can be derived for continuing optimization of the business process. This requires that all relevant services (also overhead areas such as distribution, production planning, disposition, purchasing etc.) are customer – and activity specifically recorded, evaluated via cost accounting and set off.
+
+16
+Download free eBooks at bookboon.com
+
+Berliner Balanced Scorecard: The Customer Perspective
+
+The index hierarchy of the customer perspective
+
+4	 The index hierarchy of the customer perspective
+Shareholder Value
+
+Finance
+
+Employees (Projected) Customer Cash Flow
+
+Customers
+
+Business Processes
+
+*
+
+WACC Payment Ineffective Costs Indirect Customer Costs Indirect Material Costs Indirect Production Costs Indirect Personell Costs Indirect Administration and Distribution Costs Product Advertising
+
+Customer Profit Contribution Turnover -
+
+-
+
+Investment
+
++
+
+Sales Deductions
+
+-
+
+Direct Customer Costs
+
+Discounts
+
+Material Costs Variable Production Costs Variable Distribution Costs
+
+Cash Discounts
+
+Diagram 5: The index hierarchy of the customer perspective
+
+The index hierarchy of the customer perspective illustrates the determination of the customer profit contribution. First, all applicable incurred sales deductions are deducted from turnover, than all direct customer-specific and indirect costs are subtracted to obtain the customer profit contribution. To receive the customer cash flow, the customer profit contribution is reduced by possible customer relevant investments and increased by payment ineffective customer costs. Afterwards the customer cash flow can flow into the calculation of the shareholder value as a business segment value.
+
+17
+Download free eBooks at bookboon.com
+
+Berliner Balanced Scorecard: The Customer Perspective
+
+Combining the shareholder value and the balanced scorecard
+
+5	Combining the shareholder value and the balanced scorecard
+The index hierarchy of the customer perspective represents the link between the BSC perspectives and the created shareholder value. If one regards the individual BSC perspectives as business segments of a company, it becomes apparent that the sum of the projected cash flows forms the basis for calculating the shareholder value comprised according to Rappaport as follows:
+  + + = = Cash value of projected company cash flows Cash value of the declining balance Market value of bonds traded on the stock exchange Company value Market value of outside capital Shareholder value
+
+Diagram 6: Calculation of shareholder value according to Rappaport. Source: Comp. Rappaport, A. (1999), p. 40.
+
+Calculating the shareholder value16 alone does not affect an enhanced value of the company. In fact, it is aimed with the help of the balanced scorecard to actively and systematically structure the process of strategy finding, strategy formulation and strategy application17 in order to implement such strategies successfully, and thus to enhance the value of the company. This requires that the effects of strategic decisions on the company value are quantitatively portrayed. The calculation of quantitative measures for each perspective, here reproduced based on the customer perspective, allows the value-enhancing or value-destroying factors of the shareholder value to be identified. As soon as the problem area is identified, a detailed study about its cause can be undertaken within the corresponding index hierarchy, and, via the value-influencing (cost) factors, corrective measures can be taken.
+
+18
+Download free eBooks at bookboon.com
+
+Berliner Balanced Scorecard: The Customer Perspective
+
+Conclusion and outlook
+
+6	 Conclusion and outlook
+The balanced scorecard as an integral management system enables the simultaneous and balanced use of monetary and non-monetary indices and indicators, which application provides the management with a comprehensive managing and control system. One of the most significant aspects of the balanced scorecard is the “communication of strategy”, in a way that the formulated strategies may be implemented into a concrete agenda as well as concrete measures. Controlling using the balanced scorecard is more efficient, the more relationships are built between the perspectives and if the missing link criticized in literature, is established. At this point the shown approach applies, which illustrates the perspectives and creates calculative links, using internal and external accounting methods and instruments. Through the linking of the shareholder value approach with the balanced scorecard concept, the shareholder value index is supplemented but also expanded to form a complete value model. So, the integration of the shareholder value notion in all aspects of the balanced scorecard is enabled and thus a consequent alignment of all activities to the financial value enhancement of the company is achieved. The company places the value-determining sectors in the foreground. The actual value-creating sectors (employees, customers) are directly involved in financial evaluation. The aim of this study was to develop a closed index system for the customer perspective and thus to illustrate the possibility of quantifying customer relationships. Using methods and instruments of internal and external accountancy and financial mathematics, a “customer” value was determined, which ultimately forms a value component of the entire company value. Through the extra polarization of aggregated, discounted customer values, both the future potential of business relationships and also the survival chances of a company become obvious. Furthermore, the division of the customer value in its customer-specific revenue and cost components offers the possibility of a detailed cause study and problem elimination. In that way the index hierarchy can be consequently adjusted for analysis, planning and controlling requirements of a company, branch, etc. Today, a single method of success measurement by using “classic” indices is no longer sufficient. Current publications show that further “new” indices, which for example measure the qualifications of employees or their creation of value, are in the focus of interest and require a further study. Exactly these so-called intangible assets, such as employee potential and customer value, are those that account for the sustainability of a company. Therefore, an adequate reference to these values in reporting and a consequent regard of them in the company planning and controlling is of imperative necessity.
+
+19
+Download free eBooks at bookboon.com
+
+Berliner Balanced Scorecard: The Customer Perspective
+
+List of Sources:
+
+List of Sources:
+Schmeisser, W.: Personalwirtschaft muss berechenbar werden. In: Personalwirtschaft 11/2005, S. 29–31. Schmeisser, W./ Clausen, L.: Zur Quantifizierung der Kundenperspektive im Rahmen der Balanced Scorecard. In: DStR 51-52/2005, S. 2198–2203. Schmeisser, W./ Lukowsky, M.: Human Capital Management. A Critical Consideration of the Evalution and Reporting of Human Capital. München und Mering 2006. Schmeisser, W./ Schindler, F./ Clausen, L./ Lukowsky, M./ Görlitz, B.: Einführung in den Berliner Balanced Scorecard Ansatz. Ein Weg zur wertorientierten Performancemessung für Unternehmen. München und Mering 2006. Schmeisser, W./ Clermont, A./ Hummel, Th. R./ Krimphove, D.(Hrsg.): Einführung in die finanz- und kapitalmarktorientierte Personalwirtschaft. Hampp Verlag, München und Mering 2007. www.mittelstandsforschung-berlin.de
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+20
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Berliner Balanced Scorecard: The Customer Perspective
+
+Endnotes
+
+Endnotes
+1.	 2.	 3.	 4.	 5.	 6.	 7.	 8.	 9.	 10.	 11.	 12.	 13.	 14.	 15.	 16.	 17.	 Comp. Schmeisser, W./ Schindler, F., (2004) 44, p. 1891 ff and Schmeisser, W./ Schindler, F., (2005), p. 1459 ff. C  omp. Coenenberg, A.G., (1999), p. 225 ff. and Michel, R./ Torspecken, H.-D./ Jandt, J., (2004), p. 266 ff. Comp. Coenenberg, A.G., (1999), p. 230. C  omp. Coenenberg, A.G., (1999), p. 225 ff. and Michel, R./ Torspecken, H.-D./ Jandt, J., (2004), p. 266 ff. Comp. Coenenberg, A.G., (1999), p. 232. Comp. Michel, R./ Torspecken, H.-D. / Jandt, J., (2004), p. 272 ff. Comp. Michel, R./ Torspecken, H.-D./ Jandt, J., (2004), p. 288 ff. Comp. Coenenberg, A.G., (1999), p. 235-238. Comp. Andon, Paul/ Baxter, Jane/ Bradley, Graham, ( 2003), p.301 ff. and Franz, Klaus-Peter (2003).  p. 445 ff. Comp. Schirmeister, R./ Kreuz, C., (2003), p. 344 f. Comp. Schirmeister, R., / Kreuz, C., (2003), p. 344 f. Comp. Perridon, L., / Steiner, M., (2003), p. 564 f. Comp. Perridon, L./ Steiner, M., (2003), p. 61. Comp. Perridon, L./ Steiner, M., (2003), p. 119 ff. Comp. Rappaport, A., (1999), p. 46 f. Comp. Schmeisser, W./ Dittman, M., (2004), p. 1 ff. Comp. Schmeisser, W./ Tiedt, A./ Schindler, F., (2004) and Schmeisser, W. /Meyer, A./ Waldhart,T., (2005). 
+
+21
+Download free eBooks at bookboon.com
+

@@ -1,0 +1,810 @@
+Planning	and	Managing	your	Work Based	Project
+A	Guide	For	Students Anita	Pickerden
+
+Download	free	books	at
+
+Anita Pickerden
+
+Planning and Managing your Work Based Project
+A Guide For Students
+
+2
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students 1st edition © 2015 Anita Pickerden & bookboon.com ISBN 978-87-403-1044-3
+
+3
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Contents
+
+Contents
+1	Introduction	 1.1	 1.2	 The essential elements of a project 	 Learning from experience	 8 8 9 11 11 12 14 15 16 18 19
+
+2	 Pre-Planning: What to do before you start your planning	 2.1	 2.2	 2.3	 Define and describe your project	 Analyse the current situation and determine the objectives 	 Features and benefits of your project	
+
+3	 Who should do what? Roles and responsibilities within the project team	 3.1	 3.2	 3.3	 What does the project manager do? 	 Selecting and inducting the team	 Handling conflict	
+
+4	 Stakeholder identification and analysis – What do people want from this project?	 21
+
+In the past four years we have drilled
+
+81,000 km
+That’s more than twice around the world.
+Who are we?
+We are the world’s leading oilfield services company. Working globally—often in remote and challenging locations—we invent, design, engineer, manufacture, apply, and maintain technology to help customers find and produce oil and gas safely.
+
+Who are we looking for?
+We offer countless opportunities in the following domains: n Engineering, Research, and Operations n Geoscience and Petrotechnical n Commercial and Business If you are a self-motivated graduate looking for a dynamic career, apply to join our team.
+
+What will you be?
+
+careers.slb.com
+
+4
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Contents
+
+5	 Project organisation and general planning	 5.1	 5.2	 5.3	 The Business Case	 The Project Initiation Document (PID)	 Communications Strategy	
+
+23 24 24 26 27 29 30 32 35 35 37 39 39 40
+
+6	 Starting to Plan: Goals, Objectives and Tasks	 6.1	 6.2	 Work breakdown structure	 Gantt Charts	
+
+7	 Risk Management: What can go wrong with your project? 	 8	 8.1	 8.2	 9	 9.1	 9.2	 Monitoring Progress	 Problem Solving tools for Project Management	 Managing changes to the project specification	 At the end of the project	 Post-project evaluation	 Writing the Project Report	
+
+5
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Contents
+
+10	 11	 11.2	 12	
+
+Test your understanding	 Useful Links	 The difference between a project and a programme	 About Dr Anita Pickerden	
+
+45 46 48 50
+
+Find and follow us: http://twitter.com/bioradlscareers www.linkedin.com/groupsDirectory, search for Bio-Rad Life Sciences Careers http://bio-radlifesciencescareersblog.blogspot.com
+
+John Randall, PhD Senior Marketing Manager, Bio-Plex Business Unit
+
+Bio-Rad is a longtime leader in the life science research industry and has been voted one of the Best Places to Work by our employees in the San Francisco Bay Area. Bring out your best in one of our many positions in research and development, sales, marketing, operations, and software development. Opportunities await — share your passion at Bio-Rad!
+
+www.bio-rad.com/careers
+
+6
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+If you’re a business or management student, it’s likely that you will be asked to carry out a Work Based Project as part of your course. This project will usually aim at solving a problem at work, or sometimes in finding out information that will be helpful to your employer. So a basic knowledge of project management tools and techniques will be very helpful, both for your current assignment and also for future work projects. Why bother to learn how to manage a project just for an assignment? Surely it is simply a matter of getting on with it, and muddling through to the end? Well that is certainly how some projects are ‘managed’ but that is also why many projects go over budget, or fail in some other way. The good news is that project management is a fairly straightforward process. If you follow the steps in the right order, you will achieve your project, leaving everyone happy with the result. The most important aspect of project management is the planning, and the more planning you do the more likely it is that you will succeed. Some work based projects also involve working with a team of people, some of whom will be talented, knowledgeable, co-operative and will remain working on the project form beginning to end (others may be less so). This e-book helps you to identify the best people for the different roles within the project. It also covers issues such as team members being re-deployed onto other activities, and conflict within the project team. You might need to find a team from within your workplace, or you might have to work with a number of your fellow students from other organisations to develop a group project. That would allow you to share good practice in your group, and to learn what other companies do. The ‘downside’ might be having to present a group report at the end of the project, where you would not have total control over the contents or the manner of presentation. In that case, your persuasion and negotiation skills will be needed! Working through this e-book should help you to achieve the following:•	 make an effective contribution to the planning of a project; •	 understand the role of project leader and of members of the project team; •	 appreciate the constraints of specification, time and resources; •	 create effective support groups; •	 provide teamwork and support for managers of complex projects.
+
+7
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Introduction
+
+1	Introduction
+This e-book will help you to start planning your Work Based Project. You don’t need to be currently managing any projects; you may simply be part of a project team, and want to understand all of the component parts of a project. You may only be able to observe a project from the side-lines, but you can still learn a lot by just watching. Before you start, please identify the project that you would like to use as an example, then you can record each step of the e-book in your journal, and this will give you an opportunity to plan a real project from its initiation through implementation and finally evaluation. Your journal for reflection You need a journal, to collect your notes and reflect upon your thoughts as you work through this e-book. Your journal could be a physical notebook where you write your ideas, or the Notes pages on your phone/tablet. Writing your thoughts and ideas will help you to use what you have learned to improve how you manage this and later projects.
+
+1.1	
+
+The essential elements of a project
+
+What is a project? There are three essential elements to a project, which are not always present in an ongoing programme: they are a budget, a specification and a time scale. •	 The budget doesn’t necessarily mean money; the term covers all of the resources you will need to get the project finished. So it might include the people in your project team, or the IT equipment you will need, or the office space in which to meet. Some companies will have a funding model that will identify the monetary cost of all of your resources. Others may rely upon you to estimate the cost, while some may simply not provide any information at all. •	 The specification will describe what the project should look like when it’s finished. The size, shape, colour or weight of an object, will all add to your clearly defined goal, such as ‘five people will have undertaken health & safety training by the end of next month’. The final success of the project may well depend on how clearly you have defined your specification, and on how well everyone connected with the project (your stakeholders) all agree on the exact specification. •	 The time scale may be short term, e.g. ‘by the end of next month’ or very long term, such as ‘within the next ten years’ but it must have some sort of end date. Consider the time limit for the Millennium Dome, which had to open on New Year’s Eve 1999, or the staging of the Olympic Games in 2012, when all the athletes had to get themselves into peak fitness for the exact date of their race. These were lengthy projects but, because they had a definite end date, it was possible to treat them as a project.
+
+8
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Introduction
+
+In your journal, note down the resource needs, the time scale and the specification of your own project. Then consider whether all of these are certain and agreed with your sponsor and your project team.
+
+1.2	
+
+Learning from experience
+
+Consider any previous projects that you have managed, or have been involved as a member of the project team. Have any gone wrong? What happened? Why? If you can identify what went wrong, then you can design your project plan to avoid those pitfalls. It may be that some of your own skills could do with a little improvement, so use Kolb’s Learning Cycle to improve your project management skills. David Kolb realised that we can learn from 4 steps; firstly we may take action or have an experience; secondly that we can stand back and look at the results and reflect; thirdly we can wonder if there is a reason for the result; and fourthly we can plan our next steps based on what we have observed.
+
+By considering each step of the learning cycle in turn, you’ll be able to learn from your own or, better still, from other people’s experiences, and improve your ability and confidence to manage a project. If you’re not sure where in the cycle you learn best, then take a look at the Learning Styles Questionnaire by Honey & Mumford (you can find details of the online questionnaire in Chapter 11). Keeping the learning journal as you work through your project is always a good idea, and will help you to ensure that you remember your successes as well as your challenges for your next project.
+
+9
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Introduction
+
+Exercise As you start working through this e-book, make sure that you have recorded in your journal information about a real project that has just finished or that is in the planning stages to work on as an example throughout this e-book: briefly describe that project here if you have not already done so. Some massive IT projects and major building projects have a tendency to over-run their time scales and the budget, or they have been so drastically changed that the original goal is lost. The Sydney Opera House is a good example. The original 1957 project plan called for the project to be finished in 5 years at a cost of $7M. In the end, the project cost $110M and took 13 years and the specification was changed so many times that it was almost unrecognizable from the original plans. Of course, some projects do come in on time and on budget. An example of a project that came in on time and on budget is the Library of Birmingham, which was opened in August 2013. The iconic building was actually completed two weeks ahead of schedule and came in £4.2million under budget. Another major project success was the restoration of St. George’s Chapel in Windsor Castle. The chapel was very badly damaged by fire in 1992 and the restoration took five years to complete, coming in on time, on budget and to a very high specification. Exercise: Look at some current projects in your workplace or even some national projects to consider if they are going well. If so, what do you think is helping that progress? Is it the team, or the clear goal, or the lack of resistance?
+
+10
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Pre-Planning: What to do before you start your planning
+
+2	 Pre-Planning: What to do before you start your planning
+The more information you can gain before you start planning your project, the more likely it is that you will succeed. It’s very tempting to rush this part, and some project managers love to get the project started and then worry about whether things will go smoothly. But if you resist that temptation and spend some time finding out all about your project, and understand the expectations and the current situation, then you will be able to plan your project properly and avoid many of the pitfalls.
+
+2.1	
+
+Define and describe your project
+
+Project Definition is a really important step – the more time you spend now to understand and define your project, the less time you have to waste later in sorting out misunderstandings. If you are working with a project team, bring them into your discussions early so that everyone can agree what the project is aiming to achieve. And then, when you’ve defined exactly what the project is all about, try to describe your project in a simple statement: “This Project is about….”
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV 8QLYHUVLW\ RI 7HFKQRORJ\ FRQGXFWV UHVHDUFK DQG HGXFDWLRQ LQ HQJLQHHU LQJ DQG QDWXUDO VFLHQFHV DUFKLWHFWXUH WHFKQRORJ\UHODWHG PDWKHPDWLFDO VFLHQFHV DQG QDXWLFDO VFLHQFHV %HKLQG DOO WKDW &KDOPHUV DFFRPSOLVKHV WKH DLP SHUVLVWV IRU FRQWULEXWLQJ WR D VXVWDLQDEOH IXWXUH ¤ ERWK QDWLRQDOO\ DQG JOREDOO\ 9LVLW XV RQ &KDOPHUVVH RU 1H[W 6WRS &KDOPHUV RQ IDFHERRN
+
+11
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Pre-Planning: What to do before you start your planning
+
+This way, if you are working on several projects, then each project folder can be labelled in a way that you, and everyone else in the team, can use it to quickly refer to the right project. For example, “road improvement project”, “new purchasing protocols project”, “review of staff uniforms project”, etc., etc. If you can get into the habit of identifying the outcomes at this stage, your project will be much easier to define. Example: One company that had lots of projects happening at the same time found it had a real problem in the project office. There were five project managers and each was in charge of up to six projects. But when clients rang in to check on progress no one knew what the others were working on. Then they learned to give each project a simple title, and to put that project name on the project folder. That way, when clients rang up it was easy to find out what was happening on any given project.
+
+2.2	
+
+Analyse the current situation and determine the objectives
+
+The more information you can collect about your proposed project before you start to plan the project, the better prepared you will be. Consider previous projects that you were involved with or observed, and ask yourself, what would you have liked to have known before you started? Were there any times when you would have planned a project differently if you had known that the CEO was unhappy with your plan, or that some new safety legislation was about to render your project impossible? It is a fact that, in project management as in many other fields, “What you don’t know will hurt you”. So it is absolutely vital that you gather as much information as you can before you start planning your project. Exercise: In your journal, complete the Situation Analysis exercise below. This will help you to make sure that you have collected as much information as you need before you start your planning. Work with your project team, if you have one. Be aware that completing this exercise may take you some time, but it will help to prevent your project failing later.
+
+12
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Pre-Planning: What to do before you start your planning
+
+Project Management Situation Analysis exercise Ask yourself the following questions and, if you don’t know the answer, then find someone who does. Remember that the more you find out at this stage of your project, the less likely it will be that your project fails. 1.	 Who is the client? Who is the beneficiary? Who is the Customer? i.e. who is going to be paying for this project, and who will benefit? There won’t always be a separate client, beneficiary and customer; they may all be one and the same. But it is really important that the project team members all know who they are working for. 2.	 What has prompted this project? Is this something you have noticed that needs improvement? Has there been a change of legislation that requires new processes? 3.	 What sort of analysis or data collection is most suitable (Interview? Questionnaire? Observation?) Discuss this with your project sponsor or tutor. The extent of your analysis will depend on the time and money available, and whether your employer is supporting your project. 4.	 What strategies/visions already exist within my organisation/my department? Try to make sure your project is in line with the company mission and values. If your project doesn’t fit into the company’s strategic plan then you will have to do a lot of persuading to gain acceptance. 5.	 What influence does the power structure have on the current situation? Remember that power may not sit at the top of the organisation – be aware of who the gatekeepers are and get to know them. 6.	 Is there a time constraint, and what extra resource is there to help? For example, another project might have finished early and there is someone now free to assist you. 7.	 What committees or higher authorities are implicated in the fulfilment of this project? For example, has your employer just announced a new policy where your project could benefit the company? This will help you identify where your additional support might come from.
+
+If your plan is to introduce an improvement in your workplace, then this Situation Analysis will help you to understand how your project can fit into the wider company plans. Carol Costley, in her book Doing Work Based Research, discusses the issues facing the ‘insider-researcher’ and explains how valuable it can be to a company when one of its staff conducts a project that meets the company’s business needs. If the purpose of your project is to research information that will be of use to your organisation, then you may need to carry out a literature search, and to find out what other sources of information are available to you. For example, if your employer is a retail organisation then there will be government statistics as well as retail trade journals that may have the information you need. You could start out by looking through your college or university library resources, or try searching on Google Scholar (http://scholar.google.co.uk/) for relevant articles. There is a brief note on how to reference your sources of information in Chapter 9, although your college or university will be able to provide guidance as to their preferred referencing style.
+
+13
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Pre-Planning: What to do before you start your planning
+
+2.3	
+
+Features and benefits of your project
+
+If you have studied marketing strategy then you may remember that ‘features’ describe what the project is about, and ‘benefits’ help people to understand what is really good, or really innovative, about your project. Try to explain the benefits in a way that will meet the needs of the people who will be affected by your project. For example, “this project will take 25 people two weeks to complete and will cost £x to move the production line” describes some of the features of the project. However, “This project will enable you to access the production line without walking all around the factory, it will only take two weeks, so the inconvenience will be minimal, and it will save you a lot of time and effort,” describes the benefits of the project to the people involved. In addition, “The increased productivity resulting from the time saving means we are all likely to earn a bonus” will enthuse your team. Exercise: In your journal, list the benefits of your project. This helps in selling your project to your sponsor and to the team members, and helps you to formulate the Business Case for the project, so that you can help senior managers to justify any expense. You may also find it useful to identify the advantages of the benefits to each of the people likely to be affected by your project and this again will help you to promote your project.
+
+14
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Who should do what? Roles and responsibilities within the project team
+
+3	 Who should do what? Roles and responsibilities within the project team
+Is this project your idea, or have you been ‘delegated to’? If the project is your own idea then you may need to persuade other people to get involved, or give you the authority to proceed. Your first job as project manager would probably be to prepare a Business Case and make a formal presentation, so that your boss can approve the project. We look at the Business Case in more detail in Chapter 5. Usually, the person who gives you the project, or who gives permission to proceed to carry out the project is called the project sponsor. This person can be invaluable in providing support and guidance, as well as giving you access to additional resources. When you have your first meeting with the sponsor, make sure you take the opportunity to clarify all of the variables of the project, together with aspects of support, reporting requirements, and any other queries you may have. In some companies a project manager will make sure that they have the sponsor’s written authority to carry out the project, (this is useful in case of a later dispute or disagreement).
+
+Linköping University – innovative, highly ranked, European
+Interested in Engineering and its various branches? Kickstart your career with an English-taught master’s degree.
+
+Click here!
+
+15
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Who should do what? Roles and responsibilities within the project team
+
+3.1	
+
+What does the project manager do?
+
+Project managers make sure that they meet the client’s requirements, complete the project on time and within budget, and check that everyone else is doing their job properly. The Association for Project Management suggests that the role can often include •	 planning what work needs to be done, when and who’s going to do it •	 looking at the risks involved in a particular project and managing these risks •	 making sure the work is done to the right standard •	 training and motivating the team of people involved in the project •	 co-ordinating work done by different people •	 making sure the project is running on time and to budget •	 dealing with changes to the project as and when necessary •	 making sure the project delivers the expected outcomes and benefits •	 some project managers also have specialist technical knowledge. So what are the average Project Manager’s responsibilities? •	 agreeing project objectives •	 representing the client’s interest •	 providing independent advice on the management of projects •	 organising the various professional people working on a project •	 risk assessment •	 making sure that all the aims of the project are met •	 making sure the quality standards are met •	 using the latest IT to keep track of people and progress •	 recruiting specialists and sub-contractors •	 monitoring sub-contractors to ensure guidelines are maintained •	 accounting, costing and billing Key skills for project managers
+Organization skills Legal understanding Diplomacy Ability to motivate people Public speaking Analytical skills Commercial awareness Team building & team working Management skills Sales and marketing skills Numeracy / budgeting skills Communication: written, oral Problem solving Negotiation skills Subject knowledge
+
+16
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Who should do what? Roles and responsibilities within the project team
+
+The good news is that you as project manager do not need to be good at all of these; you can share the roles within the project with the other team members and the project sponsor. If you have a reasonable selection of people to choose from then you may wish to consider their personalities, as the person who needs to ‘sell’ the project to the sponsor will need to be outgoing and engaging; whereas the person who should be ensuring the project is properly completed will need to have an eye for detail. You may have already come across the work of Dr Meredith Belbin, who researched team dynamics. He suggested that certain roles are best suited to specific personality types, and that a successful team needs a variety of different personalities in order to function well. Each personality type has its good points and also some allowable weaknesses. Belbin’s team roles fall into three categories: People oriented; Action or Task oriented; and Thinking or Cerebral roles.
+People Oriented Roles Co-ordinator / Chair Team Worker Resource Investigator Action Oriented Roles Completer / Finisher Implementer Shaper Cerebral (thinking) Roles Monitor Evaluator Plant Specialist Clear judgment, eye for detail Imaginative and creative problem solver Dedicated and single minded Uninspiring, Unrealistic, ignores practicalities Fails to see the big picture Conscientious, delivers on time Reliable and disciplined Dynamic and challenging Poor delegation , worrier Inflexible, slow to respond Impatient, poor people skills Good points A confident delegator Co-operative, good listener Enthusiastic, Extrovert Weaknesses Offloads too much & manipulates Indecisive, fears offending others Quickly loses interest, over-optimistic
+
+Now consider the people in your team and try to work out how their strengths according to Belbin might help you. This may give you a strong hint as to which tasks to give to which team members. Of course you may be the only team member, and so you will have to perform all of these roles. Exercise: In your journal, spend some time considering your own strengths, and also the areas where you might need some help. Take a moment to consider your own strengths as a project leader: 1.	 2.	 3.	 4.	 5.	 17
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Who should do what? Roles and responsibilities within the project team
+
+What tasks and skills will you need support from your project team? 1.	 2.	 3.	 4.	 5.	 This exercise will help you to decide who should do what within your project team. So if you’re not very comfortable with making presentations, then ask one of your team members to take on that task.
+
+3.2	
+
+Selecting and inducting the team
+
+When you start to work with your team, don’t expect everything to go smoothly at first. The team members may all know each other but they may not have worked together on a project like this before. They will probably need some time to settle down and work effectively together.
+
+18
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Who should do what? Roles and responsibilities within the project team
+
+Psychologist Bruce Tuckman looked at the way that teams developed, and coined his memorable phrase “forming, storming, norming, and performing” in his 1965 article, “Developmental Sequence in Small Groups.” He used it to describe the path that most teams take on their way to high performance. Later, he added a fifth stage, “adjourning” describing the way that the team task has finished forming and has settled into working well together.
+
+You may also need to provide training for some of your team members. Therefore, at the first team meeting you might wish to carry out a simple skills audit to find out who is good at what, and you can distribute the tasks accordingly. The most important aspect will be a full team briefing so that your team members know exactly what is expected from them and from the others.
+
+3.3	
+
+Handling conflict
+
+It is inevitable that, at some point, not everyone will agree either with the way you are managing the project or with each other. People can fall out over the simplest things. Sometimes conflict can be a very good thing, as it will enable people to express their concerns about the project. However, at other times conflict can be destructive and can slow down the progress of the whole team, so you must be prepared to step in early to resolve disputes. If you are not used to dealing with conflict, the following steps may prove helpful: a)	 Firstly, talk to the person or people involved, preferably in private. b)	 Focus on specific behaviour and events, and avoid blaming personalities; so say something like “when this happened…” rather than “when you said…”. Describe the specific incident in detail, and avoid suggesting that “you always….” or “you never…”.
+19
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Who should do what? Roles and responsibilities within the project team
+
+c)	 Allow the other person to explain their view of the situation, without interrupting or being defensive. Ask questions if necessary to make sure you have understood all the facts. Rephrase what they have said to check your understanding. d)	 Summarise the points of agreement and disagreement, asking the other person if they agree with your assessment, and agree which area of conflict is the priority to be resolved. e)	 Then agree a collaborative plan to deal with that issue, and make sure that you keep your promises. If your team members make specific criticisms of you, or the way you’re leading the project, then you must be prepared to listen to what they say. •	 Try not to be defensive, as that will only discourage them from being honest with you in future. Ask for specific examples so that you can fully understand what they are complaining about. •	 Be honest with yourself – their criticism may be completely justified, and you will have to change your behaviour or actions. •	 Thank them for raising the issue – this will help them to feel confident that you will respond to their concerns in future.
+
+20
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Stakeholder identification and analysis – What do people want from this project?
+
+4	 Stakeholder identification and analysis – What do people want from this project?
+A stakeholder is someone who is likely to be affected by your project. They may be responsible for giving you the project in the first place, or they may simply be affected by some of the changes that your project will bring about. So spend a little time making sure that you are aware of who all of your stakeholders are, and then consider what they need from your project. A detailed stakeholder analysis will enable you to assess the needs of each of the stakeholders, and make sure that you include ways of meeting their needs in your project plan. When stakeholders feel that their needs and concerns have at least been considered, they are much more likely to rate the project as a success. For example:Who	 Chief Executive Project initiator /sponsor Beneficiaries / client Customers Suppliers Project team members Needs and Wants Good results but no adverse publicity Recognition for having a good idea and a project that improves efficiency Improved facilities at an affordable cost Clearer labelling of products, and logical access to advice Clear instructions for delivery Prompt payment Good information from the start, clear communication throughout and recognition for a job well done. High performing team Acknowledgement of my project management skills Other stakeholders, e.g. neighbours Minimum disruption How to meet those needs Well managed project, with a detailed plan Ensure that project reports record the sponsor’s help and support Clear analysis before the project starts to show the improvements Include these in your Key Performance Indicators (“what will success look like?”) Include in the project plan Build in regular team briefings in the plan, and ensure recognition and thanks at the end. Plan some team training Ensure good communication to project sponsor and CEO Good communication throughout the project
+
+Myself as project leader
+
+21
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Stakeholder identification and analysis – What do people want from this project?
+
+Exercise: In your journal, complete your own Stakeholder Analysis for your project, and decide how you are going to meet the needs of your stakeholders through your project plan. Remember, can’t please all of the people all of the time. You can try to take their needs on board when you write up your plan.
+
+26 destinations 4 continents
+Bartending is your ticket to the world
+
+GET STARTED
+
+22
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Project organisation and general planning
+
+5	 Project organisation and general planning
+By now, you should be able to decide whether your project is feasible. However if you find that it simply won’t work then that may not be fatal for your project assignment, as you’ll be able to discuss the issues in your methodology and also in your evaluation. Hopefully, the initial meeting with your project sponsor should have ironed out any problems, and we will assume from here that your project has passed the feasibility test. For those of you working in the public sector in the UK, you may have come across PRINCE2. This stands for “Projects In a Controlled Environment” and is a very structured and systematic way of recording progress for your project. If you are thinking of a career in managing public sector projects you may find a PRINCE2 qualification is a pre-requisite for employment. In the US, the structure is often referred to as the Project Management Body of Knowledge (PMBOK), and again follows a very systematic process. Remember your three variables are Time (start date and finish date), Budget (including all resources such as people, rooms, computers) and Specification (you may call this the goal or aim of the project). At the beginning of the project these three may feel fixed, but you will find that there is often some leeway in one or other of the variables that you can exploit, and it is very useful to know from the start which of the variables is non-negotiable. Example: Let’s say you are tasked with a clearly defined building project that must be completed within 6 months at a cost of £150,000. You might want to try to find out which is the most important, so you could say “I know I can give you the building you want at the price you specify, but it may take up to 8 months, would that be okay?” Their reply will indicate whether the time limit is fixed or flexible. Or you might try “I can certainly provide you with the building work in 6 months at the price you suggest, but the quality of the finish may not be up to your specification, alternatively I can offer you the specification but it will cost closer to £175,000.” These questions, asked at the start of the project, will provide you with the information you need about the priority of the client’s needs.
+
+23
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Project organisation and general planning
+
+A further point to discuss with your sponsor at this time is “What will success look like?” so that you are all agreed on what will be an acceptable outcome. Some people don’t want to take this step as it means they will be judged against it later, but it is important for a well-run project to have some well-defined Critical Success Factors in place. This question is also vital when you come to evaluating your project. If you couldn’t agree on success factors at the start, then how can you claim you have been successful at the end? Given the fact that many projects overrun their budget, the question may well arise as to where to find extra resources. You may find that there are other projects running in other departments or other areas where you can share some of the resources. Agreeing to keep your sponsor informed of your progress through regular updates can help in this regard, as they may have access to additional resources, or the authority to reduce the specification.
+
+5.1	
+
+The Business Case
+
+The business case brings together all the information necessary to help your senior managers to decide to approve your project. This decision will commit the company to following your project plan. If the plan is successful, the company will know it can expect certain outcomes or benefits. The benefits and outcomes could be economic, financial, social, or environmental. The business case should show that the project will be good value for money and explain why the project needs to be done now. Your Business Case should demonstrate to your company how your proposed project would link business needs to corporate values and organisational objectives. It should also include an evaluation of the longterm costs and benefits, and a description of the other objectives of, and success criteria for, the project or programme. Include your identification of needs of key stakeholders, and your plans to review the project at key stages. You may find it useful to set out a variety of options and discuss the likely outcomes from each option, and then recommend your preferred option on the grounds of efficacy or cost. It can be helpful to include the option of doing nothing, to show the risk of inaction to the organisation. The Business Case will usually form part of your Project Initiation Document.
+
+5.2	
+
+The Project Initiation Document (PID)
+
+The Project initiation Document, or PID, is a term used in the PRINCE2 system and it represents your plan of approach to running your project. It is basically a portfolio of all the documents such as your terms of reference, your communications plan, your risk register, your Business Case, your Gantt chart, your plan for evaluating the project, and your quality plan.
+
+24
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Project organisation and general planning
+
+So the PID is effectively the “contract” for the project (between you as the project manager and the project board.) It should set out, as a minimum:•	 What the project is aiming to achieve, •	 Why it is important to achieve it, •	 Who will be involved in managing the process and what are their responsibilities, •	 When it will be started and completed, and •	 How the project will be undertaken. The PID brings together all the important information you need to start and run the project on a sound basis. In large organisations the PID may need to be agreed and signed off by the business sponsors. It defines all major aspects of a project and forms the basis for its management and the assessment of overall success. The project initiation document builds upon the business case (if it exists) using the information and analysis data produced during initiation activities. Your Project Initiation Document would probably include: Project Goals; Scope; Project Organization; Business Case; and Constraints Exercise: Draw up the Project Initiation Document for your project.
+
+.
+
+25
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Project organisation and general planning
+
+5.3	
+
+Communications Strategy
+
+A major reason for project failure is ineffective communication. It may sometimes be that people don’t tell others in the project team about their concerns, or sometimes because those others won’t listen. You may have read about the Challenger Shuttle disaster back in 1986; engineers were concerned about a risk to the launch but the project managers simply ignored their concerns, thinking that it hadn’t gone wrong in the past so wouldn’t go wrong in the future. The tragic result was an explosion shortly after lift-off and the deaths of the seven crew members. So it is vital that as much information can be shared and acted upon as possible. Clearly, issues of commercial confidentiality must be permitted to influence your decisions, but as a general rule, at the start of a project, tell as many people as possible, as much as possible, as early as possible. Even when some people may not be involved until later in the life of your project, they will appreciate the advance notice. They may even have useful information or advice to offer which may help your planning. Identify and brief all the interested parties. Exercise: As part of your communications strategy, ask yourself the following questions about each stage of your project: •	 Who are you going to tell? •	 What are you going to tell them? •	 When are you going to tell them? •	 How – briefings, meetings, emails, reports, newsletters, etc. •	 How often – weekly, monthly, when things go wrong, when it ends? Remember that your communications tasks can be shared among the team; you don’t have to do it all. Now you can begin to plan your project, and it doesn’t need lots of expensive software, a pencil and paper will do, or even an excel spreadsheet.
+
+26
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Starting to Plan: Goals, Objectives and Tasks
+
+6	 Starting to Plan: Goals, Objectives and Tasks
+Goals Firstly, make sure that you have clearly defined the project goals and then you can start to break them down into objectives, and then break those down further into the component tasks. (Remember that in your organisation goals may be referred to as aims or plans). Your goals will help you to define your critical success factors, or Key Performance Indicators, so you can ask yourself “What will success look like?”. At the end of the project you can check to see how close you have got to your goals. What are the long-term goals of your project? See if you can get those into a couple of sentences, but ensure that you include the date when the goals should be achieved, for example: “by next March we will have merged the Sales and Marketing teams into one team, and moved them to the new building”. You might say, “I will have completed the kitchen extension by November this year, with all cupboards and white goods properly fitted”. Exercise: Write the goal (and the date) into your journal. Objectives for the project. These are the next layer down, and make the goal easier to achieve. You can divide the goal into phased objectives (e.g. in the first 6 months, the second six months, etc.), or into aspects of the project (e.g. communication, consultation, merger, move, evaluation). However you divide your objectives, you should make them ‘SMART’
+
+27
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Starting to Plan: Goals, Objectives and Tasks
+
+Exercise: In your journal, list the objectives and consider whether they meet the SMART criteria. Some people also think that when your objectives are SMART, then your actions should be SHARP: Simplicity – keep your actions simple. If you can’t explain your goal simply or remember it easily, then it’s likely that you’ll struggle to achieve it. How – can the goal be achieved – what’s the plan? What steps are you going to take to make your project goal a reality? Action – What actions are you taking to progress towards the goal? (This is the most important one) Review – Are you making regular assessments of what you’re doing, how and why? Will you be able to evaluate your project effectively? Progress – Action should always be about getting closer to your goal. The purpose of action is to make progress! So don’t just review, plan to progress.
+
+Think Umeå. Get a Master’s degree!
+• modern campus • world class research • 31 000 students • top class teachers • ranked nr 1 by international students Master’s programmes: • Architecture • Industrial Design • Science • Engineering
+
+Sweden www.teknat.umu.se/english
+
+28
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Starting to Plan: Goals, Objectives and Tasks
+
+Tasks Then, for each objective, list the main tasks to be achieved, and the dates for completion. For each task consider when it should start and finish, how long it will take, who will do it, how much it will cost, what level of quality you require, how you will know when it is complete. This may be too much detail for a very simple project, and you may need a very much more detailed task information sheet for an extremely complex project.
+
+6.1	
+
+Work breakdown structure
+
+Work from your list of main tasks above, and brainstorm smaller tasks for each of those. Then group them according to activities, locations or departments. The object is to create a diagram similar to a ‘family tree’ so that each major activity is sub divided. For example, if you have to plan an away day for the staff, the highest level task will be ‘Away Day’, and below that may be sections for ‘Location’, ‘Refreshments’, ‘Speakers’, ‘Administration’, ‘Transport’. Beneath each of those will be a number of tasks, which can then be sub-divided again.
+
+Once you’re clear about the tasks that have to be performed so that you can achieve the project, then you can start to work out which tasks have to be done first, which tasks can be performed at the same time, and which have to be completed before the next task can begin. As you look at each task, ask yourself how many people will you need? how much equipment? how many rooms, etc.? If your project is quite complex, you might want to consider creating a task sheet for each task. Each sheet will contain all of the details, the start and finish dates and times, people responsible, likely costs etc., as set out in the previous example.
+
+29
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Starting to Plan: Goals, Objectives and Tasks
+
+So, having started to create your WBS, now go back and check that the tasks are in order. This simple network diagram suggests that, for a project with only 9 tasks, you can start tasks 1 and 2 of your project at the same time, but both tasks must be completed before starting task 3.
+
+Task 1 Task 3 Task 2 Task 4 Task 5 Task 6 Task 7 Task 8 Task 9
+
+Exercise Use your network of tasks to create a chart that shows what needs to be done and when.
+
+6.2	
+
+Gantt Charts
+
+Most project managers will use a Gantt chart. Henry Laurence Gantt (1861–1919) was a mechanical engineer, management consultant and industry advisor. He developed Gantt charts as a visual tool to show scheduled and actual progress of projects, and to make sure that all of the tasks were completed. Accepted as a common-place project management tool today, it was quite a radical concept and an innovation of world-wide importance in the 1920s. Gantt charts were first used on large construction projects like the Hoover Dam, started in 1931. There are lots of examples of Gantt charts online. The chart below uses the same 9-step project as outlined in the network diagram above to show how the project will spread over 9 weeks. The little diamond shapes indicate a milestone, so that you can get the team together and make sure you are all ready to proceed to the next stage of the project. The milestone at the beginning of Week 8 may be the final checkpoint before the project event happens at the end of Week 8, leaving Week 9 to carry out the post-project evaluation.
+
+Task\Week No. 1 2 3 4 5 6 7 8 9
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+30
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Starting to Plan: Goals, Objectives and Tasks
+
+Exercise: In your journal, create a simple Gantt chart of your own project. Ask yourself if you have left enough time to achieve all of the tasks. Do you have enough people to help you to finish the project on time? Have you left enough time to evaluate this project so that you can transfer your learning points on to your next project? If you’re not sure whether your project will fit into a rigid time-frame then you might want to start at the end and work backwards. Although this sounds strange, it can give you a much clearer idea of what needs to be done, by what date, and in what order. It will also help you to identify any ‘bottlenecks’ that could disrupt the progress of your report. A great book to help you with this is The Goal by Eli Goldratt.
+
+How could you take your studies to new heights?
+By thinking about things that nobody has ever thought about before By writing a dissertation about the highest building on earth With an internship about natural hazards at popular tourist destinations By discussing with doctors, engineers and seismologists By all of the above
+
+From climate change to space travel – as one of the leading reinsurers, we examine risks of all kinds and insure against them. Learn with us how you can drive projects of global significance forwards. Profit from the know-how and network of our staff. Lay the foundation stone for your professional career, while still at university. Find out how you can get involved at Munich Re as a student at munichre.com/career.
+
+31
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Risk Management: What can go wrong with your project?
+
+7	 Risk Management: What can go wrong with your project?
+There are many things that could go wrong, for example, the resources might not be sufficient, you might go over your time deadline, or you might not be able to complete the project to the right level of quality. Sometimes all three go wrong, and more besides. Exercise: In your journal, list 20 things that might go wrong with your project. (There is a very good reason for asking you to list 20 things, and you will probably find the final five or six very difficult to think about – but those are the very things that can really cause your project major problems.) Once you have listed your 20 risks, complete the table below for each risk, you are asking yourself the following questions: •	 What might happen? •	 Probability = how likely is it? High / Medium / Low •	 What would be the impact on the project? H / M / L •	 What can you do to prevent this happening? •	 Contingency = what should you do if the worst does happen •	 Cost / benefit of any preventative or contingency measures You do not have to use a table like this, but you will probably find it helpful at first.
+
+32
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Risk Management: What can go wrong with your project?
+
+If we assume that your project is to plan an Away Day for the staff then your risk analysis might include some of the following:
+Risk (what may happen) e.g. Flooding Probability (High/Med/Low) Impact on the project (H/M/L) High Measures to prevent this happening Place activity upstairs Contingency – if the worst does happen Cancel event Cost / benefit of preventative / contingency measures £500 insurance (not worth it in this case so just accept the risk) No cost, high benefit Minimal expense and probably worth it. No financial cost but could be damaging to company morale.
+
+Medium/Low
+
+Speaker fails to attend Refreshments are poor
+
+Low Medium
+
+High Medium (but will affect your feedback) High
+
+Remind speaker before event Be very clear with the caterers on quality and quantity. Get managers to ensure that they stay. Offer incentives
+
+Ask manager to prepare Bring some extra items just in case Finish the event early.
+
+Key staff members might leave early
+
+Medium/High
+
+On simple, short term projects, this level of risk analysis should be sufficient. If you are taking part in a much more complex or longer-term project then you might also want to consider whether the risk is likely to happen immediately (and take action now) or much further into the future. Now revisit your Gantt chart: What can you do to protect your project? Include your preventative and contingency measures in the Gantt chart to ensure that you have many of your risks already covered. When you get more familiar with managing projects you’ll probably be starting your risk analysis as you list the tasks. If your risk analysis shows a lot of probable, high impact risks, then you might also want to work out what might happen if several things went wrong at once. For some projects the action would then be to close the project down.
+
+33
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Risk Management: What can go wrong with your project?
+
+During the Implementation phase of your project, keep paying attention to the Gantt chart and to all of your Communication issues, such as •	 How to communicate information on this project: •	 Who to communicate with: •	 What to communicate: •	 When to communicate: •	 How often to communicate: •	 What has been the most effective method of communication so far? Keep a record showing what you have done, and when you achieved it. If you have kept detailed task sheets then this will be an easy job, but a daily note will record your progress and help you with your project evaluation at the end.
+
+Scholarships
+
+Open your mind to new opportunities
+
+With 31,000 students, Linnaeus University is one of the larger universities in Sweden. We are a modern university, known for our strong international profile. Every year more than 1,600 international students from all over the world choose to enjoy the friendly atmosphere and active student life at Linnaeus University. Welcome to join us!
+
+Bachelor programmes in Business & Economics | Computer Science/IT | Design | Mathematics Master programmes in Business & Economics | Behavioural Sciences | Computer Science/IT | Cultural Studies & Social Sciences | Design | Mathematics | Natural Sciences | Technology & Engineering Summer Academy courses
+
+34
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Monitoring Progress
+
+8	 Monitoring Progress
+Use the Gantt chart to show your progress. This would highlight that, at the end of July, task 5 is still outstanding and may affect the end date of your project. You would now be able to take immediate action to correct the problem.
+Task\date Jan Feb Mar Apr May Jun Jul Aug Sep
+
+1 2 3 4 5 6 7 8 9
+If your project is going according to plan, then be sure to let people know. If it starts to go off track or over budget, then make sure that you consult the project sponsor, who may be able to find you extra resources, or additional support. Monitoring your project also helps you to check if you are moving towards the success that you identified at the start.
+
+8.1	
+
+Problem Solving tools for Project Management
+
+As we noted above, one of the challenges with managing even a simple project is that things will go wrong, even when you have conducted a thorough risk analysis. So it’s always useful to have a variety of different problem solving tools, because not every problem will need the same approach. Take a simple problem and see which of these works best. (a) This problem-solving model is frequently used by manufacturers if something has gone wrong: Step 1		 Step 2		 Step 3		 Is there a simple solution? If so, just go ahead and solve it. Define the problem. Draw it. Write about it. Ask What, When, Where, Why, Who & How Define the root causes of the problem. Use the Ishikawa fishbone diagram; People, Process, Materials, Machines Ask why five times to get to the root of the problem.
+
+35
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Monitoring Progress
+
+Step 4		 Step 5		
+
+Protect the customer/client/team while you are solving the problem. Are there temporary measures that might help? Is resolution of the problem within your scope? If yes, solve it, monitor it, and write it up – If no, then who can help you?
+
+(b) The GROW model was originally developed in the 1980s by performance coach Sir John Whitmore, although other coaches, such as Alan Fine and Graham Alexander, have also helped to develop it. This model is often used when coaching people: GROW: 	 		 		 Are the project Goals clear?		 What is the Reality vs the goals?	 (what would success look like?) (how close are we?) (Do we really want to get there?)
+
+What are the Options to close the gap?	 (how can we get there?)
+
+		How Will you close the gap?		
+
+It helps to raise awareness of the problem and to create personal responsibility among the team. (c) Solving performance problems Get a group together and discuss each question in turn, providing as much detail as you can to answer each question. 1.	 What exactly is the problem? 2.	 Who is involved? (list all of the people who are causing or are affected by the behaviour) 3.	 What are they doing? (again, be very specific) 4.	 What should they be doing? (itemise each action and behaviour that you expect) 5.	 What if we do nothing? (sometimes a problem will resolve itself, other times things will get worse) 6.	 Brainstorm all the options (let everyone suggest options, no matter how far-fetched at first) 7.	 Choose the optimum, and watch closely.
+
+36
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Monitoring Progress
+
+(d) IDEAL This is another way of making sure that everyone understands the problem. I	 D	 E	 A	 L	 Identify: 	 (ask lots of questions to make sure you are trying to solve the right problem) the problem may affect the answer) Explore: 	 (try several different strategies. Find an easy example and work up to harder problems. Protect the outcome by working backwards from the solution) Act: 		 Learn:		 (rehearse the solutions. Try a dummy run or role-play) (Study the effects – redefine your strategy if necessary)
+
+Define: 		 (be very clear. Break down complex problems into chunks. The way you define
+
+8.2	
+
+Managing changes to the project specification
+
+While some projects stay completely on track and never deviate from the original plan, many more experience changes throughout the life of the project. Some of the changes might be unexpected, and others might have appeared in your risk register. You might experience changes in funding, or your client may have changed their requirements, or some of your project team may have been moved to another project. These changes need to be managed so that the project will succeed in the end.
+
+Cyber Crime Innovation
+
+Web-enabled Applications
+
+Are you ready to do what matters when it comes to Technology?
+
+37
+Download free eBooks at bookboon.com
+
+Data Analytics
+
+Implementation
+
+Big Data
+
+.NET Implementation
+
+Click on the ad to read more
+
+IT Consultancy
+
+Technology
+
+Information Management
+
+Social Business
+
+Technology Advisory
+
+Enterprise Application
+
+Java
+
+SAP
+
+Cloud Computing
+
+CRM
+
+Enterprise Content Management SQL End-to-End Solution
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Monitoring Progress
+
+Exercise: Ask yourself what sort of changes might influence your own project •	 What issues are likely to result in the need for change in your project? •	 Which of these relate to your risk assessment? •	 How will you record these changes in your project documentation? One of the most important requirements when dealing with any changes to the project, is that you must record the change in your project documents, and then make sure that everyone involved has the up to date documents from which to work. This is called ‘document control’, and is vital to the success of your project. If your project is large or complex, you might want to draw up a document control procedure. Otherwise, the following suggestions will help you to keep control of your documents. •	 Approve all project documents before you distribute them. This applies whether you are distributing hard or electronic copies. •	 Provide the correct version of documents at points of use. You might want to insist that everyone in the team accesses the documents from a folder on Google Docs or Dropbox, so that you can make sure all the documents are up to date •	 Review and re-approve documents whenever you update them. •	 Specify the current revision status of your documents. •	 Monitor documents that come from external sources. •	 Prevent the accidental use of obsolete documents. •	 Preserve the usability of your quality documents. Exercise: Imagine that a change has taken place in your project, for example that the completion date has been brought forward by three weeks, or your budget has been cut by 50%. Take a look at your project documents and see how you must amend them to reflect the change, and then note down all of the people who need to see the new documents.
+
+38
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+At the end of the project
+
+9	 At the end of the project
+Closure Say thank you! Remember that your team members will deserve some recognition for their contribution to the success of your project. And of course, if you claim all of the credit for yourself, they might be less willing to assist you in your next project. Publicise your results You can refer back to your communications strategy to see what you planned to do at this point. Perhaps you had agreed to issue a final newsletter with photographs of the finished project, or hold a public meeting or celebration. Even if your project was not 100% successful, you can still publicise the successes that you did have (and remember that very few projects were entirely successful, coming in on time and within budget). Assuring Experience There is no point in ‘re-inventing the wheel’ every time you start a new project; much better to make sure that you can incorporate your learning into the next project. Ask yourself: What did we learn from this? Where can I store that learning for easy retrieval? Some organisations will keep that information on their intranet, or in hard copy in a library, or you might want to keep a copy of all your learning points for your own use. Feedback Find out from the team members, and other key players, how you can improve your project management techniques next time. Make sure you seek feedback on the task (did we achieve the project goals?) and also the process (how well did I manage this project and what could I improve?).
+
+9.1	
+
+Post-project evaluation
+
+Hard or Soft Outcomes? The hard outcomes are the concrete results that you identified as critical success factors at the start of your project. You can ask whether you have achieved all of the things you set out to achieve or maybe you are only 80% successful. Soft outcomes relate more to the skills and attitudes of the project team members, such as increased confidence, improved public speaking skills, or better team working. You’ll probably want to interview the team members or give them a questionnaire to identify these measures.
+
+39
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+At the end of the project
+
+ASK: 		
+
+What went well, and why? What went badly, and why? So, next time, I will…
+
+It is important when using this method to ask why things have gone well or badly, so that you can identify the aspects to keep and those to change in your next project. SWOT	 	 Strengths, Weaknesses, Opportunities and Threats
+
+You have probably seen a SWOT analysis used to plan activities, but it can also be very useful to evaluation afterwards. In this case, your analysis would consider S	 What were the Strengths of the project? + what were my strengths as a project manager/team member W	 	 O	 	 T	 	 What were the Weaknesses of the project? + what were my weaknesses as a project manager/team member What Opportunities has the project created? That includes opportunities for the project, your organisation, and for yourself What Threatened the success of the project? For example, there may have been changes in personnel or finance.
+
+Whichever system of evaluation you decide to use, do start with the positive; what went well. If you begin to list all of the weaknesses and mistakes, then you may be too depressed to look at the successes.
+
+9.2	
+
+Writing the Project Report
+
+Contents: What should the Report contain? Your tutor may have a preferred style for your report but, if not, then this could be an effective way to present your project report: Title page Contents page Introduction – introduce the report by setting out what this project is about, together with a little background information on your organisation.
+
+40
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+At the end of the project
+
+Rationale… What the project aims to achieve, and the problem that you’re seeking to address (What) and why you decided on this type of project (Why). You can include your situation analysis to demonstrate the need for the project, and how the various stakeholders will benefit from a successful project (Who). Literature Review – what papers, reports, articles and books you have read that gave you your background knowledge. Methodology (How) what you intend to do and also (if different) what you did in order to carry out the project; this might be research, questionnaires, interviews etc. Include your stakeholder analysis identifying the various needs of the individuals affected by your project, also your task list and Gantt Chart to demonstrate your planning ability. Include your risk assessment and explain how you intend to evaluate your project during its lifetime and at the end. Results/findings/analysis – what you found out, and then the implications of your findings. Discussion and Recommendations this could include your proposals for improvements, but will also include your evaluation of the project. References/Bibliography (make sure you acknowledge all your sources of information).
+
+AXA Global Graduate Program
+Find out more and apply
+
+41
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+At the end of the project
+
+You might also be required to include a personal evaluation showing what you have learned from conducting this project, what new skills you have acquired, and what you will do differently next time you carry out a project. Confidentiality Do you want to show this report to your employer? If you’re likely to have to share this report with your employer as well as your course tutor, then remember to be diplomatic if you recommend improvements to a process or system of working. You may not know whether that process was introduced by your manager and any destructive criticism may not be well received! So try an approach along the lines of “this is good, and here are ways of making it even better”. The other important aspect of confidentiality is the need to respect the anonymity of people who have answered your questions, responded to your surveys, or given you an interview. If you tell people that their answers are going to be confidential then you should refer to them only by a code, for example A1 and A2. Referencing At the end of your report, you will need to acknowledge your sources of information, whether they were academic books and articles or official reports and statistics. Most college and universities will have their own preferred style of referencing, usually based on the Harvard referencing system. Do take the time to make sure that your references conform to your college-preferred style. Robert Edds, writing on www.studentbeans.com, produced this rather irreverent but very simple guide to Harvard Referencing: Harvard Referencing: The rules Essentially it works like this – whenever you reference someone else’s work you put their name in brackets in the text itself, and then at the end of the essay you list all the work you’ve referenced in full in the ‘References section’. When you reference work from a specific page in a book you include the author’s name, the year of publication, and the page number. For example… “It has been claimed that reading studentbeans.com can make you wet yourself (Edds 2012, p. 73).” If you want to mention the author’s name as part of the sentence simply put the year and page number in the brackets after their name.
+
+42
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+At the end of the project
+
+For example… “Edds (2012, p. 108) found that there was no end to how pissed off students get about incorrect use of grammar.” If the book was written by two authors then just name both of them, with an ‘and’ in between them. For example… “Edds and Jones-Morris (2012, p. 321) discovered that stories about cats will always be popular.” If the book was written by three or more authors, name the first and signify the rest with ‘et al.’. For example… “studentbeans.com is the greatest website in the world, ever, and all the others should just give up (Edds et al., 2012, p. 23).” Harvard referencing works exactly the same for journals as it does for books, though naming the page number is not necessary. If several papers were published by an author in one year, differentiate them using lower case letters. For instance the first journal they wrote that year would be called (Edds 2012a), the second would be (Edds 2012b), and so on.
+
+43
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+At the end of the project
+
+Harvard referencing: The reference list Rather than a bibliography, which can include sources that aren’t directly referred to within your essay, Harvard referencing lists all the source material in a comprehensive ‘Reference’ list at the end. When you reference in full you need to start with the author’s surname (listed in alphabetical order), followed by their initial(s), the year of publication, the title of the book (in italics), the city of publication, and then the name of the publisher itself. For example… Callwood, J. (2007). Why the editorial department is so good looking. London: Beans publishing. When two or more authors wrote the book, do the same as above but listing all their names. For example… Dalton, H., Davis, O. and Winlow, A. (1992a) How did the editorial department get so funny? Birmingham: I Need A Drink Publishing House. When including a reference of a journal, do the same as above, but rather than the city and publishing house, just name the journal and issue number. For example… Brann, O., Edds, R. and Jones-Morris, R. (2011) How we got so good. Science 836. And finally, when citing a newspaper article do the same, but include the exact date of publication, the name of the article, and the name of the newspaper. For example… Edds, R. (September 21, 2012) “I can’t think of any more office-based jokes”, The Guardian. So, there you have it. It’s not so bad, right? And if you’re still a little confused, the best way of getting your head around it is to practice, practice, practice. The sooner you get the hang of it the sooner you can stop worrying about it, and just focus on the easy stuff like actually writing the essay…
+
+44
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Test your understanding
+
+10	 Test your understanding
+The best way to see if you have learned how to manage a project is….to manage a project. So select a small and hopefully simple project, and work through the various steps to plan and carry out your project. If you are submitting a Work Based Project for assessment as part of your course, then your assignment might look something like this: Plan, conduct and evaluate a work based project, producing a report of 4000 (or 5000) words or equivalent. To do this you need to gain tutor and workplace prior approval for the topic and methodology of the project, which can (a) improve the knowledge base of your workplace through systematic enquiry, or (b) implement recommendations for improvements based on analysis, or (c) both. Your project report should include a rationale for your topic choice, an evaluation of current literature on the subject, an appropriate methodology, findings and recommendations appropriate to your workplace, and an evaluation of the project process and its impact. Your tutors will be looking for evidence that you understand the various tools and techniques available to a project manager, and that you have used these appropriately.
+
+45
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Useful Links
+
+11	 Useful Links
+Websites: www.apm.org.uk www.businessballs.com www.maxwideman.com www.mindtools.com www.projectsmart.co.uk www.pmi.org www.tompeters.com Useful articles / books Andersen ES, Grude KV & Haug T (2004) Goal directed project management; effective techniques and strategies, 3rd edn. Kogan Page. Buttrick R (2005) The project workout: a toolkit for reaping the rewards from all your business projects, 3rd edn. Financial Times Prentice Hall.
+
+I’M WITH ZF. ENGINEER AND EASY RIDER.
+www.im-with-zf.com
+
+CH ARLES JENKIN
+
+S
+
+Scan the code and find out more about me and what I do at ZF:
+
+Quality Engineer ZF Friedrichshafen
+
+AG
+
+46
+Download free eBooks at bookboon.com
+
+Click on the ad to read more
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Useful Links
+
+Callahan KR & Brooks LM (2004) Essentials of strategic project management, John Wiley. Cobb AT (2006) Leading project teams: an introduction to the basics of project management and project team leadership, Sage. Costley C, Elliott G & Gibbs P (2010) Doing Work Based Research: Approaches to Enquiry for Insider Researchers, Sage. Graham RJ & Englund RL (2004) Creating an environment for successful projects, 2nd edn. Jossey Bass. Goldratt EM The Goal: A Process of Ongoing Improvement,3rd Revised Edition, North river Press. Goldratt EM Critical Chain (1997) North River Press. Harrison F & Lock D (2004) Advanced project management; a structured approach, 4th edn, Gower. Office of Government Commerce (2005) Managing successful projects with PRINCE2, TSO. Phillips D & O’Brian R (2004) It sounded good when we started: a project managers guide to working with people on projects. John Wiley. Teams: Bruce Tuckman, 1965 article, “Developmental Sequence in Small Groups.” Difference between a project and a programme: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/31978/10-1256guidelines-for-programme-management.pdf http://www.independent-consulting-bootcamp.com/difference-between-a-project-and-a-program.html http://www.projectmanager.com/whats-the-difference-between-a-project-and-a-program.php Honey & Mumford Learning styles: http://www.peterhoney.com/content/LearningStylesQuestionnaire.html Information on the Challenger Shuttle Disaster: http://www.history.com/topics/challenger-disaster
+
+47
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Useful Links
+
+11.2	
+
+The difference between a project and a programme
+
+Is there a difference between a project and a programme? While this seems to be a very simple question, the answer is hotly contested. Some people would say that a project is simply a small part of a larger programme, and others will insist that a project of whatever size always has a definite end whereas a programme is an ongoing piece of work. The question is important because everyone involved in your project should have a shared understanding of what they are doing, and what they are working towards. According to the Department of Business Innovation & Skills (BIS) in the UK government, it all depends on the size and importance of the activity:What is a programme, and how does a programme differ from a project? The ultimate goal of a Programme is to realise outcomes and benefits of strategic relevance. To achieve this a programme is designed as a temporary flexible organisation structure created to coordinate, direct and oversee the implementation of a set of related projects and activities in order to deliver outcomes and benefits related to the organisation’s strategic objectives. A programme is likely to have a life that spans several years. A Project is usually of shorter duration (a few months perhaps) and will be focussed on the creation of a set of deliverables within agreed cost, time and quality parameters. The term Portfolio is used to describe the total set of programmes and stand-alone projects undertaken by an organisation. Programmes usually require the commitment and active involvement of more than one organisation to achieve the desired outcomes. Programmes deliver, or enable, one or more benefits i.e. measurable improvement resulting from an outcome and perceived as an advantage by one or more stakeholders. This definition will be widely accepted within large public sector organisations, and so long as everyone involved is working to the same criteria then there will be no confusion. But you may already feel that this does not reflect your own experience, particularly if you do not work within the public sector.
+
+48
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+Useful Links
+
+The on-line resource of Independent Consulting Bootcamp takes a slightly different view, suggesting that a project is a temporary entity established to deliver specific (often tangible) outputs in line with predefined time, cost and quality constraints. A programme, on the other hand, is defined as a portfolio comprised of multiple projects that are managed and coordinated as one unit with the objective of achieving (often intangible) outcomes and benefits for the organization. They offer the following table to explain their point of view:
+  Project Outputs – tangible; relatively easy to describe, define and measure; tending towards objective. Strictly limited; tightly defined; not likely to be subject to material change during the life of the project. Relatively short term; typically three to six months. Project risk is relatively easy to identify and manage. The project failure would result in relatively limited impact on the organization relative to program risk. Program Outcomes – often intangible; difficult to quantify; benefits often based on changes to organizational culture and behaviours; introducing new capabilities into the organization; tending towards subjective. Not tightly defined or bounded; likely to change during the life cycle of the program. Relatively long term typically eighteen months to three years. Program risk is more complex and potentially the impact on the organization if a risk materializes will be greater relative to project risk. Programme failure could result in material financial, reputational or operational loss. Ill-defined; often disagreement between key stakeholders on the nature and definition of the problem. A significant number of potential solutions with often with disagreement between stakeholders as to the preferred solution. A significant number of diverse stakeholders; probable disagreement between them as to the definition of the problem & the preferred solution. Environment is dynamic; and programme objectives need to be managed in the context of the changing environment within which the organization operates. Resources are constrained and limited; there is competition for resources between projects.
+
+Objectives
+
+Scope
+
+Duration
+
+Risk profile
+
+Nature of the problem Nature of the solution
+
+Clearly defined.
+
+A relatively limited number of potential solutions.
+
+Stakeholders
+
+A relatively limited number of stakeholders.
+
+Relationship to environment
+
+Environment within which the project takes place is understood and relatively stable. Resources to deliver the project can be reasonably estimated in advance.
+
+Resources
+
+49
+Download free eBooks at bookboon.com
+
+Planning and Managing your Work Based Project: A Guide For Students
+
+About Dr Anita Pickerden
+
+12	 About Dr Anita Pickerden
+I have taught project management for over 20 years to individuals and teams in the public, private and voluntary sectors. Some projects are small and simple, and others may be very complex, such as moving a call centre from one side of the country to the other without losing service. However, I believe they all start the same way; with a good idea, collecting information, and careful planning. Many of my students have had to plan and manage a work based project and I wanted to help students to understand the basics. Training in Project Management Skills Whether your people need a quick two-day refresher in the basics of managing a project, or a formal qualification such as the CMI Diploma in Project & Programme Management, I deliver practical, relevant training that covers the tools and techniques as well as the soft skills of negotiation and persuasion. My training covers all essential aspects of managing projects and uses your own project as an example throughout. Working with a project team for a short period, I can ensure that their planning and communication will show substantial improvement. I also lead the Project Management School for the Marshall Gurney Institute, which provides online learning programmes. Coaching to improve Project Management When you have just one or two managers requiring development, coaching may be a cost effective way of improving their project skills and performance. I am a qualified and experienced coach, and can help your managers achieve levels of performance that meet your needs. Project Evaluation In theory, all projects should be evaluated, but in busy periods, this is often the stage that is overlooked. A variety of evaluation methods are available, from evaluation of hard and soft indicators up to a full scale ROI evaluation identifying to the penny what returns you are getting from your project. Qualified with the ROI Institute, I can help you plan evaluation into your project plan from the start, then assist with the analysis of data and reporting of findings. www.anitapickerden.co.uk anita@pickerden.co.uk
+
+50
+Download free eBooks at bookboon.com
+
