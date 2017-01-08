@@ -10,7 +10,7 @@ and stores the model to mySQL database . This language model can be used to pred
 mysql> create database tp;<br/>
 mysql> use tp;<br/>
 mysql> create table LanguageModel(starter varchar(250), follower varchar(250), probability int);<br/>
-mysql> grant all on *.* to "root"@"%" identified by "123456";<br/>
+mysql> grant all on \*.\* to "root"@"%" identified by "123456";<br/>
 mysql> flush privileges;<br/>
 ![tp1](https://cloud.githubusercontent.com/assets/22739177/21748178/f31d7eda-d532-11e6-8990-3459fb19bfe3.PNG)<br/>
 
