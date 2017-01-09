@@ -33,8 +33,8 @@ public class Dispatcher {
 			TextInputFormat.setInputPaths(job1, new Path(args[0]));
 			TextOutputFormat.setOutputPath(job1, new Path(args[1]));
 			job1.waitForCompletion(true); // language model won't start to build until the n-gram library completely built
-	        
-	        // configure language model mapreduce job
+			
+			// configure language model mapreduce job
 			Configuration conf2 = new Configuration();
 			conf2.set("THRESHOLD", args[3]);
 			conf2.set("TOP_K", args[4]);
@@ -56,4 +56,4 @@ public class Dispatcher {
 			DBOutputFormat.setOutput(job2, "LanguageModel", new String[] {"starter", "follower", "probability"});
 			System.exit(job2.waitForCompletion(true) ? 0 : 1);
 	}
-} 
+}
