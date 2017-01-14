@@ -1,5 +1,5 @@
 **Search Engine Autocompletion:**<br/>
-![show](https://cloud.githubusercontent.com/assets/22739177/21748185/f34673c6-d532-11e6-9b4c-e6cacec76eea.PNG)<br/>
+![show1](https://cloud.githubusercontent.com/assets/22739177/21952660/c13bd76e-d9d7-11e6-8b95-2e9a706b0dbc.PNG)<br/>
 *The following words can be predicted along with the user's typing.*<br/>
 *The predictions are based on the probabilities in natural language that specific words usually appear after a given word or phrase.*<br/>
 
