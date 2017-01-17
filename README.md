@@ -23,10 +23,10 @@ hdfs dfs -put ./trainingdata/* /trainingdata<br/>
 
 **<h2>Run the project:</h2>**<br/>
 Usage: hadoop jar \<jar file\> \<main class name\> \<input dir\> \<output dir\> [GRAM_NUMBER] [THRESHOLD] [TOP_K]<br/>
-hadoop jar TextPrediction.jar com.textprediction.ngramlm.Dispatcher /trainingdata /ngram 5 5 5<br/>
-GRAM_NUMBER: the number n of the n-gram; default 5;<br/>
-THRESHOLD: threshold for a phrase to be semantic; default 5;<br/>
-TOP_K: only show the top k predictions based on their probabilities; default 5;<br/>
+ex: hadoop jar TextPrediction.jar com.textprediction.ngramlm.Dispatcher /trainingdata /ngram 5 5 5<br/>
+*GRAM_NUMBER*: the number n of the n-gram; default 5;<br/>
+*THRESHOLD*: threshold for a phrase to be semantic; default 5;<br/>
+*TOP_K*: only show the top k predictions based on their probabilities; default 5;<br/>
 
 **<h2>Check the first mapreduce job results that generate an n-gram library:</h2>**<br/>
 hdfs dfs -ls /ngram<br/>
