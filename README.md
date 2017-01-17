@@ -1,5 +1,5 @@
 This project firstly generates an n-gram library from training data, then builds a language model based on the generated n-gram library
-and stores the model to mySQL database . This language model can be used to predict the words after a given word or phrase.
+and stores the model to mySQL database. This language model can be used to predict the words after a given word or phrase.
 
 **<h2>Search Engine Autocompletion:</h2>**<br/>
 ![show1](https://cloud.githubusercontent.com/assets/22739177/21952660/c13bd76e-d9d7-11e6-8b95-2e9a706b0dbc.PNG)<br/>
