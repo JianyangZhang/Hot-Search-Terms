@@ -40,11 +40,11 @@ select \* from LanguageModel into outfile '/tmp/generated-language-model/Languag
 
 **<h2>Sample predictions:</h2>**<br/>
 mySQL> select * from LanguageModel where starter like 'input%' order by probability desc limit x;<br/>
-&nbsp;&nbsp;user input *would*, predictions are<br/>
+&nbsp;&nbsp;user input <b>*would*</b>, predictions are<br/>
 ![tp8](https://cloud.githubusercontent.com/assets/22739177/21757961/31648bd0-d5eb-11e6-9e80-100239cf3f6d.PNG)<br/>
-&nbsp;&nbsp;user input *this is*, predictions are<br/>
+&nbsp;&nbsp;user input <b>*this is*</b>, predictions are<br/>
 ![tp5](https://cloud.githubusercontent.com/assets/22739177/21748184/f33c40b8-d532-11e6-8b5c-71003ea384f5.PNG)<br/>
-&nbsp;&nbsp;user input *away from*, predictions are<br/>
+&nbsp;&nbsp;user input <b>*away from*</b>, predictions are<br/>
 ![tp6](https://cloud.githubusercontent.com/assets/22739177/21748182/f33a017c-d532-11e6-85f2-0d791087da9b.PNG)<br/>
 
 
