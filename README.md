@@ -12,13 +12,15 @@ mysql> use tp;<br/>
 mysql> create table LanguageModel(starter varchar(250), follower varchar(250), probability int);<br/>
 mysql> grant all on \*.\* to "root"@"%" identified by "123456";<br/>
 mysql> flush privileges;<br/>
-![tp1](https://cloud.githubusercontent.com/assets/22739177/21748178/f31d7eda-d532-11e6-8990-3459fb19bfe3.PNG)<br/>
+
+![tp1](https://cloud.githubusercontent.com/assets/22739177/21748178/f31d7eda-d532-11e6-8990-3459fb19bfe3.PNG)
 
 **<h2>Preparation in HDFS:</h2>**
 hdfs dfs -mkdir /mysql<br/>
 hdfs dfs -put ./mysql-connector-java-5.1.39-bin.jar /mysql<br/>
 hdfs dfs -mkdir /trainingdata<br/>
 hdfs dfs -put ./trainingdata/* /trainingdata<br/>
+
 ![tp2](https://cloud.githubusercontent.com/assets/22739177/21748179/f334987c-d532-11e6-8e1f-00c01b09796f.PNG)
 
 **<h2>Run the project:</h2>**
@@ -32,20 +34,26 @@ Ex: hadoop jar TextPrediction.jar com.textprediction.ngramlm.Dispatcher /trainin
 **<h2>Check the first mapreduce job results that generate an n-gram library:</h2>**
 hdfs dfs -ls /ngram<br/>
 hdfs dfs -get /ngram/part-r-* ./generated-n-gram-library/<br/>
-![tp3](https://cloud.githubusercontent.com/assets/22739177/21748181/f339a3f8-d532-11e6-89f2-1983d254da05.PNG)<br/>
+
+![tp3](https://cloud.githubusercontent.com/assets/22739177/21748181/f339a3f8-d532-11e6-89f2-1983d254da05.PNG)
 
 **<h2>The second mapreduce job produces a language model looks like this in mySQL database:</h2>**
 select \* from LanguageModel limit 50;<br/>
 select \* from LanguageModel into outfile '/tmp/generated-language-model/LanguageModel.out';<br/>
-![tp4](https://cloud.githubusercontent.com/assets/22739177/21748180/f339a556-d532-11e6-9968-aa9cc21e48a0.PNG)<br/>
+
+![tp4](https://cloud.githubusercontent.com/assets/22739177/21748180/f339a556-d532-11e6-9968-aa9cc21e48a0.PNG)
 
 **<h2>Sample predictions:</h2>**
 mySQL> select * from LanguageModel where starter like 'input%' order by probability desc limit x;<br/>
+
 &nbsp;&nbsp;user input <b>*would*</b>, predictions are<br/>
+
 ![tp8](https://cloud.githubusercontent.com/assets/22739177/21757961/31648bd0-d5eb-11e6-9e80-100239cf3f6d.PNG)<br/>
 &nbsp;&nbsp;user input <b>*this is*</b>, predictions are<br/>
+
 ![tp5](https://cloud.githubusercontent.com/assets/22739177/21748184/f33c40b8-d532-11e6-8b5c-71003ea384f5.PNG)<br/>
 &nbsp;&nbsp;user input <b>*away from*</b>, predictions are<br/>
+
 ![tp6](https://cloud.githubusercontent.com/assets/22739177/21748182/f33a017c-d532-11e6-85f2-0d791087da9b.PNG)<br/>
 
 
