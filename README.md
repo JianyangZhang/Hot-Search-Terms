@@ -2,7 +2,7 @@ This project firstly generates an n-gram library from training data, then builds
 and stores the model to mySQL database. This language model can be used to predict the words after a given word or phrase.
 
 **<h2>Search Engine Autocompletion:</h2>**
-![show1](https://cloud.githubusercontent.com/assets/22739177/21952660/c13bd76e-d9d7-11e6-8b95-2e9a706b0dbc.PNG)<br/>
+![show1](https://cloud.githubusercontent.com/assets/22739177/21952660/c13bd76e-d9d7-11e6-8b95-2e9a706b0dbc.PNG)
 The following words can be predicted along with the user's typing.<br/>
 The predictions are based on the probabilities in natural language that specific words usually appear after a given word or phrase.<br/>
 
