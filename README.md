@@ -6,7 +6,7 @@ and stores the model to mySQL database. This language model can be used to predi
 The following words can be predicted along with the user's typing.<br/>
 The predictions are based on the probabilities in natural language that specific words usually appear after a given word or phrase.<br/>
 
-**<h2>Sample mySQL database setup:</h2>**
+**<h2>Sample MySQL database setup:</h2>**
 mysql> create database tp;<br/>
 mysql> use tp;<br/>
 mysql> create table LanguageModel(starter varchar(250), follower varchar(250), probability int);<br/>
