@@ -1,5 +1,5 @@
 This project firstly generates an n-gram library from training data, then builds a language model based on the n-gram library
-and stores the model to mySQL database. This language model can be used to predict the words after a given word or phrase.
+and stores the model to MySQL database. This language model can be used to predict the words after a given word or phrase.
 
 **<h2>Search Engine Autocompletion:</h2>**
 ![show1](https://cloud.githubusercontent.com/assets/22739177/21952660/c13bd76e-d9d7-11e6-8b95-2e9a706b0dbc.PNG)
@@ -37,14 +37,14 @@ hdfs dfs -get /ngram/part-r-* ./generated-n-gram-library/<br/>
 
 ![tp3](https://cloud.githubusercontent.com/assets/22739177/21748181/f339a3f8-d532-11e6-89f2-1983d254da05.PNG)
 
-**<h2>The second mapreduce job produces a language model looks like this in mySQL database:</h2>**
+**<h2>The second mapreduce job produces a language model looks like this in MySQL database:</h2>**
 select \* from LanguageModel limit 50;<br/>
 select \* from LanguageModel into outfile '/tmp/generated-language-model/LanguageModel.out';<br/>
 
 ![tp4](https://cloud.githubusercontent.com/assets/22739177/21748180/f339a556-d532-11e6-9968-aa9cc21e48a0.PNG)
 
 **<h2>Sample predictions:</h2>**
-mySQL> select * from LanguageModel where starter like 'input%' order by probability desc limit x;<br/>
+mysql> select * from LanguageModel where starter like 'input%' order by probability desc limit x;<br/>
 
 &nbsp;&nbsp;user input <b>*would*</b>, predictions are<br/>
 
