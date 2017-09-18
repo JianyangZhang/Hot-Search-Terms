@@ -1,3 +1,4 @@
+/* 根据n-gram词库，用MapReduce为auto-completion系统建立语言模型 */
 package com.textprediction.ngramlm;
 
 import java.io.IOException;
