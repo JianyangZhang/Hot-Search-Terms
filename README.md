@@ -11,7 +11,7 @@ The following words can be predicted along with the user's typing.
 The predictions are based on the probabilities in natural language that specific words usually appear after a given word or phrase.<br/>
 
 **<h2>Search Engine spell checking:</h2>**
-![1506302661_tmp_show3](https://user-images.githubusercontent.com/22739177/30788820-ade46b4a-a155-11e7-92a3-21fdef42315b.jpg)
+![show3_resize](https://user-images.githubusercontent.com/22739177/30788851-01a1c5d4-a156-11e7-8f9b-f84fd7b14abf.jpg)
 The most regular function a search engine provides. When a user's input may have typo, it suggests the correct spelling
 
 **<h2>Sample MySQL database setup:</h2>**
