@@ -7,7 +7,7 @@ The autocompletion program firstly generates an n-gram library from training dat
 
 **<h2>Search Engine Spell Checking:</h2>**
 ![spell_show_resize](https://user-images.githubusercontent.com/22739177/30788960-c4e79834-a156-11e7-8e2f-2ef417ab4490.png)
-The most regular function a search engine provides. When a user's input may have typo, it suggests the correct spelling.
+The most regular function search engines provide. When a user's input may have typo, it suggests the correct spelling.
 
 The spell checking program uses a Trie as data structure, takes single words as input and construct a dictionary with probability.
 With the word "best" being inserted, "bost", "bast", "bist", "bust" etc. will all point to "best" as the correct word. If "bust" is added later, it will overwrite the correct spelling of "best" to be "bust".
