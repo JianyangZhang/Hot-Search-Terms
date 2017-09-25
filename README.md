@@ -1,10 +1,18 @@
-This project firstly generates an n-gram library from training data, then builds a language model based on the n-gram library
-and stores the model to MySQL database. This language model can be used to predict the words after a given word or phrase.
+**Autocompletion:**
+The autocompletion program firstly generates an n-gram library from training data, then builds a language model based on the n-gram library and stores the model to MySQL database. This language model can be used to predict the words after a given word or phrase. Details are shown in the following sections.
+
+**Spell checking:**
+The spell checking program uses a Trie as data structure, takes single words as input and construct a dictionary with probability.
+With the word "best" being inserted, "bost", "bast", "bist", "bust" etc. will all point to "best" as the correct word. If "bust" is added later, it will overwrite the correct spelling of "best" to be "bust".
 
 **<h2>Search Engine Autocompletion:</h2>**
 ![show1](https://cloud.githubusercontent.com/assets/22739177/21952660/c13bd76e-d9d7-11e6-8b95-2e9a706b0dbc.PNG)
-The following words can be predicted along with the user's typing.<br/>
+The following words can be predicted along with the user's typing.
 The predictions are based on the probabilities in natural language that specific words usually appear after a given word or phrase.<br/>
+
+**<h2>Search Engine spell checking:</h2>**
+![show3](https://user-images.githubusercontent.com/22739177/30788575-0f88d442-a153-11e7-9ceb-8f20e0ebb721.PNG)
+The most regular function a search engine provides. When a user's input may have typo, it suggests the correct spelling
 
 **<h2>Sample MySQL database setup:</h2>**
 mysql> create database tp;<br/>
