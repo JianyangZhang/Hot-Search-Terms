@@ -10,7 +10,7 @@ With the word "best" being inserted, "bost", "bast", "bist", "bust" etc. will al
 The following words can be predicted along with the user's typing.
 The predictions are based on the probabilities in natural language that specific words usually appear after a given word or phrase.<br/>
 
-**<h2>Search Engine spell checking:</h2>**
+**<h2>Search Engine Spell Checking:</h2>**
 ![spell_show_resize](https://user-images.githubusercontent.com/22739177/30788960-c4e79834-a156-11e7-8e2f-2ef417ab4490.png)
 The most regular function a search engine provides. When a user's input may have typo, it suggests the correct spelling
 
