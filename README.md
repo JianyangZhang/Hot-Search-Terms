@@ -6,7 +6,7 @@ https://github.com/JianyangZhang/Mini-Search-Engine
 The following words can be predicted along with the user's typing.
 The predictions are based on the probabilities in natural language that specific words usually appear after a given word or phrase.
 
-The autocompletion program firstly generates an n-gram library from training data, then builds a language model based on the n-gram library and stores the model to MySQL database. This language model can be used to predict the words after a given word or phrase. Details are shown in the following sections.
+The auto-completion program firstly generates an n-gram library from training data, then builds a language model based on the n-gram library and stores the model to MySQL database. This language model can be used to predict the words after a given word or phrase. Details are shown in the following sections.
 
 **<h3><ins>Spell checking:</ins></h3>**
 <img src="https://user-images.githubusercontent.com/22739177/30788960-c4e79834-a156-11e7-8e2f-2ef417ab4490.png" height="180" width="550">
@@ -40,13 +40,13 @@ Ex: hadoop jar TextPrediction.jar com.textprediction.ngramlm.Dispatcher /trainin
 *THRESHOLD:* threshold for a phrase to be semantic; default 5;<br/>
 *TOP_K:* only show the top k predictions based on their probabilities; default 5;<br/>
 
-**<h3><ins>Check the first mapreduce job results that generate an n-gram library:</ins></h3>**
+**<h3><ins>Check the first MapReduce job results that generate an n-gram library:</ins></h3>**
 hdfs dfs -ls /ngram<br/>
 hdfs dfs -get /ngram/part-r-* ./generated-n-gram-library/<br/>
 
 ![tp3](https://cloud.githubusercontent.com/assets/22739177/21748181/f339a3f8-d532-11e6-89f2-1983d254da05.PNG)
 
-**<h3><ins>The second mapreduce job produces a language model in MySQL database:</ins></h3>**
+**<h3><ins>The second MapReduce job produces a language model in MySQL database:</ins></h3>**
 select \* from LanguageModel limit 50;<br/>
 select \* from LanguageModel into outfile '/tmp/generated-language-model/LanguageModel.out';<br/>
 
