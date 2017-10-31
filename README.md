@@ -9,7 +9,7 @@ The predictions are based on the probabilities in natural language that specific
 The autocompletion program firstly generates an n-gram library from training data, then builds a language model based on the n-gram library and stores the model to MySQL database. This language model can be used to predict the words after a given word or phrase. Details are shown in the following sections.
 
 **<h2>Spell Checking:</h2>**
-![spell_show_resize](https://user-images.githubusercontent.com/22739177/30788960-c4e79834-a156-11e7-8e2f-2ef417ab4490.png)
+<img src="https://user-images.githubusercontent.com/22739177/30788960-c4e79834-a156-11e7-8e2f-2ef417ab4490.png" height="180" width="550">
 The most regular function search engines provide. When a user's input may have typo, it suggests the correct spelling.
 
 The spell checking program uses a Trie as data structure, takes single words as input and construct a dictionary with probability.
