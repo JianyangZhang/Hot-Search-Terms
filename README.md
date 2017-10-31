@@ -19,7 +19,7 @@ With the word "best" being inserted, "bost", "bast", "bist", "bust" etc. will al
 `mysql> create database tp;`<br/>
 `mysql> use tp;`<br/>
 `mysql> create table LanguageModel(starter varchar(250), follower varchar(250), probability int);`<br/>
-`mysql> grant all on \*.\* to "root"@"%" identified by "123456";`<br/>
+`mysql> grant all on *.* to "root"@"%" identified by "123456";`<br/>
 `mysql> flush privileges;`<br/>
 
 ![tp1](https://cloud.githubusercontent.com/assets/22739177/21748178/f31d7eda-d532-11e6-8990-3459fb19bfe3.PNG)
@@ -33,7 +33,7 @@ With the word "best" being inserted, "bost", "bast", "bist", "bust" etc. will al
 ![tp2](https://cloud.githubusercontent.com/assets/22739177/21748179/f334987c-d532-11e6-8e1f-00c01b09796f.PNG)
 
 **<h3><ins>Run the project:</ins></h3>**
-`Usage: hadoop jar \<jar file\> \<main class name\> \<input dir\> \<output dir\> [GRAM_NUMBER] [THRESHOLD] [TOP_K]`<br/>
+`Usage: hadoop jar <jar file> <main class name> <input dir> <output dir> [GRAM_NUMBER] [THRESHOLD] [TOP_K]`<br/>
 Ex: hadoop jar TextPrediction.jar com.textprediction.ngramlm.Dispatcher /trainingdata /ngram 5 5 5<br/>
 
 *GRAM_NUMBER:* the number n of the n-gram; default 5;<br/>
