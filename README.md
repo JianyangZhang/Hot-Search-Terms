@@ -47,8 +47,8 @@ Ex: hadoop jar TextPrediction.jar com.textprediction.ngramlm.Dispatcher /trainin
 ![tp3](https://cloud.githubusercontent.com/assets/22739177/21748181/f339a3f8-d532-11e6-89f2-1983d254da05.PNG)
 
 **<h3><ins>The second MapReduce job produces a language model in MySQL database:</ins></h3>**
-`select \* from LanguageModel limit 50;`<br/>
-`select \* from LanguageModel into outfile '/tmp/generated-language-model/LanguageModel.out';`<br/>
+`select * from LanguageModel limit 50;`<br/>
+`select * from LanguageModel into outfile '/tmp/generated-language-model/LanguageModel.out';`<br/>
 
 ![tp4](https://cloud.githubusercontent.com/assets/22739177/21748180/f339a556-d532-11e6-9968-aa9cc21e48a0.PNG)
 
