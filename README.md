@@ -46,7 +46,7 @@ hdfs dfs -get /ngram/part-r-* ./generated-n-gram-library/<br/>
 
 ![tp3](https://cloud.githubusercontent.com/assets/22739177/21748181/f339a3f8-d532-11e6-89f2-1983d254da05.PNG)
 
-**<h2>The second mapreduce job produces a language model looks like this in MySQL database:</h2>**
+**<h2>The second mapreduce job produces a language model in MySQL database:</h2>**
 select \* from LanguageModel limit 50;<br/>
 select \* from LanguageModel into outfile '/tmp/generated-language-model/LanguageModel.out';<br/>
 
