@@ -64,7 +64,9 @@ Hello    2
 ```
 
 7. sync src
+
 本地目录: ~/src/
+
 hadoop master 目录 : /root/src/
 
 将代码copy到本地目录 ~/src/ 中
