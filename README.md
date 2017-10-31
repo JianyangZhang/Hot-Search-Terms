@@ -2,14 +2,14 @@
 https://github.com/JianyangZhang/Mini-Search-Engine
 
 **<h3><ins>Auto-completion:</ins></h3>**
-![show1](https://cloud.githubusercontent.com/assets/22739177/21952660/c13bd76e-d9d7-11e6-8b95-2e9a706b0dbc.PNG)
+<img src="https://user-images.githubusercontent.com/22739177/32244725-bef37ff4-be36-11e7-86fe-8567a8a9c6f6.PNG" height="170" width="550">
 The following words can be predicted along with the user's typing.
 The predictions are based on the probabilities in natural language that specific words usually appear after a given word or phrase.
 
 The auto-completion program firstly generates an n-gram library from training data, then builds a language model based on the n-gram library and stores the model to MySQL database. This language model can be used to predict the words after a given word or phrase. Details are shown in the following sections.
 
 **<h3><ins>Spell checking:</ins></h3>**
-<img src="https://user-images.githubusercontent.com/22739177/30788960-c4e79834-a156-11e7-8e2f-2ef417ab4490.png" height="180" width="550">
+<img src="https://user-images.githubusercontent.com/22739177/32244726-bf0e2c96-be36-11e7-8421-d7007c4f3be4.PNG" height="160" width="550">
 The most regular function search engines provide. When a user's input may have typo, it suggests the correct spelling.
 
 The spell checking program uses a Trie as data structure, takes single words as input and construct a dictionary with probability.
