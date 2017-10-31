@@ -1,4 +1,4 @@
-**<h3><ins>Mini Search Engine in Docker:</ins></h3>**
+**<h3><ins>Mini search engine in Docker:</ins></h3>**
 https://github.com/JianyangZhang/Mini-Search-Engine
 
 **<h3><ins>Autocompletion:</ins></h3>**
@@ -8,7 +8,7 @@ The predictions are based on the probabilities in natural language that specific
 
 The autocompletion program firstly generates an n-gram library from training data, then builds a language model based on the n-gram library and stores the model to MySQL database. This language model can be used to predict the words after a given word or phrase. Details are shown in the following sections.
 
-**<h3><ins>Spell Checking:</ins></h3>**
+**<h3><ins>Spell checking:</ins></h3>**
 <img src="https://user-images.githubusercontent.com/22739177/30788960-c4e79834-a156-11e7-8e2f-2ef417ab4490.png" height="180" width="550">
 The most regular function search engines provide. When a user's input may have typo, it suggests the correct spelling.
 
