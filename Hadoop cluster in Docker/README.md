@@ -42,7 +42,7 @@ root@hadoop-master:~#
 ./start-hadoop.sh
 ```
 
-#####6. run wordcount
+6. run wordcount
 
 ```
 ./run-wordcount.sh
@@ -63,7 +63,7 @@ Hadoop    1
 Hello    2
 ```
 
-#### 7. sync src
+7. sync src
 
 本地目录: ~/src/
 
@@ -73,7 +73,7 @@ hadoop master 目录 : /root/src/
 
 之后只要在本地~/src/中修改编辑代码, 在容器内执行命令即可
 
-#### 8. 
+8. 
 
 相关便捷脚本:
 
