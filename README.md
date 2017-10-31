@@ -1,7 +1,7 @@
 **<h3><ins>Mini search engine in Docker:</ins></h3>**
 https://github.com/JianyangZhang/Mini-Search-Engine
 
-**<h3><ins>Autocompletion:</ins></h3>**
+**<h3><ins>Auto completion:</ins></h3>**
 ![show1](https://cloud.githubusercontent.com/assets/22739177/21952660/c13bd76e-d9d7-11e6-8b95-2e9a706b0dbc.PNG)
 The following words can be predicted along with the user's typing.
 The predictions are based on the probabilities in natural language that specific words usually appear after a given word or phrase.
