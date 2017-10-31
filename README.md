@@ -1,4 +1,4 @@
-**<h3>Mini Search Engine in Docker:</h3>** 
+**<h3>`Mini Search Engine in Docker:`</h3>**
 https://github.com/JianyangZhang/Mini-Search-Engine
 
 **<h3>Autocompletion:</h3>**
