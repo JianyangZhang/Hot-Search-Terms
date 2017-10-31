@@ -1,4 +1,6 @@
-Mini Search Engine in Docker: https://github.com/JianyangZhang/Mini-Search-Engine
+**<h2>Mini Search Engine in Docker:</h2>** 
+https://github.com/JianyangZhang/Mini-Search-Engine
+
 **<h2>Autocompletion:</h2>**
 ![show1](https://cloud.githubusercontent.com/assets/22739177/21952660/c13bd76e-d9d7-11e6-8b95-2e9a706b0dbc.PNG)
 The following words can be predicted along with the user's typing.
