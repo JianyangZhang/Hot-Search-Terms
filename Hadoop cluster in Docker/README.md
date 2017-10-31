@@ -64,13 +64,14 @@ Hello    2
 ```
 
 7. sync src
-本地目录: ~/src/
-hadoop master 目录 : /root/src/
-将代码copy到本地目录 ~/src/ 中, 但凡在该目录下的任何操作都会自动实时映射到 hadoop master 容器中的 /root/src/ 中
-之后只要在本地~/src/中修改编辑代码, 在容器内执行命令即可
+本地目录: ~/src/</br>
+hadoop master 目录 : /root/src/</br>
+将代码copy到本地目录 ~/src/ 中</br>
+但凡在该目录下的任何操作都会自动实时映射到 hadoop master 容器中的 /root/src/ 中</br>
+之后只要在本地~/src/中修改编辑代码, 在容器内执行命令即可</br>
 
 8. 
-相关便捷脚本:
-<1> ./build_image.sh 构建你的新镜像 ( 修改 Dockerfile 后 )
-<2> ./enter_master_bash.sh  进入hadoop_master 容器
-<3> ./delete_all_container.sh  清空所有docker容器
+相关便捷脚本:</br>
+<1> ./build_image.sh 构建你的新镜像 ( 修改 Dockerfile 后 )</br>
+<2> ./enter_master_bash.sh  进入hadoop_master 容器</br>
+<3> ./delete_all_container.sh  清空所有docker容器</br>
