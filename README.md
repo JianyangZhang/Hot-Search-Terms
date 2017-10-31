@@ -16,24 +16,24 @@ The spell checking program uses a Trie as data structure, takes single words as 
 With the word "best" being inserted, "bost", "bast", "bist", "bust" etc. will all point to "best" as the correct word. If "bust" is added later, it will overwrite the correct spelling of "best" to be "bust".
 
 **<h3><ins>Sample MySQL database setup:</ins></h3>**
-mysql> create database tp;<br/>
-mysql> use tp;<br/>
-mysql> create table LanguageModel(starter varchar(250), follower varchar(250), probability int);<br/>
-mysql> grant all on \*.\* to "root"@"%" identified by "123456";<br/>
-mysql> flush privileges;<br/>
+`mysql> create database tp;`<br/>
+`mysql> use tp;`<br/>
+`mysql> create table LanguageModel(starter varchar(250), follower varchar(250), probability int);`<br/>
+`mysql> grant all on \*.\* to "root"@"%" identified by "123456";`<br/>
+`mysql> flush privileges;`<br/>
 
 ![tp1](https://cloud.githubusercontent.com/assets/22739177/21748178/f31d7eda-d532-11e6-8990-3459fb19bfe3.PNG)
 
 **<h3><ins>Preparation in HDFS:</ins></h3>**
-hdfs dfs -mkdir /mysql<br/>
-hdfs dfs -put ./mysql-connector-java-5.1.39-bin.jar /mysql<br/>
-hdfs dfs -mkdir /trainingdata<br/>
-hdfs dfs -put ./trainingdata/* /trainingdata<br/>
+`hdfs dfs -mkdir /mysql`<br/>
+`hdfs dfs -put ./mysql-connector-java-5.1.39-bin.jar /mysql`<br/>
+`hdfs dfs -mkdir /trainingdata`<br/>
+`hdfs dfs -put ./trainingdata/* /trainingdata`<br/>
 
 ![tp2](https://cloud.githubusercontent.com/assets/22739177/21748179/f334987c-d532-11e6-8e1f-00c01b09796f.PNG)
 
 **<h3><ins>Run the project:</ins></h3>**
-Usage: hadoop jar \<jar file\> \<main class name\> \<input dir\> \<output dir\> [GRAM_NUMBER] [THRESHOLD] [TOP_K]<br/>
+`Usage: hadoop jar \<jar file\> \<main class name\> \<input dir\> \<output dir\> [GRAM_NUMBER] [THRESHOLD] [TOP_K]`<br/>
 Ex: hadoop jar TextPrediction.jar com.textprediction.ngramlm.Dispatcher /trainingdata /ngram 5 5 5<br/>
 
 *GRAM_NUMBER:* the number n of the n-gram; default 5;<br/>
@@ -41,19 +41,19 @@ Ex: hadoop jar TextPrediction.jar com.textprediction.ngramlm.Dispatcher /trainin
 *TOP_K:* only show the top k predictions based on their probabilities; default 5;<br/>
 
 **<h3><ins>Check the first MapReduce job results that generate an n-gram library:</ins></h3>**
-hdfs dfs -ls /ngram<br/>
-hdfs dfs -get /ngram/part-r-* ./generated-n-gram-library/<br/>
+`hdfs dfs -ls /ngram`<br/>
+`hdfs dfs -get /ngram/part-r-* ./generated-n-gram-library/`<br/>
 
 ![tp3](https://cloud.githubusercontent.com/assets/22739177/21748181/f339a3f8-d532-11e6-89f2-1983d254da05.PNG)
 
 **<h3><ins>The second MapReduce job produces a language model in MySQL database:</ins></h3>**
-select \* from LanguageModel limit 50;<br/>
-select \* from LanguageModel into outfile '/tmp/generated-language-model/LanguageModel.out';<br/>
+`select \* from LanguageModel limit 50;`<br/>
+`select \* from LanguageModel into outfile '/tmp/generated-language-model/LanguageModel.out';`<br/>
 
 ![tp4](https://cloud.githubusercontent.com/assets/22739177/21748180/f339a556-d532-11e6-9968-aa9cc21e48a0.PNG)
 
 **<h3><ins>Sample predictions:</ins></h3>**
-mysql> select * from LanguageModel where starter like 'input%' order by probability desc limit x;<br/>
+`mysql> select * from LanguageModel where starter like 'input%' order by probability desc limit x;`<br/>
 
 &nbsp;&nbsp;user input <b>*would*</b>, predictions are<br/>
 
