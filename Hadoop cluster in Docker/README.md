@@ -73,8 +73,8 @@ hadoop master 目录 : /root/src/
 
 之后只要在本地~/src/中修改编辑代码, 在容器内执行命令即可
 
-8. 相关便捷脚本:
-
+8. 
+相关便捷脚本:
 1. ./build_image.sh 构建你的新镜像 ( 修改 Dockerfile 后 )
 2. ./enter_master_bash.sh  进入hadoop_master 容器
 3. ./delete_all_container.sh  清空所有docker容器
