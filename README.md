@@ -69,4 +69,4 @@ mysql> select * from LanguageModel where starter like 'input%' order by probabil
 ![trietreeshow](https://user-images.githubusercontent.com/22739177/30946501-48738852-a3b9-11e7-81eb-dce0a384f253.PNG)
 
 **<h2>Notes: </h2>**
-In this project, I used trie tree for spell checking only. The phrase recommendation module, for the purpose of practice, is implemented by storing language model in database then quering SQL. However, the SQL operation "like" is expensive! In real search engines, all of these functions are implemented by "distributed trie trees". In other word, they store all language models in trie trees.
+In this project, I used trie tree for spell checking only. The phrase recommendation module, for the purpose of practice, is implemented by storing language model in database then quering SQL. However, the SQL operation "like" is expensive! Behind real search engines, all of these functions are implemented by "distributed trie trees". In other word, they store all language models in trie trees.
