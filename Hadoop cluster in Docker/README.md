@@ -4,7 +4,6 @@
 
 ```
 sudo docker pull joway/hadoop-cluster
-
 ```
 
 #####2. clone github repository
