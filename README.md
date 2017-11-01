@@ -65,7 +65,7 @@ Ex: hadoop jar TextPrediction.jar com.textprediction.ngramlm.Dispatcher /trainin
 
 ![tp6](https://cloud.githubusercontent.com/assets/22739177/21748182/f33a017c-d532-11e6-85f2-0d791087da9b.PNG)<br/>
 
-**<h3><ins>Spell checking Trie tree structure:</ins></h3>**
+**<h3><ins>The Trie tree structure for spell checking:</ins></h3>**
 ![trietreeshow](https://user-images.githubusercontent.com/22739177/30946501-48738852-a3b9-11e7-81eb-dce0a384f253.PNG)
 
 **<h3><ins>Notes:</ins></h3>**
